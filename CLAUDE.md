@@ -8,11 +8,12 @@ Esta carpeta es una productora de vídeos *faceless* que lleva Claude para el us
 
 Si la memoria automática de Claude Code en este ordenador está vacía o es más antigua, copia a ella los archivos de `memoria_claude/`. Si la guardas de nuevo, actualiza también esta carpeta, que es la que viaja entre ordenadores.
 
-## GitHub (copia privada para verlo desde cualquier sitio)
-- Repositorio PRIVADO: https://github.com/MaletaLista79/productora-ticket-medio (cuenta de GitHub del usuario: MaletaLista79).
+## GitHub (repositorio PÚBLICO: lo ve cualquiera; decisión del usuario del 28/09/2026)
+- https://github.com/ticketmedio/productora-ticket-medio (cuenta de GitHub del proyecto: ticketmedio; gh ya tiene la sesión iniciada).
 - Al empezar cada sesión: `git pull`. Al terminar cada trabajo importante: `git add -A`, `git commit` y `git push`.
-- `.gitignore` deja fuera las claves (`config/claves.txt`), el navegador, `node_modules`, los vídeos (.mp4), las voces y los clips. NUNCA subas claves: antes de cada subida, comprueba con `git ls-files` que no aparezca `config/claves.txt`.
-- En otro ordenador: `git clone` del repositorio + `INSTALAR_EN_ESTE_ORDENADOR.bat` + crear `config/claves.txt` a mano (no está en GitHub).
+- Al ser PÚBLICO, NUNCA se sube: claves (`config/`), música de la Biblioteca de audio de YouTube, audios, vídeos, PDF descargados, ni fotogramas o transcripciones de vídeos de otros canales (`referencia_*`). Todo eso está en `.gitignore`: antes de cada subida, comprueba con `git ls-files` que no se cuela nada. Tampoco datos personales del usuario.
+- En otro ordenador: `git clone` + `INSTALAR_EN_ESTE_ORDENADOR.bat` + crear `config/claves.txt` a mano + volver a poner la música de la Biblioteca de audio de YouTube en `musica/`.
+- Queda una copia antigua PRIVADA en MaletaLista79/productora-ticket-medio, que ya no se usa.
 
 ## Al empezar cada sesión
 - Ejecuta `python web/claude_sala.py novedades` y contesta a lo que haya escrito el usuario en la Sala de Producción.

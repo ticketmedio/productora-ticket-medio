@@ -30,7 +30,7 @@ metadata:
 
 **Referencias de monetización estudiadas (28/09):** vídeos de Adrián Sáenz con Eric Alanis (mi2wUjaNUtI) y de Eric Alanis (o_dfR53Vrgs); informe en youtube/estudio_nicho/referencia_monetizacion/INFORME.md. Venden Viralyt/consultoría; «monetizado en 5 días» es un caso escogido; hablan de 4.000 h (desfasado). Adoptado: título y miniatura ANTES del guion (sin protagonista conocido + tensión, no hay vídeo); mirar estructuras que funcionan en inglés (1of10 gratis) sin copiar guiones; tener 3–4 vídeos de colchón; documentar la aportación propia de cada vídeo por si YouTube revisa el canal; probar algún vídeo de 20–25 min.
 
-**GitHub (28/09):** todo el proyecto (sin claves, vídeos, voces ni navegador) está en el repositorio PRIVADO https://github.com/MaletaLista79/productora-ticket-medio. `git pull` al empezar y `git add -A` + `git commit` + `git push` al terminar cada trabajo.
+**GitHub (28/09):** repositorio PÚBLICO (lo pidió el usuario tras avisarle de los riesgos) https://github.com/ticketmedio/productora-ticket-medio, en la cuenta del proyecto. Fuera: claves, música, audios, vídeos, PDF y material de otros canales. `git pull` al empezar y `git add -A` + `git commit` + `git push` al terminar cada trabajo.
 
 **Limpieza automática (desde el 28/09, a petición del usuario):** Claude borra las carpetas ya publicadas con `herramientas/limpiar_publicados.py` (se ejecuta al empezar cada sesión; registro en `archivo/publicaciones.json`; borra el día DESPUÉS de la última publicación y copia antes los textos a `archivo/`). Al programar cada vídeo nuevo, añadirlo al registro. **El usuario no tiene acceso los viernes por la tarde:** las tareas de «después de publicar» (fijar el comentario) van el lunes siguiente.
 
