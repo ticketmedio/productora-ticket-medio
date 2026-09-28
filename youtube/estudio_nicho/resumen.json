@@ -1,0 +1,2039 @@
+{
+ "economia_cotidiana": {
+  "videos_en_busquedas": 170,
+  "recientes_6m": 95,
+  "recientes_flojos_<500": 42,
+  "canales_distintos_flojos": 40,
+  "top10": [
+   {
+    "titulo": "¡Empezar tu carrera en Lidl vale la pena! Begin in Lidl | Lidl España",
+    "visitas": 998991,
+    "canal": "Lidl España",
+    "hace": "hace 8 m",
+    "duracion": "0:51"
+   },
+   {
+    "titulo": "NUNCA JAMÁS VOLVERÁS A TENER DUDAS: ¿QUÉ DIFERENCIA HAY ENTRE CARBURANTES y QUÉ PASA SI LOS MEZCLAS?",
+    "visitas": 658423,
+    "canal": "carwow.es",
+    "hace": "hace 5 m",
+    "duracion": "22:47"
+   },
+   {
+    "titulo": "🤯 10 Trucos que usan los Supermercados para Vender Más 🧠",
+    "visitas": 585332,
+    "canal": "Negocios y Emprendimiento",
+    "hace": "hace 9 a",
+    "duracion": "3:36"
+   },
+   {
+    "titulo": "¿CUÁL ES EL SUPERMERCADO MÁS CARO DE ESPAÑA?",
+    "visitas": 549187,
+    "canal": "Delacruzphto",
+    "hace": "hace 1 a",
+    "duracion": "10:45"
+   },
+   {
+    "titulo": "Cómo Este Supermercado CONTROLA un País ENTERO",
+    "visitas": 479751,
+    "canal": "qash",
+    "hace": "hace 4 m",
+    "duracion": "22:24"
+   },
+   {
+    "titulo": "ARAMCO AVISA: EUROPA SE QUEDA SIN SU SUMINISTRO EN OCTUBRE",
+    "visitas": 405649,
+    "canal": "carwow.es",
+    "hace": "hace 5 d",
+    "duracion": "11:29"
+   },
+   {
+    "titulo": "¿Qué LE HA PASADO a El Corte Inglés?",
+    "visitas": 392428,
+    "canal": "Rimembah",
+    "hace": "hace 6 d",
+    "duracion": "42:09"
+   },
+   {
+    "titulo": "EL GASOIL POR LAS NUBES: SHOCK DE OFERTA y DEMANDA - ¿HASTA DÓNDE Y HASTA CUÁNDO PUEDE ESTO LLEGAR?",
+    "visitas": 353832,
+    "canal": "carwow.es",
+    "hace": "hace 10 d",
+    "duracion": "11:31"
+   },
+   {
+    "titulo": "🥝 ¿Es Posible Productos de Alta Calidad y Precios Bajos? | Caso Mercadona",
+    "visitas": 322623,
+    "canal": "Emprende Aprendiendo",
+    "hace": "hace 7 a",
+    "duracion": "11:07"
+   },
+   {
+    "titulo": "El sistema que hace imposible copiar a Zara",
+    "visitas": 283581,
+    "canal": "Bruno Peluch | Historias de Empresas Españolas",
+    "hace": "hace 2 m",
+    "duracion": "10:49"
+   }
+  ],
+  "mediana_top10": 442700.0,
+  "edad_media_top10_meses": 22.4,
+  "outliers": [
+   {
+    "nicho": "economia_cotidiana",
+    "canal": "Demand Lab | Diego Guerrero ",
+    "handle": "@DemandLab1",
+    "suscriptores": 2440,
+    "num_videos": 7,
+    "mediana_visitas": 21000,
+    "mejor_12m": "¿Cuánto le queda a El Corte Inglés?",
+    "visitas_mejor_12m": 201000,
+    "hace_mejor": "hace 1 m",
+    "ratio_mejor": 82.4,
+    "ratio_mediana": 8.61,
+    "videos_ult_3m": 7,
+    "canal_nuevo": true
+   },
+   {
+    "nicho": "economia_cotidiana",
+    "canal": "Bruno Peluch | Historias de Empresas Españolas",
+    "handle": "@BrunoPeluch",
+    "suscriptores": 5710,
+    "num_videos": 227,
+    "mediana_visitas": 31500,
+    "mejor_12m": "El sistema que hace imposible copiar a Zara",
+    "visitas_mejor_12m": 283000,
+    "hace_mejor": "hace 2 m",
+    "ratio_mejor": 49.6,
+    "ratio_mediana": 5.52,
+    "videos_ult_3m": 14,
+    "canal_nuevo": true
+   },
+   {
+    "nicho": "economia_cotidiana",
+    "canal": "qash",
+    "handle": "@qashYouTube",
+    "suscriptores": 17400,
+    "num_videos": 8,
+    "mediana_visitas": 123000,
+    "mejor_12m": "Cómo Este Supermercado CONTROLA un País ENTERO",
+    "visitas_mejor_12m": 479000,
+    "hace_mejor": "hace 4 m",
+    "ratio_mejor": 27.5,
+    "ratio_mediana": 7.07,
+    "videos_ult_3m": 6,
+    "canal_nuevo": true
+   },
+   {
+    "nicho": "economia_cotidiana",
+    "canal": "Raíz Española",
+    "handle": "@Ra%C3%ADz_Espa%C3%B1ola",
+    "suscriptores": 17800,
+    "num_videos": 149,
+    "mediana_visitas": 4100,
+    "mejor_12m": "15 Juguetes Españoles que Desaparecieron para Siempre",
+    "visitas_mejor_12m": 329000,
+    "hace_mejor": "hace 1 m",
+    "ratio_mejor": 18.5,
+    "ratio_mediana": 0.23,
+    "videos_ult_3m": 28,
+    "canal_nuevo": true
+   },
+   {
+    "nicho": "economia_cotidiana",
+    "canal": "Lo del Comer",
+    "handle": "@LodelComer",
+    "suscriptores": 28400,
+    "num_videos": 1300,
+    "mediana_visitas": 783,
+    "mejor_12m": "MERCADONA va a HUNDIR a los BARES de España (y me parece bien)",
+    "visitas_mejor_12m": 77000,
+    "hace_mejor": "hace 4 m",
+    "ratio_mejor": 2.7,
+    "ratio_mediana": 0.03,
+    "videos_ult_3m": 15,
+    "canal_nuevo": true
+   },
+   {
+    "nicho": "economia_cotidiana",
+    "canal": "EasyGas",
+    "handle": "@EasyGas",
+    "suscriptores": 74800,
+    "num_videos": 1000,
+    "mediana_visitas": 23000,
+    "mejor_12m": "🇨🇳 China está dejando de consumir gasolina… y la mayor petrolera del mundo ya se prepara",
+    "visitas_mejor_12m": 159000,
+    "hace_mejor": "hace 2 sem.",
+    "ratio_mejor": 2.1,
+    "ratio_mediana": 0.31,
+    "videos_ult_3m": 30,
+    "canal_nuevo": false
+   }
+  ],
+  "canales_pequenos_con_video_>=3x_subs": 4,
+  "canales_analizados": 19
+ },
+ "vivienda": {
+  "videos_en_busquedas": 150,
+  "recientes_6m": 43,
+  "recientes_flojos_<500": 6,
+  "canales_distintos_flojos": 6,
+  "top10": [
+   {
+    "titulo": "Simón Pérez y Silvia Charro: ¿Por qué las hipotecas fijas son tan convenientes?",
+    "visitas": 6309585,
+    "canal": "Periodista Digital",
+    "hace": "hace 8 a",
+    "duracion": "8:35"
+   },
+   {
+    "titulo": "La solución a los okupas. La ley rumana.",
+    "visitas": 3429374,
+    "canal": "Bel303",
+    "hace": "hace 6 a",
+    "duracion": "0:29"
+   },
+   {
+    "titulo": "✅ HIPOTECAS: Todo lo que tienes que saber ANTES y DESPUÉS de pedir una hipoteca",
+    "visitas": 1501691,
+    "canal": "Memorias de Tiburón",
+    "hace": "hace 3 a",
+    "duracion": "13:57"
+   },
+   {
+    "titulo": "Experta en Hipotecas: Cómo conseguir la mejor Financiación para tu Casa | Montse Cespedosa",
+    "visitas": 908942,
+    "canal": "Javi Linares",
+    "hace": "hace 2 a",
+    "duracion": "32:48"
+   },
+   {
+    "titulo": "Maricarmen y la gran hipocresía de la que nadie habla",
+    "visitas": 573744,
+    "canal": "Juan Ramón Rallo",
+    "hace": "hace 3 d",
+    "duracion": "29:10"
+   },
+   {
+    "titulo": "La burbuja inmobiliaria está a punto de explotar, explicado con plátanos",
+    "visitas": 570484,
+    "canal": "Los Ecomonos",
+    "hace": "hace 3 sem.",
+    "duracion": "11:42"
+   },
+   {
+    "titulo": "Qué es una hipoteca explicado con plátanos",
+    "visitas": 401981,
+    "canal": "Los Ecomonos",
+    "hace": "hace 1 a",
+    "duracion": "2:31"
+   },
+   {
+    "titulo": "URGENTE SEPT 2026 💣​ ¡El Mercado de la Vivienda se Rompe en TRES!",
+    "visitas": 386079,
+    "canal": "Edu Saz",
+    "hace": "hace 1 m",
+    "duracion": "17:17"
+   },
+   {
+    "titulo": "Experto en vivienda revela cuándo explotará la burbuja inmobiliaria - Luis | Podcast #97",
+    "visitas": 373848,
+    "canal": "Libertad Inmobiliaria y El Hombre de los Datos",
+    "hace": "hace 9 m",
+    "duracion": "1:21:03"
+   },
+   {
+    "titulo": "La nueva Ley de Vivienda destrozará el mercado del alquiler en España",
+    "visitas": 352828,
+    "canal": "Juan Ramón Rallo",
+    "hace": "hace 3 a",
+    "duracion": "18:59"
+   }
+  ],
+  "mediana_top10": 572114.0,
+  "edad_media_top10_meses": 28.7,
+  "outliers": [
+   {
+    "nicho": "vivienda",
+    "canal": "JORDI LLÀTZER",
+    "handle": "@JordiLlatzerINVERSI%C3%93N",
+    "suscriptores": 59500,
+    "num_videos": 73,
+    "mediana_visitas": 32000,
+    "mejor_12m": "Si No Entiendes La Deuda, Nunca Serás Rico",
+    "visitas_mejor_12m": 545000,
+    "hace_mejor": "hace 1 m",
+    "ratio_mejor": 9.2,
+    "ratio_mediana": 0.54,
+    "videos_ult_3m": 30,
+    "canal_nuevo": false
+   },
+   {
+    "nicho": "vivienda",
+    "canal": "Edu Saz",
+    "handle": "@Edu_saz",
+    "suscriptores": 64000,
+    "num_videos": 355,
+    "mediana_visitas": 58000,
+    "mejor_12m": "URGENTE SEPT 2026 💣​ ¡El Mercado de la Vivienda se Rompe en TRES!",
+    "visitas_mejor_12m": 386000,
+    "hace_mejor": "hace 1 m",
+    "ratio_mejor": 6.0,
+    "ratio_mediana": 0.91,
+    "videos_ult_3m": 14,
+    "canal_nuevo": true
+   },
+   {
+    "nicho": "vivienda",
+    "canal": "Economía Ilustrada",
+    "handle": "@ilustrada_economia",
+    "suscriptores": 53400,
+    "num_videos": 31,
+    "mediana_visitas": 68000,
+    "mejor_12m": "VIVIENDA en ESPAÑA - ¿Por qué NO se puede arreglar?",
+    "visitas_mejor_12m": 230000,
+    "hace_mejor": "hace 4 m",
+    "ratio_mejor": 4.3,
+    "ratio_mediana": 1.27,
+    "videos_ult_3m": 13,
+    "canal_nuevo": false
+   },
+   {
+    "nicho": "vivienda",
+    "canal": "Montse Cespedosa",
+    "handle": "@montsecespedosa",
+    "suscriptores": 75300,
+    "num_videos": 921,
+    "mediana_visitas": 23000,
+    "mejor_12m": "URGENTE ⭕️ CAMBIOS DE ÚLTIMA HORA EN HIPOTECAS ",
+    "visitas_mejor_12m": 120000,
+    "hace_mejor": "hace 3 sem.",
+    "ratio_mejor": 1.6,
+    "ratio_mediana": 0.31,
+    "videos_ult_3m": 19,
+    "canal_nuevo": false
+   },
+   {
+    "nicho": "vivienda",
+    "canal": "Bel303",
+    "handle": "@bel303",
+    "suscriptores": 1620,
+    "num_videos": 4,
+    "mediana_visitas": 374,
+    "mejor_12m": "",
+    "visitas_mejor_12m": 0,
+    "hace_mejor": "",
+    "ratio_mejor": 0.0,
+    "ratio_mediana": 0.23,
+    "videos_ult_3m": 0,
+    "canal_nuevo": false
+   }
+  ],
+  "canales_pequenos_con_video_>=3x_subs": 3,
+  "canales_analizados": 20
+ },
+ "energia": {
+  "videos_en_busquedas": 154,
+  "recientes_6m": 28,
+  "recientes_flojos_<500": 13,
+  "canales_distintos_flojos": 13,
+  "top10": [
+   {
+    "titulo": "Cómo entender tu factura de la luz: Los 7 datos clave explicados paso a paso | Endesa",
+    "visitas": 1976512,
+    "canal": "Canal Endesa",
+    "hace": "hace 2 sem.",
+    "duracion": "1:28"
+   },
+   {
+    "titulo": "La verdad sobre cuánto cuesta CARGAR un COCHE ELÉCTRICO",
+    "visitas": 1808844,
+    "canal": "Borja - Academia Energía Solar",
+    "hace": "hace 3 m",
+    "duracion": "19:08"
+   },
+   {
+    "titulo": "🌎 APAGÓN en ESPAÑA explicado EN MINECRAFT",
+    "visitas": 1675023,
+    "canal": "Bobicraft",
+    "hace": "hace 1 a",
+    "duracion": "11:58"
+   },
+   {
+    "titulo": "¿QUÉ PASÓ realmente en el GRAN APAGÓN de España? El análisis que NECESITAS de Operador Nuclear",
+    "visitas": 1021423,
+    "canal": "The Wild Project",
+    "hace": "hace 1 a",
+    "duracion": "15:00"
+   },
+   {
+    "titulo": "✅ El GRAN APAGÓN explicado en 10 minutos | ¿Por qué ha ocurrido?",
+    "visitas": 978782,
+    "canal": "Memorias de Pez",
+    "hace": "hace 1 a",
+    "duracion": "11:59"
+   },
+   {
+    "titulo": "APAGÓN TOTAL en ESPAÑA 💡 ANÁLISIS de EXPERTO ⚡ Xokas ft. @HRom",
+    "visitas": 897017,
+    "canal": "elxokas",
+    "hace": "hace 1 a",
+    "duracion": "25:43"
+   },
+   {
+    "titulo": "APAGÓN DE ESPAÑA EN 30 SEGUNDOS",
+    "visitas": 654911,
+    "canal": "Zorman",
+    "hace": "hace 1 a",
+    "duracion": "2:06"
+   },
+   {
+    "titulo": "El Sistema que Hace que el Precio de la Luz esté Altísimo",
+    "visitas": 628624,
+    "canal": "QuantumFracture",
+    "hace": "hace 4 a",
+    "duracion": "12:50"
+   },
+   {
+    "titulo": "¿Fue rentable invertir en paneles solares?",
+    "visitas": 612989,
+    "canal": "David Ávila",
+    "hace": "hace 7 m",
+    "duracion": "26:50"
+   },
+   {
+    "titulo": "Si tienes la TARIFA REGULADA (PVPC) haz un CAMBIO RADICAL en tu FACTURA DE LUZ",
+    "visitas": 561496,
+    "canal": "Domo Electra Manuel Amate",
+    "hace": "hace 4 a",
+    "duracion": "17:04"
+   }
+  ],
+  "mediana_top10": 937899.5,
+  "edad_media_top10_meses": 16.6,
+  "outliers": [
+   {
+    "nicho": "energia",
+    "canal": "Canal Endesa",
+    "handle": "@CanalEndesa",
+    "suscriptores": 45100,
+    "num_videos": 1500,
+    "mediana_visitas": 1750,
+    "mejor_12m": "¿Cuánto cuesta cargar un coche eléctrico en casa? ⚡🚗",
+    "visitas_mejor_12m": 880000,
+    "hace_mejor": "hace 2 m",
+    "ratio_mejor": 19.5,
+    "ratio_mediana": 0.04,
+    "videos_ult_3m": 30,
+    "canal_nuevo": false
+   },
+   {
+    "nicho": "energia",
+    "canal": "FER",
+    "handle": "@FERalvarezdelvayo",
+    "suscriptores": 11700,
+    "num_videos": 204,
+    "mediana_visitas": 5900,
+    "mejor_12m": "Xiaomi traerá sus coches a Europa en 2027 con una estrategia que NO gustará a muchos",
+    "visitas_mejor_12m": 38000,
+    "hace_mejor": "hace 3 sem.",
+    "ratio_mejor": 3.2,
+    "ratio_mediana": 0.5,
+    "videos_ult_3m": 5,
+    "canal_nuevo": false
+   },
+   {
+    "nicho": "energia",
+    "canal": "Autopromotor info",
+    "handle": "@autopromotorinfo",
+    "suscriptores": 29000,
+    "num_videos": 70,
+    "mediana_visitas": 7250,
+    "mejor_12m": "👨‍👨‍👧‍👧 Guía para Comprar un Terreno y Construir una Casa en España (Paso a Paso)",
+    "visitas_mejor_12m": 63000,
+    "hace_mejor": "hace 1 a",
+    "ratio_mejor": 2.2,
+    "ratio_mediana": 0.25,
+    "videos_ult_3m": 0,
+    "canal_nuevo": false
+   },
+   {
+    "nicho": "energia",
+    "canal": "Energia Racional",
+    "handle": "@energiaracional",
+    "suscriptores": 29500,
+    "num_videos": 41,
+    "mediana_visitas": 17000,
+    "mejor_12m": "APAGÓN ELÉCTRICO. LA SOLUCIÓN",
+    "visitas_mejor_12m": 46000,
+    "hace_mejor": "hace 1 a",
+    "ratio_mejor": 1.6,
+    "ratio_mediana": 0.58,
+    "videos_ult_3m": 1,
+    "canal_nuevo": false
+   }
+  ],
+  "canales_pequenos_con_video_>=3x_subs": 2,
+  "canales_analizados": 20
+ },
+ "bancos_estafas": {
+  "videos_en_busquedas": 147,
+  "recientes_6m": 19,
+  "recientes_flojos_<500": 12,
+  "canales_distintos_flojos": 12,
+  "top10": [
+   {
+    "titulo": "Aprende a identificar un SMS de estafa",
+    "visitas": 1973621,
+    "canal": "SantanderChile",
+    "hace": "hace 5 a",
+    "duracion": "1:50"
+   },
+   {
+    "titulo": "TIMÉ a las MAYORES ESTAFADORAS de PARÍS",
+    "visitas": 1733395,
+    "canal": "BCN A PIE DE CALLE",
+    "hace": "hace 1 a",
+    "duracion": "8:12"
+   },
+   {
+    "titulo": "9 TRUCOS que los BANCOS NO QUIEREN QUE SEPAS",
+    "visitas": 1441745,
+    "canal": "Finanzas para todos",
+    "hace": "hace 4 a",
+    "duracion": "18:30"
+   },
+   {
+    "titulo": "💲sistema de dinero -El dinero explicado/NETFLIX Documental sobre finanzas",
+    "visitas": 1218026,
+    "canal": "UN POCO MEJOR",
+    "hace": "hace 4 a",
+    "duracion": "1:39:38"
+   },
+   {
+    "titulo": "Avoid These 14 Tourist SCAMS In Spain!",
+    "visitas": 791523,
+    "canal": "Naick & Kim",
+    "hace": "hace 2 m",
+    "duracion": "17:20"
+   },
+   {
+    "titulo": "La estafa del hijo en apuros: Papá, ¿me puedes mandar dinero?",
+    "visitas": 587039,
+    "canal": "bankinter",
+    "hace": "hace 1 a",
+    "duracion": "2:34"
+   },
+   {
+    "titulo": "¿Cómo GANARLE a los BANCOS? | Ex-Banquero Cuenta Los Secretos",
+    "visitas": 457205,
+    "canal": "Andres Garza",
+    "hace": "hace 3 a",
+    "duracion": "15:51"
+   },
+   {
+    "titulo": "Los SECRETOS que los BANCOS NO TE CUENTAN cuando DEJAS DE PAGAR un crédito.",
+    "visitas": 397873,
+    "canal": "Hogar Financiero ",
+    "hace": "hace 3 a",
+    "duracion": "9:20"
+   },
+   {
+    "titulo": "EXPONGO LA MAYOR ESTAFA DE EGIPTO 🇪🇬",
+    "visitas": 355098,
+    "canal": "Nobik Dil",
+    "hace": "hace 8 m",
+    "duracion": "27:59"
+   },
+   {
+    "titulo": "Como Usar a los Bancos para Invertir en tu Negocio - 5 Reglas de Oro 💰",
+    "visitas": 352301,
+    "canal": "Mi Portafolio y yo",
+    "hace": "hace 6 a",
+    "duracion": "6:00"
+   }
+  ],
+  "mediana_top10": 689281.0,
+  "edad_media_top10_meses": 33.4,
+  "outliers": [
+   {
+    "nicho": "bancos_estafas",
+    "canal": "SantanderChile",
+    "handle": "@SantanderChile",
+    "suscriptores": 92300,
+    "num_videos": 1200,
+    "mediana_visitas": 421,
+    "mejor_12m": "Contrata tu crédito de consumo 100% online",
+    "visitas_mejor_12m": 197000,
+    "hace_mejor": "hace 7 m",
+    "ratio_mejor": 2.1,
+    "ratio_mediana": 0.0,
+    "videos_ult_3m": 12,
+    "canal_nuevo": true
+   },
+   {
+    "nicho": "bancos_estafas",
+    "canal": "Hogar Financiero ",
+    "handle": "@HogarFinanciero",
+    "suscriptores": 26600,
+    "num_videos": 349,
+    "mediana_visitas": 180,
+    "mejor_12m": "POR QUÉ NO DEBERÍAS PEDIR UN CRÉDITO CON ADDI | #ADDI",
+    "visitas_mejor_12m": 36000,
+    "hace_mejor": "hace 1 a",
+    "ratio_mejor": 1.4,
+    "ratio_mediana": 0.01,
+    "videos_ult_3m": 2,
+    "canal_nuevo": true
+   },
+   {
+    "nicho": "bancos_estafas",
+    "canal": "bankinter",
+    "handle": "@bankinter",
+    "suscriptores": 29700,
+    "num_videos": 4000,
+    "mediana_visitas": 2200,
+    "mejor_12m": "¿Qué pasará la próxima semana en los mercados?  14-18 de  septiembre de 2026",
+    "visitas_mejor_12m": 8900,
+    "hace_mejor": "hace 2 sem.",
+    "ratio_mejor": 0.3,
+    "ratio_mediana": 0.07,
+    "videos_ult_3m": 29,
+    "canal_nuevo": true
+   }
+  ],
+  "canales_pequenos_con_video_>=3x_subs": 0,
+  "canales_analizados": 20
+ },
+ "impuestos_pensiones": {
+  "videos_en_busquedas": 137,
+  "recientes_6m": 26,
+  "recientes_flojos_<500": 3,
+  "canales_distintos_flojos": 3,
+  "top10": [
+   {
+    "titulo": "Como calcular el IVA Super facil - Para principiantes",
+    "visitas": 1140789,
+    "canal": "Daniel Carreón",
+    "hace": "hace 5 a",
+    "duracion": "4:38"
+   },
+   {
+    "titulo": "✅  ¿Por qué el SISTEMA DE PENSIONES es INSOSTENIBLE? | La crisis de las pensiones en 10 minutos",
+    "visitas": 635810,
+    "canal": "Memorias de Tiburón",
+    "hace": "hace 4 a",
+    "duracion": "12:12"
+   },
+   {
+    "titulo": "JUBILACIÓN con POCOS AÑOS COTIZADOS 😓",
+    "visitas": 552157,
+    "canal": "Laboroteca",
+    "hace": "hace 1 a",
+    "duracion": "8:19"
+   },
+   {
+    "titulo": "Economista explica a Jordi Wild por qué pagamos demasiados impuestos en España y el uso que tienen",
+    "visitas": 474395,
+    "canal": "The Wild Project",
+    "hace": "hace 5 a",
+    "duracion": "11:20"
+   },
+   {
+    "titulo": "📌 TABLAS DE JUBILACIÓN 2026/2027 según el TIEMPO COTIZADO ",
+    "visitas": 406685,
+    "canal": "Laboroteca",
+    "hace": "hace 4 m",
+    "duracion": "8:02"
+   },
+   {
+    "titulo": "14 ESTRATEGIAS CON LAS QUE LOS RICOS NO PAGAN IMPUESTOS",
+    "visitas": 377704,
+    "canal": "Finanzas para todos",
+    "hace": "hace 2 a",
+    "duracion": "18:38"
+   },
+   {
+    "titulo": "¿Pueden las PENSIONES ARRUINAR a ESPAÑA?  - VisualEconomik",
+    "visitas": 371692,
+    "canal": "VisualEconomik",
+    "hace": "hace 3 a",
+    "duracion": "22:20"
+   },
+   {
+    "titulo": "Cálculo de la pensión: bases de cotización, base reguladora, ajuste por años de cotización...",
+    "visitas": 302422,
+    "canal": "BBVA Mi jubilación en España",
+    "hace": "hace 5 a",
+    "duracion": "1:56"
+   },
+   {
+    "titulo": "Sólo dicen la verdad fuera de la política: las pensiones son una estafa piramidal",
+    "visitas": 302299,
+    "canal": "Juan Ramón Rallo",
+    "hace": "hace 1 a",
+    "duracion": "10:00"
+   },
+   {
+    "titulo": "PORCENTAJE DE PENSIÓN, SEGÚN AÑOS COTIZADOS - Jubilación e Incapacidad",
+    "visitas": 270596,
+    "canal": "Laboroteca",
+    "hace": "hace 4 a",
+    "duracion": "5:01"
+   }
+  ],
+  "mediana_top10": 392194.5,
+  "edad_media_top10_meses": 36.4,
+  "outliers": [
+   {
+    "nicho": "impuestos_pensiones",
+    "canal": "Jubilación anticipada",
+    "handle": "@jubilacion-anticipada",
+    "suscriptores": 41100,
+    "num_videos": 105,
+    "mediana_visitas": 18000,
+    "mejor_12m": "57 AÑOS ➡️ Paga Convenio por mínimo VS deja el trabajo.",
+    "visitas_mejor_12m": 762000,
+    "hace_mejor": "hace 1 a",
+    "ratio_mejor": 18.5,
+    "ratio_mediana": 0.44,
+    "videos_ult_3m": 10,
+    "canal_nuevo": false
+   },
+   {
+    "nicho": "impuestos_pensiones",
+    "canal": "Guillermo Maravé",
+    "handle": "@GuillermoMarave",
+    "suscriptores": 28000,
+    "num_videos": 230,
+    "mediana_visitas": 4200,
+    "mejor_12m": "👉 Cómo hacer la DECLARACIÓN DE LA RENTA en 2026  ✅ Guía completa Paso a paso",
+    "visitas_mejor_12m": 145000,
+    "hace_mejor": "hace 5 m",
+    "ratio_mejor": 5.2,
+    "ratio_mediana": 0.15,
+    "videos_ult_3m": 9,
+    "canal_nuevo": false
+   },
+   {
+    "nicho": "impuestos_pensiones",
+    "canal": "Economía Ilustrada",
+    "handle": "@ilustrada_economia",
+    "suscriptores": 53400,
+    "num_videos": 31,
+    "mediana_visitas": 68000,
+    "mejor_12m": "VIVIENDA en ESPAÑA - ¿Por qué NO se puede arreglar?",
+    "visitas_mejor_12m": 230000,
+    "hace_mejor": "hace 4 m",
+    "ratio_mejor": 4.3,
+    "ratio_mediana": 1.27,
+    "videos_ult_3m": 13,
+    "canal_nuevo": false
+   },
+   {
+    "nicho": "impuestos_pensiones",
+    "canal": "Holded - Facturación y mucho más",
+    "handle": "@holded_",
+    "suscriptores": 10600,
+    "num_videos": 474,
+    "mediana_visitas": 103,
+    "mejor_12m": "La IA ya no sorprende: así hay que usarla ahora | Carlos Santana (@DotCSV)",
+    "visitas_mejor_12m": 25000,
+    "hace_mejor": "hace 1 m",
+    "ratio_mejor": 2.4,
+    "ratio_mediana": 0.01,
+    "videos_ult_3m": 30,
+    "canal_nuevo": false
+   },
+   {
+    "nicho": "impuestos_pensiones",
+    "canal": "BBVA Mi jubilación en España",
+    "handle": "@InstitutoBBVAdePensiones",
+    "suscriptores": 4500,
+    "num_videos": 150,
+    "mediana_visitas": 461,
+    "mejor_12m": "Cálculo de la pensión de jubilación en 2026",
+    "visitas_mejor_12m": 3900,
+    "hace_mejor": "hace 1 a",
+    "ratio_mejor": 0.9,
+    "ratio_mediana": 0.1,
+    "videos_ult_3m": 1,
+    "canal_nuevo": false
+   },
+   {
+    "nicho": "impuestos_pensiones",
+    "canal": "administraciontop",
+    "handle": "@administraciontop",
+    "suscriptores": 44500,
+    "num_videos": 1700,
+    "mediana_visitas": 8300,
+    "mejor_12m": "Congreso Da LUZ VERDE a la Jubilación ANTICIPADA 40 años Cotizados ¿Y ahora QUÉ? Proximos pasos",
+    "visitas_mejor_12m": 36000,
+    "hace_mejor": "hace 4 d",
+    "ratio_mejor": 0.8,
+    "ratio_mediana": 0.19,
+    "videos_ult_3m": 30,
+    "canal_nuevo": false
+   }
+  ],
+  "canales_pequenos_con_video_>=3x_subs": 3,
+  "canales_analizados": 20
+ },
+ "inversion": {
+  "videos_en_busquedas": 151,
+  "recientes_6m": 27,
+  "recientes_flojos_<500": 3,
+  "canales_distintos_flojos": 3,
+  "top10": [
+   {
+    "titulo": "¿Qué es la Bolsa? Como funciona la Bolsa de valores | La Bolsa para Principiantes",
+    "visitas": 8024429,
+    "canal": "La Bolsa para principiantes",
+    "hace": "hace 10 a",
+    "duracion": "9:20"
+   },
+   {
+    "titulo": "¿Cómo INVERTIR tu DINERO? | Guía Definitiva 2026",
+    "visitas": 2477541,
+    "canal": "Andres Garza",
+    "hace": "hace 2 a",
+    "duracion": "16:41"
+   },
+   {
+    "titulo": "APRENDE A INVERTIR desde cero - Nivel Básico (Curso completo)",
+    "visitas": 2455037,
+    "canal": "César Dabián Finanzas",
+    "hace": "hace 4 a",
+    "duracion": "26:35"
+   },
+   {
+    "titulo": "Interés compuesto | Ejemplo 1",
+    "visitas": 2252624,
+    "canal": "Matemáticas profe Alex",
+    "hace": "hace 5 a",
+    "duracion": "11:09"
+   },
+   {
+    "titulo": "Cómo Invertir En La Bolsa De Valores Para Principiantes | Guía Paso a Paso",
+    "visitas": 1663432,
+    "canal": "Adrián Sáenz",
+    "hace": "hace 3 a",
+    "duracion": "1:00:14"
+   },
+   {
+    "titulo": "APRENDE a INVERTIR en FONDOS INDEXADOS desde CERO (Curso Completo Gratis)",
+    "visitas": 1049535,
+    "canal": "Javi Linares",
+    "hace": "hace 3 a",
+    "duracion": "55:21"
+   },
+   {
+    "titulo": "✅ ¿Qué es la BOLSA y cómo funciona? Introducción a la BOLSA en 10 MINUTOS",
+    "visitas": 1026203,
+    "canal": "Memorias de Tiburón",
+    "hace": "hace 4 a",
+    "duracion": "10:07"
+   },
+   {
+    "titulo": "Esta es LA MEJOR forma de INVERTIR | Guía Completa ETF's",
+    "visitas": 990595,
+    "canal": "Andres Garza",
+    "hace": "hace 1 a",
+    "duracion": "23:15"
+   },
+   {
+    "titulo": "Mini Curso: Aprende a INVERTIR DESDE CERO | Lección 1",
+    "visitas": 898308,
+    "canal": "Luis Mi Negocios",
+    "hace": "hace 2 a",
+    "duracion": "6:59"
+   },
+   {
+    "titulo": "El ÚNICO Curso De INVERSIÓN Que Deberías Ver (Guía Paso a Paso Para Aprender a Invertir)",
+    "visitas": 871279,
+    "canal": "La Pizarra de Andrés",
+    "hace": "hace 2 a",
+    "duracion": "2:10:17"
+   }
+  ],
+  "mediana_top10": 1356483.5,
+  "edad_media_top10_meses": 43.2,
+  "outliers": [
+   {
+    "nicho": "inversion",
+    "canal": "Javi Sanchez",
+    "handle": "@javisanchez4444",
+    "suscriptores": 20300,
+    "num_videos": 52,
+    "mediana_visitas": 3400,
+    "mejor_12m": "",
+    "visitas_mejor_12m": 0,
+    "hace_mejor": "",
+    "ratio_mejor": 0.0,
+    "ratio_mediana": 0.17,
+    "videos_ult_3m": 0,
+    "canal_nuevo": false
+   }
+  ],
+  "canales_pequenos_con_video_>=3x_subs": 0,
+  "canales_analizados": 20
+ },
+ "coches": {
+  "videos_en_busquedas": 152,
+  "recientes_6m": 33,
+  "recientes_flojos_<500": 7,
+  "canales_distintos_flojos": 7,
+  "top10": [
+   {
+    "titulo": "CONCESIONARIO de $1 VS $1.000.000 en GTA 5",
+    "visitas": 16055941,
+    "canal": "Vista Gamer",
+    "hace": "hace 2 a",
+    "duracion": "18:15"
+   },
+   {
+    "titulo": "Como Revisar un Coche Usado -  Guia para Comprar un Coche de Segunda mano",
+    "visitas": 10769991,
+    "canal": "vicesat",
+    "hace": "hace 9 a",
+    "duracion": "16:20"
+   },
+   {
+    "titulo": "TRUCOS | Arreglar Gases, Ruidos, Humo, Lambda... Pasar la Revision al Coche (ITV)",
+    "visitas": 6003831,
+    "canal": "vicesat",
+    "hace": "hace 8 a",
+    "duracion": "11:07"
+   },
+   {
+    "titulo": "Antes de Comprar un Coche de Segunda mano mira esto | Cuando te la intentan colar",
+    "visitas": 3320570,
+    "canal": "vicesat",
+    "hace": "hace 9 a",
+    "duracion": "7:27"
+   },
+   {
+    "titulo": "RECONSTRUYENDO UN LAMBORGHINI SVJ ACCIDENTADO",
+    "visitas": 2835833,
+    "canal": "Mat Armstrong ES",
+    "hace": "hace 11 m",
+    "duracion": "50:45"
+   },
+   {
+    "titulo": "Idiotas Peligrosos Los Peores Fallos con Camiones y Equipos Pesados – Fails Épicos",
+    "visitas": 2794132,
+    "canal": "MÁQUINAS PODEROSAS",
+    "hace": "hace 1 a",
+    "duracion": "43:00"
+   },
+   {
+    "titulo": "COMPRAR UN BUEN COCHE POR 1000€ | Consejos para Comprar un Coche de Segunda Mano",
+    "visitas": 2423670,
+    "canal": "vicesat",
+    "hace": "hace 9 a",
+    "duracion": "10:40"
+   },
+   {
+    "titulo": "RECONSTRUÍ UN PORSCHE GT3RS DESTRUIDO EN 24 HORAS",
+    "visitas": 1887465,
+    "canal": "Mat Armstrong ES",
+    "hace": "hace 1 a",
+    "duracion": "56:27"
+   },
+   {
+    "titulo": "LOS PEORES AUTOS QUE PUEDES COMPRAR (menos confiables que sus rivales)",
+    "visitas": 1675017,
+    "canal": "Axiscar",
+    "hace": "hace 4 a",
+    "duracion": "11:46"
+   },
+   {
+    "titulo": "Fracasos Caros de Automóviles Superdeportivos Captados por las Cámaras",
+    "visitas": 1425040,
+    "canal": "#Refugio Mental",
+    "hace": "hace 1 a",
+    "duracion": "29:29"
+   }
+  ],
+  "mediana_top10": 2814982.5,
+  "edad_media_top10_meses": 53.9,
+  "outliers": [
+   {
+    "nicho": "coches",
+    "canal": "MÁQUINAS PODEROSAS",
+    "handle": "@M%C3%81QUINASPODEROSAS-v7f",
+    "suscriptores": 27300,
+    "num_videos": 73,
+    "mediana_visitas": 5750,
+    "mejor_12m": "Choques y Errores Más Impactantes de Barcos Captados en Cámara | Lo Mejor del Mes",
+    "visitas_mejor_12m": 496000,
+    "hace_mejor": "hace 11 m",
+    "ratio_mejor": 18.2,
+    "ratio_mediana": 0.21,
+    "videos_ult_3m": 2,
+    "canal_nuevo": false
+   },
+   {
+    "nicho": "coches",
+    "canal": "Marc Invierte",
+    "handle": "@MarcInvierte",
+    "suscriptores": 6790,
+    "num_videos": 62,
+    "mediana_visitas": 985,
+    "mejor_12m": "Nunca financies un coche así (te están robando)",
+    "visitas_mejor_12m": 28000,
+    "hace_mejor": "hace 2 m",
+    "ratio_mejor": 4.1,
+    "ratio_mediana": 0.15,
+    "videos_ult_3m": 28,
+    "canal_nuevo": true
+   },
+   {
+    "nicho": "coches",
+    "canal": "Volando La Mente",
+    "handle": "@VolandoLaMente",
+    "suscriptores": 84100,
+    "num_videos": 127,
+    "mediana_visitas": 60000,
+    "mejor_12m": "Estos Power Wheels MODIFICADOS son DEMASIADO RÁPIDOS! 🤯",
+    "visitas_mejor_12m": 309000,
+    "hace_mejor": "hace 7 m",
+    "ratio_mejor": 3.7,
+    "ratio_mediana": 0.71,
+    "videos_ult_3m": 20,
+    "canal_nuevo": true
+   },
+   {
+    "nicho": "coches",
+    "canal": "AUTOTEC",
+    "handle": "@AutotecOficial",
+    "suscriptores": 28300,
+    "num_videos": 310,
+    "mediana_visitas": 8000,
+    "mejor_12m": "🚫 3 SUVs CHINOS a evitar y ✅ 4 que sí valen la pena en 2027",
+    "visitas_mejor_12m": 88000,
+    "hace_mejor": "hace 1 m",
+    "ratio_mejor": 3.1,
+    "ratio_mediana": 0.28,
+    "videos_ult_3m": 30,
+    "canal_nuevo": false
+   },
+   {
+    "nicho": "coches",
+    "canal": "Axiscar",
+    "handle": "@axiscar",
+    "suscriptores": 36200,
+    "num_videos": 67,
+    "mediana_visitas": 9750,
+    "mejor_12m": "AQUÍ NO, JOVEN: 11 Autos que los Mecánicos SE NIEGAN a Arreglar",
+    "visitas_mejor_12m": 55000,
+    "hace_mejor": "hace 1 m",
+    "ratio_mejor": 1.5,
+    "ratio_mediana": 0.27,
+    "videos_ult_3m": 11,
+    "canal_nuevo": false
+   },
+   {
+    "nicho": "coches",
+    "canal": "Autocasión",
+    "handle": "@autocasioncom",
+    "suscriptores": 91200,
+    "num_videos": 1100,
+    "mediana_visitas": 10000,
+    "mejor_12m": "EBRO S400 Excellence 2025: un SUV híbrido bueno, bonito y ¿barato? | Review en español | #Autocasión",
+    "visitas_mejor_12m": 60000,
+    "hace_mejor": "hace 11 m",
+    "ratio_mejor": 0.7,
+    "ratio_mediana": 0.11,
+    "videos_ult_3m": 8,
+    "canal_nuevo": false
+   }
+  ],
+  "canales_pequenos_con_video_>=3x_subs": 4,
+  "canales_analizados": 20
+ },
+ "ia_trabajo": {
+  "videos_en_busquedas": 143,
+  "recientes_6m": 70,
+  "recientes_flojos_<500": 9,
+  "canales_distintos_flojos": 9,
+  "top10": [
+   {
+    "titulo": "Cómo Utilizar ChatGPT Para Principiantes | Tutorial 2026",
+    "visitas": 1426457,
+    "canal": "Adrián Sáenz",
+    "hace": "hace 2 a",
+    "duracion": "3:45:16"
+   },
+   {
+    "titulo": "CLAUDE EXPLICADO FÁCIL #ia #ai #inteligenciaartificial #chatgpt #bigdata #data #bilbao #llm",
+    "visitas": 1090597,
+    "canal": "maxmaxdata",
+    "hace": "hace 1 a",
+    "duracion": "2:28"
+   },
+   {
+    "titulo": "El Mejor Curso Gratis De Inteligencia Artificial",
+    "visitas": 1035810,
+    "canal": "Adrián Sáenz",
+    "hace": "hace 1 a",
+    "duracion": "23:00:52"
+   },
+   {
+    "titulo": "Cursos de Inteligencia Artificial GRATIS 2026 | Crea Agentes de IA que Trabajen por Ti",
+    "visitas": 1025516,
+    "canal": "Cursos de inteligencia artificial IA University  ",
+    "hace": "hace 1 a",
+    "duracion": "3:11:45"
+   },
+   {
+    "titulo": "CLAUDE CODE 2026: Curso Completo en Español (actualizado)",
+    "visitas": 849857,
+    "canal": "Benjamín Cordero",
+    "hace": "hace 1 m",
+    "duracion": "6:17:22"
+   },
+   {
+    "titulo": "CLAUDE CODE 2026: Curso Completo en Español",
+    "visitas": 789762,
+    "canal": "Benjamín Cordero",
+    "hace": "hace 6 m",
+    "duracion": "3:24:50"
+   },
+   {
+    "titulo": "🚀 Curso Completo de ChatGPT 2025: De Principiante a Experto",
+    "visitas": 774577,
+    "canal": "Pedro SEO",
+    "hace": "hace 1 a",
+    "duracion": "1:05:22"
+   },
+   {
+    "titulo": "3 Formas De Ganar Dinero Con Claude",
+    "visitas": 733069,
+    "canal": "Adrián Sáenz",
+    "hace": "hace 3 m",
+    "duracion": "25:35"
+   },
+   {
+    "titulo": "Estos Hacks De ChatGPT Te Harán Tan Productivo Que Parece Ilegal",
+    "visitas": 718193,
+    "canal": "Adrián Sáenz",
+    "hace": "hace 8 m",
+    "duracion": "17:40"
+   },
+   {
+    "titulo": "Cómo Utilizar Claude Para Principiantes | Tutorial 2026",
+    "visitas": 689280,
+    "canal": "Adrián Sáenz",
+    "hace": "hace 4 m",
+    "duracion": "6:32:34"
+   }
+  ],
+  "mediana_top10": 819809.5,
+  "edad_media_top10_meses": 9.4,
+  "outliers": [
+   {
+    "nicho": "ia_trabajo",
+    "canal": "UDIA",
+    "handle": "@UDIA-ai",
+    "suscriptores": 79500,
+    "num_videos": 347,
+    "mediana_visitas": 2200,
+    "mejor_12m": "Domina NotebookLM en Menos de 7 Minutos (Tutorial Completo)",
+    "visitas_mejor_12m": 879000,
+    "hace_mejor": "hace 1 a",
+    "ratio_mejor": 11.1,
+    "ratio_mediana": 0.03,
+    "videos_ult_3m": 12,
+    "canal_nuevo": false
+   },
+   {
+    "nicho": "ia_trabajo",
+    "canal": "Eric Alanis - YouTube",
+    "handle": "@ericalanisyt",
+    "suscriptores": 64200,
+    "num_videos": 73,
+    "mediana_visitas": 14000,
+    "mejor_12m": "Curso Gratis: Cómo Ganar Dinero con YouTube Usando la Inteligencia Artificial",
+    "visitas_mejor_12m": 234000,
+    "hace_mejor": "hace 5 m",
+    "ratio_mejor": 3.6,
+    "ratio_mediana": 0.22,
+    "videos_ult_3m": 20,
+    "canal_nuevo": false
+   },
+   {
+    "nicho": "ia_trabajo",
+    "canal": "Metics Media | Español",
+    "handle": "@MeticsMediaEspanol",
+    "suscriptores": 38700,
+    "num_videos": 426,
+    "mediana_visitas": 254,
+    "mejor_12m": "Hermes Agent - Tutorial Completo y Guía de Configuración (Para Principiantes)",
+    "visitas_mejor_12m": 7800,
+    "hace_mejor": "hace 3 sem.",
+    "ratio_mejor": 0.2,
+    "ratio_mediana": 0.01,
+    "videos_ult_3m": 29,
+    "canal_nuevo": true
+   }
+  ],
+  "canales_pequenos_con_video_>=3x_subs": 2,
+  "canales_analizados": 20
+ },
+ "consumidor": {
+  "videos_en_busquedas": 142,
+  "recientes_6m": 37,
+  "recientes_flojos_<500": 18,
+  "canales_distintos_flojos": 16,
+  "top10": [
+   {
+    "titulo": "Demarco Flamenco - Una pequeña historia (Audio Oficial)",
+    "visitas": 3896286,
+    "canal": "Demarco Flamenco",
+    "hace": "hace 8 a",
+    "duracion": "3:33"
+   },
+   {
+    "titulo": "Los trucos mentales SECRETOS de Ikea para que gastes más",
+    "visitas": 1771362,
+    "canal": "Trending Tony",
+    "hace": "hace 1 a",
+    "duracion": "15:28"
+   },
+   {
+    "titulo": "Sociedad de consumo y obsolescencia programada: combinación que amenaza la existencia",
+    "visitas": 1559143,
+    "canal": "Mundo Equilibrio",
+    "hace": "hace 10 a",
+    "duracion": "6:15"
+   },
+   {
+    "titulo": "Obsolescencia Programada - Documental",
+    "visitas": 929467,
+    "canal": "Marxio Galicia",
+    "hace": "hace 13 a",
+    "duracion": "1:14:50"
+   },
+   {
+    "titulo": "9 “Trampas” de los supermercados para que compremos más",
+    "visitas": 765777,
+    "canal": "Supercurioso",
+    "hace": "hace 11 a",
+    "duracion": "4:59"
+   },
+   {
+    "titulo": "Lo de las suscripciones está fuera de control",
+    "visitas": 753770,
+    "canal": "Trending Tony",
+    "hace": "hace 1 a",
+    "duracion": "14:42"
+   },
+   {
+    "titulo": "La Letra Pequeña Show - El Juicio Final con Karen Sevillano",
+    "visitas": 640053,
+    "canal": "La Letra Pequeña",
+    "hace": "hace 1 m",
+    "duracion": "1:32:57"
+   },
+   {
+    "titulo": "15 ENGAÑOS DE LOS SUPERMERCADOS",
+    "visitas": 632671,
+    "canal": "Finanzas para todos",
+    "hace": "hace 1 a",
+    "duracion": "18:11"
+   },
+   {
+    "titulo": "La Letra Pequeña Show - Onvre No Es gente",
+    "visitas": 582012,
+    "canal": "La Letra Pequeña",
+    "hace": "hace 3 m",
+    "duracion": "1:31:53"
+   },
+   {
+    "titulo": "17 ENGAÑOS del SUPERMERCADO que NUNCA NOTASTE (y te hacen gastar más)",
+    "visitas": 575680,
+    "canal": "Economía Sensei",
+    "hace": "hace 11 m",
+    "duracion": "23:13"
+   }
+  ],
+  "mediana_top10": 759773.5,
+  "edad_media_top10_meses": 55.5,
+  "outliers": [
+   {
+    "nicho": "consumidor",
+    "canal": "PUNTO EXE",
+    "handle": "@PUNTOEXEYT",
+    "suscriptores": 19600,
+    "num_videos": 32,
+    "mediana_visitas": 9650,
+    "mejor_12m": "Cómo Europa OBLIGÓ al Mundo a Usar el USB-C",
+    "visitas_mejor_12m": 622000,
+    "hace_mejor": "hace 3 m",
+    "ratio_mejor": 31.7,
+    "ratio_mediana": 0.49,
+    "videos_ult_3m": 17,
+    "canal_nuevo": false
+   },
+   {
+    "nicho": "consumidor",
+    "canal": "RompeMitos",
+    "handle": "@RompeMitos1",
+    "suscriptores": 14600,
+    "num_videos": 67,
+    "mediana_visitas": 18500,
+    "mejor_12m": "1 HORA De MENTIRAS Que La PUBLICIDAD Te Metió En La CABEZA Siendo DESTRUIDAS 😲 | #18",
+    "visitas_mejor_12m": 240000,
+    "hace_mejor": "hace 1 m",
+    "ratio_mejor": 16.4,
+    "ratio_mediana": 1.27,
+    "videos_ult_3m": 30,
+    "canal_nuevo": false
+   },
+   {
+    "nicho": "consumidor",
+    "canal": "La Letra Pequeña",
+    "handle": "@LaLetra.Pequena",
+    "suscriptores": 94400,
+    "num_videos": 739,
+    "mediana_visitas": 114500,
+    "mejor_12m": "La Letra Pequeña Show - El Juicio Final con Karen Sevillano",
+    "visitas_mejor_12m": 640000,
+    "hace_mejor": "hace 1 m",
+    "ratio_mejor": 6.8,
+    "ratio_mediana": 1.21,
+    "videos_ult_3m": 11,
+    "canal_nuevo": false
+   },
+   {
+    "nicho": "consumidor",
+    "canal": "Lupita García | Aprendiz de Mercadotecnia",
+    "handle": "@AprendizdeMercadotecnia",
+    "suscriptores": 39400,
+    "num_videos": 291,
+    "mediana_visitas": 1300,
+    "mejor_12m": "🤔 Qué es la PUBLICIDAD DIGITAL y cómo PUEDE IMPULSAR el CRECIMIENTO de tu NEGOCIO o EMPRENDIMIENTO 🚀",
+    "visitas_mejor_12m": 3900,
+    "hace_mejor": "hace 1 a",
+    "ratio_mejor": 0.1,
+    "ratio_mediana": 0.03,
+    "videos_ult_3m": 5,
+    "canal_nuevo": false
+   },
+   {
+    "nicho": "consumidor",
+    "canal": "Mundo Equilibrio",
+    "handle": "@mundoequilibrio6673",
+    "suscriptores": 16900,
+    "num_videos": 158,
+    "mediana_visitas": 3700,
+    "mejor_12m": "",
+    "visitas_mejor_12m": 0,
+    "hace_mejor": "",
+    "ratio_mejor": 0.0,
+    "ratio_mediana": 0.22,
+    "videos_ult_3m": 0,
+    "canal_nuevo": false
+   },
+   {
+    "nicho": "consumidor",
+    "canal": "Marxio Galicia",
+    "handle": "@marxiogalicia",
+    "suscriptores": 1570,
+    "num_videos": 2,
+    "mediana_visitas": 472000,
+    "mejor_12m": "",
+    "visitas_mejor_12m": 0,
+    "hace_mejor": "",
+    "ratio_mejor": 0.0,
+    "ratio_mediana": 300.64,
+    "videos_ult_3m": 0,
+    "canal_nuevo": false
+   }
+  ],
+  "canales_pequenos_con_video_>=3x_subs": 3,
+  "canales_analizados": 20
+ },
+ "negocios": {
+  "videos_en_busquedas": 130,
+  "recientes_6m": 27,
+  "recientes_flojos_<500": 4,
+  "canales_distintos_flojos": 4,
+  "top10": [
+   {
+    "titulo": "Trabajé en un Kiosco Por un Día",
+    "visitas": 3777121,
+    "canal": "Angie Velasco",
+    "hace": "hace 2 a",
+    "duracion": "12:57"
+   },
+   {
+    "titulo": "Cómo iniciar un PEQUEÑO negocio que no FRACASE y te haga financieramente libre",
+    "visitas": 3462439,
+    "canal": "UN POCO MEJOR",
+    "hace": "hace 2 a",
+    "duracion": "25:24"
+   },
+   {
+    "titulo": "15 NEGOCIOS Para NO Volver a TRABAJAR MÁS | Negocios Rentables  💰",
+    "visitas": 1744570,
+    "canal": "EmprendeMax",
+    "hace": "hace 1 a",
+    "duracion": "23:09"
+   },
+   {
+    "titulo": "🥇 18 NEGOCIOS ABURRIDOS que producen millonarios en SILENCIO (y nadie compite)",
+    "visitas": 831458,
+    "canal": "EMPRENDE EXITOSO",
+    "hace": "hace 3 m",
+    "duracion": "28:27"
+   },
+   {
+    "titulo": "Cómo Funciona El Rentable Negocio De Las Franquicias",
+    "visitas": 736862,
+    "canal": "Adrián Sáenz",
+    "hace": "hace 1 a",
+    "duracion": "52:58"
+   },
+   {
+    "titulo": "Guía De Dropshipping En Amazon Para Principiantes (2026)",
+    "visitas": 592063,
+    "canal": "Adrián Sáenz",
+    "hace": "hace 1 a",
+    "duracion": "27:42"
+   },
+   {
+    "titulo": "6 Negocios Aburridos Pero Ultra Rentables",
+    "visitas": 556565,
+    "canal": "Adrián Sáenz",
+    "hace": "hace 2 m",
+    "duracion": "19:02"
+   },
+   {
+    "titulo": "¿Cómo funcionan las ganancias en una tienda de abarrotes?",
+    "visitas": 544160,
+    "canal": "El Dany Vlogs",
+    "hace": "hace 4 a",
+    "duracion": "10:29"
+   },
+   {
+    "titulo": "La CRUDA Realidad de Montar un BAR en España",
+    "visitas": 490568,
+    "canal": "Eric Ponce",
+    "hace": "hace 1 a",
+    "duracion": "17:12"
+   },
+   {
+    "titulo": "Lo que NADIE te cuenta de trabajar en KIOSKOS 24 HORAS: robos, mal trato y fisuras",
+    "visitas": 453691,
+    "canal": "Fieles",
+    "hace": "hace 8 m",
+    "duracion": "18:28"
+   }
+  ],
+  "mediana_top10": 664462.5,
+  "edad_media_top10_meses": 15.7,
+  "outliers": [
+   {
+    "nicho": "negocios",
+    "canal": "Don Economía",
+    "handle": "@DonEconom%C3%ADa",
+    "suscriptores": 4010,
+    "num_videos": 20,
+    "mediana_visitas": 6750,
+    "mejor_12m": "15 Negocios INVISIBLES que Empiezan Pequeños… y Pueden Facturar MILLONES",
+    "visitas_mejor_12m": 211000,
+    "hace_mejor": "hace 1 m",
+    "ratio_mejor": 52.6,
+    "ratio_mediana": 1.68,
+    "videos_ult_3m": 20,
+    "canal_nuevo": true
+   },
+   {
+    "nicho": "negocios",
+    "canal": "Mancu",
+    "handle": "@soymancu",
+    "suscriptores": 14600,
+    "num_videos": 164,
+    "mediana_visitas": 14000,
+    "mejor_12m": "Madrugada con un chofer de bondi: la cruda realidad detrás del volante",
+    "visitas_mejor_12m": 512000,
+    "hace_mejor": "hace 3 sem.",
+    "ratio_mejor": 35.1,
+    "ratio_mediana": 0.96,
+    "videos_ult_3m": 30,
+    "canal_nuevo": false
+   },
+   {
+    "nicho": "negocios",
+    "canal": "EMPRENDE EXITOSO",
+    "handle": "@EMPRENDEXITOS",
+    "suscriptores": 94000,
+    "num_videos": 740,
+    "mediana_visitas": 6650,
+    "mejor_12m": "20 NEGOCIOS que generan DINERO mientras Duermes💡💰",
+    "visitas_mejor_12m": 371000,
+    "hace_mejor": "hace 1 m",
+    "ratio_mejor": 3.9,
+    "ratio_mediana": 0.07,
+    "videos_ult_3m": 30,
+    "canal_nuevo": false
+   },
+   {
+    "nicho": "negocios",
+    "canal": "EmprendeMax",
+    "handle": "@emprendemax07",
+    "suscriptores": 45000,
+    "num_videos": 381,
+    "mediana_visitas": 1500,
+    "mejor_12m": "17 NEGOCIOS ¡Mejores Que Cualquier CARRERA En Este 2026!",
+    "visitas_mejor_12m": 148000,
+    "hace_mejor": "hace 7 m",
+    "ratio_mejor": 3.3,
+    "ratio_mediana": 0.03,
+    "videos_ult_3m": 8,
+    "canal_nuevo": true
+   },
+   {
+    "nicho": "negocios",
+    "canal": "Eric Ponce",
+    "handle": "@Eric_Ponce",
+    "suscriptores": 78200,
+    "num_videos": 441,
+    "mediana_visitas": 46000,
+    "mejor_12m": "La Mujer que mueve los Hilos detrás de José Elías (Rosa González)",
+    "visitas_mejor_12m": 235000,
+    "hace_mejor": "hace 3 m",
+    "ratio_mejor": 3.0,
+    "ratio_mediana": 0.59,
+    "videos_ult_3m": 12,
+    "canal_nuevo": false
+   },
+   {
+    "nicho": "negocios",
+    "canal": "La Escalera Roja Podcast",
+    "handle": "@LaEscaleraRojaPodcast",
+    "suscriptores": 25900,
+    "num_videos": 1300,
+    "mediana_visitas": 290,
+    "mejor_12m": "EP 149 | FOYONE LO CUENTA TODO: LA FAMA,LA CENSURA SOCIAL,EL JINCHO, RAP SIN CORTE Y SU CAMBIO",
+    "visitas_mejor_12m": 37000,
+    "hace_mejor": "hace 3 m",
+    "ratio_mejor": 1.4,
+    "ratio_mediana": 0.01,
+    "videos_ult_3m": 29,
+    "canal_nuevo": true
+   }
+  ],
+  "canales_pequenos_con_video_>=3x_subs": 5,
+  "canales_analizados": 20
+ },
+ "empleo_sueldos": {
+  "videos_en_busquedas": 103,
+  "recientes_6m": 19,
+  "recientes_flojos_<500": 6,
+  "canales_distintos_flojos": 6,
+  "top10": [
+   {
+    "titulo": "Como calcular nóminas",
+    "visitas": 644647,
+    "canal": "Aranda Formacion",
+    "hace": "hace 12 a",
+    "duracion": "13:01"
+   },
+   {
+    "titulo": "La CRUDA REALIDAD de EMIGRAR a ESPAÑA en 2026",
+    "visitas": 468778,
+    "canal": "Talent Match",
+    "hace": "hace 7 m",
+    "duracion": "13:19"
+   },
+   {
+    "titulo": "Suiza: El País Perfecto para hacerte Rico Siendo Joven",
+    "visitas": 410485,
+    "canal": "Sergio Begueria",
+    "hace": "hace 3 a",
+    "duracion": "15:33"
+   },
+   {
+    "titulo": "La Gran Estafa de los Salarios en España - ¿Por Qué Son Tan Bajos?",
+    "visitas": 261749,
+    "canal": "El Director - David Jiménez ",
+    "hace": "hace 1 a",
+    "duracion": "8:23"
+   },
+   {
+    "titulo": "NOMINAS FOL",
+    "visitas": 257064,
+    "canal": "JuanManuel Cabanillas",
+    "hace": "hace 7 a",
+    "duracion": "24:54"
+   },
+   {
+    "titulo": "¿Cuánto tiempo necesito para sacarme la Oposición de Controlador Aéreo? ✈️",
+    "visitas": 256331,
+    "canal": "MasterD",
+    "hace": "hace 9 m",
+    "duracion": "3:50"
+   },
+   {
+    "titulo": "Nómina explicada al detalle | Cómo entenderlo todo",
+    "visitas": 167728,
+    "canal": "Humanos como recurso",
+    "hace": "hace 6 a",
+    "duracion": "13:00"
+   },
+   {
+    "titulo": "10 Trabajos Muy Bien Pagados Que Puedes Empezar Ahora",
+    "visitas": 147107,
+    "canal": "Adrián Sáenz",
+    "hace": "hace 5 a",
+    "duracion": "18:35"
+   },
+   {
+    "titulo": "Por qué los salarios son tan bajos en América Latina",
+    "visitas": 137264,
+    "canal": "DW Cómo te afecta",
+    "hace": "hace 2 a",
+    "duracion": "26:02"
+   },
+   {
+    "titulo": "LOS SALARIOS EN ESPAÑA SON UN DESASTRE a 2025: LOS DATOS y MOTIVOS QUE LO CONFIRMAN",
+    "visitas": 129664,
+    "canal": "JF CALERO - VLOG MANUAL",
+    "hace": "hace 1 a",
+    "duracion": "12:43"
+   }
+  ],
+  "mediana_top10": 256697.5,
+  "edad_media_top10_meses": 46,
+  "outliers": [
+   {
+    "nicho": "empleo_sueldos",
+    "canal": "Aranda Formacion",
+    "handle": "@Arandaformacion",
+    "suscriptores": 11300,
+    "num_videos": 382,
+    "mediana_visitas": 250,
+    "mejor_12m": "¡Descubre el nuevo Campus Grupo Aranda!",
+    "visitas_mejor_12m": 986000,
+    "hace_mejor": "hace 9 m",
+    "ratio_mejor": 87.3,
+    "ratio_mediana": 0.02,
+    "videos_ult_3m": 7,
+    "canal_nuevo": false
+   },
+   {
+    "nicho": "empleo_sueldos",
+    "canal": "Escalona",
+    "handle": "@Escalona4",
+    "suscriptores": 969,
+    "num_videos": 35,
+    "mediana_visitas": 138,
+    "mejor_12m": "Me fui a trabajar a Suiza: Salarios, clima, costo de vida comparado con España | Escalona4",
+    "visitas_mejor_12m": 73000,
+    "hace_mejor": "hace 1 a",
+    "ratio_mejor": 75.3,
+    "ratio_mediana": 0.14,
+    "videos_ult_3m": 1,
+    "canal_nuevo": false
+   },
+   {
+    "nicho": "empleo_sueldos",
+    "canal": "Mario Cozma",
+    "handle": "@mcozma1",
+    "suscriptores": 25000,
+    "num_videos": 323,
+    "mediana_visitas": 28500,
+    "mejor_12m": "Así es un LUNES dirigiendo mi empresa de TRANSPORTE",
+    "visitas_mejor_12m": 222000,
+    "hace_mejor": "hace 2 m",
+    "ratio_mejor": 8.9,
+    "ratio_mediana": 1.14,
+    "videos_ult_3m": 7,
+    "canal_nuevo": false
+   },
+   {
+    "nicho": "empleo_sueldos",
+    "canal": "Talent Match",
+    "handle": "@talentmatch_es",
+    "suscriptores": 80400,
+    "num_videos": 1500,
+    "mediana_visitas": 126000,
+    "mejor_12m": "¿Cuánto DINERO gana la gente que compra el iPhone 18?",
+    "visitas_mejor_12m": 622000,
+    "hace_mejor": "hace 3 d",
+    "ratio_mejor": 7.7,
+    "ratio_mediana": 1.57,
+    "videos_ult_3m": 14,
+    "canal_nuevo": true
+   },
+   {
+    "nicho": "empleo_sueldos",
+    "canal": "Abogada Laboral",
+    "handle": "@Abogadalaboral",
+    "suscriptores": 4720,
+    "num_videos": 45,
+    "mediana_visitas": 4200,
+    "mejor_12m": "Novedades Reforma JUBILACIÓN 2025 en España 👴 ⚖️ ABOGADA LABORAL",
+    "visitas_mejor_12m": 26000,
+    "hace_mejor": "hace 1 a",
+    "ratio_mejor": 5.5,
+    "ratio_mediana": 0.89,
+    "videos_ult_3m": 0,
+    "canal_nuevo": false
+   },
+   {
+    "nicho": "empleo_sueldos",
+    "canal": "Humanos como recurso",
+    "handle": "@Humanoscomorecurso",
+    "suscriptores": 34900,
+    "num_videos": 368,
+    "mediana_visitas": 7950,
+    "mejor_12m": "Cómo hacer un BUEN CURRÍCULUM 2026 | FÁCIL y rápido | Todos los apartados necesarios explicados",
+    "visitas_mejor_12m": 125000,
+    "hace_mejor": "hace 8 m",
+    "ratio_mejor": 3.6,
+    "ratio_mediana": 0.23,
+    "videos_ult_3m": 0,
+    "canal_nuevo": false
+   }
+  ],
+  "canales_pequenos_con_video_>=3x_subs": 6,
+  "canales_analizados": 20
+ },
+ "ingenieria_obras": {
+  "videos_en_busquedas": 151,
+  "recientes_6m": 18,
+  "recientes_flojos_<500": 4,
+  "canales_distintos_flojos": 4,
+  "top10": [
+   {
+    "titulo": "El Plan de la Mariposa | Túnel de la Vida",
+    "visitas": 11595614,
+    "canal": "El Plan de la Mariposa",
+    "hace": "hace 6 a",
+    "duracion": "4:23"
+   },
+   {
+    "titulo": "Ingeniería de Autos del Futuro | Megaestructuras: Maravillas de la Ingenieria | Nat Geo en Español",
+    "visitas": 3744135,
+    "canal": "Nat Geo en Español",
+    "hace": "hace 1 a",
+    "duracion": "44:25"
+   },
+   {
+    "titulo": "¡Persecución en el aeropuerto de Madrid Barajas! | Control de fronteras: España",
+    "visitas": 3046172,
+    "canal": "DMAX España",
+    "hace": "hace 2 a",
+    "duracion": "12:20"
+   },
+   {
+    "titulo": "ESTRUCTURAS | Serie Documental Ingeniería Romana | Hispania Nostra",
+    "visitas": 2397064,
+    "canal": "Hispania Nostra",
+    "hace": "hace 3 a",
+    "duracion": "56:39"
+   },
+   {
+    "titulo": "El Pueblo ABANDONADO más  BONITO de ESPAÑA 👉 RECONQUISTADO, EXPROPIADO Y ABANDONADO!! \"GRANADILLA\"",
+    "visitas": 1395927,
+    "canal": "hilux_aventura",
+    "hace": "hace 2 a",
+    "duracion": "29:40"
+   },
+   {
+    "titulo": "Top 4 MEGA ESTRUCTURAS Abandonadas en España | Mega proyectos ES",
+    "visitas": 1244918,
+    "canal": "MegaProyectos España",
+    "hace": "hace 6 a",
+    "duracion": "7:55"
+   },
+   {
+    "titulo": "Como se conduce un Ave Serie 103, el Velaro de Renfe",
+    "visitas": 1196412,
+    "canal": "Revista Vía Libre",
+    "hace": "hace 13 a",
+    "duracion": "15:18"
+   },
+   {
+    "titulo": "AMAZON desde dentro, PREPARAMOS NUESTRO PEDIDO",
+    "visitas": 1118092,
+    "canal": "Topes de Gama",
+    "hace": "hace 8 a",
+    "duracion": "14:06"
+   },
+   {
+    "titulo": "Un PALACIO que ESCONDE RELIQUIAS y una CASA ABANDONADA con TODO DENTRO",
+    "visitas": 1046469,
+    "canal": "hilux_aventura",
+    "hace": "hace 1 a",
+    "duracion": "32:11"
+   },
+   {
+    "titulo": "La CIUDAD VACÍA Más Grande de España ⚠️ TRISTE Realidad",
+    "visitas": 1011518,
+    "canal": "Kibara",
+    "hace": "hace 1 a",
+    "duracion": "32:17"
+   }
+  ],
+  "mediana_top10": 1320422.5,
+  "edad_media_top10_meses": 51.6,
+  "outliers": [
+   {
+    "nicho": "ingenieria_obras",
+    "canal": "Pinceladas a Través del Tiempo",
+    "handle": "@dai_nenashev_es",
+    "suscriptores": 20700,
+    "num_videos": 49,
+    "mediana_visitas": 6750,
+    "mejor_12m": "¿Por qué el arte vale millones y qué tiene que ver la CIA? ¡Descubre los secretos del negocio!",
+    "visitas_mejor_12m": 64000,
+    "hace_mejor": "hace 2 m",
+    "ratio_mejor": 3.1,
+    "ratio_mediana": 0.33,
+    "videos_ult_3m": 7,
+    "canal_nuevo": false
+   },
+   {
+    "nicho": "ingenieria_obras",
+    "canal": "Revista Vía Libre",
+    "handle": "@RevistaViaLibre",
+    "suscriptores": 19900,
+    "num_videos": 223,
+    "mediana_visitas": 2900,
+    "mejor_12m": "El Nuevo Vestíbulo de la ESTACIÓN de CHAMARTÍN",
+    "visitas_mejor_12m": 35000,
+    "hace_mejor": "hace 1 a",
+    "ratio_mejor": 1.8,
+    "ratio_mediana": 0.15,
+    "videos_ult_3m": 3,
+    "canal_nuevo": false
+   },
+   {
+    "nicho": "ingenieria_obras",
+    "canal": "Hispania Nostra",
+    "handle": "@HispaniaNostra_",
+    "suscriptores": 33200,
+    "num_videos": 308,
+    "mediana_visitas": 305,
+    "mejor_12m": "Redescubriendo el pasado romano de Iruña-Veleia a partir de la teledetección | Hispania Nostra",
+    "visitas_mejor_12m": 3300,
+    "hace_mejor": "hace 1 a",
+    "ratio_mejor": 0.1,
+    "ratio_mediana": 0.01,
+    "videos_ult_3m": 0,
+    "canal_nuevo": false
+   },
+   {
+    "nicho": "ingenieria_obras",
+    "canal": "MegaProyectos España",
+    "handle": "@MegaProyectosEspa%C3%B1a",
+    "suscriptores": 53600,
+    "num_videos": 55,
+    "mediana_visitas": 95500,
+    "mejor_12m": "",
+    "visitas_mejor_12m": 0,
+    "hace_mejor": "",
+    "ratio_mejor": 0.0,
+    "ratio_mediana": 1.78,
+    "videos_ult_3m": 0,
+    "canal_nuevo": false
+   },
+   {
+    "nicho": "ingenieria_obras",
+    "canal": "Introducción a la Arquitectura",
+    "handle": "@introduccionalaarquitectur8583",
+    "suscriptores": 2270,
+    "num_videos": 18,
+    "mediana_visitas": 2300,
+    "mejor_12m": "",
+    "visitas_mejor_12m": 0,
+    "hace_mejor": "",
+    "ratio_mejor": 0.0,
+    "ratio_mediana": 1.01,
+    "videos_ult_3m": 0,
+    "canal_nuevo": false
+   }
+  ],
+  "canales_pequenos_con_video_>=3x_subs": 1,
+  "canales_analizados": 19
+ },
+ "historia_marcas": {
+  "videos_en_busquedas": 151,
+  "recientes_6m": 62,
+  "recientes_flojos_<500": 30,
+  "canales_distintos_flojos": 25,
+  "top10": [
+   {
+    "titulo": "👚 El hombre que inventó la MODA RÁPIDA | Caso Zara",
+    "visitas": 1419687,
+    "canal": "Emprende Aprendiendo",
+    "hace": "hace 9 a",
+    "duracion": "6:06"
+   },
+   {
+    "titulo": "Así es el mundo secreto de Zara",
+    "visitas": 1081661,
+    "canal": "Bloomberg Originals",
+    "hace": "hace 1 a",
+    "duracion": "10:21"
+   },
+   {
+    "titulo": "El Colapso de Lehman Brothers | Documentales Economía y Finanza",
+    "visitas": 1039939,
+    "canal": "Moconomy - Economía y Finanzas",
+    "hace": "hace 2 a",
+    "duracion": "46:22"
+   },
+   {
+    "titulo": "Planeta Zara",
+    "visitas": 952353,
+    "canal": "MARIANO ORTUÑO",
+    "hace": "hace 15 a",
+    "duracion": "55:18"
+   },
+   {
+    "titulo": "¿La OTAN y la UE destrozaron la INDUSTRIA española? - VisualEconomik",
+    "visitas": 587516,
+    "canal": "VisualEconomik",
+    "hace": "hace 3 a",
+    "duracion": "22:59"
+   },
+   {
+    "titulo": "Cómo Este Supermercado CONTROLA un País ENTERO",
+    "visitas": 479751,
+    "canal": "qash",
+    "hace": "hace 4 m",
+    "duracion": "22:24"
+   },
+   {
+    "titulo": "6 EMPRESAS MILLONARIAS QUE QUEBRARON",
+    "visitas": 453166,
+    "canal": "Farwell Investor",
+    "hace": "hace 1 a",
+    "duracion": "1:25:18"
+   },
+   {
+    "titulo": "La RETIRADA de EMPRESAS ESPAÑOLAS de RUSIA asesta un nuevo GOLPE a su ECONOMÍA | RTVE Noticias",
+    "visitas": 436716,
+    "canal": "RTVE Noticias",
+    "hace": "hace 4 a",
+    "duracion": "1:28"
+   },
+   {
+    "titulo": "Marcas de coche desaparecidas… ¿Por qué?",
+    "visitas": 431836,
+    "canal": "Garaje Hermético",
+    "hace": "hace 5 a",
+    "duracion": "24:36"
+   },
+   {
+    "titulo": "15 Juguetes Españoles que Desaparecieron para Siempre",
+    "visitas": 329367,
+    "canal": "Raíz Española",
+    "hace": "hace 1 m",
+    "duracion": "23:11"
+   }
+  ],
+  "mediana_top10": 533633.5,
+  "edad_media_top10_meses": 48.5,
+  "outliers": [
+   {
+    "nicho": "historia_marcas",
+    "canal": "qash",
+    "handle": "@qashYouTube",
+    "suscriptores": 17400,
+    "num_videos": 8,
+    "mediana_visitas": 123000,
+    "mejor_12m": "Cómo Este Supermercado CONTROLA un País ENTERO",
+    "visitas_mejor_12m": 479000,
+    "hace_mejor": "hace 4 m",
+    "ratio_mejor": 27.5,
+    "ratio_mediana": 7.07,
+    "videos_ult_3m": 6,
+    "canal_nuevo": true
+   },
+   {
+    "nicho": "historia_marcas",
+    "canal": "Raíz Española",
+    "handle": "@Ra%C3%ADz_Espa%C3%B1ola",
+    "suscriptores": 17800,
+    "num_videos": 149,
+    "mediana_visitas": 4100,
+    "mejor_12m": "15 Juguetes Españoles que Desaparecieron para Siempre",
+    "visitas_mejor_12m": 329000,
+    "hace_mejor": "hace 1 m",
+    "ratio_mejor": 18.5,
+    "ratio_mediana": 0.23,
+    "videos_ult_3m": 28,
+    "canal_nuevo": true
+   },
+   {
+    "nicho": "historia_marcas",
+    "canal": "Memoria Retro Oficial",
+    "handle": "@MemoriaRetroOficial",
+    "suscriptores": 40400,
+    "num_videos": 140,
+    "mediana_visitas": 12500,
+    "mejor_12m": "35 Palabras Españolas de Antes que Hoy Casi Nadie Entiende",
+    "visitas_mejor_12m": 651000,
+    "hace_mejor": "hace 1 m",
+    "ratio_mejor": 16.1,
+    "ratio_mediana": 0.31,
+    "videos_ult_3m": 30,
+    "canal_nuevo": false
+   },
+   {
+    "nicho": "historia_marcas",
+    "canal": "España Eterna",
+    "handle": "@LegadoEspa%C3%B1ol",
+    "suscriptores": 7630,
+    "num_videos": 152,
+    "mediana_visitas": 444,
+    "mejor_12m": "Destino: El Mañana – La Odisea del Tren en la España de 1970",
+    "visitas_mejor_12m": 3700,
+    "hace_mejor": "hace 8 m",
+    "ratio_mejor": 0.5,
+    "ratio_mediana": 0.06,
+    "videos_ult_3m": 0,
+    "canal_nuevo": false
+   },
+   {
+    "nicho": "historia_marcas",
+    "canal": "MARIANO ORTUÑO",
+    "handle": "@MARIANOORTU%C3%91O",
+    "suscriptores": 1610,
+    "num_videos": 79,
+    "mediana_visitas": 634,
+    "mejor_12m": "",
+    "visitas_mejor_12m": 0,
+    "hace_mejor": "",
+    "ratio_mejor": 0.0,
+    "ratio_mediana": 0.39,
+    "videos_ult_3m": 0,
+    "canal_nuevo": false
+   },
+   {
+    "nicho": "historia_marcas",
+    "canal": "Paula Valentina Villacres ",
+    "handle": "@paulavillacres",
+    "suscriptores": 1490,
+    "num_videos": 26,
+    "mediana_visitas": 123,
+    "mejor_12m": "",
+    "visitas_mejor_12m": 0,
+    "hace_mejor": "",
+    "ratio_mejor": 0.0,
+    "ratio_mediana": 0.08,
+    "videos_ult_3m": 0,
+    "canal_nuevo": false
+   }
+  ],
+  "canales_pequenos_con_video_>=3x_subs": 3,
+  "canales_analizados": 20
+ }
+}

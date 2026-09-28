@@ -1,0 +1,28 @@
+{
+ "voz": "voz/voz.mp3", "subtitulos": "voz/subtitulos.srt",
+ "fondo": "../../fondos/pexels_33640979.jpg",
+ "musica": "../../../../musica/pepa_pita/Travelling Light - Blue Deer Studio.mp3", "musica_db": -22,
+ "cabecera": "¿LAVAS LOS HUEVOS?",
+ "planos": [
+  {"desde": 0.0, "imagen": "busto"},
+  {"desde": 2.8, "imagen": "pose_ojo"},
+  {"desde": 3.3, "imagen": "exp_riendo"},
+  {"desde": 5.6, "imagen": "busto"},
+  {"desde": 10.5, "imagen": "exp_preocupada"},
+  {"desde": 15.9, "imagen": "busto"},
+  {"desde": 21.7, "imagen": "pose_senala"},
+  {"desde": 23.2, "imagen": "exp_pensativa"},
+  {"desde": 25.0, "imagen": "busto"},
+  {"desde": 29.4, "imagen": "exp_sorprendida"},
+  {"desde": 37.2, "imagen": "busto"},
+  {"desde": 40.9, "imagen": "exp_guino"}
+ ],
+ "rotulos": [
+  {"desde": 5.6, "hasta": 10.5, "texto": "POROS + CUTÍCULA", "sub": "la capa invisible que protege el huevo"},
+  {"desde": 10.5, "hasta": 15.9, "texto": "¡LA METE DENTRO!", "sub": "el lavado puede pasar la salmonela · AESAN"},
+  {"desde": 15.9, "hasta": 23.2, "texto": "NO SE PUEDEN LAVAR", "sub": "lo dice la ley · Reglamento (UE) 2023/2465"},
+  {"desde": 25.0, "hasta": 29.4, "texto": "EN UN BOL APARTE", "sub": "para no contaminar la mezcla · AESAN"},
+  {"desde": 29.4, "hasta": 37.2, "texto": "79.703 CASOS", "sub": "salmonelosis · UE · 2024 · EFSA/ECDC"}
+ ],
+ "salida": "salida/PEPA_003_no_laves_los_huevos.mp4"
+}

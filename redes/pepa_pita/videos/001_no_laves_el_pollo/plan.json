@@ -1,0 +1,26 @@
+{
+ "voz": "voz/voz.mp3", "subtitulos": "voz/subtitulos.srt",
+ "fondo": "../../fondos/pexels_5451503.jpg",
+ "musica": "../../../../musica/pepa_pita/Travelling Light - Blue Deer Studio.mp3", "musica_db": -22,
+ "cabecera": "¿LAVAS EL POLLO?",
+ "planos": [
+  {"desde": 0.0, "imagen": "busto"},
+  {"desde": 2.4, "imagen": "pose_ojo"},
+  {"desde": 4.7, "imagen": "busto"},
+  {"desde": 8.1, "imagen": "exp_sorprendida"},
+  {"desde": 12.1, "imagen": "busto"},
+  {"desde": 16.8, "imagen": "exp_pensativa"},
+  {"desde": 25.4, "imagen": "exp_preocupada"},
+  {"desde": 28.1, "imagen": "pose_sartenes"},
+  {"desde": 36.0, "imagen": "busto"},
+  {"desde": 40.0, "imagen": "pose_senala"},
+  {"desde": 43.8, "imagen": "exp_guino"}
+ ],
+ "rotulos": [
+  {"desde": 4.7, "hasta": 12.1, "texto": "EL AGUA SALPICA", "sub": "y reparte las bacterias por la cocina"},
+  {"desde": 25.4, "hasta": 28.1, "texto": "168.396 CASOS", "sub": "UE · 2024 · fuente: EFSA"},
+  {"desde": 30.8, "hasta": 36.0, "texto": "74 °C", "sub": "en el interior del pollo"},
+  {"desde": 36.0, "hasta": 40.0, "texto": "¡LÁVATE LAS MANOS!", "sub": "después de tocarlo crudo"}
+ ],
+ "salida": "salida/PEPA_001_no_laves_el_pollo.mp4"
+}

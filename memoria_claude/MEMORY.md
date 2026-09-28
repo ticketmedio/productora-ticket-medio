@@ -1,0 +1,2 @@
+- [Perfil del usuario](user-profile.md) — no programa, español de España, quiere honestidad y que Claude lo haga todo
+- [Proyecto canal YouTube faceless](project-youtube-faceless.md) — objetivos, comandos, estructura de carpetas, estado actual

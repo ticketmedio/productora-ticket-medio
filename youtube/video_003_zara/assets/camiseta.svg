@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="620" viewBox="0 0 620 620">
+  <defs>
+    <filter id="r"><feTurbulence type="fractalNoise" baseFrequency="0.03" numOctaves="2" seed="3"/><feDisplacementMap in="SourceGraphic" scale="5"/></filter>
+  </defs>
+  <g filter="url(#r)" stroke="#1b1b1b" stroke-width="9" stroke-linejoin="round" stroke-linecap="round">
+    <!-- camiseta -->
+    <path d="M205 70 L120 110 L40 200 L110 270 L160 225 L160 545 L440 545 L440 225 L490 270 L560 200 L480 110 L395 70
+             Q370 130 300 130 Q230 130 205 70 Z" fill="#9CC5E8"/>
+    <path d="M205 70 Q300 175 395 70" fill="none"/>
+    <path d="M160 225 L160 300" fill="none" opacity=".35"/>
+    <path d="M440 225 L440 300" fill="none" opacity=".35"/>
+    <!-- hilo y etiqueta -->
+    <path d="M440 250 Q500 300 505 350" fill="none" stroke-width="5"/>
+    <path d="M470 345 L560 345 L585 400 L560 520 L470 520 L445 400 Z" fill="#FFFDF6"/>
+    <circle cx="515" cy="372" r="10" fill="#FFFDF6"/>
+  </g>
+</svg>

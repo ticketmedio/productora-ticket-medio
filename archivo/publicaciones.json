@@ -1,0 +1,35 @@
+{
+ "nota": "Registro de carpetas de producción y la fecha de su ÚLTIMA publicación. herramientas/limpiar_publicados.py las borra al día siguiente, guardando antes sus textos en archivo/.",
+ "carpetas": [
+  {
+   "ruta": "redes/pepa_pita/videos/001_no_laves_el_pollo",
+   "ultima_publicacion": "2026-09-29",
+   "archivo": "pepa_pita/001_no_laves_el_pollo"
+  },
+  {
+   "ruta": "redes/pepa_pita/videos/002_recongelar",
+   "ultima_publicacion": "2026-10-01",
+   "archivo": "pepa_pita/002_recongelar"
+  },
+  {
+   "ruta": "redes/pepa_pita/videos/003_no_laves_los_huevos",
+   "ultima_publicacion": "2026-10-03",
+   "archivo": "pepa_pita/003_no_laves_los_huevos"
+  },
+  {
+   "ruta": "redes/pepa_pita/videos/004_arroz_de_ayer",
+   "ultima_publicacion": "2026-10-06",
+   "archivo": "pepa_pita/004_arroz_de_ayer"
+  },
+  {
+   "ruta": "redes/pepa_pita/videos/005_anisakis",
+   "ultima_publicacion": "2026-10-08",
+   "archivo": "pepa_pita/005_anisakis"
+  },
+  {
+   "ruta": "redes/pepa_pita/videos/006_patatas_verdes",
+   "ultima_publicacion": "2026-10-10",
+   "archivo": "pepa_pita/006_patatas_verdes"
+  }
+ ]
+}

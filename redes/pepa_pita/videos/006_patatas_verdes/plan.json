@@ -1,0 +1,83 @@
+{
+ "voz": "voz/voz.mp3",
+ "subtitulos": "voz/subtitulos.srt",
+ "musica": "../../../../musica/pepa_pita/Travelling Light - Blue Deer Studio.mp3",
+ "musica_db": -22,
+ "fondo": "../../fondos/pexels_33640979.jpg",
+ "cabecera": "¿PATATAS VERDES?",
+ "planos": [
+  {
+   "desde": 0,
+   "imagen": "busto"
+  },
+  {
+   "desde": 2.4,
+   "imagen": "exp_riendo"
+  },
+  {
+   "desde": 4.2,
+   "imagen": "busto"
+  },
+  {
+   "desde": 7.3,
+   "imagen": "exp_pensativa"
+  },
+  {
+   "desde": 14.6,
+   "imagen": "exp_sorprendida"
+  },
+  {
+   "desde": 15.6,
+   "imagen": "busto"
+  },
+  {
+   "desde": 19.2,
+   "imagen": "pose_ojo"
+  },
+  {
+   "desde": 25.8,
+   "imagen": "exp_preocupada"
+  },
+  {
+   "desde": 29.7,
+   "imagen": "busto"
+  },
+  {
+   "desde": 39.4,
+   "imagen": "exp_guino"
+  }
+ ],
+ "rotulos": [
+  {
+   "desde": 4.2,
+   "hasta": 7.3,
+   "texto": "LO VERDE: CLOROFILA",
+   "sub": "le ha dado la luz · EFSA"
+  },
+  {
+   "desde": 7.3,
+   "hasta": 14.6,
+   "texto": "+ SOLANINA",
+   "sub": "una defensa natural de la patata · AESAN"
+  },
+  {
+   "desde": 15.6,
+   "hasta": 19.2,
+   "texto": "FUERA BROTES Y VERDE",
+   "sub": "y pélala"
+  },
+  {
+   "desde": 19.2,
+   "hasta": 25.8,
+   "texto": "PELAR: −25 A −75 %",
+   "sub": "de glicoalcaloides · EFSA"
+  },
+  {
+   "desde": 29.7,
+   "hasta": 35.7,
+   "texto": "A OSCURAS",
+   "sub": "fresco, seco y fuera de la nevera · AESAN"
+  }
+ ],
+ "salida": "salida/PEPA_006_patatas_verdes.mp4"
+}

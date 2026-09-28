@@ -1,0 +1,102 @@
+"""Herramienta de Claude para leer y escribir en la Sala de Producción (datos.json).
+
+Uso:
+  python claude_sala.py novedades              -> lo nuevo del usuario desde la última revisión
+  python claude_sala.py comentar ID "texto"    -> comentario de Claude en una tarea
+  python claude_sala.py mensaje "texto"        -> mensaje de Claude en el Tablón
+  python claude_sala.py estado ID ESTADO       -> pendiente | en_curso | hecho
+"""
+import json, sys, os, datetime
+
+sys.stdout.reconfigure(encoding="utf-8")
+HERE = os.path.dirname(os.path.abspath(__file__))
+DATA = os.path.join(HERE, "datos.json")
+SEEN = os.path.join(HERE, ".claude_visto.json")
+
+
+def now():
+    return datetime.datetime.now(datetime.UTC).strftime("%Y-%m-%dT%H:%M:%S.%f")[:-3] + "Z"
+
+
+def load():
+    with open(DATA, encoding="utf-8") as f:
+        return json.load(f)
+
+
+def save(d):
+    tmp = DATA + ".tmp"
+    with open(tmp, "w", encoding="utf-8") as f:
+        json.dump(d, f, ensure_ascii=False, indent=2)
+    os.replace(tmp, DATA)
+
+
+def novedades():
+    d = load()
+    try:
+        seen = json.load(open(SEEN, encoding="utf-8"))
+    except Exception:
+        seen = {"desde": "", "estados": {}}
+    desde, estados = seen.get("desde", ""), seen.get("estados", {})
+    out = []
+    for t in d["tareas"]:
+        if t.get("createdBy") == "tu" and t.get("createdAt", "") > desde:
+            out.append(f"NUEVA TAREA [{t['id']}] {t['title']} ({t['date']}, {t['who']}) notas: {t.get('notes','')}")
+        prev = estados.get(t["id"])
+        if prev is not None and prev != t["status"]:
+            out.append(f"ESTADO [{t['id']}] {t['title']}: {prev} -> {t['status']}")
+        for c in t.get("comentarios", []):
+            if c["author"] == "tu" and c["createdAt"] > desde:
+                out.append(f"COMENTARIO [{t['id']}] {t['title']}: {c['text']}")
+    for m in d["mensajes"]:
+        if m["author"] == "tu" and m["createdAt"] > desde:
+            out.append(f"TABLÓN: {m['text']}")
+    known = {t["id"] for t in d["tareas"]}
+    for gone in set(estados) - known:
+        out.append(f"TAREA BORRADA [{gone}]")
+    print("\n".join(out) if out else "Sin novedades.")
+    json.dump({"desde": now(), "estados": {t["id"]: t["status"] for t in d["tareas"]}},
+              open(SEEN, "w", encoding="utf-8"))
+
+
+def comentar(tid, texto):
+    d = load()
+    for t in d["tareas"]:
+        if t["id"] == tid:
+            t.setdefault("comentarios", []).append(
+                {"id": "c-" + datetime.datetime.now().strftime("%H%M%S%f"), "author": "claude", "text": texto, "createdAt": now()})
+            save(d)
+            print("ok")
+            return
+    print("No existe la tarea", tid)
+
+
+def mensaje(texto):
+    d = load()
+    d["mensajes"].append({"id": "m-" + datetime.datetime.now().strftime("%H%M%S%f"), "author": "claude", "text": texto, "createdAt": now()})
+    save(d)
+    print("ok")
+
+
+def estado(tid, st):
+    assert st in ("pendiente", "en_curso", "hecho")
+    d = load()
+    for t in d["tareas"]:
+        if t["id"] == tid:
+            t["status"] = st
+            t["updatedAt"] = now()
+            save(d)
+            print("ok")
+            return
+    print("No existe la tarea", tid)
+
+
+if __name__ == "__main__":
+    cmd = sys.argv[1] if len(sys.argv) > 1 else "novedades"
+    if cmd == "novedades":
+        novedades()
+    elif cmd == "comentar":
+        comentar(sys.argv[2], sys.argv[3])
+    elif cmd == "mensaje":
+        mensaje(sys.argv[2])
+    elif cmd == "estado":
+        estado(sys.argv[2], sys.argv[3])

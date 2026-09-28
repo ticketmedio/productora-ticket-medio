@@ -1,0 +1,27 @@
+{
+ "voz": "voz/voz.mp3", "subtitulos": "voz/subtitulos.srt",
+ "fondo": "../../fondos/pexels_29148450.jpg",
+ "musica": "../../../../musica/pepa_pita/Travelling Light - Blue Deer Studio.mp3", "musica_db": -22,
+ "cabecera": "¿SE PUEDE RECONGELAR?",
+ "planos": [
+  {"desde": 0.0, "imagen": "busto"},
+  {"desde": 4.7, "imagen": "pose_ojo"},
+  {"desde": 5.9, "imagen": "busto"},
+  {"desde": 10.5, "imagen": "exp_sorprendida"},
+  {"desde": 15.4, "imagen": "busto"},
+  {"desde": 21.6, "imagen": "exp_pensativa"},
+  {"desde": 27.6, "imagen": "pose_sartenes"},
+  {"desde": 31.8, "imagen": "busto"},
+  {"desde": 38.0, "imagen": "pose_ojo"},
+  {"desde": 40.2, "imagen": "busto"},
+  {"desde": 43.4, "imagen": "exp_guino"}
+ ],
+ "rotulos": [
+  {"desde": 5.9, "hasta": 10.5, "texto": "EL FRÍO NO LAS MATA", "sub": "solo duerme a las bacterias · AESAN"},
+  {"desde": 15.4, "hasta": 21.6, "texto": "NO RECONGELAR", "sub": "lo que ya descongelaste · AESAN"},
+  {"desde": 21.6, "hasta": 27.6, "texto": "+70 °C · 2 MIN", "sub": "cocinado, sí se puede congelar · AESAN"},
+  {"desde": 31.8, "hasta": 38.0, "texto": "EN LA NEVERA", "sub": "abajo y con un plato debajo"},
+  {"desde": 38.0, "hasta": 40.2, "texto": "ENCIMERA, NO", "sub": "entre 5 y 65 °C se multiplican · AESAN"}
+ ],
+ "salida": "salida/PEPA_002_recongelar.mp4"
+}

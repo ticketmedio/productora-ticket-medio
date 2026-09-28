@@ -1,0 +1,47 @@
+# ── NUNCA subir: claves de Azure, Pexels, etc. ──
+config/claves.txt
+config/*.txt
+
+# ── Programas que se instalan en cada ordenador (INSTALAR_EN_ESTE_ORDENADOR.bat) ──
+herramientas/navegador/
+herramientas/node_modules/
+node_modules/
+__pycache__/
+*.pyc
+
+# ── Archivos pesados que se regeneran o ya están publicados ──
+*.mp4
+*.mov
+*.wav
+*.webm
+# locuciones y mezclas (se regeneran); la música de la biblioteca SÍ se sube
+youtube/**/*.mp3
+redes/**/*.mp3
+_trozos/
+clips/
+**/output/_*
+**/*_raw.txt
+
+# ── El repositorio es PÚBLICO: nada con derechos de terceros ──
+# Música de la Biblioteca de audio de YouTube: se puede usar en vídeos, no redistribuir
+musica/
+# Fotogramas, miniaturas y transcripciones de vídeos de OTROS canales (solo para estudio interno)
+youtube/estudio_nicho/referencia_*/
+# PDF descargados (informes de empresas y el caso de Harvard, con derechos de autor)
+**/fuentes/*.pdf
+**/fuentes/hbs_*
+# Capturas sueltas
+/image.png
+
+# ── Temporales y del sistema ──
+render.log
+montaje.log
+progreso.log
+web/.claude_visto.json
+web/datos.json.tmp
+Thumbs.db
+desktop.ini
+.claude/settings.local.json
+
+# Cualquier audio (voces de prueba, locuciones, mezclas)
+*.mp3

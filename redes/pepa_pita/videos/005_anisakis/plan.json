@@ -1,0 +1,87 @@
+{
+ "voz": "voz/voz.mp3",
+ "subtitulos": "voz/subtitulos.srt",
+ "musica": "../../../../musica/pepa_pita/Travelling Light - Blue Deer Studio.mp3",
+ "musica_db": -22,
+ "fondo": "../../fondos/pexels_29148450.jpg",
+ "cabecera": "¿BOQUERONES CASEROS?",
+ "planos": [
+  {
+   "desde": 0,
+   "imagen": "busto"
+  },
+  {
+   "desde": 3.5,
+   "imagen": "pose_ojo"
+  },
+  {
+   "desde": 5.3,
+   "imagen": "busto"
+  },
+  {
+   "desde": 8.8,
+   "imagen": "exp_pensativa"
+  },
+  {
+   "desde": 11.5,
+   "imagen": "busto"
+  },
+  {
+   "desde": 18.2,
+   "imagen": "pose_senala"
+  },
+  {
+   "desde": 21.7,
+   "imagen": "pose_sartenes"
+  },
+  {
+   "desde": 26.5,
+   "imagen": "busto"
+  },
+  {
+   "desde": 29.2,
+   "imagen": "exp_sorprendida"
+  },
+  {
+   "desde": 30.5,
+   "imagen": "busto"
+  },
+  {
+   "desde": 35.4,
+   "imagen": "exp_guino"
+  }
+ ],
+ "rotulos": [
+  {
+   "desde": 5.3,
+   "hasta": 8.8,
+   "texto": "VINAGRE: NO BASTA",
+   "sub": "ni la sal de los boquerones caseros · AESAN"
+  },
+  {
+   "desde": 11.5,
+   "hasta": 18.2,
+   "texto": "−15 °C · 5 DÍAS",
+   "sub": "congélalo antes · AESAN, 2025"
+  },
+  {
+   "desde": 18.2,
+   "hasta": 21.7,
+   "texto": "¿DUDAS? CONGELADO",
+   "sub": "cómpralo ya congelado · AESAN"
+  },
+  {
+   "desde": 21.7,
+   "hasta": 26.5,
+   "texto": "60 °C · 1 MINUTO",
+   "sub": "en toda la pieza · AESAN"
+  },
+  {
+   "desde": 29.2,
+   "hasta": 32.8,
+   "texto": "OBLIGATORIO POR LEY",
+   "sub": "en bares y restaurantes · RD 1021/2022"
+  }
+ ],
+ "salida": "salida/PEPA_005_anisakis.mp4"
+}

@@ -1,0 +1,1438 @@
+{
+  "tareas": [
+    {
+      "id": "c-nicho",
+      "title": "Investigar un nicho de YouTube que pague bien y tenga poca competencia",
+      "date": "2026-09-25",
+      "who": "claude",
+      "kind": "tarea",
+      "project": "youtube",
+      "status": "hecho",
+      "platforms": [
+        "YouTube"
+      ],
+      "notes": "Resultado: Economía de lo cotidiano (empresas españolas, súper y facturas).",
+      "createdAt": "2026-09-25T10:00:00Z",
+      "createdBy": "claude",
+      "updatedAt": "2026-09-25T10:00:00Z",
+      "comentarios": []
+    },
+    {
+      "id": "c-animaciones",
+      "title": "Investigar el formato de vídeos animados (pollos) a coste 0",
+      "date": "2026-09-25",
+      "who": "claude",
+      "kind": "tarea",
+      "project": "redes",
+      "status": "hecho",
+      "platforms": [
+        "Instagram",
+        "TikTok",
+        "Facebook"
+      ],
+      "notes": "Resultado: Pepa Pita, gallina cocinera animada.",
+      "createdAt": "2026-09-25T10:00:00Z",
+      "createdBy": "claude",
+      "updatedAt": "2026-09-25T10:00:00Z",
+      "comentarios": []
+    },
+    {
+      "id": "c-propuesta",
+      "title": "Presentar la propuesta final: nicho de YouTube y formato de redes",
+      "date": "2026-09-25",
+      "who": "claude",
+      "kind": "tarea",
+      "project": "general",
+      "status": "hecho",
+      "platforms": [],
+      "notes": "Está en youtube/00_ESTRATEGIA_CANAL.md.",
+      "createdAt": "2026-09-25T10:00:00Z",
+      "createdBy": "claude",
+      "updatedAt": "2026-09-25T10:00:00Z",
+      "comentarios": []
+    },
+    {
+      "id": "c-nombres",
+      "title": "Elegir los nombres: Ticket Medio (YouTube) y Pepa Pita (redes)",
+      "date": "2026-09-25",
+      "who": "claude",
+      "kind": "tarea",
+      "project": "general",
+      "status": "hecho",
+      "platforms": [],
+      "notes": "",
+      "createdAt": "2026-09-25T10:00:00Z",
+      "createdBy": "claude",
+      "updatedAt": "2026-09-25T10:00:00Z",
+      "comentarios": []
+    },
+    {
+      "id": "u-p1-gmail",
+      "title": "PASO 1 · Crear el Gmail del proyecto",
+      "date": "2026-09-25",
+      "who": "tu",
+      "kind": "tarea",
+      "project": "general",
+      "status": "hecho",
+      "platforms": [],
+      "notes": "Por qué: una cuenta de correo solo para el proyecto. Así no se mezcla con tu correo personal y, si algún día vendes el canal, va todo junto.\n\n1. Abre https://accounts.google.com/signup\n2. Nombre: Ticket · Apellidos: Medio. Si prefieres poner tu nombre real, no pasa nada: no se ve en el canal.\n3. Fecha de nacimiento y sexo: los tuyos. Para cobrar hay que ser mayor de 18 años.\n4. Elige «Crear tu propia dirección de Gmail» y prueba, por este orden:\n   ticketmedio.canal@gmail.com\n   ticketmedio.es@gmail.com\n   ticketmedio.oficial@gmail.com\n5. Pon una contraseña larga y apúntala en un sitio seguro: en papel o en el gestor de contraseñas de Google.\n6. Cuando te pida el móvil, pon el tuyo. Es solo para verificar.\n7. Activa la verificación en dos pasos: https://myaccount.google.com/signinoptions/twosv\n   YouTube la exige para poder cobrar, así que mejor dejarla hecha ya.\n\nEsta misma cuenta la usaremos para YouTube, Gemini, Azure, Instagram y TikTok.\n\nAl terminar: marca la tarea como hecha y escribe en el Tablón qué dirección de correo te ha salido. La contraseña, NUNCA.",
+      "createdAt": "2026-09-25T09:02:51Z",
+      "createdBy": "claude",
+      "comentarios": [
+        {
+          "id": "c-claude1",
+          "author": "claude",
+          "createdAt": "2026-09-25T09:13:06Z",
+          "text": "Cuando tengas el Gmail creado, escribe aquí la dirección que te ha salido y marca la tarea como hecha. La contraseña, nunca."
+        },
+        {
+          "id": "c-mugr621l",
+          "text": "Creado. el mail es ticketmedio.es@gmail.com",
+          "author": "tu",
+          "createdAt": "2026-09-25T09:22:51.225Z"
+        },
+        {
+          "id": "c-112353281410",
+          "author": "claude",
+          "text": "¡Perfecto! Apuntado: ticketmedio.es@gmail.com. Ya puedes seguir con el PASO 2 (el canal de YouTube). Recuerda activar la verificación en dos pasos si no lo has hecho.",
+          "createdAt": "2026-09-25T09:23:53.281Z"
+        }
+      ],
+      "updatedAt": "2026-09-25T09:22:52.430Z"
+    },
+    {
+      "id": "u-p2-youtube",
+      "title": "PASO 2 · Crear el canal de YouTube «Ticket Medio»",
+      "date": "2026-09-25",
+      "who": "tu",
+      "kind": "tarea",
+      "project": "youtube",
+      "status": "hecho",
+      "platforms": [
+        "YouTube"
+      ],
+      "notes": "1. Entra en https://www.youtube.com con la cuenta nueva («Iniciar sesión», arriba a la derecha).\n2. Abre https://www.youtube.com/create_channel\n3. Nombre: Ticket Medio\n   Identificador (@): TicketMedio. Si está cogido, prueba TicketMedioES\n4. No subas foto todavía: el logo y el banner los diseño yo.\n5. Verifica tu teléfono en https://www.youtube.com/verify\n   Sin esto no se pueden poner miniaturas propias ni subir vídeos de más de 15 minutos.\n6. Abre https://studio.youtube.com → Configuración (abajo a la izquierda) → Canal → Información básica:\n   País de residencia: España\n   Palabras clave: economía, empresas, negocios, España, supermercados, consumo, documental\n   Pulsa Guardar.\n7. En YouTube Studio → Personalización → Información básica, pega esta descripción:\n\nCómo ganan dinero de verdad las empresas y los servicios que pagas cada día en España. Mercadona, Zara, la factura de la luz, los bancos, Correos… explicado con datos y fuentes, sin humo y sin venderte nada.\n\nUn vídeo nuevo cada semana.\n\nGuiones e investigación propios. La narración usa una voz sintética.\n\n   Pulsa Publicar.\n8. NO subas ningún vídeo todavía.\n\nAl terminar: marca la tarea como hecha y escribe en el Tablón qué @ te ha salido.",
+      "createdAt": "2026-09-25T09:02:51Z",
+      "createdBy": "claude",
+      "comentarios": [
+        {
+          "id": "c-mugrgtck",
+          "text": "Todos los pasos completados",
+          "author": "tu",
+          "createdAt": "2026-09-25T09:31:13.172Z"
+        },
+        {
+          "id": "c-113121598606",
+          "author": "claude",
+          "text": "¡Genial, canal creado! ✓ Un detalle: ¿qué @ te ha salido al final, @TicketMedio u otro? Escríbemelo aquí, porque lo necesito para las descripciones. Siguiente: el PASO 2b (subir el logo y el banner, 5 minutos) y después el PASO 3 (Azure, la voz).",
+          "createdAt": "2026-09-25T09:31:21.598Z"
+        },
+        {
+          "id": "c-mugrlu78",
+          "text": "@TicketMedio  ese es el que me ha creado, no he tenido que hacer nada mas que eso",
+          "author": "tu",
+          "createdAt": "2026-09-25T09:35:07.556Z"
+        },
+        {
+          "id": "c-113554058118",
+          "author": "claude",
+          "text": "Apuntado: @TicketMedio ✓. Es el identificador perfecto.",
+          "createdAt": "2026-09-25T09:35:54.058Z"
+        }
+      ],
+      "updatedAt": "2026-09-25T09:31:09.932Z"
+    },
+    {
+      "id": "u-p3-azure",
+      "title": "PASO 3 · Cuenta gratuita de Azure para la voz",
+      "date": "2026-09-25",
+      "who": "tu",
+      "kind": "tarea",
+      "project": "general",
+      "status": "hecho",
+      "platforms": [],
+      "notes": "Para qué: es la voz del narrador de Ticket Medio y la de Pepa Pita. Es gratis hasta unas 8 horas de audio al mes, mucho más de lo que vamos a usar.\n\nTe aviso: Azure pide una tarjeta para comprobar tu identidad. No cobra nada mientras usemos el plan gratuito «Free F0», que es el que vamos a elegir.\n\n0. Usa una ventana privada (Ctrl + Mayús + N) para que no se mezcle con otras cuentas de Microsoft.\n1. Primero convierte el Gmail en cuenta de Microsoft: entra en https://signup.live.com, escribe ticketmedio.es@gmail.com, crea una contraseña (apúntala) y pega el código que te llegará a ese Gmail.\n2. En la misma ventana privada, abre https://azure.microsoft.com/es-es/free/, pulsa «Empieza gratis» e inicia sesión con ticketmedio.es@gmail.com. Si te pregunta «profesional o personal», elige PERSONAL.\n3. Rellena tus datos, el teléfono y la tarjeta (solo para verificar).\n4. Cuando estés dentro del portal, abre este enlace directo:\n   https://portal.azure.com/#create/Microsoft.CognitiveServicesSpeechServices\n5. Rellénalo así:\n   Suscripción: la que salga (suele ser «Azure subscription 1»)\n   Grupo de recursos: «Crear nuevo» → canal\n   Región: France Central (si da error: Sweden Central → North Europe → Germany West Central)\n   Nombre: ticketmedio-voz (si está cogido, añádele tu año de nacimiento)\n   Plan de tarifa: Free F0   ← MUY IMPORTANTE\n6. Pulsa «Revisar y crear» y después «Crear». Cuando ponga «La implementación se completó», pulsa «Ir al recurso».\n7. En el menú de la izquierda, entra en «Claves y punto de conexión».\n8. Copia la CLAVE 1 y la Región, en minúsculas y sin espacios (francecentral, swedencentral, northeurope o germanywestcentral).\n9. Pégalas en este archivo de tu ordenador, en la línea que corresponde:\n   Descargas › faceless › config › claves.txt\n   Ábrelo con doble clic, pega y guarda con Ctrl+G o Ctrl+S.\n\nNUNCA pegues la clave en el Tablón ni se la mandes a nadie.\nSi alguna vez Azure te pide «actualizar» la cuenta o pagar, no toques nada y avísame.",
+      "createdAt": "2026-09-25T09:02:51Z",
+      "createdBy": "claude",
+      "comentarios": [
+        {
+          "id": "c-113638037275",
+          "author": "claude",
+          "text": "El error «No hemos podido encontrar ninguna cuenta» sale porque el Gmail aún no es una cuenta de Microsoft. He actualizado los pasos 0, 1 y 2 de este manual: primero creas la cuenta en https://signup.live.com con tu Gmail y después entras en Azure.",
+          "createdAt": "2026-09-25T09:36:38.037Z"
+        },
+        {
+          "id": "c-mugs2ib1",
+          "text": "Lo tenemos!!!!",
+          "author": "tu",
+          "createdAt": "2026-09-25T09:48:05.293Z"
+        },
+        {
+          "id": "c-115013129996",
+          "author": "claude",
+          "text": "El error «The selected region is currently not accepting new customers» significa que West Europe está llena para cuentas nuevas. Usa France Central (o Sweden Central, North Europe o Germany West Central). He corregido el manual.",
+          "createdAt": "2026-09-25T09:50:13.130Z"
+        },
+        {
+          "id": "c-115136135504",
+          "author": "claude",
+          "text": "¡Bien hecho, lo más difícil ya está! ✓ Pero el archivo config/claves.txt sigue vacío: la clave no se ha guardado. Ábrelo desde Descargas › faceless › config › claves.txt (doble clic), pega la CLAVE 1 detrás de «AZURE_VOZ_CLAVE:» y la región (por ejemplo francecentral) detrás de «AZURE_VOZ_REGION:», y guarda con Ctrl+G. La clave está en Azure: tu recurso ticketmedio-voz → «Claves y punto de conexión».",
+          "createdAt": "2026-09-25T09:51:36.135Z"
+        },
+        {
+          "id": "c-az-ok",
+          "author": "claude",
+          "createdAt": "2026-09-25T09:56:02.000Z",
+          "text": "Clave comprobada: ¡la voz funciona! ✓ He creado la tarea «Elegir la voz del narrador» con 6 muestras. Tu siguiente paso: escucharlas y elegir una. Después, el PASO 4 (Instagram de Pepa Pita)."
+        }
+      ],
+      "updatedAt": "2026-09-25T09:48:06.276Z"
+    },
+    {
+      "id": "u-p4-instagram",
+      "title": "PASO 4 · Crear el Instagram de Pepa Pita",
+      "date": "2026-09-25",
+      "who": "tu",
+      "kind": "tarea",
+      "project": "redes",
+      "status": "hecho",
+      "platforms": [
+        "Instagram"
+      ],
+      "notes": "1. Descarga Instagram en el móvil o entra en https://www.instagram.com/accounts/emailsignup/\n2. Regístrate con el Gmail del proyecto, no con tu número.\n   Si ya tienes un Instagram personal, desde la app: tu perfil → tu nombre de usuario (arriba) → «Añadir cuenta de Instagram».\n3. Para el nombre de usuario, prueba por este orden:\n   pepapita\n   pepapita.cocina\n   pepapitacocina\n   soypepapita\n4. Nombre: Pepa Pita\n5. Pásala a cuenta profesional: menú ☰ → «Tipo de cuenta y herramientas» → «Cambiar a cuenta profesional» → Creador → categoría «Chef» o «Blog de comida».\n6. Biografía (cópiala tal cual):\nSoy Pepa 🐔👩‍🍳 Menús baratos, recetas fáciles y trucos de cocina de aquí. Personaje animado con IA.\n7. No publiques nada todavía ni pongas foto de perfil: la foto será Pepa, cuando la tengamos.\n\nAl terminar: escribe en el Tablón qué nombre de usuario te ha salido.",
+      "createdAt": "2026-09-25T09:02:51Z",
+      "createdBy": "claude",
+      "comentarios": [
+        {
+          "id": "c-mugslied",
+          "text": "Insta creado. Usuario soypepapita",
+          "author": "tu",
+          "createdAt": "2026-09-25T10:02:51.877Z"
+        },
+        {
+          "id": "c-ig1",
+          "author": "claude",
+          "createdAt": "2026-09-25T10:02:58.000Z",
+          "text": "Revisado ✓: @soypepapita existe, se llama «Pepa Pita» y tiene 0 publicaciones, perfecto. Comprueba solo que la biografía está puesta y que en tu perfil sale «Panel profesional» (eso confirma que es cuenta de Creador). Siguiente: el PASO 5 (Facebook)."
+        },
+        {
+          "id": "c-120852418953",
+          "author": "claude",
+          "text": "Cuenta de Creador confirmada ✓ («Tu cuenta de creador de Instagram está lista»). Biografía puesta y etiqueta «Perfil generado con IA» activada. PASO 4 terminado del todo. La foto de perfil la pondremos cuando tengamos a Pepa (PASO 7).",
+          "createdAt": "2026-09-25T10:08:52.418Z"
+        }
+      ],
+      "updatedAt": "2026-09-25T10:02:58.000Z"
+    },
+    {
+      "id": "u-p5-facebook",
+      "title": "PASO 5 · Crear la página de Facebook y conectarla con Instagram",
+      "date": "2026-09-25",
+      "who": "tu",
+      "kind": "tarea",
+      "project": "redes",
+      "status": "hecho",
+      "platforms": [
+        "Facebook",
+        "Instagram"
+      ],
+      "notes": "Para qué: Facebook Reels también da visitas. Además, desde Meta Business Suite (gratis) podrás programar las publicaciones de Instagram y Facebook a la vez.\n\nImportante: Facebook solo deja crear páginas desde un perfil personal real, y crear perfiles falsos va contra sus normas. Usa tu perfil personal: la página NO enseña quién la administra.\n\n1. Entra en Facebook con tu perfil personal. Si no tienes, créalo con tus datos reales.\n2. Abre https://www.facebook.com/pages/create\n3. Nombre de la página: Pepa Pita\n   Categoría: «Creador de contenido digital» o «Blog de comida»\n   Biografía: Menús baratos, recetas fáciles y trucos de cocina de aquí. Personaje animado con IA.\n4. Pulsa «Crear página». Sáltate lo de invitar a amigos.\n5. Conecta la página con Instagram: en la página → Configuración → «Cuentas vinculadas» → Instagram → «Conectar cuenta» → entra con la cuenta de Pepa Pita.\n6. Comprueba que ves las dos cuentas en https://business.facebook.com/latest/home\n   Desde ahí programaremos las publicaciones.",
+      "createdAt": "2026-09-25T09:02:51Z",
+      "createdBy": "claude",
+      "comentarios": [
+        {
+          "id": "c-121116804642",
+          "author": "claude",
+          "text": "Página «Pepa Pita» creada ✓, con la biografía correcta y la categoría Comida y bebida. Falta lo más importante de este paso: conectarla con @soypepapita (punto 5 del manual). No añadas dirección. La foto de perfil y la de portada las pondremos cuando Pepa esté dibujada.",
+          "createdAt": "2026-09-25T10:11:16.804Z"
+        },
+        {
+          "id": "c-mugsy2yk",
+          "text": "Cuenta de instagram conectada con facebook",
+          "author": "tu",
+          "createdAt": "2026-09-25T10:12:38.396Z"
+        },
+        {
+          "id": "c-121300637521",
+          "author": "claude",
+          "text": "Instagram @soypepapita conectado con la página de Facebook ✓. PASO 5 terminado. Desde https://business.facebook.com podrás programar las publicaciones de las dos redes a la vez. Siguiente: el PASO 6 (TikTok).",
+          "createdAt": "2026-09-25T10:13:00.637Z"
+        }
+      ],
+      "updatedAt": "2026-09-25T10:13:00.548Z"
+    },
+    {
+      "id": "u-p6-tiktok",
+      "title": "PASO 6 · Crear el TikTok de Pepa Pita (desde la app del móvil)",
+      "date": "2026-09-28",
+      "who": "tu",
+      "kind": "tarea",
+      "project": "redes",
+      "status": "hecho",
+      "platforms": [
+        "TikTok"
+      ],
+      "notes": "1. Descarga TikTok en el móvil o entra en https://www.tiktok.com/signup\n2. Elige «Usar correo electrónico» y pon el Gmail del proyecto.\n3. Nombre de usuario: soypepapita, el mismo que en Instagram (si está cogido, prueba soy.pepapita o soypepapita.cocina).\n   Nombre: Pepa Pita\n4. Biografía:\nPepa 🐔 Menús baratos y recetas fáciles. Personaje animado con IA.\n5. Deja la cuenta como PERSONAL, no la cambies a «empresa». Las cuentas personales tienen más música disponible y son las que pueden optar a los pagos de TikTok.\n6. Desde el ordenador, comprueba que puedes entrar en https://www.tiktok.com/tiktokstudio\n   Desde ahí se programan los vídeos.\n7. No publiques nada todavía.",
+      "createdAt": "2026-09-25T09:02:51Z",
+      "createdBy": "claude",
+      "comentarios": [
+        {
+          "id": "c-mugt9y1n",
+          "text": "Dejo tik tok para mas adelante",
+          "author": "tu",
+          "createdAt": "2026-09-25T10:21:51.899Z"
+        },
+        {
+          "id": "c-tt1",
+          "author": "claude",
+          "createdAt": "2026-09-25T10:24:20.000Z",
+          "text": "En pausa: el código de verificación falla en el ordenador (ni Brave ni Edge). Lo pasamos al lunes y lo harás desde la app de TikTok en el móvil, que es donde mejor funciona. Si el correo sigue fallando, en la app puedes registrarte con tu número de teléfono y añadir el Gmail después."
+        },
+        {
+          "id": "c-tt-hecho",
+          "author": "claude",
+          "createdAt": "2026-09-28T09:33:36.000Z",
+          "text": "Cuenta creada con «Continuar con Google» (el código por correo fallaba). Usuario provisional: @soypepita. TikTok no deja cambiarlo hasta dentro de 30 días: hay un recordatorio el 28/10."
+        }
+      ],
+      "updatedAt": "2026-09-28T09:33:36.000Z"
+    },
+    {
+      "id": "u-p7-gemini",
+      "title": "PASO 7 · Crear el personaje de Pepa en Gemini",
+      "date": "2026-09-25",
+      "who": "tu",
+      "kind": "material",
+      "project": "redes",
+      "status": "hecho",
+      "platforms": [],
+      "notes": "Vamos a crear la cara de Pepa. Es lo único que no puedo hacer yo desde tu ordenador.\n\n1. Abre https://gemini.google.com con el Gmail del proyecto.\n2. Copia este texto tal cual, pégalo y envíalo:\n\nCrea una hoja de personaje de una gallina cocinera llamada Pepa, en estilo de animación 3D de película familiar: formas suaves y redondeadas, muy expresiva, pero con un diseño totalmente original. Plumas color canela con el pecho crema, cresta roja pequeña, ojos grandes y marrones con mirada pícara y simpática, gorro de cocinera blanco un poco torcido, delantal de cuadros verde oliva y blanco y un pañuelo rojo al cuello. Sin gafas. Muéstrala de cuerpo entero en tres vistas (frente, perfil y espalda), con exactamente la misma apariencia en las tres. Fondo blanco liso. Sin texto ni logotipos.\n\n3. Si algo no te gusta, pide cambios con palabras normales («más redonda», «el delantal más oscuro»…) hasta que te encante.\n4. Cuando la tengas, pega esto:\n\nAhora la misma Pepa, idéntica en ropa y colores, en 6 expresiones distintas: contenta, sorprendida, pensativa, riéndose, guiñando un ojo y preocupada. Cuerpo entero, fondo blanco liso, sin texto.\n\n5. Descarga las imágenes (pasa el ratón por encima → botón de descargar) y guárdalas en:\n   Descargas › faceless › redes › pepa_pita › personaje\n6. Escribe «Pepa lista» en el Tablón y yo me encargo del resto.",
+      "createdAt": "2026-09-25T09:02:51Z",
+      "createdBy": "claude",
+      "comentarios": [
+        {
+          "id": "c-mugtcq0a",
+          "text": "Pepa lista",
+          "author": "tu",
+          "createdAt": "2026-09-25T10:24:01.450Z"
+        },
+        {
+          "id": "c-pepa1",
+          "author": "claude",
+          "createdAt": "2026-09-25T10:25:19.000Z",
+          "text": "¡Pepa ha quedado genial! ✓ El diseño es original y las tres vistas son coherentes. Con ella he hecho ya la foto de perfil (ver la tarea «Poner la foto de perfil de Pepa»). Para animarla necesito una segunda tanda de imágenes: la tienes en la tarea «PASO 7b»."
+        }
+      ],
+      "updatedAt": "2026-09-25T10:25:19.000Z"
+    },
+    {
+      "id": "c-sistema",
+      "title": "Instalar las herramientas (FFmpeg) y montar el sistema de producción",
+      "date": "2026-09-25",
+      "who": "claude",
+      "kind": "tarea",
+      "project": "general",
+      "status": "hecho",
+      "platforms": [],
+      "notes": "FFmpeg, la voz de Azure (en cuanto tengas la clave), subtítulos automáticos y plantillas de montaje.",
+      "createdAt": "2026-09-25T10:00:00Z",
+      "createdBy": "claude",
+      "updatedAt": "2026-09-25T11:01:25.342Z",
+      "comentarios": [
+        {
+          "id": "c-claude2",
+          "author": "claude",
+          "createdAt": "2026-09-25T09:13:06Z",
+          "text": "FFmpeg instalado ✓. Sigo con el resto del sistema."
+        },
+        {
+          "id": "c-113217978461",
+          "author": "claude",
+          "text": "Avance: ya está listo el programa de la voz (convierte el guion en audio con Azure y crea los subtítulos sincronizados). Lo probaré en cuanto la clave esté en config/claves.txt (PASO 3). Ahora sigo con el programa de montaje.",
+          "createdAt": "2026-09-25T09:32:17.978Z"
+        },
+        {
+          "id": "c-sis3",
+          "author": "claude",
+          "createdAt": "2026-09-25T09:43:26.000Z",
+          "text": "Avance: el programa de montaje ya funciona y está probado (imágenes con movimiento, textos en pantalla, subtítulos, voz y música mezclada, formato exacto para YouTube). Faltan: probar la voz de Azure (PASO 3) y la descarga automática de stock (PASO 8, Pexels)."
+        },
+        {
+          "id": "c-sis4",
+          "author": "claude",
+          "createdAt": "2026-09-25T09:56:02.000Z",
+          "text": "Voz de Azure probada y funcionando ✓ (francecentral, plan gratuito; también funcionan las voces HD). Solo queda la descarga automática de stock (PASO 8)."
+        },
+        {
+          "id": "c-120138299151",
+          "author": "claude",
+          "text": "Programa de stock (Pexels) escrito; lo probaré en cuanto la clave esté en claves.txt (PASO 8). El sistema ya tiene voz ✓, montaje ✓ y stock (pendiente de clave).",
+          "createdAt": "2026-09-25T10:01:38.299Z"
+        },
+        {
+          "id": "c-130125476253",
+          "author": "claude",
+          "text": "Sistema de producción COMPLETO ✓: voz (Azure, Tristán HD), montaje (FFmpeg), gráficos animados propios, subtítulos y stock automático (Pexels). Solo falta la música (PASO 9).",
+          "createdAt": "2026-09-25T11:01:25.476Z"
+        }
+      ]
+    },
+    {
+      "id": "c-marca",
+      "title": "Diseñar el logo y el banner de Ticket Medio",
+      "date": "2026-09-25",
+      "who": "claude",
+      "kind": "tarea",
+      "project": "youtube",
+      "status": "hecho",
+      "platforms": [
+        "YouTube"
+      ],
+      "notes": "Te los dejo en la carpeta del proyecto con instrucciones para subirlos.",
+      "createdAt": "2026-09-25T09:02:51Z",
+      "createdBy": "claude",
+      "updatedAt": "2026-09-25T09:26:33.000Z",
+      "comentarios": [
+        {
+          "id": "c-marca1",
+          "author": "claude",
+          "createdAt": "2026-09-25T09:26:33.000Z",
+          "text": "Logo y banner terminados ✓. Están en Descargas › faceless › youtube › marca. En la tarea «Subir el logo y el banner» tienes cómo ponerlos."
+        },
+        {
+          "id": "c-mugrijng",
+          "text": "Los acabo de subir a Youtube Studio. Revisar cuando se pueda",
+          "author": "tu",
+          "createdAt": "2026-09-25T09:32:33.916Z"
+        }
+      ]
+    },
+    {
+      "id": "c-piloto",
+      "title": "Vídeo piloto de Ticket Medio (sin publicar)",
+      "date": "2026-09-28",
+      "who": "claude",
+      "kind": "tarea",
+      "project": "youtube",
+      "status": "hecho",
+      "platforms": [
+        "YouTube"
+      ],
+      "notes": "Para ajustar la voz, el ritmo y el estilo visual. Necesita la clave de Azure (paso 3).",
+      "createdAt": "2026-09-25T10:00:00Z",
+      "createdBy": "claude",
+      "updatedAt": "2026-09-25T11:11:19.440Z",
+      "comentarios": [
+        {
+          "id": "c-121154859536",
+          "author": "claude",
+          "text": "Empezado antes de tiempo: tema del piloto «Por qué la gasolina sube en un día y tarda semanas en bajar», de unos 3–4 minutos. Estoy reuniendo los datos oficiales (CNMC, Ministerio, BOE). Si el piloto queda bien, puede ser el vídeo 1.",
+          "createdAt": "2026-09-25T10:11:54.859Z"
+        },
+        {
+          "id": "c-pil2",
+          "author": "claude",
+          "createdAt": "2026-09-25T10:24:20.000Z",
+          "text": "Guion escrito (788 palabras, datos de CNMC, BOE, OCU y Energy Economics) y voz generada: 5 min 26 s. Sigo con los gráficos y el montaje."
+        },
+        {
+          "id": "c-123201010460",
+          "author": "claude",
+          "text": "Nuevo en el sistema: gráficos animados propios (el ticket que se imprime línea a línea, cifras que suben, la curva del cohete y la pluma, comparativas…) con los colores del canal. Es el sello visual de Ticket Medio y lo que nos separa de los canales de «IA en serie». Ahora preparo todas las escenas del piloto.",
+          "createdAt": "2026-09-25T10:32:01.010Z"
+        },
+        {
+          "id": "c-131119521077",
+          "author": "claude",
+          "text": "¡Piloto terminado! ✓ 5 min 26 s, 54 planos: gráficos animados propios, 13 clips reales de Pexels, voz de Tristán HD y todas las cifras con su fuente en pantalla. Está en: Descargas › faceless › youtube › video_001_gasolina › output › FINAL_YOUTUBE_1080P.mp4. Todavía NO lleva música (la pondré cuando hagas el PASO 9) ni miniatura. Si te gusta, puede ser el vídeo 1 del canal.",
+          "createdAt": "2026-09-25T11:11:19.521Z"
+        },
+        {
+          "id": "c-131801223810",
+          "author": "claude",
+          "text": "Paquete de publicación preparado: miniatura (output/MINIATURA_1280x720.png), 10 títulos con los 3 mejores, descripción con capítulos y fuentes, y storyboard. Si das el visto bueno al vídeo, está listo para subir.",
+          "createdAt": "2026-09-25T11:18:01.223Z"
+        }
+      ]
+    },
+    {
+      "id": "c-reel-prueba",
+      "title": "Primer vídeo de Pepa Pita: «No laves el pollo»",
+      "date": "2026-09-28",
+      "who": "claude",
+      "kind": "tarea",
+      "project": "redes",
+      "status": "hecho",
+      "platforms": [
+        "Instagram",
+        "TikTok",
+        "Facebook"
+      ],
+      "notes": "Necesita las imágenes del paso 7.",
+      "createdAt": "2026-09-25T10:00:00Z",
+      "createdBy": "claude",
+      "updatedAt": "2026-09-25T11:54:59.000Z",
+      "comentarios": [
+        {
+          "id": "c-pepa-ok",
+          "author": "claude",
+          "createdAt": "2026-09-25T11:54:59.000Z",
+          "text": "Terminado y revisado ✓: 41 s en vertical, con el pico de Pepa sincronizado con la voz, 7 cambios de expresión, subtítulos grandes y rótulos con los datos (EFSA 2024). Volumen ideal (−16 LUFS)."
+        }
+      ]
+    },
+    {
+      "id": "u-revisar-piloto",
+      "title": "Auditoría de calidad del piloto (hecha por Claude)",
+      "date": "2026-09-25",
+      "who": "claude",
+      "kind": "tarea",
+      "project": "general",
+      "status": "hecho",
+      "platforms": [],
+      "notes": "Hecha: ver youtube/video_001_gasolina/output/AUDITORIA.md. Decisión: el piloto se publica como vídeo 1 hoy a las 18:00.",
+      "createdAt": "2026-09-25T10:00:00Z",
+      "createdBy": "claude",
+      "updatedAt": "2026-09-25T11:24:42.000Z",
+      "comentarios": []
+    },
+    {
+      "id": "u-ideas-1",
+      "title": "Escribir en el chat «IDEAS DE ESTA SEMANA» y elegir el tema del vídeo 2",
+      "date": "2026-09-28",
+      "who": "tu",
+      "kind": "tarea",
+      "project": "youtube",
+      "status": "hecho",
+      "platforms": [
+        "YouTube"
+      ],
+      "notes": "Te propondré 5 temas y tú eliges uno. Unos 10 minutos.",
+      "createdAt": "2026-09-25T09:02:51Z",
+      "createdBy": "claude",
+      "comentarios": [
+        {
+          "id": "c-mukxc96c",
+          "text": "ideas de esta semana",
+          "author": "tu",
+          "createdAt": "2026-09-28T07:26:42.804Z"
+        },
+        {
+          "id": "c-120332577833",
+          "author": "claude",
+          "text": "Tema del vídeo 2 decidido tras el estudio de nicho: Mercadona, «¿dónde va cada euro que dejas en la caja?».",
+          "createdAt": "2026-09-28T10:03:32.577Z"
+        }
+      ],
+      "updatedAt": "2026-09-28T10:03:32.501Z"
+    },
+    {
+      "id": "c-video-1",
+      "title": "Producir el vídeo 2 de Ticket Medio y sus 3 Shorts",
+      "date": "2026-09-30",
+      "who": "claude",
+      "kind": "tarea",
+      "project": "youtube",
+      "status": "hecho",
+      "platforms": [
+        "YouTube",
+        "Shorts"
+      ],
+      "notes": "Guion, fuentes, voz, montaje, subtítulos, miniatura, título y descripción.",
+      "createdAt": "2026-09-25T09:02:51Z",
+      "createdBy": "claude",
+      "updatedAt": "2026-09-28T10:24:04.000Z",
+      "comentarios": [
+        {
+          "id": "c-v2-hecho",
+          "author": "claude",
+          "createdAt": "2026-09-28T10:24:04.000Z",
+          "text": "Terminado el lunes 28: vídeo de 9:04 con la mascota y escenarios ilustrados, 3 Shorts verticales con subtítulos, miniatura, título, descripción con capítulos, fuentes y auditoría (output/AUDITORIA.md)."
+        }
+      ]
+    },
+    {
+      "id": "u-revisar-1",
+      "title": "Ver el vídeo de Mercadona y los 3 Shorts como espectador (12 min)",
+      "date": "2026-10-01",
+      "who": "tu",
+      "kind": "tarea",
+      "project": "youtube",
+      "status": "hecho",
+      "platforms": [
+        "YouTube"
+      ],
+      "notes": "El vídeo y los Shorts ya están terminados y auditados. Esto es solo para que los veas como espectador (unos 12 minutos):\n   Descargas › faceless › youtube › video_002_mercadona › output\n   · FINAL_YOUTUBE_1080P.mp4  (vídeo largo, 9 min)\n   · SHORT_01_truco_mercadona.mp4, SHORT_02_quien_hace_hacendado.mp4, SHORT_03_donde_va_tu_euro.mp4\nSi algo se ve o se oye raro (un corte, un texto que no se lee…), dímelo en los comentarios con el minuto. Si todo bien, escribe «visto».",
+      "createdAt": "2026-09-25T09:02:51Z",
+      "createdBy": "claude",
+      "comentarios": [
+        {
+          "id": "c-mul6jxk5",
+          "text": "Lo veo perfecto. Todo en orden",
+          "author": "tu",
+          "createdAt": "2026-09-28T11:44:37.541Z"
+        }
+      ],
+      "updatedAt": "2026-09-28T11:44:36.498Z"
+    },
+    {
+      "id": "pub-yt-1",
+      "title": "Subir el vídeo 1 a YouTube y programarlo para hoy a las 18:00",
+      "date": "2026-09-25",
+      "who": "tu",
+      "kind": "publicacion",
+      "project": "youtube",
+      "status": "hecho",
+      "platforms": [
+        "YouTube"
+      ],
+      "notes": "Todo lo que necesitas está en esta carpeta:\n   Descargas › faceless › youtube › video_001_gasolina\nTardarás unos 15 minutos. Hazlo con calma y en este orden.\n\nA) SUBIR EL VÍDEO\n0. ⚠️ ANTES DE NADA: mira arriba a la derecha. Tiene que salir el LOGO DEL TICKET AMARILLO. Si sale otra foto: pulsa el círculo → «Cambiar de cuenta» → ticketmedio.es@gmail.com.\n1. Abre https://studio.youtube.com con ticketmedio.es@gmail.com\n2. Arriba a la derecha, pulsa «CREAR» → «Subir vídeos».\n3. Arrastra a la ventana el archivo:  output › FINAL_YOUTUBE_1080P.mp4\n   Mientras se sube, puedes ir rellenando lo demás.\n\nB) PESTAÑA «DETALLES»\n4. Título (cópialo tal cual):\nPor qué la gasolina sube en un día y tarda semanas en bajar\n5. Descripción: abre el archivo 08_DESCRIPCION.md (con el Bloc de notas), copia TODO lo que hay debajo de la primera línea (desde «¿Por qué la gasolina sube…» hasta «#gasolina #economía #España») y pégalo.\n6. Miniatura: pulsa «Subir archivo» y elige  output › MINIATURA_1280x720.png\n   (Si no te deja, es que falta verificar el teléfono en youtube.com/verify.)\n7. Lista de reproducción: déjalo vacío.\n8. Audiencia: marca «No, no es contenido creado para niños».\n9. Pulsa «Mostrar más» y rellena:\n   · Contenido alterado o sintético: «No». (La voz es sintética, pero no imita a nadie ni muestra hechos falsos; ya lo avisamos en la descripción.)\n   · Promoción pagada: no marques nada.\n   · Etiquetas: gasolina, precio gasolina, efecto cohete y pluma, gasolineras, CNMC, impuestos gasolina\n   · Idioma del vídeo: Español (España)\n   · Subtítulos: «Subir archivo» → «Con sincronización» → elige 06_SUBTITULOS.srt\n   · Categoría: Educación\n   · Comentarios: activados.\n10. Pulsa «Siguiente».\n\nC) PESTAÑA «ELEMENTOS DEL VÍDEO»\n11. En «Añadir una pantalla final» → «Importar desde vídeo» no hay nada todavía, así que elige la plantilla que tenga «1 elemento: Suscribirse». Pulsa «Guardar».\n12. «Siguiente».\n\nD) COMPROBACIONES\n13. Espera a que diga «No se han detectado problemas» (tarda unos minutos). «Siguiente».\n\nE) VISIBILIDAD\n14. Elige «Programar» → hoy, viernes 25 de septiembre, a las 18:00 → «Programar».\n\nF) DESPUÉS DE LAS 18:00\n15. Abre el vídeo en YouTube, escribe como comentario el texto de  output › COMENTARIO_FIJADO.txt  y publícalo.\n16. En los tres puntos de ese comentario → «Fijar».\n\nCuando termines, escribe «subido» en los comentarios y yo compruebo que todo está bien.",
+      "createdAt": "2026-09-25T09:02:51Z",
+      "createdBy": "claude",
+      "updatedAt": "2026-09-25T11:45:51.000Z",
+      "comentarios": [
+        {
+          "id": "c-yt1ok",
+          "author": "claude",
+          "createdAt": "2026-09-25T11:40:22.000Z",
+          "text": "¡Programado! ✓ Sale hoy, 25/09, a las 18:00. Enlace: https://youtu.be/M3c67b7xQg0"
+        },
+        {
+          "id": "c-yt1mal",
+          "author": "claude",
+          "createdAt": "2026-09-25T11:44:35.000Z",
+          "text": "Se subió desde otra cuenta. No pasa nada, aún no era público. 1) En esa cuenta: Contenido → ⋮ → «Eliminar para siempre». 2) Cambiar a ticketmedio.es@gmail.com (icono del ticket amarillo arriba a la derecha). 3) Volver a subirlo con este mismo manual y programarlo a las 18:00."
+        },
+        {
+          "id": "c-yt1ok2",
+          "author": "claude",
+          "createdAt": "2026-09-25T11:45:51.000Z",
+          "text": "Vuelto a subir en la cuenta buena ✓. Enlace definitivo: https://youtu.be/IaSxTruoUo4 (el anterior, M3c67b7xQg0, ya no vale). A las 18:00 compruebo en la página pública que esté en @TicketMedio."
+        }
+      ]
+    },
+    {
+      "id": "pub-pepa-1",
+      "title": "Pepa Pita · programar el vídeo 1 («No laves el pollo») para el martes a las 19:00",
+      "date": "2026-09-28",
+      "who": "tu",
+      "kind": "publicacion",
+      "project": "redes",
+      "status": "hecho",
+      "platforms": [
+        "Instagram",
+        "TikTok",
+        "Facebook"
+      ],
+      "notes": "Vídeo y texto listos en:\n   Descargas › faceless › redes › pepa_pita › videos › 001_no_laves_el_pollo › salida\n   · PEPA_001_no_laves_el_pollo.mp4  (el vídeo, 41 s)\n   · TEXTO_PUBLICACION.txt  (el texto que acompaña al vídeo)\n\nINSTAGRAM + FACEBOOK a la vez (desde el ordenador, unos 5 min)\n1. Abre https://business.facebook.com/latest/home y comprueba que arriba a la izquierda sale «Pepa Pita».\n2. Pulsa «Crear reel» (o «Crear publicación» → «Reel»).\n3. Marca las dos casillas: Facebook (Pepa Pita) e Instagram (soypepapita).\n4. «Añadir vídeo» → elige PEPA_001_no_laves_el_pollo.mp4.\n5. En el texto, pega TODO lo que hay en TEXTO_PUBLICACION.txt.\n6. Portada: elige un momento en que Pepa salga con la sartén (hacia el segundo 25).\n7. ETIQUETA DE IA: si aparece la opción «Etiqueta de IA» o «Contenido creado con IA», actívala.\n8. Abajo, en vez de «Publicar», pulsa la flecha → «Programar» → martes 29 a las 19:00.\n   (Si no te sale la opción de la etiqueta de IA en Business Suite: publícalo desde la app de Instagram en el móvil → «Configuración avanzada» → activa «Añadir etiqueta de IA».)\n\nCuando esté programado, escribe «Pepa programada» en los comentarios.",
+      "createdAt": "2026-09-25T09:02:51Z",
+      "createdBy": "claude",
+      "comentarios": [
+        {
+          "id": "c-mukx5yw5",
+          "text": "No encuentro el texto_publicacion",
+          "author": "tu",
+          "createdAt": "2026-09-28T07:21:49.542Z"
+        },
+        {
+          "id": "c-092221742774",
+          "author": "claude",
+          "text": "El archivo está en la carpeta salida y se llama TEXTO_PUBLICACION (Windows oculta el .txt; sale como «Documento de texto»). Te he abierto la carpeta y te he pegado el texto en el chat para que lo copies directamente.",
+          "createdAt": "2026-09-28T07:22:21.742Z"
+        },
+        {
+          "id": "c-mukxbqr0",
+          "text": "pepa programada",
+          "author": "tu",
+          "createdAt": "2026-09-28T07:26:18.924Z"
+        },
+        {
+          "id": "c-105616595902",
+          "author": "claude",
+          "text": "Programado para el martes 29 a las 19:00 en Instagram y Facebook (confirmado en el Planificador). Mañana compruebo si Instagram le ha puesto la etiqueta de IA.",
+          "createdAt": "2026-09-28T08:56:16.595Z"
+        }
+      ],
+      "updatedAt": "2026-09-28T08:56:16.538Z"
+    },
+    {
+      "id": "u-subir-marca",
+      "title": "PASO 2b · Subir el logo y el banner a YouTube",
+      "date": "2026-09-25",
+      "who": "tu",
+      "kind": "tarea",
+      "project": "youtube",
+      "status": "hecho",
+      "platforms": [
+        "YouTube"
+      ],
+      "notes": "Ya están hechos. Están en tu ordenador, en:\n   Descargas › faceless › youtube › marca\n   · logo_800.png  → foto del canal\n   · banner_2560x1440.png  → imagen de cabecera (banner)\n\nCómo subirlos (necesitas tener hecho el PASO 2):\n1. Abre https://studio.youtube.com con la cuenta ticketmedio.es@gmail.com\n2. En el menú de la izquierda, pulsa «Personalización» y luego la pestaña «Imagen de marca».\n3. En «Imagen», pulsa «Subir» y elige logo_800.png. Pulsa «Listo».\n4. En «Imagen de banner», pulsa «Subir» y elige banner_2560x1440.png.\n   YouTube te enseñará cómo se ve en tele, ordenador y móvil. No cambies el recuadro: ya está ajustado. Pulsa «Listo».\n5. Arriba a la derecha, pulsa «Publicar».\n6. (Opcional) En «Marca de agua del vídeo» también puedes subir logo_800.png: sale en la esquina de los vídeos y sirve para suscribirse con un clic.\n\nSi algo no te gusta del diseño (colores, texto…), dímelo en los comentarios y lo cambio.",
+      "createdAt": "2026-09-25T09:26:33.000Z",
+      "createdBy": "claude",
+      "comentarios": [
+        {
+          "id": "c-mugrj6dg",
+          "text": "Hecho. Ya subido a Youtube Studio. Revisar",
+          "author": "tu",
+          "createdAt": "2026-09-25T09:33:03.364Z"
+        },
+        {
+          "id": "c-113553984686",
+          "author": "claude",
+          "text": "Revisado ✓. El logo y el banner se ven perfectos en el canal, y la descripción también está bien. Solo hay un detalle: el nombre sale como «Ticket medio», con la m minúscula. Para cambiarlo: YouTube Studio → Personalización → Información básica → Nombre → escribe «Ticket Medio» → Publicar. Son 30 segundos.",
+          "createdAt": "2026-09-25T09:35:53.984Z"
+        }
+      ],
+      "updatedAt": "2026-09-25T09:33:01.140Z"
+    },
+    {
+      "id": "u-p8-pexels",
+      "title": "PASO 8 · Clave gratuita de Pexels (vídeos de stock)",
+      "date": "2026-09-25",
+      "who": "tu",
+      "kind": "material",
+      "project": "general",
+      "status": "hecho",
+      "platforms": [],
+      "notes": "Para qué: Pexels tiene millones de vídeos y fotos gratis con licencia para usarlos en YouTube. Con esta clave, yo mismo busco y descargo los clips que necesita cada vídeo, sin que tengas que hacer nada. Es gratis y lleva unos 3 minutos.\n\n1. Abre https://www.pexels.com/es-es/join/ y regístrate con el Gmail del proyecto (puedes usar «Continuar con Google»).\n2. Abre https://www.pexels.com/es-es/api/ y pulsa «Tu clave de API» (o «Get Started»).\n3. Rellena el formulario:\n   Nombre del proyecto: Ticket Medio\n   Descripción: vídeos divulgativos para YouTube con fotos y vídeos de stock\n   URL: https://www.youtube.com/@TicketMedio\n4. Acepta las condiciones y pulsa el botón para generar la clave.\n5. Copia la clave (una línea larga de letras y números) y pégala en:\n   Descargas › faceless › config › claves.txt\n   en la línea PEXELS_CLAVE:\n   Guarda con Ctrl+G o Ctrl+S.\n\nComo siempre: la clave nunca en el Tablón ni en los comentarios.",
+      "createdAt": "2026-09-25T09:43:26.000Z",
+      "createdBy": "claude",
+      "updatedAt": "2026-09-25T11:01:25.053Z",
+      "comentarios": [
+        {
+          "id": "c-130125187036",
+          "author": "claude",
+          "text": "Clave probada ✓: ya he descargado los primeros clips de gasolineras con su autor y licencia apuntados. PASO 8 terminado.",
+          "createdAt": "2026-09-25T11:01:25.187Z"
+        }
+      ]
+    },
+    {
+      "id": "u-voz",
+      "title": "Voz del narrador de Ticket Medio (decidida por Claude)",
+      "date": "2026-09-25",
+      "who": "claude",
+      "kind": "tarea",
+      "project": "youtube",
+      "status": "hecho",
+      "platforms": [
+        "YouTube"
+      ],
+      "notes": "He grabado el mismo texto con las 6 mejores voces de España que tenemos gratis. Escúchalas y elige la del narrador de Ticket Medio.\n\nEstán en: Descargas › faceless › youtube › muestras_voz\n   1_Tristan_HD_hombre\n   2_Ximena_HD_mujer\n   3_Marta_HD_mujer\n   4_Tristan_hombre\n   5_Alvaro_hombre\n   6_Elvira_mujer\n\nLas «HD» son las más naturales. Mi recomendación: 1 (Tristán HD) o 2 (Ximena HD). Suenan más a documental y menos a robot.\n\nEscribe aquí abajo, en los comentarios, el número que elijas. Si quieres, dime también si la prefieres más lenta o más rápida.",
+      "createdAt": "2026-09-25T09:56:02.000Z",
+      "createdBy": "claude",
+      "updatedAt": "2026-09-25T09:58:04.000Z",
+      "comentarios": [
+        {
+          "id": "c-voz1",
+          "author": "claude",
+          "createdAt": "2026-09-25T09:58:04.000Z",
+          "text": "Decisión: Tristán HD (hombre), un 12 % más lenta de lo normal, a unas 160 palabras por minuto, justo en el rango ideal para un documental. Es la más natural de las voces masculinas y la que mejor encaja con un tono tranquilo y un poco intrigante. Escúchala en muestras_voz › ELEGIDA_Tristan_HD.mp3. Para Pepa Pita usaré otra voz distinta: femenina, expresiva y alegre."
+        }
+      ]
+    },
+    {
+      "id": "u-p7-foto",
+      "title": "Poner la foto de perfil de Pepa en Instagram y Facebook",
+      "date": "2026-09-25",
+      "who": "tu",
+      "kind": "tarea",
+      "project": "redes",
+      "status": "hecho",
+      "platforms": [
+        "Instagram",
+        "Facebook"
+      ],
+      "notes": "La foto ya está hecha a partir de tu hoja de personaje:\n   Descargas › faceless › redes › pepa_pita › marca › pepa_perfil_1080.png\n\nINSTAGRAM (ordenador): entra en instagram.com como soypepapita → tu perfil → pulsa el círculo de la foto → «Subir foto» → elige pepa_perfil_1080.png.\nFACEBOOK: entra en la página Pepa Pita → pulsa el círculo con la «P» → «Subir foto» → la misma imagen → Guardar.\n(Si Facebook te pregunta si quieres usarla también en Instagram, puedes decir que sí.)",
+      "createdAt": "2026-09-25T10:25:19.000Z",
+      "createdBy": "claude",
+      "comentarios": [
+        {
+          "id": "c-mugtkvbe",
+          "text": "Ya está, hecho!!!!",
+          "author": "tu",
+          "createdAt": "2026-09-25T10:30:21.578Z"
+        },
+        {
+          "id": "c-123205933686",
+          "author": "claude",
+          "text": "¡Perfecto! ✓ Pepa ya tiene cara en Instagram y Facebook. Te quedan el PASO 7b (segunda tanda de imágenes de Pepa) y el PASO 8 (clave de Pexels, 3 minutos).",
+          "createdAt": "2026-09-25T10:32:05.933Z"
+        }
+      ],
+      "updatedAt": "2026-09-25T10:30:18.690Z"
+    },
+    {
+      "id": "u-p7b-gemini",
+      "title": "PASO 7b · Segunda tanda de imágenes de Pepa (expresiones y poses)",
+      "date": "2026-09-25",
+      "who": "tu",
+      "kind": "material",
+      "project": "redes",
+      "status": "hecho",
+      "platforms": [],
+      "notes": "Pepa ha quedado genial. Para animarla necesito unas cuantas imágenes más. Hazlas en la MISMA conversación de Gemini donde creaste a Pepa, para que salga idéntica.\n\nImportante: esta vez con FONDO AZUL. Así puedo recortarla y ponerla en cualquier escenario, como una cocina o un súper.\n\n1. Pega esto:\n\nAhora la misma Pepa, idéntica en ropa y colores, en 6 expresiones distintas: contenta, sorprendida, pensativa, riéndose, guiñando un ojo y preocupada. Cuerpo entero, sobre un fondo azul intenso liso y uniforme (azul croma), sin sombras en el suelo y sin texto.\n\n2. Después pega esto:\n\nLa misma Pepa, idéntica, de frente y de cuerpo entero, en 4 poses: señalando con el ala hacia un lado, sosteniendo una sartén, con un ala levantada como diciendo «¡ojo!» y aplaudiendo. Fondo azul intenso liso y uniforme, sin sombras y sin texto.\n\n3. Y por último esto (sirve para que mueva el pico al hablar):\n\nPrimer plano de la cabeza y los hombros de Pepa, de frente, en dos imágenes idénticas en todo excepto el pico: en una con el pico cerrado y en la otra con el pico abierto como si estuviera hablando. Fondo azul intenso liso y uniforme, sin texto.\n\n4. Descarga todas las imágenes en la misma carpeta:\n   Descargas › faceless › redes › pepa_pita › personaje\n5. Escribe «tanda 2 lista» en los comentarios.",
+      "createdAt": "2026-09-25T10:25:19.000Z",
+      "createdBy": "claude",
+      "comentarios": [
+        {
+          "id": "c-mugtnujm",
+          "text": "tanda 2 lista",
+          "author": "tu",
+          "createdAt": "2026-09-25T10:32:40.546Z"
+        },
+        {
+          "id": "c-123252225417",
+          "author": "claude",
+          "text": "¡Muy buenas! ✓ Las 6 expresiones y las 4 poses son coherentes con Pepa, y ya he comprobado que se recortan limpias del fondo azul para ponerla en cualquier escenario. Solo falta la imagen 3 (el primer plano con el pico cerrado y abierto), que sirve para que mueva el pico al hablar. Cuando la tengas, guárdala en la misma carpeta y márcame esta tarea como hecha.",
+          "createdAt": "2026-09-25T10:32:52.225Z"
+        },
+        {
+          "id": "c-mugtr8qh",
+          "text": "El pico cerrado y abierto lo tiene. Foto pepa pita 4",
+          "author": "tu",
+          "createdAt": "2026-09-25T10:35:18.905Z"
+        },
+        {
+          "id": "c-124526497172",
+          "author": "claude",
+          "text": "¡Tenías razón, estaba en «pepa pita 4»! ✓ El pico cerrado y el abierto están en la misma postura: perfecto para animarla hablando. Con esto ya tengo todo lo necesario para el primer vídeo de Pepa. PASO 7b terminado.",
+          "createdAt": "2026-09-25T10:45:26.497Z"
+        }
+      ],
+      "updatedAt": "2026-09-25T10:45:26.410Z"
+    },
+    {
+      "id": "u-musica",
+      "title": "PASO 9 · Descargar música gratis de la Biblioteca de audio de YouTube",
+      "date": "2026-09-25",
+      "who": "tu",
+      "kind": "material",
+      "project": "general",
+      "status": "hecho",
+      "platforms": [
+        "YouTube"
+      ],
+      "notes": "Para qué: la música de fondo tiene que tener licencia. La de la Biblioteca de audio de YouTube es gratis y YouTube garantiza que nunca te reclamará el vídeo. Lleva unos 10 minutos.\n\n1. Abre https://studio.youtube.com con ticketmedio.es@gmail.com\n2. En el menú de la izquierda, abajo, pulsa «Biblioteca de audio».\n3. Arriba, en «Filtrar», elige «Atribución no requerida». IMPORTANTE: así no hay que citar a nadie.\n\nPARA TICKET MEDIO (tranquila, de documental, un poco misteriosa)\n4. Añade también el filtro «Estado de ánimo»: «Tranquilo» o «Inspirador».\n   Y «Género»: «Ambiente» o «Cinematográfica».\n5. Escucha unas cuantas (botón de play) y descarga 3 o 4 que te gusten: sin voces, sin ritmo demasiado marcado y que no se hagan pesadas. La flecha de descarga aparece a la derecha al pasar el ratón.\n6. Guárdalas en: Descargas › faceless › musica › ticket_medio\n\nPARA PEPA PITA (alegre, divertida, de cocina)\n7. Cambia el estado de ánimo a «Alegre» o «Divertido».\n8. Descarga 3 o 4 y guárdalas en: Descargas › faceless › musica › pepa_pita\n\n9. Escribe «música lista» en los comentarios. Yo elijo cuál va en cada vídeo y la pongo al volumen justo, por debajo de la voz.",
+      "createdAt": "2026-09-25T10:47:01.000Z",
+      "createdBy": "claude",
+      "comentarios": [
+        {
+          "id": "c-muguyb6z",
+          "text": "musica lista",
+          "author": "tu",
+          "createdAt": "2026-09-25T11:08:48.299Z"
+        },
+        {
+          "id": "c-131557230336",
+          "author": "claude",
+          "text": "Música recibida ✓. Para Ticket Medio uso «Event Horizon» enlazada con «Way Back Home», con un fundido suave y muy por debajo de la voz (baja sola cuando habla el narrador). Ya está puesta en el piloto. Las de Pepa Pita las usaré en sus vídeos.",
+          "createdAt": "2026-09-25T11:15:57.230Z"
+        }
+      ],
+      "updatedAt": "2026-09-25T11:08:49.041Z"
+    },
+    {
+      "id": "pub-yt-1-comentario",
+      "title": "Fijar el comentario con las fuentes en el vídeo 1 (ya se puede)",
+      "date": "2026-09-25",
+      "who": "tu",
+      "kind": "publicacion",
+      "project": "youtube",
+      "status": "hecho",
+      "platforms": [
+        "YouTube"
+      ],
+      "notes": "A partir de las 18:00, cuando el vídeo ya sea público:\n1. Abre https://youtu.be/IaSxTruoUo4 con la cuenta de Ticket Medio.\n2. Abre el archivo  youtube › video_001_gasolina › output › COMENTARIO_FIJADO.txt, copia todo el texto y pégalo como comentario en el vídeo. Pulsa «Comentar».\n3. En ese comentario, pulsa los tres puntos (⋮) → «Fijar» → «Fijar».\nAsí las fuentes quedan arriba del todo y animamos a la gente a comentar, que ayuda mucho al principio.",
+      "createdAt": "2026-09-25T11:40:22.000Z",
+      "createdBy": "claude",
+      "comentarios": [
+        {
+          "id": "c-mugwj3o6",
+          "text": "Fijado",
+          "author": "tu",
+          "createdAt": "2026-09-25T11:52:57.943Z"
+        },
+        {
+          "id": "c-081523815975",
+          "author": "claude",
+          "text": "Perfecto, gracias. Comentario fijado: el vídeo 1 queda completo.",
+          "createdAt": "2026-09-28T06:15:23.816Z"
+        }
+      ],
+      "updatedAt": "2026-09-25T11:52:59.823Z"
+    },
+    {
+      "id": "pub-yt-1-retoques",
+      "title": "Retocar el vídeo 1: descripción, categoría, etiquetas y subtítulos",
+      "date": "2026-09-25",
+      "who": "tu",
+      "kind": "publicacion",
+      "project": "youtube",
+      "status": "hecho",
+      "platforms": [
+        "YouTube"
+      ],
+      "notes": "El vídeo ya es público (https://youtu.be/IaSxTruoUo4) y hay que retocar 3 cosas, sin volver a subirlo:\n1. studio.youtube.com (logo del ticket amarillo arriba a la derecha) → «Contenido» → pulsa el título del vídeo.\n2. Descripción: borra la primera línea («# 08 · DESCRIPCIÓN…») y el hueco de debajo. Tiene que empezar por «¿Por qué la gasolina sube…». (A partir de ahora la descripción irá en un archivo .txt listo para copiar entero: 08_DESCRIPCION.txt.)\n3. «Mostrar más» → Etiquetas: gasolina, precio gasolina, efecto cohete y pluma, gasolineras, CNMC, impuestos gasolina · Idioma del vídeo: Español (España) · Categoría: Educación.\n4. «Guardar» (arriba a la derecha).\n5. Menú izquierdo «Subtítulos» → «Añadir idioma» → Español (España) → «Añadir» → «Subir archivo» → «Con sincronización» → 06_SUBTITULOS.srt → «Publicar».\n6. Fija el comentario con las fuentes (COMENTARIO_FIJADO.txt).",
+      "createdAt": "2026-09-25T11:46:32.000Z",
+      "createdBy": "claude",
+      "comentarios": [
+        {
+          "id": "c-081523872914",
+          "author": "claude",
+          "text": "Recibido. Con esto el vídeo 1 queda terminado del todo.",
+          "createdAt": "2026-09-28T06:15:23.872Z"
+        }
+      ],
+      "updatedAt": "2026-09-25T11:54:56.831Z"
+    },
+    {
+      "id": "u-mascota-tm",
+      "title": "Crear la mascota de Ticket Medio en Gemini (15 min)",
+      "date": "2026-09-28",
+      "who": "tu",
+      "kind": "material",
+      "project": "youtube",
+      "status": "hecho",
+      "platforms": [],
+      "notes": "Para qué: a partir del vídeo 2, Ticket Medio tendrá una MASCOTA, igual que Pepa en las redes. Será un ticket de compra con cara, brazos y piernas que protagoniza todos los vídeos. Es lo que mejor funciona en el canal que más visitas saca con la gasolina.\n\nHazlo en Gemini (gemini.google.com), igual que hiciste a Pepa, pero en una conversación NUEVA. Unos 15 minutos.\n\n1. Pega esto:\n\nCrea un personaje de dibujos animados para un canal de YouTube de economía: un ticket de compra de papel con vida. Papel blanco roto, alargado en vertical, con el borde de abajo en zigzag como si estuviera recién arrancado, y unas líneas de texto impreso gris claro en el cuerpo (ilegibles). Arriba del cuerpo, una franja amarilla intensa. Ojos grandes y expresivos, boca simpática, cejas que expresan mucho. Brazos y piernas finos de línea negra, con manos de cuatro dedos. Estilo: dibujo 2D hecho a mano, contorno negro grueso e irregular, colores planos y vivos, sin degradados ni sombras realistas, aspecto amable y un poco pícaro. De frente y de cuerpo entero, sobre un fondo azul intenso liso y uniforme (azul croma), sin sombras en el suelo y sin texto.\n\n2. Si te gusta, sigue. Si no, pulsa «Regenerar» hasta que te guste (tú eliges: que se entienda a la primera que es un ticket).\n\n3. Después pega esto en la MISMA conversación:\n\nEl mismo personaje, idéntico en forma y colores, en 6 expresiones distintas: contento, sorprendido con la boca abierta, pensativo con la mano en la barbilla, enfadado, riéndose y preocupado sudando. Cuerpo entero, sobre un fondo azul intenso liso y uniforme (azul croma), sin sombras y sin texto.\n\n4. Y por último esto:\n\nEl mismo personaje, idéntico, de cuerpo entero, en 6 poses: señalando con el brazo hacia un lado, empujando un carrito de la compra, sosteniendo una moneda enorme, con una lupa, encogiéndose de hombros y corriendo. Fondo azul intenso liso y uniforme, sin sombras y sin texto.\n\n5. Descarga todas las imágenes en esta carpeta:\n   Descargas › faceless › youtube › marca › mascota\n\n6. Escribe «mascota lista» en los comentarios.",
+      "comentarios": [
+        {
+          "id": "c-094311187583",
+          "author": "claude",
+          "text": "Recibidas y recortadas las 15 poses (youtube/marca/mascota/recortes). Calidad perfecta: ya es la mascota oficial de Ticket Medio.",
+          "createdAt": "2026-09-28T07:43:11.187Z"
+        }
+      ],
+      "createdAt": "2026-09-28T07:37:21.000Z",
+      "createdBy": "claude",
+      "updatedAt": "2026-09-28T07:43:11.129Z"
+    },
+    {
+      "id": "u-fondos-v2",
+      "title": "Dibujar en Gemini los 10 escenarios del vídeo de Mercadona (20 min)",
+      "date": "2026-09-28",
+      "who": "tu",
+      "kind": "material",
+      "project": "youtube",
+      "status": "hecho",
+      "platforms": [],
+      "notes": "Para qué: son los ESCENARIOS por los que se moverá la mascota en el vídeo de Mercadona (súper, caja, Hacienda, fábrica, almacén…). Es lo que hará que el vídeo parezca un dibujo animado y no una presentación.\n\nHazlo en Gemini, en la MISMA conversación donde creaste la mascota del ticket, para que salga el mismo estilo de dibujo. Son 10 imágenes, unos 20 minutos.\n\nSi alguna sale con personas, texto o una marca real (por ejemplo, el logo de Mercadona), pulsa «Regenerar».\n\n1. Pega esto (y descarga la imagen con el nombre que quieras):\n\nUn pasillo de supermercado visto de frente, con estanterías llenas de productos de colores a los dos lados y el suelo despejado en el centro. Mismo estilo de dibujo que el personaje del ticket: dibujo 2D hecho a mano, contorno negro grueso e irregular, colores planos y alegres, sin degradados. Formato horizontal 16:9. SIN personajes, SIN personas, SIN texto, SIN letreros legibles y SIN logotipos ni marcas reales.\n\n2. Pega esto (y descarga la imagen con el nombre que quieras):\n\nLa zona de cajas de un supermercado vista de frente: el mostrador con la cinta y la caja registradora, y detrás, estanterías desenfocadas. Mismo estilo de dibujo que el personaje del ticket: dibujo 2D hecho a mano, contorno negro grueso e irregular, colores planos y alegres, sin degradados. Formato horizontal 16:9. SIN personajes, SIN personas, SIN texto, SIN letreros legibles y SIN logotipos ni marcas reales.\n\n3. Pega esto (y descarga la imagen con el nombre que quieras):\n\nLa fachada de un edificio oficial español de impuestos, serio, con columnas y una escalinata, en una plaza con cielo azul. Mismo estilo de dibujo que el personaje del ticket: dibujo 2D hecho a mano, contorno negro grueso e irregular, colores planos y alegres, sin degradados. Formato horizontal 16:9. SIN personajes, SIN personas, SIN texto, SIN letreros legibles y SIN logotipos ni marcas reales.\n\n4. Pega esto (y descarga la imagen con el nombre que quieras):\n\nEl interior de una fábrica de alimentos con una cinta transportadora larga, máquinas y cajas de cartón apiladas. Mismo estilo de dibujo que el personaje del ticket: dibujo 2D hecho a mano, contorno negro grueso e irregular, colores planos y alegres, sin degradados. Formato horizontal 16:9. SIN personajes, SIN personas, SIN texto, SIN letreros legibles y SIN logotipos ni marcas reales.\n\n5. Pega esto (y descarga la imagen con el nombre que quieras):\n\nUn enorme almacén logístico por fuera: una nave gigante con muelles de carga y varios camiones blancos aparcados, visto desde lejos. Mismo estilo de dibujo que el personaje del ticket: dibujo 2D hecho a mano, contorno negro grueso e irregular, colores planos y alegres, sin degradados. Formato horizontal 16:9. SIN personajes, SIN personas, SIN texto, SIN letreros legibles y SIN logotipos ni marcas reales.\n\n6. Pega esto (y descarga la imagen con el nombre que quieras):\n\nUna pequeña tienda de barrio española de los años 80, por fuera, con toldo de rayas, escaparate y la puerta abierta. Calle de ciudad mediterránea. Mismo estilo de dibujo que el personaje del ticket: dibujo 2D hecho a mano, contorno negro grueso e irregular, colores planos y alegres, sin degradados. Formato horizontal 16:9. SIN personajes, SIN personas, SIN texto, SIN letreros legibles y SIN logotipos ni marcas reales.\n\n7. Pega esto (y descarga la imagen con el nombre que quieras):\n\nEl interior de una cámara acorazada de banco, con la puerta redonda gigante abierta y montañas de monedas y billetes de euro dentro. Mismo estilo de dibujo que el personaje del ticket: dibujo 2D hecho a mano, contorno negro grueso e irregular, colores planos y alegres, sin degradados. Formato horizontal 16:9. SIN personajes, SIN personas, SIN texto, SIN letreros legibles y SIN logotipos ni marcas reales.\n\n8. Pega esto (y descarga la imagen con el nombre que quieras):\n\nUn despacho con una mesa, una pizarra blanca vacía en la pared y una ventana con vistas a la ciudad. Mismo estilo de dibujo que el personaje del ticket:",
+      "createdAt": "2026-09-28T08:04:17.000Z",
+      "createdBy": "claude",
+      "comentarios": [
+        {
+          "id": "c-mukzej1n",
+          "text": "fondos listos",
+          "author": "tu",
+          "createdAt": "2026-09-28T08:24:28.139Z"
+        },
+        {
+          "id": "c-102534234017",
+          "author": "claude",
+          "text": "Recibidos los 10 escenarios, en orden y sin personas ni texto. Ya están preparados para el vídeo. ¡Gracias!",
+          "createdAt": "2026-09-28T08:25:34.234Z"
+        }
+      ],
+      "updatedAt": "2026-09-28T08:25:34.172Z"
+    },
+    {
+      "id": "u-tiktok-usuario",
+      "title": "TikTok de Pepa: cambiar el usuario a @soypepapita (2 min)",
+      "date": "2026-10-28",
+      "who": "tu",
+      "kind": "tarea",
+      "project": "redes",
+      "status": "pendiente",
+      "platforms": [
+        "TikTok"
+      ],
+      "notes": "Hoy ya se puede cambiar el usuario (TikTok solo deja hacerlo cada 30 días).\n\n1. Entra en https://www.tiktok.com con la cuenta de Pepa (con «Continuar con Google» y el Gmail del proyecto).\n2. Pulsa tu perfil → «Editar perfil».\n3. En «Nombre de usuario» escribe: soypepapita\n   Si no está disponible, prueba: soypepapita.cocina\n4. Pulsa «Guardar».\n5. Escribe en los comentarios con qué usuario se ha quedado.",
+      "comentarios": [],
+      "createdAt": "2026-09-28T09:33:36.000Z",
+      "createdBy": "claude",
+      "updatedAt": "2026-09-28T09:33:36.000Z"
+    },
+    {
+      "id": "pub-yt-2",
+      "title": "Subir y programar el vídeo de Mercadona (viernes 18:00) y sus 3 Shorts",
+      "date": "2026-10-01",
+      "who": "tu",
+      "kind": "publicacion",
+      "project": "youtube",
+      "status": "hecho",
+      "platforms": [
+        "YouTube"
+      ],
+      "notes": "Todo está en esta carpeta:\n   Descargas › faceless › youtube › video_002_mercadona\nUnos 25 minutos en total. Hazlo con calma y en este orden. Hoy es jueves, así que dejamos TODO programado y el fin de semana no hay que tocar nada.\n\n═══ PARTE 1 · EL VÍDEO LARGO (sale el viernes 2 a las 18:00) ═══\n\nA) SUBIR\n0. ⚠️ Antes de nada: arriba a la derecha tiene que salir el LOGO DEL TICKET AMARILLO. Si no: pulsa el círculo → «Cambiar de cuenta» → ticketmedio.es@gmail.com.\n1. Abre https://studio.youtube.com\n2. Arriba a la derecha: «CREAR» → «Subir vídeos».\n3. Arrastra el archivo:  output › FINAL_YOUTUBE_1080P.mp4\n\nB) PESTAÑA «DETALLES»\n4. Título (cópialo tal cual):\nMERCADONA: ¿dónde va cada euro que dejas en la caja?\n5. Descripción: abre 08_DESCRIPCION.txt con el Bloc de notas, pulsa Ctrl+E (o menú «Edición» → «Seleccionar todo»), luego Ctrl+C, y pégalo en la descripción con Ctrl+V.\n6. Miniatura: «Subir archivo» → output › MINIATURA_1280x720.png\n7. Lista de reproducción: déjalo vacío.\n8. Audiencia: «No, no es contenido creado para niños».\n9. Pulsa «Mostrar más» y, EN ESTE ORDEN:\n   · Contenido alterado o sintético: «No».\n   · Etiquetas: Mercadona, Hacendado, supermercados, Juan Roig, economía, cómo gana dinero Mercadona\n   · Idioma del vídeo: Español (España)   ← primero el idioma…\n   · Subtítulos: «Subir archivo» → «Con sincronización» → 06_SUBTITULOS.srt   ← …y después los subtítulos\n   · Categoría: Educación\n10. «Siguiente».\n\nC) «ELEMENTOS DEL VÍDEO»\n11. «Pantalla final» → elige la plantilla «1 vídeo, 1 suscripción». En el vídeo, elige «Vídeo más reciente». Guardar.\n12. «Siguiente» → espera a «No se han detectado problemas» → «Siguiente».\n\nD) VISIBILIDAD\n13. «Programar» → viernes 2 de octubre, 18:00 → «Programar».\n\n═══ PARTE 2 · LOS 3 SHORTS (salen solos: sábado, lunes y miércoles) ═══\nLos tres se suben igual. Los textos de cada uno están en  output › SHORTS_TEXTOS.txt\n\n14. «CREAR» → «Subir vídeos» → arrastra  output › SHORT_01_truco_mercadona.mp4\n15. Título y descripción: los del SHORT 1 de SHORTS_TEXTOS.txt.\n16. Audiencia: «No, no es contenido creado para niños».\n17. «Mostrar más»: Contenido alterado o sintético «No» · Idioma: Español (España) · Categoría: Educación. (Los Shorts ya llevan los subtítulos dentro: no subas ningún archivo de subtítulos.)\n18. «Siguiente» hasta «Visibilidad» → «Programar»:\n   · SHORT 1 → sábado 3 de octubre, 13:00\n   · SHORT 2 → lunes 5 de octubre, 13:00\n   · SHORT 3 → miércoles 7 de octubre, 13:00\n19. Repite los pasos 14–18 con SHORT_02 y SHORT_03.\n\n═══ PARTE 3 · DESPUÉS (el viernes, a partir de las 18:00, 2 minutos) ═══\n20. Abre el vídeo largo ya publicado, escribe como comentario el texto de  output › COMENTARIO_FIJADO.txt  y publícalo.\n21. En los tres puntos de ese comentario → «Fijar».\n\nCuando termines la parte 1 y la 2, escribe «programado» en los comentarios y compruebo que todo está bien.",
+      "createdAt": "2026-09-28T10:24:04.000Z",
+      "createdBy": "claude",
+      "comentarios": [
+        {
+          "id": "c-124748013719",
+          "author": "claude",
+          "text": "Vídeo largo subido: https://youtu.be/exjsipQdgjo (desde fuera aparece como privado, que es lo normal mientras está programado).",
+          "createdAt": "2026-09-28T10:47:48.013Z"
+        },
+        {
+          "id": "c-125034431182",
+          "author": "claude",
+          "text": "Short 1 subido: https://youtube.com/shorts/12LjhOzELJo",
+          "createdAt": "2026-09-28T10:50:34.431Z"
+        },
+        {
+          "id": "c-125511354057",
+          "author": "claude",
+          "text": "Short 2 subido: https://youtube.com/shorts/vpBDYjjepIQ",
+          "createdAt": "2026-09-28T10:55:11.354Z"
+        },
+        {
+          "id": "c-mul4ta1m",
+          "text": "programado",
+          "author": "tu",
+          "createdAt": "2026-09-28T10:55:54.395Z"
+        },
+        {
+          "id": "c-125708098207",
+          "author": "claude",
+          "text": "Short 3 subido: https://youtube.com/shorts/rC5Q7Cn5PbE",
+          "createdAt": "2026-09-28T10:57:08.098Z"
+        },
+        {
+          "id": "c-125730766420",
+          "author": "claude",
+          "text": "Vídeo largo y los 3 Shorts subidos. Para darlo por terminado: mándame en el chat una captura de Studio → «Contenido» (la lista con los 4) para comprobar que cada uno está programado en su fecha.",
+          "createdAt": "2026-09-28T10:57:30.766Z"
+        },
+        {
+          "id": "c-125956166757",
+          "author": "claude",
+          "text": "Comprobado con la captura de Studio: vídeo programado para el 2 oct y Shorts para el 3, 5 y 7 oct. Todo correcto.",
+          "createdAt": "2026-09-28T10:59:56.166Z"
+        }
+      ],
+      "updatedAt": "2026-09-28T10:59:56.107Z"
+    },
+    {
+      "id": "u-pepa1-tiktok",
+      "title": "Comprobar la etiqueta de IA de Pepa 1 en Instagram (2 min)",
+      "date": "2026-09-30",
+      "who": "tu",
+      "kind": "publicacion",
+      "project": "redes",
+      "status": "pendiente",
+      "platforms": [
+        "Instagram"
+      ],
+      "notes": "TikTok ya lo programaste el lunes (tarea «Programar de una vez…»). Hoy solo queda esto:\n1. Abre la app de Instagram en el móvil, cuenta soypepapita, y abre el reel de «No laves el pollo».\n2. Mira si debajo del nombre pone «Información de IA» o «Creado con IA».\n   · Si lo pone: perfecto, no hagas nada.\n   · Si no: tres puntos (…) del reel → «Editar» → busca «Etiqueta de IA» y actívala → «Hecho».\n   · Si no encuentras la opción, mándame una captura.\nEscribe «hecho» cuando acabes.",
+      "comentarios": [],
+      "createdAt": "2026-09-28T10:39:56.000Z",
+      "createdBy": "claude",
+      "updatedAt": "2026-09-28T12:24:38.000Z"
+    },
+    {
+      "id": "c-pepa-2-3",
+      "title": "Producir los vídeos 2 y 3 de Pepa Pita",
+      "date": "2026-09-29",
+      "who": "claude",
+      "kind": "tarea",
+      "project": "redes",
+      "status": "hecho",
+      "platforms": [],
+      "notes": "Vídeo 2: «¿Se puede volver a congelar lo descongelado?». Vídeo 3: «No laves los huevos». Datos verificados en AESAN/EFSA; guion, voz, animación, texto de publicación.",
+      "comentarios": [
+        {
+          "id": "c-125730708046",
+          "author": "claude",
+          "text": "Terminados el lunes 28: PEPA_002_recongelar.mp4 (46 s) y PEPA_003_no_laves_los_huevos.mp4 (44 s), cada uno con su TEXTO_PUBLICACION.txt en la carpeta salida. Datos comprobados en los PDF oficiales de la AESAN, el Reglamento (UE) 2023/2465 y EFSA.",
+          "createdAt": "2026-09-28T10:57:30.708Z"
+        }
+      ],
+      "createdAt": "2026-09-28T10:39:56.000Z",
+      "createdBy": "claude",
+      "updatedAt": "2026-09-28T10:57:30.648Z"
+    },
+    {
+      "id": "pub-yt-2-comentario",
+      "title": "Fijar el comentario con las fuentes en el vídeo de Mercadona (2 min)",
+      "date": "2026-10-05",
+      "who": "tu",
+      "kind": "publicacion",
+      "project": "youtube",
+      "status": "pendiente",
+      "platforms": [
+        "YouTube"
+      ],
+      "notes": "1. Abre el vídeo de Mercadona en YouTube (desde https://studio.youtube.com → «Contenido» → pulsa el título → «Ver en YouTube»). Comprueba antes el logo del ticket amarillo arriba a la derecha.\n2. Escribe como comentario el texto de:\n   Descargas › faceless › archivo › video_002_mercadona › COMENTARIO_FIJADO.txt\n3. Publícalo, pulsa los tres puntos de tu comentario → «Fijar» → «Fijar».\n4. Escribe «fijado» aquí.",
+      "comentarios": [],
+      "createdAt": "2026-09-28T10:39:56.000Z",
+      "createdBy": "claude",
+      "updatedAt": "2026-09-28T12:18:46.000Z"
+    },
+    {
+      "id": "c-video-3",
+      "title": "Vídeo 3 de Ticket Medio (Zara) y sus 3 Shorts — adelantado para tener reserva",
+      "date": "2026-09-28",
+      "who": "claude",
+      "kind": "tarea",
+      "project": "youtube",
+      "status": "en_curso",
+      "platforms": [],
+      "notes": "Hecho: título y miniatura decididos, investigación verificada, 8 escenarios de Gemini, guion y locución (10:26). Falta: escenas animadas, miniatura, vídeo final, 3 Shorts y textos.",
+      "comentarios": [
+        {
+          "id": "c-1550835003",
+          "author": "claude",
+          "createdAt": "2026-09-28T12:19:33.000Z",
+          "text": "Guion y locución terminados (10:26). Sigo con las escenas."
+        }
+      ],
+      "createdAt": "2026-09-28T10:39:56.000Z",
+      "createdBy": "claude",
+      "updatedAt": "2026-09-28T12:19:33.000Z"
+    },
+    {
+      "id": "c-pepa-4-6",
+      "title": "Producir los vídeos 4, 5 y 6 de Pepa Pita",
+      "date": "2026-09-28",
+      "who": "claude",
+      "kind": "tarea",
+      "project": "redes",
+      "status": "hecho",
+      "platforms": [],
+      "notes": "004 «El arroz de ayer», 005 «Anisakis», 006 «Patatas verdes». Adelantados para tener reserva.",
+      "comentarios": [
+        {
+          "id": "c-1246043259",
+          "author": "claude",
+          "createdAt": "2026-09-28T12:19:33.000Z",
+          "text": "Terminados el lunes 28 y ya programados en Instagram, Facebook y TikTok (6, 8 y 10 de octubre)."
+        }
+      ],
+      "createdAt": "2026-09-28T10:39:56.000Z",
+      "createdBy": "claude",
+      "updatedAt": "2026-09-28T12:19:33.000Z"
+    },
+    {
+      "id": "u-revisar-3",
+      "title": "Ver el vídeo 3 de Ticket Medio y sus 3 Shorts como espectador (12 min)",
+      "date": "2026-10-08",
+      "who": "tu",
+      "kind": "tarea",
+      "project": "youtube",
+      "status": "pendiente",
+      "platforms": [],
+      "notes": "Los archivos estarán en la carpeta output del vídeo 3 (te pongo la ruta exacta el miércoles). Si algo se ve o se oye raro, dime el minuto; si todo bien, escribe «visto».",
+      "comentarios": [],
+      "createdAt": "2026-09-28T10:39:56.000Z",
+      "createdBy": "claude",
+      "updatedAt": "2026-09-28T10:39:56.000Z"
+    },
+    {
+      "id": "pub-yt-3",
+      "title": "Subir y programar el vídeo 3 (viernes 9 a las 18:00) y sus 3 Shorts (25 min)",
+      "date": "2026-10-08",
+      "who": "tu",
+      "kind": "publicacion",
+      "project": "youtube",
+      "status": "pendiente",
+      "platforms": [],
+      "notes": "Los mismos pasos que la tarea «Subir y programar el vídeo de Mercadona», con los textos del vídeo 3. El miércoles 7 te dejo aquí los pasos completos con el título, las etiquetas y las fechas de los Shorts.",
+      "comentarios": [],
+      "createdAt": "2026-09-28T10:39:56.000Z",
+      "createdBy": "claude",
+      "updatedAt": "2026-09-28T10:39:56.000Z"
+    },
+    {
+      "id": "pub-yt-3-comentario",
+      "title": "Fijar el comentario con las fuentes del vídeo 3 (2 min)",
+      "date": "2026-10-12",
+      "who": "tu",
+      "kind": "publicacion",
+      "project": "youtube",
+      "status": "pendiente",
+      "platforms": [
+        "YouTube"
+      ],
+      "notes": "Igual que con Mercadona: el texto estará en la carpeta output del vídeo 3 (COMENTARIO_FIJADO.txt).",
+      "comentarios": [],
+      "createdAt": "2026-09-28T10:39:56.000Z",
+      "createdBy": "claude",
+      "updatedAt": "2026-09-28T12:18:46.000Z"
+    },
+    {
+      "id": "u-fondos-v3",
+      "title": "Dibujar en Gemini los 8 escenarios del vídeo de Zara (15 min, cuando puedas)",
+      "date": "2026-09-29",
+      "who": "tu",
+      "kind": "material",
+      "project": "youtube",
+      "status": "hecho",
+      "platforms": [],
+      "notes": "Para qué: son los ESCENARIOS del vídeo 3, sobre Zara. Igual que hiciste con Mercadona.\n\nHazlo en Gemini, en la MISMA conversación donde creaste la mascota del ticket, para que salga el mismo estilo. Son 8 imágenes, unos 15 minutos.\nSi alguna sale con personas, texto o un logo real (por ejemplo, el de Zara), pulsa «Regenerar».\n\n1. Pega esto (y descarga la imagen):\n\nEl interior de una tienda de ropa grande y moderna, con percheros llenos de ropa de colores, mesas con camisetas dobladas y luces blancas. Visto de frente, con el pasillo central despejado. Mismo estilo de dibujo que el personaje del ticket: dibujo 2D hecho a mano, contorno negro grueso e irregular, colores planos y alegres, sin degradados. Formato horizontal 16:9. SIN personajes, SIN personas, SIN texto, SIN letreros legibles y SIN logotipos ni marcas reales.\n\n2. Pega esto (y descarga la imagen):\n\nLa zona de probadores de una tienda de ropa: una fila de cabinas con cortinas, un espejo grande y un perchero con ropa. Mismo estilo de dibujo que el personaje del ticket: dibujo 2D hecho a mano, contorno negro grueso e irregular, colores planos y alegres, sin degradados. Formato horizontal 16:9. SIN personajes, SIN personas, SIN texto, SIN letreros legibles y SIN logotipos ni marcas reales.\n\n3. Pega esto (y descarga la imagen):\n\nUn taller de costura con varias máquinas de coser en fila, rollos de tela de colores en estanterías y prendas colgadas. Mismo estilo de dibujo que el personaje del ticket: dibujo 2D hecho a mano, contorno negro grueso e irregular, colores planos y alegres, sin degradados. Formato horizontal 16:9. SIN personajes, SIN personas, SIN texto, SIN letreros legibles y SIN logotipos ni marcas reales.\n\n4. Pega esto (y descarga la imagen):\n\nEl interior de un centro logístico enorme lleno de ropa colgada en perchas que viajan por raíles en el techo, con cintas transportadoras y cajas. Mismo estilo de dibujo que el personaje del ticket: dibujo 2D hecho a mano, contorno negro grueso e irregular, colores planos y alegres, sin degradados. Formato horizontal 16:9. SIN personajes, SIN personas, SIN texto, SIN letreros legibles y SIN logotipos ni marcas reales.\n\n5. Pega esto (y descarga la imagen):\n\nUn estudio de diseño de moda: una mesa grande con bocetos de ropa, muestras de tela, un maniquí de costura y un tablero de corcho con fotos (sin texto). Mismo estilo de dibujo que el personaje del ticket: dibujo 2D hecho a mano, contorno negro grueso e irregular, colores planos y alegres, sin degradados. Formato horizontal 16:9. SIN personajes, SIN personas, SIN texto, SIN letreros legibles y SIN logotipos ni marcas reales.\n\n6. Pega esto (y descarga la imagen):\n\nUn aeropuerto de carga con un avión de carga abierto y palés de cajas, y al fondo un puerto con barcos y contenedores de colores. Mismo estilo de dibujo que el personaje del ticket: dibujo 2D hecho a mano, contorno negro grueso e irregular, colores planos y alegres, sin degradados. Formato horizontal 16:9. SIN personajes, SIN personas, SIN texto, SIN letreros legibles y SIN logotipos ni marcas reales.\n\n7. Pega esto (y descarga la imagen):\n\nUna calle comercial peatonal española muy animada, con tiendas de ropa grandes con escaparates de maniquíes (sin nombres ni logos) y farolas. Mismo estilo de dibujo que el personaje del ticket: dibujo 2D hecho a mano, contorno negro grueso e irregular, colores planos y alegres, sin degradados. Formato horizontal 16:9. SIN personajes, SIN personas, SIN texto, SIN letreros legibles y SIN logotipos ni marcas reales.\n\n8. Pega esto (y descarga la imagen):\n\nUna pequeña tienda de ropa de los años 70 en una calle de A Coruña, con escaparate de madera, toldo y ropa de la época en el escaparate. Sin nombre en el rótulo. Mismo estilo de dibujo que el personaje del ticket: dibujo 2D hecho a mano, contorno negro grueso e irregular, colores planos y alegres, sin degradados. Formato horizontal 16:9. SIN personajes, SIN personas, SIN texto, SIN letreros legibles y SIN logotipos ni marcas reale",
+      "createdAt": "2026-09-28T11:04:00.000Z",
+      "createdBy": "claude",
+      "comentarios": [
+        {
+          "id": "c-mul5a0x2",
+          "text": "fondos listos",
+          "author": "tu",
+          "createdAt": "2026-09-28T11:08:55.718Z"
+        },
+        {
+          "id": "c-131228095291",
+          "author": "claude",
+          "text": "Recibidos los 8 escenarios de Zara, en orden y perfectos. Ya están preparados. ¡Gracias!",
+          "createdAt": "2026-09-28T11:12:28.095Z"
+        }
+      ],
+      "updatedAt": "2026-09-28T11:12:28.023Z"
+    },
+    {
+      "id": "pub-pepa-lote-1",
+      "title": "Programar de una vez Pepa 2, 3, 4, 5 y 6 en Instagram + Facebook, y del 1 al 6 en TikTok (40–50 min)",
+      "date": "2026-09-28",
+      "who": "tu",
+      "kind": "publicacion",
+      "project": "redes",
+      "status": "hecho",
+      "platforms": [
+        "Instagram",
+        "Facebook",
+        "TikTok"
+      ],
+      "notes": "Programamos de una vez TODOS los vídeos de Pepa de las dos próximas semanas. Unos 40–50 minutos en total. Después, el martes, el jueves y el viernes no tendrás que hacer nada de Pepa.\n\nTodos los vídeos están en:  Descargas › faceless › redes › pepa_pita › videos\nDentro de cada carpeta, en «salida», están el vídeo (.mp4) y su TEXTO_PUBLICACION.txt.\n\n┌──────────────────────────────┬──────────────────────────┬──────────────────────┐\n│ Carpeta                      │ Instagram + Facebook     │ TikTok               │\n├──────────────────────────────┼──────────────────────────┼──────────────────────┤\n│ 001_no_laves_el_pollo        │ YA PROGRAMADO (mar 29)   │ martes 29, 19:00     │\n│ 002_recongelar               │ jueves 1 oct, 19:00      │ jueves 1 oct, 19:00  │\n│ 003_no_laves_los_huevos      │ sábado 3 oct, 19:00      │ sábado 3 oct, 19:00  │\n│ 004_arroz_de_ayer            │ martes 6 oct, 19:00      │ martes 6 oct, 19:00  │\n│ 005_anisakis                 │ jueves 8 oct, 19:00      │ jueves 8 oct, 19:00  │\n│ 006_patatas_verdes           │ sábado 10 oct, 19:00     │ sábado 10 oct, 19:00 │\n└──────────────────────────────┴──────────────────────────┴──────────────────────┘\n(Del vídeo 001 solo falta TikTok: en Instagram y Facebook ya está programado.)\n\n══════ PARTE A · INSTAGRAM + FACEBOOK (vídeos 002 a 006) ══════\nRepite estos pasos con cada vídeo:\n1. Abre en Edge https://business.facebook.com/latest/home con TU Facebook personal. Arriba a la izquierda: «Pepa Pita».\n2. «Crear reel» → marca Facebook (Pepa Pita) e Instagram (soypepapita).\n3. «Añadir vídeo» → el .mp4 de la carpeta «salida» de ese vídeo.\n4. Texto: abre su TEXTO_PUBLICACION.txt, Ctrl+E, Ctrl+C, y pégalo con Ctrl+V.\n   Si te pide título (Facebook), copia solo la PRIMERA frase del texto.\n5. Portada: un momento en que Pepa salga de frente.\n6. «Siguiente» hasta la pantalla «Share». NO pulses el botón azul todavía.\n7. Sube con la rueda hasta «Scheduling options» → «Schedule» → pon la fecha de la tabla y 07:00 PM (en Facebook y en Instagram).\n8. Pulsa el botón azul «Schedule».\n9. Si se queda en «Scheduling your post…» más de 2 minutos: mira en otra pestaña https://business.facebook.com/latest/content_calendar. Si ya aparece en su fecha, está hecho: cierra la pestaña atascada y NO lo repitas.\nAl acabar los cinco: abre el calendario (el enlace del paso 9) y comprueba que aparecen el 1, 3, 6, 8 y 10 de octubre.\n\n══════ PARTE B · TIKTOK (vídeos 001 a 006) ══════\nRepite estos pasos con cada vídeo:\n10. Abre https://www.tiktok.com/tiktokstudio/upload («Continuar con Google» → el Gmail del proyecto). Comprueba arriba a la derecha que estás en la cuenta de Pepa (soypepita).\n11. Arrastra el .mp4.\n12. Descripción: pega el texto de su TEXTO_PUBLICACION.txt.\n13. Portada: un momento en que Pepa salga de frente.\n14. «Mostrar más» → activa «Contenido generado por IA».\n15. «Cuándo publicar» → «Programar» → la fecha de la tabla, 19:00 → «Programar».\n⚠️ TikTok solo deja programar con unos días de antelación (normalmente hasta 10). Si alguna fecha NO te deja elegirla (seguramente la del vídeo 006, el sábado 10), no pasa nada: sáltatelo y escríbeme cuál. Te lo pongo en una tarea de otro día.\n\n══════ AL TERMINAR ══════\n· Escribe en los comentarios: «Pepa programada», y si alguno de TikTok no se pudo, cuál.\n· NO borres las carpetas de los vídeos que no hayas podido subir a TikTok hasta que estén programados. Las demás, cuando quieras (los textos importantes ya están guardados en Descargas › faceless › archivo).",
+      "comentarios": [
+        {
+          "id": "c-140737081355",
+          "author": "claude",
+          "text": "Instagram + Facebook comprobado con las capturas del calendario: 29 sep, 1, 3, 6, 8 y 10 oct a las 19:00, en las dos redes y con el vídeo que toca cada día. Falta TikTok.",
+          "createdAt": "2026-09-28T12:07:37.081Z"
+        },
+        {
+          "id": "c-141721693818",
+          "author": "claude",
+          "text": "TikTok comprobado con la captura: los 6 vídeos programados (29 sep, 1, 3, 6, 8 y 10 oct a las 19:00). TikTok sí ha dejado programar con 12 días de antelación. Todo hecho hasta el 10 de octubre.",
+          "createdAt": "2026-09-28T12:17:21.693Z"
+        }
+      ],
+      "createdAt": "2026-09-28T11:39:47.000Z",
+      "createdBy": "claude",
+      "updatedAt": "2026-09-28T12:17:21.571Z"
+    },
+    {
+      "id": "c-pepa-7-12",
+      "title": "Producir los vídeos 7 a 12 de Pepa Pita (del 13 al 24 de octubre)",
+      "date": "2026-10-05",
+      "who": "claude",
+      "kind": "tarea",
+      "project": "redes",
+      "status": "pendiente",
+      "platforms": [],
+      "notes": "Seis vídeos verificados con fuentes oficiales, con sus textos, listos para programarlos de una vez.",
+      "comentarios": [],
+      "createdAt": "2026-09-28T12:19:33.000Z",
+      "createdBy": "claude",
+      "updatedAt": "2026-09-28T12:19:33.000Z"
+    },
+    {
+      "id": "pub-pepa-lote-2",
+      "title": "Programar de una vez Pepa 7 a 12 en Instagram, Facebook y TikTok (45 min)",
+      "date": "2026-10-08",
+      "who": "tu",
+      "kind": "publicacion",
+      "project": "redes",
+      "status": "pendiente",
+      "platforms": [
+        "Instagram",
+        "Facebook",
+        "TikTok"
+      ],
+      "notes": "Igual que la tanda anterior (13, 15, 17, 20, 22 y 24 de octubre, a las 19:00). Te dejo aquí la tabla y los pasos exactos cuando estén los vídeos.",
+      "comentarios": [],
+      "createdAt": "2026-09-28T12:19:33.000Z",
+      "createdBy": "claude",
+      "updatedAt": "2026-09-28T12:19:33.000Z"
+    }
+  ],
+  "mensajes": [
+    {
+      "id": "m-bienvenida",
+      "author": "claude",
+      "createdAt": "2026-09-25T10:11:00Z",
+      "text": "Hola, esta es nuestra Sala de Producción. Funciona en tu ordenador, sin enlaces de Claude. Aquí verás qué toca hacer cada día, quién lo hace, qué se publica en cada plataforma y qué materiales faltan. Deja tus mensajes en este tablón: los leo cada vez que trabajamos."
+    },
+    {
+      "id": "m-nombres",
+      "author": "claude",
+      "createdAt": "2026-09-25T12:30:00Z",
+      "text": "Nombres decididos:\n• YouTube: Ticket Medio. Cómo ganan dinero las empresas y los servicios que pagas cada día en España.\n• Redes: Pepa Pita, una gallina cocinera animada con menús baratos, recetas y trucos de cocina."
+    },
+    {
+      "id": "m-plan",
+      "author": "claude",
+      "createdAt": "2026-09-25T09:02:51Z",
+      "text": "He cargado la hoja de ruta y los 7 pasos para crear las cuentas (del lunes 28 al miércoles 30). Pulsa cada PASO para ver las instrucciones completas, con los enlaces.\n\nTu tarea «Crear cuentas» la he sustituido por esos pasos, porque cada cuenta necesita instrucciones distintas. Las cuentas tienes que crearlas tú: todas piden verificar con tu móvil o tu correo. Yo hago todo lo demás.\n\nOrden recomendado: 1 → 2 → 3 → 4 → 5 → 6 → 7. Si te atascas en cualquier punto, escríbelo aquí o mándame una captura en el chat."
+    },
+    {
+      "id": "m-hoy",
+      "author": "claude",
+      "createdAt": "2026-09-25T09:10:20Z",
+      "text": "¡Empezamos HOY! He movido los 7 pasos a hoy, viernes 25. Empieza por el PASO 1 (el Gmail): sin él no se pueden hacer los demás. Yo ya estoy instalando las herramientas y después diseño el logo de Ticket Medio. El primer vídeo de YouTube saldrá el viernes 2 de octubre."
+    },
+    {
+      "id": "m-finde",
+      "author": "claude",
+      "createdAt": "2026-09-25T09:17:50Z",
+      "text": "Entendido: los fines de semana no se trabaja. He pasado al lunes 28 el vídeo piloto y el primer vídeo de Pepa, y tu revisión al martes 29. Lo que tenga que salir en sábado se deja programado el viernes."
+    },
+    {
+      "id": "m-120852525219",
+      "author": "claude",
+      "text": "Resumen de hoy: ✓ Gmail (ticketmedio.es@gmail.com) · ✓ Canal @TicketMedio con logo y banner · ✓ Azure y voz del narrador (Tristán HD) · ✓ Instagram @soypepapita (Creador). Quedan: PASO 5 Facebook, PASO 6 TikTok, PASO 7 Pepa en Gemini y PASO 8 Pexels.",
+      "createdAt": "2026-09-25T10:08:52.525Z"
+    },
+    {
+      "id": "m-131557303623",
+      "author": "claude",
+      "text": "¡Día 1 completado! ✓ Todas las cuentas, claves, el personaje de Pepa y la música están listos. Solo queda TikTok (el lunes, desde el móvil). Y el vídeo piloto ya está terminado, con música: míralo y dime qué te parece en la tarea «Ver el vídeo piloto».",
+      "createdAt": "2026-09-25T11:15:57.303Z"
+    },
+    {
+      "id": "m-132442859629",
+      "author": "claude",
+      "text": "Decisión tomada: el piloto ES el vídeo 1 y sale HOY a las 18:00. He hecho la auditoría de calidad (todo aprobado) y he dejado para hoy la tarea «Subir el vídeo 1 a YouTube», con el manual completo paso a paso (unos 15 minutos). El resto del calendario se desplaza: el lunes eliges el tema del vídeo 2.",
+      "createdAt": "2026-09-25T11:24:42.859Z"
+    },
+    {
+      "id": "m-082306552635",
+      "author": "claude",
+      "text": "28/09: paramos la producción de YouTube hasta cerrar un estudio de nicho serio (canales pequeños con más visitas que suscriptores + RPM + requisitos de monetización). Pepa Pita sigue su plan: hoy toca programar el vídeo 1.",
+      "createdAt": "2026-09-28T06:23:06.552Z"
+    },
+    {
+      "id": "m-091628311903",
+      "author": "claude",
+      "text": "Estudio de nicho terminado: youtube/estudio_nicho/00_CONCLUSION_NICHO.md. Resumen en el chat.",
+      "createdAt": "2026-09-28T07:16:28.311Z"
+    },
+    {
+      "id": "m-122404841339",
+      "author": "claude",
+      "text": "Vídeo 2 (Mercadona) y sus 3 Shorts terminados el lunes 28. El jueves 1: verlos (12 min) y subirlos programados: el vídeo sale el viernes 2 a las 18:00 y los Shorts el sábado 3, lunes 5 y miércoles 7. Todo con pasos detallados en las tareas.",
+      "createdAt": "2026-09-28T10:24:04.841Z"
+    },
+    {
+      "id": "m-141933115479",
+      "author": "claude",
+      "text": "28/09, resumen del día: nicho estudiado y confirmado; mascota creada; Mercadona + 3 Shorts programados; Pepa 1–6 programados hasta el 10/10 en las tres redes; Zara con guion y locución. Desde hoy borro yo las carpetas ya publicadas (guardando sus textos en «archivo»). El comentario de Mercadona pasa al lunes 5.",
+      "createdAt": "2026-09-28T12:19:33.115Z"
+    }
+  ],
+  "hojaDeRuta": {
+    "fases": [
+      {
+        "nombre": "Fase 0 · Preparación",
+        "inicio": "2026-09-25",
+        "fin": "2026-09-27",
+        "objetivo": "Cuentas creadas, herramientas instaladas y dos vídeos de prueba aprobados.",
+        "hitos": [
+          "Pasos 1 a 7 hechos (cuentas y personaje)",
+          "Voz de Azure funcionando",
+          "Piloto de Ticket Medio revisado",
+          "Primer vídeo de Pepa Pita revisado"
+        ]
+      },
+      {
+        "nombre": "Fase 1 · Lanzamiento",
+        "inicio": "2026-09-28",
+        "fin": "2026-10-25",
+        "objetivo": "Arrancar con constancia: 1 vídeo largo y 3 Shorts a la semana en Ticket Medio, y 3 vídeos a la semana de Pepa Pita.",
+        "hitos": [
+          "✅ Estudio de nicho con datos: nos quedamos en «empresas españolas por dentro» (28/09)",
+          "✅ Mascota del ticket y formato ilustrado (28/09)",
+          "✅ Vídeo 2 (Mercadona) y sus 3 Shorts, programados (sale el 2/10)",
+          "✅ Pepa Pita: 6 vídeos programados hasta el 10/10 en Instagram, Facebook y TikTok",
+          "⏳ Vídeo 3 (Zara): guion y locución hechos",
+          "⏳ 4 vídeos largos y 12 Shorts publicados; colchón de 3–4 vídeos terminados"
+        ]
+      },
+      {
+        "nombre": "Fase 2 · Temporada alta",
+        "inicio": "2026-10-26",
+        "fin": "2026-12-31",
+        "objetivo": "Aprovechar noviembre y diciembre, cuando los anunciantes pagan más: Black Friday, Navidad y Lotería.",
+        "hitos": [
+          "Vídeo sobre la Lotería de Navidad como negocio",
+          "Menús navideños baratos de Pepa Pita",
+          "Primera revisión de datos al llegar a 8 vídeos"
+        ]
+      },
+      {
+        "nombre": "Fase 3 · Revisión seria",
+        "inicio": "2027-01-01",
+        "fin": "2027-01-31",
+        "objetivo": "Con 12–15 vídeos publicados, decidir con datos qué temas, duraciones y miniaturas funcionan.",
+        "hitos": [
+          "Comando RESULTADOS: análisis completo",
+          "Decidir qué repetir y qué abandonar",
+          "Desde el 1/2/2027 YouTube pide 8.000 horas a los canales nuevos (confirmado en el blog oficial)"
+        ]
+      },
+      {
+        "nombre": "Fase 4 · Crecimiento",
+        "inicio": "2027-02-01",
+        "fin": "2027-06-30",
+        "objetivo": "Objetivo: 1.000 suscriptores y 8.000 horas en Ticket Medio, y 10.000 seguidores con Pepa Pita.",
+        "hitos": [
+          "Enlaces de afiliado de Amazon en las descripciones",
+          "Primeras colaboraciones con marcas (Pepa Pita)",
+          "Menú semanal en PDF como producto propio"
+        ]
+      },
+      {
+        "nombre": "Fase 5 · Monetización",
+        "inicio": "2027-07-01",
+        "fin": "2027-12-31",
+        "objetivo": "Si los números acompañan: activar el Programa de Partners de YouTube y los patrocinios, y hacer las cosas bien con Hacienda.",
+        "hitos": [
+          "Solicitar el Programa de Partners de YouTube",
+          "Consultar con una gestoría el alta de autónomo",
+          "Pagar herramientas solo si los datos lo justifican"
+        ]
+      }
+    ],
+    "rutina": [
+      {
+        "dia": "Lunes",
+        "tu": "Fijar el comentario con las fuentes del vídeo del viernes (2 min). Solo si te pido imágenes en Gemini: 15–20 min",
+        "claude": "Tema del vídeo (título y miniatura primero), investigación y guion; vídeos de Pepa de la semana"
+      },
+      {
+        "dia": "Martes",
+        "tu": "Programar Pepa en Instagram, Facebook y TikTok (10 min)",
+        "claude": "Voz, escenas ilustradas y montaje del vídeo largo"
+      },
+      {
+        "dia": "Miércoles",
+        "tu": "—",
+        "claude": "3 Shorts, miniatura, textos, fuentes y auditoría"
+      },
+      {
+        "dia": "Jueves",
+        "tu": "Ver el vídeo (12 min), subirlo programado con sus 3 Shorts (25 min) y programar Pepa (10 min)",
+        "claude": "Corregir lo que me digas"
+      },
+      {
+        "dia": "Viernes",
+        "tu": "Nada fijo (el vídeo sale solo a las 18:00)",
+        "claude": "Adelantar el vídeo siguiente (colchón de 3–4)"
+      },
+      {
+        "dia": "Una vez al mes",
+        "tu": "RESULTADOS: pásame capturas de YouTube Studio (15 min)",
+        "claude": "Análisis de los datos y ajustes"
+      }
+    ]
+  }
+}

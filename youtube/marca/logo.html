@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="es"><head><meta charset="utf-8">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap">
+<style>
+html,body{margin:0;width:800px;height:800px;overflow:hidden;background:#F5B301}
+svg{display:block}
+</style></head><body>
+<svg id="s" width="800" height="800" viewBox="0 0 800 800" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="sh" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="14" stdDeviation="16" flood-color="#5a3a00" flood-opacity=".35"/>
+    </filter>
+  </defs>
+  <rect width="800" height="800" fill="#F5B301"/>
+  <g transform="translate(400 405) rotate(-7)">
+    <path id="paper" fill="#FBFAF6" filter="url(#sh)"/>
+    <text x="0" y="-78" text-anchor="middle" font-family="Archivo Black, Arial Black, sans-serif" font-size="176" fill="#12161C" letter-spacing="-4">TM</text>
+    <line x1="-150" y1="-28" x2="150" y2="-28" stroke="#12161C" stroke-width="9" stroke-dasharray="16 12" stroke-linecap="round"/>
+    <rect x="-150" y="10" width="170" height="26" rx="13" fill="#12161C" opacity=".85"/>
+    <rect x="80" y="10" width="70" height="26" rx="13" fill="#12161C" opacity=".85"/>
+    <rect x="-150" y="62" width="120" height="26" rx="13" fill="#12161C" opacity=".85"/>
+    <rect x="80" y="62" width="70" height="26" rx="13" fill="#12161C" opacity=".85"/>
+    <rect x="-150" y="124" width="300" height="46" rx="10" fill="#E0521B"/>
+  </g>
+</svg>
+<script>
+  // Papel del ticket con el borde inferior en zigzag
+  (function(){
+    var w=340,yTop=-250,yBot=220,teeth=10,tooth=w/teeth,depth=26,x0=-w/2;
+    var d='M'+x0+' '+(yTop+18)+' Q'+x0+' '+yTop+' '+(x0+18)+' '+yTop+' L'+(-x0-18)+' '+yTop+' Q'+(-x0)+' '+yTop+' '+(-x0)+' '+(yTop+18)+' L'+(-x0)+' '+yBot;
+    for(var i=teeth;i>0;i--){var xa=x0+(i-0.5)*tooth, xb=x0+(i-1)*tooth; d+=' L'+xa+' '+(yBot+depth)+' L'+xb+' '+yBot;}
+    d+=' Z';
+    document.getElementById('paper').setAttribute('d',d);
+  })();
+</script>
+</body></html>

@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="es"><head><meta charset="utf-8">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Big+Shoulders+Display:wght@800;900&family=JetBrains+Mono:wght@500;700&display=swap">
+<style>
+html,body{margin:0;width:2560px;height:1440px;overflow:hidden}
+body{background:#12161C;position:relative;font-family:"JetBrains Mono",Consolas,monospace;color:#FBFAF6}
+/* textura de puntos muy suave */
+body::before{content:"";position:absolute;inset:0;background-image:radial-gradient(rgba(251,250,246,.07) 1.6px,transparent 1.6px);background-size:34px 34px}
+/* zona segura de YouTube: 1546x423 centrada */
+.safe{position:absolute;left:507px;top:508px;width:1546px;height:423px;display:flex;align-items:center;justify-content:space-between;gap:60px}
+.title{font-family:"Big Shoulders Display","Archivo Black",sans-serif;font-weight:900;font-size:186px;line-height:.85;letter-spacing:2px;margin:0;text-transform:uppercase;white-space:nowrap}
+.title span{color:#F5B301}
+.sub{font-size:32px;line-height:1.35;margin:24px 0 0;color:#C9CDD3;max-width:960px}
+.when{font-size:23px;letter-spacing:4px;color:#F5B301;font-weight:700;margin:18px 0 0}
+.sub b{color:#FBFAF6;font-weight:700}
+.receipt{position:relative;width:400px;background:#FBFAF6;color:#12161C;padding:26px 30px 34px;transform:rotate(3deg);box-shadow:0 18px 40px rgba(0,0,0,.45);font-size:25px;flex:none}
+.receipt::after{content:"";position:absolute;left:0;right:0;bottom:-18px;height:18px;background:linear-gradient(-45deg,transparent 12px,#FBFAF6 0) 0 0/24px 18px repeat-x,linear-gradient(45deg,transparent 12px,#FBFAF6 0) 0 0/24px 18px repeat-x}
+.receipt .h{text-align:center;font-weight:700;letter-spacing:3px;font-size:22px}
+.receipt .sep{border-top:3px dashed #12161C;margin:12px 0}
+.row{display:flex;justify-content:space-between;gap:10px;line-height:1.55}
+.row .dots{flex:1;border-bottom:3px dotted rgba(18,22,28,.35);transform:translateY(-9px)}
+.total{display:flex;justify-content:space-between;font-weight:700;font-size:27px;background:#E0521B;color:#FBFAF6;padding:6px 10px;margin-top:4px}
+.stripe{position:absolute;top:0;left:0;right:0;height:14px;background:repeating-linear-gradient(-45deg,#F5B301 0 22px,#12161C 22px 44px)}
+.stripe.b{top:auto;bottom:0}
+.barcode{position:absolute;top:560px;height:320px;width:240px;background:repeating-linear-gradient(90deg,rgba(251,250,246,.10) 0 6px,transparent 6px 11px,rgba(251,250,246,.10) 11px 14px,transparent 14px 24px,rgba(251,250,246,.10) 24px 33px,transparent 33px 38px)}
+.barcode.l{left:60px}.barcode.r{right:60px}
+</style></head><body>
+<div class="stripe"></div><div class="stripe b"></div>
+<div class="barcode l"></div><div class="barcode r"></div>
+<div class="safe">
+  <div>
+    <h1 class="title">Ticket <span>Medio</span></h1>
+    <p class="sub">Cómo ganan dinero <b>de verdad</b> las empresas y los servicios que pagas cada día en España.</p>
+    <p class="when">NUEVO VÍDEO CADA VIERNES</p>
+  </div>
+  <div class="receipt">
+    <div class="h">TICKET Nº 0001</div>
+    <div class="sep"></div>
+    <div class="row"><span>SÚPER</span><span class="dots"></span><span>¿?</span></div>
+    <div class="row"><span>LUZ</span><span class="dots"></span><span>¿?</span></div>
+    <div class="row"><span>BANCO</span><span class="dots"></span><span>¿?</span></div>
+    <div class="row"><span>GASOLINA</span><span class="dots"></span><span>¿?</span></div>
+    <div class="sep"></div>
+    <div class="total"><span>¿QUIÉN GANA?</span><span>→</span></div>
+  </div>
+</div>
+</body></html>
