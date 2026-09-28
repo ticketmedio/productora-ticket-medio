@@ -1,0 +1,10 @@
+{
+ "shorts": [
+  {"id": "01", "titulo": "Casi 9 millones al día: a dónde va el beneficio de Zara",
+   "tramos": [["un señor de A Coruña", "un señor de A Coruña"], ["¿Y adónde van esos trece", "Casi nueve millones al día"]]},
+  {"id": "02", "titulo": "Zara casi nunca malvende: el 0,57 %",
+   "tramos": [["La primera pieza es que casi nunca", "Si no, se deja de fabricar"]]},
+  {"id": "03", "titulo": "Con tu ropa, Hacienda gana más que Zara",
+   "tramos": [["Primera parada: Hacienda", "Van directos al Estado"], ["Sexta parada: Hacienda", "Más de lo que gana la propia empresa"]]}
+ ]
+}

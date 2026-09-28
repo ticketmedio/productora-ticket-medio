@@ -1,0 +1,199 @@
+{
+ "formato": "vertical",
+ "fondos": "../../fondos",
+ "musica": "../../audio/musica.mp3",
+ "musica_db": -26,
+ "cola": 1.5,
+ "salida": "../../output/SHORT_02_zara_casi_no_malvende.mp4",
+ "escenas": [
+  {
+   "id": "a",
+   "desde": "El gran secreto de Zara",
+   "fondo": "tienda_ropa",
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 60,
+     "y": 360,
+     "w": 960,
+     "h": 560
+    },
+    {
+     "tipo": "texto",
+     "texto": "EL SECRETO DE ZARA",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "Casi nunca\nmalvende",
+     "x": 540,
+     "y": 620,
+     "tam": 110,
+     "color": "#E0521B",
+     "anim": "pop",
+     "t": 0
+    },
+    {
+     "tipo": "mascota",
+     "pose": "lupa",
+     "x": 540,
+     "y": 1310,
+     "h": 400,
+     "entra": "abajo",
+     "t": 0.1
+    }
+   ]
+  },
+  {
+   "id": "b",
+   "desde": "En 2024, la ropa",
+   "fondo": "#F4E9D0",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "EL SECRETO DE ZARA",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 0.57,
+     "dec": 2,
+     "sufijo": " %",
+     "x": 540,
+     "y": 500,
+     "tam": 190,
+     "color": "#E0521B",
+     "t": 0.1
+    },
+    {
+     "tipo": "texto",
+     "texto": "de ropa sin vender (2024)",
+     "x": 540,
+     "y": 640,
+     "tam": 58,
+     "fuente": "mano"
+    },
+    {
+     "tipo": "texto",
+     "texto": "< 1 prenda de cada 170",
+     "x": 540,
+     "y": 790,
+     "tam": 66,
+     "papel": true,
+     "en": "Menos de una prenda"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Margen: 58,3 %",
+     "x": 540,
+     "y": 960,
+     "tam": 76,
+     "en": "cincuenta y ocho"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "contento",
+     "x": 880,
+     "y": 1310,
+     "h": 320,
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "c",
+   "desde": "La segunda pieza es cómo fabrica",
+   "fondo": "taller_costura",
+   "zoom": [
+    1.04,
+    1.1
+   ],
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 60,
+     "y": 360,
+     "w": 960,
+     "h": 720
+    },
+    {
+     "tipo": "texto",
+     "texto": "EL SECRETO DE ZARA",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "Fabrica cerca:",
+     "x": 540,
+     "y": 440,
+     "tam": 60,
+     "fuente": "mano",
+     "t": 0.1
+    },
+    {
+     "tipo": "texto",
+     "texto": "España · Portugal\nMarruecos · Turquía",
+     "x": 540,
+     "y": 580,
+     "tam": 62,
+     "en": "en Portugal"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Tandas cortas",
+     "x": 540,
+     "y": 760,
+     "tam": 84,
+     "color": "#E0521B",
+     "anim": "pop",
+     "en": "tandas cortas"
+    },
+    {
+     "tipo": "texto",
+     "texto": "¿Se vende? → se repone",
+     "x": 540,
+     "y": 890,
+     "tam": 56,
+     "fuente": "mano",
+     "en": "Si algo se vende"
+    },
+    {
+     "tipo": "texto",
+     "texto": "¿No? → se deja de fabricar",
+     "x": 540,
+     "y": 990,
+     "tam": 56,
+     "fuente": "mano",
+     "en": "se deja de fabricar"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "lupa",
+     "x": 880,
+     "y": 1310,
+     "h": 300,
+     "t": 0.2
+    }
+   ]
+  }
+ ]
+}

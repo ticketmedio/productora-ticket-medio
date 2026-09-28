@@ -1,0 +1,171 @@
+{
+ "formato": "vertical",
+ "fondos": "../../fondos",
+ "musica": "../../audio/musica.mp3",
+ "musica_db": -26,
+ "cola": 1.5,
+ "salida": "../../output/SHORT_03_hacienda_gana_mas.mp4",
+ "escenas": [
+  {
+   "id": "a",
+   "desde": "¿Quién gana más con tu ropa",
+   "fondo": "#E3E7EC",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "¿QUIÉN GANA MÁS?",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "imagen",
+     "src": "file:///C:/Users/Propietario/Downloads/faceless/youtube/video_003_zara/assets/camiseta.svg",
+     "x": 540,
+     "y": 640,
+     "h": 480,
+     "t": 0
+    },
+    {
+     "tipo": "texto",
+     "texto": "25,95 €",
+     "x": 24,
+     "y": 698.7096774193549,
+     "tam": 740.6451612903226,
+     "color": "#E0521B",
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "Parada 1: Hacienda",
+     "x": 70,
+     "y": 540,
+     "tam": 980,
+     "papel": true,
+     "t": 2.2
+    },
+    {
+     "tipo": "mascota",
+     "pose": "pensativo",
+     "x": 880,
+     "y": 1310,
+     "h": 300,
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "b",
+   "desde": "En España, la ropa paga",
+   "fondo": "#E3E7EC",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "¿QUIÉN GANA MÁS?",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "IVA de la ropa: 21 %",
+     "x": 540,
+     "y": 460,
+     "tam": 72,
+     "en": "veintiuno por ciento"
+    },
+    {
+     "tipo": "moneda",
+     "texto": "17 c",
+     "r": 130,
+     "x": 540,
+     "y": 720,
+     "color": "#9CC5E8",
+     "en": "unos diecisiete céntimos"
+    },
+    {
+     "tipo": "texto",
+     "texto": "de cada euro, directos al Estado",
+     "x": 540,
+     "y": 940,
+     "tam": 56,
+     "fuente": "mano",
+     "en": "Van directos"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "encoge_hombros",
+     "x": 880,
+     "y": 1310,
+     "h": 300,
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "c",
+   "desde": "Sexta parada: Hacienda",
+   "fondo": "#E3E7EC",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "¿QUIÉN GANA MÁS?",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "Y luego, el impuesto\nsobre el beneficio:",
+     "x": 540,
+     "y": 440,
+     "tam": 58,
+     "fuente": "mano",
+     "t": 0.1
+    },
+    {
+     "tipo": "texto",
+     "texto": "≈ 4 c",
+     "x": 540,
+     "y": 600,
+     "tam": 110,
+     "en": "Casi cuatro"
+    },
+    {
+     "tipo": "texto",
+     "texto": "IVA + impuesto\n≈ 21 c",
+     "x": 540,
+     "y": 790,
+     "tam": 90,
+     "color": "#E0521B",
+     "en": "unos veintiún"
+    },
+    {
+     "tipo": "sello",
+     "texto": "MÁS QUE ZARA (13 c)",
+     "x": 540,
+     "y": 1010,
+     "tam": 62,
+     "en": "Más de lo que gana"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "enfadado",
+     "x": 880,
+     "y": 1310,
+     "h": 280,
+     "t": 0.2
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,189 @@
+{
+ "formato": "vertical",
+ "fondos": "../../fondos",
+ "musica": "../../audio/musica.mp3",
+ "musica_db": -26,
+ "cola": 1.5,
+ "salida": "../../output/SHORT_01_9_millones_al_dia.mp4",
+ "escenas": [
+  {
+   "id": "a",
+   "desde": "Hay un señor de A Coruña",
+   "fondo": "calle_comercial",
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 60,
+     "y": 360,
+     "w": 960,
+     "h": 640
+    },
+    {
+     "tipo": "texto",
+     "texto": "¿9 MILLONES AL DÍA?",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "Un señor de A Coruña…",
+     "x": 540,
+     "y": 500,
+     "tam": 70,
+     "fuente": "mano",
+     "t": 0
+    },
+    {
+     "tipo": "texto",
+     "texto": "≈ 9 M€\nal día",
+     "x": 540,
+     "y": 780,
+     "tam": 120,
+     "color": "#E0521B",
+     "anim": "pop",
+     "en": "nueve millones"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "sorprendido",
+     "x": 880,
+     "y": 1310,
+     "h": 380,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "b",
+   "desde": "¿Y adónde van esos trece",
+   "fondo": "#FFF3C4",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "¿9 MILLONES AL DÍA?",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "De cada € que pagas en Zara,\n13 c son beneficio",
+     "x": 540,
+     "y": 420,
+     "tam": 56,
+     "fuente": "mano",
+     "papel": true,
+     "t": 0.1
+    },
+    {
+     "tipo": "tarta",
+     "x": 540,
+     "y": 760,
+     "r": 220,
+     "t": 0.2,
+     "porciones": [
+      {
+       "v": 52,
+       "color": "#E0521B",
+       "en": "casi siete céntimos"
+      },
+      {
+       "v": 35,
+       "color": "#F5B301",
+       "en": "Casi once se reparten"
+      },
+      {
+       "v": 13,
+       "color": "#D9D2C0",
+       "en": "Casi once se reparten"
+      }
+     ]
+    },
+    {
+     "tipo": "texto",
+     "texto": "≈ 7 c · Amancio Ortega",
+     "x": 540,
+     "y": 1060,
+     "tam": 58,
+     "color": "#E0521B",
+     "en": "casi siete céntimos"
+    },
+    {
+     "tipo": "texto",
+     "texto": "≈ 4 c · otros accionistas · ≈ 2 c · la empresa",
+     "x": 540,
+     "y": 1150,
+     "tam": 44,
+     "fuente": "mano",
+     "en": "Casi once se reparten"
+    }
+   ]
+  },
+  {
+   "id": "c",
+   "desde": "Este año cobrará",
+   "fondo": "#F4E9D0",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "¿9 MILLONES AL DÍA?",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 3200,
+     "prefijo": "≈ ",
+     "sufijo": " M€",
+     "x": 540,
+     "y": 520,
+     "tam": 150,
+     "color": "#E0521B",
+     "t": 0.1
+    },
+    {
+     "tipo": "texto",
+     "texto": "en dividendos de Inditex, este año",
+     "x": 540,
+     "y": 660,
+     "tam": 54,
+     "fuente": "mano"
+    },
+    {
+     "tipo": "texto",
+     "texto": "≈ 9 M€ al día",
+     "x": 540,
+     "y": 830,
+     "tam": 110,
+     "anim": "pop",
+     "en": "Casi nueve millones"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "sorprendido",
+     "x": 540,
+     "y": 1310,
+     "h": 360,
+     "entra": "abajo",
+     "t": 0.2
+    }
+   ]
+  }
+ ]
+}
