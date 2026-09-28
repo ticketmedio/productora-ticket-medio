@@ -90,8 +90,20 @@ def estado(tid, st):
     print("No existe la tarea", tid)
 
 
+def publicar():
+    """Sube datos.json a GitHub para que la Sala web (GitHub Pages) se actualice. No bloquea."""
+    import subprocess
+    raiz = os.path.dirname(HERE)
+    orden = ("git add web/datos.json && git commit -q -m \"Sala: actualización de Claude\" "
+             "&& git pull -q --rebase --autostash && git push -q")
+    subprocess.Popen(orden, cwd=raiz, shell=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+
+
 if __name__ == "__main__":
     cmd = sys.argv[1] if len(sys.argv) > 1 else "novedades"
+    if cmd in ("comentar", "mensaje", "estado", "publicar"):
+        import atexit
+        atexit.register(publicar)
     if cmd == "novedades":
         novedades()
     elif cmd == "comentar":

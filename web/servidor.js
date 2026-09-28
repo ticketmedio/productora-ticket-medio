@@ -30,7 +30,32 @@ function write(d) {
   const tmp = DATA + '.tmp';
   fs.writeFileSync(tmp, JSON.stringify(d, null, 2), 'utf8');
   fs.renameSync(tmp, DATA);
+  publicarPronto();
 }
+
+// ── Publicación en GitHub: la versión web de la Sala (GitHub Pages) lee web/datos.json del repositorio ──
+const { execFile } = require('child_process');
+const RAIZ = path.join(__dirname, '..');
+let temporizador = null, publicando = false;
+function git(args) {
+  return new Promise((ok) => execFile('git', args, { cwd: RAIZ, windowsHide: true }, (e, out) => ok({ e, out: String(out || '') })));
+}
+async function publicar() {
+  if (publicando) return publicarPronto();
+  publicando = true;
+  try {
+    const cambios = await git(['status', '--porcelain', 'web/datos.json']);
+    if (cambios.out.trim()) {
+      await git(['add', 'web/datos.json']);
+      await git(['commit', '-q', '-m', 'Sala: actualización']);
+      await git(['pull', '-q', '--rebase', '--autostash']);
+      const r = await git(['push', '-q']);
+      console.log(r.e ? 'No se pudo subir a GitHub (se reintentará).' : 'Sala publicada en la web: ' + new Date().toLocaleTimeString('es-ES'));
+    }
+  } finally { publicando = false; }
+}
+function publicarPronto() { clearTimeout(temporizador); temporizador = setTimeout(publicar, 15000); }
+setInterval(publicar, 60000);   // también recoge los cambios que hace Claude directamente en datos.json
 
 function readBody(req) {
   return new Promise((resolve, reject) => {
