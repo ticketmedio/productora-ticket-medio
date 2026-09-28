@@ -610,16 +610,25 @@ img{max-width:100%}
   function newId(){return 't-'+Date.now().toString(36)+Math.random().toString(36).slice(2,6);}
   function normalize(o){o=Object.assign({},o);o.status=o.status||'pendiente';o.kind=o.kind||'tarea';o.who=o.who||'tu';o.project=o.project||'general';return o;}
   var lastRaw='';
+  // Versión web (GitHub Pages): sin servidor, lee datos.json publicado y funciona solo para consultar.
+  var WEB='Versión web: solo para consultar. Para marcar tareas o comentar, usa la Sala del ordenador o escríbeme en el chat.';
+  function aplicar(raw,esWeb){
+    if(raw===lastRaw&&state.loaded)return;
+    lastRaw=raw;var d=JSON.parse(raw);
+    state.tasks=(d.tareas||[]).map(normalize);
+    state.roadmap=d.hojaDeRuta||null;
+    state.msgs=(d.mensajes||[]).slice().sort(function(a,b){return String(b.createdAt).localeCompare(String(a.createdAt));}).slice(0,80);
+    state.loaded=true;setStatus(esWeb?WEB:'');render();
+  }
   function load(){
     return fetch('/api/data',{cache:'no-store'}).then(function(r){if(!r.ok)throw 0;return r.text();}).then(function(raw){
-      db=true;
-      if(raw===lastRaw&&state.loaded)return;
-      lastRaw=raw;var d=JSON.parse(raw);
-      state.tasks=(d.tareas||[]).map(normalize);
-      state.roadmap=d.hojaDeRuta||null;
-      state.msgs=(d.mensajes||[]).slice().sort(function(a,b){return String(b.createdAt).localeCompare(String(a.createdAt));}).slice(0,80);
-      state.loaded=true;setStatus('');render();
-    }).catch(function(){db=null;setStatus(OFFLINE,true);});
+      db=true;aplicar(raw,false);
+    }).catch(function(){
+      db=null;
+      return fetch('datos.json?v='+Date.now(),{cache:'no-store'}).then(function(r){if(!r.ok)throw 0;return r.text();})
+        .then(function(raw){OFFLINE=WEB;aplicar(raw,true);})
+        .catch(function(){setStatus(OFFLINE,true);});
+    });
   }
 
   function setStatus_(t,s){if(!requireDb())return;
