@@ -1241,13 +1241,13 @@
       "who": "claude",
       "kind": "tarea",
       "project": "redes",
-      "status": "pendiente",
+      "status": "en_curso",
       "platforms": [],
       "notes": "Seis vídeos verificados con fuentes oficiales, con sus textos, listos para programarlos de una vez.",
       "comentarios": [],
       "createdAt": "2026-09-28T12:19:33.000Z",
       "createdBy": "claude",
-      "updatedAt": "2026-09-28T12:19:33.000Z"
+      "updatedAt": "2026-09-29T05:35:56.196Z"
     },
     {
       "id": "pub-pepa-lote-2",
