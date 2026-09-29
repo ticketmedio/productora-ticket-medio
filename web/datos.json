@@ -2075,7 +2075,14 @@
       "notes": "Temas: Castañas · Calabaza · Setas · Menú barato de otoño · Legumbres · Pan duro. Datos verificados en fuentes oficiales.",
       "updatedAt": "2026-09-29T13:32:41.163Z",
       "status": "hecho",
-      "comentarios": [],
+      "comentarios": [
+        {
+          "id": "c-153241987058",
+          "author": "claude",
+          "text": "29/09: los 6 vídeos terminados y revisados (36–51 s), adelantados 3 semanas. Correcciones de la investigación: el aviso de las calabazas amargas es de las agencias de Francia y Alemania (no de la AESAN), y la ley del desperdicio (Ley 1/2025) obliga a empresas, no a los hogares.",
+          "createdAt": "2026-09-29T13:32:41.987Z"
+        }
+      ],
       "createdAt": "2026-09-28T13:02:28.000Z",
       "createdBy": "claude"
     },
