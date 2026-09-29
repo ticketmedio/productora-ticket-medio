@@ -604,14 +604,56 @@ img{max-width:100%}
 
   var OFFLINE='No hay conexión con la Sala. Ábrela con el icono "Sala de Producción" del escritorio.';
   function requireDb(){if(!db){toast(WEBMODE?'Desde la web solo se pueden marcar tareas, comentar y escribir en el Tablón. Para crear o cambiar tareas, díselo a Claude.':OFFLINE);return false;}return true;}
-  // Versión web: cada acción abre una petición («issue») ya rellena en GitHub. Al pulsar «Create», GitHub Actions
+  // Versión web: cada acción crea una petición («issue») en GitHub con la API (ver peticion()). GitHub Actions
   // la guarda en web_cambios.json (.github/workflows/sala_web.yml) y la web la muestra en 1–2 minutos.
   var WEBMODE=false, REPO='ticketmedio/productora-ticket-medio';
   var ESTADO_TXT={pendiente:'Pendiente',en_curso:'En curso',hecho:'Hecho'};
+  // La petición se crea con la API de GitHub usando una llave (token de acceso con permiso solo de «Issues»)
+  // que el usuario pega una vez en cada navegador. Se guarda solo en ese navegador; nunca en el repositorio.
+  var LLAVE='sala-github-llave', llaveMem='', pendientes=[];
+  function llave(){try{return localStorage.getItem(LLAVE)||llaveMem;}catch(e){return llaveMem;}}
+  function guardarLlave(v){llaveMem=v;try{if(v)localStorage.setItem(LLAVE,v);else localStorage.removeItem(LLAVE);}catch(e){}}
   function peticion(titulo,obj){
-    var body='👉 Pulsa el botón verde «Create» (abajo a la derecha) y cierra esta pestaña. No cambies nada de lo de abajo.\n\n```json\n'+JSON.stringify(obj)+'\n```\n';
-    var w=window.open('https://github.com/'+REPO+'/issues/new?title='+encodeURIComponent('Sala: '+titulo.slice(0,120))+'&body='+encodeURIComponent(body),'_blank');
-    toast(w?'Se ha abierto GitHub: pulsa el botón verde «Create». En 1–2 minutos se verá aquí.':'El navegador ha bloqueado la ventana de GitHub: permite las ventanas emergentes de esta página.');
+    var tk=llave();
+    if(!tk){pedirLlave(function(){peticion(titulo,obj);});return;}
+    var body='Enviado desde la Sala web.\n\n```json\n'+JSON.stringify(obj)+'\n```\n';
+    toast('Guardando…');
+    fetch('https://api.github.com/repos/'+REPO+'/issues',{method:'POST',
+      headers:{'Authorization':'Bearer '+tk,'Accept':'application/vnd.github+json','Content-Type':'application/json'},
+      body:JSON.stringify({title:'Sala: '+titulo.slice(0,120),body:body})})
+    .then(function(r){
+      if(r.status===201)return r.json().then(function(j){
+        pendientes.push(Object.assign({},obj,{id:'w-'+j.number,fecha:new Date().toISOString()}));
+        lastRaw='';toast('Guardado ✓');load();});
+      if(r.status===401||r.status===403||r.status===404){
+        guardarLlave('');toast('La llave de GitHub no funciona. Vuelve a pegarla.');
+        pedirLlave(function(){peticion(titulo,obj);});return;}
+      throw new Error('HTTP '+r.status);
+    }).catch(function(e){console.error(e);toast('No se pudo guardar. Comprueba la conexión e inténtalo otra vez.');});
+  }
+  function pedirLlave(despues){
+    var inp=el('input',{type:'password',placeholder:'github_pat_…','aria-label':'Llave de GitHub',autocomplete:'off',style:'width:100%;margin:6px 0 12px'});
+    var paso=function(){return el('li',{style:'margin:0 0 8px'},Array.prototype.slice.call(arguments));};
+    var enlace=el('a',{href:'https://github.com/settings/personal-access-tokens/new',target:'_blank',rel:'noopener',text:'github.com/settings/personal-access-tokens/new'});
+    var caja=el('div',{class:'overlay'});
+    function cerrar(){caja.remove();}
+    var guardar=el('button',{class:'btn primary',type:'button',text:'Guardar',onclick:function(){
+      var v=inp.value.trim();
+      if(!/^(github_pat_|ghp_)[A-Za-z0-9_]{20,}$/.test(v)){toast('Eso no parece una llave: debe empezar por github_pat_');inp.focus();return;}
+      guardarLlave(v);cerrar();toast('Llave guardada en este navegador');if(despues)despues();}});
+    caja.append(el('div',{class:'sheet',role:'dialog','aria-modal':'true','aria-label':'Conectar la Sala con GitHub'},
+      el('h2',{text:'Conectar este navegador (solo una vez)'}),
+      el('p',{text:'Para guardar sin abrir ventanas, la Sala necesita una llave de GitHub. Se guarda solo en este navegador.'}),
+      el('ol',{style:'padding-left:20px;margin:12px 0'},
+        paso('Abre ',enlace,' con la cuenta ticketmedio (arriba a la derecha).'),
+        paso('«Token name»: Sala web. «Expiration»: No expiration (o un año).'),
+        paso('«Repository access»: «Only select repositories» → productora-ticket-medio.'),
+        paso('«Permissions»: busca «Issues» y ponlo en «Read and write». Nada más.'),
+        paso('Botón verde «Generate token». Copia la llave (empieza por github_pat_).'),
+        paso('Pégala aquí y pulsa «Guardar». Nunca la pegues en el chat.')),
+      inp,
+      el('div',{style:'display:flex;gap:8px;justify-content:flex-end'},el('button',{class:'btn',type:'button',text:'Cancelar',onclick:cerrar}),guardar)));
+    document.body.append(caja);setTimeout(function(){inp.focus();},0);
   }
   // Misma lógica que aplicar_web() de claude_sala.py (aquí solo para mostrar; no guarda nada)
   function aplicarWeb(d,cambios){
@@ -634,7 +676,7 @@ img{max-width:100%}
   function normalize(o){o=Object.assign({},o);o.status=o.status||'pendiente';o.kind=o.kind||'tarea';o.who=o.who||'tu';o.project=o.project||'general';return o;}
   var lastRaw='';
   // Versión web (GitHub Pages): sin servidor, lee datos.json publicado y funciona solo para consultar.
-  var WEB='Versión web: al marcar una tarea, comentar o escribir en el Tablón se abre GitHub. Pulsa allí el botón verde «Create» y en 1–2 minutos se verá aquí.';
+  var WEB='Versión web: puedes marcar tareas, comentar y escribir en el Tablón. La primera vez te pedirá conectar este navegador con GitHub.';
   function aplicar(raw,esWeb){
     if(raw===lastRaw&&state.loaded)return;
     lastRaw=raw;var d=JSON.parse(raw);
@@ -654,7 +696,9 @@ img{max-width:100%}
         fetch('web_cambios.json'+v,{cache:'no-store'}).then(function(r){return r.ok?r.text():'{}';}).catch(function(){return '{}';})
       ]).then(function(x){
           var c={};try{c=JSON.parse(x[1]);}catch(e){}
-          WEBMODE=true;OFFLINE=WEB;aplicar(JSON.stringify(aplicarWeb(JSON.parse(x[0]),c.cambios)),true);})
+          var srv=c.cambios||[],d0=JSON.parse(x[0]),ya=(d0.aplicadosWeb||[]).concat(srv.map(function(z){return z.id;}));
+          pendientes=pendientes.filter(function(z){return ya.indexOf(z.id)<0;});
+          WEBMODE=true;OFFLINE=WEB;aplicar(JSON.stringify(aplicarWeb(d0,srv.concat(pendientes))),true);})
         .catch(function(){setStatus(OFFLINE,true);});
     });
   }
