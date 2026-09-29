@@ -1,0 +1,2600 @@
+{
+ "musica": "audio/musica.mp3",
+ "musica_db": -26,
+ "cola": 3,
+ "escenas": [
+  {
+   "id": "01",
+   "desde": "De cada euro que te gastas",
+   "fondo": "fachada",
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 90,
+     "y": 120,
+     "w": 1230,
+     "h": 870,
+     "t": 0
+    },
+    {
+     "tipo": "moneda",
+     "texto": "1 €",
+     "r": 170,
+     "x": 420,
+     "y": 460,
+     "color": "#F5B301",
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "→",
+     "x": 700,
+     "y": 460,
+     "tam": 120,
+     "en": "la empresa se queda"
+    },
+    {
+     "tipo": "moneda",
+     "texto": "3,5 c",
+     "r": 90,
+     "x": 960,
+     "y": 460,
+     "color": "#E0521B",
+     "en": "tres céntimos y medio"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Hacienda (IVA): ×5",
+     "x": 700,
+     "y": 720,
+     "tam": 70,
+     "fuente": "mano",
+     "papel": true,
+     "anim": "pop",
+     "rot": -3,
+     "en": "se lleva cinco veces"
+    },
+    {
+     "tipo": "sello",
+     "texto": "MEJOR AÑO EN MUCHO TIEMPO",
+     "x": 700,
+     "y": 880,
+     "tam": 50,
+     "en": "su mejor año"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "sorprendido",
+     "x": 1620,
+     "y": 1015,
+     "h": 520,
+     "entra": "der",
+     "t": 0.3,
+     "poses": [
+      {
+       "en": "Hacienda, solo con el IVA",
+       "pose": "lupa"
+      }
+     ]
+    }
+   ],
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "fuente": "El Corte Inglés, cuentas anuales consolidadas del ejercicio 2025 (mar. 2025 – feb. 2026) (cálculo propio)"
+  },
+  {
+   "id": "02",
+   "desde": "Llevamos años oyendo",
+   "fondo": "#FFF3C4",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "«El Corte Inglés se hunde»",
+     "x": 800,
+     "y": 230,
+     "tam": 76,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "Hoy abrimos su ticket, con sus cuentas",
+     "x": 800,
+     "y": 380,
+     "tam": 60,
+     "en": "Hoy vamos a abrir"
+    },
+    {
+     "tipo": "bocadillo",
+     "texto": "Si gana tan poco… ¿*cómo sigue vivo*?",
+     "x": 780,
+     "y": 640,
+     "ancho": 900,
+     "tam": 66,
+     "piensa": true,
+     "en": "si gana tan poco"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "pensativo",
+     "x": 1620,
+     "y": 1015,
+     "h": 520,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "03",
+   "desde": "Primero, las presentaciones",
+   "fondo": "grandes_almacenes",
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 90,
+     "y": 120,
+     "w": 1230,
+     "h": 870,
+     "t": 0
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 70,
+     "x": 380,
+     "y": 290,
+     "tam": 170,
+     "en": "setenta grandes almacenes"
+    },
+    {
+     "tipo": "texto",
+     "texto": "grandes almacenes\nen España (+2 en Portugal)",
+     "x": 380,
+     "y": 450,
+     "tam": 46,
+     "fuente": "mano",
+     "en": "setenta grandes almacenes"
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 34,
+     "x": 1000,
+     "y": 290,
+     "tam": 170,
+     "en": "treinta y cuatro"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Hipercor",
+     "x": 1000,
+     "y": 420,
+     "tam": 56,
+     "fuente": "mano",
+     "en": "treinta y cuatro"
+    },
+    {
+     "tipo": "texto",
+     "texto": "+ supermercados · Sfera · ≈ 400 agencias de viajes",
+     "x": 700,
+     "y": 700,
+     "tam": 50,
+     "fuente": "mano",
+     "papel": true,
+     "en": "unas cuatrocientas"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "saluda",
+     "x": 1620,
+     "y": 1015,
+     "h": 520,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "fuente": "El Corte Inglés, cuentas anuales consolidadas del ejercicio 2025 (mar. 2025 – feb. 2026), informe de gestión"
+  },
+  {
+   "id": "04",
+   "desde": "Trabajan allí ochenta",
+   "fondo": "agencia_viajes",
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 90,
+     "y": 120,
+     "w": 1230,
+     "h": 870,
+     "t": 0
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 81830,
+     "x": 700,
+     "y": 250,
+     "tam": 140,
+     "en": "ochenta y un mil"
+    },
+    {
+     "tipo": "texto",
+     "texto": "personas",
+     "x": 700,
+     "y": 360,
+     "tam": 60,
+     "fuente": "mano",
+     "en": "ochenta y un mil"
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 14988,
+     "x": 700,
+     "y": 560,
+     "tam": 140,
+     "sufijo": " M€",
+     "color": "#E0521B",
+     "en": "casi quince mil millones"
+    },
+    {
+     "tipo": "texto",
+     "texto": "facturados en su último año",
+     "x": 700,
+     "y": 670,
+     "tam": 56,
+     "fuente": "mano",
+     "en": "casi quince mil millones"
+    },
+    {
+     "tipo": "texto",
+     "texto": "≈ 475 € cada segundo",
+     "x": 700,
+     "y": 850,
+     "tam": 66,
+     "papel": true,
+     "en": "cuatrocientos setenta y cinco"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "sorprendido",
+     "x": 1620,
+     "y": 1015,
+     "h": 520,
+     "entra": "der",
+     "en": "ochenta y un mil"
+    }
+   ],
+   "fuente": "El Corte Inglés, cuentas anuales consolidadas del ejercicio 2025 (mar. 2025 – feb. 2026) (cálculo propio por segundo)"
+  },
+  {
+   "id": "05",
+   "desde": "Y aquí va el primer dato curioso",
+   "fondo": "#E6E0F5",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "¿De quién es?",
+     "x": 470,
+     "y": 130,
+     "tam": 70,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "tarta",
+     "x": 470,
+     "y": 590,
+     "r": 300,
+     "t": 0.3,
+     "porciones": [
+      {
+       "v": 40.04,
+       "color": "#E0521B",
+       "en": "la Fundación Ramón Areces"
+      },
+      {
+       "v": 18.4,
+       "color": "#F5B301",
+       "en": "Otro dieciocho por ciento"
+      },
+      {
+       "v": 8,
+       "color": "#9CC5E8",
+       "en": "Mutua Madrileña tiene"
+      },
+      {
+       "v": 5.5,
+       "color": "#8FD18F",
+       "en": "Y un jeque de Catar"
+      },
+      {
+       "v": 28.06,
+       "color": "#D9D2C0",
+       "en": "Y un jeque de Catar"
+      }
+     ]
+    },
+    {
+     "tipo": "rect",
+     "x": 850,
+     "y": 302,
+     "w": 56,
+     "h": 56,
+     "color": "#E0521B",
+     "en": "la Fundación Ramón Areces",
+     "dur": 0.3
+    },
+    {
+     "tipo": "texto",
+     "texto": "40 % · Fundación Ramón Areces",
+     "x": 935,
+     "y": 330,
+     "tam": 46,
+     "ancla": "izq",
+     "en": "la Fundación Ramón Areces",
+     "color": "#E0521B"
+    },
+    {
+     "tipo": "rect",
+     "x": 850,
+     "y": 397,
+     "w": 56,
+     "h": 56,
+     "color": "#F5B301",
+     "en": "Otro dieciocho por ciento",
+     "dur": 0.3
+    },
+    {
+     "tipo": "texto",
+     "texto": "18 % · hermanas Álvarez (IASA)",
+     "x": 935,
+     "y": 425,
+     "tam": 46,
+     "ancla": "izq",
+     "en": "Otro dieciocho por ciento"
+    },
+    {
+     "tipo": "rect",
+     "x": 850,
+     "y": 492,
+     "w": 56,
+     "h": 56,
+     "color": "#9CC5E8",
+     "en": "Mutua Madrileña tiene",
+     "dur": 0.3
+    },
+    {
+     "tipo": "texto",
+     "texto": "8 % · Mutua Madrileña",
+     "x": 935,
+     "y": 520,
+     "tam": 46,
+     "ancla": "izq",
+     "en": "Mutua Madrileña tiene"
+    },
+    {
+     "tipo": "rect",
+     "x": 850,
+     "y": 587,
+     "w": 56,
+     "h": 56,
+     "color": "#8FD18F",
+     "en": "Y un jeque de Catar",
+     "dur": 0.3
+    },
+    {
+     "tipo": "texto",
+     "texto": "≈ 5,5 % · jeque de Catar (prensa)",
+     "x": 935,
+     "y": 615,
+     "tam": 46,
+     "ancla": "izq",
+     "en": "Y un jeque de Catar"
+    },
+    {
+     "tipo": "rect",
+     "x": 850,
+     "y": 682,
+     "w": 56,
+     "h": 56,
+     "color": "#D9D2C0",
+     "en": "Y un jeque de Catar",
+     "dur": 0.3
+    },
+    {
+     "tipo": "texto",
+     "texto": "resto y acciones propias",
+     "x": 935,
+     "y": 710,
+     "tam": 46,
+     "ancla": "izq",
+     "en": "Y un jeque de Catar"
+    },
+    {
+     "tipo": "sello",
+     "texto": "NO COTIZA EN BOLSA",
+     "x": 1210,
+     "y": 880,
+     "tam": 50,
+     "en": "no cotiza en bolsa"
+    }
+   ],
+   "fuente": "El Corte Inglés, cuentas anuales consolidadas del ejercicio 2025 (mar. 2025 – feb. 2026) (nota 15); Mutua (2022); participación del jeque: prensa"
+  },
+  {
+   "id": "06",
+   "desde": "Vamos a lo nuestro",
+   "fondo": "planta_electronica",
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 90,
+     "y": 170,
+     "w": 1230,
+     "h": 820,
+     "t": 0
+    },
+    {
+     "tipo": "hud",
+     "valor": 100,
+     "cambios": []
+    },
+    {
+     "tipo": "imagen",
+     "src": "file:///C:/Users/Propietario/Downloads/faceless/youtube/video_004_corte_ingles/assets/camiseta.svg",
+     "x": 380,
+     "y": 560,
+     "h": 460,
+     "t": 0.1
+    },
+    {
+     "tipo": "texto",
+     "texto": "El aviso de siempre",
+     "x": 930,
+     "y": 300,
+     "tam": 70,
+     "en": "el aviso de siempre"
+    },
+    {
+     "tipo": "texto",
+     "texto": "No publica lo que\ncuesta cada producto",
+     "x": 930,
+     "y": 480,
+     "tam": 58,
+     "fuente": "mano",
+     "en": "no publica lo que cuesta"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Repartimos cada euro\ncon sus cuentas",
+     "x": 930,
+     "y": 680,
+     "tam": 58,
+     "fuente": "mano",
+     "papel": true,
+     "en": "Lo que sí publica"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Es una media, no tu factura",
+     "x": 930,
+     "y": 880,
+     "tam": 56,
+     "color": "#E0521B",
+     "en": "Es una media"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "senala",
+     "x": 1660,
+     "y": 1015,
+     "h": 470,
+     "mira": "izq",
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "zoom": [
+    1.02,
+    1.08
+   ]
+  },
+  {
+   "id": "07",
+   "desde": "Primera parada: Hacienda",
+   "fondo": "#E3E7EC",
+   "capas": [
+    {
+     "tipo": "hud",
+     "valor": 100,
+     "cambios": [
+      {
+       "en": "unos diecisiete céntimos",
+       "valor": 83
+      }
+     ]
+    },
+    {
+     "tipo": "texto",
+     "texto": "PARADA 1: Hacienda (IVA)",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "Ropa y electrónica: 21 %",
+     "x": 700,
+     "y": 410,
+     "tam": 80,
+     "en": "veintiuno por ciento"
+    },
+    {
+     "tipo": "moneda",
+     "texto": "17 c",
+     "r": 110,
+     "x": 700,
+     "y": 640,
+     "color": "#9CC5E8",
+     "en": "unos diecisiete céntimos",
+     "vuela": {
+      "en": "Van directos al Estado",
+      "x": 2150,
+      "y": 400,
+      "dur": 1.2,
+      "arco": 200
+     }
+    },
+    {
+     "tipo": "texto",
+     "texto": "Comida: 10 % · pan, leche, fruta: 4 %",
+     "x": 700,
+     "y": 880,
+     "tam": 54,
+     "fuente": "mano",
+     "papel": true,
+     "en": "Si compras comida"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "encoge_hombros",
+     "x": 1600,
+     "y": 1015,
+     "h": 520,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "AEAT, tipos de IVA 2025 (cálculo propio)"
+  },
+  {
+   "id": "08",
+   "desde": "Segunda parada, y la más grande",
+   "fondo": "planta_electronica",
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 90,
+     "y": 120,
+     "w": 1230,
+     "h": 870,
+     "t": 0
+    },
+    {
+     "tipo": "hud",
+     "valor": 83,
+     "cambios": [
+      {
+       "en": "Cincuenta y cinco céntimos",
+       "valor": 28
+      }
+     ]
+    },
+    {
+     "tipo": "texto",
+     "texto": "PARADA 2: el producto",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 55,
+     "x": 700,
+     "y": 470,
+     "tam": 260,
+     "sufijo": " c",
+     "color": "#E0521B",
+     "en": "Cincuenta y cinco céntimos"
+    },
+    {
+     "tipo": "texto",
+     "texto": "para quien lo fabrica o la marca que lo vende",
+     "x": 700,
+     "y": 700,
+     "tam": 54,
+     "fuente": "mano",
+     "papel": true,
+     "en": "a quien lo fabrica"
+    },
+    {
+     "tipo": "texto",
+     "texto": "más de la mitad de tu euro",
+     "x": 700,
+     "y": 860,
+     "tam": 64,
+     "en": "Más de la mitad"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "moneda",
+     "x": 1620,
+     "y": 1015,
+     "h": 520,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "fuente": "El Corte Inglés, cuentas anuales consolidadas del ejercicio 2025 (mar. 2025 – feb. 2026): aprovisionamientos 9.896 M€ (cálculo propio)"
+  },
+  {
+   "id": "09",
+   "desde": "Y aquí está la primera clave",
+   "fondo": "#F4E9D0",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "Margen bruto: lo que le queda de lo que vende",
+     "x": 800,
+     "y": 150,
+     "tam": 54,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "Zara fabrica lo suyo",
+     "x": 220,
+     "y": 330,
+     "tam": 54,
+     "fuente": "mano",
+     "ancla": "izq",
+     "en": "fabrica su propia ropa"
+    },
+    {
+     "tipo": "rect",
+     "x": 220,
+     "y": 380,
+     "w": 870,
+     "h": 110,
+     "color": "#F5B301",
+     "texto": "Zara: 58 %",
+     "tam": 50,
+     "en": "fabrica su propia ropa",
+     "dur": 1.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "El Corte Inglés revende marcas de otros",
+     "x": 220,
+     "y": 600,
+     "tam": 54,
+     "fuente": "mano",
+     "ancla": "izq",
+     "en": "revende sobre todo marcas"
+    },
+    {
+     "tipo": "rect",
+     "x": 220,
+     "y": 650,
+     "w": 510,
+     "h": 110,
+     "color": "#9CC5E8",
+     "texto": "El Corte Inglés: 34 %",
+     "tam": 46,
+     "en": "un treinta y cuatro por ciento",
+     "dur": 1.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "La diferencia está en la mercancía",
+     "x": 700,
+     "y": 900,
+     "tam": 60,
+     "color": "#E0521B",
+     "anim": "pop",
+     "rot": -2,
+     "en": "Zara se queda con"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "lupa",
+     "x": 1640,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "El Corte Inglés, cuentas anuales consolidadas del ejercicio 2025 (mar. 2025 – feb. 2026) (margen bruto 34,0 %); Inditex, ejercicio 2025 (58,3 %)"
+  },
+  {
+   "id": "10",
+   "desde": "Tercera parada: la gente",
+   "fondo": "escaleras_mecanicas",
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 90,
+     "y": 120,
+     "w": 1230,
+     "h": 870,
+     "t": 0
+    },
+    {
+     "tipo": "hud",
+     "valor": 28,
+     "cambios": [
+      {
+       "en": "Catorce céntimos",
+       "valor": 14
+      }
+     ]
+    },
+    {
+     "tipo": "texto",
+     "texto": "PARADA 3: la plantilla",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 14,
+     "x": 450,
+     "y": 470,
+     "tam": 240,
+     "sufijo": " c",
+     "color": "#E0521B",
+     "en": "Catorce céntimos"
+    },
+    {
+     "tipo": "texto",
+     "texto": "sueldos y\nSeguridad Social",
+     "x": 450,
+     "y": 680,
+     "tam": 54,
+     "fuente": "mano",
+     "en": "Catorce céntimos"
+    },
+    {
+     "tipo": "texto",
+     "texto": "+80.000 personas",
+     "x": 950,
+     "y": 480,
+     "tam": 80,
+     "en": "más de ochenta mil"
+    },
+    {
+     "tipo": "texto",
+     "texto": "vendedores en cada planta",
+     "x": 950,
+     "y": 620,
+     "tam": 54,
+     "fuente": "mano",
+     "papel": true,
+     "en": "vendedores en cada planta"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "riendo",
+     "x": 1650,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.1
+    }
+   ],
+   "zoom": [
+    1.04,
+    1.12
+   ],
+   "fuente": "El Corte Inglés, cuentas anuales consolidadas del ejercicio 2025 (mar. 2025 – feb. 2026): gastos de personal 2.604 M€ (cálculo propio)"
+  },
+  {
+   "id": "11",
+   "desde": "Cuarta parada: el local",
+   "fondo": "fachada",
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 90,
+     "y": 120,
+     "w": 1230,
+     "h": 870,
+     "t": 0
+    },
+    {
+     "tipo": "hud",
+     "valor": 14,
+     "cambios": [
+      {
+       "en": "menos de un céntimo por euro",
+       "valor": 13
+      }
+     ]
+    },
+    {
+     "tipo": "texto",
+     "texto": "PARADA 4: el local",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "< 1 c",
+     "x": 380,
+     "y": 430,
+     "tam": 180,
+     "color": "#E0521B",
+     "anim": "pop",
+     "en": "menos de un céntimo por euro"
+    },
+    {
+     "tipo": "texto",
+     "texto": "en alquileres",
+     "x": 380,
+     "y": 570,
+     "tam": 56,
+     "fuente": "mano",
+     "en": "menos de un céntimo por euro"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Zara: 6 c",
+     "x": 960,
+     "y": 440,
+     "tam": 90,
+     "en": "Zara paga seis"
+    },
+    {
+     "tipo": "sello",
+     "texto": "LOS EDIFICIOS SON SUYOS",
+     "x": 700,
+     "y": 720,
+     "tam": 64,
+     "en": "casi todos sus edificios"
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 15666,
+     "x": 700,
+     "y": 890,
+     "tam": 100,
+     "sufijo": " M€",
+     "en": "están tasados en"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "sorprendido",
+     "x": 1620,
+     "y": 1015,
+     "h": 520,
+     "entra": "der",
+     "t": 0.2,
+     "poses": [
+      {
+       "en": "Guárdate esa cifra",
+       "pose": "senala"
+      }
+     ]
+    }
+   ],
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "fuente": "El Corte Inglés, cuentas anuales consolidadas del ejercicio 2025 (mar. 2025 – feb. 2026): alquileres 170 M€; tasación de inmuebles 15.666 M€"
+  },
+  {
+   "id": "12",
+   "desde": "Quinta parada: todo lo que",
+   "fondo": "supermercado",
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 90,
+     "y": 120,
+     "w": 1230,
+     "h": 870,
+     "t": 0
+    },
+    {
+     "tipo": "hud",
+     "valor": 13,
+     "cambios": [
+      {
+       "en": "Un céntimo va a publicidad",
+       "valor": 12
+      },
+      {
+       "en": "Unos cinco, a la logística",
+       "valor": 6.5
+      },
+      {
+       "en": "Y otros dos son",
+       "valor": 4.2
+      }
+     ]
+    },
+    {
+     "tipo": "texto",
+     "texto": "PARADA 5: lo que no se ve",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "Publicidad: 1 c",
+     "x": 400,
+     "y": 380,
+     "tam": 64,
+     "fuente": "mano",
+     "papel": true,
+     "anim": "pop",
+     "rot": -2,
+     "en": "Un céntimo va a publicidad"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Logística · informática · seguridad ·\nluz · transporte · comisiones: 5 c",
+     "x": 700,
+     "y": 560,
+     "tam": 54,
+     "fuente": "mano",
+     "papel": true,
+     "anim": "pop",
+     "rot": 2,
+     "en": "Unos cinco, a la logística"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Desgaste de edificios, reformas\ny tecnología: 2 c",
+     "x": 700,
+     "y": 800,
+     "tam": 54,
+     "fuente": "mano",
+     "papel": true,
+     "anim": "pop",
+     "rot": -2,
+     "en": "Y otros dos son"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "corriendo",
+     "x": 1640,
+     "y": 1015,
+     "h": 480,
+     "entra": "der",
+     "t": 0.1
+    }
+   ],
+   "zoom": [
+    1.04,
+    1.1
+   ],
+   "fuente": "El Corte Inglés, cuentas anuales consolidadas del ejercicio 2025 (mar. 2025 – feb. 2026) (notas 9 y 22; cálculo propio)"
+  },
+  {
+   "id": "13",
+   "desde": "Sexta parada: Hacienda, otra vez",
+   "fondo": "#E3E7EC",
+   "capas": [
+    {
+     "tipo": "hud",
+     "valor": 4.2,
+     "cambios": [
+      {
+       "en": "Entre los dos, menos de un céntimo",
+       "valor": 3.5
+      }
+     ]
+    },
+    {
+     "tipo": "texto",
+     "texto": "PARADA 6: impuestos e intereses",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "Impuesto sobre el beneficio",
+     "x": 600,
+     "y": 380,
+     "tam": 56,
+     "fuente": "mano",
+     "papel": true,
+     "en": "impuesto sobre el beneficio"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Intereses de la deuda",
+     "x": 600,
+     "y": 500,
+     "tam": 56,
+     "fuente": "mano",
+     "papel": true,
+     "en": "los intereses de la deuda"
+    },
+    {
+     "tipo": "texto",
+     "texto": "< 1 c entre los dos",
+     "x": 600,
+     "y": 650,
+     "tam": 80,
+     "color": "#E0521B",
+     "en": "Entre los dos, menos"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Este año, más bajo de lo normal:\ncréditos fiscales de los años de pérdidas",
+     "x": 600,
+     "y": 860,
+     "tam": 48,
+     "fuente": "mano",
+     "en": "créditos fiscales"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "enfadado",
+     "x": 1600,
+     "y": 1015,
+     "h": 520,
+     "entra": "der",
+     "t": 0.2,
+     "poses": [
+      {
+       "en": "Ojo: el impuesto",
+       "pose": "pensativo"
+      }
+     ]
+    }
+   ],
+   "fuente": "El Corte Inglés, cuentas anuales consolidadas del ejercicio 2025 (mar. 2025 – feb. 2026): impuesto sobre sociedades 74 M€ (tipo efectivo 10,2 %)"
+  },
+  {
+   "id": "14",
+   "desde": "Y lo que queda, al final",
+   "fondo": "#FFF3C4",
+   "capas": [
+    {
+     "tipo": "hud",
+     "valor": 3.5,
+     "cambios": []
+    },
+    {
+     "tipo": "moneda",
+     "texto": "3,5 c",
+     "r": 150,
+     "x": 420,
+     "y": 420,
+     "color": "#E0521B",
+     "t": 0.3
+    },
+    {
+     "tipo": "texto",
+     "texto": "de beneficio por cada euro",
+     "x": 420,
+     "y": 640,
+     "tam": 56,
+     "fuente": "mano",
+     "t": 0.5
+    },
+    {
+     "tipo": "texto",
+     "texto": "Beneficio por euro:",
+     "x": 850,
+     "y": 300,
+     "tam": 50,
+     "fuente": "mano",
+     "ancla": "izq",
+     "en": "Para que te hagas una idea"
+    },
+    {
+     "tipo": "rect",
+     "x": 850,
+     "y": 360,
+     "w": 120,
+     "h": 80,
+     "color": "#E0521B",
+     "texto": "3,5 c",
+     "tam": 34,
+     "en": "Para que te hagas una idea",
+     "dur": 0.6
+    },
+    {
+     "tipo": "rect",
+     "x": 850,
+     "y": 460,
+     "w": 140,
+     "h": 80,
+     "color": "#9CC5E8",
+     "texto": "Mercadona 4 c",
+     "tam": 26,
+     "en": "Mercadona se quedaba",
+     "dur": 0.6
+    },
+    {
+     "tipo": "rect",
+     "x": 850,
+     "y": 560,
+     "w": 460,
+     "h": 80,
+     "color": "#F5B301",
+     "texto": "Zara 13 c",
+     "tam": 34,
+     "en": "Mercadona se quedaba",
+     "dur": 1.0
+    },
+    {
+     "tipo": "mascota",
+     "pose": "pensativo",
+     "x": 1650,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "El Corte Inglés, cuentas anuales consolidadas del ejercicio 2025 (mar. 2025 – feb. 2026) (beneficio neto 628 M€); vídeos de Mercadona y Zara"
+  },
+  {
+   "id": "15",
+   "desde": "De esos tres céntimos y medio",
+   "fondo": "#E6E0F5",
+   "capas": [
+    {
+     "tipo": "hud",
+     "valor": 3.5,
+     "cambios": []
+    },
+    {
+     "tipo": "tarta",
+     "x": 480,
+     "y": 560,
+     "r": 280,
+     "t": 0.1,
+     "porciones": [
+      {
+       "v": 1.4,
+       "color": "#F5B301",
+       "en": "casi uno y medio"
+      },
+      {
+       "v": 2.1,
+       "color": "#D9D2C0",
+       "en": "casi uno y medio"
+      }
+     ]
+    },
+    {
+     "tipo": "rect",
+     "x": 820,
+     "y": 392,
+     "w": 56,
+     "h": 56,
+     "color": "#F5B301",
+     "en": "casi uno y medio",
+     "dur": 0.3
+    },
+    {
+     "tipo": "texto",
+     "texto": "≈ 1,4 c · dividendo para los accionistas",
+     "x": 905,
+     "y": 420,
+     "tam": 46,
+     "ancla": "izq",
+     "en": "casi uno y medio"
+    },
+    {
+     "tipo": "rect",
+     "x": 820,
+     "y": 502,
+     "w": 56,
+     "h": 56,
+     "color": "#D9D2C0",
+     "en": "casi uno y medio",
+     "dur": 0.3
+    },
+    {
+     "tipo": "texto",
+     "texto": "≈ 2,1 c · se queda en la empresa",
+     "x": 905,
+     "y": 530,
+     "tam": 46,
+     "ancla": "izq",
+     "en": "casi uno y medio"
+    },
+    {
+     "tipo": "rect",
+     "x": 820,
+     "y": 612,
+     "w": 56,
+     "h": 56,
+     "color": "#E0521B",
+     "en": "algo más de medio céntimo",
+     "dur": 0.3
+    },
+    {
+     "tipo": "texto",
+     "texto": "≈ 0,6 c · a la Fundación Ramón Areces",
+     "x": 905,
+     "y": 640,
+     "tam": 46,
+     "ancla": "izq",
+     "en": "algo más de medio céntimo",
+     "color": "#E0521B"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "moneda",
+     "x": 1700,
+     "y": 1015,
+     "h": 440,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "El Corte Inglés, cuentas anuales consolidadas del ejercicio 2025 (mar. 2025 – feb. 2026): dividendo propuesto 250 M€ (cálculo propio)"
+  },
+  {
+   "id": "16",
+   "desde": "Así que ya ves el problema",
+   "fondo": "#F4E9D0",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "Con 3,5 c por euro…",
+     "x": 700,
+     "y": 330,
+     "tam": 90,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "…cualquier tropiezo se nota",
+     "x": 700,
+     "y": 520,
+     "tam": 80,
+     "color": "#E0521B",
+     "en": "cualquier tropiezo"
+    },
+    {
+     "tipo": "sello",
+     "texto": "Y HA TROPEZADO",
+     "x": 700,
+     "y": 760,
+     "tam": 90,
+     "en": "Y El Corte Inglés ha tropezado"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "preocupado",
+     "x": 1620,
+     "y": 1015,
+     "h": 520,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "17",
+   "desde": "Pero antes, déjame contarte",
+   "fondo": "sastreria_1930",
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 90,
+     "y": 120,
+     "w": 1080,
+     "h": 870,
+     "t": 0
+    },
+    {
+     "tipo": "texto",
+     "texto": "1890",
+     "x": 380,
+     "y": 260,
+     "tam": 150,
+     "color": "#E0521B",
+     "anim": "pop",
+     "en": "En mil ochocientos noventa"
+    },
+    {
+     "tipo": "texto",
+     "texto": "una sastrería en Madrid",
+     "x": 380,
+     "y": 390,
+     "tam": 54,
+     "fuente": "mano",
+     "papel": true,
+     "en": "pequeña sastrería"
+    },
+    {
+     "tipo": "texto",
+     "texto": "1935",
+     "x": 880,
+     "y": 260,
+     "tam": 150,
+     "color": "#E0521B",
+     "anim": "pop",
+     "en": "En mil novecientos treinta y cinco"
+    },
+    {
+     "tipo": "texto",
+     "texto": "la compra Ramón Areces",
+     "x": 880,
+     "y": 390,
+     "tam": 54,
+     "fuente": "mano",
+     "papel": true,
+     "en": "Ramón Areces, con el aval"
+    },
+    {
+     "tipo": "texto",
+     "texto": "1940",
+     "x": 630,
+     "y": 640,
+     "tam": 150,
+     "color": "#E0521B",
+     "anim": "pop",
+     "en": "En mil novecientos cuarenta"
+    },
+    {
+     "tipo": "texto",
+     "texto": "7 empleados",
+     "x": 630,
+     "y": 790,
+     "tam": 70,
+     "fuente": "mano",
+     "papel": true,
+     "anim": "pop",
+     "rot": -3,
+     "en": "Tenían siete empleados"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "lupa",
+     "x": 1560,
+     "y": 1015,
+     "h": 520,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "fuente": "El Corte Inglés, historia corporativa"
+  },
+  {
+   "id": "18",
+   "desde": "Luego llegaron las cosas",
+   "fondo": "grandes_almacenes",
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 90,
+     "y": 120,
+     "w": 1230,
+     "h": 870,
+     "t": 0
+    },
+    {
+     "tipo": "texto",
+     "texto": "1960",
+     "x": 300,
+     "y": 300,
+     "tam": 100,
+     "color": "#E0521B",
+     "en": "En mil novecientos sesenta, el primer"
+    },
+    {
+     "tipo": "texto",
+     "texto": "«Ya es primavera…»",
+     "x": 720,
+     "y": 300,
+     "tam": 60,
+     "fuente": "mano",
+     "ancla": "izq",
+     "en": "En mil novecientos sesenta, el primer"
+    },
+    {
+     "tipo": "texto",
+     "texto": "1966",
+     "x": 300,
+     "y": 500,
+     "tam": 100,
+     "color": "#E0521B",
+     "en": "sesenta y seis"
+    },
+    {
+     "tipo": "texto",
+     "texto": "su tarjeta de compra",
+     "x": 720,
+     "y": 500,
+     "tam": 60,
+     "fuente": "mano",
+     "ancla": "izq",
+     "en": "sesenta y seis"
+    },
+    {
+     "tipo": "texto",
+     "texto": "1972",
+     "x": 300,
+     "y": 700,
+     "tam": 100,
+     "color": "#E0521B",
+     "en": "setenta y dos"
+    },
+    {
+     "tipo": "texto",
+     "texto": "«Si no queda satisfecho,\nle devolvemos su dinero»",
+     "x": 720,
+     "y": 720,
+     "tam": 54,
+     "fuente": "mano",
+     "ancla": "izq",
+     "papel": true,
+     "en": "si no queda satisfecho"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "riendo",
+     "x": 1640,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "zoom": [
+    1.04,
+    1.1
+   ],
+   "fuente": "El Corte Inglés, historia corporativa"
+  },
+  {
+   "id": "19",
+   "desde": "Durante décadas fue el rey",
+   "fondo": "#F4E9D0",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "2007: el récord",
+     "x": 700,
+     "y": 200,
+     "tam": 80,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "≈ 18.000 M€ vendidos",
+     "x": 700,
+     "y": 360,
+     "tam": 70,
+     "fuente": "mano",
+     "en": "casi dieciocho mil millones"
+    },
+    {
+     "tipo": "texto",
+     "texto": "+700 M€ de beneficio",
+     "x": 700,
+     "y": 470,
+     "tam": 64,
+     "fuente": "mano",
+     "en": "más de setecientos millones"
+    },
+    {
+     "tipo": "sello",
+     "texto": "NUNCA HA VUELTO A VENDER TANTO",
+     "x": 700,
+     "y": 620,
+     "tam": 50,
+     "en": "Nunca ha vuelto"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Deuda: ≈ 5.000 M€",
+     "x": 700,
+     "y": 830,
+     "tam": 90,
+     "color": "#E0521B",
+     "anim": "pop",
+     "en": "hasta unos cinco mil millones"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "preocupado",
+     "x": 1620,
+     "y": 1015,
+     "h": 520,
+     "entra": "der",
+     "en": "Llegó la crisis"
+    }
+   ],
+   "fuente": "Prensa (Público, 2009; deuda 2013-2014: prensa económica)"
+  },
+  {
+   "id": "20",
+   "desde": "Y luego, la pandemia",
+   "fondo": "#E3E7EC",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "2020: la pandemia",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.1
+    },
+    {
+     "tipo": "texto",
+     "texto": "Ventas: −31 %",
+     "x": 600,
+     "y": 420,
+     "tam": 110,
+     "en": "casi un tercio"
+    },
+    {
+     "tipo": "cifra",
+     "hasta": -2945,
+     "x": 600,
+     "y": 650,
+     "tam": 150,
+     "sufijo": " M€",
+     "color": "#E0521B",
+     "en": "dos mil novecientos cuarenta"
+    },
+    {
+     "tipo": "texto",
+     "texto": "la mayor pérdida de su historia (prensa)",
+     "x": 600,
+     "y": 820,
+     "tam": 54,
+     "fuente": "mano",
+     "papel": true,
+     "en": "La mayor pérdida"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "sorprendido",
+     "x": 1600,
+     "y": 1015,
+     "h": 520,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "Ventas: nota de resultados 2021 de El Corte Inglés; pérdidas: prensa (junio de 2021)"
+  },
+  {
+   "id": "21",
+   "desde": "Ahí es cuando todo el mundo",
+   "fondo": "#FFF3C4",
+   "capas": [
+    {
+     "tipo": "bocadillo",
+     "texto": "¿Cuánto le queda?",
+     "x": 600,
+     "y": 350,
+     "ancho": 800,
+     "tam": 76,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "¿Cómo ha salido de ahí?",
+     "x": 700,
+     "y": 750,
+     "tam": 90,
+     "color": "#E0521B",
+     "anim": "pop",
+     "rot": -2,
+     "en": "cómo ha salido de ahí"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "pensativo",
+     "x": 1620,
+     "y": 1015,
+     "h": 520,
+     "entra": "der",
+     "t": 0.2,
+     "poses": [
+      {
+       "en": "cómo ha salido de ahí",
+       "pose": "lupa"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "22",
+   "desde": "La primera pieza son los edificios",
+   "fondo": "fachada",
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 90,
+     "y": 120,
+     "w": 1230,
+     "h": 870,
+     "t": 0
+    },
+    {
+     "tipo": "texto",
+     "texto": "PIEZA 1: los edificios",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "Sus inmuebles",
+     "x": 200,
+     "y": 360,
+     "tam": 50,
+     "fuente": "mano",
+     "ancla": "izq",
+     "en": "Recuerda: quince mil"
+    },
+    {
+     "tipo": "rect",
+     "x": 200,
+     "y": 400,
+     "w": 1000,
+     "h": 110,
+     "color": "#8FD18F",
+     "texto": "15.666 M€",
+     "tam": 56,
+     "en": "Recuerda: quince mil",
+     "dur": 1.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "Su deuda",
+     "x": 200,
+     "y": 590,
+     "tam": 50,
+     "fuente": "mano",
+     "ancla": "izq",
+     "en": "Su deuda hoy"
+    },
+    {
+     "tipo": "rect",
+     "x": 200,
+     "y": 630,
+     "w": 105,
+     "h": 110,
+     "color": "#E0521B",
+     "texto": "1.648",
+     "tam": 28,
+     "en": "Su deuda hoy",
+     "dur": 0.6
+    },
+    {
+     "tipo": "texto",
+     "texto": "× 9,5",
+     "x": 700,
+     "y": 860,
+     "tam": 110,
+     "color": "#E0521B",
+     "anim": "pop",
+     "en": "nueve veces y media"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "contento",
+     "x": 1640,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "fuente": "El Corte Inglés, cuentas anuales consolidadas del ejercicio 2025 (mar. 2025 – feb. 2026): tasación de inmuebles y deuda financiera neta"
+  },
+  {
+   "id": "23",
+   "desde": "La segunda pieza es vender",
+   "fondo": "oficina_financiera",
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 90,
+     "y": 120,
+     "w": 1230,
+     "h": 870,
+     "t": 0
+    },
+    {
+     "tipo": "texto",
+     "texto": "PIEZA 2: vender lo que sobraba",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "Óptica 2000",
+     "x": 450,
+     "y": 380,
+     "tam": 64,
+     "fuente": "mano",
+     "papel": true,
+     "anim": "pop",
+     "rot": -3,
+     "en": "Vendió Óptica"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Informática El Corte Inglés",
+     "x": 900,
+     "y": 380,
+     "tam": 58,
+     "fuente": "mano",
+     "papel": true,
+     "anim": "pop",
+     "rot": 2,
+     "en": "Vendió Informática"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Mutua Madrileña (2022)",
+     "x": 700,
+     "y": 590,
+     "tam": 64,
+     "en": "Mutua Madrileña le pagó"
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 1105,
+     "x": 700,
+     "y": 740,
+     "tam": 140,
+     "sufijo": " M€",
+     "color": "#E0521B",
+     "en": "mil ciento cinco"
+    },
+    {
+     "tipo": "texto",
+     "texto": "½ de los seguros + 8 % de la empresa",
+     "x": 700,
+     "y": 890,
+     "tam": 54,
+     "fuente": "mano",
+     "en": "por la mitad de su negocio"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "moneda",
+     "x": 1640,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "zoom": [
+    1.04,
+    1.1
+   ],
+   "fuente": "El Corte Inglés, historia corporativa; Mutua Madrileña (31/05/2022)"
+  },
+  {
+   "id": "24",
+   "desde": "La tercera pieza es el dinero",
+   "fondo": "oficina_financiera",
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 90,
+     "y": 120,
+     "w": 1230,
+     "h": 870,
+     "t": 0
+    },
+    {
+     "tipo": "texto",
+     "texto": "PIEZA 3: lo que no se ve en la caja",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "49 % de su financiera",
+     "x": 700,
+     "y": 380,
+     "tam": 70,
+     "en": "casi la mitad de su financiera"
+    },
+    {
+     "tipo": "texto",
+     "texto": "11,7 millones de tarjetas activas",
+     "x": 700,
+     "y": 500,
+     "tam": 56,
+     "fuente": "mano",
+     "papel": true,
+     "en": "once millones setecientas"
+    },
+    {
+     "tipo": "texto",
+     "texto": "≈ 50 % de sus seguros",
+     "x": 700,
+     "y": 650,
+     "tam": 70,
+     "en": "casi la mitad de sus seguros"
+    },
+    {
+     "tipo": "texto",
+     "texto": "1 de cada 10 € de beneficio",
+     "x": 700,
+     "y": 850,
+     "tam": 70,
+     "color": "#E0521B",
+     "anim": "pop",
+     "rot": -2,
+     "en": "uno de cada diez euros"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "lupa",
+     "x": 1640,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "El Corte Inglés, cuentas anuales consolidadas del ejercicio 2025 (mar. 2025 – feb. 2026): Seguros y Financiera, 10,1 % del resultado neto"
+  },
+  {
+   "id": "25",
+   "desde": "Y la cuarta pieza es un personaje",
+   "fondo": "#E6E0F5",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "PIEZA 4: un jeque de Catar",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.1
+    },
+    {
+     "tipo": "texto",
+     "texto": "2015",
+     "x": 280,
+     "y": 390,
+     "tam": 90,
+     "color": "#E0521B",
+     "en": "En dos mil quince"
+    },
+    {
+     "tipo": "texto",
+     "texto": "le presta 1.000 M€",
+     "x": 780,
+     "y": 390,
+     "tam": 60,
+     "fuente": "mano",
+     "ancla": "izq",
+     "en": "le prestó mil millones"
+    },
+    {
+     "tipo": "texto",
+     "texto": "2018",
+     "x": 280,
+     "y": 580,
+     "tam": 90,
+     "color": "#E0521B",
+     "en": "En dos mil dieciocho"
+    },
+    {
+     "tipo": "texto",
+     "texto": "lo cobra en acciones: > 10 %",
+     "x": 780,
+     "y": 580,
+     "tam": 60,
+     "fuente": "mano",
+     "ancla": "izq",
+     "en": "se los cobró en acciones"
+    },
+    {
+     "tipo": "texto",
+     "texto": "2022",
+     "x": 280,
+     "y": 770,
+     "tam": 90,
+     "color": "#E0521B",
+     "en": "Y en dos mil veintidós"
+    },
+    {
+     "tipo": "texto",
+     "texto": "le recompra la mitad: 485 M€",
+     "x": 780,
+     "y": 770,
+     "tam": 60,
+     "fuente": "mano",
+     "ancla": "izq",
+     "en": "le recompró la mitad"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "sorprendido",
+     "x": 1700,
+     "y": 1015,
+     "h": 480,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "El Corte Inglés, cuentas anuales consolidadas del ejercicio 2018 y 2022 (nota 15)"
+  },
+  {
+   "id": "26",
+   "desde": "Con todo eso, la deuda",
+   "fondo": "#F4E9D0",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "Deuda",
+     "x": 200,
+     "y": 200,
+     "tam": 54,
+     "fuente": "mano",
+     "ancla": "izq",
+     "t": 0.2
+    },
+    {
+     "tipo": "rect",
+     "x": 200,
+     "y": 250,
+     "w": 1000,
+     "h": 100,
+     "color": "#D9D2C0",
+     "texto": "≈ 5.000 M€ (2014, prensa)",
+     "tam": 40,
+     "en": "la deuda ha bajado",
+     "dur": 0.8
+    },
+    {
+     "tipo": "rect",
+     "x": 200,
+     "y": 380,
+     "w": 330,
+     "h": 100,
+     "color": "#8FD18F",
+     "texto": "1.648 M€ (hoy)",
+     "tam": 36,
+     "en": "mil seiscientos cuarenta y ocho",
+     "dur": 0.8
+    },
+    {
+     "tipo": "texto",
+     "texto": "Beneficio: 628 M€",
+     "x": 700,
+     "y": 620,
+     "tam": 90,
+     "color": "#E0521B",
+     "en": "seiscientos veintiocho"
+    },
+    {
+     "tipo": "sello",
+     "texto": "GRADO DE INVERSIÓN (2023)",
+     "x": 700,
+     "y": 820,
+     "tam": 60,
+     "en": "grado de inversión"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "contento",
+     "x": 1620,
+     "y": 1015,
+     "h": 520,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "El Corte Inglés, cuentas anuales consolidadas del ejercicio 2025 (mar. 2025 – feb. 2026); rating BBB- de S&P y Fitch"
+  },
+  {
+   "id": "27",
+   "desde": "Ahora bien, esto no significa",
+   "fondo": "#E3E7EC",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "SOMBRA 1: las tiendas",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "en": "La primera sombra"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Grandes almacenes",
+     "x": 200,
+     "y": 350,
+     "tam": 52,
+     "fuente": "mano",
+     "ancla": "izq",
+     "en": "noventa y tres"
+    },
+    {
+     "tipo": "rect",
+     "x": 200,
+     "y": 400,
+     "w": 930,
+     "h": 100,
+     "color": "#D9D2C0",
+     "texto": "2018: 93",
+     "tam": 44,
+     "en": "noventa y tres",
+     "dur": 0.8
+    },
+    {
+     "tipo": "rect",
+     "x": 200,
+     "y": 520,
+     "w": 720,
+     "h": 100,
+     "color": "#E0521B",
+     "texto": "hoy: 72",
+     "tam": 44,
+     "en": "Hoy, setenta y dos",
+     "dur": 0.8
+    },
+    {
+     "tipo": "texto",
+     "texto": "21 menos",
+     "x": 1080,
+     "y": 570,
+     "tam": 70,
+     "color": "#E0521B",
+     "anim": "pop",
+     "en": "Veintiuno menos"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Plantilla: de 90.004 a 81.830 personas",
+     "x": 660,
+     "y": 800,
+     "tam": 56,
+     "fuente": "mano",
+     "papel": true,
+     "en": "la plantilla ha bajado"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "preocupado",
+     "x": 1640,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "El Corte Inglés, informe financiero 2018 y cuentas del ejercicio 2025"
+  },
+  {
+   "id": "28",
+   "desde": "La segunda: las ventas",
+   "fondo": "#F4E9D0",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "SOMBRA 2: las ventas",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.1
+    },
+    {
+     "tipo": "texto",
+     "texto": "Ventas",
+     "x": 200,
+     "y": 350,
+     "tam": 52,
+     "fuente": "mano",
+     "ancla": "izq",
+     "en": "tres mil millones menos"
+    },
+    {
+     "tipo": "rect",
+     "x": 200,
+     "y": 400,
+     "w": 1000,
+     "h": 100,
+     "color": "#D9D2C0",
+     "texto": "2007: ≈ 18.000 M€ (prensa)",
+     "tam": 40,
+     "en": "tres mil millones menos",
+     "dur": 0.8
+    },
+    {
+     "tipo": "rect",
+     "x": 200,
+     "y": 520,
+     "w": 830,
+     "h": 100,
+     "color": "#9CC5E8",
+     "texto": "2025: 14.988 M€",
+     "tam": 40,
+     "en": "tres mil millones menos",
+     "dur": 1.1
+    },
+    {
+     "tipo": "texto",
+     "texto": "−17 % (sin descontar la inflación)",
+     "x": 700,
+     "y": 780,
+     "tam": 70,
+     "color": "#E0521B",
+     "en": "diecisiete por ciento"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "pensativo",
+     "x": 1640,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "2007: prensa; 2025: El Corte Inglés, cuentas anuales consolidadas del ejercicio 2025 (mar. 2025 – feb. 2026)"
+  },
+  {
+   "id": "29",
+   "desde": "La tercera: internet",
+   "fondo": "#E3E7EC",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "SOMBRA 3: internet",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.1
+    },
+    {
+     "tipo": "texto",
+     "texto": "2021: 12 % en línea",
+     "x": 600,
+     "y": 400,
+     "tam": 90,
+     "en": "el doce por ciento"
+    },
+    {
+     "tipo": "texto",
+     "texto": "desde entonces, sin cifra de ventas",
+     "x": 600,
+     "y": 540,
+     "tam": 58,
+     "fuente": "mano",
+     "papel": true,
+     "en": "Desde entonces solo publica"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Comercio electrónico en España: +20 %",
+     "x": 600,
+     "y": 760,
+     "tam": 64,
+     "color": "#E0521B",
+     "en": "más de un veinte por ciento"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "lupa",
+     "x": 1620,
+     "y": 1015,
+     "h": 520,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "El Corte Inglés, resultados 2021; CNMC (03/07/2026): comercio electrónico 2025, +20,6 %"
+  },
+  {
+   "id": "30",
+   "desde": "Y la cuarta: el jeque todavía",
+   "fondo": "#E6E0F5",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "SOMBRA 4: el jeque",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.1
+    },
+    {
+     "tipo": "texto",
+     "texto": "Puede pedirle que le recompre sus acciones en…",
+     "x": 700,
+     "y": 380,
+     "tam": 56,
+     "fuente": "mano",
+     "papel": true,
+     "en": "el jeque todavía puede"
+    },
+    {
+     "tipo": "texto",
+     "texto": "2028",
+     "x": 380,
+     "y": 600,
+     "tam": 110,
+     "color": "#E0521B",
+     "anim": "pop",
+     "en": "en dos mil veintiocho"
+    },
+    {
+     "tipo": "texto",
+     "texto": "2031",
+     "x": 700,
+     "y": 600,
+     "tam": 110,
+     "color": "#E0521B",
+     "anim": "pop",
+     "en": "dos mil treinta y uno"
+    },
+    {
+     "tipo": "texto",
+     "texto": "2034",
+     "x": 1020,
+     "y": 600,
+     "tam": 110,
+     "color": "#E0521B",
+     "anim": "pop",
+     "en": "dos mil treinta y cuatro"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "preocupado",
+     "x": 1640,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "El Corte Inglés, cuentas anuales consolidadas del ejercicio 2025 (mar. 2025 – feb. 2026) (nota 15.4)"
+  },
+  {
+   "id": "31",
+   "desde": "Así que, la próxima vez",
+   "fondo": "#FFF3C4",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "El viaje de tu euro",
+     "x": 960,
+     "y": 110,
+     "tam": 72,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "tarta",
+     "x": 470,
+     "y": 590,
+     "r": 300,
+     "t": 0.5,
+     "porciones": [
+      {
+       "v": 17.4,
+       "color": "#9CC5E8",
+       "en": "Diecisiete céntimos, para Hacienda"
+      },
+      {
+       "v": 54.6,
+       "color": "#F5B301",
+       "en": "Cincuenta y cinco, para quien"
+      },
+      {
+       "v": 14.4,
+       "color": "#8FD18F",
+       "en": "Catorce, para la plantilla"
+      },
+      {
+       "v": 0.9,
+       "color": "#C9B8E8",
+       "en": "Menos de uno, para el alquiler"
+      },
+      {
+       "v": 9.2,
+       "color": "#F7DCC8",
+       "en": "Casi nueve, para la publicidad"
+      },
+      {
+       "v": 3.5,
+       "color": "#E0521B",
+       "en": "Y tres céntimos y medio"
+      }
+     ]
+    },
+    {
+     "tipo": "rect",
+     "x": 840,
+     "y": 232,
+     "w": 56,
+     "h": 56,
+     "color": "#9CC5E8",
+     "en": "Diecisiete céntimos, para Hacienda",
+     "dur": 0.3
+    },
+    {
+     "tipo": "texto",
+     "texto": "17 c · Hacienda (IVA)",
+     "x": 925,
+     "y": 260,
+     "tam": 46,
+     "ancla": "izq",
+     "en": "Diecisiete céntimos, para Hacienda"
+    },
+    {
+     "tipo": "rect",
+     "x": 840,
+     "y": 337,
+     "w": 56,
+     "h": 56,
+     "color": "#F5B301",
+     "en": "Cincuenta y cinco, para quien",
+     "dur": 0.3
+    },
+    {
+     "tipo": "texto",
+     "texto": "55 c · el producto",
+     "x": 925,
+     "y": 365,
+     "tam": 46,
+     "ancla": "izq",
+     "en": "Cincuenta y cinco, para quien"
+    },
+    {
+     "tipo": "rect",
+     "x": 840,
+     "y": 442,
+     "w": 56,
+     "h": 56,
+     "color": "#8FD18F",
+     "en": "Catorce, para la plantilla",
+     "dur": 0.3
+    },
+    {
+     "tipo": "texto",
+     "texto": "14 c · plantilla",
+     "x": 925,
+     "y": 470,
+     "tam": 46,
+     "ancla": "izq",
+     "en": "Catorce, para la plantilla"
+    },
+    {
+     "tipo": "rect",
+     "x": 840,
+     "y": 547,
+     "w": 56,
+     "h": 56,
+     "color": "#C9B8E8",
+     "en": "Menos de uno, para el alquiler",
+     "dur": 0.3
+    },
+    {
+     "tipo": "texto",
+     "texto": "< 1 c · alquiler (la casa es suya)",
+     "x": 925,
+     "y": 575,
+     "tam": 46,
+     "ancla": "izq",
+     "en": "Menos de uno, para el alquiler"
+    },
+    {
+     "tipo": "rect",
+     "x": 840,
+     "y": 652,
+     "w": 56,
+     "h": 56,
+     "color": "#F7DCC8",
+     "en": "Casi nueve, para la publicidad",
+     "dur": 0.3
+    },
+    {
+     "tipo": "texto",
+     "texto": "≈ 9 c · publicidad, logística, luz, reformas…",
+     "x": 925,
+     "y": 680,
+     "tam": 46,
+     "ancla": "izq",
+     "en": "Casi nueve, para la publicidad"
+    },
+    {
+     "tipo": "rect",
+     "x": 840,
+     "y": 757,
+     "w": 56,
+     "h": 56,
+     "color": "#E0521B",
+     "en": "Y tres céntimos y medio",
+     "dur": 0.3
+    },
+    {
+     "tipo": "texto",
+     "texto": "3,5 c · beneficio",
+     "x": 925,
+     "y": 785,
+     "tam": 46,
+     "ancla": "izq",
+     "en": "Y tres céntimos y medio",
+     "color": "#E0521B"
+    }
+   ],
+   "fuente": "Cálculo propio con la cuenta de resultados de El Corte Inglés 2025 (media del grupo, IVA del 21 %); «≈ 9 c» incluye impuestos e intereses"
+  },
+  {
+   "id": "32",
+   "desde": "El Corte Inglés no gana dinero",
+   "fondo": "fachada",
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 150,
+     "y": 200,
+     "w": 1150,
+     "h": 720,
+     "t": 0
+    },
+    {
+     "tipo": "texto",
+     "texto": "No gana por vender caro…",
+     "x": 725,
+     "y": 310,
+     "tam": 66,
+     "fuente": "mano",
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "es dueño de sus edificios,",
+     "x": 725,
+     "y": 470,
+     "tam": 70,
+     "en": "es dueño de sus propios"
+    },
+    {
+     "tipo": "texto",
+     "texto": "vendió lo que le sobraba",
+     "x": 725,
+     "y": 600,
+     "tam": 70,
+     "en": "ha vendido todo"
+    },
+    {
+     "tipo": "texto",
+     "texto": "y pagó casi toda su deuda",
+     "x": 725,
+     "y": 730,
+     "tam": 70,
+     "en": "céntimo a céntimo"
+    },
+    {
+     "tipo": "texto",
+     "texto": "¿Bastan 3 céntimos por euro?",
+     "x": 725,
+     "y": 860,
+     "tam": 64,
+     "color": "#E0521B",
+     "anim": "pop",
+     "rot": -2,
+     "en": "Es si tres céntimos"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "pensativo",
+     "x": 1650,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.1
+    }
+   ],
+   "zoom": [
+    1.04,
+    1.12
+   ]
+  },
+  {
+   "id": "33",
+   "desde": "Aquí, cada semana, abrimos",
+   "fondo": "#F5B301",
+   "capas": [
+    {
+     "tipo": "mascota",
+     "pose": "saluda",
+     "x": 960,
+     "y": 1015,
+     "h": 560,
+     "entra": "abajo",
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "TICKET MEDIO",
+     "x": 960,
+     "y": 170,
+     "tam": 150,
+     "anim": "pop",
+     "t": 0.3
+    },
+    {
+     "tipo": "texto",
+     "texto": "Cada semana, el ticket de algo que pagas todos los días",
+     "x": 960,
+     "y": 300,
+     "tam": 50,
+     "fuente": "mano",
+     "papel": true,
+     "t": 1.0
+    }
+   ],
+   "sin_marca": true
+  }
+ ]
+}

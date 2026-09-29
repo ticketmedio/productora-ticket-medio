@@ -1,0 +1,10 @@
+{
+ "shorts": [
+  {"id": "01", "titulo": "El jeque que prestó 1.000 millones a El Corte Inglés",
+   "tramos": [["Y la cuarta pieza es un personaje", "Y en dos mil veintidós, El Corte"], ["Y la cuarta: el jeque todavía", "dos mil treinta y uno y dos mil"]]},
+  {"id": "02", "titulo": "El Corte Inglés casi no paga alquiler: es su propio casero",
+   "tramos": [["Cuarta parada: el local", "Sus inmuebles están tasados"], ["Su deuda hoy es", "Eso tranquiliza mucho"]]},
+  {"id": "03", "titulo": "Zara gana 13 céntimos por euro; El Corte Inglés, 3,5",
+   "tramos": [["Y aquí está la primera clave", "Zara se queda con un cincuenta"], ["Y lo que queda, al final", "Para que te hagas una idea"]]}
+ ]
+}

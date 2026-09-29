@@ -14,5 +14,27 @@ Fecha: 29/09/2026. Método: mirar qué funciona, buscar un enfoque que nadie hay
 
 **Conclusión:** demanda enorme y reciente, pero el ángulo «caída / cuánto le queda» está **saturado** (y el título previsto en el calendario, «¿Cuánto le queda a El Corte Inglés?», es **literalmente** el de Demand Lab: descartado). Nadie ha hecho **el ticket**: adónde va cada euro que gastas allí. Ese es nuestro hueco, como con Mercadona y Zara.
 
-## Título y miniatura
-Pendiente de la investigación (INVESTIGACION.md): el ángulo depende de dónde gana de verdad el dinero (tienda, financiera, seguros, inmuebles).
+## El ángulo (decidido con INVESTIGACION.md)
+Todos cuentan «la caída». Los datos oficiales del ejercicio 2025 cuentan otra cosa: gana **3,5 céntimos de cada euro** (Zara, 13; Mercadona, 4), el IVA se lleva **cinco veces más** que la empresa… y aun así tiene la **deuda más baja en casi 20 años** y el mayor beneficio desde 2007 (sin contar 2022). ¿Cómo? **Es su propio casero** (edificios tasados en 15.666 M€; alquileres: menos de 1 céntimo por euro), cobra primero y ha vendido lo que no era tienda. Es la respuesta, con datos, a los vídeos de «¿cuánto le queda?», sin copiarlos.
+
+## Títulos (3 candidatos)
+1. **El Corte Inglés gana 3 céntimos por euro. ¿Cómo sigue vivo?** ← ELEGIDO (58 caracteres). Cifra concreta + tensión + pregunta; se cuelga de la conversación de «la caída» sin repetirla.
+2. ¿Quién se queda tu dinero en El Corte Inglés? (para la prueba A/B; mantiene la serie «tu dinero»).
+3. El Corte Inglés no es una tienda: es su propio casero.
+
+## Miniatura
+La mascota, con la lupa, mirando una moneda diminuta de «3 c» sobre la palma; detrás, un edificio enorme de grandes almacenes (sin logotipo). Texto: **«¿SOLO 3 CÉNTIMOS?»** con «3 CÉNTIMOS» en rojo. Distinta de la de Mercadona: aquí manda el edificio.
+
+## Estructura prevista (~10–12 min)
+1. Gancho: 3 céntimos por euro, 5 veces menos que Hacienda… y récord de beneficio. ¿Cómo?
+2. Quién es (70 grandes almacenes, 81.830 personas, una fundación como primer accionista).
+3. El viaje de tu euro (camisa o móvil al 21 %): IVA 17 · producto 55 · sueldos 14 · alquiler < 1 · publicidad 1 · logística y resto 5 · reformas 2 · impuestos y deuda < 1 · beneficio 3,5 (dividendo 1,4; Fundación ≈ 0,6).
+4. Comparativa: por qué Zara gana 13 y El Corte Inglés 3,5 (margen de la mercancía, no el alquiler).
+5. Historia rápida: 1890 sastrería → 1935 Areces → 1940 siete empleados → 1966 tarjeta → 1972 «le devolvemos su dinero».
+6. La caída de verdad: 2007 → 2020 (−2.945 M€, prensa) → deuda ≈ 5.000 M€ (prensa) → cómo la pagó (jeque, Mutua, Óptica 2000, Informática, beneficios).
+7. Las 3 piezas que lo sostienen: edificios propios, financiera y seguros (10 % del beneficio), viajes.
+8. Lo que no cuadra: 21 grandes almacenes menos desde 2018, ventas por debajo de 2007, online sin cifra desde 2021, el jeque puede pedir que le recompre en 2028.
+9. Resumen del ticket y cierre.
+
+## Aportación propia (para una posible revisión de YouTube)
+Reparto propio de cada euro con la cuenta de resultados consolidada auditada del ejercicio 2025; guion y estructura propios; mascota e ilustraciones propias; ningún clip de archivo.

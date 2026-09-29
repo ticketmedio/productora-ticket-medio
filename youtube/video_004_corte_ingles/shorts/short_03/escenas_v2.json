@@ -1,0 +1,241 @@
+{
+ "formato": "vertical",
+ "fondos": "../../fondos",
+ "musica": "../../audio/musica.mp3",
+ "musica_db": -26,
+ "cola": 1.5,
+ "salida": "../../output/SHORT_03_zara_13_eci_3.mp4",
+ "escenas": [
+  {
+   "id": "a",
+   "desde": "¿Por qué Zara gana trece",
+   "fondo": "#FFF3C4",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "¿13 c O 3,5 c?",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "Beneficio por cada euro",
+     "x": 540,
+     "y": 420,
+     "tam": 56,
+     "fuente": "mano",
+     "t": 0.1
+    },
+    {
+     "tipo": "rect",
+     "x": 110,
+     "y": 490,
+     "w": 860,
+     "h": 120,
+     "color": "#F5B301",
+     "texto": "Zara: 13 c",
+     "tam": 52,
+     "t": 0.3,
+     "dur": 1.0
+    },
+    {
+     "tipo": "rect",
+     "x": 110,
+     "y": 650,
+     "w": 232,
+     "h": 120,
+     "color": "#E0521B",
+     "texto": "ECI: 3,5 c",
+     "tam": 34,
+     "en": "El Corte Inglés, solo",
+     "dur": 0.6
+    },
+    {
+     "tipo": "mascota",
+     "pose": "pensativo",
+     "x": 540,
+     "y": 1310,
+     "h": 420,
+     "entra": "abajo",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "b",
+   "desde": "Zara, que vimos en el vídeo",
+   "fondo": "planta_electronica",
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 60,
+     "y": 360,
+     "w": 960,
+     "h": 700
+    },
+    {
+     "tipo": "texto",
+     "texto": "¿13 c O 3,5 c?",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "Zara fabrica lo suyo",
+     "x": 540,
+     "y": 460,
+     "tam": 66,
+     "t": 0.1
+    },
+    {
+     "tipo": "texto",
+     "texto": "le cuesta 1 € → lo vende por ≈ 2,40 €",
+     "x": 540,
+     "y": 580,
+     "tam": 52,
+     "fuente": "mano",
+     "papel": true,
+     "en": "casi dos y medio"
+    },
+    {
+     "tipo": "texto",
+     "texto": "El Corte Inglés revende\nmarcas de otros",
+     "x": 540,
+     "y": 820,
+     "tam": 64,
+     "color": "#E0521B",
+     "en": "revende sobre todo"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "lupa",
+     "x": 880,
+     "y": 1310,
+     "h": 320,
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "c",
+   "desde": "Por eso su margen es mucho",
+   "fondo": "#E3E7EC",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "¿13 c O 3,5 c?",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "Margen bruto (lo que le queda\nde lo que vende)",
+     "x": 540,
+     "y": 440,
+     "tam": 52,
+     "fuente": "mano",
+     "t": 0.1
+    },
+    {
+     "tipo": "rect",
+     "x": 110,
+     "y": 580,
+     "w": 500,
+     "h": 120,
+     "color": "#9CC5E8",
+     "texto": "ECI: 34 %",
+     "tam": 48,
+     "en": "treinta y cuatro por ciento",
+     "dur": 0.8
+    },
+    {
+     "tipo": "rect",
+     "x": 110,
+     "y": 740,
+     "w": 860,
+     "h": 120,
+     "color": "#F5B301",
+     "texto": "Zara: 58 %",
+     "tam": 52,
+     "t": 0.4,
+     "dur": 1.0
+    },
+    {
+     "tipo": "mascota",
+     "pose": "encoge_hombros",
+     "x": 880,
+     "y": 1310,
+     "h": 300,
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "d",
+   "desde": "Y lo que queda, al final",
+   "fondo": "#FFF3C4",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "¿13 c O 3,5 c?",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "moneda",
+     "texto": "3,5 c",
+     "r": 150,
+     "x": 540,
+     "y": 560,
+     "color": "#E0521B",
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "de beneficio por cada euro",
+     "x": 540,
+     "y": 780,
+     "tam": 58,
+     "fuente": "mano",
+     "t": 0.4
+    },
+    {
+     "tipo": "texto",
+     "texto": "Mercadona: 4 c · Zara: 13 c",
+     "x": 540,
+     "y": 920,
+     "tam": 60,
+     "en": "Mercadona se quedaba"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "sorprendido",
+     "x": 880,
+     "y": 1310,
+     "h": 300,
+     "t": 0.2
+    }
+   ]
+  }
+ ]
+}

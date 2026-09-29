@@ -8,7 +8,7 @@ Hecho el 28/09/2026. Es un plan: cada tema pasa antes por la regla de «título 
 |---|---|---|---|
 | 02/10 | 2 | ✅ Mercadona: ¿dónde va cada euro que dejas en la caja? | Programado |
 | 09/10 | 3 | Zara: ¿quién se queda el dinero de tu camiseta? | En producción |
-| 16/10 | 4 | ¿Cuánto le queda a El Corte Inglés? | Tema con demanda demostrada (201.000 visitas en un canal de 2.400 suscriptores) |
+| 16/10 | 4 | El Corte Inglés gana 3 céntimos por euro. ¿Cómo sigue vivo? | Tema con demanda demostrada; enfoque propio (el ticket) porque «¿cuánto le queda?» ya lo hizo Demand Lab |
 | 23/10 | 5 | Lidl: el súper que más crece en España (y cómo lo hace) | Rival de Mercadona; gana compradores en 2026 |
 | 30/10 | 6 | La factura de la luz: ¿dónde va cada euro? | Empieza el frío; los vídeos buenos del tema tienen 5–8 años |
 | 06/11 | 7 | Ryanair: cómo gana dinero vendiendo vuelos a 10 € | Negocio de las «trampas» (maletas, asientos) |

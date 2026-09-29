@@ -1,0 +1,201 @@
+{
+ "formato": "vertical",
+ "fondos": "../../fondos",
+ "musica": "../../audio/musica.mp3",
+ "musica_db": -26,
+ "cola": 1.5,
+ "salida": "../../output/SHORT_01_el_jeque.mp4",
+ "escenas": [
+  {
+   "id": "a",
+   "desde": "Un jeque de Catar tiene",
+   "fondo": "fachada",
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 60,
+     "y": 360,
+     "w": 960,
+     "h": 640
+    },
+    {
+     "tipo": "texto",
+     "texto": "UN AS EN LA MANGA",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "Hamad bin Jassim Al Thani,\nex primer ministro de Catar",
+     "x": 540,
+     "y": 500,
+     "tam": 50,
+     "fuente": "mano",
+     "en": "Hamad bin Jassim"
+    },
+    {
+     "tipo": "texto",
+     "texto": "2015",
+     "x": 540,
+     "y": 700,
+     "tam": 110,
+     "color": "#E0521B",
+     "anim": "pop",
+     "en": "En dos mil quince"
+    },
+    {
+     "tipo": "texto",
+     "texto": "le presta 1.000 M€",
+     "x": 540,
+     "y": 840,
+     "tam": 76,
+     "en": "le prestó mil millones"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "sorprendido",
+     "x": 880,
+     "y": 1310,
+     "h": 380,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "b",
+   "desde": "En dos mil dieciocho se los",
+   "fondo": "#E6E0F5",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "UN AS EN LA MANGA",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "2018",
+     "x": 540,
+     "y": 420,
+     "tam": 100,
+     "color": "#E0521B",
+     "t": 0.1
+    },
+    {
+     "tipo": "texto",
+     "texto": "lo cobra en acciones:\n> 10 % de la empresa",
+     "x": 540,
+     "y": 570,
+     "tam": 58,
+     "fuente": "mano",
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "2022",
+     "x": 540,
+     "y": 780,
+     "tam": 100,
+     "color": "#E0521B",
+     "en": "Y en dos mil veintidós"
+    },
+    {
+     "tipo": "texto",
+     "texto": "El Corte Inglés le recompra\nla mitad por 485 M€",
+     "x": 540,
+     "y": 930,
+     "tam": 56,
+     "fuente": "mano",
+     "papel": true,
+     "en": "le recompró la mitad"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "pensativo",
+     "x": 880,
+     "y": 1310,
+     "h": 320,
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "c",
+   "desde": "Y la cuarta: el jeque",
+   "fondo": "#F4E9D0",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "UN AS EN LA MANGA",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "Aún puede pedirle que le\nrecompre sus acciones en…",
+     "x": 540,
+     "y": 460,
+     "tam": 56,
+     "fuente": "mano",
+     "papel": true,
+     "t": 0.1
+    },
+    {
+     "tipo": "texto",
+     "texto": "2028",
+     "x": 540,
+     "y": 680,
+     "tam": 120,
+     "color": "#E0521B",
+     "anim": "pop",
+     "en": "dos mil veintiocho"
+    },
+    {
+     "tipo": "texto",
+     "texto": "2031",
+     "x": 540,
+     "y": 830,
+     "tam": 120,
+     "color": "#E0521B",
+     "anim": "pop",
+     "en": "dos mil treinta y uno"
+    },
+    {
+     "tipo": "texto",
+     "texto": "2034",
+     "x": 540,
+     "y": 980,
+     "tam": 120,
+     "color": "#E0521B",
+     "anim": "pop",
+     "en": "dos mil treinta y cuatro"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "preocupado",
+     "x": 880,
+     "y": 1310,
+     "h": 300,
+     "t": 0.2
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,150 @@
+{
+ "formato": "vertical",
+ "fondos": "../../fondos",
+ "musica": "../../audio/musica.mp3",
+ "musica_db": -26,
+ "cola": 1.5,
+ "salida": "../../output/SHORT_02_su_propio_casero.mp4",
+ "escenas": [
+  {
+   "id": "a",
+   "desde": "El Corte Inglés casi no paga",
+   "fondo": "fachada",
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 60,
+     "y": 360,
+     "w": 960,
+     "h": 640
+    },
+    {
+     "tipo": "texto",
+     "texto": "¿SIN ALQUILER?",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "< 1 c",
+     "x": 540,
+     "y": 560,
+     "tam": 200,
+     "color": "#E0521B",
+     "anim": "pop",
+     "en": "menos de un céntimo"
+    },
+    {
+     "tipo": "texto",
+     "texto": "por euro vendido, en alquileres",
+     "x": 540,
+     "y": 720,
+     "tam": 54,
+     "fuente": "mano",
+     "en": "menos de un céntimo"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Zara: 6 c",
+     "x": 540,
+     "y": 880,
+     "tam": 90,
+     "en": "Zara paga seis"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "sorprendido",
+     "x": 880,
+     "y": 1310,
+     "h": 360,
+     "entra": "der",
+     "t": 0.2,
+     "poses": [
+      {
+       "en": "¿Por qué?",
+       "pose": "pensativo"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b",
+   "desde": "Porque casi todos sus edificios",
+   "fondo": "#F4E9D0",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "¿SIN ALQUILER?",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "sello",
+     "texto": "LOS EDIFICIOS SON SUYOS",
+     "x": 540,
+     "y": 420,
+     "tam": 56,
+     "t": 0.1
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 15666,
+     "sufijo": " M€",
+     "x": 540,
+     "y": 600,
+     "tam": 130,
+     "color": "#2E8B57",
+     "en": "están tasados"
+    },
+    {
+     "tipo": "texto",
+     "texto": "valen sus inmuebles",
+     "x": 540,
+     "y": 710,
+     "tam": 56,
+     "fuente": "mano",
+     "en": "están tasados"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Deuda: 1.648 M€",
+     "x": 540,
+     "y": 860,
+     "tam": 76,
+     "en": "Su deuda hoy"
+    },
+    {
+     "tipo": "texto",
+     "texto": "× 9,5",
+     "x": 540,
+     "y": 1020,
+     "tam": 130,
+     "color": "#E0521B",
+     "anim": "pop",
+     "en": "nueve veces y media"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "contento",
+     "x": 880,
+     "y": 1310,
+     "h": 300,
+     "t": 0.2
+    }
+   ]
+  }
+ ]
+}

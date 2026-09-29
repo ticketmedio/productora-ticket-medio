@@ -1,0 +1,27 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap">
+<style>
+*{box-sizing:border-box}
+html,body{margin:0;width:1280px;height:720px;overflow:hidden}
+body{position:relative;font-family:"Permanent Marker",cursive;background:#141414}
+.fondo{position:absolute;inset:0;background:url(../fondos/fachada.png) center/cover;filter:brightness(.55) saturate(1.1)}
+.vineta{position:absolute;inset:0;background:radial-gradient(circle at 70% 60%,rgba(0,0,0,0) 0,rgba(0,0,0,.55) 75%)}
+.t1{position:absolute;left:34px;top:22px;font-size:108px;line-height:.95;color:#FFFDF6;transform:rotate(-3deg);
+  text-shadow:-6px -6px 0 #1b1b1b,6px -6px 0 #1b1b1b,-6px 6px 0 #1b1b1b,6px 6px 0 #1b1b1b,0 8px 0 #1b1b1b,10px 14px 0 rgba(0,0,0,.45)}
+.t1 b{color:#FF5A36;font-weight:400}
+.masc{position:absolute;right:30px;bottom:-30px;height:470px;filter:drop-shadow(0 16px 10px rgba(0,0,0,.55));transform:rotate(3deg)}
+.moneda{position:absolute;left:250px;top:330px;width:250px;height:250px;border-radius:50%;background:#F5B301;border:10px solid #1b1b1b;
+  display:flex;align-items:center;justify-content:center;font-size:110px;color:#1b1b1b;transform:rotate(-8deg);box-shadow:12px 14px 0 rgba(0,0,0,.45)}
+.flecha{position:absolute;left:520px;top:380px}
+.stripe{position:absolute;left:0;right:0;bottom:0;height:14px;background:repeating-linear-gradient(-45deg,#F5B301 0 18px,#1b1b1b 18px 36px)}
+.tag{position:absolute;left:60px;bottom:40px;background:#FFFDF6;border:6px solid #1b1b1b;border-radius:14px;padding:4px 22px;font-size:44px;transform:rotate(-2deg);color:#1b1b1b;white-space:nowrap}
+</style></head><body>
+<div class="fondo"></div><div class="vineta"></div>
+<div class="t1">¿SOLO<br><b>3 CÉNTIMOS</b>?</div>
+<div class="moneda">3 c</div>
+<svg class="flecha" width="330" height="200" viewBox="0 0 330 200"><path d="M300 170 Q170 20 20 90" fill="none" stroke="#FF5A36" stroke-width="14" stroke-linecap="round"/><path d="M65 60 L15 92 L58 130" fill="none" stroke="#FF5A36" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/></svg>
+<img class="masc" src="../../marca/mascota/recortes/sorprendido.png">
+<div class="tag">de cada euro en EL CORTE INGLÉS</div>
+<div class="stripe"></div>
+</body></html>
