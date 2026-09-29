@@ -1,0 +1,83 @@
+{
+ "voz": "voz/voz.mp3",
+ "subtitulos": "voz/subtitulos.srt",
+ "musica": "../../../../musica/pepa_pita/Travelling Light - Blue Deer Studio.mp3",
+ "musica_db": -22,
+ "fondo": "../../fondos/pexels_33640979.jpg",
+ "cabecera": "¿MOHO?",
+ "planos": [
+  {
+   "desde": 0,
+   "imagen": "busto"
+  },
+  {
+   "desde": 2.9,
+   "imagen": "exp_sorprendida"
+  },
+  {
+   "desde": 4.2,
+   "imagen": "pose_ojo"
+  },
+  {
+   "desde": 8.2,
+   "imagen": "exp_preocupada"
+  },
+  {
+   "desde": 11.9,
+   "imagen": "busto"
+  },
+  {
+   "desde": 21.7,
+   "imagen": "pose_senala"
+  },
+  {
+   "desde": 26.4,
+   "imagen": "exp_pensativa"
+  },
+  {
+   "desde": 27.5,
+   "imagen": "busto"
+  },
+  {
+   "desde": 34.8,
+   "imagen": "exp_riendo"
+  },
+  {
+   "desde": 36.2,
+   "imagen": "exp_guino"
+  }
+ ],
+ "rotulos": [
+  {
+   "desde": 4.3,
+   "hasta": 8.1,
+   "texto": "TIENE RAÍCES",
+   "sub": "lo que ves es solo la punta · USDA"
+  },
+  {
+   "desde": 8.2,
+   "hasta": 11.8,
+   "texto": "TOXINAS QUE NO SE VAN",
+   "sub": "ni al cocinar · AESAN"
+  },
+  {
+   "desde": 12.0,
+   "hasta": 21.6,
+   "texto": "A LA BASURA, ENTERO",
+   "sub": "pan · mermelada · yogur · queso fresco · sobras"
+  },
+  {
+   "desde": 21.7,
+   "hasta": 26.3,
+   "texto": "FRUTA Y VERDURA: ENTERAS",
+   "sub": "AESAN"
+  },
+  {
+   "desde": 27.6,
+   "hasta": 34.7,
+   "texto": "QUESO CURADO: 2,5 CM",
+   "sub": "alrededor y por debajo · USDA (EE. UU.)"
+  }
+ ],
+ "salida": "salida/PEPA_009_moho.mp4"
+}

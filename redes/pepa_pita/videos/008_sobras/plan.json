@@ -1,0 +1,79 @@
+{
+ "voz": "voz/voz.mp3",
+ "subtitulos": "voz/subtitulos.srt",
+ "musica": "../../../../musica/pepa_pita/Travelling Light - Blue Deer Studio.mp3",
+ "musica_db": -22,
+ "fondo": "../../fondos/pexels_29148450.jpg",
+ "cabecera": "¿LAS SOBRAS?",
+ "planos": [
+  {
+   "desde": 0,
+   "imagen": "busto"
+  },
+  {
+   "desde": 3.9,
+   "imagen": "exp_preocupada"
+  },
+  {
+   "desde": 6.8,
+   "imagen": "busto"
+  },
+  {
+   "desde": 15.0,
+   "imagen": "pose_senala"
+  },
+  {
+   "desde": 20.6,
+   "imagen": "busto"
+  },
+  {
+   "desde": 25.2,
+   "imagen": "exp_pensativa"
+  },
+  {
+   "desde": 26.2,
+   "imagen": "busto"
+  },
+  {
+   "desde": 32.5,
+   "imagen": "pose_sartenes"
+  },
+  {
+   "desde": 35.8,
+   "imagen": "exp_guino"
+  }
+ ],
+ "rotulos": [
+  {
+   "desde": 9.9,
+   "hasta": 14.9,
+   "texto": "MÁXIMO 2 H FUERA",
+   "sub": "1 h si hace más de 30 °C · AESAN"
+  },
+  {
+   "desde": 15.0,
+   "hasta": 20.5,
+   "texto": "TÁPERES PEQUEÑOS",
+   "sub": "y sin apilar · AESAN"
+  },
+  {
+   "desde": 20.6,
+   "hasta": 25.1,
+   "texto": "3 DÍAS COMO MUCHO",
+   "sub": "y con la fecha puesta · AESAN · OMS"
+  },
+  {
+   "desde": 26.3,
+   "hasta": 32.4,
+   "texto": "RECALIENTA UNA VEZ",
+   "sub": "muy caliente por todas partes · AESAN · OMS"
+  },
+  {
+   "desde": 32.5,
+   "hasta": 35.8,
+   "texto": "SOPAS Y SALSAS: QUE HIERVAN",
+   "sub": "AESAN"
+  }
+ ],
+ "salida": "salida/PEPA_008_sobras.mp4"
+}

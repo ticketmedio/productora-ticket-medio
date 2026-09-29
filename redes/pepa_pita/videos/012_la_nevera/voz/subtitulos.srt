@@ -1,0 +1,43 @@
+1
+00:00:00,000 --> 00:00:01,790
+¿Tu nevera parece un tetris?
+
+2
+00:00:01,790 --> 00:00:03,004
+¡Vamos a ordenarla!
+
+3
+00:00:03,317 --> 00:00:08,522
+Primero, la temperatura: cinco grados o menos; mejor, cuatro.
+
+4
+00:00:08,522 --> 00:00:11,936
+Un termómetro de nevera cuesta muy poco.
+
+5
+00:00:12,248 --> 00:00:15,670
+Arriba, lo cocinado y lo listo para comer.
+
+6
+00:00:15,670 --> 00:00:21,454
+Debajo, la carne y el pescado crudos, bien tapados, para que no goteen.
+
+7
+00:00:21,454 --> 00:00:24,549
+En los cajones, la fruta y la verdura.
+
+8
+00:00:24,862 --> 00:00:29,624
+No la llenes hasta arriba: el aire frío tiene que circular.
+
+9
+00:00:29,624 --> 00:00:34,548
+Y la puerta es lo que más se calienta: ahí, bebidas y salsas.
+
+10
+00:00:34,861 --> 00:00:37,862
+Sígueme, que aquí aprendemos todos.
+
+11
+00:00:37,862 --> 00:00:38,892
+¡Cloc, cloc!

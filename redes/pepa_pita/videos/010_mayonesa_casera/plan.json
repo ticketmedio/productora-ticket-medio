@@ -1,0 +1,79 @@
+{
+ "voz": "voz/voz.mp3",
+ "subtitulos": "voz/subtitulos.srt",
+ "musica": "../../../../musica/pepa_pita/Travelling Light - Blue Deer Studio.mp3",
+ "musica_db": -22,
+ "fondo": "../../fondos/pexels_5451503.jpg",
+ "cabecera": "¿MAYONESA CASERA?",
+ "planos": [
+  {
+   "desde": 0,
+   "imagen": "busto"
+  },
+  {
+   "desde": 3.5,
+   "imagen": "exp_riendo"
+  },
+  {
+   "desde": 4.4,
+   "imagen": "exp_preocupada"
+  },
+  {
+   "desde": 11.9,
+   "imagen": "busto"
+  },
+  {
+   "desde": 16.8,
+   "imagen": "pose_senala"
+  },
+  {
+   "desde": 22.5,
+   "imagen": "busto"
+  },
+  {
+   "desde": 27.6,
+   "imagen": "exp_pensativa"
+  },
+  {
+   "desde": 30.5,
+   "imagen": "busto"
+  },
+  {
+   "desde": 34.5,
+   "imagen": "exp_guino"
+  }
+ ],
+ "rotulos": [
+  {
+   "desde": 4.5,
+   "hasta": 11.8,
+   "texto": "HUEVO CRUDO = RIESGO",
+   "sub": "de salmonela · AESAN"
+  },
+  {
+   "desde": 11.9,
+   "hasta": 16.7,
+   "texto": "N.º 1 EN BROTES EN LA UE",
+   "sub": "salmonela y huevo · EFSA 2025"
+  },
+  {
+   "desde": 16.9,
+   "hasta": 22.4,
+   "texto": "JUSTO ANTES DE COMER",
+   "sub": "huevos en otro cuenco y sin lavar · AESAN"
+  },
+  {
+   "desde": 22.5,
+   "hasta": 27.5,
+   "texto": "LO QUE SOBRE, FUERA",
+   "sub": "ese mismo día · AESAN"
+  },
+  {
+   "desde": 30.5,
+   "hasta": 34.4,
+   "texto": "BARES: HUEVO PASTEURIZADO",
+   "sub": "por ley · Real Decreto 1021/2022"
+  }
+ ],
+ "salida": "salida/PEPA_010_mayonesa_casera.mp4"
+}

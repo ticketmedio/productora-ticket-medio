@@ -1,0 +1,79 @@
+{
+ "voz": "voz/voz.mp3",
+ "subtitulos": "voz/subtitulos.srt",
+ "musica": "../../../../musica/pepa_pita/Travelling Light - Blue Deer Studio.mp3",
+ "musica_db": -22,
+ "fondo": "../../fondos/pexels_5451503.jpg",
+ "cabecera": "¿UNA SOLA TABLA?",
+ "planos": [
+  {
+   "desde": 0,
+   "imagen": "busto"
+  },
+  {
+   "desde": 3.5,
+   "imagen": "exp_sorprendida"
+  },
+  {
+   "desde": 5.3,
+   "imagen": "busto"
+  },
+  {
+   "desde": 11.4,
+   "imagen": "pose_senala"
+  },
+  {
+   "desde": 18.7,
+   "imagen": "exp_pensativa"
+  },
+  {
+   "desde": 20.4,
+   "imagen": "busto"
+  },
+  {
+   "desde": 27.7,
+   "imagen": "pose_ojo"
+  },
+  {
+   "desde": 33.4,
+   "imagen": "exp_preocupada"
+  },
+  {
+   "desde": 36.7,
+   "imagen": "exp_guino"
+  }
+ ],
+ "rotulos": [
+  {
+   "desde": 5.4,
+   "hasta": 11.3,
+   "texto": "CRUDO → TABLA → ENSALADA",
+   "sub": "así viajan las bacterias · AESAN"
+  },
+  {
+   "desde": 11.5,
+   "hasta": 18.6,
+   "texto": "UNA PARA LO CRUDO",
+   "sub": "y otra para lo que va directo a la boca · OMS"
+  },
+  {
+   "desde": 20.4,
+   "hasta": 27.6,
+   "texto": "VERDURA → CARNE → JABÓN",
+   "sub": "si solo tienes una · FSA"
+  },
+  {
+   "desde": 29.4,
+   "hasta": 33.3,
+   "texto": "MADERA O PLÁSTICO: LAS DOS",
+   "sub": "el plástico se limpia mejor · USDA"
+  },
+  {
+   "desde": 33.4,
+   "hasta": 36.6,
+   "texto": "¿SURCOS? A LA BASURA",
+   "sub": "USDA"
+  }
+ ],
+ "salida": "salida/PEPA_007_tabla_de_cortar.mp4"
+}

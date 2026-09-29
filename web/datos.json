@@ -1306,7 +1306,14 @@
         "TikTok"
       ],
       "notes": "Programamos de una vez los 6 vídeos de Pepa de las dos semanas siguientes (unos 45 min). Carpetas: Descargas › faceless › redes › pepa_pita › videos › 0XX_… › salida (vídeo .mp4 + TEXTO_PUBLICACION.txt). Los títulos para Facebook te los dejo en los comentarios.\n\nFechas (todas a las 19:00, en Instagram + Facebook y en TikTok):\n   · Vídeo 007 → martes 13 de octubre, 19:00\n   · Vídeo 008 → jueves 15 de octubre, 19:00\n   · Vídeo 009 → sábado 17 de octubre, 19:00\n   · Vídeo 010 → martes 20 de octubre, 19:00\n   · Vídeo 011 → jueves 22 de octubre, 19:00\n   · Vídeo 012 → sábado 24 de octubre, 19:00\n\nA) INSTAGRAM + FACEBOOK (https://business.facebook.com/latest/home con TU Facebook personal; arriba a la izquierda «Pepa Pita»):\n   «Crear reel» → marca Facebook e Instagram → vídeo → texto (Ctrl+E, Ctrl+C, Ctrl+V) → portada con Pepa de frente → «Siguiente» hasta «Share» → «Scheduling options» → «Schedule» → fecha y 07:00 PM → botón azul «Schedule».\n   Si se queda en «Scheduling your post…»: mira https://business.facebook.com/latest/content_calendar antes de repetir.\nB) TIKTOK (https://www.tiktok.com/tiktokstudio/upload, cuenta de Pepa):\n   Vídeo → mismo texto → portada → «Mostrar más» → «Contenido generado por IA» → «Programar» → fecha, 19:00.\nAl terminar, escribe «Pepa programada» (y si alguno de TikTok no se dejó programar, cuál).",
-      "comentarios": [],
+      "comentarios": [
+        {
+          "id": "c-125624108574",
+          "author": "claude",
+          "text": "Todo listo desde el 29/09 (puedes hacerlo antes si quieres). Títulos para Facebook (si te los pide):\n· 007 → ¿Cortas el pollo crudo y luego la ensalada en la misma tabla?\n· 008 → ¿Dejas la olla en el fuego toda la tarde para que se enfríe?\n· 009 → ¿Le quitas el moho a la mermelada y te la comes?\n· 010 → ¿Mayonesa casera para la ensaladilla?\n· 011 → ¿Lavas la fruta con un chorrito de lavavajillas?\n· 012 → ¿Tu nevera parece un tetris?\nCarpetas: 007_tabla_de_cortar, 008_sobras, 009_moho, 010_mayonesa_casera, 011_lavar_la_fruta, 012_la_nevera.",
+          "createdAt": "2026-09-29T10:56:24.108Z"
+        }
+      ],
       "createdAt": "2026-09-28T12:19:33.000Z",
       "createdBy": "claude",
       "updatedAt": "2026-09-28T12:19:33.000Z"

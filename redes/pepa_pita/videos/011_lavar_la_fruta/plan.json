@@ -1,0 +1,79 @@
+{
+ "voz": "voz/voz.mp3",
+ "subtitulos": "voz/subtitulos.srt",
+ "musica": "../../../../musica/pepa_pita/Travelling Light - Blue Deer Studio.mp3",
+ "musica_db": -22,
+ "fondo": "../../fondos/pexels_29148450.jpg",
+ "cabecera": "¿LAVAS LA FRUTA?",
+ "planos": [
+  {
+   "desde": 0,
+   "imagen": "busto"
+  },
+  {
+   "desde": 3.8,
+   "imagen": "exp_sorprendida"
+  },
+  {
+   "desde": 5.6,
+   "imagen": "busto"
+  },
+  {
+   "desde": 11.8,
+   "imagen": "pose_senala"
+  },
+  {
+   "desde": 16.4,
+   "imagen": "exp_preocupada"
+  },
+  {
+   "desde": 20.2,
+   "imagen": "busto"
+  },
+  {
+   "desde": 25.0,
+   "imagen": "exp_pensativa"
+  },
+  {
+   "desde": 28.0,
+   "imagen": "busto"
+  },
+  {
+   "desde": 38.8,
+   "imagen": "exp_guino"
+  }
+ ],
+ "rotulos": [
+  {
+   "desde": 5.7,
+   "hasta": 11.7,
+   "texto": "BAJO EL GRIFO",
+   "sub": "aunque la vayas a pelar · AESAN"
+  },
+  {
+   "desde": 16.4,
+   "hasta": 20.1,
+   "texto": "SIN JABÓN",
+   "sub": "la fruta lo absorbe · FDA (EE. UU.)"
+  },
+  {
+   "desde": 20.2,
+   "hasta": 25.0,
+   "texto": "PIEL DURA: CEPILLO",
+   "sub": "melón · sandía · pepino · AESAN"
+  },
+  {
+   "desde": 28.0,
+   "hasta": 34.5,
+   "texto": "LEJÍA «APTA PARA AGUA DE BEBIDA»",
+   "sub": "solo si se come cruda · AESAN"
+  },
+  {
+   "desde": 34.6,
+   "hasta": 38.7,
+   "texto": "LA DOSIS: LA DE LA ETIQUETA",
+   "sub": "y aclara con mucha agua"
+  }
+ ],
+ "salida": "salida/PEPA_011_lavar_la_fruta.mp4"
+}

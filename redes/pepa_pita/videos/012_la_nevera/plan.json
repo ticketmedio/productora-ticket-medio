@@ -1,0 +1,85 @@
+{
+ "voz": "voz/voz.mp3",
+ "subtitulos": "voz/subtitulos.srt",
+ "musica": "../../../../musica/pepa_pita/Travelling Light - Blue Deer Studio.mp3",
+ "musica_db": -22,
+ "fondo": "../../fondos/pexels_33640979.jpg",
+ "cabecera": "¿TU NEVERA, BIEN?",
+ "planos": [
+  {
+   "desde": 0,
+   "imagen": "busto"
+  },
+  {
+   "desde": 1.8,
+   "imagen": "exp_riendo"
+  },
+  {
+   "desde": 3.3,
+   "imagen": "busto"
+  },
+  {
+   "desde": 8.5,
+   "imagen": "pose_ojo"
+  },
+  {
+   "desde": 12.2,
+   "imagen": "pose_senala"
+  },
+  {
+   "desde": 21.4,
+   "imagen": "busto"
+  },
+  {
+   "desde": 24.8,
+   "imagen": "exp_pensativa"
+  },
+  {
+   "desde": 29.6,
+   "imagen": "busto"
+  },
+  {
+   "desde": 34.8,
+   "imagen": "exp_guino"
+  }
+ ],
+ "rotulos": [
+  {
+   "desde": 3.4,
+   "hasta": 12.1,
+   "texto": "5 °C O MENOS",
+   "sub": "mejor a 4 · AESAN · OMS · FDA"
+  },
+  {
+   "desde": 12.3,
+   "hasta": 15.6,
+   "texto": "ARRIBA: LO COCINADO",
+   "sub": "y lo listo para comer · AESAN"
+  },
+  {
+   "desde": 15.7,
+   "hasta": 21.4,
+   "texto": "ABAJO: LO CRUDO, TAPADO",
+   "sub": "que no gotee · AESAN · FSA"
+  },
+  {
+   "desde": 21.5,
+   "hasta": 24.8,
+   "texto": "CAJONES: FRUTA Y VERDURA",
+   "sub": "AESAN"
+  },
+  {
+   "desde": 24.9,
+   "hasta": 29.6,
+   "texto": "SIN LLENARLA",
+   "sub": "el aire frío tiene que circular · FDA"
+  },
+  {
+   "desde": 29.7,
+   "hasta": 34.8,
+   "texto": "PUERTA: BEBIDAS Y SALSAS",
+   "sub": "es la zona que más se calienta · USDA"
+  }
+ ],
+ "salida": "salida/PEPA_012_la_nevera.mp4"
+}
