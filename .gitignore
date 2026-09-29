@@ -29,6 +29,9 @@ musica/
 youtube/estudio_nicho/referencia_*/
 # PDF descargados (informes de empresas y el caso de Harvard, con derechos de autor)
 **/fuentes/*.pdf
+# Texto extraído de PDF y artículos de prensa copiados: tienen derechos de autor (29/09/2026)
+**/fuentes/*.txt
+**/fuentes/*.html
 **/fuentes/hbs_*
 # Capturas sueltas
 /image.png
