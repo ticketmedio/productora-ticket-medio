@@ -1353,7 +1353,14 @@
       "notes": "Título y miniatura primero; investigación con fuentes oficiales; guion, voz, escenas ilustradas, Shorts, textos y auditoría. Listo el miércoles.",
       "updatedAt": "2026-09-29T15:03:57.162Z",
       "status": "hecho",
-      "comentarios": [],
+      "comentarios": [
+        {
+          "id": "c-170358012950",
+          "author": "claude",
+          "text": "29/09: terminado y auditado, dos semanas antes de lo previsto. Título nuevo: «El Corte Inglés gana 3 céntimos por euro. ¿Cómo sigue vivo?» (el del calendario era el de otro canal). Vídeo de 10:39 + 3 Shorts.",
+          "createdAt": "2026-09-29T15:03:58.012Z"
+        }
+      ],
       "createdAt": "2026-09-28T13:02:28.000Z",
       "createdBy": "claude"
     },
