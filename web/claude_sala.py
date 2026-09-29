@@ -5,9 +5,6 @@ Uso:
   python claude_sala.py comentar ID "texto"    -> comentario de Claude en una tarea
   python claude_sala.py mensaje "texto"        -> mensaje de Claude en el Tablón
   python claude_sala.py estado ID ESTADO       -> pendiente | en_curso | hecho
-
-Antes de cada orden trae de GitHub lo que el usuario haya hecho en la Sala web (web/web_cambios.json,
-lo escribe GitHub Actions) y lo fusiona en datos.json.
 """
 import json, sys, os, datetime
 
@@ -15,7 +12,6 @@ sys.stdout.reconfigure(encoding="utf-8")
 HERE = os.path.dirname(os.path.abspath(__file__))
 DATA = os.path.join(HERE, "datos.json")
 SEEN = os.path.join(HERE, ".claude_visto.json")
-CAMBIOS_WEB = os.path.join(HERE, "web_cambios.json")
 
 
 def now():
@@ -32,41 +28,6 @@ def save(d):
     with open(tmp, "w", encoding="utf-8") as f:
         json.dump(d, f, ensure_ascii=False, indent=2)
     os.replace(tmp, DATA)
-
-
-def aplicar_web(d):
-    """Fusiona en d los cambios hechos desde la Sala web que aún no se habían aplicado. Devuelve True si hubo alguno."""
-    try:
-        cambios = json.load(open(CAMBIOS_WEB, encoding="utf-8"))["cambios"]
-    except Exception:
-        return False
-    hechos = d.setdefault("aplicadosWeb", [])
-    nuevo = False
-    for c in cambios:
-        if c["id"] in hechos:
-            continue
-        t = next((t for t in d["tareas"] if t["id"] == c.get("tarea")), None)
-        if c["accion"] == "estado" and t:
-            t["status"], t["updatedAt"] = c["estado"], now()
-        elif c["accion"] == "comentario" and t:
-            t.setdefault("comentarios", []).append({"id": "c-" + c["id"], "author": "tu", "text": c["texto"], "createdAt": now()})
-        elif c["accion"] == "mensaje":
-            d["mensajes"].append({"id": "m-" + c["id"], "author": "tu", "text": c["texto"], "createdAt": now()})
-        hechos.append(c["id"])
-        nuevo = True
-    return nuevo
-
-
-def sincronizar():
-    """git pull y fusión de los cambios de la Sala web. Si hubo alguno, se publicará datos.json al terminar."""
-    import subprocess
-    subprocess.run("git pull -q --rebase --autostash", cwd=os.path.dirname(HERE), shell=True,
-                   stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
-    d = load()
-    if aplicar_web(d):
-        save(d)
-        return True
-    return False
 
 
 def novedades():
@@ -140,8 +101,7 @@ def publicar():
 
 if __name__ == "__main__":
     cmd = sys.argv[1] if len(sys.argv) > 1 else "novedades"
-    hubo_web = cmd != "publicar" and sincronizar()
-    if hubo_web or cmd in ("comentar", "mensaje", "estado", "publicar"):
+    if cmd in ("comentar", "mensaje", "estado", "publicar"):
         import atexit
         atexit.register(publicar)
     if cmd == "novedades":

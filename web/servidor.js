@@ -44,10 +44,6 @@ async function publicar() {
   if (publicando) return publicarPronto();
   publicando = true;
   try {
-    // Trae de GitHub lo hecho en la Sala web (web_cambios.json, lo escribe GitHub Actions) y lo fusiona aquí
-    await git(['pull', '-q', '--rebase', '--autostash']);
-    const d = read();
-    if (aplicarWeb(d)) { const tmp = DATA + '.tmp'; fs.writeFileSync(tmp, JSON.stringify(d, null, 2), 'utf8'); fs.renameSync(tmp, DATA); console.log('Cambios de la Sala web recogidos.'); }
     const cambios = await git(['status', '--porcelain', 'web/datos.json']);
     if (cambios.out.trim()) {
       await git(['add', 'web/datos.json']);
@@ -57,24 +53,6 @@ async function publicar() {
       console.log(r.e ? 'No se pudo subir a GitHub (se reintentará).' : 'Sala publicada en la web: ' + new Date().toLocaleTimeString('es-ES'));
     }
   } finally { publicando = false; }
-}
-// Misma lógica que aplicar_web() de claude_sala.py
-function aplicarWeb(d) {
-  let cambios;
-  try { cambios = JSON.parse(fs.readFileSync(path.join(__dirname, 'web_cambios.json'), 'utf8')).cambios || []; } catch (e) { return false; }
-  if (!Array.isArray(d.aplicadosWeb)) d.aplicadosWeb = [];
-  let nuevo = false;
-  for (const c of cambios) {
-    if (d.aplicadosWeb.includes(c.id)) continue;
-    const t = d.tareas.find((x) => x.id === c.tarea);
-    const ahora = new Date().toISOString();
-    if (c.accion === 'estado' && t) { t.status = c.estado; t.updatedAt = ahora; }
-    else if (c.accion === 'comentario' && t) { (t.comentarios = t.comentarios || []).push({ id: 'c-' + c.id, author: 'tu', text: c.texto, createdAt: ahora }); }
-    else if (c.accion === 'mensaje') d.mensajes.push({ id: 'm-' + c.id, author: 'tu', text: c.texto, createdAt: ahora });
-    d.aplicadosWeb.push(c.id);
-    nuevo = true;
-  }
-  return nuevo;
 }
 function publicarPronto() { clearTimeout(temporizador); temporizador = setTimeout(publicar, 15000); }
 setInterval(publicar, 60000);   // también recoge los cambios que hace Claude directamente en datos.json

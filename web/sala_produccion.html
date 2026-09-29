@@ -430,9 +430,7 @@ img{max-width:100%}
     ta.value=drafts[t.id]||'';
     ta.addEventListener('input',function(){drafts[t.id]=ta.value;});
     var sendBtn=el('button',{class:'btn primary',type:'button',text:'Enviar',onclick:function(){
-      var txt=ta.value.trim();if(!txt)return;
-      if(WEBMODE){peticion('comentario · '+t.title,{accion:'comentario',tarea:t.id,texto:txt});drafts[t.id]='';ta.value='';return;}
-      if(!requireDb())return;
+      var txt=ta.value.trim();if(!txt||!requireDb())return;
       sendBtn.disabled=true;
       api('POST','/tareas/'+encodeURIComponent(t.id)+'/comentarios',{text:txt}).then(function(){
         drafts[t.id]='';ta.value='';toast('Comentario enviado');ta.blur();return load();
@@ -603,28 +601,7 @@ img{max-width:100%}
   }
 
   var OFFLINE='No hay conexión con la Sala. Ábrela con el icono "Sala de Producción" del escritorio.';
-  function requireDb(){if(!db){toast(WEBMODE?'Desde la web solo se pueden marcar tareas, comentar y escribir en el Tablón. Para crear o cambiar tareas, díselo a Claude.':OFFLINE);return false;}return true;}
-  // Versión web: cada acción abre una petición («issue») ya rellena en GitHub. Al pulsar «Create», GitHub Actions
-  // la guarda en web_cambios.json (.github/workflows/sala_web.yml) y la web la muestra en 1–2 minutos.
-  var WEBMODE=false, REPO='ticketmedio/productora-ticket-medio';
-  var ESTADO_TXT={pendiente:'Pendiente',en_curso:'En curso',hecho:'Hecho'};
-  function peticion(titulo,obj){
-    var body='👉 Pulsa el botón verde «Create» (abajo a la derecha) y cierra esta pestaña. No cambies nada de lo de abajo.\n\n```json\n'+JSON.stringify(obj)+'\n```\n';
-    var w=window.open('https://github.com/'+REPO+'/issues/new?title='+encodeURIComponent('Sala: '+titulo.slice(0,120))+'&body='+encodeURIComponent(body),'_blank');
-    toast(w?'Se ha abierto GitHub: pulsa el botón verde «Create». En 1–2 minutos se verá aquí.':'El navegador ha bloqueado la ventana de GitHub: permite las ventanas emergentes de esta página.');
-  }
-  // Misma lógica que aplicar_web() de claude_sala.py (aquí solo para mostrar; no guarda nada)
-  function aplicarWeb(d,cambios){
-    var hechos=d.aplicadosWeb||[];
-    (cambios||[]).forEach(function(c){
-      if(hechos.indexOf(c.id)>=0)return;
-      var t=(d.tareas||[]).find(function(x){return x.id===c.tarea;});
-      if(c.accion==='estado'&&t)t.status=c.estado;
-      else if(c.accion==='comentario'&&t)(t.comentarios=t.comentarios||[]).push({id:'c-'+c.id,author:'tu',text:c.texto,createdAt:c.fecha});
-      else if(c.accion==='mensaje')(d.mensajes=d.mensajes||[]).push({id:'m-'+c.id,author:'tu',text:c.texto,createdAt:c.fecha});
-    });
-    return d;
-  }
+  function requireDb(){if(!db){toast(OFFLINE);return false;}return true;}
   function fail(e){console.error(e);toast('No se pudo guardar. Comprueba que la Sala está abierta con el icono del escritorio.');}
   function api(method,path,body){
     return fetch('/api'+path,{method:method,headers:{'Content-Type':'application/json'},body:body?JSON.stringify(body):undefined,cache:'no-store'})
@@ -634,7 +611,7 @@ img{max-width:100%}
   function normalize(o){o=Object.assign({},o);o.status=o.status||'pendiente';o.kind=o.kind||'tarea';o.who=o.who||'tu';o.project=o.project||'general';return o;}
   var lastRaw='';
   // Versión web (GitHub Pages): sin servidor, lee datos.json publicado y funciona solo para consultar.
-  var WEB='Versión web: al marcar una tarea, comentar o escribir en el Tablón se abre GitHub. Pulsa allí el botón verde «Create» y en 1–2 minutos se verá aquí.';
+  var WEB='Versión web: solo para consultar. Para marcar tareas o comentar, usa la Sala del ordenador o escríbeme en el chat.';
   function aplicar(raw,esWeb){
     if(raw===lastRaw&&state.loaded)return;
     lastRaw=raw;var d=JSON.parse(raw);
@@ -648,20 +625,13 @@ img{max-width:100%}
       db=true;aplicar(raw,false);
     }).catch(function(){
       db=null;
-      var v='?v='+Date.now();
-      return Promise.all([
-        fetch('datos.json'+v,{cache:'no-store'}).then(function(r){if(!r.ok)throw 0;return r.text();}),
-        fetch('web_cambios.json'+v,{cache:'no-store'}).then(function(r){return r.ok?r.text():'{}';}).catch(function(){return '{}';})
-      ]).then(function(x){
-          var c={};try{c=JSON.parse(x[1]);}catch(e){}
-          WEBMODE=true;OFFLINE=WEB;aplicar(JSON.stringify(aplicarWeb(JSON.parse(x[0]),c.cambios)),true);})
+      return fetch('datos.json?v='+Date.now(),{cache:'no-store'}).then(function(r){if(!r.ok)throw 0;return r.text();})
+        .then(function(raw){OFFLINE=WEB;aplicar(raw,true);})
         .catch(function(){setStatus(OFFLINE,true);});
     });
   }
 
-  function setStatus_(t,s){
-    if(WEBMODE)return peticion(ESTADO_TXT[s]+' · '+t.title,{accion:'estado',tarea:t.id,estado:s});
-    if(!requireDb())return;
+  function setStatus_(t,s){if(!requireDb())return;
     api('PUT','/tareas/'+encodeURIComponent(t.id),{status:s}).then(load).catch(fail);}
   function cycle(t){setStatus_(t,NEXT[t.status]||'pendiente');}
 
@@ -701,9 +671,7 @@ img{max-width:100%}
   $('vadd').addEventListener('click',function(){var d=view&&view.date;closeView();openSheet(null,d);});
 
   $('taskform').addEventListener('submit',function(e){
-    e.preventDefault();
-    if(WEBMODE&&editing&&$('t-status').value!==editing.status){var t0=editing,s0=$('t-status').value;closeSheet();return setStatus_(t0,s0);}
-    if(!requireDb())return;
+    e.preventDefault();if(!requireDb())return;
     var now=new Date().toISOString();
     var data={title:$('t-title').value.trim(),date:$('t-date').value||'',who:$('t-who').value,kind:$('t-kind').value,
       project:$('t-project').value,status:$('t-status').value,notes:$('t-notes').value.trim(),
@@ -722,9 +690,7 @@ img{max-width:100%}
   });
 
   $('msgform').addEventListener('submit',function(e){
-    e.preventDefault();var txt=$('msgtext').value.trim();if(!txt)return;
-    if(WEBMODE){peticion('mensaje · '+txt.slice(0,60),{accion:'mensaje',texto:txt});$('msgtext').value='';return;}
-    if(!requireDb())return;
+    e.preventDefault();var txt=$('msgtext').value.trim();if(!txt||!requireDb())return;
     api('POST','/mensajes',{text:txt})
       .then(function(){$('msgtext').value='';toast('Mensaje enviado');return load();}).catch(fail);
   });
