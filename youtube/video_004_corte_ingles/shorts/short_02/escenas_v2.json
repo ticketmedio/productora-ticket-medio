@@ -40,7 +40,7 @@
      "tam": 200,
      "color": "#E0521B",
      "anim": "pop",
-     "en": "menos de un céntimo"
+     "t": 0.3
     },
     {
      "tipo": "texto",

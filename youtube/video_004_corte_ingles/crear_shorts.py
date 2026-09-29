@@ -17,7 +17,7 @@ shorts = {
  "01": {"salida": "../../output/SHORT_01_el_jeque.mp4", "escenas": [
    {"id": "a", "desde": "Un jeque de Catar tiene", "fondo": "fachada", "zoom": [1.0, 1.08], "capas": [
      panel(640), cab("UN AS EN LA MANGA"),
-     mano("Hamad bin Jassim Al Thani,\nex primer ministro de Catar", 500, 50, en="Hamad bin Jassim"),
+     mano("Hamad bin Jassim Al Thani,\nex primer ministro de Catar", 500, 50, t=0.2),
      txt("2015", 700, 110, color="#E0521B", anim="pop", en="En dos mil quince"),
      txt("le presta 1.000 M€", 840, 76, en="le prestó mil millones"),
      masc("sorprendido", 880, 380, entra="der", t=0.2)]},
@@ -37,7 +37,7 @@ shorts = {
  "02": {"salida": "../../output/SHORT_02_su_propio_casero.mp4", "escenas": [
    {"id": "a", "desde": "El Corte Inglés casi no paga", "fondo": "fachada", "zoom": [1.0, 1.08], "capas": [
      panel(640), cab("¿SIN ALQUILER?"),
-     txt("< 1 c", 560, 200, color="#E0521B", anim="pop", en="menos de un céntimo"),
+     txt("< 1 c", 560, 200, color="#E0521B", anim="pop", t=0.3),
      mano("por euro vendido, en alquileres", 720, 54, en="menos de un céntimo"),
      txt("Zara: 6 c", 880, 90, en="Zara paga seis"),
      masc("sorprendido", 880, 360, entra="der", t=0.2, poses=[{"en": "¿Por qué?", "pose": "pensativo"}])]},

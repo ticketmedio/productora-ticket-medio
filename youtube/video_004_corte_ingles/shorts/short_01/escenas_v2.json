@@ -39,7 +39,7 @@
      "y": 500,
      "tam": 50,
      "fuente": "mano",
-     "en": "Hamad bin Jassim"
+     "t": 0.2
     },
     {
      "tipo": "texto",

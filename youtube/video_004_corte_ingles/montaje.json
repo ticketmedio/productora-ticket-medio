@@ -1,0 +1,144 @@
+{
+ "salida": "output/_sin_normalizar.mp4",
+ "formato": "horizontal",
+ "voz": "audio/voz_cola.mp3",
+ "subtitulos": "06_SUBTITULOS.srt",
+ "quemar_subtitulos": false,
+ "musica": "audio/musica.mp3",
+ "musica_db": -26,
+ "escenas": [
+  {
+   "archivo": "clips/s_01.mp4",
+   "duracion": 19.797
+  },
+  {
+   "archivo": "clips/s_02.mp4",
+   "duracion": 13.728
+  },
+  {
+   "archivo": "clips/s_03.mp4",
+   "duracion": 17.734
+  },
+  {
+   "archivo": "clips/s_04.mp4",
+   "duracion": 17.522
+  },
+  {
+   "archivo": "clips/s_05.mp4",
+   "duracion": 33.12
+  },
+  {
+   "archivo": "clips/s_06.mp4",
+   "duracion": 23.816
+  },
+  {
+   "archivo": "clips/s_07.mp4",
+   "duracion": 22.575
+  },
+  {
+   "archivo": "clips/s_08.mp4",
+   "duracion": 13.9
+  },
+  {
+   "archivo": "clips/s_09.mp4",
+   "duracion": 26.849
+  },
+  {
+   "archivo": "clips/s_10.mp4",
+   "duracion": 14.815
+  },
+  {
+   "archivo": "clips/s_11.mp4",
+   "duracion": 25.59
+  },
+  {
+   "archivo": "clips/s_12.mp4",
+   "duracion": 22.368
+  },
+  {
+   "archivo": "clips/s_13.mp4",
+   "duracion": 23.403
+  },
+  {
+   "archivo": "clips/s_14.mp4",
+   "duracion": 11.857
+  },
+  {
+   "archivo": "clips/s_15.mp4",
+   "duracion": 10.89
+  },
+  {
+   "archivo": "clips/s_16.mp4",
+   "duracion": 10.778
+  },
+  {
+   "archivo": "clips/s_17.mp4",
+   "duracion": 21.509
+  },
+  {
+   "archivo": "clips/s_18.mp4",
+   "duracion": 25.018
+  },
+  {
+   "archivo": "clips/s_19.mp4",
+   "duracion": 21.72
+  },
+  {
+   "archivo": "clips/s_20.mp4",
+   "duracion": 15.67
+  },
+  {
+   "archivo": "clips/s_21.mp4",
+   "duracion": 7.932
+  },
+  {
+   "archivo": "clips/s_22.mp4",
+   "duracion": 22.425
+  },
+  {
+   "archivo": "clips/s_23.mp4",
+   "duracion": 19.612
+  },
+  {
+   "archivo": "clips/s_24.mp4",
+   "duracion": 18.813
+  },
+  {
+   "archivo": "clips/s_25.mp4",
+   "duracion": 23.54
+  },
+  {
+   "archivo": "clips/s_26.mp4",
+   "duracion": 20.58
+  },
+  {
+   "archivo": "clips/s_27.mp4",
+   "duracion": 20.115
+  },
+  {
+   "archivo": "clips/s_28.mp4",
+   "duracion": 11.883
+  },
+  {
+   "archivo": "clips/s_29.mp4",
+   "duracion": 23.073
+  },
+  {
+   "archivo": "clips/s_30.mp4",
+   "duracion": 11.969
+  },
+  {
+   "archivo": "clips/s_31.mp4",
+   "duracion": 31.945
+  },
+  {
+   "archivo": "clips/s_32.mp4",
+   "duracion": 22.541
+  },
+  {
+   "archivo": "clips/s_33.mp4",
+   "duracion": 11.882
+  }
+ ],
+ "salida_final": "output/FINAL_YOUTUBE_1080P.mp4"
+}

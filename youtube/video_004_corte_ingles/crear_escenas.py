@@ -54,7 +54,7 @@ escena("03", "Primero, las presentaciones", "grandes_almacenes", [
     panel(),
     cifra(70, 380, 290, 170, en="setenta grandes almacenes"), mano("grandes almacenes\nen España (+2 en Portugal)", 380, 450, 46, en="setenta grandes almacenes"),
     cifra(34, 1000, 290, 170, en="treinta y cuatro"), mano("Hipercor", 1000, 420, 56, en="treinta y cuatro"),
-    mano("+ supermercados · Sfera · ≈ 400 agencias de viajes", 700, 700, 50, papel=True, en="unas cuatrocientas"),
+    mano("+ supermercados · Sfera · ≈ 400 agencias de viajes", 700, 700, 50, papel=True, en="treinta y cuatro"),
     masc("saluda", 1620, 520, entra="der", t=0.2),
 ], zoom=[1.0, 1.06], fuente=CUENTAS + ", informe de gestión")
 
@@ -159,22 +159,22 @@ escena("13", "Sexta parada: Hacienda, otra vez", "#E3E7EC", [
 
 escena("14", "Y lo que queda, al final", "#FFF3C4", [
     hud(3.5),
-    moneda("3,5 c", 420, 420, 150, color="#E0521B", t=0.3), mano("de beneficio por cada euro", 420, 640, 56, t=0.5),
-    mano("Beneficio por euro:", 850, 300, 50, ancla="izq", en="Para que te hagas una idea"),
-    rect(850, 360, 120, 80, "#E0521B", texto="3,5 c", tam=34, en="Para que te hagas una idea", dur=0.6),
-    rect(850, 460, 140, 80, "#9CC5E8", texto="Mercadona 4 c", tam=26, en="Mercadona se quedaba", dur=0.6),
-    rect(850, 560, 460, 80, "#F5B301", texto="Zara 13 c", tam=34, en="Mercadona se quedaba", dur=1.0),
-    masc("pensativo", 1650, 500, entra="der", t=0.2),
+    moneda("3,5 c", 380, 420, 150, color="#E0521B", t=0.3), mano("de beneficio por cada euro", 380, 640, 56, t=0.5),
+    mano("Beneficio por euro:", 760, 300, 50, ancla="izq", en="Para que te hagas una idea"),
+    rect(760, 360, 162, 80, "#E0521B", en="Para que te hagas una idea", dur=0.6), txt("El Corte Inglés 3,5 c", 945, 400, 44, ancla="izq", en="Para que te hagas una idea"),
+    rect(760, 460, 185, 80, "#9CC5E8", en="Mercadona se quedaba", dur=0.6), txt("Mercadona 4 c", 965, 500, 44, ancla="izq", en="Mercadona se quedaba"),
+    rect(760, 560, 600, 80, "#F5B301", texto="Zara 13 c", tam=40, en="Mercadona se quedaba", dur=1.0),
+    masc("pensativo", 1720, 420, entra="der", t=0.2),
 ], fuente=CUENTAS + " (beneficio neto 628 M€); vídeos de Mercadona y Zara")
 
 escena("15", "De esos tres céntimos y medio", "#E6E0F5", [
     hud(3.5),
     {"tipo": "tarta", "x": 480, "y": 560, "r": 280, "t": 0.1, "porciones": [
-        {"v": 1.4, "color": "#F5B301", "en": "casi uno y medio"},
-        {"v": 2.1, "color": "#D9D2C0", "en": "casi uno y medio"}]},
+        {"v": 40, "color": "#F5B301", "en": "casi uno y medio"},
+        {"v": 60, "color": "#D9D2C0", "en": "casi uno y medio"}]},
     *leyenda([("≈ 1,4 c · dividendo para los accionistas", "#F5B301", "casi uno y medio"),
               ("≈ 2,1 c · se queda en la empresa", "#D9D2C0", "casi uno y medio"),
-              ("≈ 0,6 c · a la Fundación Ramón Areces", "#E0521B", "algo más de medio céntimo")], x=820, y0=420, paso=110, tam=46),
+              ("≈ 0,6 c · Fundación Areces", "#E0521B", "algo más de medio céntimo")], x=820, y0=420, paso=110, tam=46),
     masc("moneda", 1700, 440, entra="der", t=0.2),
 ], fuente=CUENTAS + ": dividendo propuesto 250 M€ (cálculo propio)")
 
@@ -201,7 +201,7 @@ escena("18", "Luego llegaron las cosas", "grandes_almacenes", [
     panel(),
     txt("1960", 300, 300, 100, color="#E0521B", en="En mil novecientos sesenta, el primer"), mano("«Ya es primavera…»", 720, 300, 60, ancla="izq", en="En mil novecientos sesenta, el primer"),
     txt("1966", 300, 500, 100, color="#E0521B", en="sesenta y seis"), mano("su tarjeta de compra", 720, 500, 60, ancla="izq", en="sesenta y seis"),
-    txt("1972", 300, 700, 100, color="#E0521B", en="setenta y dos"), mano("«Si no queda satisfecho,\nle devolvemos su dinero»", 720, 720, 54, ancla="izq", papel=True, en="si no queda satisfecho"),
+    txt("1972", 300, 700, 100, color="#E0521B", en="setenta y dos"), mano("«Si no queda satisfecho,\nle devolvemos su dinero»", 720, 720, 54, ancla="izq", papel=True, en="setenta y dos"),
     masc("riendo", 1640, 500, entra="der", t=0.2),
 ], zoom=[1.04, 1.1], fuente="El Corte Inglés, historia corporativa")
 
@@ -218,7 +218,7 @@ escena("20", "Y luego, la pandemia", "#E3E7EC", [
     titulo("2020: la pandemia", t=0.1),
     txt("Ventas: −31 %", 600, 420, 110, en="casi un tercio"),
     cifra(-2945, 600, 650, 150, sufijo=" M€", color="#E0521B", en="dos mil novecientos cuarenta"),
-    mano("la mayor pérdida de su historia (prensa)", 600, 820, 54, papel=True, en="La mayor pérdida"),
+    mano("la mayor pérdida de su historia (prensa)", 600, 820, 54, papel=True, en="dos mil novecientos cuarenta"),
     masc("sorprendido", 1600, 520, entra="der", t=0.2),
 ], fuente="Ventas: nota de resultados 2021 de El Corte Inglés; pérdidas: prensa (junio de 2021)")
 
@@ -234,7 +234,7 @@ escena("22", "La primera pieza son los edificios", "fachada", [
     mano("Sus inmuebles", 200, 360, 50, ancla="izq", en="Recuerda: quince mil"),
     rect(200, 400, 1000, 110, "#8FD18F", texto="15.666 M€", tam=56, en="Recuerda: quince mil", dur=1.2),
     mano("Su deuda", 200, 590, 50, ancla="izq", en="Su deuda hoy"),
-    rect(200, 630, 105, 110, "#E0521B", texto="1.648", tam=28, en="Su deuda hoy", dur=0.6),
+    rect(200, 630, 105, 110, "#E0521B", en="Su deuda hoy", dur=0.6), txt("1.648 M€", 330, 685, 56, ancla="izq", color="#E0521B", en="Su deuda hoy"),
     txt("× 9,5", 700, 860, 110, color="#E0521B", anim="pop", en="nueve veces y media"),
     masc("contento", 1640, 500, entra="der", t=0.2),
 ], zoom=[1.0, 1.06], fuente=CUENTAS + ": tasación de inmuebles y deuda financiera neta")
@@ -299,7 +299,7 @@ escena("29", "La tercera: internet", "#E3E7EC", [
     titulo("SOMBRA 3: internet", t=0.1),
     txt("2021: 12 % en línea", 600, 400, 90, en="el doce por ciento"),
     mano("desde entonces, sin cifra de ventas", 600, 540, 58, papel=True, en="Desde entonces solo publica"),
-    txt("Comercio electrónico en España: +20 %", 600, 760, 64, color="#E0521B", en="más de un veinte por ciento"),
+    txt("Comercio electrónico\nen España: +20 %", 600, 780, 64, color="#E0521B", en="Mientras, el comercio"),
     masc("lupa", 1620, 520, entra="der", t=0.2),
 ], fuente="El Corte Inglés, resultados 2021; CNMC (03/07/2026): comercio electrónico 2025, +20,6 %")
 

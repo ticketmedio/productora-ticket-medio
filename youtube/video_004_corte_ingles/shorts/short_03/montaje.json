@@ -1,0 +1,28 @@
+{
+ "salida": "output/_sin_normalizar.mp4",
+ "formato": "vertical",
+ "voz": "audio/voz_cola.mp3",
+ "subtitulos": "audio/subtitulos_cortos.srt",
+ "quemar_subtitulos": true,
+ "musica": "../../audio/musica.mp3",
+ "musica_db": -26,
+ "escenas": [
+  {
+   "archivo": "clips/s_a.mp4",
+   "duracion": 4.784
+  },
+  {
+   "archivo": "clips/s_b.mp4",
+   "duracion": 12.278
+  },
+  {
+   "archivo": "clips/s_c.mp4",
+   "duracion": 11.38
+  },
+  {
+   "archivo": "clips/s_d.mp4",
+   "duracion": 13.804
+  }
+ ],
+ "salida_final": "../../output/SHORT_03_zara_13_eci_3.mp4"
+}

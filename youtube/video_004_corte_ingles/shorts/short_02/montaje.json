@@ -1,0 +1,20 @@
+{
+ "salida": "output/_sin_normalizar.mp4",
+ "formato": "vertical",
+ "voz": "audio/voz_cola.mp3",
+ "subtitulos": "audio/subtitulos_cortos.srt",
+ "quemar_subtitulos": true,
+ "musica": "../../audio/musica.mp3",
+ "musica_db": -26,
+ "escenas": [
+  {
+   "archivo": "clips/s_a.mp4",
+   "duracion": 11.761
+  },
+  {
+   "archivo": "clips/s_b.mp4",
+   "duracion": 23.575
+  }
+ ],
+ "salida_final": "../../output/SHORT_02_su_propio_casero.mp4"
+}

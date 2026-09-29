@@ -181,7 +181,7 @@
      "tam": 50,
      "fuente": "mano",
      "papel": true,
-     "en": "unas cuatrocientas"
+     "en": "treinta y cuatro"
     },
     {
      "tipo": "mascota",
@@ -1098,7 +1098,7 @@
      "tipo": "moneda",
      "texto": "3,5 c",
      "r": 150,
-     "x": 420,
+     "x": 380,
      "y": 420,
      "color": "#E0521B",
      "t": 0.3
@@ -1106,7 +1106,7 @@
     {
      "tipo": "texto",
      "texto": "de beneficio por cada euro",
-     "x": 420,
+     "x": 380,
      "y": 640,
      "tam": 56,
      "fuente": "mano",
@@ -1115,7 +1115,7 @@
     {
      "tipo": "texto",
      "texto": "Beneficio por euro:",
-     "x": 850,
+     "x": 760,
      "y": 300,
      "tam": 50,
      "fuente": "mano",
@@ -1124,46 +1124,60 @@
     },
     {
      "tipo": "rect",
-     "x": 850,
+     "x": 760,
      "y": 360,
-     "w": 120,
+     "w": 162,
      "h": 80,
      "color": "#E0521B",
-     "texto": "3,5 c",
-     "tam": 34,
      "en": "Para que te hagas una idea",
      "dur": 0.6
     },
     {
+     "tipo": "texto",
+     "texto": "El Corte Inglés 3,5 c",
+     "x": 945,
+     "y": 400,
+     "tam": 44,
+     "ancla": "izq",
+     "en": "Para que te hagas una idea"
+    },
+    {
      "tipo": "rect",
-     "x": 850,
+     "x": 760,
      "y": 460,
-     "w": 140,
+     "w": 185,
      "h": 80,
      "color": "#9CC5E8",
-     "texto": "Mercadona 4 c",
-     "tam": 26,
      "en": "Mercadona se quedaba",
      "dur": 0.6
     },
     {
+     "tipo": "texto",
+     "texto": "Mercadona 4 c",
+     "x": 965,
+     "y": 500,
+     "tam": 44,
+     "ancla": "izq",
+     "en": "Mercadona se quedaba"
+    },
+    {
      "tipo": "rect",
-     "x": 850,
+     "x": 760,
      "y": 560,
-     "w": 460,
+     "w": 600,
      "h": 80,
      "color": "#F5B301",
      "texto": "Zara 13 c",
-     "tam": 34,
+     "tam": 40,
      "en": "Mercadona se quedaba",
      "dur": 1.0
     },
     {
      "tipo": "mascota",
      "pose": "pensativo",
-     "x": 1650,
+     "x": 1720,
      "y": 1015,
-     "h": 500,
+     "h": 420,
      "entra": "der",
      "t": 0.2
     }
@@ -1188,12 +1202,12 @@
      "t": 0.1,
      "porciones": [
       {
-       "v": 1.4,
+       "v": 40,
        "color": "#F5B301",
        "en": "casi uno y medio"
       },
       {
-       "v": 2.1,
+       "v": 60,
        "color": "#D9D2C0",
        "en": "casi uno y medio"
       }
@@ -1249,7 +1263,7 @@
     },
     {
      "tipo": "texto",
-     "texto": "≈ 0,6 c · a la Fundación Ramón Areces",
+     "texto": "≈ 0,6 c · Fundación Areces",
      "x": 905,
      "y": 640,
      "tam": 46,
@@ -1470,7 +1484,7 @@
      "fuente": "mano",
      "ancla": "izq",
      "papel": true,
-     "en": "si no queda satisfecho"
+     "en": "setenta y dos"
     },
     {
      "tipo": "mascota",
@@ -1590,7 +1604,7 @@
      "tam": 54,
      "fuente": "mano",
      "papel": true,
-     "en": "La mayor pérdida"
+     "en": "dos mil novecientos cuarenta"
     },
     {
      "tipo": "mascota",
@@ -1707,10 +1721,18 @@
      "w": 105,
      "h": 110,
      "color": "#E0521B",
-     "texto": "1.648",
-     "tam": 28,
      "en": "Su deuda hoy",
      "dur": 0.6
+    },
+    {
+     "tipo": "texto",
+     "texto": "1.648 M€",
+     "x": 330,
+     "y": 685,
+     "tam": 56,
+     "ancla": "izq",
+     "color": "#E0521B",
+     "en": "Su deuda hoy"
     },
     {
      "tipo": "texto",
@@ -2232,12 +2254,12 @@
     },
     {
      "tipo": "texto",
-     "texto": "Comercio electrónico en España: +20 %",
+     "texto": "Comercio electrónico\nen España: +20 %",
      "x": 600,
-     "y": 760,
+     "y": 780,
      "tam": 64,
      "color": "#E0521B",
-     "en": "más de un veinte por ciento"
+     "en": "Mientras, el comercio"
     },
     {
      "tipo": "mascota",
