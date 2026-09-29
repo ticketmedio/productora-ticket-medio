@@ -1162,7 +1162,14 @@
         "YouTube"
       ],
       "notes": "Igual que con Mercadona: el texto estará en la carpeta output del vídeo 3 (COMENTARIO_FIJADO.txt).",
-      "comentarios": [],
+      "comentarios": [
+        {
+          "id": "c-073556080642",
+          "author": "claude",
+          "text": "El texto está en: Descargas › faceless › archivo › video_003_zara › COMENTARIO_FIJADO.txt (esta copia no se borra).",
+          "createdAt": "2026-09-29T05:35:56.080Z"
+        }
+      ],
       "createdAt": "2026-09-28T10:39:56.000Z",
       "createdBy": "claude",
       "updatedAt": "2026-09-28T12:18:46.000Z"
