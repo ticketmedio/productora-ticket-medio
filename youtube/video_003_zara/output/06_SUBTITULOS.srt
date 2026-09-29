@@ -1,0 +1,587 @@
+1
+00:00:00,000 --> 00:00:06,083
+Pongamos que te compras una camiseta en Zara por veinticinco euros con noventa y cinco.
+
+2
+00:00:06,083 --> 00:00:08,600
+La pagas, te la llevas y te olvidas.
+
+3
+00:00:08,600 --> 00:00:11,396
+Pero ese dinero no se queda en un sitio.
+
+4
+00:00:11,396 --> 00:00:16,081
+Se reparte entre Hacienda, una fábrica en Marruecos o en Bangladés,
+
+5
+00:00:16,081 --> 00:00:19,717
+la persona que te cobra en caja, el dueño del local…
+
+6
+00:00:19,717 --> 00:00:26,079
+y, al final de la cola, un señor de A Coruña que cobra casi nueve millones de euros al día.
+
+7
+00:00:26,429 --> 00:00:28,985
+Hoy vamos a abrir el ticket de tu ropa.
+
+8
+00:00:28,985 --> 00:00:39,930
+Y, de paso, a responder una pregunta que parece un contrasentido: ¿cómo puede una empresa que vende ropa barata ganar más dinero que casi nadie en el mundo de la moda?
+
+9
+00:00:40,280 --> 00:00:42,469
+Primero, las presentaciones.
+
+10
+00:00:42,469 --> 00:00:48,174
+Zara es la marca más famosa de Inditex, un grupo gallego con ocho marcas,
+
+11
+00:00:48,174 --> 00:00:53,254
+entre ellas Pull and Bear, Massimo Dutti, Bershka o Stradivarius.
+
+12
+00:00:53,254 --> 00:00:58,491
+En su último año fiscal vendió casi cuarenta mil millones de euros.
+
+13
+00:00:58,491 --> 00:01:04,275
+Eso son unos mil doscientos sesenta euros cada segundo, de día y de noche.
+
+14
+00:01:04,275 --> 00:01:11,387
+Y ganó seis mil doscientos veinte millones: casi doscientos euros de beneficio por segundo.
+
+15
+00:01:11,737 --> 00:01:18,071
+Tiene cinco mil cuatrocientas sesenta tiendas y vende en doscientos catorce mercados.
+
+16
+00:01:18,071 --> 00:01:24,777
+Y Zara, junto con Zara Home y Lefties, se lleva siete de cada diez euros de todo el grupo.
+
+17
+00:01:25,127 --> 00:01:31,345
+Todo empezó en 1975, en una pequeña tienda de la calle Juan Flórez, en A Coruña.
+
+18
+00:01:31,345 --> 00:01:36,009
+Por cierto, esa primera tienda cerró el pasado mes de enero,
+
+19
+00:01:36,009 --> 00:01:38,574
+casi cincuenta y un años después.
+
+20
+00:01:38,574 --> 00:01:46,269
+Detrás de todo está Amancio Ortega, que sigue controlando casi el sesenta por ciento de la empresa.
+
+21
+00:01:46,269 --> 00:01:49,067
+Su hija Marta la preside desde 2022.
+
+22
+00:01:49,417 --> 00:01:50,929
+Vamos a lo nuestro.
+
+23
+00:01:50,929 --> 00:01:54,031
+Pagas tu camiseta en un Zara de España.
+
+24
+00:01:54,031 --> 00:02:00,078
+Y aquí va el aviso de siempre: Inditex no publica lo que cuesta cada prenda.
+
+25
+00:02:00,078 --> 00:02:02,783
+Lo que sí publica son sus cuentas.
+
+26
+00:02:02,783 --> 00:02:11,056
+Así que vamos a hacer lo mismo que con Mercadona: repartir cada euro según lo que gasta el grupo entero.
+
+27
+00:02:11,056 --> 00:02:14,477
+Es una media, no la factura de tu camiseta.
+
+28
+00:02:14,477 --> 00:02:17,182
+Pero el orden de magnitud es real.
+
+29
+00:02:17,532 --> 00:02:19,447
+Primera parada: Hacienda.
+
+30
+00:02:19,447 --> 00:02:23,659
+En España, la ropa paga el veintiuno por ciento de IVA.
+
+31
+00:02:23,659 --> 00:02:29,174
+Así que, de cada euro, unos diecisiete céntimos ni siquiera son de Zara.
+
+32
+00:02:29,174 --> 00:02:30,935
+Van directos al Estado.
+
+33
+00:02:31,285 --> 00:02:35,436
+Segunda parada, y la más grande: la propia prenda.
+
+34
+00:02:35,436 --> 00:02:41,827
+Unos treinta y cuatro céntimos de cada euro sirven para fabricarla y traerla.
+
+35
+00:02:42,177 --> 00:02:44,538
+Y aquí viene la primera sorpresa.
+
+36
+00:02:44,538 --> 00:02:51,266
+Inditex trabaja con seis mil seiscientas ochenta y cuatro fábricas en cuarenta y nueve países,
+
+37
+00:02:51,266 --> 00:02:54,915
+que dan trabajo a más de tres millones de personas.
+
+38
+00:02:54,915 --> 00:02:56,561
+Y casi ninguna es suya.
+
+39
+00:02:56,561 --> 00:03:01,285
+Solo unas pocas, cerca de su sede de Arteixo, pertenecen al grupo.
+
+40
+00:03:01,285 --> 00:03:03,074
+El resto son proveedores.
+
+41
+00:03:03,074 --> 00:03:06,724
+Y seis de cada diez de esas fábricas están en Asia.
+
+42
+00:03:07,074 --> 00:03:08,920
+Ahora fíjate en la cuenta.
+
+43
+00:03:08,920 --> 00:03:12,826
+Por cada euro que le cuesta la ropa, el grupo la vende,
+
+44
+00:03:12,826 --> 00:03:16,945
+sin contar el IVA, por unos dos euros y cuarenta céntimos.
+
+45
+00:03:16,945 --> 00:03:19,146
+Ahí empieza a verse la máquina.
+
+46
+00:03:19,496 --> 00:03:21,384
+Tercera parada: la gente.
+
+47
+00:03:21,384 --> 00:03:25,159
+Unos doce céntimos de cada euro pagan los sueldos.
+
+48
+00:03:25,159 --> 00:03:29,839
+Inditex tiene ciento sesenta y tres mil personas en plantilla.
+
+49
+00:03:29,839 --> 00:03:35,728
+Casi tres de cada cuatro son mujeres, y la inmensa mayoría trabaja en tiendas.
+
+50
+00:03:36,078 --> 00:03:37,851
+Cuarta parada: el local.
+
+51
+00:03:37,851 --> 00:03:40,805
+Unos seis céntimos se van en alquileres.
+
+52
+00:03:40,805 --> 00:03:45,606
+Zara quiere estar en las mejores calles del mundo, y eso se paga.
+
+53
+00:03:45,606 --> 00:03:51,146
+Un detalle curioso: parte del alquiler depende de lo que vende cada tienda.
+
+54
+00:03:51,146 --> 00:03:55,947
+Son unos seiscientos setenta millones al año en rentas variables.
+
+55
+00:03:55,947 --> 00:04:02,078
+Y otro detalle: algunos de esos locales son de sociedades ligadas a Amancio Ortega.
+
+56
+00:04:02,078 --> 00:04:06,140
+Así que, a veces, el alquiler también se queda en casa.
+
+57
+00:04:06,490 --> 00:04:08,435
+Quinta parada: la máquina.
+
+58
+00:04:08,435 --> 00:04:15,844
+Unos diez céntimos se van en todo lo que no se ve: el transporte que mueve la ropa por medio mundo,
+
+59
+00:04:15,844 --> 00:04:20,184
+las comisiones de cada pago con tarjeta, la tienda online,
+
+60
+00:04:20,184 --> 00:04:26,320
+que ya supone más de uno de cada cuatro euros que vende, la luz, el mantenimiento…
+
+61
+00:04:26,320 --> 00:04:32,381
+Y otros tres o cuatro céntimos son el desgaste de lo que ha invertido en tiendas,
+
+62
+00:04:32,381 --> 00:04:34,102
+almacenes y tecnología.
+
+63
+00:04:34,102 --> 00:04:41,735
+Solo en su plan logístico, Inditex ha metido novecientos millones en 2024 y otros novecientos en 2025.
+
+64
+00:04:42,085 --> 00:04:44,803
+Sexta parada: Hacienda, otra vez.
+
+65
+00:04:44,803 --> 00:04:48,428
+Ahora, a por el impuesto sobre el beneficio.
+
+66
+00:04:48,428 --> 00:04:50,158
+Casi cuatro céntimos.
+
+67
+00:04:50,158 --> 00:04:57,983
+Y si lo sumas al IVA, el Estado se lleva unos veintiún céntimos de cada euro que pagas en Zara.
+
+68
+00:04:57,983 --> 00:05:01,031
+Más de lo que gana la propia empresa.
+
+69
+00:05:01,381 --> 00:05:07,115
+Porque lo que queda, al final, es esto: unos trece céntimos de beneficio por cada euro.
+
+70
+00:05:07,115 --> 00:05:11,069
+Para que te hagas una idea, Mercadona se quedaba con cuatro.
+
+71
+00:05:11,419 --> 00:05:13,718
+¿Y adónde van esos trece céntimos?
+
+72
+00:05:13,718 --> 00:05:17,709
+Casi once se reparten entre los accionistas como dividendo.
+
+73
+00:05:17,709 --> 00:05:22,375
+Y como Amancio Ortega tiene casi el sesenta por ciento de la empresa,
+
+74
+00:05:22,375 --> 00:05:27,516
+casi siete céntimos de cada euro que pagas en Zara acaban en sus sociedades.
+
+75
+00:05:27,516 --> 00:05:33,603
+Este año cobrará unos tres mil doscientos millones de euros solo en dividendos de Inditex.
+
+76
+00:05:33,603 --> 00:05:35,429
+Casi nueve millones al día.
+
+77
+00:05:35,779 --> 00:05:39,264
+Y ahora, la pregunta importante: ¿cómo lo hace?
+
+78
+00:05:39,264 --> 00:05:44,752
+Porque vender ropa barata y ganar trece céntimos por euro no es lo normal.
+
+79
+00:05:45,102 --> 00:05:48,838
+La primera pieza es que casi nunca tiene que malvender.
+
+80
+00:05:48,838 --> 00:05:55,085
+En 2024, la ropa que se quedó sin vender fue solo el cero coma cincuenta y siete por ciento.
+
+81
+00:05:55,085 --> 00:05:58,006
+Menos de una prenda de cada ciento setenta.
+
+82
+00:05:58,006 --> 00:06:02,828
+Y eso se nota en el margen: por encima del cincuenta y ocho por ciento,
+
+83
+00:06:02,828 --> 00:06:05,001
+el más alto de los últimos años.
+
+84
+00:06:05,351 --> 00:06:07,937
+La segunda pieza es cómo fabrica.
+
+85
+00:06:07,937 --> 00:06:13,344
+Una parte importante de su ropa se hace cerca de España: en Portugal,
+
+86
+00:06:13,344 --> 00:06:17,028
+en Marruecos, en Turquía y en la propia España.
+
+87
+00:06:17,028 --> 00:06:18,517
+Y en tandas cortas.
+
+88
+00:06:18,517 --> 00:06:21,260
+Si algo se vende, se repone rápido.
+
+89
+00:06:21,260 --> 00:06:24,159
+Si no, se deja de fabricar y ya está.
+
+90
+00:06:24,509 --> 00:06:30,649
+Seguro que has oído que Zara diseña una prenda y la tiene en tienda en dos semanas.
+
+91
+00:06:30,649 --> 00:06:32,054
+Es verdad a medias.
+
+92
+00:06:32,054 --> 00:06:35,974
+Según un famoso estudio de la Universidad de Harvard,
+
+93
+00:06:35,974 --> 00:06:39,673
+de 2003, eso valía para reponer o retocar prendas.
+
+94
+00:06:39,673 --> 00:06:44,406
+Un diseño totalmente nuevo tardaba entre cuatro y cinco semanas.
+
+95
+00:06:44,406 --> 00:06:50,398
+Que, para la época, ya era rapidísimo: en el resto del sector podían pasar meses.
+
+96
+00:06:50,748 --> 00:06:53,109
+La tercera pieza es la logística.
+
+97
+00:06:53,109 --> 00:07:02,914
+Según la prensa especializada, la mayoría de su ropa se centraliza en España y sale hacia las tiendas de todo el mundo en pequeños lotes,
+
+98
+00:07:02,914 --> 00:07:04,416
+dos veces por semana.
+
+99
+00:07:04,416 --> 00:07:09,211
+Así, las tiendas reciben poco y a menudo, y siempre hay algo nuevo.
+
+100
+00:07:09,561 --> 00:07:11,839
+La cuarta pieza son las tiendas.
+
+101
+00:07:11,839 --> 00:07:15,898
+Hoy Inditex tiene unas dos mil tiendas menos que en 2019.
+
+102
+00:07:15,898 --> 00:07:18,817
+Y vende un cuarenta y uno por ciento más.
+
+103
+00:07:18,817 --> 00:07:23,800
+Cierra las pequeñas y se queda con las grandes, en las mejores calles.
+
+104
+00:07:24,150 --> 00:07:30,297
+Y la quinta pieza te sonará, si viste el vídeo de Mercadona: cobra antes de pagar.
+
+105
+00:07:30,297 --> 00:07:35,845
+Tú pagas la camiseta al momento, pero muchos proveedores cobran más tarde.
+
+106
+00:07:35,845 --> 00:07:40,717
+Resultado: Inditex tiene casi once mil millones de euros en caja,
+
+107
+00:07:40,717 --> 00:07:42,966
+y prácticamente nada de deuda.
+
+108
+00:07:43,316 --> 00:07:46,499
+Ahora bien, esta historia también tiene otra cara.
+
+109
+00:07:46,849 --> 00:07:48,888
+La primera son las fábricas.
+
+110
+00:07:48,888 --> 00:07:52,383
+Inditex hizo más de diez mil auditorías en 2025.
+
+111
+00:07:52,383 --> 00:07:56,679
+Y aun así, cuatrocientas seis fábricas, un seis por ciento,
+
+112
+00:07:56,679 --> 00:07:59,882
+necesitaban un plan para corregir problemas.
+
+113
+00:07:59,882 --> 00:08:07,090
+Las organizaciones críticas recuerdan algo importante: una auditoría no garantiza un salario digno.
+
+114
+00:08:07,440 --> 00:08:11,806
+Y hay un nombre que sigue pesando en todo el sector: Rana Plaza,
+
+115
+00:08:11,806 --> 00:08:17,126
+el edificio que se derrumbó en Bangladés en 2013, con más de mil cien muertos.
+
+116
+00:08:17,126 --> 00:08:19,854
+Inditex dijo que no tenía talleres allí.
+
+117
+00:08:19,854 --> 00:08:28,857
+Aun así, aportó dinero al fondo para las víctimas y fue de las primeras en firmar el acuerdo de seguridad de los edificios del país.
+
+118
+00:08:29,207 --> 00:08:31,426
+La segunda cara son los precios.
+
+119
+00:08:31,426 --> 00:08:35,169
+Según un análisis de Bloomberg recogido por la prensa,
+
+120
+00:08:35,169 --> 00:08:40,785
+Zara ha subido sus precios en Europa un veintidós por ciento de media desde 2020.
+
+121
+00:08:40,785 --> 00:08:44,320
+Y su margen, en ese tiempo, no ha dejado de crecer.
+
+122
+00:08:44,670 --> 00:08:46,717
+La tercera son los impuestos.
+
+123
+00:08:46,717 --> 00:08:57,378
+En 2016, los Verdes del Parlamento Europeo acusaron a Inditex de ahorrarse al menos quinientos ochenta y cinco millones en impuestos entre 2011 y 2014,
+
+124
+00:08:57,378 --> 00:09:01,049
+llevando beneficios a Países Bajos, Irlanda y Suiza.
+
+125
+00:09:01,049 --> 00:09:05,355
+Inditex respondió que el informe partía de premisas erróneas.
+
+126
+00:09:05,355 --> 00:09:10,932
+Hoy asegura que paga en España el veintiséis por ciento de todos sus impuestos,
+
+127
+00:09:10,932 --> 00:09:15,027
+aunque aquí solo vende el dieciséis por ciento de su ropa.
+
+128
+00:09:15,377 --> 00:09:17,588
+¿Y Shein, la gran amenaza?
+
+129
+00:09:17,588 --> 00:09:21,076
+En 2025 vendió casi lo mismo que Inditex.
+
+130
+00:09:21,076 --> 00:09:23,797
+Pero ganó unas tres veces menos.
+
+131
+00:09:23,797 --> 00:09:25,754
+Vender barato es fácil.
+
+132
+00:09:25,754 --> 00:09:29,156
+Ganar dinero vendiendo barato, no tanto.
+
+133
+00:09:29,506 --> 00:09:36,382
+Así que, la próxima vez que pagues veinticinco euros con noventa y cinco por una camiseta,
+
+134
+00:09:36,382 --> 00:09:38,827
+piensa en el viaje de tu dinero.
+
+135
+00:09:38,827 --> 00:09:42,800
+Unos cuatro euros y medio, para Hacienda por el IVA.
+
+136
+00:09:42,800 --> 00:09:45,704
+Casi nueve, para fabricarla y traerla.
+
+137
+00:09:45,704 --> 00:09:47,919
+Unos tres, para la plantilla.
+
+138
+00:09:47,919 --> 00:09:50,517
+Un euro y medio, para el alquiler.
+
+139
+00:09:50,517 --> 00:09:55,407
+Unos tres y medio, para camiones, tarjetas, tiendas y almacenes.
+
+140
+00:09:55,407 --> 00:09:57,852
+Un euro, para Hacienda otra vez.
+
+141
+00:09:57,852 --> 00:10:00,755
+Y algo más de tres euros de beneficio.
+
+142
+00:10:00,755 --> 00:10:05,874
+De los cuales, casi dos acaban en las sociedades de Amancio Ortega.
+
+143
+00:10:06,224 --> 00:10:09,414
+El secreto de Zara no es vender ropa barata.
+
+144
+00:10:09,414 --> 00:10:13,908
+Es vender casi todo lo que fabrica, al precio que ha decidido,
+
+145
+00:10:13,908 --> 00:10:15,937
+y cobrarlo antes de pagarlo.
+
+146
+00:10:16,287 --> 00:10:20,759
+Aquí, cada semana, abrimos el ticket de algo que pagas todos los días.
+
+147
+00:10:20,759 --> 00:10:25,358
+Si quieres saber cuál es el siguiente, ya sabes lo que tienes que hacer.

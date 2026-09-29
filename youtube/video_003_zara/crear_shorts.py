@@ -59,8 +59,8 @@ shorts = {
    {"id": "a", "desde": "¿Quién gana más con tu ropa", "fondo": "#E3E7EC", "capas": [
      cab("¿QUIÉN GANA MÁS?"),
      {"tipo": "imagen", "src": CAMISETA, "x": 540, "y": 640, "h": 480, "t": 0},
-     txt("25,95 €", 540 + 205 * 480 / 620, 640 + 130 * 480 / 620, 24, color="#E0521B", t=0.2),
-     txt("Parada 1: Hacienda", 540, 980, 70, papel=True, t=2.2),
+     txt("25,95 €", 640 + 130 * 480 / 620, 24, x=540 + 205 * 480 / 620, color="#E0521B", t=0.2),
+     txt("Parada 1: Hacienda", 980, 70, papel=True, t=2.2),
      masc("pensativo", 880, 300, t=0.2)]},
    {"id": "b", "desde": "En España, la ropa paga", "fondo": "#E3E7EC", "capas": [
      cab("¿QUIÉN GANA MÁS?"),

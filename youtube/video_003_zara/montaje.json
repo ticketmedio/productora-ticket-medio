@@ -1,7 +1,7 @@
 {
- "salida": "output/FINAL_YOUTUBE_1080P.mp4",
+ "salida": "output/_sin_normalizar.mp4",
  "formato": "horizontal",
- "voz": "audio/voz.mp3",
+ "voz": "audio/voz_cola.mp3",
  "subtitulos": "06_SUBTITULOS.srt",
  "quemar_subtitulos": false,
  "musica": "audio/musica.mp3",
@@ -139,5 +139,6 @@
    "archivo": "clips/s_33.mp4",
    "duracion": 12.571
   }
- ]
+ ],
+ "salida_final": "output/FINAL_YOUTUBE_1080P.mp4"
 }

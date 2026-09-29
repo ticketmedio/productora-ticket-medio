@@ -325,7 +325,7 @@ escena("31", "Así que, la próxima vez", "#FFF3C4", [
               ("≈ 1,50 € · alquiler", "#C9B8E8", "Un euro y medio"),
               ("≈ 3,50 € · transporte, tarjetas, tiendas", "#F7DCC8", "Unos tres y medio"),
               ("≈ 1 € · Hacienda otra vez", "#9CC5E8", "Un euro, para Hacienda"),
-              ("≈ 3,30 € · beneficio (≈ 1,75 € para Ortega)", "#E0521B", "algo más de tres euros")], x=840, y0=240, paso=100),
+              ("≈ 3,30 € · beneficio (1,75 € a Ortega)", "#E0521B", "algo más de tres euros")], x=840, y0=240, paso=100),
 ], fuente="Cálculo propio con la cuenta de resultados de Inditex 2025 (media del grupo, IVA de España)")
 
 escena("32", "El secreto de Zara no es", "tienda_ropa", [
