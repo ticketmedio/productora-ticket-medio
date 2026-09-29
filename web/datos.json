@@ -1028,7 +1028,7 @@
       "comentarios": [],
       "createdAt": "2026-09-28T10:39:56.000Z",
       "createdBy": "claude",
-      "updatedAt": "2026-09-28T12:24:38.000Z"
+      "updatedAt": "2026-09-29T06:38:21.702Z"
     },
     {
       "id": "c-pepa-2-3",
@@ -2377,5 +2377,8 @@
         "claude": "Análisis de los datos y ajustes"
       }
     ]
-  }
+  },
+  "aplicadosWeb": [
+    "w-1"
+  ]
 }
