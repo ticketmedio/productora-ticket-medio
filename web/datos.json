@@ -1132,7 +1132,7 @@
       "who": "tu",
       "kind": "publicacion",
       "project": "youtube",
-      "status": "pendiente",
+      "status": "hecho",
       "platforms": [
         "YouTube",
         "Shorts"
@@ -1172,7 +1172,7 @@
       ],
       "createdAt": "2026-09-28T10:39:56.000Z",
       "createdBy": "claude",
-      "updatedAt": "2026-09-28T13:02:28.000Z"
+      "updatedAt": "2026-09-29T10:50:00.542Z"
     },
     {
       "id": "pub-yt-3-comentario",
