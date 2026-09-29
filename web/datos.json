@@ -1076,7 +1076,7 @@
       "who": "claude",
       "kind": "tarea",
       "project": "youtube",
-      "status": "en_curso",
+      "status": "hecho",
       "platforms": [],
       "notes": "Hecho: título y miniatura decididos, investigación verificada, 8 escenarios de Gemini, guion y locución (10:26). Falta: escenas animadas, miniatura, vídeo final, 3 Shorts y textos.",
       "comentarios": [
@@ -1101,7 +1101,7 @@
       ],
       "createdAt": "2026-09-28T10:39:56.000Z",
       "createdBy": "claude",
-      "updatedAt": "2026-09-28T12:19:33.000Z"
+      "updatedAt": "2026-09-29T05:35:55.775Z"
     },
     {
       "id": "c-pepa-4-6",
