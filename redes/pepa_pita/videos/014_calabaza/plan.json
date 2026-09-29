@@ -1,0 +1,79 @@
+{
+ "voz": "voz/voz.mp3",
+ "subtitulos": "voz/subtitulos.srt",
+ "musica": "../../../../musica/pepa_pita/Travelling Light - Blue Deer Studio.mp3",
+ "musica_db": -22,
+ "fondo": "../../fondos/pexels_29148450.jpg",
+ "cabecera": "¿CALABAZA?",
+ "planos": [
+  {
+   "desde": 0,
+   "imagen": "busto"
+  },
+  {
+   "desde": 2.3,
+   "imagen": "exp_riendo"
+  },
+  {
+   "desde": 3.7,
+   "imagen": "busto"
+  },
+  {
+   "desde": 10.1,
+   "imagen": "pose_senala"
+  },
+  {
+   "desde": 13.5,
+   "imagen": "exp_preocupada"
+  },
+  {
+   "desde": 17.5,
+   "imagen": "busto"
+  },
+  {
+   "desde": 23.5,
+   "imagen": "exp_pensativa"
+  },
+  {
+   "desde": 25.8,
+   "imagen": "pose_sartenes"
+  },
+  {
+   "desde": 31.7,
+   "imagen": "exp_guino"
+  }
+ ],
+ "rotulos": [
+  {
+   "desde": 3.8,
+   "hasta": 10.0,
+   "texto": "TEMPORADA ALTA",
+   "sub": "octubre y noviembre · MAPA"
+  },
+  {
+   "desde": 10.1,
+   "hasta": 13.5,
+   "texto": "LAS PIPAS, TOSTADAS",
+   "sub": "30 g de proteína por 100 g · BEDCA"
+  },
+  {
+   "desde": 13.6,
+   "hasta": 17.4,
+   "texto": "LAS DE ADORNO, NO",
+   "sub": "son tóxicas · ANSES (Francia)"
+  },
+  {
+   "desde": 17.5,
+   "hasta": 25.7,
+   "texto": "¿AMARGA? ESCUPE Y TIRA",
+   "sub": "cocinarla no lo arregla · ANSES · BfR"
+  },
+  {
+   "desde": 25.8,
+   "hasta": 31.6,
+   "texto": "NEVERA O CONGELADOR",
+   "sub": "lo que cortes"
+  }
+ ],
+ "salida": "salida/PEPA_014_calabaza.mp4"
+}

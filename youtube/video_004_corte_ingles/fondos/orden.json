@@ -1,0 +1,34 @@
+[
+ {
+  "n": 1,
+  "nombre": "grandes_almacenes"
+ },
+ {
+  "n": 2,
+  "nombre": "escaleras_mecanicas"
+ },
+ {
+  "n": 3,
+  "nombre": "supermercado"
+ },
+ {
+  "n": 4,
+  "nombre": "fachada"
+ },
+ {
+  "n": 5,
+  "nombre": "sastreria_1930"
+ },
+ {
+  "n": 6,
+  "nombre": "oficina_financiera"
+ },
+ {
+  "n": 7,
+  "nombre": "planta_electronica"
+ },
+ {
+  "n": 8,
+  "nombre": "agencia_viajes"
+ }
+]

@@ -1,0 +1,75 @@
+{
+ "voz": "voz/voz.mp3",
+ "subtitulos": "voz/subtitulos.srt",
+ "musica": "../../../../musica/pepa_pita/Travelling Light - Blue Deer Studio.mp3",
+ "musica_db": -22,
+ "fondo": "../../fondos/pexels_5451503.jpg",
+ "cabecera": "¿MENÚ BARATO?",
+ "planos": [
+  {
+   "desde": 0,
+   "imagen": "busto"
+  },
+  {
+   "desde": 1.8,
+   "imagen": "exp_riendo"
+  },
+  {
+   "desde": 3.8,
+   "imagen": "pose_senala"
+  },
+  {
+   "desde": 10.0,
+   "imagen": "busto"
+  },
+  {
+   "desde": 19.7,
+   "imagen": "pose_sartenes"
+  },
+  {
+   "desde": 30.9,
+   "imagen": "busto"
+  },
+  {
+   "desde": 39.5,
+   "imagen": "exp_guino"
+  },
+  {
+   "desde": 45.1,
+   "imagen": "exp_guino"
+  }
+ ],
+ "rotulos": [
+  {
+   "desde": 3.8,
+   "hasta": 9.9,
+   "texto": "LEGUMBRES: 4 O MÁS",
+   "sub": "días a la semana · AESAN"
+  },
+  {
+   "desde": 10.0,
+   "hasta": 19.6,
+   "texto": "PESCADO 3 · CARNE ≤3",
+   "sub": "huevos, hasta 4 · AESAN"
+  },
+  {
+   "desde": 19.7,
+   "hasta": 30.8,
+   "texto": "VERDURA DE TEMPORADA",
+   "sub": "calabaza · coliflor · coles · MAPA"
+  },
+  {
+   "desde": 30.9,
+   "hasta": 39.4,
+   "texto": "FRUTA DE TEMPORADA",
+   "sub": "caqui · granada · mandarina · MAPA"
+  },
+  {
+   "desde": 39.5,
+   "hasta": 45.0,
+   "texto": "MENÚ Y LISTA EL DOMINGO",
+   "sub": "compras lo justo · AESAN"
+  }
+ ],
+ "salida": "salida/PEPA_016_menu_otono.mp4"
+}

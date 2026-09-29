@@ -1,0 +1,69 @@
+{
+ "voz": "voz/voz.mp3",
+ "subtitulos": "voz/subtitulos.srt",
+ "musica": "../../../../musica/pepa_pita/Travelling Light - Blue Deer Studio.mp3",
+ "musica_db": -22,
+ "fondo": "../../fondos/pexels_33640979.jpg",
+ "cabecera": "¿SETAS?",
+ "planos": [
+  {
+   "desde": 0,
+   "imagen": "busto"
+  },
+  {
+   "desde": 3.0,
+   "imagen": "exp_sorprendida"
+  },
+  {
+   "desde": 4.9,
+   "imagen": "pose_senala"
+  },
+  {
+   "desde": 11.2,
+   "imagen": "exp_pensativa"
+  },
+  {
+   "desde": 17.8,
+   "imagen": "exp_preocupada"
+  },
+  {
+   "desde": 24.9,
+   "imagen": "busto"
+  },
+  {
+   "desde": 37.3,
+   "imagen": "pose_senala"
+  },
+  {
+   "desde": 40.0,
+   "imagen": "exp_guino"
+  }
+ ],
+ "rotulos": [
+  {
+   "desde": 4.9,
+   "hasta": 11.1,
+   "texto": "SI NO LA CONOCES, NO",
+   "sub": "ni cogerla ni aceptarla · AESAN"
+  },
+  {
+   "desde": 11.2,
+   "hasta": 17.7,
+   "texto": "NINGÚN TRUCO SIRVE",
+   "sub": "ni plata, ni ajo, ni bichos · AESAN"
+  },
+  {
+   "desde": 17.8,
+   "hasta": 24.8,
+   "texto": "AMANITA PHALLOIDES",
+   "sub": "90 % de las muertes: amanitinas · INTCF"
+  },
+  {
+   "desde": 28.8,
+   "hasta": 40.0,
+   "texto": "112 · 91 562 04 20",
+   "sub": "Toxicología, 24 horas · lleva las setas"
+  }
+ ],
+ "salida": "salida/PEPA_015_setas.mp4"
+}
