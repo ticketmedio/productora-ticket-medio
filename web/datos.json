@@ -1052,6 +1052,12 @@
           "author": "tu",
           "text": "Hola",
           "createdAt": "2026-09-29T11:55:33.664Z"
+        },
+        {
+          "id": "c-135539538619",
+          "author": "claude",
+          "text": "¡Hola! Recibido desde la Sala web: la llave funciona. 👍",
+          "createdAt": "2026-09-29T11:55:39.538Z"
         }
       ],
       "createdAt": "2026-09-28T10:39:56.000Z",
