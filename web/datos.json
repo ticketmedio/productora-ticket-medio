@@ -1311,7 +1311,7 @@
       "who": "tu",
       "kind": "publicacion",
       "project": "redes",
-      "status": "pendiente",
+      "status": "en_curso",
       "platforms": [
         "Instagram",
         "Facebook",
@@ -1328,7 +1328,7 @@
       ],
       "createdAt": "2026-09-28T12:19:33.000Z",
       "createdBy": "claude",
-      "updatedAt": "2026-09-28T12:19:33.000Z"
+      "updatedAt": "2026-09-29T12:38:43.239Z"
     },
     {
       "id": "c-video-4",
