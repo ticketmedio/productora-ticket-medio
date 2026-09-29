@@ -2101,7 +2101,14 @@
       "notes": "Programamos de una vez los 6 vídeos de Pepa de las dos semanas siguientes (unos 45 min). Carpetas: Descargas › faceless › redes › pepa_pita › videos › 0XX_… › salida (vídeo .mp4 + TEXTO_PUBLICACION.txt). Los títulos para Facebook te los dejo en los comentarios.\n\nFechas (todas a las 19:00, en Instagram + Facebook y en TikTok):\n   · Vídeo 013 → martes 27 de octubre, 19:00\n   · Vídeo 014 → jueves 29 de octubre, 19:00\n   · Vídeo 015 → sábado 31 de octubre, 19:00\n   · Vídeo 016 → martes 3 de noviembre, 19:00\n   · Vídeo 017 → jueves 5 de noviembre, 19:00\n   · Vídeo 018 → sábado 7 de noviembre, 19:00\n\nA) INSTAGRAM + FACEBOOK (https://business.facebook.com/latest/home con TU Facebook personal; arriba a la izquierda «Pepa Pita»):\n   «Crear reel» → marca Facebook e Instagram → vídeo → texto (Ctrl+E, Ctrl+C, Ctrl+V) → portada con Pepa de frente → «Siguiente» hasta «Share» → «Scheduling options» → «Schedule» → fecha y 07:00 PM → botón azul «Schedule».\n   Si se queda en «Scheduling your post…»: mira https://business.facebook.com/latest/content_calendar antes de repetir.\nB) TIKTOK (https://www.tiktok.com/tiktokstudio/upload, cuenta de Pepa):\n   Vídeo → mismo texto → portada → «Mostrar más» → «Contenido generado por IA» → «Programar» → fecha, 19:00.\nAl terminar, escribe «Pepa programada» (y si alguno de TikTok no se dejó programar, cuál).",
       "updatedAt": "2026-09-28T13:02:28.000Z",
       "status": "pendiente",
-      "comentarios": [],
+      "comentarios": [
+        {
+          "id": "c-153242845380",
+          "author": "claude",
+          "text": "Todo listo desde el 29/09. No se puede adelantar mucho: Meta solo deja programar con 29 días como máximo, así que hazlo el 22/10 como está previsto. Títulos para Facebook:\n· 013 → ¿Castañas asadas en casa y te explotan en el horno?\n· 014 → ¿Vas a vaciar una calabaza para Halloween?\n· 015 → ¿Te vas al monte a por setas?\n· 016 → ¿Comer bien y barato en otoño?\n· 017 → ¿Alubias poco hechas?\n· 018 → ¿Tiras el pan de ayer?\nCarpetas: 013_castanas, 014_calabaza, 015_setas, 016_menu_otono, 017_legumbres, 018_pan_duro.\n⚠️ Antes de pulsar «Schedule», comprueba en Facebook Y en Instagram el mes (octubre o noviembre) y la hora 07:00 PM.",
+          "createdAt": "2026-09-29T13:32:42.845Z"
+        }
+      ],
       "createdAt": "2026-09-28T13:02:28.000Z",
       "createdBy": "claude"
     },
