@@ -1138,7 +1138,14 @@
         "Shorts"
       ],
       "notes": "Vídeo 3: «ZARA: ¿quién se queda el dinero de tu camiseta?». Sale el viernes 9 de octubre a las 18:00. Unos 35 minutos.\nTodo estará en:  Descargas › faceless › youtube › video_003_… › output  (te confirmo la carpeta exacta en los comentarios cuando esté listo).\n\n1. VER (10 min): abre FINAL_YOUTUBE_1080P.mp4 y los 3 SHORT_…mp4. Si algo se ve o se oye raro, dime el minuto aquí.\n\n2. SUBIR EL VÍDEO LARGO (studio.youtube.com; comprueba el logo del ticket amarillo arriba a la derecha):\n   «CREAR» → «Subir vídeos» → FINAL_YOUTUBE_1080P.mp4\n   · Título: el primero de 07_TITULOS.md (el marcado como ELEGIDO).\n   · Descripción: todo 08_DESCRIPCION.txt (Ctrl+E, Ctrl+C, Ctrl+V).\n   · Miniatura: output › MINIATURA_1280x720.png\n   · No es contenido para niños.\n   · «Mostrar más» (en este orden): Contenido alterado o sintético «No» · Etiquetas (vienen al final de 07_TITULOS.md) · Idioma Español (España) · Subtítulos: «Subir archivo» → «Con sincronización» → 06_SUBTITULOS.srt · Categoría Educación.\n   · Elementos: pantalla final «1 vídeo, 1 suscripción» (vídeo más reciente).\n   · Visibilidad: «Programar» → viernes 9 de octubre, 18:00.\n\n3. LOS 3 SHORTS («CREAR» → «Subir vídeos», uno a uno; títulos y descripciones en output › SHORTS_TEXTOS.txt):\n   No son para niños · Contenido alterado «No» · Idioma Español (España) · Categoría Educación · sin archivo de subtítulos.\n   Programar: SHORT_01 → sábado 10 de octubre 13:00 · SHORT_02 → lunes 12 de octubre 13:00 · SHORT_03 → miércoles 14 de octubre 13:00.\n\n4. Escribe «programado» aquí.",
-      "comentarios": [],
+      "comentarios": [
+        {
+          "id": "c-073555931318",
+          "author": "claude",
+          "text": "Todo listo desde el 29/09. Carpeta exacta: Descargas › faceless › youtube › video_003_zara › output. Dentro: FINAL_YOUTUBE_1080P.mp4 (10:29), los 3 SHORT_0X_….mp4, MINIATURA_1280x720.png, 06_SUBTITULOS.srt, 07_TITULOS.md (título ELEGIDO y etiquetas al final), 08_DESCRIPCION.txt y SHORTS_TEXTOS.txt. Ya lo he revisado yo entero.",
+          "createdAt": "2026-09-29T05:35:55.931Z"
+        }
+      ],
       "createdAt": "2026-09-28T10:39:56.000Z",
       "createdBy": "claude",
       "updatedAt": "2026-09-28T13:02:28.000Z"
