@@ -1244,7 +1244,14 @@
       "status": "en_curso",
       "platforms": [],
       "notes": "Seis vídeos verificados con fuentes oficiales, con sus textos, listos para programarlos de una vez.",
-      "comentarios": [],
+      "comentarios": [
+        {
+          "id": "c-073556301120",
+          "author": "claude",
+          "text": "29/09: investigación verificada hecha (redes/pepa_pita/investigacion_007_012.md). Dos correcciones importantes: el RD 1254/1991 de la mayonesa está derogado (vigente: RD 1021/2022, art. 9), y no hay una dosis oficial única de lejía para la fruta: se dirá «sigue la etiqueta». Siguiente: guiones y vídeos.",
+          "createdAt": "2026-09-29T05:35:56.301Z"
+        }
+      ],
       "createdAt": "2026-09-28T12:19:33.000Z",
       "createdBy": "claude",
       "updatedAt": "2026-09-29T05:35:56.196Z"
