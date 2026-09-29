@@ -1,0 +1,50 @@
+# Sala de Producción web: cuando la cuenta del proyecto abre una petición («issue») desde la Sala web
+# (marcar una tarea, comentar o escribir en el Tablón), la guarda en web/web_cambios.json,
+# vuelve a publicar la web y cierra la petición. Las peticiones de otras cuentas se cierran sin aplicar nada.
+name: Sala web
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+  pages: write
+
+concurrency:
+  group: sala-web
+  cancel-in-progress: false
+
+jobs:
+  aplicar:
+    if: startsWith(github.event.issue.title, 'Sala:')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Guardar la petición
+        run: python3 web/aplicar_peticion.py "$GITHUB_EVENT_PATH"
+
+      - name: Subir el cambio
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add web/web_cambios.json
+          git diff --cached --quiet && exit 0
+          git commit -q -m "Sala (web): petición #${{ github.event.issue.number }}"
+          for i in 1 2 3 4 5; do git pull -q --rebase && git push -q && exit 0; sleep 5; done
+          exit 1
+
+      - name: Publicar la web
+        run: gh api -X POST "repos/${{ github.repository }}/pages/builds" > /dev/null || true
+        env:
+          GH_TOKEN: ${{ github.token }}
+
+      - name: Cerrar la petición
+        if: always()
+        run: |
+          MSG="$(cat /tmp/respuesta.txt 2>/dev/null || echo 'No se pudo guardar. Díselo a Claude.')"
+          gh issue close "${{ github.event.issue.number }}" -R "${{ github.repository }}" -c "$MSG"
+        env:
+          GH_TOKEN: ${{ github.token }}
