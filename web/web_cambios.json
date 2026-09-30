@@ -20,6 +20,13 @@
    "fecha": "2026-09-29T12:58:05Z",
    "tarea": "u-fondos-v4",
    "texto": "fondos listos"
+  },
+  {
+   "id": "w-5",
+   "accion": "comentario",
+   "fecha": "2026-09-30T05:05:05Z",
+   "tarea": "u-pepa1-tiktok",
+   "texto": "No sale ninguna opcion de etiqueta de IA"
   }
  ]
 }
