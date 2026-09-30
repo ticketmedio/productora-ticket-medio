@@ -150,3 +150,16 @@ Orden previsto de los primeros ingresos:
 2. Invitación de Facebook.
 3. YouTube.
 4. TikTok y marcas.
+
+## 10. Quién sube y programa (revisado el 30/09/2026)
+
+Claude NO sube vídeos manejando el navegador: las tres plataformas prohíben el acceso «por medios automatizados» y subir es la acción más vigilada. El paso al 100 % automático va por las API oficiales:
+
+| Plataforma | API oficial | Limitación | Plan |
+|---|---|---|---|
+| Facebook | Graph API: Reels y publicaciones en la página, con programación | App de Meta en modo desarrollo (vale para cuentas propias) | Tarea u-meta-api (5/10). Después, Claude publica y programa |
+| Instagram | Graph API: Reels y carruseles (máx. 90 s por Reel y 25 publicaciones al día) | **No admite programar**: se publica en el momento, y el ordenador tiene que estar encendido a esa hora | Publicar con una tarea de Windows a la hora elegida o pasar Instagram a horario de mañana. Se decide con los datos |
+| YouTube | Data API: subir, título, etiquetas, capítulos, programar (publishAt) | Proyecto sin auditar = los vídeos se quedan en privado. Hay que pedir la auditoría a Google (semanas) | Tarea u-youtube-api (6/10) y solicitud de auditoría. Mientras, sube el usuario con las fichas de Claude |
+| TikTok | Content Posting API | Sin auditoría, solo publica en privado (SELF_ONLY), y la auditoría es para empresas con app pública | Sigue a mano, en lotes quincenales |
+
+Fuentes: https://developers.google.com/youtube/v3/docs/videos/insert · https://developers.tiktok.com/docs/en/content-sharing-guidelines · https://postproxy.dev/how-to/schedule-instagram-reels/
