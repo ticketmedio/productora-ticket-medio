@@ -9,5 +9,5 @@ Las apunta la rutina diaria (`seo/RUTINA_DIARIA.md`). No se aplican a los vídeo
 - Comprobar también en los vídeos largos de YouTube (la gasolina retiene un 12 %): comparar con Mercadona (2/10) y Zara (9/10), que ya llevan más gancho.
 
 ## 30/09/2026 — Monetización de TikTok
-- TikTok paga solo por vídeos originales de más de 60 s. Al acercarnos a 5.000 seguidores, hacer versiones de Pepa de 61–75 s para TikTok.
+- TikTok paga solo por vídeos originales de más de 60 s (y solo por los subidos DESPUÉS de la aceptación). DECIDIDO: desde Pepa 019, dos versiones de cada vídeo: 35–45 s para Instagram y Facebook, y 61–75 s para TikTok (consejo extra o «¿sabías que…?» al final, verificado y con fuente). Archivo aparte con TIKTOK en el nombre; en el texto de publicación de TikTok, indicarle al usuario qué archivo subir.
 - Comprobar que la cuenta de TikTok es personal y no de empresa (si es de empresa, no entra en el programa).

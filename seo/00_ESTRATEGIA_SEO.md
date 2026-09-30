@@ -119,7 +119,7 @@ Además, hoy ya no sirve para crecer. Seguir para que te sigan no mejora ninguna
 | TikTok (Pepa) | 10.000 seguidores + 100.000 visualizaciones en 30 días, cuenta PERSONAL (no de empresa), 18+ y **vídeos originales de más de 1 minuto** subidos después de la aceptación | Programa de recompensas para creadores | Solo si un vídeo se hace viral; lo más incierto |
 
 **Consecuencias para la producción:**
-- TikTok paga solo por vídeos de más de 60 s, y Pepa dura hoy 33–46 s. No hace falta cambiar todavía: los seguidores y las visualizaciones pueden venir de vídeos cortos. Al acercarnos a 5.000 seguidores, empezar a hacer versiones de 61–75 s para TikTok con un consejo extra; en Instagram y Facebook, seguir con vídeos cortos.
+- TikTok paga solo por vídeos de más de 60 s, y Pepa dura hoy 33–46 s. DECIDIDO el 30/09: desde Pepa 019, versión de 61–75 s para TikTok (consejo extra); en Instagram y Facebook, vídeos cortos. Los vídeos ya subidos no se pierden: sirven para conseguir los seguidores y las visualizaciones que pide el programa, y TikTok solo paga por lo que se sube después de la aceptación.
 - Comprobar que la cuenta de TikTok es personal y no de empresa.
 
 ## 8. Puntos de control (los vigila la rutina diaria)
