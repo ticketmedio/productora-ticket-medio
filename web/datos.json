@@ -1025,7 +1025,14 @@
         "Instagram"
       ],
       "notes": "TikTok ya lo programaste el lunes (tarea «Programar de una vez…»). Hoy solo queda esto:\n1. Abre la app de Instagram en el móvil, cuenta soypepapita, y abre el reel de «No laves el pollo».\n2. Mira si debajo del nombre pone «Información de IA» o «Creado con IA».\n   · Si lo pone: perfecto, no hagas nada.\n   · Si no: tres puntos (…) del reel → «Editar» → busca «Etiqueta de IA» y actívala → «Hecho».\n   · Si no encuentras la opción, mándame una captura.\nEscribe «hecho» cuando acabes.",
-      "comentarios": [],
+      "comentarios": [
+        {
+          "id": "c-w-5",
+          "author": "tu",
+          "text": "No sale ninguna opcion de etiqueta de IA",
+          "createdAt": "2026-09-30T05:41:55.705Z"
+        }
+      ],
       "createdAt": "2026-09-28T10:39:56.000Z",
       "createdBy": "claude",
       "updatedAt": "2026-09-29T06:38:21.702Z"
@@ -2489,6 +2496,7 @@
   "aplicadosWeb": [
     "w-1",
     "w-2",
-    "w-3"
+    "w-3",
+    "w-5"
   ]
 }
