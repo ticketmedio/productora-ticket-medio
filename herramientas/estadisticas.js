@@ -48,6 +48,20 @@ async function capturar(pagina, nombre, url) {
     await pagina.goto(url, { waitUntil: 'networkidle2', timeout: 60000 });
   } catch (e) { /* algunas páginas nunca dejan la red en calma: seguimos */ }
   await new Promise(r => setTimeout(r, 6000)); // gráficos y tablas cargan tarde
+  // las listas largas (TikTok, Meta) cargan más filas al bajar: bajamos hasta el final
+  for (let i = 0; i < 15; i++) {
+    const alto = await pagina.evaluate(() => {
+      const caja = [...document.querySelectorAll('*')].filter(e => e.scrollHeight > e.clientHeight + 50 &&
+        /(auto|scroll)/.test(getComputedStyle(e).overflowY)).sort((a, b) => b.scrollHeight - a.scrollHeight)[0];
+      (caja || document.scrollingElement).scrollTop = 1e9;
+      window.scrollTo(0, 1e9);
+      return (caja || document.scrollingElement).scrollHeight;
+    });
+    await new Promise(r => setTimeout(r, 1500));
+    const nuevo = await pagina.evaluate(() => document.body.innerText.length);
+    if (i > 0 && nuevo === capturar._ultimo && alto === capturar._alto) break;
+    capturar._ultimo = nuevo; capturar._alto = alto;
+  }
   const final = pagina.url();
   const texto = await pagina.evaluate(() => document.body ? document.body.innerText : '');
   fs.writeFileSync(path.join(SALIDA, nombre + '.txt'), `URL: ${final}\n\n${texto}`);
