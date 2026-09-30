@@ -2311,42 +2311,7 @@
     "Instagram",
     "Facebook"
    ],
-   "notes": "Te dejo en redes/pepa_pita/carruseles/ las imágenes numeradas y el TEXTO_PUBLICACION.txt de cada uno, con el día y la hora. Se programa igual que los Reels, pero eligiendo «Publicación» en vez de «Reel». Cuando esté conectada la API de Meta, esto lo haré yo.",
-   "createdAt": "2026-09-30T09:16:00",
-   "createdBy": "claude",
-   "updatedAt": "2026-09-30T09:16:00",
-   "comentarios": []
-  },
-  {
-   "id": "u-meta-api",
-   "title": "Conectar Meta para que Claude publique solo en Facebook e Instagram (20 min, conmigo en el chat)",
-   "date": "2026-10-05",
-   "who": "tu",
-   "kind": "tarea",
-   "project": "general",
-   "status": "pendiente",
-   "platforms": [
-    "Instagram",
-    "Facebook"
-   ],
-   "notes": "Crearemos juntos una «app» de Meta para desarrolladores (gratis) con tu Facebook. Es la vía OFICIAL para que yo publique Reels y carruseles y responda comentarios sin saltarme ninguna norma. Abre una sesión conmigo y dime «vamos con Meta»: te guío paso a paso. Nunca pegues en el chat contraseñas ni códigos: las llaves se guardan en privado/.",
-   "createdAt": "2026-09-30T09:16:00",
-   "createdBy": "claude",
-   "updatedAt": "2026-09-30T09:16:00",
-   "comentarios": []
-  },
-  {
-   "id": "u-youtube-api",
-   "title": "Conectar YouTube para que Claude suba y programe los vídeos (20 min, conmigo en el chat)",
-   "date": "2026-10-06",
-   "who": "tu",
-   "kind": "tarea",
-   "project": "general",
-   "status": "pendiente",
-   "platforms": [
-    "YouTube"
-   ],
-   "notes": "Crearemos juntos un proyecto de Google Cloud (gratis) con ticketmedio.es@gmail.com y pediremos la auditoría de Google: sin ella, lo que se sube por la API se queda en privado. La auditoría puede tardar semanas; mientras, subes tú los vídeos con mis fichas. Abre una sesión y dime «vamos con YouTube».",
+   "notes": "Te dejo en redes/pepa_pita/carruseles/ las imágenes numeradas y el TEXTO_PUBLICACION.txt de cada carrusel, con día y hora. Pasos en Meta Business Suite: ver el archivo COMO_PUBLICAR_UN_CARRUSEL.txt de esa carpeta.",
    "createdAt": "2026-09-30T09:16:00",
    "createdBy": "claude",
    "updatedAt": "2026-09-30T09:16:00",
