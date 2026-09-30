@@ -2318,7 +2318,7 @@
       "who": "tu",
       "kind": "publicacion",
       "project": "redes",
-      "status": "pendiente",
+      "status": "hecho",
       "platforms": [
         "Instagram",
         "Facebook"
@@ -2326,7 +2326,7 @@
       "notes": "Carpeta: Descargas › faceless › redes › pepa_pita › carruseles.\nSon 6 carruseles, todos a las 13:00: 001 → lun 5/10 · 002 → mié 7/10 · 003 → lun 12/10 · 004 → mié 14/10 · 005 → lun 19/10 · 006 → mié 21/10.\nPaso a paso en COMO_PUBLICAR_UN_CARRUSEL.txt (en esa misma carpeta). Se hace con «Crear publicación» (no «Crear reel»), marcando Facebook e Instagram, subiendo todas las imágenes de la carpeta a la vez y pegando el TEXTO_PUBLICACION.txt.",
       "createdAt": "2026-09-30T09:16:00",
       "createdBy": "claude",
-      "updatedAt": "2026-09-30T09:16:00",
+      "updatedAt": "2026-09-30T08:22:34.755Z",
       "comentarios": [
         {
           "id": "c-102233761430",
