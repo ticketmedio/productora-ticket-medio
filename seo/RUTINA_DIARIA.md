@@ -11,3 +11,5 @@ Trabajas sin nadie delante. Todo en ESPAÑOL DE ESPAÑA. Lee antes seo/00_ESTRAT
 7. `git add -A`, comprueba con `git ls-files | grep -i privado` que no sale nada, `git commit -m "SEO: resumen diario <fecha>"` y `git push`.
 
 PROHIBIDO en esta rutina: seguir cuentas, dar «me gusta», comentar, publicar o cambiar nada en YouTube, Meta o TikTok desde el navegador. Solo leer.
+
+NOTA (30/09): los Reels de Instagram SÍ tienen su texto (lo confirmó el usuario); las estadísticas de Meta a veces no lo enseñan. No vuelvas a pedirle que lo ponga.
