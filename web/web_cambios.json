@@ -55,6 +55,13 @@
    "fecha": "2026-09-30T07:32:17Z",
    "tarea": "u-pepa1-tiktok",
    "estado": "en_curso"
+  },
+  {
+   "id": "w-13",
+   "accion": "estado",
+   "fecha": "2026-09-30T07:48:01Z",
+   "tarea": "u-pepa1-tiktok",
+   "estado": "hecho"
   }
  ]
 }
