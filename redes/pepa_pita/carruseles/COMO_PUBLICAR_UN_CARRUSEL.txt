@@ -1,0 +1,24 @@
+CÓMO PROGRAMAR UN CARRUSEL DE PEPA EN FACEBOOK E INSTAGRAM (unos 5 minutos cada uno)
+Se hace desde el ordenador, en Meta Business Suite, igual que los Reels.
+
+QUÉ PUBLICAR Y CUÁNDO
+  · Carpeta 001_numeros_cocina → lunes 5 de octubre de 2026, 13:00 (8 imágenes)
+  · Carpeta 002_mitos_cocina   → miércoles 7 de octubre de 2026, 13:00 (7 imágenes)
+
+PASOS
+1. Entra en https://business.facebook.com. Arriba a la izquierda debe poner «Pepa Pita».
+2. Pulsa «Crear publicación». OJO: no «Crear reel».
+3. En «Publicar en», deja marcadas las DOS cuentas: Pepa Pita (Facebook) y soypepapita (Instagram).
+4. En «Contenido multimedia», pulsa «Añadir foto» → «Subir desde el ordenador».
+   Entra en la carpeta del carrusel, pulsa Ctrl+A para seleccionar todas las imágenes y dale a «Abrir».
+   Comprueba que salen EN ORDEN: 01, 02, 03... Si alguna está descolocada, arrástrala a su sitio.
+   Si te ofrece recortar las imágenes, elige «Original» (o 4:5). Así no se corta nada.
+5. Abre TEXTO_PUBLICACION.txt de esa carpeta. Selecciona todo (Ctrl+A), cópialo (Ctrl+C) y pégalo (Ctrl+V) en «Texto».
+6. Abajo, en «Opciones de programación», activa «Establecer fecha y hora».
+   Pon la fecha y la hora de la lista de arriba, en Facebook Y en Instagram. Revisa dos cosas:
+     · que el mes sea OCTUBRE;
+     · que la hora de Instagram no se haya quedado en la hora actual (ya nos pasó con un Reel).
+7. Pulsa «Programar».
+8. Comprueba que aparece en el Planificador: https://business.facebook.com/latest/content_calendar
+
+Cuando acabes, marca la tarea como hecha en la Sala.

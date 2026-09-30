@@ -47,7 +47,7 @@ metadata:
 
 **Monetización (30/09):** requisitos por plataforma y puntos de control en seo/00_ESTRATEGIA_SEO.md (apartados 7 y 8). Lección: el usuario se enfadó porque TikTok solo paga por vídeos de más de 60 s y Pepa dura 33–46 s: comprobar SIEMPRE los requisitos de monetización antes de diseñar un formato. Desde Pepa 019: versión de 61–75 s para TikTok.
 
-**Subidas (30/09):** el usuario me da «pleno derecho a todo» y pide que suba y programe yo. Decisión: NO con el navegador automatizado (normas de las plataformas); sí con API oficiales (seo/00_ESTRATEGIA_SEO.md, apartado 10): Meta primero (tarea u-meta-api, 5/10), YouTube con auditoría de Google (u-youtube-api, 6/10), TikTok sigue a mano. Carruseles de Pepa: c-carruseles-1 (1/10) → pub-carruseles-1 (2/10). Quitadas las tareas mensuales de capturas (u-resultados-*): ya leo yo las estadísticas.
+**Subidas (30/09, DECISIÓN DEL USUARIO):** no quiere arriesgar las cuentas: él sube y programa TODO a mano; yo preparo vídeos adaptados a cada plataforma para monetizar, con textos, hashtags y horario. Nada de API ni de publicar desde el navegador. Carruseles de Pepa en el muro (lunes y miércoles): los preparo yo y le enseño a publicarlos (c-carruseles-1 el 1/10 → pub-carruseles-1 el 2/10).
 
 **Why:** negocio real, calidad antes que cantidad, cumpliendo la política de «contenido no auténtico» de YouTube (se revisa a nivel de canal).
 **How to apply:** ver [[user-profile]]. Nunca poner tareas en fin de semana. Decidir yo lo editorial; al usuario, solo pasos prácticos muy detallados.

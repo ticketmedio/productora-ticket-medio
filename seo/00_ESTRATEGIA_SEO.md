@@ -74,7 +74,7 @@ Además, hoy ya no sirve para crecer. Seguir para que te sigan no mejora ninguna
   - Estrategia y rutina diaria automática (hecho).
   - Primer lote de carruseles de Pepa para el muro de Instagram y Facebook: 2 a la semana, lunes y miércoles, que no son días de Reel.
   - Publicaciones de comunidad en YouTube (encuestas del tipo «¿qué empresa abrimos la próxima semana?»). Hace falta tener activadas las funciones avanzadas de YouTube Studio, que se activan verificando el teléfono.
-- **Semana del 5/10:** conectar las **API oficiales**, para que Claude publique y responda comentarios él mismo sin saltarse ninguna norma.
+- **Semana del 5/10:** ~~API oficiales~~ descartado por el usuario (ver apartado 10).
   - YouTube Data API: responder comentarios, retocar títulos y descripciones, estadísticas exactas.
   - Meta Graph API: publicar carruseles en Facebook e Instagram y responder comentarios.
   - TikTok exige una auditoría de su API: allí se sigue programando a mano en lotes, como ahora.
@@ -151,15 +151,15 @@ Orden previsto de los primeros ingresos:
 3. YouTube.
 4. TikTok y marcas.
 
-## 10. Quién sube y programa (revisado el 30/09/2026)
+## 10. Quién sube y programa (DECIDIDO por el usuario el 30/09/2026)
 
-Claude NO sube vídeos manejando el navegador: las tres plataformas prohíben el acceso «por medios automatizados» y subir es la acción más vigilada. El paso al 100 % automático va por las API oficiales:
+**El usuario sube y programa todo a mano; Claude lo prepara todo**:
+- vídeos adaptados a cada plataforma para poder monetizarlos;
+- textos, etiquetas, hashtags y fecha y hora de publicación.
 
-| Plataforma | API oficial | Limitación | Plan |
-|---|---|---|---|
-| Facebook | Graph API: Reels y publicaciones en la página, con programación | App de Meta en modo desarrollo (vale para cuentas propias) | Tarea u-meta-api (5/10). Después, Claude publica y programa |
-| Instagram | Graph API: Reels y carruseles (máx. 90 s por Reel y 25 publicaciones al día) | **No admite programar**: se publica en el momento, y el ordenador tiene que estar encendido a esa hora | Publicar con una tarea de Windows a la hora elegida o pasar Instagram a horario de mañana. Se decide con los datos |
-| YouTube | Data API: subir, título, etiquetas, capítulos, programar (publishAt) | Proyecto sin auditar = los vídeos se quedan en privado. Hay que pedir la auditoría a Google (semanas) | Tarea u-youtube-api (6/10) y solicitud de auditoría. Mientras, sube el usuario con las fichas de Claude |
-| TikTok | Content Posting API | Sin auditoría, solo publica en privado (SELF_ONLY), y la auditoría es para empresas con app pública | Sigue a mano, en lotes quincenales |
+No se usan ni el navegador automatizado ni las API. Motivo: no arriesgar las cuentas, y subir le lleva poco tiempo. Claude solo LEE las estadísticas (rutina diaria).
 
-Fuentes: https://developers.google.com/youtube/v3/docs/videos/insert · https://developers.tiktok.com/docs/en/content-sharing-guidelines · https://postproxy.dev/how-to/schedule-instagram-reels/
+**Formato por plataforma:**
+- **YouTube:** vídeo largo + 3 Shorts por vídeo.
+- **Instagram y Facebook:** Reel de Pepa de 35–45 s + 2 carruseles a la semana (lunes y miércoles).
+- **TikTok:** versión de Pepa de 61–75 s desde el 019.

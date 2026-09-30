@@ -1020,7 +1020,7 @@
       "who": "tu",
       "kind": "publicacion",
       "project": "redes",
-      "status": "pendiente",
+      "status": "hecho",
       "platforms": [
         "Instagram"
       ],
@@ -1053,7 +1053,7 @@
       ],
       "createdAt": "2026-09-28T10:39:56.000Z",
       "createdBy": "claude",
-      "updatedAt": "2026-09-29T06:38:21.702Z"
+      "updatedAt": "2026-09-30T07:32:21.643Z"
     },
     {
       "id": "c-pepa-2-3",
