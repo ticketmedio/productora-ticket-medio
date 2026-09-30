@@ -143,11 +143,10 @@ El objetivo del proyecto es COBRAR EN TODAS LAS PLATAFORMAS. Cada decisión de f
 | Facebook | Invitación al programa de monetización | Reels todos los días que se pueda (hoy, 3 a la semana) y vídeos de más de 1 minuto; Facebook es donde Pepa ya llega a gente que no nos sigue |
 | Instagram | Regalos (500 seguidores), suscripciones (10.000) y marcas | Activar los regalos en cuanto lleguemos a 500; preparar un dosier para marcas a partir de 5.000 |
 | TikTok | 10.000 seguidores + 100.000 visualizaciones en 30 días + vídeos de más de 60 s | Versión de 61–75 s desde Pepa 019; más frecuencia (TikTok recomienda publicar a menudo) |
-| Todas, YA | **Enlaces de afiliado** (Amazon Afiliados España): no piden un mínimo de seguidores | Pepa: termómetro de nevera, tablas de cortar, táperes… Ticket Medio: libros sobre las empresas que contamos. Siempre avisando de que es un enlace de afiliado. Requiere que el usuario abra la cuenta (datos fiscales) |
+| Todas, desde 500 seguidores | **Enlaces de afiliado** (Amazon Afiliados España). Ayuda oficial: la página debe estar «consolidada» y tener «en la mayoría de los casos, al menos 500» seguidores orgánicos; tras el alta hay 180 días para conseguir 3 ventas, y solo entonces revisan la solicitud. NO darse de alta antes de los 500 (se gastaría el plazo) | Pepa: termómetro de nevera, tablas de cortar, táperes… Ticket Medio: libros sobre las empresas que contamos. Siempre avisando de que es un enlace de afiliado. Requiere que el usuario abra la cuenta (datos fiscales) |
 
 Orden previsto de los primeros ingresos:
-1. Afiliados, en semanas.
-2. Regalos de Instagram, con 500 seguidores.
-3. Invitación de Facebook.
-4. YouTube.
-5. TikTok y marcas.
+1. Afiliados y regalos de Instagram, en cuanto una cuenta llegue a 500 seguidores (fuente: https://afiliados.amazon.es/help/node/topic/G8TW5AE9XL2VX9VM).
+2. Invitación de Facebook.
+3. YouTube.
+4. TikTok y marcas.

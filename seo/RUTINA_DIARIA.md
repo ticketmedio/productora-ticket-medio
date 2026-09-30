@@ -14,3 +14,5 @@ Trabajas sin nadie delante. Todo en ESPAÑOL DE ESPAÑA. Lee antes seo/00_ESTRAT
 PROHIBIDO en esta rutina: seguir cuentas, dar «me gusta», comentar, publicar o cambiar nada en YouTube, Meta o TikTok desde el navegador. Solo leer.
 
 NOTA (30/09): los Reels de Instagram SÍ tienen su texto (lo confirmó el usuario); las estadísticas de Meta a veces no lo enseñan. No vuelvas a pedirle que lo ponga.
+
+AVISO DE HITO: si alguna cuenta (Facebook o Instagram de Pepa, YouTube o TikTok) llega a 450 seguidores o más, dilo en el resumen de la Sala con «🎯 HITO 500:» y crea en la Sala el aviso de que toca: (1) darse de alta en Amazon Afiliados España (el usuario, con sus datos fiscales; Claude le prepara los pasos) y (2) activar los regalos de Instagram al llegar a 500.
