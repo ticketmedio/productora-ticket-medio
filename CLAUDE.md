@@ -21,6 +21,7 @@ Si la memoria automática de Claude Code en este ordenador está vacía o es má
 - Ejecuta `python web/claude_sala.py novedades` y contesta a lo que haya escrito el usuario en la Sala de Producción.
 - Ejecuta `python herramientas/limpiar_publicados.py`: borra las carpetas de producción ya publicadas (guarda antes sus textos en `archivo/`). Cada vídeo nuevo que se programe se añade a `archivo/publicaciones.json` con su fecha de publicación. La carpeta `archivo/` no se borra nunca.
 - Si el usuario viene de otro ordenador («seguimos desde casa»), comprueba que las herramientas funcionan: `python -c "import PIL, numpy"`, `node --version`, `python herramientas/comun.py`, y que exista `herramientas/navegador`. Si falta algo, dile que ejecute `INSTALAR_EN_ESTE_ORDENADOR.bat`, o instálalo tú.
+- SEO (desde el 30/09): ejecuta la rutina de `seo/RUTINA_DIARIA.md` (estadísticas con `node herramientas/estadisticas.js`, informe en `privado/seo_diario/`, resumen en la Sala). LÍNEAS ROJAS: nunca seguir, dar «me gusta» ni comentar con el navegador automatizado (ver `seo/00_ESTRATEGIA_SEO.md`). La tarea programada de Windows (`seo/rutina_diaria.bat`) NO está activada: necesita la autorización expresa del usuario.
 - Si el usuario lo pide, vuelve a programar la revisión de la Sala cada 10 minutos con CronCreate.
 
 ## Reglas clave

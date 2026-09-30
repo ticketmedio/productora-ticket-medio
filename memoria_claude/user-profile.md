@@ -8,7 +8,7 @@ metadata:
   modified: 2026-09-25T11:24:05.071Z
 ---
 
-- Habla español (España). Responder siempre en español de España.
+- Habla español (España). Responder siempre en español de España. **TODO en español, sin excepción: también los avisos cortos entre herramientas** (30/09 se quejó con enfado: «te lo he dicho mil veces», tras varias frases sueltas en inglés).
 - NO sabe programar ni editar vídeo. Nunca decirle "ejecuta este código": ejecutarlo yo. Si necesito algo de él, explicarlo de forma extremadamente sencilla.
 - No aparece en cámara ni usa su voz.
 - Dispone de 1–2 h/día L–V. NO se trabaja sábados ni domingos: nunca poner tareas en fin de semana (lo que deba salir en fin de semana se programa el viernes). Presupuesto inicial mínimo; priorizar gratis.
