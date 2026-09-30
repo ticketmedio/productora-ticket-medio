@@ -48,3 +48,7 @@ desktop.ini
 
 # Cualquier audio (voces de prueba, locuciones, mezclas)
 *.mp3
+
+# ── Carpeta PRIVADA de Claude (30/09/2026): perfil del navegador con las sesiones
+# abiertas de YouTube Studio, Meta y TikTok Studio, y las estadísticas descargadas ──
+privado/
