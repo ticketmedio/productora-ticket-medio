@@ -1100,11 +1100,11 @@
       "platforms": [
         "YouTube"
       ],
-      "notes": "1. Abre el vídeo de Mercadona en YouTube (desde https://studio.youtube.com → «Contenido» → pulsa el título → «Ver en YouTube»). Comprueba antes el logo del ticket amarillo arriba a la derecha.\n2. Escribe como comentario el texto de:\n   Descargas › faceless › archivo › video_002_mercadona › COMENTARIO_FIJADO.txt\n3. Publícalo, pulsa los tres puntos de tu comentario → «Fijar» → «Fijar».\n4. Escribe «fijado» aquí.",
+      "notes": "1. Abre el vídeo de Mercadona en YouTube (desde https://studio.youtube.com → «Contenido» → pulsa el título → «Ver en YouTube»). Comprueba antes el logo del ticket amarillo arriba a la derecha.\n2. Escribe como comentario el texto de:\n   Descargas › faceless › archivo › video_002_mercadona › COMENTARIO_FIJADO.txt\n3. Publícalo, pulsa los tres puntos de tu comentario → «Fijar» → «Fijar».\n4. Escribe «fijado» aquí.\n\nLISTA DE COMPROBACIÓN (redes/LISTA_COMPROBACION.md), en CADA publicación antes de pasar a la siguiente:\n  ☐ Texto pegado entero (no vacío ni cortado)\n  ☐ Hashtags: 5 como máximo\n  ☐ Fecha y hora correctas (ojo al MES en Meta; que la hora no se quede en la actual)\n  ☐ Cuenta y archivo correctos (Pepa Pita o Ticket Medio; en TikTok, el archivo con TIKTOK en el nombre si lo hay)",
       "comentarios": [],
       "createdAt": "2026-09-28T10:39:56.000Z",
       "createdBy": "claude",
-      "updatedAt": "2026-09-28T12:18:46.000Z"
+      "updatedAt": "2026-09-30T12:55:22.000Z"
     },
     {
       "id": "c-video-3",
@@ -1228,7 +1228,7 @@
       "platforms": [
         "YouTube"
       ],
-      "notes": "Igual que con Mercadona: el texto estará en la carpeta output del vídeo 3 (COMENTARIO_FIJADO.txt).",
+      "notes": "Igual que con Mercadona: el texto estará en la carpeta output del vídeo 3 (COMENTARIO_FIJADO.txt).\n\nLISTA DE COMPROBACIÓN (redes/LISTA_COMPROBACION.md), en CADA publicación antes de pasar a la siguiente:\n  ☐ Texto pegado entero (no vacío ni cortado)\n  ☐ Hashtags: 5 como máximo\n  ☐ Fecha y hora correctas (ojo al MES en Meta; que la hora no se quede en la actual)\n  ☐ Cuenta y archivo correctos (Pepa Pita o Ticket Medio; en TikTok, el archivo con TIKTOK en el nombre si lo hay)",
       "comentarios": [
         {
           "id": "c-073556080642",
@@ -1239,7 +1239,7 @@
       ],
       "createdAt": "2026-09-28T10:39:56.000Z",
       "createdBy": "claude",
-      "updatedAt": "2026-09-28T12:18:46.000Z"
+      "updatedAt": "2026-09-30T12:55:22.000Z"
     },
     {
       "id": "u-fondos-v3",
@@ -1428,8 +1428,8 @@
         "YouTube",
         "Shorts"
       ],
-      "notes": "Vídeo 4: «El Corte Inglés gana 3 céntimos por euro. ¿Cómo sigue vivo?». Sale el viernes 16 de octubre a las 18:00. Unos 35 minutos.\nTodo estará en:  Descargas › faceless › youtube › video_004_corte_ingles › output.\n\n1. VER (10 min): abre FINAL_YOUTUBE_1080P.mp4 y los 3 SHORT_…mp4. Si algo se ve o se oye raro, dime el minuto aquí.\n\n2. SUBIR EL VÍDEO LARGO (studio.youtube.com; comprueba el logo del ticket amarillo arriba a la derecha):\n   «CREAR» → «Subir vídeos» → FINAL_YOUTUBE_1080P.mp4\n   · Título: el primero de 07_TITULOS.md (el marcado como ELEGIDO).\n   · Descripción: todo 08_DESCRIPCION.txt (Ctrl+E, Ctrl+C, Ctrl+V).\n   · Miniatura: output › MINIATURA_1280x720.png\n   · No es contenido para niños.\n   · «Mostrar más» (en este orden): Contenido alterado o sintético «No» · Etiquetas (vienen al final de 07_TITULOS.md) · Idioma Español (España) · Subtítulos: «Subir archivo» → «Con sincronización» → 06_SUBTITULOS.srt · Categoría Educación.\n   · Elementos: pantalla final «1 vídeo, 1 suscripción» (vídeo más reciente).\n   · Visibilidad: «Programar» → viernes 16 de octubre, 18:00.\n\n3. LOS 3 SHORTS («CREAR» → «Subir vídeos», uno a uno; títulos y descripciones en output › SHORTS_TEXTOS.txt):\n   No son para niños · Contenido alterado «No» · Idioma Español (España) · Categoría Educación · sin archivo de subtítulos.\n   Programar: SHORT_01 → sábado 17 de octubre 13:00 · SHORT_02 → lunes 19 de octubre 13:00 · SHORT_03 → miércoles 21 de octubre 13:00.\n\n4. Escribe «programado» aquí.",
-      "updatedAt": "2026-09-29T13:51:43.000Z",
+      "notes": "Vídeo 4: «El Corte Inglés gana 3 céntimos por euro. ¿Cómo sigue vivo?». Sale el viernes 16 de octubre a las 18:00. Unos 35 minutos.\nTodo estará en:  Descargas › faceless › youtube › video_004_corte_ingles › output.\n\n1. VER (10 min): abre FINAL_YOUTUBE_1080P.mp4 y los 3 SHORT_…mp4. Si algo se ve o se oye raro, dime el minuto aquí.\n\n2. SUBIR EL VÍDEO LARGO (studio.youtube.com; comprueba el logo del ticket amarillo arriba a la derecha):\n   «CREAR» → «Subir vídeos» → FINAL_YOUTUBE_1080P.mp4\n   · Título: el primero de 07_TITULOS.md (el marcado como ELEGIDO).\n   · Descripción: todo 08_DESCRIPCION.txt (Ctrl+E, Ctrl+C, Ctrl+V).\n   · Miniatura: output › MINIATURA_1280x720.png\n   · No es contenido para niños.\n   · «Mostrar más» (en este orden): Contenido alterado o sintético «No» · Etiquetas (vienen al final de 07_TITULOS.md) · Idioma Español (España) · Subtítulos: «Subir archivo» → «Con sincronización» → 06_SUBTITULOS.srt · Categoría Educación.\n   · Elementos: pantalla final «1 vídeo, 1 suscripción» (vídeo más reciente).\n   · Visibilidad: «Programar» → viernes 16 de octubre, 18:00.\n\n3. LOS 3 SHORTS («CREAR» → «Subir vídeos», uno a uno; títulos y descripciones en output › SHORTS_TEXTOS.txt):\n   No son para niños · Contenido alterado «No» · Idioma Español (España) · Categoría Educación · sin archivo de subtítulos.\n   Programar: SHORT_01 → sábado 17 de octubre 13:00 · SHORT_02 → lunes 19 de octubre 13:00 · SHORT_03 → miércoles 21 de octubre 13:00.\n\n4. Escribe «programado» aquí.\n\nLISTA DE COMPROBACIÓN (redes/LISTA_COMPROBACION.md), en CADA publicación antes de pasar a la siguiente:\n  ☐ Texto pegado entero (no vacío ni cortado)\n  ☐ Hashtags: 5 como máximo\n  ☐ Fecha y hora correctas (ojo al MES en Meta; que la hora no se quede en la actual)\n  ☐ Cuenta y archivo correctos (Pepa Pita o Ticket Medio; en TikTok, el archivo con TIKTOK en el nombre si lo hay)",
+      "updatedAt": "2026-09-30T12:55:22.000Z",
       "status": "pendiente",
       "comentarios": [
         {
@@ -1452,8 +1452,8 @@
       "platforms": [
         "YouTube"
       ],
-      "notes": "Abre el vídeo ya publicado (studio.youtube.com → «Contenido» → título → «Ver en YouTube»), pega como comentario el texto de Descargas › faceless › archivo › video_004_corte_ingles › COMENTARIO_FIJADO.txt, publícalo y en sus tres puntos → «Fijar».",
-      "updatedAt": "2026-09-29T13:51:43.000Z",
+      "notes": "Abre el vídeo ya publicado (studio.youtube.com → «Contenido» → título → «Ver en YouTube»), pega como comentario el texto de Descargas › faceless › archivo › video_004_corte_ingles › COMENTARIO_FIJADO.txt, publícalo y en sus tres puntos → «Fijar».\n\nLISTA DE COMPROBACIÓN (redes/LISTA_COMPROBACION.md), en CADA publicación antes de pasar a la siguiente:\n  ☐ Texto pegado entero (no vacío ni cortado)\n  ☐ Hashtags: 5 como máximo\n  ☐ Fecha y hora correctas (ojo al MES en Meta; que la hora no se quede en la actual)\n  ☐ Cuenta y archivo correctos (Pepa Pita o Ticket Medio; en TikTok, el archivo con TIKTOK en el nombre si lo hay)",
+      "updatedAt": "2026-09-30T12:55:22.000Z",
       "status": "pendiente",
       "comentarios": [],
       "createdAt": "2026-09-28T13:02:28.000Z",
@@ -1500,8 +1500,8 @@
         "YouTube",
         "Shorts"
       ],
-      "notes": "Vídeo 5: «Lidl: el súper que más crece en España». Sale el viernes 23 de octubre a las 18:00. Unos 35 minutos.\nTodo estará en:  Descargas › faceless › youtube › video_005_… › output  (te confirmo la carpeta exacta en los comentarios cuando esté listo).\n\n1. VER (10 min): abre FINAL_YOUTUBE_1080P.mp4 y los 3 SHORT_…mp4. Si algo se ve o se oye raro, dime el minuto aquí.\n\n2. SUBIR EL VÍDEO LARGO (studio.youtube.com; comprueba el logo del ticket amarillo arriba a la derecha):\n   «CREAR» → «Subir vídeos» → FINAL_YOUTUBE_1080P.mp4\n   · Título: el primero de 07_TITULOS.md (el marcado como ELEGIDO).\n   · Descripción: todo 08_DESCRIPCION.txt (Ctrl+E, Ctrl+C, Ctrl+V).\n   · Miniatura: output › MINIATURA_1280x720.png\n   · No es contenido para niños.\n   · «Mostrar más» (en este orden): Contenido alterado o sintético «No» · Etiquetas (vienen al final de 07_TITULOS.md) · Idioma Español (España) · Subtítulos: «Subir archivo» → «Con sincronización» → 06_SUBTITULOS.srt · Categoría Educación.\n   · Elementos: pantalla final «1 vídeo, 1 suscripción» (vídeo más reciente).\n   · Visibilidad: «Programar» → viernes 23 de octubre, 18:00.\n\n3. LOS 3 SHORTS («CREAR» → «Subir vídeos», uno a uno; títulos y descripciones en output › SHORTS_TEXTOS.txt):\n   No son para niños · Contenido alterado «No» · Idioma Español (España) · Categoría Educación · sin archivo de subtítulos.\n   Programar: SHORT_01 → sábado 24 de octubre 13:00 · SHORT_02 → lunes 26 de octubre 13:00 · SHORT_03 → miércoles 28 de octubre 13:00.\n\n4. Escribe «programado» aquí.",
-      "updatedAt": "2026-09-28T13:02:28.000Z",
+      "notes": "Vídeo 5: «Lidl: el súper que más crece en España». Sale el viernes 23 de octubre a las 18:00. Unos 35 minutos.\nTodo estará en:  Descargas › faceless › youtube › video_005_… › output  (te confirmo la carpeta exacta en los comentarios cuando esté listo).\n\n1. VER (10 min): abre FINAL_YOUTUBE_1080P.mp4 y los 3 SHORT_…mp4. Si algo se ve o se oye raro, dime el minuto aquí.\n\n2. SUBIR EL VÍDEO LARGO (studio.youtube.com; comprueba el logo del ticket amarillo arriba a la derecha):\n   «CREAR» → «Subir vídeos» → FINAL_YOUTUBE_1080P.mp4\n   · Título: el primero de 07_TITULOS.md (el marcado como ELEGIDO).\n   · Descripción: todo 08_DESCRIPCION.txt (Ctrl+E, Ctrl+C, Ctrl+V).\n   · Miniatura: output › MINIATURA_1280x720.png\n   · No es contenido para niños.\n   · «Mostrar más» (en este orden): Contenido alterado o sintético «No» · Etiquetas (vienen al final de 07_TITULOS.md) · Idioma Español (España) · Subtítulos: «Subir archivo» → «Con sincronización» → 06_SUBTITULOS.srt · Categoría Educación.\n   · Elementos: pantalla final «1 vídeo, 1 suscripción» (vídeo más reciente).\n   · Visibilidad: «Programar» → viernes 23 de octubre, 18:00.\n\n3. LOS 3 SHORTS («CREAR» → «Subir vídeos», uno a uno; títulos y descripciones en output › SHORTS_TEXTOS.txt):\n   No son para niños · Contenido alterado «No» · Idioma Español (España) · Categoría Educación · sin archivo de subtítulos.\n   Programar: SHORT_01 → sábado 24 de octubre 13:00 · SHORT_02 → lunes 26 de octubre 13:00 · SHORT_03 → miércoles 28 de octubre 13:00.\n\n4. Escribe «programado» aquí.\n\nLISTA DE COMPROBACIÓN (redes/LISTA_COMPROBACION.md), en CADA publicación antes de pasar a la siguiente:\n  ☐ Texto pegado entero (no vacío ni cortado)\n  ☐ Hashtags: 5 como máximo\n  ☐ Fecha y hora correctas (ojo al MES en Meta; que la hora no se quede en la actual)\n  ☐ Cuenta y archivo correctos (Pepa Pita o Ticket Medio; en TikTok, el archivo con TIKTOK en el nombre si lo hay)",
+      "updatedAt": "2026-09-30T12:55:22.000Z",
       "status": "pendiente",
       "comentarios": [],
       "createdAt": "2026-09-28T13:02:28.000Z",
@@ -1517,8 +1517,8 @@
       "platforms": [
         "YouTube"
       ],
-      "notes": "Abre el vídeo ya publicado (studio.youtube.com → «Contenido» → título → «Ver en YouTube»), pega como comentario el texto de Descargas › faceless › archivo › video_0XX… › COMENTARIO_FIJADO.txt, publícalo y en sus tres puntos → «Fijar».",
-      "updatedAt": "2026-09-28T13:02:28.000Z",
+      "notes": "Abre el vídeo ya publicado (studio.youtube.com → «Contenido» → título → «Ver en YouTube»), pega como comentario el texto de Descargas › faceless › archivo › video_0XX… › COMENTARIO_FIJADO.txt, publícalo y en sus tres puntos → «Fijar».\n\nLISTA DE COMPROBACIÓN (redes/LISTA_COMPROBACION.md), en CADA publicación antes de pasar a la siguiente:\n  ☐ Texto pegado entero (no vacío ni cortado)\n  ☐ Hashtags: 5 como máximo\n  ☐ Fecha y hora correctas (ojo al MES en Meta; que la hora no se quede en la actual)\n  ☐ Cuenta y archivo correctos (Pepa Pita o Ticket Medio; en TikTok, el archivo con TIKTOK en el nombre si lo hay)",
+      "updatedAt": "2026-09-30T12:55:22.000Z",
       "status": "pendiente",
       "comentarios": [],
       "createdAt": "2026-09-28T13:02:28.000Z",
@@ -1565,8 +1565,8 @@
         "YouTube",
         "Shorts"
       ],
-      "notes": "Vídeo 6: «La factura de la luz: ¿dónde va cada euro?». Sale el viernes 30 de octubre a las 18:00. Unos 35 minutos.\nTodo estará en:  Descargas › faceless › youtube › video_006_… › output  (te confirmo la carpeta exacta en los comentarios cuando esté listo).\n\n1. VER (10 min): abre FINAL_YOUTUBE_1080P.mp4 y los 3 SHORT_…mp4. Si algo se ve o se oye raro, dime el minuto aquí.\n\n2. SUBIR EL VÍDEO LARGO (studio.youtube.com; comprueba el logo del ticket amarillo arriba a la derecha):\n   «CREAR» → «Subir vídeos» → FINAL_YOUTUBE_1080P.mp4\n   · Título: el primero de 07_TITULOS.md (el marcado como ELEGIDO).\n   · Descripción: todo 08_DESCRIPCION.txt (Ctrl+E, Ctrl+C, Ctrl+V).\n   · Miniatura: output › MINIATURA_1280x720.png\n   · No es contenido para niños.\n   · «Mostrar más» (en este orden): Contenido alterado o sintético «No» · Etiquetas (vienen al final de 07_TITULOS.md) · Idioma Español (España) · Subtítulos: «Subir archivo» → «Con sincronización» → 06_SUBTITULOS.srt · Categoría Educación.\n   · Elementos: pantalla final «1 vídeo, 1 suscripción» (vídeo más reciente).\n   · Visibilidad: «Programar» → viernes 30 de octubre, 18:00.\n\n3. LOS 3 SHORTS («CREAR» → «Subir vídeos», uno a uno; títulos y descripciones en output › SHORTS_TEXTOS.txt):\n   No son para niños · Contenido alterado «No» · Idioma Español (España) · Categoría Educación · sin archivo de subtítulos.\n   Programar: SHORT_01 → sábado 31 de octubre 13:00 · SHORT_02 → lunes 2 de noviembre 13:00 · SHORT_03 → miércoles 4 de noviembre 13:00.\n\n4. Escribe «programado» aquí.",
-      "updatedAt": "2026-09-28T13:02:28.000Z",
+      "notes": "Vídeo 6: «La factura de la luz: ¿dónde va cada euro?». Sale el viernes 30 de octubre a las 18:00. Unos 35 minutos.\nTodo estará en:  Descargas › faceless › youtube › video_006_… › output  (te confirmo la carpeta exacta en los comentarios cuando esté listo).\n\n1. VER (10 min): abre FINAL_YOUTUBE_1080P.mp4 y los 3 SHORT_…mp4. Si algo se ve o se oye raro, dime el minuto aquí.\n\n2. SUBIR EL VÍDEO LARGO (studio.youtube.com; comprueba el logo del ticket amarillo arriba a la derecha):\n   «CREAR» → «Subir vídeos» → FINAL_YOUTUBE_1080P.mp4\n   · Título: el primero de 07_TITULOS.md (el marcado como ELEGIDO).\n   · Descripción: todo 08_DESCRIPCION.txt (Ctrl+E, Ctrl+C, Ctrl+V).\n   · Miniatura: output › MINIATURA_1280x720.png\n   · No es contenido para niños.\n   · «Mostrar más» (en este orden): Contenido alterado o sintético «No» · Etiquetas (vienen al final de 07_TITULOS.md) · Idioma Español (España) · Subtítulos: «Subir archivo» → «Con sincronización» → 06_SUBTITULOS.srt · Categoría Educación.\n   · Elementos: pantalla final «1 vídeo, 1 suscripción» (vídeo más reciente).\n   · Visibilidad: «Programar» → viernes 30 de octubre, 18:00.\n\n3. LOS 3 SHORTS («CREAR» → «Subir vídeos», uno a uno; títulos y descripciones en output › SHORTS_TEXTOS.txt):\n   No son para niños · Contenido alterado «No» · Idioma Español (España) · Categoría Educación · sin archivo de subtítulos.\n   Programar: SHORT_01 → sábado 31 de octubre 13:00 · SHORT_02 → lunes 2 de noviembre 13:00 · SHORT_03 → miércoles 4 de noviembre 13:00.\n\n4. Escribe «programado» aquí.\n\nLISTA DE COMPROBACIÓN (redes/LISTA_COMPROBACION.md), en CADA publicación antes de pasar a la siguiente:\n  ☐ Texto pegado entero (no vacío ni cortado)\n  ☐ Hashtags: 5 como máximo\n  ☐ Fecha y hora correctas (ojo al MES en Meta; que la hora no se quede en la actual)\n  ☐ Cuenta y archivo correctos (Pepa Pita o Ticket Medio; en TikTok, el archivo con TIKTOK en el nombre si lo hay)",
+      "updatedAt": "2026-09-30T12:55:22.000Z",
       "status": "pendiente",
       "comentarios": [],
       "createdAt": "2026-09-28T13:02:28.000Z",
@@ -1582,8 +1582,8 @@
       "platforms": [
         "YouTube"
       ],
-      "notes": "Abre el vídeo ya publicado (studio.youtube.com → «Contenido» → título → «Ver en YouTube»), pega como comentario el texto de Descargas › faceless › archivo › video_0XX… › COMENTARIO_FIJADO.txt, publícalo y en sus tres puntos → «Fijar».",
-      "updatedAt": "2026-09-28T13:02:28.000Z",
+      "notes": "Abre el vídeo ya publicado (studio.youtube.com → «Contenido» → título → «Ver en YouTube»), pega como comentario el texto de Descargas › faceless › archivo › video_0XX… › COMENTARIO_FIJADO.txt, publícalo y en sus tres puntos → «Fijar».\n\nLISTA DE COMPROBACIÓN (redes/LISTA_COMPROBACION.md), en CADA publicación antes de pasar a la siguiente:\n  ☐ Texto pegado entero (no vacío ni cortado)\n  ☐ Hashtags: 5 como máximo\n  ☐ Fecha y hora correctas (ojo al MES en Meta; que la hora no se quede en la actual)\n  ☐ Cuenta y archivo correctos (Pepa Pita o Ticket Medio; en TikTok, el archivo con TIKTOK en el nombre si lo hay)",
+      "updatedAt": "2026-09-30T12:55:22.000Z",
       "status": "pendiente",
       "comentarios": [],
       "createdAt": "2026-09-28T13:02:28.000Z",
@@ -1630,8 +1630,8 @@
         "YouTube",
         "Shorts"
       ],
-      "notes": "Vídeo 7: «Ryanair: cómo gana dinero con vuelos a 10 €». Sale el viernes 6 de noviembre a las 18:00. Unos 35 minutos.\nTodo estará en:  Descargas › faceless › youtube › video_007_… › output  (te confirmo la carpeta exacta en los comentarios cuando esté listo).\n\n1. VER (10 min): abre FINAL_YOUTUBE_1080P.mp4 y los 3 SHORT_…mp4. Si algo se ve o se oye raro, dime el minuto aquí.\n\n2. SUBIR EL VÍDEO LARGO (studio.youtube.com; comprueba el logo del ticket amarillo arriba a la derecha):\n   «CREAR» → «Subir vídeos» → FINAL_YOUTUBE_1080P.mp4\n   · Título: el primero de 07_TITULOS.md (el marcado como ELEGIDO).\n   · Descripción: todo 08_DESCRIPCION.txt (Ctrl+E, Ctrl+C, Ctrl+V).\n   · Miniatura: output › MINIATURA_1280x720.png\n   · No es contenido para niños.\n   · «Mostrar más» (en este orden): Contenido alterado o sintético «No» · Etiquetas (vienen al final de 07_TITULOS.md) · Idioma Español (España) · Subtítulos: «Subir archivo» → «Con sincronización» → 06_SUBTITULOS.srt · Categoría Educación.\n   · Elementos: pantalla final «1 vídeo, 1 suscripción» (vídeo más reciente).\n   · Visibilidad: «Programar» → viernes 6 de noviembre, 18:00.\n\n3. LOS 3 SHORTS («CREAR» → «Subir vídeos», uno a uno; títulos y descripciones en output › SHORTS_TEXTOS.txt):\n   No son para niños · Contenido alterado «No» · Idioma Español (España) · Categoría Educación · sin archivo de subtítulos.\n   Programar: SHORT_01 → sábado 7 de noviembre 13:00 · SHORT_02 → lunes 9 de noviembre 13:00 · SHORT_03 → miércoles 11 de noviembre 13:00.\n\n4. Escribe «programado» aquí.",
-      "updatedAt": "2026-09-28T13:02:28.000Z",
+      "notes": "Vídeo 7: «Ryanair: cómo gana dinero con vuelos a 10 €». Sale el viernes 6 de noviembre a las 18:00. Unos 35 minutos.\nTodo estará en:  Descargas › faceless › youtube › video_007_… › output  (te confirmo la carpeta exacta en los comentarios cuando esté listo).\n\n1. VER (10 min): abre FINAL_YOUTUBE_1080P.mp4 y los 3 SHORT_…mp4. Si algo se ve o se oye raro, dime el minuto aquí.\n\n2. SUBIR EL VÍDEO LARGO (studio.youtube.com; comprueba el logo del ticket amarillo arriba a la derecha):\n   «CREAR» → «Subir vídeos» → FINAL_YOUTUBE_1080P.mp4\n   · Título: el primero de 07_TITULOS.md (el marcado como ELEGIDO).\n   · Descripción: todo 08_DESCRIPCION.txt (Ctrl+E, Ctrl+C, Ctrl+V).\n   · Miniatura: output › MINIATURA_1280x720.png\n   · No es contenido para niños.\n   · «Mostrar más» (en este orden): Contenido alterado o sintético «No» · Etiquetas (vienen al final de 07_TITULOS.md) · Idioma Español (España) · Subtítulos: «Subir archivo» → «Con sincronización» → 06_SUBTITULOS.srt · Categoría Educación.\n   · Elementos: pantalla final «1 vídeo, 1 suscripción» (vídeo más reciente).\n   · Visibilidad: «Programar» → viernes 6 de noviembre, 18:00.\n\n3. LOS 3 SHORTS («CREAR» → «Subir vídeos», uno a uno; títulos y descripciones en output › SHORTS_TEXTOS.txt):\n   No son para niños · Contenido alterado «No» · Idioma Español (España) · Categoría Educación · sin archivo de subtítulos.\n   Programar: SHORT_01 → sábado 7 de noviembre 13:00 · SHORT_02 → lunes 9 de noviembre 13:00 · SHORT_03 → miércoles 11 de noviembre 13:00.\n\n4. Escribe «programado» aquí.\n\nLISTA DE COMPROBACIÓN (redes/LISTA_COMPROBACION.md), en CADA publicación antes de pasar a la siguiente:\n  ☐ Texto pegado entero (no vacío ni cortado)\n  ☐ Hashtags: 5 como máximo\n  ☐ Fecha y hora correctas (ojo al MES en Meta; que la hora no se quede en la actual)\n  ☐ Cuenta y archivo correctos (Pepa Pita o Ticket Medio; en TikTok, el archivo con TIKTOK en el nombre si lo hay)",
+      "updatedAt": "2026-09-30T12:55:22.000Z",
       "status": "pendiente",
       "comentarios": [],
       "createdAt": "2026-09-28T13:02:28.000Z",
@@ -1647,8 +1647,8 @@
       "platforms": [
         "YouTube"
       ],
-      "notes": "Abre el vídeo ya publicado (studio.youtube.com → «Contenido» → título → «Ver en YouTube»), pega como comentario el texto de Descargas › faceless › archivo › video_0XX… › COMENTARIO_FIJADO.txt, publícalo y en sus tres puntos → «Fijar».",
-      "updatedAt": "2026-09-28T13:02:28.000Z",
+      "notes": "Abre el vídeo ya publicado (studio.youtube.com → «Contenido» → título → «Ver en YouTube»), pega como comentario el texto de Descargas › faceless › archivo › video_0XX… › COMENTARIO_FIJADO.txt, publícalo y en sus tres puntos → «Fijar».\n\nLISTA DE COMPROBACIÓN (redes/LISTA_COMPROBACION.md), en CADA publicación antes de pasar a la siguiente:\n  ☐ Texto pegado entero (no vacío ni cortado)\n  ☐ Hashtags: 5 como máximo\n  ☐ Fecha y hora correctas (ojo al MES en Meta; que la hora no se quede en la actual)\n  ☐ Cuenta y archivo correctos (Pepa Pita o Ticket Medio; en TikTok, el archivo con TIKTOK en el nombre si lo hay)",
+      "updatedAt": "2026-09-30T12:55:22.000Z",
       "status": "pendiente",
       "comentarios": [],
       "createdAt": "2026-09-28T13:02:28.000Z",
@@ -1695,8 +1695,8 @@
         "YouTube",
         "Shorts"
       ],
-      "notes": "Vídeo 8: «¿Qué pasa con lo que devuelves a Amazon?». Sale el viernes 13 de noviembre a las 18:00. Unos 35 minutos.\nTodo estará en:  Descargas › faceless › youtube › video_008_… › output  (te confirmo la carpeta exacta en los comentarios cuando esté listo).\n\n1. VER (10 min): abre FINAL_YOUTUBE_1080P.mp4 y los 3 SHORT_…mp4. Si algo se ve o se oye raro, dime el minuto aquí.\n\n2. SUBIR EL VÍDEO LARGO (studio.youtube.com; comprueba el logo del ticket amarillo arriba a la derecha):\n   «CREAR» → «Subir vídeos» → FINAL_YOUTUBE_1080P.mp4\n   · Título: el primero de 07_TITULOS.md (el marcado como ELEGIDO).\n   · Descripción: todo 08_DESCRIPCION.txt (Ctrl+E, Ctrl+C, Ctrl+V).\n   · Miniatura: output › MINIATURA_1280x720.png\n   · No es contenido para niños.\n   · «Mostrar más» (en este orden): Contenido alterado o sintético «No» · Etiquetas (vienen al final de 07_TITULOS.md) · Idioma Español (España) · Subtítulos: «Subir archivo» → «Con sincronización» → 06_SUBTITULOS.srt · Categoría Educación.\n   · Elementos: pantalla final «1 vídeo, 1 suscripción» (vídeo más reciente).\n   · Visibilidad: «Programar» → viernes 13 de noviembre, 18:00.\n\n3. LOS 3 SHORTS («CREAR» → «Subir vídeos», uno a uno; títulos y descripciones en output › SHORTS_TEXTOS.txt):\n   No son para niños · Contenido alterado «No» · Idioma Español (España) · Categoría Educación · sin archivo de subtítulos.\n   Programar: SHORT_01 → sábado 14 de noviembre 13:00 · SHORT_02 → lunes 16 de noviembre 13:00 · SHORT_03 → miércoles 18 de noviembre 13:00.\n\n4. Escribe «programado» aquí.",
-      "updatedAt": "2026-09-28T13:02:28.000Z",
+      "notes": "Vídeo 8: «¿Qué pasa con lo que devuelves a Amazon?». Sale el viernes 13 de noviembre a las 18:00. Unos 35 minutos.\nTodo estará en:  Descargas › faceless › youtube › video_008_… › output  (te confirmo la carpeta exacta en los comentarios cuando esté listo).\n\n1. VER (10 min): abre FINAL_YOUTUBE_1080P.mp4 y los 3 SHORT_…mp4. Si algo se ve o se oye raro, dime el minuto aquí.\n\n2. SUBIR EL VÍDEO LARGO (studio.youtube.com; comprueba el logo del ticket amarillo arriba a la derecha):\n   «CREAR» → «Subir vídeos» → FINAL_YOUTUBE_1080P.mp4\n   · Título: el primero de 07_TITULOS.md (el marcado como ELEGIDO).\n   · Descripción: todo 08_DESCRIPCION.txt (Ctrl+E, Ctrl+C, Ctrl+V).\n   · Miniatura: output › MINIATURA_1280x720.png\n   · No es contenido para niños.\n   · «Mostrar más» (en este orden): Contenido alterado o sintético «No» · Etiquetas (vienen al final de 07_TITULOS.md) · Idioma Español (España) · Subtítulos: «Subir archivo» → «Con sincronización» → 06_SUBTITULOS.srt · Categoría Educación.\n   · Elementos: pantalla final «1 vídeo, 1 suscripción» (vídeo más reciente).\n   · Visibilidad: «Programar» → viernes 13 de noviembre, 18:00.\n\n3. LOS 3 SHORTS («CREAR» → «Subir vídeos», uno a uno; títulos y descripciones en output › SHORTS_TEXTOS.txt):\n   No son para niños · Contenido alterado «No» · Idioma Español (España) · Categoría Educación · sin archivo de subtítulos.\n   Programar: SHORT_01 → sábado 14 de noviembre 13:00 · SHORT_02 → lunes 16 de noviembre 13:00 · SHORT_03 → miércoles 18 de noviembre 13:00.\n\n4. Escribe «programado» aquí.\n\nLISTA DE COMPROBACIÓN (redes/LISTA_COMPROBACION.md), en CADA publicación antes de pasar a la siguiente:\n  ☐ Texto pegado entero (no vacío ni cortado)\n  ☐ Hashtags: 5 como máximo\n  ☐ Fecha y hora correctas (ojo al MES en Meta; que la hora no se quede en la actual)\n  ☐ Cuenta y archivo correctos (Pepa Pita o Ticket Medio; en TikTok, el archivo con TIKTOK en el nombre si lo hay)",
+      "updatedAt": "2026-09-30T12:55:22.000Z",
       "status": "pendiente",
       "comentarios": [],
       "createdAt": "2026-09-28T13:02:28.000Z",
@@ -1712,8 +1712,8 @@
       "platforms": [
         "YouTube"
       ],
-      "notes": "Abre el vídeo ya publicado (studio.youtube.com → «Contenido» → título → «Ver en YouTube»), pega como comentario el texto de Descargas › faceless › archivo › video_0XX… › COMENTARIO_FIJADO.txt, publícalo y en sus tres puntos → «Fijar».",
-      "updatedAt": "2026-09-28T13:02:28.000Z",
+      "notes": "Abre el vídeo ya publicado (studio.youtube.com → «Contenido» → título → «Ver en YouTube»), pega como comentario el texto de Descargas › faceless › archivo › video_0XX… › COMENTARIO_FIJADO.txt, publícalo y en sus tres puntos → «Fijar».\n\nLISTA DE COMPROBACIÓN (redes/LISTA_COMPROBACION.md), en CADA publicación antes de pasar a la siguiente:\n  ☐ Texto pegado entero (no vacío ni cortado)\n  ☐ Hashtags: 5 como máximo\n  ☐ Fecha y hora correctas (ojo al MES en Meta; que la hora no se quede en la actual)\n  ☐ Cuenta y archivo correctos (Pepa Pita o Ticket Medio; en TikTok, el archivo con TIKTOK en el nombre si lo hay)",
+      "updatedAt": "2026-09-30T12:55:22.000Z",
       "status": "pendiente",
       "comentarios": [],
       "createdAt": "2026-09-28T13:02:28.000Z",
@@ -1760,8 +1760,8 @@
         "YouTube",
         "Shorts"
       ],
-      "notes": "Vídeo 9: «Black Friday: ¿de verdad es más barato?». Sale el viernes 20 de noviembre a las 18:00. Unos 35 minutos.\nTodo estará en:  Descargas › faceless › youtube › video_009_… › output  (te confirmo la carpeta exacta en los comentarios cuando esté listo).\n\n1. VER (10 min): abre FINAL_YOUTUBE_1080P.mp4 y los 3 SHORT_…mp4. Si algo se ve o se oye raro, dime el minuto aquí.\n\n2. SUBIR EL VÍDEO LARGO (studio.youtube.com; comprueba el logo del ticket amarillo arriba a la derecha):\n   «CREAR» → «Subir vídeos» → FINAL_YOUTUBE_1080P.mp4\n   · Título: el primero de 07_TITULOS.md (el marcado como ELEGIDO).\n   · Descripción: todo 08_DESCRIPCION.txt (Ctrl+E, Ctrl+C, Ctrl+V).\n   · Miniatura: output › MINIATURA_1280x720.png\n   · No es contenido para niños.\n   · «Mostrar más» (en este orden): Contenido alterado o sintético «No» · Etiquetas (vienen al final de 07_TITULOS.md) · Idioma Español (España) · Subtítulos: «Subir archivo» → «Con sincronización» → 06_SUBTITULOS.srt · Categoría Educación.\n   · Elementos: pantalla final «1 vídeo, 1 suscripción» (vídeo más reciente).\n   · Visibilidad: «Programar» → viernes 20 de noviembre, 18:00.\n\n3. LOS 3 SHORTS («CREAR» → «Subir vídeos», uno a uno; títulos y descripciones en output › SHORTS_TEXTOS.txt):\n   No son para niños · Contenido alterado «No» · Idioma Español (España) · Categoría Educación · sin archivo de subtítulos.\n   Programar: SHORT_01 → sábado 21 de noviembre 13:00 · SHORT_02 → lunes 23 de noviembre 13:00 · SHORT_03 → miércoles 25 de noviembre 13:00.\n\n4. Escribe «programado» aquí.",
-      "updatedAt": "2026-09-28T13:02:28.000Z",
+      "notes": "Vídeo 9: «Black Friday: ¿de verdad es más barato?». Sale el viernes 20 de noviembre a las 18:00. Unos 35 minutos.\nTodo estará en:  Descargas › faceless › youtube › video_009_… › output  (te confirmo la carpeta exacta en los comentarios cuando esté listo).\n\n1. VER (10 min): abre FINAL_YOUTUBE_1080P.mp4 y los 3 SHORT_…mp4. Si algo se ve o se oye raro, dime el minuto aquí.\n\n2. SUBIR EL VÍDEO LARGO (studio.youtube.com; comprueba el logo del ticket amarillo arriba a la derecha):\n   «CREAR» → «Subir vídeos» → FINAL_YOUTUBE_1080P.mp4\n   · Título: el primero de 07_TITULOS.md (el marcado como ELEGIDO).\n   · Descripción: todo 08_DESCRIPCION.txt (Ctrl+E, Ctrl+C, Ctrl+V).\n   · Miniatura: output › MINIATURA_1280x720.png\n   · No es contenido para niños.\n   · «Mostrar más» (en este orden): Contenido alterado o sintético «No» · Etiquetas (vienen al final de 07_TITULOS.md) · Idioma Español (España) · Subtítulos: «Subir archivo» → «Con sincronización» → 06_SUBTITULOS.srt · Categoría Educación.\n   · Elementos: pantalla final «1 vídeo, 1 suscripción» (vídeo más reciente).\n   · Visibilidad: «Programar» → viernes 20 de noviembre, 18:00.\n\n3. LOS 3 SHORTS («CREAR» → «Subir vídeos», uno a uno; títulos y descripciones en output › SHORTS_TEXTOS.txt):\n   No son para niños · Contenido alterado «No» · Idioma Español (España) · Categoría Educación · sin archivo de subtítulos.\n   Programar: SHORT_01 → sábado 21 de noviembre 13:00 · SHORT_02 → lunes 23 de noviembre 13:00 · SHORT_03 → miércoles 25 de noviembre 13:00.\n\n4. Escribe «programado» aquí.\n\nLISTA DE COMPROBACIÓN (redes/LISTA_COMPROBACION.md), en CADA publicación antes de pasar a la siguiente:\n  ☐ Texto pegado entero (no vacío ni cortado)\n  ☐ Hashtags: 5 como máximo\n  ☐ Fecha y hora correctas (ojo al MES en Meta; que la hora no se quede en la actual)\n  ☐ Cuenta y archivo correctos (Pepa Pita o Ticket Medio; en TikTok, el archivo con TIKTOK en el nombre si lo hay)",
+      "updatedAt": "2026-09-30T12:55:22.000Z",
       "status": "pendiente",
       "comentarios": [],
       "createdAt": "2026-09-28T13:02:28.000Z",
@@ -1777,8 +1777,8 @@
       "platforms": [
         "YouTube"
       ],
-      "notes": "Abre el vídeo ya publicado (studio.youtube.com → «Contenido» → título → «Ver en YouTube»), pega como comentario el texto de Descargas › faceless › archivo › video_0XX… › COMENTARIO_FIJADO.txt, publícalo y en sus tres puntos → «Fijar».",
-      "updatedAt": "2026-09-28T13:02:28.000Z",
+      "notes": "Abre el vídeo ya publicado (studio.youtube.com → «Contenido» → título → «Ver en YouTube»), pega como comentario el texto de Descargas › faceless › archivo › video_0XX… › COMENTARIO_FIJADO.txt, publícalo y en sus tres puntos → «Fijar».\n\nLISTA DE COMPROBACIÓN (redes/LISTA_COMPROBACION.md), en CADA publicación antes de pasar a la siguiente:\n  ☐ Texto pegado entero (no vacío ni cortado)\n  ☐ Hashtags: 5 como máximo\n  ☐ Fecha y hora correctas (ojo al MES en Meta; que la hora no se quede en la actual)\n  ☐ Cuenta y archivo correctos (Pepa Pita o Ticket Medio; en TikTok, el archivo con TIKTOK en el nombre si lo hay)",
+      "updatedAt": "2026-09-30T12:55:22.000Z",
       "status": "pendiente",
       "comentarios": [],
       "createdAt": "2026-09-28T13:02:28.000Z",
@@ -1825,8 +1825,8 @@
         "YouTube",
         "Shorts"
       ],
-      "notes": "Vídeo 10: «Primark: cómo vende una camiseta a 3 €». Sale el viernes 27 de noviembre a las 18:00. Unos 35 minutos.\nTodo estará en:  Descargas › faceless › youtube › video_010_… › output  (te confirmo la carpeta exacta en los comentarios cuando esté listo).\n\n1. VER (10 min): abre FINAL_YOUTUBE_1080P.mp4 y los 3 SHORT_…mp4. Si algo se ve o se oye raro, dime el minuto aquí.\n\n2. SUBIR EL VÍDEO LARGO (studio.youtube.com; comprueba el logo del ticket amarillo arriba a la derecha):\n   «CREAR» → «Subir vídeos» → FINAL_YOUTUBE_1080P.mp4\n   · Título: el primero de 07_TITULOS.md (el marcado como ELEGIDO).\n   · Descripción: todo 08_DESCRIPCION.txt (Ctrl+E, Ctrl+C, Ctrl+V).\n   · Miniatura: output › MINIATURA_1280x720.png\n   · No es contenido para niños.\n   · «Mostrar más» (en este orden): Contenido alterado o sintético «No» · Etiquetas (vienen al final de 07_TITULOS.md) · Idioma Español (España) · Subtítulos: «Subir archivo» → «Con sincronización» → 06_SUBTITULOS.srt · Categoría Educación.\n   · Elementos: pantalla final «1 vídeo, 1 suscripción» (vídeo más reciente).\n   · Visibilidad: «Programar» → viernes 27 de noviembre, 18:00.\n\n3. LOS 3 SHORTS («CREAR» → «Subir vídeos», uno a uno; títulos y descripciones en output › SHORTS_TEXTOS.txt):\n   No son para niños · Contenido alterado «No» · Idioma Español (España) · Categoría Educación · sin archivo de subtítulos.\n   Programar: SHORT_01 → sábado 28 de noviembre 13:00 · SHORT_02 → lunes 30 de noviembre 13:00 · SHORT_03 → miércoles 2 de diciembre 13:00.\n\n4. Escribe «programado» aquí.",
-      "updatedAt": "2026-09-28T13:02:28.000Z",
+      "notes": "Vídeo 10: «Primark: cómo vende una camiseta a 3 €». Sale el viernes 27 de noviembre a las 18:00. Unos 35 minutos.\nTodo estará en:  Descargas › faceless › youtube › video_010_… › output  (te confirmo la carpeta exacta en los comentarios cuando esté listo).\n\n1. VER (10 min): abre FINAL_YOUTUBE_1080P.mp4 y los 3 SHORT_…mp4. Si algo se ve o se oye raro, dime el minuto aquí.\n\n2. SUBIR EL VÍDEO LARGO (studio.youtube.com; comprueba el logo del ticket amarillo arriba a la derecha):\n   «CREAR» → «Subir vídeos» → FINAL_YOUTUBE_1080P.mp4\n   · Título: el primero de 07_TITULOS.md (el marcado como ELEGIDO).\n   · Descripción: todo 08_DESCRIPCION.txt (Ctrl+E, Ctrl+C, Ctrl+V).\n   · Miniatura: output › MINIATURA_1280x720.png\n   · No es contenido para niños.\n   · «Mostrar más» (en este orden): Contenido alterado o sintético «No» · Etiquetas (vienen al final de 07_TITULOS.md) · Idioma Español (España) · Subtítulos: «Subir archivo» → «Con sincronización» → 06_SUBTITULOS.srt · Categoría Educación.\n   · Elementos: pantalla final «1 vídeo, 1 suscripción» (vídeo más reciente).\n   · Visibilidad: «Programar» → viernes 27 de noviembre, 18:00.\n\n3. LOS 3 SHORTS («CREAR» → «Subir vídeos», uno a uno; títulos y descripciones en output › SHORTS_TEXTOS.txt):\n   No son para niños · Contenido alterado «No» · Idioma Español (España) · Categoría Educación · sin archivo de subtítulos.\n   Programar: SHORT_01 → sábado 28 de noviembre 13:00 · SHORT_02 → lunes 30 de noviembre 13:00 · SHORT_03 → miércoles 2 de diciembre 13:00.\n\n4. Escribe «programado» aquí.\n\nLISTA DE COMPROBACIÓN (redes/LISTA_COMPROBACION.md), en CADA publicación antes de pasar a la siguiente:\n  ☐ Texto pegado entero (no vacío ni cortado)\n  ☐ Hashtags: 5 como máximo\n  ☐ Fecha y hora correctas (ojo al MES en Meta; que la hora no se quede en la actual)\n  ☐ Cuenta y archivo correctos (Pepa Pita o Ticket Medio; en TikTok, el archivo con TIKTOK en el nombre si lo hay)",
+      "updatedAt": "2026-09-30T12:55:22.000Z",
       "status": "pendiente",
       "comentarios": [],
       "createdAt": "2026-09-28T13:02:28.000Z",
@@ -1842,8 +1842,8 @@
       "platforms": [
         "YouTube"
       ],
-      "notes": "Abre el vídeo ya publicado (studio.youtube.com → «Contenido» → título → «Ver en YouTube»), pega como comentario el texto de Descargas › faceless › archivo › video_0XX… › COMENTARIO_FIJADO.txt, publícalo y en sus tres puntos → «Fijar».",
-      "updatedAt": "2026-09-28T13:02:28.000Z",
+      "notes": "Abre el vídeo ya publicado (studio.youtube.com → «Contenido» → título → «Ver en YouTube»), pega como comentario el texto de Descargas › faceless › archivo › video_0XX… › COMENTARIO_FIJADO.txt, publícalo y en sus tres puntos → «Fijar».\n\nLISTA DE COMPROBACIÓN (redes/LISTA_COMPROBACION.md), en CADA publicación antes de pasar a la siguiente:\n  ☐ Texto pegado entero (no vacío ni cortado)\n  ☐ Hashtags: 5 como máximo\n  ☐ Fecha y hora correctas (ojo al MES en Meta; que la hora no se quede en la actual)\n  ☐ Cuenta y archivo correctos (Pepa Pita o Ticket Medio; en TikTok, el archivo con TIKTOK en el nombre si lo hay)",
+      "updatedAt": "2026-09-30T12:55:22.000Z",
       "status": "pendiente",
       "comentarios": [],
       "createdAt": "2026-09-28T13:02:28.000Z",
@@ -1890,8 +1890,8 @@
         "YouTube",
         "Shorts"
       ],
-      "notes": "Vídeo 11: «Lotería de Navidad: ¿quién gana siempre?». Sale el viernes 4 de diciembre a las 18:00. Unos 35 minutos.\nTodo estará en:  Descargas › faceless › youtube › video_011_… › output  (te confirmo la carpeta exacta en los comentarios cuando esté listo).\n\n1. VER (10 min): abre FINAL_YOUTUBE_1080P.mp4 y los 3 SHORT_…mp4. Si algo se ve o se oye raro, dime el minuto aquí.\n\n2. SUBIR EL VÍDEO LARGO (studio.youtube.com; comprueba el logo del ticket amarillo arriba a la derecha):\n   «CREAR» → «Subir vídeos» → FINAL_YOUTUBE_1080P.mp4\n   · Título: el primero de 07_TITULOS.md (el marcado como ELEGIDO).\n   · Descripción: todo 08_DESCRIPCION.txt (Ctrl+E, Ctrl+C, Ctrl+V).\n   · Miniatura: output › MINIATURA_1280x720.png\n   · No es contenido para niños.\n   · «Mostrar más» (en este orden): Contenido alterado o sintético «No» · Etiquetas (vienen al final de 07_TITULOS.md) · Idioma Español (España) · Subtítulos: «Subir archivo» → «Con sincronización» → 06_SUBTITULOS.srt · Categoría Educación.\n   · Elementos: pantalla final «1 vídeo, 1 suscripción» (vídeo más reciente).\n   · Visibilidad: «Programar» → viernes 4 de diciembre, 18:00.\n\n3. LOS 3 SHORTS («CREAR» → «Subir vídeos», uno a uno; títulos y descripciones en output › SHORTS_TEXTOS.txt):\n   No son para niños · Contenido alterado «No» · Idioma Español (España) · Categoría Educación · sin archivo de subtítulos.\n   Programar: SHORT_01 → sábado 5 de diciembre 13:00 · SHORT_02 → lunes 7 de diciembre 13:00 · SHORT_03 → miércoles 9 de diciembre 13:00.\n\n4. Escribe «programado» aquí.",
-      "updatedAt": "2026-09-28T13:02:28.000Z",
+      "notes": "Vídeo 11: «Lotería de Navidad: ¿quién gana siempre?». Sale el viernes 4 de diciembre a las 18:00. Unos 35 minutos.\nTodo estará en:  Descargas › faceless › youtube › video_011_… › output  (te confirmo la carpeta exacta en los comentarios cuando esté listo).\n\n1. VER (10 min): abre FINAL_YOUTUBE_1080P.mp4 y los 3 SHORT_…mp4. Si algo se ve o se oye raro, dime el minuto aquí.\n\n2. SUBIR EL VÍDEO LARGO (studio.youtube.com; comprueba el logo del ticket amarillo arriba a la derecha):\n   «CREAR» → «Subir vídeos» → FINAL_YOUTUBE_1080P.mp4\n   · Título: el primero de 07_TITULOS.md (el marcado como ELEGIDO).\n   · Descripción: todo 08_DESCRIPCION.txt (Ctrl+E, Ctrl+C, Ctrl+V).\n   · Miniatura: output › MINIATURA_1280x720.png\n   · No es contenido para niños.\n   · «Mostrar más» (en este orden): Contenido alterado o sintético «No» · Etiquetas (vienen al final de 07_TITULOS.md) · Idioma Español (España) · Subtítulos: «Subir archivo» → «Con sincronización» → 06_SUBTITULOS.srt · Categoría Educación.\n   · Elementos: pantalla final «1 vídeo, 1 suscripción» (vídeo más reciente).\n   · Visibilidad: «Programar» → viernes 4 de diciembre, 18:00.\n\n3. LOS 3 SHORTS («CREAR» → «Subir vídeos», uno a uno; títulos y descripciones en output › SHORTS_TEXTOS.txt):\n   No son para niños · Contenido alterado «No» · Idioma Español (España) · Categoría Educación · sin archivo de subtítulos.\n   Programar: SHORT_01 → sábado 5 de diciembre 13:00 · SHORT_02 → lunes 7 de diciembre 13:00 · SHORT_03 → miércoles 9 de diciembre 13:00.\n\n4. Escribe «programado» aquí.\n\nLISTA DE COMPROBACIÓN (redes/LISTA_COMPROBACION.md), en CADA publicación antes de pasar a la siguiente:\n  ☐ Texto pegado entero (no vacío ni cortado)\n  ☐ Hashtags: 5 como máximo\n  ☐ Fecha y hora correctas (ojo al MES en Meta; que la hora no se quede en la actual)\n  ☐ Cuenta y archivo correctos (Pepa Pita o Ticket Medio; en TikTok, el archivo con TIKTOK en el nombre si lo hay)",
+      "updatedAt": "2026-09-30T12:55:22.000Z",
       "status": "pendiente",
       "comentarios": [],
       "createdAt": "2026-09-28T13:02:28.000Z",
@@ -1907,8 +1907,8 @@
       "platforms": [
         "YouTube"
       ],
-      "notes": "Abre el vídeo ya publicado (studio.youtube.com → «Contenido» → título → «Ver en YouTube»), pega como comentario el texto de Descargas › faceless › archivo › video_0XX… › COMENTARIO_FIJADO.txt, publícalo y en sus tres puntos → «Fijar».",
-      "updatedAt": "2026-09-28T13:02:28.000Z",
+      "notes": "Abre el vídeo ya publicado (studio.youtube.com → «Contenido» → título → «Ver en YouTube»), pega como comentario el texto de Descargas › faceless › archivo › video_0XX… › COMENTARIO_FIJADO.txt, publícalo y en sus tres puntos → «Fijar».\n\nLISTA DE COMPROBACIÓN (redes/LISTA_COMPROBACION.md), en CADA publicación antes de pasar a la siguiente:\n  ☐ Texto pegado entero (no vacío ni cortado)\n  ☐ Hashtags: 5 como máximo\n  ☐ Fecha y hora correctas (ojo al MES en Meta; que la hora no se quede en la actual)\n  ☐ Cuenta y archivo correctos (Pepa Pita o Ticket Medio; en TikTok, el archivo con TIKTOK en el nombre si lo hay)",
+      "updatedAt": "2026-09-30T12:55:22.000Z",
       "status": "pendiente",
       "comentarios": [],
       "createdAt": "2026-09-28T13:02:28.000Z",
@@ -1955,8 +1955,8 @@
         "YouTube",
         "Shorts"
       ],
-      "notes": "Vídeo 12: «Correos pierde dinero: ¿por qué no cierra?». Sale el viernes 11 de diciembre a las 18:00. Unos 35 minutos.\nTodo estará en:  Descargas › faceless › youtube › video_012_… › output  (te confirmo la carpeta exacta en los comentarios cuando esté listo).\n\n1. VER (10 min): abre FINAL_YOUTUBE_1080P.mp4 y los 3 SHORT_…mp4. Si algo se ve o se oye raro, dime el minuto aquí.\n\n2. SUBIR EL VÍDEO LARGO (studio.youtube.com; comprueba el logo del ticket amarillo arriba a la derecha):\n   «CREAR» → «Subir vídeos» → FINAL_YOUTUBE_1080P.mp4\n   · Título: el primero de 07_TITULOS.md (el marcado como ELEGIDO).\n   · Descripción: todo 08_DESCRIPCION.txt (Ctrl+E, Ctrl+C, Ctrl+V).\n   · Miniatura: output › MINIATURA_1280x720.png\n   · No es contenido para niños.\n   · «Mostrar más» (en este orden): Contenido alterado o sintético «No» · Etiquetas (vienen al final de 07_TITULOS.md) · Idioma Español (España) · Subtítulos: «Subir archivo» → «Con sincronización» → 06_SUBTITULOS.srt · Categoría Educación.\n   · Elementos: pantalla final «1 vídeo, 1 suscripción» (vídeo más reciente).\n   · Visibilidad: «Programar» → viernes 11 de diciembre, 18:00.\n\n3. LOS 3 SHORTS («CREAR» → «Subir vídeos», uno a uno; títulos y descripciones en output › SHORTS_TEXTOS.txt):\n   No son para niños · Contenido alterado «No» · Idioma Español (España) · Categoría Educación · sin archivo de subtítulos.\n   Programar: SHORT_01 → sábado 12 de diciembre 13:00 · SHORT_02 → lunes 14 de diciembre 13:00 · SHORT_03 → miércoles 16 de diciembre 13:00.\n\n4. Escribe «programado» aquí.",
-      "updatedAt": "2026-09-28T13:02:28.000Z",
+      "notes": "Vídeo 12: «Correos pierde dinero: ¿por qué no cierra?». Sale el viernes 11 de diciembre a las 18:00. Unos 35 minutos.\nTodo estará en:  Descargas › faceless › youtube › video_012_… › output  (te confirmo la carpeta exacta en los comentarios cuando esté listo).\n\n1. VER (10 min): abre FINAL_YOUTUBE_1080P.mp4 y los 3 SHORT_…mp4. Si algo se ve o se oye raro, dime el minuto aquí.\n\n2. SUBIR EL VÍDEO LARGO (studio.youtube.com; comprueba el logo del ticket amarillo arriba a la derecha):\n   «CREAR» → «Subir vídeos» → FINAL_YOUTUBE_1080P.mp4\n   · Título: el primero de 07_TITULOS.md (el marcado como ELEGIDO).\n   · Descripción: todo 08_DESCRIPCION.txt (Ctrl+E, Ctrl+C, Ctrl+V).\n   · Miniatura: output › MINIATURA_1280x720.png\n   · No es contenido para niños.\n   · «Mostrar más» (en este orden): Contenido alterado o sintético «No» · Etiquetas (vienen al final de 07_TITULOS.md) · Idioma Español (España) · Subtítulos: «Subir archivo» → «Con sincronización» → 06_SUBTITULOS.srt · Categoría Educación.\n   · Elementos: pantalla final «1 vídeo, 1 suscripción» (vídeo más reciente).\n   · Visibilidad: «Programar» → viernes 11 de diciembre, 18:00.\n\n3. LOS 3 SHORTS («CREAR» → «Subir vídeos», uno a uno; títulos y descripciones en output › SHORTS_TEXTOS.txt):\n   No son para niños · Contenido alterado «No» · Idioma Español (España) · Categoría Educación · sin archivo de subtítulos.\n   Programar: SHORT_01 → sábado 12 de diciembre 13:00 · SHORT_02 → lunes 14 de diciembre 13:00 · SHORT_03 → miércoles 16 de diciembre 13:00.\n\n4. Escribe «programado» aquí.\n\nLISTA DE COMPROBACIÓN (redes/LISTA_COMPROBACION.md), en CADA publicación antes de pasar a la siguiente:\n  ☐ Texto pegado entero (no vacío ni cortado)\n  ☐ Hashtags: 5 como máximo\n  ☐ Fecha y hora correctas (ojo al MES en Meta; que la hora no se quede en la actual)\n  ☐ Cuenta y archivo correctos (Pepa Pita o Ticket Medio; en TikTok, el archivo con TIKTOK en el nombre si lo hay)",
+      "updatedAt": "2026-09-30T12:55:22.000Z",
       "status": "pendiente",
       "comentarios": [],
       "createdAt": "2026-09-28T13:02:28.000Z",
@@ -1972,8 +1972,8 @@
       "platforms": [
         "YouTube"
       ],
-      "notes": "Abre el vídeo ya publicado (studio.youtube.com → «Contenido» → título → «Ver en YouTube»), pega como comentario el texto de Descargas › faceless › archivo › video_0XX… › COMENTARIO_FIJADO.txt, publícalo y en sus tres puntos → «Fijar».",
-      "updatedAt": "2026-09-28T13:02:28.000Z",
+      "notes": "Abre el vídeo ya publicado (studio.youtube.com → «Contenido» → título → «Ver en YouTube»), pega como comentario el texto de Descargas › faceless › archivo › video_0XX… › COMENTARIO_FIJADO.txt, publícalo y en sus tres puntos → «Fijar».\n\nLISTA DE COMPROBACIÓN (redes/LISTA_COMPROBACION.md), en CADA publicación antes de pasar a la siguiente:\n  ☐ Texto pegado entero (no vacío ni cortado)\n  ☐ Hashtags: 5 como máximo\n  ☐ Fecha y hora correctas (ojo al MES en Meta; que la hora no se quede en la actual)\n  ☐ Cuenta y archivo correctos (Pepa Pita o Ticket Medio; en TikTok, el archivo con TIKTOK en el nombre si lo hay)",
+      "updatedAt": "2026-09-30T12:55:22.000Z",
       "status": "pendiente",
       "comentarios": [],
       "createdAt": "2026-09-28T13:02:28.000Z",
@@ -2020,8 +2020,8 @@
         "YouTube",
         "Shorts"
       ],
-      "notes": "Vídeo 13: «Por qué el marisco y el cordero se disparan en Navidad». Sale el viernes 18 de diciembre a las 18:00. Unos 35 minutos.\nTodo estará en:  Descargas › faceless › youtube › video_013_… › output  (te confirmo la carpeta exacta en los comentarios cuando esté listo).\n\n1. VER (10 min): abre FINAL_YOUTUBE_1080P.mp4 y los 3 SHORT_…mp4. Si algo se ve o se oye raro, dime el minuto aquí.\n\n2. SUBIR EL VÍDEO LARGO (studio.youtube.com; comprueba el logo del ticket amarillo arriba a la derecha):\n   «CREAR» → «Subir vídeos» → FINAL_YOUTUBE_1080P.mp4\n   · Título: el primero de 07_TITULOS.md (el marcado como ELEGIDO).\n   · Descripción: todo 08_DESCRIPCION.txt (Ctrl+E, Ctrl+C, Ctrl+V).\n   · Miniatura: output › MINIATURA_1280x720.png\n   · No es contenido para niños.\n   · «Mostrar más» (en este orden): Contenido alterado o sintético «No» · Etiquetas (vienen al final de 07_TITULOS.md) · Idioma Español (España) · Subtítulos: «Subir archivo» → «Con sincronización» → 06_SUBTITULOS.srt · Categoría Educación.\n   · Elementos: pantalla final «1 vídeo, 1 suscripción» (vídeo más reciente).\n   · Visibilidad: «Programar» → viernes 18 de diciembre, 18:00.\n\n3. LOS 3 SHORTS («CREAR» → «Subir vídeos», uno a uno; títulos y descripciones en output › SHORTS_TEXTOS.txt):\n   No son para niños · Contenido alterado «No» · Idioma Español (España) · Categoría Educación · sin archivo de subtítulos.\n   Programar: SHORT_01 → sábado 19 de diciembre 13:00 · SHORT_02 → lunes 21 de diciembre 13:00 · SHORT_03 → miércoles 23 de diciembre 13:00.\n\n4. Escribe «programado» aquí.",
-      "updatedAt": "2026-09-28T13:02:28.000Z",
+      "notes": "Vídeo 13: «Por qué el marisco y el cordero se disparan en Navidad». Sale el viernes 18 de diciembre a las 18:00. Unos 35 minutos.\nTodo estará en:  Descargas › faceless › youtube › video_013_… › output  (te confirmo la carpeta exacta en los comentarios cuando esté listo).\n\n1. VER (10 min): abre FINAL_YOUTUBE_1080P.mp4 y los 3 SHORT_…mp4. Si algo se ve o se oye raro, dime el minuto aquí.\n\n2. SUBIR EL VÍDEO LARGO (studio.youtube.com; comprueba el logo del ticket amarillo arriba a la derecha):\n   «CREAR» → «Subir vídeos» → FINAL_YOUTUBE_1080P.mp4\n   · Título: el primero de 07_TITULOS.md (el marcado como ELEGIDO).\n   · Descripción: todo 08_DESCRIPCION.txt (Ctrl+E, Ctrl+C, Ctrl+V).\n   · Miniatura: output › MINIATURA_1280x720.png\n   · No es contenido para niños.\n   · «Mostrar más» (en este orden): Contenido alterado o sintético «No» · Etiquetas (vienen al final de 07_TITULOS.md) · Idioma Español (España) · Subtítulos: «Subir archivo» → «Con sincronización» → 06_SUBTITULOS.srt · Categoría Educación.\n   · Elementos: pantalla final «1 vídeo, 1 suscripción» (vídeo más reciente).\n   · Visibilidad: «Programar» → viernes 18 de diciembre, 18:00.\n\n3. LOS 3 SHORTS («CREAR» → «Subir vídeos», uno a uno; títulos y descripciones en output › SHORTS_TEXTOS.txt):\n   No son para niños · Contenido alterado «No» · Idioma Español (España) · Categoría Educación · sin archivo de subtítulos.\n   Programar: SHORT_01 → sábado 19 de diciembre 13:00 · SHORT_02 → lunes 21 de diciembre 13:00 · SHORT_03 → miércoles 23 de diciembre 13:00.\n\n4. Escribe «programado» aquí.\n\nLISTA DE COMPROBACIÓN (redes/LISTA_COMPROBACION.md), en CADA publicación antes de pasar a la siguiente:\n  ☐ Texto pegado entero (no vacío ni cortado)\n  ☐ Hashtags: 5 como máximo\n  ☐ Fecha y hora correctas (ojo al MES en Meta; que la hora no se quede en la actual)\n  ☐ Cuenta y archivo correctos (Pepa Pita o Ticket Medio; en TikTok, el archivo con TIKTOK en el nombre si lo hay)",
+      "updatedAt": "2026-09-30T12:55:22.000Z",
       "status": "pendiente",
       "comentarios": [],
       "createdAt": "2026-09-28T13:02:28.000Z",
@@ -2037,8 +2037,8 @@
       "platforms": [
         "YouTube"
       ],
-      "notes": "Abre el vídeo ya publicado (studio.youtube.com → «Contenido» → título → «Ver en YouTube»), pega como comentario el texto de Descargas › faceless › archivo › video_0XX… › COMENTARIO_FIJADO.txt, publícalo y en sus tres puntos → «Fijar».",
-      "updatedAt": "2026-09-28T13:02:28.000Z",
+      "notes": "Abre el vídeo ya publicado (studio.youtube.com → «Contenido» → título → «Ver en YouTube»), pega como comentario el texto de Descargas › faceless › archivo › video_0XX… › COMENTARIO_FIJADO.txt, publícalo y en sus tres puntos → «Fijar».\n\nLISTA DE COMPROBACIÓN (redes/LISTA_COMPROBACION.md), en CADA publicación antes de pasar a la siguiente:\n  ☐ Texto pegado entero (no vacío ni cortado)\n  ☐ Hashtags: 5 como máximo\n  ☐ Fecha y hora correctas (ojo al MES en Meta; que la hora no se quede en la actual)\n  ☐ Cuenta y archivo correctos (Pepa Pita o Ticket Medio; en TikTok, el archivo con TIKTOK en el nombre si lo hay)",
+      "updatedAt": "2026-09-30T12:55:22.000Z",
       "status": "pendiente",
       "comentarios": [],
       "createdAt": "2026-09-28T13:02:28.000Z",
@@ -2085,8 +2085,8 @@
         "YouTube",
         "Shorts"
       ],
-      "notes": "Vídeo 14: «Rebajas de enero: el truco de los precios». Sale el viernes 25 de diciembre a las 18:00. Unos 35 minutos.\nTodo estará en:  Descargas › faceless › youtube › video_014_… › output  (te confirmo la carpeta exacta en los comentarios cuando esté listo).\n\n1. VER (10 min): abre FINAL_YOUTUBE_1080P.mp4 y los 3 SHORT_…mp4. Si algo se ve o se oye raro, dime el minuto aquí.\n\n2. SUBIR EL VÍDEO LARGO (studio.youtube.com; comprueba el logo del ticket amarillo arriba a la derecha):\n   «CREAR» → «Subir vídeos» → FINAL_YOUTUBE_1080P.mp4\n   · Título: el primero de 07_TITULOS.md (el marcado como ELEGIDO).\n   · Descripción: todo 08_DESCRIPCION.txt (Ctrl+E, Ctrl+C, Ctrl+V).\n   · Miniatura: output › MINIATURA_1280x720.png\n   · No es contenido para niños.\n   · «Mostrar más» (en este orden): Contenido alterado o sintético «No» · Etiquetas (vienen al final de 07_TITULOS.md) · Idioma Español (España) · Subtítulos: «Subir archivo» → «Con sincronización» → 06_SUBTITULOS.srt · Categoría Educación.\n   · Elementos: pantalla final «1 vídeo, 1 suscripción» (vídeo más reciente).\n   · Visibilidad: «Programar» → viernes 25 de diciembre, 18:00.\n\n3. LOS 3 SHORTS («CREAR» → «Subir vídeos», uno a uno; títulos y descripciones en output › SHORTS_TEXTOS.txt):\n   No son para niños · Contenido alterado «No» · Idioma Español (España) · Categoría Educación · sin archivo de subtítulos.\n   Programar: SHORT_01 → sábado 26 de diciembre 13:00 · SHORT_02 → lunes 28 de diciembre 13:00 · SHORT_03 → miércoles 30 de diciembre 13:00.\n\n4. Escribe «programado» aquí.",
-      "updatedAt": "2026-09-28T13:02:28.000Z",
+      "notes": "Vídeo 14: «Rebajas de enero: el truco de los precios». Sale el viernes 25 de diciembre a las 18:00. Unos 35 minutos.\nTodo estará en:  Descargas › faceless › youtube › video_014_… › output  (te confirmo la carpeta exacta en los comentarios cuando esté listo).\n\n1. VER (10 min): abre FINAL_YOUTUBE_1080P.mp4 y los 3 SHORT_…mp4. Si algo se ve o se oye raro, dime el minuto aquí.\n\n2. SUBIR EL VÍDEO LARGO (studio.youtube.com; comprueba el logo del ticket amarillo arriba a la derecha):\n   «CREAR» → «Subir vídeos» → FINAL_YOUTUBE_1080P.mp4\n   · Título: el primero de 07_TITULOS.md (el marcado como ELEGIDO).\n   · Descripción: todo 08_DESCRIPCION.txt (Ctrl+E, Ctrl+C, Ctrl+V).\n   · Miniatura: output › MINIATURA_1280x720.png\n   · No es contenido para niños.\n   · «Mostrar más» (en este orden): Contenido alterado o sintético «No» · Etiquetas (vienen al final de 07_TITULOS.md) · Idioma Español (España) · Subtítulos: «Subir archivo» → «Con sincronización» → 06_SUBTITULOS.srt · Categoría Educación.\n   · Elementos: pantalla final «1 vídeo, 1 suscripción» (vídeo más reciente).\n   · Visibilidad: «Programar» → viernes 25 de diciembre, 18:00.\n\n3. LOS 3 SHORTS («CREAR» → «Subir vídeos», uno a uno; títulos y descripciones en output › SHORTS_TEXTOS.txt):\n   No son para niños · Contenido alterado «No» · Idioma Español (España) · Categoría Educación · sin archivo de subtítulos.\n   Programar: SHORT_01 → sábado 26 de diciembre 13:00 · SHORT_02 → lunes 28 de diciembre 13:00 · SHORT_03 → miércoles 30 de diciembre 13:00.\n\n4. Escribe «programado» aquí.\n\nLISTA DE COMPROBACIÓN (redes/LISTA_COMPROBACION.md), en CADA publicación antes de pasar a la siguiente:\n  ☐ Texto pegado entero (no vacío ni cortado)\n  ☐ Hashtags: 5 como máximo\n  ☐ Fecha y hora correctas (ojo al MES en Meta; que la hora no se quede en la actual)\n  ☐ Cuenta y archivo correctos (Pepa Pita o Ticket Medio; en TikTok, el archivo con TIKTOK en el nombre si lo hay)",
+      "updatedAt": "2026-09-30T12:55:22.000Z",
       "status": "pendiente",
       "comentarios": [],
       "createdAt": "2026-09-28T13:02:28.000Z",
@@ -2102,8 +2102,8 @@
       "platforms": [
         "YouTube"
       ],
-      "notes": "Abre el vídeo ya publicado (studio.youtube.com → «Contenido» → título → «Ver en YouTube»), pega como comentario el texto de Descargas › faceless › archivo › video_0XX… › COMENTARIO_FIJADO.txt, publícalo y en sus tres puntos → «Fijar».",
-      "updatedAt": "2026-09-28T13:02:28.000Z",
+      "notes": "Abre el vídeo ya publicado (studio.youtube.com → «Contenido» → título → «Ver en YouTube»), pega como comentario el texto de Descargas › faceless › archivo › video_0XX… › COMENTARIO_FIJADO.txt, publícalo y en sus tres puntos → «Fijar».\n\nLISTA DE COMPROBACIÓN (redes/LISTA_COMPROBACION.md), en CADA publicación antes de pasar a la siguiente:\n  ☐ Texto pegado entero (no vacío ni cortado)\n  ☐ Hashtags: 5 como máximo\n  ☐ Fecha y hora correctas (ojo al MES en Meta; que la hora no se quede en la actual)\n  ☐ Cuenta y archivo correctos (Pepa Pita o Ticket Medio; en TikTok, el archivo con TIKTOK en el nombre si lo hay)",
+      "updatedAt": "2026-09-30T12:55:22.000Z",
       "status": "pendiente",
       "comentarios": [],
       "createdAt": "2026-09-28T13:02:28.000Z",
@@ -2143,8 +2143,8 @@
         "Facebook",
         "TikTok"
       ],
-      "notes": "Programamos de una vez los 6 vídeos de Pepa de las dos semanas siguientes (unos 45 min). Carpetas: Descargas › faceless › redes › pepa_pita › videos › 0XX_… › salida (vídeo .mp4 + TEXTO_PUBLICACION.txt). Los títulos para Facebook te los dejo en los comentarios.\n\nFechas (todas a las 19:00, en Instagram + Facebook y en TikTok):\n   · Vídeo 013 → martes 27 de octubre, 19:00\n   · Vídeo 014 → jueves 29 de octubre, 19:00\n   · Vídeo 015 → sábado 31 de octubre, 19:00\n   · Vídeo 016 → martes 3 de noviembre, 19:00\n   · Vídeo 017 → jueves 5 de noviembre, 19:00\n   · Vídeo 018 → sábado 7 de noviembre, 19:00\n\nA) INSTAGRAM + FACEBOOK (https://business.facebook.com/latest/home con TU Facebook personal; arriba a la izquierda «Pepa Pita»):\n   «Crear reel» → marca Facebook e Instagram → vídeo → texto (Ctrl+E, Ctrl+C, Ctrl+V) → portada con Pepa de frente → «Siguiente» hasta «Share» → «Scheduling options» → «Schedule» → fecha y 07:00 PM → botón azul «Schedule».\n   Si se queda en «Scheduling your post…»: mira https://business.facebook.com/latest/content_calendar antes de repetir.\nB) TIKTOK (https://www.tiktok.com/tiktokstudio/upload, cuenta de Pepa):\n   Vídeo → mismo texto → portada → «Mostrar más» → «Contenido generado por IA» → «Programar» → fecha, 19:00.\nAl terminar, escribe «Pepa programada» (y si alguno de TikTok no se dejó programar, cuál).\n\nCARRUSELES (Facebook e Instagram, 13:00): 007–010 → 26/10, 28/10, 02/11, 04/11. Carpeta redes › pepa_pita › carruseles; pasos en COMO_PUBLICAR_UN_CARRUSEL.txt.",
-      "updatedAt": "2026-09-30T10:22:32",
+      "notes": "OJO: estos 6 Reels llevan un arranque NUEVO (la pregunta en grande desde el primer segundo, 3 variantes para medir cuál funciona mejor en Facebook). Para ti no cambia nada: se suben igual que siempre.\n\nProgramamos de una vez los 6 vídeos de Pepa de las dos semanas siguientes (unos 45 min). Carpetas: Descargas › faceless › redes › pepa_pita › videos › 0XX_… › salida (vídeo .mp4 + TEXTO_PUBLICACION.txt). Los títulos para Facebook te los dejo en los comentarios.\n\nFechas (todas a las 19:00, en Instagram + Facebook y en TikTok):\n   · Vídeo 013 → martes 27 de octubre, 19:00\n   · Vídeo 014 → jueves 29 de octubre, 19:00\n   · Vídeo 015 → sábado 31 de octubre, 19:00\n   · Vídeo 016 → martes 3 de noviembre, 19:00\n   · Vídeo 017 → jueves 5 de noviembre, 19:00\n   · Vídeo 018 → sábado 7 de noviembre, 19:00\n\nA) INSTAGRAM + FACEBOOK (https://business.facebook.com/latest/home con TU Facebook personal; arriba a la izquierda «Pepa Pita»):\n   «Crear reel» → marca Facebook e Instagram → vídeo → texto (Ctrl+E, Ctrl+C, Ctrl+V) → portada con Pepa de frente → «Siguiente» hasta «Share» → «Scheduling options» → «Schedule» → fecha y 07:00 PM → botón azul «Schedule».\n   Si se queda en «Scheduling your post…»: mira https://business.facebook.com/latest/content_calendar antes de repetir.\nB) TIKTOK (https://www.tiktok.com/tiktokstudio/upload, cuenta de Pepa):\n   Vídeo → mismo texto → portada → «Mostrar más» → «Contenido generado por IA» → «Programar» → fecha, 19:00.\nAl terminar, escribe «Pepa programada» (y si alguno de TikTok no se dejó programar, cuál).\n\nCARRUSELES (Facebook e Instagram, 13:00): 007–010 → 26/10, 28/10, 02/11 y 09/11 (desde noviembre, 1 carrusel a la semana, los lunes). Carpeta redes › pepa_pita › carruseles; pasos en COMO_PUBLICAR_UN_CARRUSEL.txt.\n\nLISTA DE COMPROBACIÓN (redes/LISTA_COMPROBACION.md), en CADA publicación antes de pasar a la siguiente:\n  ☐ Texto pegado entero (no vacío ni cortado)\n  ☐ Hashtags: 5 como máximo\n  ☐ Fecha y hora correctas (ojo al MES en Meta; que la hora no se quede en la actual)\n  ☐ Cuenta y archivo correctos (Pepa Pita o Ticket Medio; en TikTok, el archivo con TIKTOK en el nombre si lo hay)",
+      "updatedAt": "2026-09-30T12:55:22.000Z",
       "status": "pendiente",
       "comentarios": [
         {
@@ -2159,14 +2159,14 @@
     },
     {
       "id": "c-pepa-tanda-4",
-      "title": "Producir Pepa 019–024 (Caducidad y consumo preferente…)",
-      "date": "2026-11-02",
+      "title": "Producir Pepa 019–024 SOLO si hay gancho validado (3 cortos IG+FB + 3 largos de 61–75 s FB+TikTok)",
+      "date": "2026-11-09",
       "who": "claude",
       "kind": "tarea",
       "project": "redes",
       "platforms": [],
-      "notes": "Temas: Caducidad y consumo preferente · Congelar en raciones · Menú de noviembre · El táper · Código de los huevos · Fruta de temporada. Datos verificados en fuentes oficiales.",
-      "updatedAt": "2026-09-28T13:02:28.000Z",
+      "notes": "Depende de c-pepa-ganchos (mismo día). Si ninguna variante cumple, NO se produce el lote: se hacen 2 Reels de prueba con otras variantes. Temas: Caducidad y consumo preferente · Congelar en raciones · El táper del trabajo · Huevos: talla y código · Marisco congelado · Descongelar el pavo. Los largos (jueves) salen de los temas con más contenido. Datos verificados en fuentes oficiales; requisitos de monetización comprobados (apartados 7 y 9 de la estrategia SEO).",
+      "updatedAt": "2026-09-30T12:55:22.000Z",
       "status": "pendiente",
       "comentarios": [],
       "createdAt": "2026-09-28T13:02:28.000Z",
@@ -2174,8 +2174,8 @@
     },
     {
       "id": "pub-pepa-lote-4",
-      "title": "Programar de una vez Pepa 019–024 en Instagram, Facebook y TikTok + 4 carruseles 011–014 (75 min)",
-      "date": "2026-11-05",
+      "title": "Programar Pepa 019–024 (12/11–1/12) + 3 carruseles 011–013 (60 min)",
+      "date": "2026-11-10",
       "who": "tu",
       "kind": "publicacion",
       "project": "redes",
@@ -2184,8 +2184,8 @@
         "Facebook",
         "TikTok"
       ],
-      "notes": "Programamos de una vez los 6 vídeos de Pepa de las dos semanas siguientes (unos 45 min). Carpetas: Descargas › faceless › redes › pepa_pita › videos › 0XX_… › salida (vídeo .mp4 + TEXTO_PUBLICACION.txt). Los títulos para Facebook te los dejo en los comentarios.\n\nFechas (todas a las 19:00, en Instagram + Facebook y en TikTok):\n   · Vídeo 019 → martes 10 de noviembre, 19:00\n   · Vídeo 020 → jueves 12 de noviembre, 19:00\n   · Vídeo 021 → sábado 14 de noviembre, 19:00\n   · Vídeo 022 → martes 17 de noviembre, 19:00\n   · Vídeo 023 → jueves 19 de noviembre, 19:00\n   · Vídeo 024 → sábado 21 de noviembre, 19:00\n\nA) INSTAGRAM + FACEBOOK (https://business.facebook.com/latest/home con TU Facebook personal; arriba a la izquierda «Pepa Pita»):\n   «Crear reel» → marca Facebook e Instagram → vídeo → texto (Ctrl+E, Ctrl+C, Ctrl+V) → portada con Pepa de frente → «Siguiente» hasta «Share» → «Scheduling options» → «Schedule» → fecha y 07:00 PM → botón azul «Schedule».\n   Si se queda en «Scheduling your post…»: mira https://business.facebook.com/latest/content_calendar antes de repetir.\nB) TIKTOK (https://www.tiktok.com/tiktokstudio/upload, cuenta de Pepa):\n   Vídeo → mismo texto → portada → «Mostrar más» → «Contenido generado por IA» → «Programar» → fecha, 19:00.\nAl terminar, escribe «Pepa programada» (y si alguno de TikTok no se dejó programar, cuál).\n\nCARRUSELES (Facebook e Instagram, 13:00): 011–014 → 09/11, 11/11, 16/11, 18/11. Carpeta redes › pepa_pita › carruseles; pasos en COMO_PUBLICAR_UN_CARRUSEL.txt.",
-      "updatedAt": "2026-09-30T10:22:32",
+      "notes": "Solo si Claude ha producido el lote (depende de la prueba de arranques). Carpetas: Descargas › faceless › redes › pepa_pita › videos › 0XX_… › salida.\n\nFechas:\n   · Vídeo 019 → jueves 12 de noviembre, 19:00 — LARGO (61–75 s): Facebook + TikTok\n   · Vídeo 020 → martes 17 de noviembre, 19:00 — CORTO: Instagram + Facebook\n   · Vídeo 021 → jueves 19 de noviembre, 19:00 — LARGO (61–75 s): Facebook + TikTok\n   · Vídeo 022 → martes 24 de noviembre, 19:00 — CORTO: Instagram + Facebook\n   · Vídeo 023 → jueves 26 de noviembre, 19:00 — LARGO (61–75 s): Facebook + TikTok\n   · Vídeo 024 → martes 1 de diciembre, 19:00 — CORTO: Instagram + Facebook\nCarruseles 011–013 → lunes 16/11, 23/11 y 30/11, 13:00.\n\nA) INSTAGRAM + FACEBOOK (martes, vídeo CORTO) o SOLO FACEBOOK (jueves, vídeo LARGO): https://business.facebook.com/latest/home con TU Facebook personal; arriba a la izquierda «Pepa Pita». «Crear reel» → marca las plataformas que diga cada fecha → vídeo → texto (Ctrl+E, Ctrl+C, Ctrl+V) → portada con Pepa de frente → «Siguiente» hasta «Share» → «Scheduling options» → «Schedule» → fecha y 07:00 PM → «Schedule».\nB) TIKTOK (solo los vídeos LARGOS de los jueves, archivo con TIKTOK en el nombre): https://www.tiktok.com/tiktokstudio/upload → vídeo → texto → «Mostrar más» → «Contenido generado por IA» → «Programar» → fecha, 19:00.\nCARRUSELES (Facebook e Instagram, lunes 13:00): pasos en redes › pepa_pita › carruseles › COMO_PUBLICAR_UN_CARRUSEL.txt.\nAl terminar, escribe «Pepa programada».\n\nLISTA DE COMPROBACIÓN (redes/LISTA_COMPROBACION.md), en CADA publicación antes de pasar a la siguiente:\n  ☐ Texto pegado entero (no vacío ni cortado)\n  ☐ Hashtags: 5 como máximo\n  ☐ Fecha y hora correctas (ojo al MES en Meta; que la hora no se quede en la actual)\n  ☐ Cuenta y archivo correctos (Pepa Pita o Ticket Medio; en TikTok, el archivo con TIKTOK en el nombre si lo hay)",
+      "updatedAt": "2026-09-30T12:55:22.000Z",
       "status": "pendiente",
       "comentarios": [],
       "createdAt": "2026-09-28T13:02:28.000Z",
@@ -2193,14 +2193,14 @@
     },
     {
       "id": "c-pepa-tanda-5",
-      "title": "Producir Pepa 025–030 (Cocina y Black Friday…)",
-      "date": "2026-11-16",
+      "title": "Producir Pepa 025–030 (Navidad: gambas, turrón, menú barato…)",
+      "date": "2026-11-30",
       "who": "claude",
       "kind": "tarea",
       "project": "redes",
       "platforms": [],
-      "notes": "Temas: Cocina y Black Friday · Gambas y langostinos · Marisco congelado · Descongelar el pavo · Menú de Navidad barato (1) · Turrón. Datos verificados en fuentes oficiales.",
-      "updatedAt": "2026-09-28T13:02:28.000Z",
+      "notes": "Con el arranque fijado el 9/11. 3 cortos (martes) + 3 largos de 61–75 s (jueves). Temas: Cocer gambas y langostinos · Turrón: cómo guardarlo · Menú de Navidad barato · Canapés con antelación · Cordero y cochinillo en casa · Sobras de Navidad.",
+      "updatedAt": "2026-09-30T12:55:22.000Z",
       "status": "pendiente",
       "comentarios": [],
       "createdAt": "2026-09-28T13:02:28.000Z",
@@ -2208,8 +2208,8 @@
     },
     {
       "id": "pub-pepa-lote-5",
-      "title": "Programar de una vez Pepa 025–030 en Instagram, Facebook y TikTok + 4 carruseles 015–018 (75 min)",
-      "date": "2026-11-19",
+      "title": "Programar Pepa 025–030 (3/12–22/12) + 3 carruseles 014–016 (60 min)",
+      "date": "2026-12-01",
       "who": "tu",
       "kind": "publicacion",
       "project": "redes",
@@ -2218,8 +2218,8 @@
         "Facebook",
         "TikTok"
       ],
-      "notes": "Programamos de una vez los 6 vídeos de Pepa de las dos semanas siguientes (unos 45 min). Carpetas: Descargas › faceless › redes › pepa_pita › videos › 0XX_… › salida (vídeo .mp4 + TEXTO_PUBLICACION.txt). Los títulos para Facebook te los dejo en los comentarios.\n\nFechas (todas a las 19:00, en Instagram + Facebook y en TikTok):\n   · Vídeo 025 → martes 24 de noviembre, 19:00\n   · Vídeo 026 → jueves 26 de noviembre, 19:00\n   · Vídeo 027 → sábado 28 de noviembre, 19:00\n   · Vídeo 028 → martes 1 de diciembre, 19:00\n   · Vídeo 029 → jueves 3 de diciembre, 19:00\n   · Vídeo 030 → sábado 5 de diciembre, 19:00\n\nA) INSTAGRAM + FACEBOOK (https://business.facebook.com/latest/home con TU Facebook personal; arriba a la izquierda «Pepa Pita»):\n   «Crear reel» → marca Facebook e Instagram → vídeo → texto (Ctrl+E, Ctrl+C, Ctrl+V) → portada con Pepa de frente → «Siguiente» hasta «Share» → «Scheduling options» → «Schedule» → fecha y 07:00 PM → botón azul «Schedule».\n   Si se queda en «Scheduling your post…»: mira https://business.facebook.com/latest/content_calendar antes de repetir.\nB) TIKTOK (https://www.tiktok.com/tiktokstudio/upload, cuenta de Pepa):\n   Vídeo → mismo texto → portada → «Mostrar más» → «Contenido generado por IA» → «Programar» → fecha, 19:00.\nAl terminar, escribe «Pepa programada» (y si alguno de TikTok no se dejó programar, cuál).\n\nCARRUSELES (Facebook e Instagram, 13:00): 015–018 → 23/11, 25/11, 30/11, 02/12. Carpeta redes › pepa_pita › carruseles; pasos en COMO_PUBLICAR_UN_CARRUSEL.txt.",
-      "updatedAt": "2026-09-30T10:22:32",
+      "notes": "Fechas:\n   · Vídeo 025 → jueves 3 de diciembre, 19:00 — LARGO (61–75 s): Facebook + TikTok\n   · Vídeo 026 → martes 8 de diciembre, 19:00 — CORTO: Instagram + Facebook\n   · Vídeo 027 → jueves 10 de diciembre, 19:00 — LARGO (61–75 s): Facebook + TikTok\n   · Vídeo 028 → martes 15 de diciembre, 19:00 — CORTO: Instagram + Facebook\n   · Vídeo 029 → jueves 17 de diciembre, 19:00 — LARGO (61–75 s): Facebook + TikTok\n   · Vídeo 030 → martes 22 de diciembre, 19:00 — CORTO: Instagram + Facebook\nCarruseles 014–016 → lunes 7/12, 14/12 y 21/12, 13:00.\n\nA) INSTAGRAM + FACEBOOK (martes, vídeo CORTO) o SOLO FACEBOOK (jueves, vídeo LARGO): https://business.facebook.com/latest/home con TU Facebook personal; arriba a la izquierda «Pepa Pita». «Crear reel» → marca las plataformas que diga cada fecha → vídeo → texto (Ctrl+E, Ctrl+C, Ctrl+V) → portada con Pepa de frente → «Siguiente» hasta «Share» → «Scheduling options» → «Schedule» → fecha y 07:00 PM → «Schedule».\nB) TIKTOK (solo los vídeos LARGOS de los jueves, archivo con TIKTOK en el nombre): https://www.tiktok.com/tiktokstudio/upload → vídeo → texto → «Mostrar más» → «Contenido generado por IA» → «Programar» → fecha, 19:00.\nCARRUSELES (Facebook e Instagram, lunes 13:00): pasos en redes › pepa_pita › carruseles › COMO_PUBLICAR_UN_CARRUSEL.txt.\nAl terminar, escribe «Pepa programada».\n\nLISTA DE COMPROBACIÓN (redes/LISTA_COMPROBACION.md), en CADA publicación antes de pasar a la siguiente:\n  ☐ Texto pegado entero (no vacío ni cortado)\n  ☐ Hashtags: 5 como máximo\n  ☐ Fecha y hora correctas (ojo al MES en Meta; que la hora no se quede en la actual)\n  ☐ Cuenta y archivo correctos (Pepa Pita o Ticket Medio; en TikTok, el archivo con TIKTOK en el nombre si lo hay)",
+      "updatedAt": "2026-09-30T12:55:22.000Z",
       "status": "pendiente",
       "comentarios": [],
       "createdAt": "2026-09-28T13:02:28.000Z",
@@ -2227,14 +2227,14 @@
     },
     {
       "id": "c-pepa-tanda-6",
-      "title": "Producir Pepa 031–036 (Cordero y cochinillo…)",
-      "date": "2026-11-30",
+      "title": "Producir Pepa 031–036 (uvas, roscón, sobras, enero…)",
+      "date": "2026-12-14",
       "who": "claude",
       "kind": "tarea",
       "project": "redes",
       "platforms": [],
-      "notes": "Temas: Cordero y cochinillo · Sobras de Navidad · Menú de Navidad barato (2) · Aperitivos · Bebidas frías · Canapés. Datos verificados en fuentes oficiales.",
-      "updatedAt": "2026-09-28T13:02:28.000Z",
+      "notes": "3 cortos + 3 largos. Temas: Las uvas de Nochevieja · Roscón · Sobras de las fiestas · Brindis sin intoxicaciones · Menú barato de enero · Comer mejor gastando menos.",
+      "updatedAt": "2026-09-30T12:55:22.000Z",
       "status": "pendiente",
       "comentarios": [],
       "createdAt": "2026-09-28T13:02:28.000Z",
@@ -2242,8 +2242,8 @@
     },
     {
       "id": "pub-pepa-lote-6",
-      "title": "Programar de una vez Pepa 031–036 en Instagram, Facebook y TikTok + 4 carruseles 019–022 (75 min)",
-      "date": "2026-12-03",
+      "title": "Programar Pepa 031–036 (24/12–12/1) + 3 carruseles 017–019 (60 min)",
+      "date": "2026-12-16",
       "who": "tu",
       "kind": "publicacion",
       "project": "redes",
@@ -2252,42 +2252,8 @@
         "Facebook",
         "TikTok"
       ],
-      "notes": "Programamos de una vez los 6 vídeos de Pepa de las dos semanas siguientes (unos 45 min). Carpetas: Descargas › faceless › redes › pepa_pita › videos › 0XX_… › salida (vídeo .mp4 + TEXTO_PUBLICACION.txt). Los títulos para Facebook te los dejo en los comentarios.\n\nFechas (todas a las 19:00, en Instagram + Facebook y en TikTok):\n   · Vídeo 031 → martes 8 de diciembre, 19:00\n   · Vídeo 032 → jueves 10 de diciembre, 19:00\n   · Vídeo 033 → sábado 12 de diciembre, 19:00\n   · Vídeo 034 → martes 15 de diciembre, 19:00\n   · Vídeo 035 → jueves 17 de diciembre, 19:00\n   · Vídeo 036 → sábado 19 de diciembre, 19:00\n\nA) INSTAGRAM + FACEBOOK (https://business.facebook.com/latest/home con TU Facebook personal; arriba a la izquierda «Pepa Pita»):\n   «Crear reel» → marca Facebook e Instagram → vídeo → texto (Ctrl+E, Ctrl+C, Ctrl+V) → portada con Pepa de frente → «Siguiente» hasta «Share» → «Scheduling options» → «Schedule» → fecha y 07:00 PM → botón azul «Schedule».\n   Si se queda en «Scheduling your post…»: mira https://business.facebook.com/latest/content_calendar antes de repetir.\nB) TIKTOK (https://www.tiktok.com/tiktokstudio/upload, cuenta de Pepa):\n   Vídeo → mismo texto → portada → «Mostrar más» → «Contenido generado por IA» → «Programar» → fecha, 19:00.\nAl terminar, escribe «Pepa programada» (y si alguno de TikTok no se dejó programar, cuál).\n\nCARRUSELES (Facebook e Instagram, 13:00): 019–022 → 07/12, 09/12, 14/12, 16/12. Carpeta redes › pepa_pita › carruseles; pasos en COMO_PUBLICAR_UN_CARRUSEL.txt.",
-      "updatedAt": "2026-09-30T10:22:32",
-      "status": "pendiente",
-      "comentarios": [],
-      "createdAt": "2026-09-28T13:02:28.000Z",
-      "createdBy": "claude"
-    },
-    {
-      "id": "c-pepa-tanda-7",
-      "title": "Producir Pepa 037–042 (Roscón…)",
-      "date": "2026-12-14",
-      "who": "claude",
-      "kind": "tarea",
-      "project": "redes",
-      "platforms": [],
-      "notes": "Temas: Roscón · Uvas de Nochevieja · Sobras de las fiestas · Menú de Año Nuevo · Brindis seguro · Comer mejor gastando menos. Datos verificados en fuentes oficiales.",
-      "updatedAt": "2026-09-28T13:02:28.000Z",
-      "status": "pendiente",
-      "comentarios": [],
-      "createdAt": "2026-09-28T13:02:28.000Z",
-      "createdBy": "claude"
-    },
-    {
-      "id": "pub-pepa-lote-7",
-      "title": "Programar de una vez Pepa 037–042 en Instagram, Facebook y TikTok + 4 carruseles 023–026 (75 min)",
-      "date": "2026-12-17",
-      "who": "tu",
-      "kind": "publicacion",
-      "project": "redes",
-      "platforms": [
-        "Instagram",
-        "Facebook",
-        "TikTok"
-      ],
-      "notes": "Programamos de una vez los 6 vídeos de Pepa de las dos semanas siguientes (unos 45 min). Carpetas: Descargas › faceless › redes › pepa_pita › videos › 0XX_… › salida (vídeo .mp4 + TEXTO_PUBLICACION.txt). Los títulos para Facebook te los dejo en los comentarios.\n\nFechas (todas a las 19:00, en Instagram + Facebook y en TikTok):\n   · Vídeo 037 → martes 22 de diciembre, 19:00\n   · Vídeo 038 → jueves 24 de diciembre, 19:00\n   · Vídeo 039 → sábado 26 de diciembre, 19:00\n   · Vídeo 040 → martes 29 de diciembre, 19:00\n   · Vídeo 041 → jueves 31 de diciembre, 19:00\n   · Vídeo 042 → sábado 2 de enero, 19:00\n\nA) INSTAGRAM + FACEBOOK (https://business.facebook.com/latest/home con TU Facebook personal; arriba a la izquierda «Pepa Pita»):\n   «Crear reel» → marca Facebook e Instagram → vídeo → texto (Ctrl+E, Ctrl+C, Ctrl+V) → portada con Pepa de frente → «Siguiente» hasta «Share» → «Scheduling options» → «Schedule» → fecha y 07:00 PM → botón azul «Schedule».\n   Si se queda en «Scheduling your post…»: mira https://business.facebook.com/latest/content_calendar antes de repetir.\nB) TIKTOK (https://www.tiktok.com/tiktokstudio/upload, cuenta de Pepa):\n   Vídeo → mismo texto → portada → «Mostrar más» → «Contenido generado por IA» → «Programar» → fecha, 19:00.\nAl terminar, escribe «Pepa programada» (y si alguno de TikTok no se dejó programar, cuál).\n\nCARRUSELES (Facebook e Instagram, 13:00): 023–026 → 21/12, 23/12, 28/12, 30/12. Carpeta redes › pepa_pita › carruseles; pasos en COMO_PUBLICAR_UN_CARRUSEL.txt.",
-      "updatedAt": "2026-09-30T10:22:32",
+      "notes": "Fechas:\n   · Vídeo 031 → jueves 24 de diciembre, 19:00 — LARGO (61–75 s): Facebook + TikTok\n   · Vídeo 032 → martes 29 de diciembre, 19:00 — CORTO: Instagram + Facebook\n   · Vídeo 033 → jueves 31 de diciembre, 19:00 — LARGO (61–75 s): Facebook + TikTok\n   · Vídeo 034 → martes 5 de enero, 19:00 — CORTO: Instagram + Facebook\n   · Vídeo 035 → jueves 7 de enero, 19:00 — LARGO (61–75 s): Facebook + TikTok\n   · Vídeo 036 → martes 12 de enero, 19:00 — CORTO: Instagram + Facebook\nCarruseles 017–019 → lunes 28/12, 4/1 y 11/1, 13:00.\n\nA) INSTAGRAM + FACEBOOK (martes, vídeo CORTO) o SOLO FACEBOOK (jueves, vídeo LARGO): https://business.facebook.com/latest/home con TU Facebook personal; arriba a la izquierda «Pepa Pita». «Crear reel» → marca las plataformas que diga cada fecha → vídeo → texto (Ctrl+E, Ctrl+C, Ctrl+V) → portada con Pepa de frente → «Siguiente» hasta «Share» → «Scheduling options» → «Schedule» → fecha y 07:00 PM → «Schedule».\nB) TIKTOK (solo los vídeos LARGOS de los jueves, archivo con TIKTOK en el nombre): https://www.tiktok.com/tiktokstudio/upload → vídeo → texto → «Mostrar más» → «Contenido generado por IA» → «Programar» → fecha, 19:00.\nCARRUSELES (Facebook e Instagram, lunes 13:00): pasos en redes › pepa_pita › carruseles › COMO_PUBLICAR_UN_CARRUSEL.txt.\nAl terminar, escribe «Pepa programada».\n\nLISTA DE COMPROBACIÓN (redes/LISTA_COMPROBACION.md), en CADA publicación antes de pasar a la siguiente:\n  ☐ Texto pegado entero (no vacío ni cortado)\n  ☐ Hashtags: 5 como máximo\n  ☐ Fecha y hora correctas (ojo al MES en Meta; que la hora no se quede en la actual)\n  ☐ Cuenta y archivo correctos (Pepa Pita o Ticket Medio; en TikTok, el archivo con TIKTOK en el nombre si lo hay)",
+      "updatedAt": "2026-09-30T12:55:22.000Z",
       "status": "pendiente",
       "comentarios": [],
       "createdAt": "2026-09-28T13:02:28.000Z",
@@ -2338,7 +2304,7 @@
     },
     {
       "id": "c-carruseles-2",
-      "title": "Claude: 4 carruseles de Pepa 007–010 (26/10, 28/10, 02/11, 04/11)",
+      "title": "Claude: 4 carruseles de Pepa 007–010 (26/10, 28/10, 02/11, 09/11)",
       "date": "2026-10-20",
       "who": "claude",
       "kind": "material",
@@ -2351,13 +2317,13 @@
       "notes": "Con datos verificados y fuente, sobre los temas de los Reels de esas semanas. Se programan en pub-pepa-lote-3.",
       "createdAt": "2026-09-30T10:22:32",
       "createdBy": "claude",
-      "updatedAt": "2026-09-30T10:22:32",
+      "updatedAt": "2026-09-30T12:55:22.000Z",
       "comentarios": []
     },
     {
       "id": "c-carruseles-3",
-      "title": "Claude: 4 carruseles de Pepa 011–014 (09/11, 11/11, 16/11, 18/11)",
-      "date": "2026-11-03",
+      "title": "Claude: 3 carruseles de Pepa 011–013 (16/11, 23/11, 30/11)",
+      "date": "2026-11-05",
       "who": "claude",
       "kind": "material",
       "project": "redes",
@@ -2366,16 +2332,16 @@
         "Instagram",
         "Facebook"
       ],
-      "notes": "Con datos verificados y fuente, sobre los temas de los Reels de esas semanas. Se programan en pub-pepa-lote-4.",
+      "notes": "Desde noviembre, 1 a la semana (decisión del 30/09), salvo que los datos de octubre demuestren que traen seguidores: mirarlo antes de hacerlos. Se programan en pub-pepa-lote-4.",
       "createdAt": "2026-09-30T10:22:32",
       "createdBy": "claude",
-      "updatedAt": "2026-09-30T10:22:32",
+      "updatedAt": "2026-09-30T12:55:22.000Z",
       "comentarios": []
     },
     {
       "id": "c-carruseles-4",
-      "title": "Claude: 4 carruseles de Pepa 015–018 (23/11, 25/11, 30/11, 02/12)",
-      "date": "2026-11-17",
+      "title": "Claude: 3 carruseles de Pepa 014–016 (07/12, 14/12, 21/12)",
+      "date": "2026-11-25",
       "who": "claude",
       "kind": "material",
       "project": "redes",
@@ -2384,16 +2350,16 @@
         "Instagram",
         "Facebook"
       ],
-      "notes": "Con datos verificados y fuente, sobre los temas de los Reels de esas semanas. Se programan en pub-pepa-lote-5.",
+      "notes": "1 a la semana. Se programan en pub-pepa-lote-5.",
       "createdAt": "2026-09-30T10:22:32",
       "createdBy": "claude",
-      "updatedAt": "2026-09-30T10:22:32",
+      "updatedAt": "2026-09-30T12:55:22.000Z",
       "comentarios": []
     },
     {
       "id": "c-carruseles-5",
-      "title": "Claude: 4 carruseles de Pepa 019–022 (07/12, 09/12, 14/12, 16/12)",
-      "date": "2026-12-01",
+      "title": "Claude: 3 carruseles de Pepa 017–019 (28/12, 04/01, 11/01)",
+      "date": "2026-12-10",
       "who": "claude",
       "kind": "material",
       "project": "redes",
@@ -2402,28 +2368,74 @@
         "Instagram",
         "Facebook"
       ],
-      "notes": "Con datos verificados y fuente, sobre los temas de los Reels de esas semanas. Se programan en pub-pepa-lote-6.",
+      "notes": "1 a la semana. Se programan en pub-pepa-lote-6.",
       "createdAt": "2026-09-30T10:22:32",
       "createdBy": "claude",
-      "updatedAt": "2026-09-30T10:22:32",
+      "updatedAt": "2026-09-30T12:55:22.000Z",
       "comentarios": []
     },
     {
-      "id": "c-carruseles-6",
-      "title": "Claude: 4 carruseles de Pepa 023–026 (21/12, 23/12, 28/12, 30/12)",
-      "date": "2026-12-15",
+      "id": "c-mercadona-criterio",
+      "title": "Claude: ¿funciona Mercadona? Criterio de éxito a 7 días",
+      "date": "2026-10-09",
       "who": "claude",
-      "kind": "material",
+      "kind": "tarea",
+      "project": "youtube",
+      "status": "pendiente",
+      "platforms": [],
+      "notes": "Vamos bien si en 7 días pasa de 100 visualizaciones y la retención media supera el 25 %. Si no, antes del vídeo 5 (Lidl) revisar título, miniatura, primeros 30 s y el papel de los Shorts como puerta de entrada; no basta con «mejorar el gancho». Resultado en la Sala y en seo/PENDIENTES.md.",
+      "createdAt": "2026-09-30T12:55:22.000Z",
+      "createdBy": "claude",
+      "updatedAt": "2026-09-30T12:55:22.000Z",
+      "comentarios": []
+    },
+    {
+      "id": "c-pepa-ganchos",
+      "title": "Claude: elegir el arranque de Pepa con los datos de Facebook (013–018)",
+      "date": "2026-11-09",
+      "who": "claude",
+      "kind": "tarea",
+      "project": "redes",
+      "status": "pendiente",
+      "platforms": [],
+      "notes": "Ver seo/PRUEBA_GANCHOS_PEPA.md. Objetivo: más del 40 % pasa de 3 s y más de 15 s de media en Facebook. Sin gancho validado no se produce el lote 019.",
+      "createdAt": "2026-09-30T12:55:22.000Z",
+      "createdBy": "claude",
+      "updatedAt": "2026-09-30T12:55:22.000Z",
+      "comentarios": []
+    },
+    {
+      "id": "u-fb-monetizacion",
+      "title": "Facebook de Pepa: apuntarse a la monetización de contenido (5 min, con el MÓVIL)",
+      "date": "2026-10-01",
+      "who": "tu",
+      "kind": "tarea",
       "project": "redes",
       "status": "pendiente",
       "platforms": [
-        "Instagram",
         "Facebook"
       ],
-      "notes": "Con datos verificados y fuente, sobre los temas de los Reels de esas semanas. Se programan en pub-pepa-lote-7.",
-      "createdAt": "2026-09-30T10:22:32",
+      "notes": "Facebook solo paga por invitación, pero deja mostrar interés con un formulario (página oficial: creators.facebook.com/tools/facebook-content-monetization). Solo se puede desde la app del móvil:\n1. Abre la app de Facebook en el móvil.\n2. Toca tu foto o «Menú» (las tres rayas) y cambia al perfil de la página «Pepa Pita» (toca la flechita junto a tu nombre y elige Pepa Pita).\n3. En el menú de la página, toca «Panel profesional».\n4. Busca «Monetización» (a veces está dentro de «Herramientas» o hay que bajar).\n5. Toca «Monetización de contenido». Si sale un botón del tipo «Mostrar interés», «Recibir notificaciones» o «Unirse a la lista», púlsalo y rellena lo que pida. Si pide datos de pago o fiscales, para y dímelo.\n6. Si pone que la página «no cumple los requisitos» o no aparece la opción, dime qué pone (o sube una captura). Con una página tan nueva es lo normal: lo repetiremos más adelante.\nEscribe aquí qué ha salido.",
+      "createdAt": "2026-09-30T12:55:22.000Z",
       "createdBy": "claude",
-      "updatedAt": "2026-09-30T10:22:32",
+      "updatedAt": "2026-09-30T12:55:22.000Z",
+      "comentarios": []
+    },
+    {
+      "id": "u-tiktok-personal",
+      "title": "TikTok de Pepa: comprobar que la cuenta es PERSONAL y no de empresa (5 min, con el MÓVIL)",
+      "date": "2026-10-01",
+      "who": "tu",
+      "kind": "tarea",
+      "project": "redes",
+      "status": "pendiente",
+      "platforms": [
+        "TikTok"
+      ],
+      "notes": "TikTok solo paga a cuentas PERSONALES. En los ajustes de la web he visto «Verificación de la empresa», que suele salir en las cuentas de empresa, así que puede que la de Pepa lo sea.\n1. Abre la app de TikTok en el móvil, con la cuenta de Pepa.\n2. Toca «Perfil» (abajo a la derecha) → las tres rayas ☰ (arriba a la derecha) → «Ajustes y privacidad» → «Cuenta».\n3. Mira qué opción aparece:\n   · «Cambiar a cuenta de empresa» → es PERSONAL. Perfecto: no toques nada y escribe «personal».\n   · «Cambiar a cuenta personal» → es DE EMPRESA. Tócala y confirma.\n4. Si la has cambiado: en el ordenador abre https://www.tiktok.com/tiktokstudio → «Publicaciones» → «Programadas» y comprueba que siguen ahí los vídeos del 1/10 al 24/10. Si falta alguno, dímelo y te digo cómo volver a programarlo.\nEscribe aquí qué has encontrado.",
+      "createdAt": "2026-09-30T12:55:22.000Z",
+      "createdBy": "claude",
+      "updatedAt": "2026-09-30T12:55:22.000Z",
       "comentarios": []
     }
   ],
@@ -2523,6 +2535,12 @@
       "author": "claude",
       "text": "📈 Resumen SEO del miércoles 30/09: el Reel del pollo de Pepa arranca bien en Facebook (469 visualizaciones, casi todas de gente que no nos sigue, y 1 seguidor nuevo); en Instagram, 61 y 1 envío; en TikTok, 1. El punto débil son los primeros segundos: se ven 6 s de media de 46, y en Facebook solo 1 de cada 4 pasa de los 3 s. YouTube sigue igual (gasolina: 5 visualizaciones, CTR 18,2 %). Recomendación: en los próximos Reels, la pregunta y el «¡Para!» de Pepa en pantalla desde el primer segundo. Sin comentarios nuevos. Tarea: el Reel de Instagram parece publicado sin texto; revísalo en la app y, si es así, pégale la descripción.",
       "createdAt": "2026-09-30T06:46:11.395Z"
+    },
+    {
+      "id": "m-145540622721",
+      "author": "claude",
+      "text": "💶 CUÁNDO Y DÓNDE SE COBRA (dicho claro, 30/09). A alguien que vive en España solo le pagan por VISUALIZACIONES dos plataformas: YouTube (cuando entremos en el Programa de Socios: 1.000 suscriptores + 8.000 horas; objetivo, solicitarlo en julio de 2027) y Facebook (solo si Meta nos invita; al principio son céntimos). Instagram y TikTok NO pagan por visualizaciones a una cuenta como la nuestra: sirven de escaparate para marcas, regalos y enlaces de afiliado. TikTok solo pagaría con 10.000 seguidores, 100.000 visualizaciones al mes y vídeos de más de 1 minuto: queda lejos. Los primeros euros, si llegan, serán de Amazon Afiliados y de los regalos de Instagram cuando una cuenta pase de 500 seguidores. En 2026 NO habrá ingresos importantes por visualizaciones. A partir de ahora, cada lunes te dejo aquí un «Panel de dinero» con lo que falta para cada cobro.",
+      "createdAt": "2026-09-30T12:55:40.622Z"
     }
   ],
   "hojaDeRuta": {
@@ -2543,7 +2561,7 @@
         "nombre": "Fase 1 · Lanzamiento",
         "inicio": "2026-09-28",
         "fin": "2026-10-25",
-        "objetivo": "Arrancar con constancia: 1 vídeo largo y 3 Shorts a la semana en Ticket Medio, y 3 vídeos a la semana de Pepa Pita.",
+        "objetivo": "Arrancar con constancia: 1 vídeo largo y 3 Shorts a la semana en Ticket Medio, y Pepa Pita: 3 Reels a la semana hasta el 7/11 (ya hechos).",
         "hitos": [
           "✅ Estudio de nicho con datos: nos quedamos en «empresas españolas por dentro» (28/09)",
           "✅ Mascota del ticket y formato ilustrado (28/09)",
@@ -2560,9 +2578,10 @@
         "objetivo": "Aprovechar noviembre y diciembre, cuando los anunciantes pagan más: Black Friday, Navidad y Lotería.",
         "hitos": [
           "Vídeos de temporada: Black Friday (20/11), Lotería de Navidad (4/12), Navidad (18/12) y rebajas (25/12)",
-          "Pepa Pita: menús y trucos de otoño y de Navidad, 3 a la semana",
+          "Pepa Pita: prueba de 3 arranques (27/10–7/11); desde el 12/11, 2 Reels a la semana hasta que la retención mejore; Facebook, plataforma principal",
           "RESULTADOS el 2/11 y el 1/12: decidir qué repetir",
-          "Calendario completo en youtube/CALENDARIO_EDITORIAL.md"
+          "Calendario completo en youtube/CALENDARIO_EDITORIAL.md",
+          "Mercadona, 9/10: >100 visualizaciones en 7 días y >25 % de retención"
         ]
       },
       {
@@ -2591,7 +2610,7 @@
         "nombre": "Fase 5 · Monetización",
         "inicio": "2027-07-01",
         "fin": "2027-12-31",
-        "objetivo": "Si los números acompañan: activar el Programa de Partners de YouTube y los patrocinios, y hacer las cosas bien con Hacienda.",
+        "objetivo": "Julio de 2027: solicitar el Programa de Socios de YouTube (1.000 suscriptores + 8.000 h) y la monetización en las plataformas que cumplan. Patrocinios y Hacienda.",
         "hitos": [
           "Solicitar el Programa de Partners de YouTube",
           "Consultar con una gestoría el alta de autónomo",
@@ -2607,7 +2626,7 @@
       },
       {
         "dia": "Martes",
-        "tu": "Programar Pepa en Instagram, Facebook y TikTok (10 min)",
+        "tu": "Solo los días que toque lote: programar Pepa (tarea de la Sala)",
         "claude": "Voz, escenas ilustradas y montaje del vídeo largo"
       },
       {
@@ -2617,7 +2636,7 @@
       },
       {
         "dia": "Jueves",
-        "tu": "Ver el vídeo (12 min), subirlo programado con sus 3 Shorts (25 min) y programar Pepa (10 min)",
+        "tu": "Ver el vídeo (12 min) y subirlo programado con sus 3 Shorts (25 min)",
         "claude": "Corregir lo que me digas"
       },
       {
