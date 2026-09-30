@@ -34,6 +34,13 @@
    "fecha": "2026-09-30T06:30:23Z",
    "tarea": "u-pepa1-tiktok",
    "texto": "Quiero que ahora que tienes acceso a meta lo busques y lo cambies tu"
+  },
+  {
+   "id": "w-8",
+   "accion": "estado",
+   "fecha": "2026-09-30T06:45:50Z",
+   "tarea": "u-fondos-v11",
+   "estado": "hecho"
   }
  ]
 }
