@@ -53,5 +53,7 @@ metadata:
 
 **Vigilancia de ideas (30/09):** la rutina de las 9:00 también busca outliers en YouTube (yt_buscar.py), mira Inspiración de TikTok Studio y apunta 3 ideas + 1 mejora al día en seo/IDEAS.md («💡 Idea del día» en la Sala). Al producir vídeos, Reels o carruseles, partir de seo/IDEAS.md. Copiar formatos y temas que funcionan, nunca guiones ni imágenes.
 
+**SEO senior proactivo (30/09):** el usuario NO quiere tener que decirme qué hacer: yo asumo todas las funciones de un SEO senior (seo/00_ESTRATEGIA_SEO.md, apartado 11: palabras clave y 3 títulos por vídeo, retención semanal, informe semanal y mensual, perfiles, calendario con actualidad, listas de reproducción y pantallas finales, normas) y le digo con franqueza lo que no puedo hacer (apartado 12). La rutina (seo/RUTINA_DIARIA.md) incluye las tareas según el día.
+
 **Why:** negocio real, calidad antes que cantidad, cumpliendo la política de «contenido no auténtico» de YouTube (se revisa a nivel de canal).
 **How to apply:** ver [[user-profile]]. Nunca poner tareas en fin de semana. Decidir yo lo editorial; al usuario, solo pasos prácticos muy detallados.

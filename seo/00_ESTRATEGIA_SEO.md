@@ -163,3 +163,31 @@ No se usan ni el navegador automatizado ni las API. Motivo: no arriesgar las cue
 - **YouTube:** vídeo largo + 3 Shorts por vídeo.
 - **Instagram y Facebook:** Reel de Pepa de 35–45 s + 2 carruseles a la semana (lunes y miércoles).
 - **TikTok:** versión de Pepa de 61–75 s desde el 019.
+
+## 11. Funciones de SEO senior que asume Claude (sin que el usuario tenga que pedirlas)
+
+| Función | Qué hago | Cuándo |
+|---|---|---|
+| Estadísticas | Cifras de las 4 plataformas, comparadas con el día anterior | Cada día, 9:00 |
+| Vigilancia de la competencia | Vídeos que funcionan mucho mejor de lo normal en otros canales, temas de temporada, búsquedas de TikTok → seo/IDEAS.md | Cada día, 9:00 |
+| Palabras clave | Antes de cada vídeo, lo que la gente escribe en YouTube y Google (autocompletado, búsquedas relacionadas) para el título, la descripción y los capítulos | Con cada vídeo |
+| Título y miniatura | 3 títulos y 2–3 miniaturas por vídeo para Test & Compare de YouTube (el usuario los sube en Studio al programar) | Con cada vídeo |
+| Retención | Dónde abandona la gente en cada vídeo publicado y qué se cambia en el siguiente (gancho, ritmo, duración) | Cada viernes |
+| Retención del canal | Listas de reproducción por series, pantallas finales y tarjetas hacia el siguiente vídeo, Shorts enlazados a su vídeo largo | Con cada vídeo + revisión mensual |
+| Calendario con actualidad | Aprovechar noticias y fechas: resultados anuales de las empresas, rebajas, Navidad, cuesta de enero, declaración de la renta… | Revisión mensual |
+| Perfiles | Descripción del canal, biografía de Instagram y TikTok con palabras clave, enlaces e historias destacadas | Revisión mensual |
+| Informe semanal | Cómo vamos frente a los puntos de control (apartado 8) y qué se cambia | Cada viernes |
+| Informe mensual | Resultados del mes, lo que ha funcionado y el plan del mes siguiente | Primer día laborable del mes |
+| Ingresos | Hito de 500 seguidores (Amazon Afiliados + regalos de Instagram), dosier para marcas a los 5.000, solicitud de monetización cuando se cumplan los requisitos | Cuando toque |
+| Normas | Vigilar los cambios de normas de las plataformas (contenido no auténtico, IA, monetización) | Revisión mensual |
+| Ideas propias | Proponer y probar formatos nuevos cuando los datos lo justifiquen | Continuo |
+
+## 12. Lo que Claude NO puede hacer (dicho con franqueza)
+
+- **Publicar, subir, responder comentarios, dar «me gusta» o seguir cuentas.** Lo decidió el usuario, y además las normas de las plataformas no lo permiten con programas. Claude prepara las respuestas a los comentarios y el usuario las pega.
+- **Trabajar con el ordenador apagado.** La rutina necesita el ordenador encendido y la sesión de Windows iniciada. Si está apagado a las 9:00, se hace al encenderlo.
+- **Ver los datos internos de otros canales** (su retención o su porcentaje de clics). Solo los públicos: visualizaciones, suscriptores, fechas, títulos y duración.
+- **Rastrear Instagram o Facebook de otras cuentas con programas.** Meta prohíbe recopilar datos de forma automatizada. Para las ideas de Pepa se usan YouTube (Shorts), la Inspiración de TikTok Studio de nuestra propia cuenta y búsquedas en la web.
+- **Google Trends de forma fiable:** no tiene una vía pública estable. Se usa el autocompletado de YouTube y Google, que sí es fiable.
+- **Hablar por teléfono o firmar con marcas o con Amazon.** Claude redacta los correos y los dosieres; los envía y los firma el usuario.
+- **Garantizar que un vídeo se haga viral o dar una fecha exacta de cobro.** Depende del público; Claude lo mide y ajusta.

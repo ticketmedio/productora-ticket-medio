@@ -19,6 +19,11 @@ Objetivo: copiar lo que FUNCIONA (formatos, temas, ganchos, títulos), nunca gui
 - En el resumen de la Sala añade una línea «💡 Idea del día: …».
 - Cuando produzcas vídeos, Reels o carruseles nuevos, parte de seo/IDEAS.md.
 
+## TAREAS DE SEO SENIOR SEGÚN EL DÍA (ver seo/00_ESTRATEGIA_SEO.md, apartado 11)
+- VIERNES: informe semanal. Retención de los vídeos publicados esa semana: abre en YouTube Studio la pestaña de estadísticas de cada vídeo con `node herramientas/estadisticas.js url <url de estadísticas del vídeo>`, busca dónde se va la gente y apunta en seo/PENDIENTES.md qué se cambia en el siguiente vídeo. Compara con los puntos de control (apartado 8).
+- PRIMER DÍA LABORABLE DEL MES: informe mensual en seo/informes/AAAA-MM.md (resultados, qué funcionó, plan del mes) y resumen en la Sala. Revisa los perfiles (descripción del canal y biografías), el calendario con la actualidad del mes (resultados de empresas, fechas señaladas) y los cambios de normas de las plataformas (búsqueda web).
+- CUALQUIER DÍA en que falten 7 días o menos para la producción de un vídeo de YouTube (mira youtube/CALENDARIO_EDITORIAL.md y las tareas c-video-* de web/datos.json): investiga las palabras clave de su tema (autocompletado de YouTube: `WebFetch https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=es&gl=es&q=<tema>`, y el de Google sin «&ds=yt») y deja en seo/PENDIENTES.md 3 títulos, 2–3 ideas de miniatura y las palabras clave de la descripción.
+
 PROHIBIDO en esta rutina: seguir cuentas, dar «me gusta», comentar, publicar o cambiar nada en YouTube, Meta o TikTok desde el navegador. Solo leer.
 
 NOTA (30/09): los Reels de Instagram SÍ tienen su texto (lo confirmó el usuario); las estadísticas de Meta a veces no lo enseñan. No vuelvas a pedirle que lo ponga.
