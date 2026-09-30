@@ -75,5 +75,10 @@
    "sub": "lo que cortes"
   }
  ],
- "salida": "salida/PEPA_014_calabaza.mp4"
+ "salida": "salida/PEPA_014_calabaza.mp4",
+ "gancho": {
+  "tipo": "B",
+  "texto": "¿TIRAS LAS PIPAS DE LA CALABAZA?",
+  "hasta": 2.32
+ }
 }

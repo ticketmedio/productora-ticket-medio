@@ -114,7 +114,7 @@ Además, hoy ya no sirve para crecer. Seguir para que te sigan no mejora ninguna
 | Plataforma | Qué hace falta para cobrar | Cómo se cobra | Objetivo realista a julio 2027 |
 |---|---|---|---|
 | YouTube (Ticket Medio) | 1.000 suscriptores + 8.000 h de visualización en 12 meses (desde el 1/2/2027) | Anuncios (RPM prudente: 3 €) | Posible, pero menos probable que no llegar; más probable a finales de 2027 |
-| Facebook (Pepa) | Programa de monetización de contenido: **solo por invitación** (España ya puede recibirlas). Terceros hablan de 10.000 seguidores y 600.000 min vistos en 60 días (no oficial) | Reels y vídeos | La plataforma más prometedora para Pepa: los Reels ya llegan a gente que no nos sigue |
+| Facebook (Pepa) | Programa de monetización de contenido: **solo por invitación** (España ya puede recibirlas). Comprobado el 30/09 en la página oficial de Meta: **no hay cifra oficial**; se puede mostrar interés con un formulario en la app (Panel profesional → Monetización → Monetización de contenido) y las invitaciones llegan por la app, el correo, Business Suite o el panel. Terceros hablan de 10.000 seguidores y 600.000 min vistos en 60 días (no oficial). Lo que paga con público español son céntimos al principio | Reels y vídeos | La plataforma más prometedora para Pepa: los Reels ya llegan a gente que no nos sigue |
 | Instagram (Pepa) | Regalos desde 500 seguidores; suscripciones desde 10.000. Los bonos por Reels son solo por invitación | Regalos, suscripciones y, sobre todo, **colaboraciones con marcas** | Colaboraciones con marcas de cocina o alimentación con 5.000–10.000 seguidores |
 | TikTok (Pepa) | 10.000 seguidores + 100.000 visualizaciones en 30 días, cuenta PERSONAL (no de empresa), 18+ y **vídeos originales de más de 1 minuto** subidos después de la aceptación | Programa de recompensas para creadores | Solo si un vídeo se hace viral; lo más incierto |
 
@@ -126,12 +126,14 @@ Además, hoy ya no sirve para crecer. Seguir para que te sigan no mejora ninguna
 
 | Fecha | Vamos bien si… | Si no, se cambia… |
 |---|---|---|
+| Viernes 9/10/2026 (mañana) | Mercadona: más de 100 visualizaciones en 7 días y retención media de más del 25 % | Antes del vídeo 5: título, miniatura, primeros 30 s y papel de los Shorts como puerta de entrada (no basta con «mejorar el gancho») |
+| Lunes 9/11/2026 | Pepa: alguna variante de arranque (013–018) con más del 40 % de visualizaciones de 3 s y más de 15 s de media en Facebook | No se produce el lote 019 hasta tenerla; se repite la prueba con otras variantes |
 | Fin de noviembre 2026 | YouTube: los vídeos nuevos retienen más del 25 % y alguno pasa de 500 visitas. Pepa: más del 40 % de visualizaciones de 3 s en Facebook | Ganchos, duración y miniaturas |
 | Fin de enero 2027 | YouTube: 200–300 suscriptores y algún vídeo de más de 5.000 visitas. Pepa: 1.000 seguidores en alguna red | Temas: doblar lo que funcione |
 | Abril 2027 | YouTube: más de 2.000 h acumuladas. Pepa: 5.000 seguidores en alguna red | Plantearse 2 vídeos por semana, un formato más largo o más Reels |
 | Julio 2027 | Solicitar la monetización en las plataformas que cumplan los requisitos | Revisar el plan entero con los datos |
 
-Fuentes: TikTok Creator Rewards (resumen de requisitos y países): https://shortsfast.com/blog/tiktok-creator-rewards-eligibility-2026/ · Facebook, países de la monetización de contenido (oficial): https://www.facebook.com/business/help/267128784014981 · Facebook, qué es (oficial): https://www.facebook.com/business/help/1049081556813520 · Instagram, monetización 2026 (terceros): https://www.conbersa.ai/learn/instagram-creator-monetization-2026
+Fuentes: Facebook, monetización de contenido (oficial, «solo por invitación» y formulario de interés): https://creators.facebook.com/tools/facebook-content-monetization · TikTok Creator Rewards (resumen de requisitos y países): https://shortsfast.com/blog/tiktok-creator-rewards-eligibility-2026/ · Facebook, países de la monetización de contenido (oficial): https://www.facebook.com/business/help/267128784014981 · Facebook, qué es (oficial): https://www.facebook.com/business/help/1049081556813520 · Instagram, monetización 2026 (terceros): https://www.conbersa.ai/learn/instagram-creator-monetization-2026
 
 ## 9. PLAN DE INGRESOS (prioridad n.º 1 desde el 30/09/2026)
 
@@ -140,7 +142,7 @@ El objetivo del proyecto es COBRAR EN TODAS LAS PLATAFORMAS. Cada decisión de f
 | Plataforma | Palanca para cobrar | Qué cambiamos para llegar antes |
 |---|---|---|
 | YouTube | Horas de visualización (8.000) + 1.000 suscriptores | Vídeos de 12–15 min cuando la retención aguante (más horas por visita); Shorts para captar suscriptores; probar títulos y miniaturas en cada vídeo |
-| Facebook | Invitación al programa de monetización | Reels todos los días que se pueda (hoy, 3 a la semana) y vídeos de más de 1 minuto; Facebook es donde Pepa ya llega a gente que no nos sigue |
+| Facebook | Invitación al programa de monetización (formulario de interés enviado: tarea u-fb-monetizacion) | PLATAFORMA PRINCIPAL DE PEPA desde el 30/09. Menos Reels pero mejores: 2 a la semana (uno de más de 1 minuto) hasta que la retención mejore (apartado 13) |
 | Instagram | Regalos (500 seguidores), suscripciones (10.000) y marcas | Activar los regalos en cuanto lleguemos a 500; preparar un dosier para marcas a partir de 5.000 |
 | TikTok | 10.000 seguidores + 100.000 visualizaciones en 30 días + vídeos de más de 60 s | Versión de 61–75 s desde Pepa 019; más frecuencia (TikTok recomienda publicar a menudo) |
 | Todas, desde 500 seguidores | **Enlaces de afiliado** (Amazon Afiliados España). Ayuda oficial: la página debe estar «consolidada» y tener «en la mayoría de los casos, al menos 500» seguidores orgánicos; tras el alta hay 180 días para conseguir 3 ventas, y solo entonces revisan la solicitud. NO darse de alta antes de los 500 (se gastaría el plazo) | Pepa: termómetro de nevera, tablas de cortar, táperes… Ticket Medio: libros sobre las empresas que contamos. Siempre avisando de que es un enlace de afiliado. Requiere que el usuario abra la cuenta (datos fiscales) |
@@ -161,8 +163,8 @@ No se usan ni el navegador automatizado ni las API. Motivo: no arriesgar las cue
 
 **Formato por plataforma:**
 - **YouTube:** vídeo largo + 3 Shorts por vídeo.
-- **Instagram y Facebook:** Reel de Pepa de 35–45 s + 2 carruseles a la semana (lunes y miércoles).
-- **TikTok:** versión de Pepa de 61–75 s desde el 019.
+- **Pepa, desde el 10/11 (apartado 13):** 2 Reels a la semana: martes, corto (35–45 s) para Facebook e Instagram; jueves, de 61–75 s para Facebook y TikTok.
+- **Carruseles:** 2 a la semana en octubre (lunes y miércoles); desde noviembre, 1 (lunes).
 
 ## 11. Funciones de SEO senior que asume Claude (sin que el usuario tenga que pedirlas)
 
@@ -191,3 +193,36 @@ No se usan ni el navegador automatizado ni las API. Motivo: no arriesgar las cue
 - **Google Trends de forma fiable:** no tiene una vía pública estable. Se usa el autocompletado de YouTube y Google, que sí es fiable.
 - **Hablar por teléfono o firmar con marcas o con Amazon.** Claude redacta los correos y los dosieres; los envía y los firma el usuario.
 - **Garantizar que un vídeo se haga viral o dar una fecha exacta de cobro.** Depende del público; Claude lo mide y ajusta.
+
+
+## 13. Decisiones del usuario del 30/09/2026 (tras el análisis externo de Claude app)
+
+**Objetivo único de YouTube:** 1.000 suscriptores + 8.000 h de visualización en 12 meses; solicitud del Programa de Socios en **julio de 2027**.
+
+**Qué paga por visualizaciones a un residente en España:**
+| Plataforma | ¿Paga por visualizaciones? | Qué sí puede dar dinero |
+|---|---|---|
+| YouTube | Sí, al entrar en el Programa de Socios (2027) | Anuncios; más adelante, afiliados en la descripción |
+| Facebook | Sí, pero **solo por invitación** y céntimos al principio | Reels y vídeos cuando llegue la invitación |
+| Instagram | **No** de forma general (los bonos por Reels son solo por invitación; no contamos con ellos) | Regalos (500 seguidores), marcas, afiliados |
+| TikTok | Solo con 10.000 seguidores + 100.000 visualizaciones en 30 días, cuenta personal y vídeos de más de 1 min: lejano | Marcas y afiliados |
+En 2026 no habrá ingresos significativos por visualizaciones. Los primeros euros, si llegan, serán de afiliados y regalos al pasar de 500 seguidores; YouTube, en la segunda mitad de 2027.
+
+**Coste real:** el presupuesto no es 0 €: la suscripción a Claude y 1–2 h diarias del usuario. Con 100–300 €/mes esperados dentro de un año, el proyecto tarda más de un año en devolver lo invertido. No es motivo para parar, pero cuenta en el plan de ingresos.
+
+**Pepa Pita:**
+- Facebook es la plataforma principal: las decisiones de formato se toman con sus datos. Instagram y TikTok se mantienen como reflejo, con el mismo esfuerzo de subida.
+- 001–012 (ya programados) no se tocan. 013–018 se programan como estaba previsto (27/10–7/11), pero con **3 variantes de arranque** para medirlas (seo/PRUEBA_GANCHOS_PEPA.md).
+- Después, **2 Reels por semana** hasta que la retención mejore (objetivo: más del 40 % pasa de 3 s en Facebook y reproducción media de más de 15 s).
+- **El lote 019 no se produce sin un gancho validado** (revisión el lunes 9/11).
+- Carruseles: los programados se mantienen; desde noviembre, 1 a la semana, salvo que los datos de octubre demuestren que traen seguidores.
+
+**Reglas nuevas (también en CLAUDE.md):**
+- Ningún formato, duración o plataforma nuevos sin comprobar antes los requisitos de monetización (apartados 7 y 9) y dejarlo escrito en la decisión.
+- Cada lunes, la rutina publica en la Sala el «💶 Panel de dinero» (ver seo/RUTINA_DIARIA.md).
+- Cada publicación a mano lleva su lista de comprobación (redes/LISTA_COMPROBACION.md).
+- Antes de borrar una carpeta de producción se guarda la copia de autoría en archivo/ (guion, voz, planes, miniatura): YouTube puede pedir que demostremos la aportación propia al revisar el canal.
+
+**Riesgos que se aceptan con los ojos abiertos:**
+- Contenido no auténtico: voz sintética + imágenes generadas + guion con IA es el perfil que YouTube revisa. Mitigación: aportación propia documentada, mascota y ticket como sello, fuentes. Cada vídeo mediocre resta: no se baja la calidad por cumplir calendario.
+- Repositorio público: cualquiera puede copiar el sistema. Decisión del usuario; se recordará cuando el canal crezca.

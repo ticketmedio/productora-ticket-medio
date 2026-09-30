@@ -75,5 +75,10 @@
    "sub": "al menos · AESAN"
   }
  ],
- "salida": "salida/PEPA_017_legumbres.mp4"
+ "salida": "salida/PEPA_017_legumbres.mp4",
+ "gancho": {
+  "tipo": "B",
+  "texto": "¿ALUBIAS POCO HECHAS?",
+  "hasta": 2.0
+ }
 }

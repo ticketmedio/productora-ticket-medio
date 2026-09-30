@@ -12,6 +12,11 @@ plan.json (rutas relativas al propio plan):
   "rotulos": [{"desde": 21.2, "hasta": 23.3, "texto": "168.396 CASOS", "sub": "UE · 2024 · EFSA"}],
   "salida": "salida/PEPA_001.mp4"
 }
+Opcional, "gancho": {"tipo": "A" | "B" | "C", "texto": "¿TE EXPLOTAN LAS CASTAÑAS?", "hasta": 2.5}
+  (prueba de arranques del 30/09; se mide en Facebook: % que pasa de 3 s y reproducción media)
+  A = pregunta gigante en amarillo desde el fotograma 0 (sin cabecera ni subtítulo encima).
+  B = sello rojo «¡PARA!» que entra de golpe + la pregunta debajo.
+  C = pregunta gigante en blanco + barra de progreso visible todo el vídeo.
 «busto» usa el primer plano con el pico que se abre al ritmo de la voz.
 Las demás imágenes son los recortes de redes/pepa_pita/recortes (exp_*, pose_*).
 """
@@ -99,6 +104,25 @@ def texto_centrado(d, y, txt, fuente, relleno, borde=10, ancho_max=980, resaltar
     return len(lineas) * alto
 
 
+def dibujar_gancho(frame, d, g, t):
+    """Arranque de los primeros segundos: la pregunta en grande desde el fotograma 0."""
+    f_g = ImageFont.truetype(FUENTE, 118)
+    if g["tipo"] == "B":
+        # sello «¡PARA!» que entra grande y se asienta en 0,2 s
+        k = min(1, t / 0.2)
+        f_s = ImageFont.truetype(FUENTE, int(200 * (1.5 - 0.5 * k)))
+        sello = Image.new("RGBA", (W, 330), (0, 0, 0, 0))
+        ds = ImageDraw.Draw(sello)
+        tw = ds.textlength("¡PARA!", font=f_s)
+        ds.rounded_rectangle(((W - tw) / 2 - 40, 30, (W + tw) / 2 + 40, 300), 30, fill=ROJO, outline=PAPEL, width=10)
+        ds.text((W / 2, 165), "¡PARA!", font=f_s, fill=PAPEL, anchor="mm")
+        frame.alpha_composite(sello.rotate(-6, resample=Image.BICUBIC), (0, 150))
+        texto_centrado(d, 520, g["texto"], ImageFont.truetype(FUENTE, 92), PAPEL, borde=12, resaltar_numeros=False)
+        return
+    color = AMARILLO if g["tipo"] == "A" else PAPEL
+    texto_centrado(d, 190, g["texto"], f_g, color, borde=14, ancho_max=1000, resaltar_numeros=False)
+
+
 def main():
     plan_p = os.path.abspath(sys.argv[1])
     base = os.path.dirname(plan_p)
@@ -179,10 +203,17 @@ def main():
         frame.alpha_composite(im2, (x, max(y, 0)) if y >= 0 else (x, 0))
 
         d = ImageDraw.Draw(frame)
+        g = P.get("gancho")
+        en_gancho = bool(g) and t < g["hasta"]
+        if g and g["tipo"] == "C":  # barra de progreso arriba, todo el vídeo
+            d.rectangle((0, 0, W, 18), fill=TINTA)
+            d.rectangle((0, 0, int(W * t / dur), 18), fill=AMARILLO)
+        if en_gancho:
+            dibujar_gancho(frame, d, g, t)
         # marca y cabecera
         d.rounded_rectangle((W // 2 - 130, 70, W // 2 + 130, 122), 26, fill=TINTA)
         d.text((W // 2, 96), "PEPA PITA", font=f_marca, fill=AMARILLO, anchor="mm")
-        cab = P.get("cabecera", "")
+        cab = "" if en_gancho else P.get("cabecera", "")
         if cab:
             tw = d.textlength(cab, font=f_cab)
             d.rounded_rectangle(((W - tw) / 2 - 36, 150, (W + tw) / 2 + 36, 262), 22, fill=ROJO)
@@ -202,7 +233,7 @@ def main():
                     d.text((W / 2, y0 + 140), r["sub"], font=f_rsub, fill=(90, 96, 104), anchor="mm")
         # subtítulos grandes
         for a, z_, txt in chunks:
-            if a <= t < z_:
+            if a <= t < z_ and not en_gancho:
                 texto_centrado(d, 540, txt.upper(), f_sub, PAPEL)
                 break
         ff.stdin.write(frame.convert("RGB").tobytes())

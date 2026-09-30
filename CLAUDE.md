@@ -30,3 +30,7 @@ Si la memoria automática de Claude Code en este ordenador está vacía o es má
 - Nunca pongas tareas en fin de semana.
 - Nunca muestres ni pidas en el chat las claves de `config/claves.txt`.
 - Todo dato debe ser verificable y tener su fuente en `10_FUENTES.md`.
+- Ningún formato, duración o plataforma nuevos sin comprobar antes los requisitos de monetización en `seo/00_ESTRATEGIA_SEO.md` (apartados 7 y 9) y dejarlo escrito en la decisión.
+- Cada lunes, la rutina publica en la Sala un «panel de dinero»: horas acumuladas de YouTube y días hasta el objetivo, seguidores por red y distancia a 500 (Amazon/regalos), 1.000 y 5.000 (marcas), estado de la invitación de Facebook. El sistema mide producción; debe medir también cobro.
+- Objetivo único de YouTube: 1.000 suscriptores + 8.000 h, solicitud en julio de 2027. Decisiones del 30/09 en `seo/00_ESTRATEGIA_SEO.md`, apartado 13.
+- Cada publicación que programe el usuario lleva la lista de comprobación de `redes/LISTA_COMPROBACION.md` en su tarea.

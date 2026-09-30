@@ -1,2 +1,2 @@
-- [Perfil del usuario](user-profile.md) — no programa, español de España, quiere honestidad y que Claude lo haga todo
+- [Perfil del usuario](user-profile.md) — no programa, español de España, honestidad; OBJETIVO: ingresos extra cobrando en todas las plataformas
 - [Proyecto canal YouTube faceless](project-youtube-faceless.md) — objetivos, comandos, estructura de carpetas, estado actual

@@ -65,5 +65,10 @@
    "sub": "castaña de Indias · ANSES (Francia)"
   }
  ],
- "salida": "salida/PEPA_013_castanas.mp4"
+ "salida": "salida/PEPA_013_castanas.mp4",
+ "gancho": {
+  "tipo": "A",
+  "texto": "¿TE EXPLOTAN LAS CASTAÑAS?",
+  "hasta": 3.5
+ }
 }

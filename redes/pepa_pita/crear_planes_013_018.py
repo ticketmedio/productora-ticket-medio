@@ -48,12 +48,27 @@ planes = {
      (20.2, 27.3, "SE CONGELA", "en rebanadas · AESAN"),
      (27.4, 31.0, "¿MOHO? ENTERO FUERA", "AESAN"))),
 }
+# Prueba de arranques (decisión del usuario del 30/09): 3 variantes, cada una en 2 Reels, alternas en el calendario.
+# Se mide en Facebook (% que pasa de 3 s y reproducción media); ver seo/PRUEBA_GANCHOS_PEPA.md.
+GANCHOS = {
+ "013_castanas": ("A", "¿TE EXPLOTAN LAS CASTAÑAS?"),
+ "014_calabaza": ("B", "¿TIRAS LAS PIPAS DE LA CALABAZA?"),
+ "015_setas": ("C", "¿VAS A POR SETAS AL MONTE?"),
+ "016_menu_otono": ("A", "¿MENÚ BUENO Y BARATO EN OTOÑO?"),
+ "017_legumbres": ("B", "¿ALUBIAS POCO HECHAS?"),
+ "018_pan_duro": ("C", "¿TIRAS EL PAN DE AYER?"),
+}
+def fin_primera_frase(v):
+    l = open(os.path.join(V, v, "voz", "subtitulos.srt"), encoding="utf-8").read().splitlines()[1]
+    z = l.split(" --> ")[1]
+    return int(z[3:5]) * 60 + int(z[6:8]) + int(z[9:]) / 1000
 for v, (fondo, cab, planos, rot) in planes.items():
     assert len(cab) <= 18, cab
     for r in rot: assert len(r["sub"]) <= 43, r["sub"]
     plan = {"voz": "voz/voz.mp3", "subtitulos": "voz/subtitulos.srt", "musica": MUS, "musica_db": -22,
             "fondo": f"../../fondos/{fondo}.jpg", "cabecera": cab, "planos": planos, "rotulos": rot,
-            "salida": f"salida/PEPA_{v}.mp4"}
+            "salida": f"salida/PEPA_{v}.mp4",
+            "gancho": {"tipo": GANCHOS[v][0], "texto": GANCHOS[v][1], "hasta": round(min(3.5, max(2.0, fin_primera_frase(v))), 2)}}
     with open(os.path.join(V, v, "plan.json"), "w", encoding="utf-8") as f:
         json.dump(plan, f, ensure_ascii=False, indent=1)
 print("ok")

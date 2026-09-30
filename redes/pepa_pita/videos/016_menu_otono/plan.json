@@ -71,5 +71,10 @@
    "sub": "compras lo justo · AESAN"
   }
  ],
- "salida": "salida/PEPA_016_menu_otono.mp4"
+ "salida": "salida/PEPA_016_menu_otono.mp4",
+ "gancho": {
+  "tipo": "A",
+  "texto": "¿MENÚ BUENO Y BARATO EN OTOÑO?",
+  "hasta": 2.0
+ }
 }

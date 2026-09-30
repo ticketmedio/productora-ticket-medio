@@ -65,5 +65,10 @@
    "sub": "Toxicología, 24 horas · lleva las setas"
   }
  ],
- "salida": "salida/PEPA_015_setas.mp4"
+ "salida": "salida/PEPA_015_setas.mp4",
+ "gancho": {
+  "tipo": "C",
+  "texto": "¿VAS A POR SETAS AL MONTE?",
+  "hasta": 3.02
+ }
 }

@@ -22,16 +22,19 @@ Hecho el 28/09/2026. Es un plan: cada tema pasa antes por la regla de «título 
 
 Reserva (si alguno falla): Telepizza · Movistar y las operadoras · Renfe frente a Iryo y Ouigo · Wallapop · Los bazares chinos · El negocio de las gasolineras low cost · Glovo.
 
-## Pepa Pita (Instagram, Facebook y TikTok): martes, jueves y sábado a las 19:00
+## Pepa Pita: CAMBIADO el 30/09 por decisión del usuario (ver seo/00_ESTRATEGIA_SEO.md, apartado 13)
+
+Facebook es la plataforma principal de Pepa. Hasta el 7/11, martes, jueves y sábado a las 19:00 (ya hecho). Desde el 12/11, **2 Reels a la semana a las 19:00: martes, corto (IG + FB); jueves, de 61–75 s (FB + TikTok)**, hasta que la retención mejore. Carruseles: lunes y miércoles a las 13:00 en octubre; desde noviembre, solo los lunes.
 
 | Tanda | Fechas | Vídeos | Temas |
 |---|---|---|---|
 | 1 | 29/09 – 10/10 | 001–006 | ✅ Programados (pollo, recongelar, huevos, arroz, anisakis, patatas) |
-| 2 | 13/10 – 24/10 | 007–012 | Tabla de cortar · Sobras · Moho · Mayonesa casera · Lavar la fruta · La nevera por dentro |
-| 3 | 27/10 – 07/11 | 013–018 | Castañas asadas · Calabaza (Halloween) · Setas: no las recojas si no sabes · Menú semanal barato de otoño · Legumbres: remojo y cocción · El pan duro no se tira |
-| 4 | 10/11 – 21/11 | 019–024 | Fechas de caducidad y consumo preferente · Congelar en raciones · Menú barato de noviembre · El táper del trabajo · Huevos: talla y código · Fruta de temporada |
-| 5 | 24/11 – 05/12 | 025–030 | Compras del Black Friday para la cocina (sin anuncios) · Cocer gambas y langostinos · Marisco congelado · Descongelar el pavo · Menú de Navidad barato (1) · Turrón: cómo guardarlo |
-| 6 | 08/12 – 19/12 | 031–036 | Cordero y cochinillo en casa · Sobras de Navidad · Menú de Navidad barato (2) · Aperitivos baratos · Cava y bebidas frías · Canapés con antelación |
-| 7 | 22/12 – 02/01 | 037–042 | Roscón · Las uvas de Nochevieja · Sobras de las fiestas · Menú barato de Año Nuevo · Brindis sin intoxicaciones · Propósito: comer mejor gastando menos |
+| 2 | 13/10 – 24/10 | 007–012 | ✅ Programados (tabla de cortar, sobras, moho, mayonesa casera, lavar la fruta, la nevera) |
+| 3 | 27/10 – 07/11 | 013–018 | ✅ Hechos, con 3 variantes de arranque a prueba (seo/PRUEBA_GANCHOS_PEPA.md): castañas · calabaza · setas · menú de otoño · legumbres · pan duro |
+| 4 | 12/11 – 01/12 | 019–024 | SOLO si el 9/11 hay un gancho validado. Fechas de caducidad y consumo preferente · Congelar en raciones · El táper del trabajo · Huevos: talla y código · Marisco congelado · Descongelar el pavo |
+| 5 | 03/12 – 22/12 | 025–030 | Cocer gambas y langostinos · Turrón: cómo guardarlo · Menú de Navidad barato · Canapés con antelación · Cordero y cochinillo en casa · Sobras de Navidad |
+| 6 | 24/12 – 12/01 | 031–036 | Las uvas de Nochevieja · Roscón · Sobras de las fiestas · Brindis sin intoxicaciones · Menú barato de enero · Comer mejor gastando menos |
+
+Carruseles: 007–010 (26/10, 28/10, 2/11, 9/11) · 011–013 (16, 23 y 30/11) · 014–016 (7, 14 y 21/12) · 017–019 (28/12, 4/1 y 11/1).
 
 Todos con datos de la AESAN, la EFSA u otros organismos oficiales, verificados antes de escribir el guion.

@@ -71,6 +71,36 @@
    "ruta": "youtube/video_004_corte_ingles",
    "ultima_publicacion": "2026-10-21",
    "archivo": "video_004_corte_ingles"
+  },
+  {
+   "ruta": "redes/pepa_pita/videos/007_tabla_de_cortar",
+   "ultima_publicacion": "2026-10-13",
+   "archivo": "pepa_pita/007_tabla_de_cortar"
+  },
+  {
+   "ruta": "redes/pepa_pita/videos/008_sobras",
+   "ultima_publicacion": "2026-10-15",
+   "archivo": "pepa_pita/008_sobras"
+  },
+  {
+   "ruta": "redes/pepa_pita/videos/009_moho",
+   "ultima_publicacion": "2026-10-17",
+   "archivo": "pepa_pita/009_moho"
+  },
+  {
+   "ruta": "redes/pepa_pita/videos/010_mayonesa_casera",
+   "ultima_publicacion": "2026-10-20",
+   "archivo": "pepa_pita/010_mayonesa_casera"
+  },
+  {
+   "ruta": "redes/pepa_pita/videos/011_lavar_la_fruta",
+   "ultima_publicacion": "2026-10-22",
+   "archivo": "pepa_pita/011_lavar_la_fruta"
+  },
+  {
+   "ruta": "redes/pepa_pita/videos/012_la_nevera",
+   "ultima_publicacion": "2026-10-24",
+   "archivo": "pepa_pita/012_la_nevera"
   }
  ]
 }

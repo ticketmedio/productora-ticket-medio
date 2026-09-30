@@ -75,5 +75,10 @@
    "sub": "AESAN"
   }
  ],
- "salida": "salida/PEPA_018_pan_duro.mp4"
+ "salida": "salida/PEPA_018_pan_duro.mp4",
+ "gancho": {
+  "tipo": "C",
+  "texto": "¿TIRAS EL PAN DE AYER?",
+  "hasta": 2.0
+ }
 }
