@@ -49,5 +49,7 @@ metadata:
 
 **Subidas (30/09, DECISIÓN DEL USUARIO):** no quiere arriesgar las cuentas: él sube y programa TODO a mano; yo preparo vídeos adaptados a cada plataforma para monetizar, con textos, hashtags y horario. Nada de API ni de publicar desde el navegador. Carruseles de Pepa en el muro (lunes y miércoles): los preparo yo y le enseño a publicarlos (c-carruseles-1 el 1/10 → pub-carruseles-1 el 2/10).
 
+**Carruseles de Pepa (30/09):** generador redes/pepa_pita/crear_carruseles.py (1080x1350; tipos portada, ficha_numero, ficha_mito, ficha_veredicto, cierre; sin emojis en las imágenes; datos SOLO de la investigación verificada y respetando sus «Frases que NO»). Lunes y miércoles a las 13:00 en FB + IG. 001–006 PROGRAMADOS por el usuario (5–21/10), comprobado en el Planificador: 34 publicaciones hasta el 24/10. Siguientes: 4 carruseles por cada lote de Pepa (c-carruseles-2…6, dos días antes de pub-pepa-lote-3…7).
+
 **Why:** negocio real, calidad antes que cantidad, cumpliendo la política de «contenido no auténtico» de YouTube (se revisa a nivel de canal).
 **How to apply:** ver [[user-profile]]. Nunca poner tareas en fin de semana. Decidir yo lo editorial; al usuario, solo pasos prácticos muy detallados.
