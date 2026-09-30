@@ -186,7 +186,7 @@ No se usan ni el navegador automatizado ni las API. Motivo: no arriesgar las cue
 
 - **Publicar, subir, responder comentarios, dar «me gusta» o seguir cuentas.** Lo decidió el usuario, y además las normas de las plataformas no lo permiten con programas. Claude prepara las respuestas a los comentarios y el usuario las pega.
 - **Trabajar con el ordenador apagado.** La rutina necesita el ordenador encendido y la sesión de Windows iniciada. Si está apagado a las 9:00, se hace al encenderlo.
-- **Ver los datos internos de otros canales** (su retención o su porcentaje de clics). Solo los públicos: visualizaciones, suscriptores, fechas, títulos y duración.
+- **Ver los datos internos de otros canales:** su retención exacta o su porcentaje de clics. Ninguna API los da; solo los ve el dueño del canal. Las herramientas de pago (vidIQ, TubeBuddy…) solo dan estimaciones. LO QUE SÍ: la gráfica pública de «momentos más vistos» de cada vídeo con bastantes visitas (`python herramientas/yt_video.py ID carpeta` → picos y valles, desde el 30/09). Dice qué partes se ven y se repiten más y dónde cae el interés. Y la proporción entre visualizaciones y suscriptores, que indica si el título y la miniatura atraen mucho.
 - **Rastrear Instagram o Facebook de otras cuentas con programas.** Meta prohíbe recopilar datos de forma automatizada. Para las ideas de Pepa se usan YouTube (Shorts), la Inspiración de TikTok Studio de nuestra propia cuenta y búsquedas en la web.
 - **Google Trends de forma fiable:** no tiene una vía pública estable. Se usa el autocompletado de YouTube y Google, que sí es fiable.
 - **Hablar por teléfono o firmar con marcas o con Amazon.** Claude redacta los correos y los dosieres; los envía y los firma el usuario.

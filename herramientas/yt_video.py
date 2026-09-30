@@ -1,7 +1,8 @@
 """Analiza un vídeo público de YouTube: datos, subtítulos y fotogramas del storyboard.
 
   python herramientas/yt_video.py ID_DEL_VIDEO carpeta_salida
-Guarda: datos.json, transcripcion.txt (si hay subtítulos), storyboard_XX.jpg y miniatura.jpg
+Guarda: datos.json (con «momentos_mas_vistos»: la gráfica pública de lo más visto, picos y valles),
+transcripcion.txt (si hay subtítulos), storyboard_XX.jpg y miniatura.jpg
 """
 import json, os, re, sys, urllib.request
 
@@ -39,6 +40,22 @@ def main(vid, salida):
         "capitulos": [(t, int(ms) // 1000) for t, ms in capitulos],
     }
     json.dump(datos, open(os.path.join(salida, "datos.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+
+    # «momentos más vistos» (gráfica pública sobre la barra de reproducción): lo más parecido
+    # a la retención de un vídeo ajeno. Solo existe si el vídeo tiene bastantes visitas.
+    marcas = re.search(r'"markerType":"MARKER_TYPE_HEATMAP","markers":(\[.*?\])', texto_ini)
+    if marcas:
+        puntos = [(int(m["startMillis"]) // 1000, round(float(m["intensityScoreNormalized"]), 3)) for m in json.loads(marcas.group(1))]
+        tramo = lambda s: f"{s // 60}:{s % 60:02d}"
+        despues = [p for p in puntos if p[0] >= 30]  # los primeros segundos siempre salen altos
+        datos["momentos_mas_vistos"] = {
+            "puntos_seg_intensidad": puntos,
+            "picos": [tramo(s) for s, _ in sorted(despues, key=lambda p: -p[1])[:5]],
+            "valles": [tramo(s) for s, _ in sorted(despues, key=lambda p: p[1])[:5]],
+            "intensidad_media_tras_30s": round(sum(v for _, v in despues) / max(len(despues), 1), 3),
+        }
+    else:
+        datos["momentos_mas_vistos"] = "no disponible (pocas visitas)"
 
     # miniatura
     for nombre in ("maxresdefault", "hqdefault"):

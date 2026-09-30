@@ -7,6 +7,6 @@ rem Fecha AAAA-MM-DD (en este Windows la fecha sale como DD/MM/AAAA). Si hoy ya 
 set F=%date:~6,4%-%date:~3,2%-%date:~0,2%
 if exist "privado\seo_diario\%F%.hecho" exit /b 0
 echo ===== %date% %time% >> %LOG%
-"%USERPROFILE%\.local\bin\claude.exe" -p "Ejecuta la rutina de seo/RUTINA_DIARIA.md tal como esta escrita." --permission-mode acceptEdits --allowedTools "Read" "Write" "Edit" "Glob" "Grep" "Bash(node herramientas/estadisticas.js:*)" "Bash(python web/claude_sala.py:*)" "Bash(python herramientas/yt_buscar.py:*)" "WebSearch" "WebFetch" "Bash(git pull:*)" "Bash(git add:*)" "Bash(git commit:*)" "Bash(git push:*)" "Bash(git ls-files:*)" "Bash(ls:*)" "Bash(cat:*)" "Bash(grep:*)" "Bash(date:*)" >> %LOG% 2>&1
+"%USERPROFILE%\.local\bin\claude.exe" -p "Ejecuta la rutina de seo/RUTINA_DIARIA.md tal como esta escrita." --permission-mode acceptEdits --allowedTools "Read" "Write" "Edit" "Glob" "Grep" "Bash(node herramientas/estadisticas.js:*)" "Bash(python web/claude_sala.py:*)" "Bash(python herramientas/yt_buscar.py:*)" "Bash(python herramientas/yt_video.py:*)" "WebSearch" "WebFetch" "Bash(git pull:*)" "Bash(git add:*)" "Bash(git commit:*)" "Bash(git push:*)" "Bash(git ls-files:*)" "Bash(ls:*)" "Bash(cat:*)" "Bash(grep:*)" "Bash(date:*)" >> %LOG% 2>&1
 echo. > "privado\seo_diario\%F%.hecho"
 echo ===== fin %date% %time% >> %LOG%
