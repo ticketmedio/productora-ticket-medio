@@ -132,3 +132,22 @@ Además, hoy ya no sirve para crecer. Seguir para que te sigan no mejora ninguna
 | Julio 2027 | Solicitar la monetización en las plataformas que cumplan los requisitos | Revisar el plan entero con los datos |
 
 Fuentes: TikTok Creator Rewards (resumen de requisitos y países): https://shortsfast.com/blog/tiktok-creator-rewards-eligibility-2026/ · Facebook, países de la monetización de contenido (oficial): https://www.facebook.com/business/help/267128784014981 · Facebook, qué es (oficial): https://www.facebook.com/business/help/1049081556813520 · Instagram, monetización 2026 (terceros): https://www.conbersa.ai/learn/instagram-creator-monetization-2026
+
+## 9. PLAN DE INGRESOS (prioridad n.º 1 desde el 30/09/2026)
+
+El objetivo del proyecto es COBRAR EN TODAS LAS PLATAFORMAS. Cada decisión de formato, duración, tema o publicación se justifica por cómo acerca el cobro. Antes de diseñar cualquier formato, se comprueban los requisitos de monetización.
+
+| Plataforma | Palanca para cobrar | Qué cambiamos para llegar antes |
+|---|---|---|
+| YouTube | Horas de visualización (8.000) + 1.000 suscriptores | Vídeos de 12–15 min cuando la retención aguante (más horas por visita); Shorts para captar suscriptores; probar títulos y miniaturas en cada vídeo |
+| Facebook | Invitación al programa de monetización | Reels todos los días que se pueda (hoy, 3 a la semana) y vídeos de más de 1 minuto; Facebook es donde Pepa ya llega a gente que no nos sigue |
+| Instagram | Regalos (500 seguidores), suscripciones (10.000) y marcas | Activar los regalos en cuanto lleguemos a 500; preparar un dosier para marcas a partir de 5.000 |
+| TikTok | 10.000 seguidores + 100.000 visualizaciones en 30 días + vídeos de más de 60 s | Versión de 61–75 s desde Pepa 019; más frecuencia (TikTok recomienda publicar a menudo) |
+| Todas, YA | **Enlaces de afiliado** (Amazon Afiliados España): no piden un mínimo de seguidores | Pepa: termómetro de nevera, tablas de cortar, táperes… Ticket Medio: libros sobre las empresas que contamos. Siempre avisando de que es un enlace de afiliado. Requiere que el usuario abra la cuenta (datos fiscales) |
+
+Orden previsto de los primeros ingresos:
+1. Afiliados, en semanas.
+2. Regalos de Instagram, con 500 seguidores.
+3. Invitación de Facebook.
+4. YouTube.
+5. TikTok y marcas.
