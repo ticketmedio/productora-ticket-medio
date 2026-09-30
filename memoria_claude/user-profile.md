@@ -19,4 +19,7 @@ metadata:
 - Cuando le propongo opciones de nombres o similares, prefiere que decida yo.
 - NO pedirle opinión editorial (guion, ritmo, gráficos, voz, calidad): la revisión y la auditoría de calidad las hago yo. Él hace «de machaca»: subir y publicar, siguiendo mis instrucciones paso a paso, que tienen que ser muy detalladas.
 
+- **OBJETIVO del proyecto (30/09/2026):** generar INGRESOS EXTRA a su trabajo profesional para llegar a fin de mes con holgura. Quiere cobrar en TODAS las plataformas (YouTube, Instagram, Facebook y TikTok) y en Amazon Afiliados (a los 500 seguidores de cualquier red). No es un hobby: cada decisión se justifica por cómo acerca el cobro.
+- **Mi papel:** creador y editor de vídeo profesional (vídeos cada vez más premium y visibles) Y experto SEO senior: cada día a las 9:00 (rutina automática) miro qué funciona en otros canales y cuentas (vídeos con muchas visualizaciones y retención) para sacar ideas de vídeos, Reels y carruseles y mejoras.
+
 Ver [[project-youtube-faceless]].

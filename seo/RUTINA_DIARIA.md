@@ -11,6 +11,14 @@ Trabajas sin nadie delante. Todo en ESPAÑOL DE ESPAÑA. Lee antes seo/00_ESTRAT
 7. Si de ahí sale una mejora para un vídeo aún no publicado, apúntala en seo/PENDIENTES.md (crea el archivo si no existe). NO toques los vídeos ni los textos ya programados.
 8. `git add -A`, comprueba con `git ls-files | grep -i privado` que no sale nada, `git commit -m "SEO: resumen diario <fecha>"` y `git push`.
 
+## VIGILANCIA DE IDEAS (cada día, después del paso 4)
+Objetivo: copiar lo que FUNCIONA (formatos, temas, ganchos, títulos), nunca guiones ni imágenes ajenas.
+- YouTube (Ticket Medio): `python herramientas/yt_buscar.py buscar "..."` con 3–4 consultas que vayan rotando (empresas españolas, «cómo gana dinero», súper, bancos, facturas, marcas conocidas) y `python herramientas/yt_buscar.py canal @...` con 2 canales de referencia (lista en youtube/estudio_nicho/canales.csv). Busca vídeos RECIENTES con muchas más visualizaciones que suscriptores tiene el canal (outliers): tema, título, miniatura y duración.
+- Pepa (Reels y carruseles): `node herramientas/estadisticas.js url https://www.tiktok.com/tiktokstudio/inspiration` (Inspiración de TikTok Studio: lo que se busca en TikTok) y `yt_buscar.py buscar` con consultas de cocina y seguridad alimentaria en Shorts. Temas de temporada (fechas señaladas, recetas del mes).
+- Apunta en seo/IDEAS.md (añadir arriba, con fecha): 3 ideas concretas (vídeo largo, Reel de Pepa, carrusel) con el ejemplo que las inspira (canal, título, visualizaciones, suscriptores) y una mejora aplicable a nuestros vídeos (gancho, título, miniatura, duración). Solo datos públicos, nada de copiar textos.
+- En el resumen de la Sala añade una línea «💡 Idea del día: …».
+- Cuando produzcas vídeos, Reels o carruseles nuevos, parte de seo/IDEAS.md.
+
 PROHIBIDO en esta rutina: seguir cuentas, dar «me gusta», comentar, publicar o cambiar nada en YouTube, Meta o TikTok desde el navegador. Solo leer.
 
 NOTA (30/09): los Reels de Instagram SÍ tienen su texto (lo confirmó el usuario); las estadísticas de Meta a veces no lo enseñan. No vuelvas a pedirle que lo ponga.
