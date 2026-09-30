@@ -7,3 +7,7 @@ Las apunta la rutina diaria (`seo/RUTINA_DIARIA.md`). No se aplican a los vídeo
 - Qué hacer en los próximos Reels que se produzcan (después de los ya programados): desde el fotograma 1, la pregunta escrita en grande en pantalla y el «¡Para!» de Pepa; sin entrada ni plano de presentación. La explicación, después.
 - Objetivo: más del 40 % de visualizaciones de 3 s en Facebook.
 - Comprobar también en los vídeos largos de YouTube (la gasolina retiene un 12 %): comparar con Mercadona (2/10) y Zara (9/10), que ya llevan más gancho.
+
+## 30/09/2026 — Monetización de TikTok
+- TikTok paga solo por vídeos originales de más de 60 s. Al acercarnos a 5.000 seguidores, hacer versiones de Pepa de 61–75 s para TikTok.
+- Comprobar que la cuenta de TikTok es personal y no de empresa (si es de empresa, no entra en el programa).

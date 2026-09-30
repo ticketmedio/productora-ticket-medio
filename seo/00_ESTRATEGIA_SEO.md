@@ -108,3 +108,27 @@ Además, hoy ya no sirve para crecer. Seguir para que te sigan no mejora ninguna
 - TikTok, Creator Search Insights: https://www.tiktok.com/creator-academy/article/finding-creator-search-insights
 - TikTok, Condiciones: https://www.tiktok.com/legal/page/row/terms-of-service/en
 - TikTok, etiqueta de IA: https://www.tiktok.com/creator-academy/en/article/ai-generated-content-label
+
+## 7. Monetización: requisitos en España y objetivo julio 2027 (revisado el 30/09/2026)
+
+| Plataforma | Qué hace falta para cobrar | Cómo se cobra | Objetivo realista a julio 2027 |
+|---|---|---|---|
+| YouTube (Ticket Medio) | 1.000 suscriptores + 8.000 h de visualización en 12 meses (desde el 1/2/2027) | Anuncios (RPM prudente: 3 €) | Posible, pero menos probable que no llegar; más probable a finales de 2027 |
+| Facebook (Pepa) | Programa de monetización de contenido: **solo por invitación** (España ya puede recibirlas). Terceros hablan de 10.000 seguidores y 600.000 min vistos en 60 días (no oficial) | Reels y vídeos | La plataforma más prometedora para Pepa: los Reels ya llegan a gente que no nos sigue |
+| Instagram (Pepa) | Regalos desde 500 seguidores; suscripciones desde 10.000. Los bonos por Reels son solo por invitación | Regalos, suscripciones y, sobre todo, **colaboraciones con marcas** | Colaboraciones con marcas de cocina o alimentación con 5.000–10.000 seguidores |
+| TikTok (Pepa) | 10.000 seguidores + 100.000 visualizaciones en 30 días, cuenta PERSONAL (no de empresa), 18+ y **vídeos originales de más de 1 minuto** subidos después de la aceptación | Programa de recompensas para creadores | Solo si un vídeo se hace viral; lo más incierto |
+
+**Consecuencias para la producción:**
+- TikTok paga solo por vídeos de más de 60 s, y Pepa dura hoy 33–46 s. No hace falta cambiar todavía: los seguidores y las visualizaciones pueden venir de vídeos cortos. Al acercarnos a 5.000 seguidores, empezar a hacer versiones de 61–75 s para TikTok con un consejo extra; en Instagram y Facebook, seguir con vídeos cortos.
+- Comprobar que la cuenta de TikTok es personal y no de empresa.
+
+## 8. Puntos de control (los vigila la rutina diaria)
+
+| Fecha | Vamos bien si… | Si no, se cambia… |
+|---|---|---|
+| Fin de noviembre 2026 | YouTube: los vídeos nuevos retienen más del 25 % y alguno pasa de 500 visitas. Pepa: más del 40 % de visualizaciones de 3 s en Facebook | Ganchos, duración y miniaturas |
+| Fin de enero 2027 | YouTube: 200–300 suscriptores y algún vídeo de más de 5.000 visitas. Pepa: 1.000 seguidores en alguna red | Temas: doblar lo que funcione |
+| Abril 2027 | YouTube: más de 2.000 h acumuladas. Pepa: 5.000 seguidores en alguna red | Plantearse 2 vídeos por semana, un formato más largo o más Reels |
+| Julio 2027 | Solicitar la monetización en las plataformas que cumplan los requisitos | Revisar el plan entero con los datos |
+
+Fuentes: TikTok Creator Rewards (resumen de requisitos y países): https://shortsfast.com/blog/tiktok-creator-rewards-eligibility-2026/ · Facebook, países de la monetización de contenido (oficial): https://www.facebook.com/business/help/267128784014981 · Facebook, qué es (oficial): https://www.facebook.com/business/help/1049081556813520 · Instagram, monetización 2026 (terceros): https://www.conbersa.ai/learn/instagram-creator-monetization-2026

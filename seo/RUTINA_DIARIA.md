@@ -7,8 +7,9 @@ Trabajas sin nadie delante. Todo en ESPAÑOL DE ESPAÑA. Lee antes seo/00_ESTRAT
 3. Lee los .txt de privado/estadisticas/<hoy>/ (y las .png si hace falta) y el último informe de privado/seo_diario/. Saca, para cada plataforma: suscriptores/seguidores, visualizaciones, CTR y duración media (YouTube), y las cifras de cada vídeo o Reel publicado. Busca comentarios nuevos en nuestros vídeos.
 4. Escribe privado/seo_diario/<hoy>.md: cifras de hoy, diferencia con el último informe, qué funciona y qué no, UNA recomendación concreta (título, miniatura, gancho, horario, tema) y, para cada comentario nuevo, una respuesta propuesta (distinta cada vez, cercana, sin enlaces ni «suscríbete»).
 5. Publica el resumen en la Sala con `python web/claude_sala.py mensaje "..."`, que empiece por «📈 Resumen SEO del <día>:». Máximo ~600 caracteres, sin nombres de personas (la Sala es pública), con las 2–3 cifras clave y la recomendación. Si hay que hacer algo (volver a entrar, responder comentarios que Claude aún no puede responder solo), dilo en una frase.
-6. Si de ahí sale una mejora para un vídeo aún no publicado, apúntala en seo/PENDIENTES.md (crea el archivo si no existe). NO toques los vídeos ni los textos ya programados.
-7. `git add -A`, comprueba con `git ls-files | grep -i privado` que no sale nada, `git commit -m "SEO: resumen diario <fecha>"` y `git push`.
+6. Cada viernes, compara las cifras con los puntos de control del apartado 8 de seo/00_ESTRATEGIA_SEO.md y di en el resumen si vamos bien o no.
+7. Si de ahí sale una mejora para un vídeo aún no publicado, apúntala en seo/PENDIENTES.md (crea el archivo si no existe). NO toques los vídeos ni los textos ya programados.
+8. `git add -A`, comprueba con `git ls-files | grep -i privado` que no sale nada, `git commit -m "SEO: resumen diario <fecha>"` y `git push`.
 
 PROHIBIDO en esta rutina: seguir cuentas, dar «me gusta», comentar, publicar o cambiar nada en YouTube, Meta o TikTok desde el navegador. Solo leer.
 
