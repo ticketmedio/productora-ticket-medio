@@ -1,11 +1,15 @@
-CÓMO PROGRAMAR UN CARRUSEL DE PEPA EN FACEBOOK E INSTAGRAM (unos 5 minutos cada uno)
+CÓMO PROGRAMAR LOS CARRUSELES DE PEPA EN FACEBOOK E INSTAGRAM (unos 5 minutos cada uno)
 Se hace desde el ordenador, en Meta Business Suite, igual que los Reels.
 
-QUÉ PUBLICAR Y CUÁNDO
-  · Carpeta 001_numeros_cocina → lunes 5 de octubre de 2026, 13:00 (8 imágenes)
-  · Carpeta 002_mitos_cocina   → miércoles 7 de octubre de 2026, 13:00 (7 imágenes)
+QUÉ PUBLICAR Y CUÁNDO (todos a las 13:00)
+  1. Carpeta 001_numeros_cocina        → lunes 5 de octubre de 2026      (8 imágenes)
+  2. Carpeta 002_mitos_cocina          → miércoles 7 de octubre de 2026  (7 imágenes)
+  3. Carpeta 003_nevera_balda_a_balda  → lunes 12 de octubre de 2026     (8 imágenes)
+  4. Carpeta 004_tabla_de_cortar       → miércoles 14 de octubre de 2026 (7 imágenes)
+  5. Carpeta 005_moho_tirar_o_salvar   → lunes 19 de octubre de 2026     (7 imágenes)
+  6. Carpeta 006_lavar_fruta_verdura   → miércoles 21 de octubre de 2026 (8 imágenes)
 
-PASOS
+PASOS (repítelos para cada carpeta)
 1. Entra en https://business.facebook.com. Arriba a la izquierda debe poner «Pepa Pita».
 2. Pulsa «Crear publicación». OJO: no «Crear reel».
 3. En «Publicar en», deja marcadas las DOS cuentas: Pepa Pita (Facebook) y soypepapita (Instagram).
@@ -19,6 +23,7 @@ PASOS
      · que el mes sea OCTUBRE;
      · que la hora de Instagram no se haya quedado en la hora actual (ya nos pasó con un Reel).
 7. Pulsa «Programar».
-8. Comprueba que aparece en el Planificador: https://business.facebook.com/latest/content_calendar
+8. Al terminar los seis, comprueba en el Planificador que salen los seis días, cada uno en Facebook y en Instagram:
+   https://business.facebook.com/latest/content_calendar
 
 Cuando acabes, marca la tarea como hecha en la Sala.

@@ -25,7 +25,7 @@ def f(ruta, tam):
 
 def ajustar(d, txt, fuente, ancho):
     """Parte el texto en líneas que quepan en «ancho» píxeles."""
-    txt = re.sub(r"(\d) (°C|h\b|horas|hora|días|minutos?)", lambda m: m.group(1) + "\u00a0" + m.group(2), txt)  # espacio duro: no separa número y unidad
+    txt = re.sub(r"(\d) (°C|h\b|horas|hora|días|minutos?|cm)", lambda m: m.group(1) + "\u00a0" + m.group(2), txt)  # espacio duro: no separa número y unidad
     lineas, linea = [], ""
     for p in txt.split(" "):
         prueba = (linea + " " + p).strip()
@@ -79,7 +79,9 @@ def portada(titulo, sub, pose, n, total):
 
 def ficha_numero(cifra, que, detalle, fuente_txt, n, total, cara="exp_contenta"):
     lienzo, d = base(n, total, fuente_txt)
-    tam = 230 if len(cifra) <= 5 else 170
+    tam = 230
+    while d.textlength(cifra, font=f(TITULAR, tam)) > W - 120:  # la cifra o palabra grande cabe siempre
+        tam -= 10
     d.text((60, 120), cifra, font=f(TITULAR, tam), fill=ROJO)
     y = 120 + int(tam * 1.25)
     y = parrafo(d, que, f(TITULAR, 64), 60, y, W - 120, TINTA, 1.15)
@@ -97,6 +99,18 @@ def ficha_mito(mito, realidad, fuente_txt, n, total, cara="exp_pensativa"):
     d.rounded_rectangle([60, y, 420, y + 70], radius=35, fill=VERDE)
     d.text((95, y + 8), "REALIDAD", font=f(TITULAR, 46), fill=PAPEL)
     parrafo(d, realidad, f(TEXTO_FINO, 50), 60, y + 110, W - 120, TINTA, 1.3)
+    pepa(lienzo, cara, 300, W - 280, H - 460)
+    return lienzo
+
+
+def ficha_veredicto(etiqueta, color, titulo, detalle, fuente_txt, n, total, cara="exp_pensativa"):
+    """Pastilla de color («A LA BASURA», «SE SALVA»…) + titular + explicación."""
+    lienzo, d = base(n, total, fuente_txt)
+    ancho = d.textlength(etiqueta, font=f(TITULAR, 46)) + 70
+    d.rounded_rectangle([60, 110, 60 + ancho, 180], radius=35, fill=color)
+    d.text((95, 118), etiqueta, font=f(TITULAR, 46), fill=PAPEL)
+    y = parrafo(d, titulo, f(TITULAR, 66), 60, 230, W - 120, TINTA, 1.15)
+    parrafo(d, detalle, f(TEXTO_FINO, 50), 60, y + 40, W - 120, TINTA, 1.3)
     pepa(lienzo, cara, 300, W - 280, H - 460)
     return lienzo
 
@@ -172,4 +186,116 @@ guardar("002_mitos_cocina", [
 Pepa es un personaje animado con IA; los datos, no 😉
 
 #seguridadalimentaria #mitos #trucosdecocina #cocina #pepapita
+""")
+
+# ── Carrusel 003: lunes 12/10/2026, 13:00 (refuerza el Reel 012, la nevera) ──
+T = 8
+guardar("003_nevera_balda_a_balda", [
+    portada("Tu nevera, balda a balda", "Dónde va cada cosa para que dure más y no te sienta mal.", "pose_sartenes", 1, T),
+    ficha_numero("5 °C", "Lo primero: la temperatura", "5 °C o menos; mejor, 4. Un termómetro de nevera cuesta muy poco.", "AESAN y OMS", 2, T),
+    ficha_numero("ARRIBA", "Lo cocinado y lo listo para comer", "Sobras, embutido, yogures, postres: lo que ya no vas a cocinar.", "AESAN, «Pon en orden tu nevera»", 3, T, "exp_contenta"),
+    ficha_numero("ABAJO", "La carne y el pescado crudos", "Siempre por debajo de lo cocinado y bien tapados, para que no goteen encima de nada.", "AESAN, «Pon en orden tu nevera»", 4, T, "exp_preocupada"),
+    ficha_numero("CAJONES", "La fruta y la verdura", "En su sitio, separadas de la carne y el pescado crudos.", "AESAN, «Pon en orden tu nevera»", 5, T, "exp_guino"),
+    ficha_numero("PUERTA", "La zona que más se calienta", "Es donde más cambia la temperatura. Ahí, bebidas y salsas; lo delicado, dentro.", "FDA y USDA (EE. UU.)", 6, T, "exp_sorprendida"),
+    ficha_numero("AIRE", "No la llenes hasta arriba", "El aire frío tiene que circular entre los alimentos. Y todo en recipientes cerrados.", "AESAN y USDA (EE. UU.)", 7, T, "exp_pensativa"),
+    cierre("¿Tu nevera aprueba?", "Guárdalo y mándaselo a tu compañero de piso.", "exp_riendo", 8, T),
+], """
+Tu nevera, balda a balda 🧊 Guárdalo para cuando vuelvas de la compra.
+
+🌡️ 5 °C o menos (mejor, 4).
+⬆️ Arriba: lo cocinado y lo listo para comer.
+⬇️ Abajo: carne y pescado crudos, bien tapados.
+🥬 Cajones: fruta y verdura.
+🚪 Puerta: la zona más caliente; bebidas y salsas.
+💨 Sin llenarla hasta arriba: el aire frío tiene que circular.
+
+¿Tu nevera aprueba? Mándaselo a tu compañero de piso 😉
+
+📊 Fuentes: AESAN («Pon en orden tu nevera»), OMS, FDA y USDA (EE. UU.).
+Pepa es un personaje animado con IA; los datos, no 😉
+
+#nevera #orden #seguridadalimentaria #trucosdecocina #pepapita
+""")
+
+# ── Carrusel 004: miércoles 14/10/2026, 13:00 (refuerza el Reel 007, la tabla de cortar) ──
+T = 7
+guardar("004_tabla_de_cortar", [
+    portada("La tabla de cortar: 5 reglas", "Por ahí pasan las bacterias de un alimento a otro.", "pose_ojo", 1, T),
+    ficha_numero("1", "Una para lo crudo y otra para lo que va directo a la boca", "Las bacterias de la carne cruda se quedan en la tabla y pasan a la ensalada, que ya no vas a cocinar.", "AESAN y OMS (5 claves)", 2, T, "exp_preocupada"),
+    ficha_numero("2", "¿Solo tienes una? Primero la verdura", "La carne cruda, siempre al final.", "FSA (Reino Unido) y USDA (EE. UU.)", 3, T, "exp_guino"),
+    ficha_numero("3", "Agua caliente y jabón", "Después de cortar crudo, lávala bien. Pasarle un trapo no basta.", "AESAN y USDA (EE. UU.)", 4, T, "exp_pensativa"),
+    ficha_numero("4", "¿Madera o plástico? Las dos valen", "El plástico se limpia más fácil. Antes de meterla en el lavavajillas, mira las instrucciones.", "USDA (EE. UU.) y FSA (Reino Unido)", 5, T, "exp_contenta"),
+    ficha_numero("5", "Con surcos, a la basura", "Los cortes profundos son muy difíciles de limpiar.", "USDA (EE. UU.)", 6, T, "exp_sorprendida"),
+    cierre("¿Cuántas cumples?", "Mándaselo a quien corta el pollo y el tomate en la misma tabla.", "exp_riendo", 7, T),
+], """
+La tabla de cortar: 5 reglas 🔪 ¿Cuántas cumples?
+
+1️⃣ Una para lo crudo y otra para lo que va directo a la boca.
+2️⃣ ¿Solo tienes una? Primero la verdura; la carne cruda, al final.
+3️⃣ Después, agua caliente y jabón. Un trapo no basta.
+4️⃣ Madera o plástico: las dos valen; el plástico se limpia más fácil.
+5️⃣ Con surcos, a la basura.
+
+Mándaselo a quien corta el pollo y el tomate en la misma tabla 😅
+
+📊 Fuentes: AESAN, OMS (5 claves), FSA (Reino Unido) y USDA (EE. UU.).
+Pepa es un personaje animado con IA; los datos, no 😉
+
+#tabladecortar #cocina #seguridadalimentaria #trucosdecocina #pepapita
+""")
+
+# ── Carrusel 005: lunes 19/10/2026, 13:00 (refuerza el Reel 009, el moho) ──
+T = 7
+guardar("005_moho_tirar_o_salvar", [
+    portada("Moho: ¿se tira o se salva?", "Lo que ves es solo la punta: tiene raíces por dentro.", "pose_senala", 1, T),
+    ficha_veredicto("A LA BASURA", ROJO, "Pan, mermelada, yogur, queso fresco o rallado y sobras", "Enteros. Quitar la parte con moho no sirve: por dentro ha llegado más lejos de lo que ves.", "AESAN y USDA (EE. UU.)", 2, T, "exp_preocupada"),
+    ficha_veredicto("A LA BASURA", ROJO, "La fruta y la verdura con moho", "La pieza entera, no solo el trozo estropeado.", "AESAN (tríptico de frutas y verduras, 2024)", 3, T, "exp_pensativa"),
+    ficha_veredicto("SE SALVA", VERDE, "El queso curado", "En EE. UU. aconsejan cortar al menos 2,5 cm alrededor y por debajo del moho, sin tocarlo con el cuchillo.", "USDA (EE. UU.)", 4, T, "exp_contenta"),
+    ficha_veredicto("ES DE LA RECETA", VERDE, "El queso azul, el brie o el camembert", "Su moho forma parte de la receta. Pero si les sale otro distinto, a la basura.", "USDA (EE. UU.)", 5, T, "exp_guino"),
+    ficha_veredicto("OJO", AMARILLO, "Cocinarlo no lo arregla", "Algunos mohos fabrican toxinas que no suelen desaparecer al cocinar. Y no lo huelas.", "AESAN (micotoxinas) y USDA (EE. UU.)", 6, T, "exp_sorprendida"),
+    cierre("¿Tú qué hacías?", "Guárdalo para la próxima vez que abras la mermelada.", "exp_guino", 7, T),
+], """
+Moho: ¿se tira o se salva? 🍓🧀
+
+🗑️ Pan, mermelada, yogur, queso fresco o rallado y sobras: a la basura, enteros.
+🗑️ Fruta y verdura: la pieza entera.
+✅ Queso curado: en EE. UU. aconsejan cortar al menos 2,5 cm alrededor y por debajo, sin tocar el moho con el cuchillo.
+✅ Queso azul, brie o camembert: su moho es parte de la receta (si les sale otro distinto, a la basura).
+⚠️ Cocinarlo no lo arregla: algunas toxinas no se van con el calor. Y no lo huelas.
+
+Guárdalo para la próxima vez que abras la mermelada 😉
+
+📊 Fuentes: AESAN (micotoxinas; tríptico de frutas y verduras 2024) y USDA (EE. UU.).
+Pepa es un personaje animado con IA; los datos, no 😉
+
+#moho #nodesperdicies #seguridadalimentaria #trucosdecocina #pepapita
+""")
+
+# ── Carrusel 006: miércoles 21/10/2026, 13:00 (refuerza el Reel 011, lavar la fruta) ──
+T = 8
+guardar("006_lavar_fruta_verdura", [
+    portada("Cómo lavar bien la fruta y la verdura", "Spoiler: el lavavajillas no entra en la receta.", "pose_aplaude", 1, T),
+    ficha_numero("GRIFO", "Bajo el grifo, con agua corriente", "Es lo básico, y lo que más importa.", "AESAN (tríptico de frutas y verduras, 2024)", 2, T, "exp_contenta"),
+    ficha_numero("PELAR", "Aunque la vayas a pelar", "Así, al cortar, no arrastras hacia dentro lo que hay en la piel.", "AESAN (tríptico de frutas y verduras, 2024)", 3, T, "exp_pensativa"),
+    ficha_numero("JABÓN", "Nada de jabón ni lavavajillas", "La fruta y la verdura lo pueden absorber.", "FDA (EE. UU.) y Ministerio de Consumo", 4, T, "exp_preocupada"),
+    ficha_numero("CEPILLO", "Melón, sandía o pepino", "Los de cáscara dura, con un cepillo solo para eso.", "AESAN", 5, T, "exp_guino"),
+    ficha_numero("LEJÍA", "¿Lechuga o fruta con piel?", "Si quieres desinfectarlas: solo lejía que ponga «apta para la desinfección del agua de bebida», la dosis de su etiqueta y aclarar con mucha agua.", "AESAN (2024) y Ministerio de Consumo", 6, T, "exp_sorprendida"),
+    ficha_numero("VINAGRE", "¿Y el vinagre o el bicarbonato?", "Ninguna de las fuentes oficiales que hemos consultado los recomienda para desinfectar.", "AESAN, Ministerio de Consumo y FDA (EE. UU.)", 7, T, "exp_pensativa"),
+    cierre("¿Tú cómo la lavabas?", "Mándaselo a quien le echa un chorrito de lavavajillas.", "exp_riendo", 8, T),
+], """
+Cómo lavar bien la fruta y la verdura 🍎🥬
+
+🚿 Bajo el grifo, con agua corriente.
+🔪 Aunque la vayas a pelar.
+🚫 Sin jabón ni lavavajillas: la fruta lo puede absorber.
+🍈 Melón, sandía o pepino: con un cepillo.
+💧 ¿Quieres desinfectar la lechuga? Solo lejía «apta para la desinfección del agua de bebida», con la dosis de la etiqueta, y aclara con mucha agua.
+❓ ¿Vinagre o bicarbonato? Ninguna fuente oficial de las que hemos consultado los recomienda para desinfectar.
+
+Mándaselo a quien le echa un chorrito de lavavajillas 😅
+
+📊 Fuentes: AESAN (tríptico de frutas y verduras 2024), Ministerio de Consumo y FDA (EE. UU.).
+Pepa es un personaje animado con IA; los datos, no 😉
+
+#fruta #verdura #seguridadalimentaria #trucosdecocina #pepapita
 """)
