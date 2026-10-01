@@ -5,6 +5,8 @@ Uso:
   python claude_sala.py comentar ID "texto"    -> comentario de Claude en una tarea
   python claude_sala.py mensaje "texto"        -> mensaje de Claude en el Tablón
   python claude_sala.py estado ID ESTADO       -> pendiente | en_curso | hecho
+  python claude_sala.py informe AAAA-MM-DD "titular" ARCHIVO.md
+                                               -> informe del día en «Informes diarios» (si ya hay uno ese día, lo sustituye)
 
 Antes de cada orden trae de GitHub lo que el usuario haya hecho en la Sala web (web/web_cambios.json,
 lo escribe GitHub Actions) y lo fusiona en datos.json.
@@ -129,6 +131,18 @@ def estado(tid, st):
     print("No existe la tarea", tid)
 
 
+def informe(fecha, titulo, archivo):
+    datetime.date.fromisoformat(fecha)
+    with open(archivo, encoding="utf-8") as f:
+        texto = f.read().strip()
+    d = load()
+    lista = [r for r in d.setdefault("informes", []) if r["fecha"] != fecha]
+    lista.append({"fecha": fecha, "titulo": titulo, "texto": texto, "createdAt": now()})
+    d["informes"] = sorted(lista, key=lambda r: r["fecha"], reverse=True)
+    save(d)
+    print("ok")
+
+
 def publicar():
     """Sube datos.json a GitHub para que la Sala web (GitHub Pages) se actualice. No bloquea."""
     import subprocess
@@ -141,7 +155,7 @@ def publicar():
 if __name__ == "__main__":
     cmd = sys.argv[1] if len(sys.argv) > 1 else "novedades"
     hubo_web = cmd != "publicar" and sincronizar()
-    if hubo_web or cmd in ("comentar", "mensaje", "estado", "publicar"):
+    if hubo_web or cmd in ("comentar", "mensaje", "estado", "informe", "publicar"):
         import atexit
         atexit.register(publicar)
     if cmd == "novedades":
@@ -152,3 +166,5 @@ if __name__ == "__main__":
         mensaje(sys.argv[2])
     elif cmd == "estado":
         estado(sys.argv[2], sys.argv[3])
+    elif cmd == "informe":
+        informe(sys.argv[2], sys.argv[3], sys.argv[4])

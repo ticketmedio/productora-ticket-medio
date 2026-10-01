@@ -119,6 +119,17 @@ header.top{display:flex;flex-wrap:wrap;align-items:flex-end;justify-content:spac
 .msg.tu header b{color:var(--tu)}
 .msg header time{color:var(--muted);font-family:var(--mono)}
 .msg p{margin:0;white-space:pre-wrap;overflow-wrap:anywhere;font-size:14px}
+.reports{margin-top:18px}
+.reports .vitem summary{align-items:center}
+.reports .rdate{font-family:var(--mono);font-size:12px;color:var(--muted);white-space:nowrap;flex:none;min-width:92px}
+.reports .rtitle{font-weight:600;font-size:15px;line-height:1.35;overflow-wrap:anywhere}
+.reports .rbody{padding:0 14px 14px;font-size:14.5px;line-height:1.6;overflow-wrap:anywhere;border-top:1px solid var(--line);margin:0 14px;padding:12px 0 4px}
+.reports .rbody h3{font-size:15px;margin:14px 0 4px}
+.reports .rbody h3:first-child{margin-top:0}
+.reports .rbody p{margin:0 0 8px}
+.reports .rbody ul{margin:0 0 8px;padding-left:20px}
+.reports .rbody a{color:var(--tu);font-weight:600}
+.reports .rmore{margin-top:10px}
 .status{font-size:13px;color:var(--muted);margin:0 0 10px}
 .status.err{color:var(--warn)}
 .status a{color:inherit;font-weight:600}
@@ -298,6 +309,13 @@ img{max-width:100%}
       <div class="msgs" id="msgs"></div>
     </section>
   </div>
+
+  <section class="panel reports" id="reports">
+    <h2>Informes diarios</h2>
+    <p class="sub">El informe de cada día laborable: cifras de YouTube, Facebook, Instagram y TikTok, qué funciona, la recomendación y la idea del día. Pulsa uno para leerlo.</p>
+    <div class="vlist" id="reportlist"></div>
+    <div class="rmore" id="rmore" hidden><button class="btn" type="button" id="rmorebtn">Ver informes anteriores</button></div>
+  </section>
 </div>
 
 <div class="overlay" id="overlay" hidden>
@@ -391,7 +409,7 @@ img{max-width:100%}
   function shortDate(s){if(!s)return '';var d=parse(s);return d.getDate()+' '+MONTHS[d.getMonth()];}
   function when(isoStr){try{var d=new Date(isoStr);return d.getDate()+' '+MONTHS[d.getMonth()]+' '+String(d.getHours()).padStart(2,'0')+':'+String(d.getMinutes()).padStart(2,'0');}catch(e){return '';}}
 
-  var state={tasks:[],msgs:[],week:mondayOf(new Date()),who:'all',project:'all',loaded:false};
+  var state={tasks:[],msgs:[],reports:[],reportsAll:false,week:mondayOf(new Date()),who:'all',project:'all',loaded:false};
   var db=null, editing=null;
 
   try{var saved=JSON.parse(localStorage.getItem('sala-filtros')||'{}');if(saved.who)state.who=saved.who;if(saved.project)state.project=saved.project;}catch(e){}
@@ -514,6 +532,48 @@ img{max-width:100%}
     return frag;
   }
 
+  // Informes: texto sencillo tipo Markdown (## títulos, - listas, **negrita**). Sin innerHTML.
+  function inline(text){
+    var frag=document.createDocumentFragment();
+    String(text).split(/(\*\*[^*]+\*\*)/).forEach(function(part){
+      if(/^\*\*[^*]+\*\*$/.test(part))frag.append(el('b',null,linkify(part.slice(2,-2))));
+      else if(part)frag.append(linkify(part));
+    });
+    return frag;
+  }
+  function reportBody(text){
+    var box=el('div',{class:'rbody'}),ul=null;
+    String(text||'').split(/\r?\n/).forEach(function(line){
+      var l=line.trim();
+      if(!l){ul=null;return;}
+      var h=l.match(/^#{1,4}\s+(.*)$/),li=l.match(/^(?:[-*•]|\d+[.)])\s+(.*)$/);
+      if(h){ul=null;box.append(el('h3',null,inline(h[1])));}
+      else if(li){if(!ul){ul=el('ul');box.append(ul);}ul.append(el('li',null,inline(li[1])));}
+      else{ul=null;box.append(el('p',null,inline(l)));}
+    });
+    return box;
+  }
+  var openReports={};
+  function longDate(s){var d=parse(s);return DAYS[(d.getDay()+6)%7].slice(0,3)+' '+d.getDate()+' '+MONTHS[d.getMonth()];}
+  function renderReports(){
+    var box=$('reportlist'),list=state.reports;
+    if(!state.loaded){box.replaceChildren(el('p',{class:'empty',text:'Cargando…'}));return;}
+    if(!list.length){box.replaceChildren(el('p',{class:'empty',text:'Aún no hay informes. El primero sale tras la rutina de las 9:00.'}));$('rmore').hidden=true;return;}
+    var shown=state.reportsAll?list:list.slice(0,10);
+    $('rmore').hidden=shown.length>=list.length;
+    if(list.length&&openReports._first===undefined){openReports[list[0].fecha]=true;openReports._first=true;}
+    box.replaceChildren.apply(box,shown.map(function(r){
+      var det=el('details',{class:'vitem'},
+        el('summary',null,el('span',{class:'rdate',text:longDate(r.fecha)}),
+          el('span',{class:'rtitle',text:r.titulo||'Informe del día'}),
+          el('span',{class:'chev','aria-hidden':'true',text:'›'})),
+        reportBody(r.texto));
+      if(openReports[r.fecha])det.open=true;
+      det.addEventListener('toggle',function(){if(det.open)openReports[r.fecha]=true;else delete openReports[r.fecha];});
+      return det;
+    }));
+  }
+
   function renderRoadmap(){
     var r=state.roadmap, today=iso(new Date());
     var fases=(r&&Array.isArray(r.fases))?r.fases:[];
@@ -599,6 +659,7 @@ img{max-width:100%}
 
     ['f-who','f-project'].forEach(function(id){var key=id==='f-who'?'who':'project';
       $(id).querySelectorAll('button').forEach(function(b){b.setAttribute('aria-pressed',String(b.dataset.v===state[key]));});});
+    renderReports();
     if(view)renderView(false);
   }
 
@@ -682,6 +743,7 @@ img{max-width:100%}
     lastRaw=raw;var d=JSON.parse(raw);
     state.tasks=(d.tareas||[]).map(normalize);
     state.roadmap=d.hojaDeRuta||null;
+    state.reports=(d.informes||[]).filter(function(r){return r&&/^\d{4}-\d{2}-\d{2}$/.test(r.fecha);}).sort(function(a,b){return b.fecha.localeCompare(a.fecha);});
     state.msgs=(d.mensajes||[]).slice().sort(function(a,b){return String(b.createdAt).localeCompare(String(a.createdAt));}).slice(0,80);
     state.loaded=true;setStatus(esWeb?WEB:'');render();
   }
