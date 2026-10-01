@@ -2420,23 +2420,6 @@
       "createdBy": "claude",
       "updatedAt": "2026-09-30T12:55:22.000Z",
       "comentarios": []
-    },
-    {
-      "id": "u-tiktok-personal",
-      "title": "TikTok de Pepa: comprobar que la cuenta es PERSONAL y no de empresa (5 min, con el MÓVIL)",
-      "date": "2026-10-01",
-      "who": "tu",
-      "kind": "tarea",
-      "project": "redes",
-      "status": "pendiente",
-      "platforms": [
-        "TikTok"
-      ],
-      "notes": "TikTok solo paga a cuentas PERSONALES. En los ajustes de la web he visto «Verificación de la empresa», que suele salir en las cuentas de empresa, así que puede que la de Pepa lo sea.\n1. Abre la app de TikTok en el móvil, con la cuenta de Pepa.\n2. Toca «Perfil» (abajo a la derecha) → las tres rayas ☰ (arriba a la derecha) → «Ajustes y privacidad» → «Cuenta».\n3. Mira qué opción aparece:\n   · «Cambiar a cuenta de empresa» → es PERSONAL. Perfecto: no toques nada y escribe «personal».\n   · «Cambiar a cuenta personal» → es DE EMPRESA. Tócala y confirma.\n4. Si la has cambiado: en el ordenador abre https://www.tiktok.com/tiktokstudio → «Publicaciones» → «Programadas» y comprueba que siguen ahí los vídeos del 1/10 al 24/10. Si falta alguno, dímelo y te digo cómo volver a programarlo.\nEscribe aquí qué has encontrado.",
-      "createdAt": "2026-09-30T12:55:22.000Z",
-      "createdBy": "claude",
-      "updatedAt": "2026-09-30T12:55:22.000Z",
-      "comentarios": []
     }
   ],
   "mensajes": [
