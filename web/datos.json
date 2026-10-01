@@ -2411,14 +2411,14 @@
       "who": "tu",
       "kind": "tarea",
       "project": "redes",
-      "status": "pendiente",
+      "status": "hecho",
       "platforms": [
         "Facebook"
       ],
       "notes": "Facebook solo paga por invitación, pero deja mostrar interés con un formulario (página oficial: https://creators.facebook.com/tools/facebook-content-monetization). Se hace desde el ORDENADOR, con Meta Business Suite. De paso vuelves a iniciar sesión en Meta en el navegador de Claude, que se ha cerrado hoy, y así mañana la rutina de las 9:00 podrá leer las estadísticas.\n\n1. En el ordenador, abre la carpeta Descargas › faceless y haz doble clic en ABRIR_SESIONES_REDES.bat. Se abre Edge con tres pestañas.\n2. Ve a la pestaña de Meta (business.facebook.com). Pulsa «Iniciar sesión con Instagram» y entra con @soypepapita: Pepa se creó desde Instagram, y tu cuenta personal de Facebook no administra la página. Si te pide un código o verificar que eres tú, sigue sus pasos. Al entrar, si arriba a la izquierda salen Pepa Pita de Facebook y de Instagram, sigue. Si solo sale el Instagram, haz una captura y súbela aquí.\n3. Arriba a la izquierda, comprueba que está elegida la página «Pepa Pita». Si sale otra, pulsa el nombre y elige Pepa Pita.\n4. En el menú de la izquierda, pulsa «Monetización». Si no la ves, pulsa «Todas las herramientas» (el icono ☰, abajo del todo en el menú) y busca «Monetización».\n5. Pulsa «Monetización de contenido». Si sale un botón del tipo «Me interesa», «Mostrar interés», «Recibir notificaciones» o «Unirse a la lista», púlsalo y rellena lo que pida. Si pide datos de pago o fiscales, para y dímelo.\n6. Si pone que la página «no cumple los requisitos» o no aparece la opción, haz una captura y súbela aquí. Con una página tan nueva es lo normal: lo repetiremos más adelante.\n7. Al terminar, cierra esa ventana de Edge (no cierres la sesión: la necesita la rutina).\n\nOtra forma, si Business Suite no enseña «Monetización»: en el mismo Edge entra en https://www.facebook.com, toca tu foto (arriba a la derecha) → «Ver todos los perfiles» → «Pepa Pita», y luego en el menú de la izquierda «Panel profesional» → «Monetización» → «Monetización de contenido».\n\nEscribe aquí qué ha salido.",
       "createdAt": "2026-09-30T12:55:22.000Z",
       "createdBy": "claude",
-      "updatedAt": "2026-10-01T10:53:54.348Z",
+      "updatedAt": "2026-10-01T10:56:04.727Z",
       "comentarios": [
         {
           "id": "c-124626637247",
@@ -2431,6 +2431,12 @@
           "author": "claude",
           "text": "Al entrar con tu cuenta personal de Facebook, Business Suite dice que no administra ninguna página. Como Pepa se creó desde Instagram, he cambiado el paso 2: hay que entrar con «Iniciar sesión con Instagram» (@soypepapita).",
           "createdAt": "2026-10-01T10:53:54.348Z"
+        },
+        {
+          "id": "c-125604727088",
+          "author": "claude",
+          "text": "Hecho ✓ (1/10). Entrando con Instagram, Business Suite → Monetization enseña «No Monetization Violations» y solo dos programas: Stars (500 seguidores durante 30 días seguidos) y Subscriptions (1.000 seguidores o 250 espectadores semanales que vuelven, más 50.000 interacciones o 180.000 minutos vistos). «Content monetization» no aparece todavía y no hay formulario que rellenar: con una página nueva es lo normal. La rutina lo volverá a mirar el primer día laborable de cada mes. No tienes que hacer nada más.",
+          "createdAt": "2026-10-01T10:56:04.727Z"
         }
       ]
     }
