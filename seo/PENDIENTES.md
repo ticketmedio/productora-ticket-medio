@@ -27,3 +27,6 @@ Las apunta la rutina diaria (`seo/RUTINA_DIARIA.md`). No se aplican a los vídeo
 ## 01/10/2026 — Norma de YouTube: personajes de IA en temas sensibles (finanzas)
 - La política oficial de contenido no auténtico (https://support.google.com/youtube/answer/1311392) no monetiza los «personajes generados con IA» que se presentan como expertos en salud, finanzas o derecho (p. ej., «presentadores de pódcast generados con IA que dan consejos financieros»).
 - Qué hacer en los guiones de Ticket Medio: explicar cómo ganan dinero las empresas (periodismo con fuentes), nunca dar consejos de inversión o de ahorro personal en boca del narrador o de la mascota («compra», «invierte», «te conviene»). La descripción del canal ya dice «sin venderte nada» y que la voz es sintética: mantenerlo.
+
+## 02/10/2026 (rutina SEO)
+- Reels de Pepa aún no publicados (013–018): al menos 2 con gancho en forma de pregunta cotidiana («¿Puedes/Se puede + acción?»), el patrón del Reel de la congelación (1.160 visualizaciones en Facebook, el doble que el del pollo).

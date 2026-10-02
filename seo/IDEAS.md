@@ -2,6 +2,20 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 02/10/2026
+
+**Ejemplos que funcionan (datos públicos, 2/10/2026)**
+- Bruno Peluch (5,75 mil suscriptores): CEPSA, 131 mil visualizaciones (hace 1 mes); «El estudio de animación español que NO tenía dibujantes», 79 mil (hace 1 mes). Sus últimos vídeos (hace 4 días a 3 semanas) hacen 3–14 mil: el acierto grande es esporádico y va ligado a un «misterio» o «engaño».
+- Veterinario Gratis: «11 alimentos que NO se pueden ni deben congelar», 512 mil (hace 1 año).
+- Nuestro Reel «¿Se puede volver a congelar?» (Facebook, 1.160 visualizaciones) duplicó al del pollo: la pregunta cotidiana funciona.
+
+**Ideas**
+1. **Vídeo largo — «¿Por qué Zara casi nunca tiene ropa sobrante?»** Tema que ya lanzan canales nuevos (cifras bajas), pero conecta con nuestro Short del 0,57 %. Enfoque propio: el ticket de una prenda y lo que pasa con lo que no se vende. Candidato para después de Zara.
+2. **Reel de Pepa — «¿Puedes comer lo que se cayó al suelo? (la regla de los 5 segundos)»**: pregunta cotidiana, mismo patrón que la congelación. Verificar con la AESAN/estudios antes del guion.
+3. **Carrusel de Pepa — «11 alimentos que NO deberías congelar»**: formato lista con «no» como gancho (referencia de 512 mil). Fuente: AESAN / guías de congelación oficiales.
+
+**Mejora aplicable:** títulos y ganchos con la forma «¿Puedes/Se puede + acción cotidiana?» en los Reels; en YouTube, un «misterio» concreto en el título (como el de CEPSA), no solo la marca.
+
 ## 01/10/2026
 
 **Ejemplos que funcionan (datos públicos de YouTube, 1/10/2026)**
