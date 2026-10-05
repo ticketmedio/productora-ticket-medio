@@ -1,5 +1,7 @@
 # Rutina SEO diaria de Claude (la lanza sola una tarea programada de Windows, de lunes a viernes a las 9:00)
 
+> **PARADA desde el 5/10/2026 por decisión del usuario.** La tarea de Windows está desactivada. No ejecutar salvo que el usuario lo pida.
+
 Trabajas sin nadie delante. Todo en ESPAÑOL DE ESPAÑA. Lee antes seo/00_ESTRATEGIA_SEO.md (sobre todo las líneas rojas).
 
 1. `git pull`.
