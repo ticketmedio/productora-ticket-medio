@@ -1096,7 +1096,7 @@
       "who": "tu",
       "kind": "publicacion",
       "project": "youtube",
-      "status": "pendiente",
+      "status": "hecho",
       "platforms": [
         "YouTube"
       ],
@@ -1104,7 +1104,7 @@
       "comentarios": [],
       "createdAt": "2026-09-28T10:39:56.000Z",
       "createdBy": "claude",
-      "updatedAt": "2026-09-30T12:55:22.000Z"
+      "updatedAt": "2026-10-05T07:00:14.235Z"
     },
     {
       "id": "c-video-3",
@@ -2692,7 +2692,8 @@
     "w-8",
     "w-10",
     "w-12",
-    "w-13"
+    "w-13",
+    "w-15"
   ],
   "informes": [
     {
