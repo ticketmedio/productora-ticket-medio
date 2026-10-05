@@ -30,3 +30,7 @@ Las apunta la rutina diaria (`seo/RUTINA_DIARIA.md`). No se aplican a los vídeo
 
 ## 02/10/2026 (rutina SEO)
 - Reels de Pepa aún no publicados (013–018): al menos 2 con gancho en forma de pregunta cotidiana («¿Puedes/Se puede + acción?»), el patrón del Reel de la congelación (1.160 visualizaciones en Facebook, el doble que el del pollo).
+
+## 05/10/2026 (rutina SEO) — Los Shorts abren, el largo no retiene
+- Dato: Short de Mercadona del 3/10: 644 visualizaciones, 90 % visto, 96,5 % desde el feed de Shorts. Vídeo largo de Mercadona (2/10): 6 visualizaciones y 9 % de retención media. Suscriptores 1 → 3.
+- Qué hacer (Zara, Lidl y Shorts aún sin publicar): abrir cada Short con un «truco» de una cifra, y comprobar que tiene elegido el vídeo largo en «Vídeo relacionado». Para el viernes 9/10: el criterio de Mercadona (más de 100 visualizaciones y más del 25 % de retención en el largo) casi seguro no se cumple; antes del vídeo 5 revisar título, miniatura, primeros 30 s y cómo llevar al espectador del Short al largo (pantalla final, comentario fijado, descripción del Short).

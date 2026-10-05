@@ -2,6 +2,21 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 05/10/2026
+
+**Ejemplos que funcionan (datos públicos, 5/10/2026)**
+- JF Calero (126 mil suscriptores): «Lidl consigue cosa que Mercadona no puede soñar: las claves de la eficiencia alemana», 192 mil visualizaciones (18:36, hace 3 meses). Picos hacia 8:00 y 14:00; valle en los últimos minutos.
+- Bruno Peluch (5,79 mil suscriptores): «La empresa SECUESTRADA por el ESTADO ESPAÑOL» 4,5 mil (hace 7 d); «Así es cómo CUPRA salvó a SEAT de la quiebra» 14 mil (hace 3 sem.).
+- Propio: Short «El truco de Mercadona: cobra antes de pagar» (3/10), 644 visualizaciones y 90 % de porcentaje visto, con 0 suscriptores de partida: un solo truco de una cifra.
+- «¿Es real la regla de los 5 segundos?» (DreamWorksTV Español, 997 mil); los vídeos específicos de cocina en español hacen 3–20 mil.
+
+**Ideas**
+1. **Vídeo largo — «Lidl vs Mercadona: el truco alemán»**: partir del enfoque «lo que Lidl hace y Mercadona no» (192 mil), pero con el ticket de la cesta y cuentas oficiales de Lidl. Ya es el vídeo del 23/10: titular con el contraste y un «truco» concreto, no solo la marca.
+2. **Reel de Pepa — «¿Puedes comer lo que se cae al suelo? (la regla de los 5 segundos)»**: pregunta cotidiana (patrón que más ha funcionado), con fuente de la AESAN y estudios revisados.
+3. **Carrusel de Pepa — «Lo que no debes guardar en la puerta de la nevera»**: lista corta con «no» como gancho; verificar con AESAN/OCU.
+
+**Mejora aplicable:** cada Short de YouTube, un solo «truco» con una cifra en los primeros 3 s (el de Mercadona: 90 % visto) y el vídeo largo elegido en «Vídeo relacionado»; en los largos, el pico de interés suele llegar hacia el minuto 8 y el final decae: cerrar antes y no alargar el último tramo.
+
 ## 02/10/2026
 
 **Ejemplos que funcionan (datos públicos, 2/10/2026)**
