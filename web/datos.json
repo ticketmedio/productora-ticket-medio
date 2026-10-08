@@ -2511,10 +2511,10 @@
       "id": "u-api-youtube",
       "title": "Conectar la API de YouTube para que el SEO funcione en la nube (30 min, UNA vez, desde cualquier ordenador: sirve el Mac de casa)",
       "date": "2026-10-09",
-      "status": "pendiente",
+      "status": "hecho",
       "createdBy": "claude",
       "createdAt": "2026-10-08T10:12:14.888Z",
-      "updatedAt": "2026-10-08T10:52:48.888Z",
+      "updatedAt": "2026-10-08T12:21:19.099Z",
       "notes": "Con esto la nube podrá leer tus estadísticas PRIVADAS de YouTube (horas, suscriptores, retención) y hacer el informe SEO completo cada día, aunque no haya ningún ordenador encendido. Es una conexión oficial de solo lectura: no puede publicar ni borrar nada, y se puede quitar cuando quieras. Se hace una sola vez, SOLO con el navegador (no hay que instalar nada). Hazlo después de la tarea «Dar permiso a la nube…».\n\nIMPORTANTE: las claves que aparecen en este proceso NO las pegues nunca en el chat ni en la Sala. Solo en las páginas web que te digo.\n\n1. Entra con el Gmail del proyecto (el del canal) en https://console.cloud.google.com y acepta los términos si te los pide.\n2. Arriba, pulsa el selector de proyectos → «Proyecto nuevo» → nombre: ticket-medio → «Crear». Espera y selecciónalo.\n3. Menú ☰ → «APIs y servicios» → «Biblioteca». Busca «YouTube Analytics API» → «Habilitar». Vuelve a la biblioteca, busca «YouTube Data API v3» → «Habilitar».\n4. Menú ☰ → «APIs y servicios» → «Pantalla de consentimiento de OAuth» (a veces se llama «Google Auth platform») → «Comenzar». Nombre de la aplicación: Ticket Medio · correo de asistencia: el Gmail del proyecto · Público: «Externo» · correo de contacto: el mismo → acepta y «Crear».\n5. MUY IMPORTANTE: en «Público» (Audience) pulsa «Publicar la aplicación» y confirma «En producción». Si se queda en «Pruebas», el permiso caduca a los 7 días. Es normal que salga el aviso de «aplicación sin verificar»: es tu propia aplicación.\n6. Menú ☰ → «APIs y servicios» → «Credenciales» (o «Clientes») → «Crear credenciales» → «ID de cliente de OAuth» → Tipo de aplicación: «Aplicación web» → nombre: Claude → en «URI de redireccionamiento autorizados» pulsa «Añadir URI» y escribe exactamente: https://developers.google.com/oauthplayground → «Crear». Te enseña un «ID de cliente» y un «Secreto de cliente». Déjalos a la vista (o cópialos).\n7. Abre en otra pestaña https://developers.google.com/oauthplayground (con el mismo Gmail). Arriba a la derecha pulsa la rueda ⚙ → marca «Use your own OAuth credentials» → pega tu ID de cliente y tu secreto de cliente (SOLO ahí) → «Close».\n8. A la izquierda, abajo de la lista, en el cuadro «Input your own scopes» escribe estas dos direcciones, separadas por un espacio: https://www.googleapis.com/auth/yt-analytics.readonly https://www.googleapis.com/auth/youtube.readonly → pulsa «Authorize APIs». Elige el canal «Ticket Medio». Si sale «Google no ha verificado esta aplicación»: «Configuración avanzada» → «Ir a Ticket Medio (no seguro)». Marca los dos permisos de solo lectura → «Continuar».\nCOMPROBACIÓN IMPORTANTE ANTES DEL PASO 9: en el Playground, la rueda ⚙ debe seguir con «Use your own OAuth credentials» MARCADO y con TU ID y TU secreto puestos. Si no, el Playground usa los suyos y el permiso que sale NO sirve. Al pulsar «Exchange authorization code for tokens», en el cuadro de la derecha (HTTP request) debe verse TU ID de cliente en «client_id=». Si ves otro, repite desde el paso 7.\n9. Te devuelve al Playground. Pulsa «Exchange authorization code for tokens». Aparece un «Refresh token» en un campo propio (un texto largo que empieza por 1//). Cópialo SOLO a él (no copies el resto de la respuesta). NO lo pegues en el chat.\n10. Abre https://claude.ai/code → ajustes del entorno «Ticket Medio» (el que creaste hoy; rueda al pasar el ratón sobre su nombre) → «Variables de entorno» → añade estas 3, una por línea, con el signo igual y sin comillas:\n    YT_CLIENT_ID=(el ID de cliente)\n    YT_CLIENT_SECRET=(el secreto de cliente)\n    YT_REFRESH_TOKEN=(el Refresh token)\n    Guarda.\n11. Escribe «hecho» aquí. Yo pruebo la conexión y, si va bien, activo el informe SEO diario en la nube.\n\nSi en cualquier paso la pantalla no coincide con lo que cuento (Google cambia los nombres a veces), sube una captura y te digo qué pulsar.",
       "comentarios": [
         {
@@ -2534,6 +2534,12 @@
           "author": "claude",
           "text": "Aviso de seguridad (8/10): si alguna clave se pega por error en el chat, hay que darla por expuesta: se anula y se genera otra (te lo explico en el chat). Por eso este proceso insiste en no pegarlas fuera de Google y de la página de variables de entorno.",
           "createdAt": "2026-10-08T10:52:48.889Z"
+        },
+        {
+          "id": "c-142119099988",
+          "author": "claude",
+          "text": "Hecho y comprobado (8/10, 14:19): la nube lee ya tus estadísticas privadas de YouTube con la API oficial. Primer dato real, últimos 28 días: 1.287 visualizaciones, 5,4 h y 4 suscriptores; Shorts 1.271 visualizaciones y 5,27 h; vídeos largos solo 16 visualizaciones y 0,12 h. Desde mañana, el informe SEO lo hace la nube a las 8:30 si el PC del trabajo no lo ha hecho antes. Pendiente opcional: habilitar «YouTube Data API v3» en el proyecto de Google Cloud para ver los títulos de los vídeos en el informe.",
+          "createdAt": "2026-10-08T12:21:19.100Z"
         }
       ]
     },
@@ -2734,7 +2740,7 @@
           "✅ Vídeo 4 (El Corte Inglés) terminado el 8/10 con sus 3 Shorts, y 4 Shorts extra en producción (cada uno con su ángulo)",
           "✅ Pepa Pita: 001–012 programados hasta el 24/10 en Instagram, Facebook y TikTok",
           "✅ Informes SEO diarios y 2 investigaciones de mercado al día en la nube, visibles en la Sala desde el móvil (7:00 y 20:00)",
-          "⏳ Conectar la API de YouTube: SEO completo en la nube, sin depender de ningún ordenador",
+          "✅ API de YouTube conectada (8/10): el informe SEO de YouTube se hace en la nube, sin depender de ningún ordenador (Meta y TikTok, de momento, solo con el PC del trabajo)",
           "⏳ Mercadona, 9/10: criterio de éxito (>100 visualizaciones en 7 días y >25 % de retención); hoy va por 8 y 4,7 %",
           "⏳ Producir los Shorts extra de los vídeos 3 y 4 y el lote de 5 Reels a la semana de Pepa (desde el 26/10)"
         ]
