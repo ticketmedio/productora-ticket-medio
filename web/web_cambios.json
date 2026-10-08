@@ -83,6 +83,13 @@
    "fecha": "2026-10-08T12:21:22Z",
    "tarea": "u-api-youtube",
    "texto": "hecho"
+  },
+  {
+   "id": "w-21",
+   "accion": "comentario",
+   "fecha": "2026-10-08T13:12:50Z",
+   "tarea": "c-mercadona-criterio",
+   "texto": "Analiza esto para mañana"
   }
  ]
 }
