@@ -1,0 +1,68 @@
+{
+ "voz": "voz/voz.mp3",
+ "subtitulos": "voz/subtitulos.srt",
+ "musica": "../../../../musica/pepa_pita/Travelling Light - Blue Deer Studio.mp3",
+ "musica_db": -22,
+ "fondo": "../../fondos/pexels_29148450.jpg",
+ "cabecera": "¿SOBRAN FIAMBRES?",
+ "planos": [
+  {
+   "desde": 0,
+   "imagen": "busto"
+  },
+  {
+   "desde": 4.47,
+   "imagen": "exp_sorprendida"
+  },
+  {
+   "desde": 9.88,
+   "imagen": "pose_senala"
+  },
+  {
+   "desde": 14.84,
+   "imagen": "busto"
+  },
+  {
+   "desde": 20.89,
+   "imagen": "exp_pensativa"
+  },
+  {
+   "desde": 25.85,
+   "imagen": "pose_sartenes"
+  },
+  {
+   "desde": 29.56,
+   "imagen": "busto"
+  },
+  {
+   "desde": 32.24,
+   "imagen": "exp_guino"
+  }
+ ],
+ "rotulos": [
+  {
+   "desde": 4.47,
+   "hasta": 9.56,
+   "texto": "1–2 MESES",
+   "sub": "por calidad · AESAN"
+  },
+  {
+   "desde": 9.88,
+   "hasta": 14.84,
+   "texto": "ANTES DE LA FECHA",
+   "sub": "caducidad o consumo preferente · AESAN"
+  },
+  {
+   "desde": 20.89,
+   "hasta": 25.85,
+   "texto": "RACIONES, HERMÉTICO",
+   "sub": "y apunta la fecha · AESAN"
+  }
+ ],
+ "salida": "salida/PEPA_042_congelar_embutidos.mp4",
+ "gancho": {
+  "tipo": "B",
+  "texto": "¿SOBRAN FIAMBRES Y EMBUTIDOS?",
+  "hasta": 2.96
+ }
+}

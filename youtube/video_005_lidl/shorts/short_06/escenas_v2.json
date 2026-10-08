@@ -1,0 +1,197 @@
+{
+ "formato": "vertical",
+ "fondos": "../../fondos",
+ "musica": "../../audio/musica.mp3",
+ "musica_db": -26,
+ "cola": 1.5,
+ "salida": "../../output/SHORT_06_palets_logistica.mp4",
+ "escenas": [
+  {
+   "id": "a",
+   "desde": "Lidl expone sus productos",
+   "fondo": "supermercado",
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 60,
+     "y": 360,
+     "w": 960,
+     "h": 640
+    },
+    {
+     "tipo": "texto",
+     "texto": "¿POR QUÉ EN PALÉS?",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "sello",
+     "texto": "PRODUCTOS EN PALÉS",
+     "x": 540,
+     "y": 540,
+     "tam": 66,
+     "t": 0.3
+    },
+    {
+     "tipo": "texto",
+     "texto": "Es literal: está en su web",
+     "x": 540,
+     "y": 720,
+     "tam": 52,
+     "fuente": "mano",
+     "en": "Es literal"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "senala",
+     "x": 880,
+     "y": 1310,
+     "h": 380,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "b",
+   "desde": "La idea: ahorrar",
+   "fondo": "#FFF3C4",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "¿POR QUÉ EN PALÉS?",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "Los artículos de mayor rotación,\ndirectamente en palés",
+     "x": 540,
+     "y": 470,
+     "tam": 52,
+     "fuente": "mano",
+     "en": "mayor rotación"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Ahorra lo que\nel cliente no nota",
+     "x": 540,
+     "y": 760,
+     "tam": 70,
+     "color": "#E0521B",
+     "anim": "pop",
+     "en": "ahorrar todo lo que el cliente no nota"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "pensativo",
+     "x": 880,
+     "y": 1310,
+     "h": 320,
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "c",
+   "desde": "Y detrás, una logística",
+   "fondo": "centro_logistico",
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 60,
+     "y": 360,
+     "w": 960,
+     "h": 760
+    },
+    {
+     "tipo": "texto",
+     "texto": "LA LOGÍSTICA",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 14,
+     "x": 540,
+     "y": 520,
+     "tam": 130,
+     "en": "catorce plataformas"
+    },
+    {
+     "tipo": "texto",
+     "texto": "plataformas",
+     "x": 540,
+     "y": 620,
+     "tam": 46,
+     "fuente": "mano",
+     "en": "catorce plataformas"
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 140,
+     "x": 540,
+     "y": 760,
+     "tam": 130,
+     "sufijo": " M€",
+     "en": "ciento cuarenta millones"
+    },
+    {
+     "tipo": "texto",
+     "texto": "invertidos en Martorell",
+     "x": 540,
+     "y": 860,
+     "tam": 46,
+     "fuente": "mano",
+     "en": "Martorell"
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 130,
+     "x": 540,
+     "y": 1000,
+     "tam": 130,
+     "prefijo": "+",
+     "en": "más de ciento treinta tiendas"
+    },
+    {
+     "tipo": "texto",
+     "texto": "tiendas servidas",
+     "x": 540,
+     "y": 1100,
+     "tam": 46,
+     "fuente": "mano",
+     "en": "más de ciento treinta tiendas"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "normal",
+     "x": 880,
+     "y": 1310,
+     "h": 260,
+     "t": 0.2
+    }
+   ]
+  }
+ ]
+}

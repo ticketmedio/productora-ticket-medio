@@ -1,0 +1,60 @@
+{
+ "voz": "voz/voz.mp3",
+ "subtitulos": "voz/subtitulos.srt",
+ "musica": "../../../../musica/pepa_pita/Travelling Light - Blue Deer Studio.mp3",
+ "musica_db": -22,
+ "fondo": "../../fondos/pexels_33640979.jpg",
+ "cabecera": "¿COMIDA EN MESA?",
+ "planos": [
+  {
+   "desde": 0,
+   "imagen": "busto"
+  },
+  {
+   "desde": 4.52,
+   "imagen": "exp_sorprendida"
+  },
+  {
+   "desde": 10.86,
+   "imagen": "pose_senala"
+  },
+  {
+   "desde": 16.94,
+   "imagen": "busto"
+  },
+  {
+   "desde": 21.94,
+   "imagen": "exp_pensativa"
+  },
+  {
+   "desde": 31.6,
+   "imagen": "exp_guino"
+  }
+ ],
+ "rotulos": [
+  {
+   "desde": 5.17,
+   "hasta": 10.55,
+   "texto": "MÁXIMO 2 HORAS FUERA",
+   "sub": "a temperatura ambiente · EFSA"
+  },
+  {
+   "desde": 10.86,
+   "hasta": 16.89,
+   "texto": "CALIENTE: MÁS DE 60 °C",
+   "sub": "si se va a comer enseguida · EFSA"
+  },
+  {
+   "desde": 16.94,
+   "hasta": 21.63,
+   "texto": "FRÍO: MENOS DE 5 °C",
+   "sub": "refrigéralo cuanto antes · EFSA"
+  }
+ ],
+ "salida": "salida/PEPA_040_mesa_dos_horas.mp4",
+ "gancho": {
+  "tipo": "C",
+  "texto": "¿LA COMIDA, TODA LA TARDE EN LA MESA?",
+  "hasta": 4.52
+ }
+}

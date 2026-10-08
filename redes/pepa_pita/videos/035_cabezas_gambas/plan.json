@@ -1,0 +1,68 @@
+{
+ "voz": "voz/voz.mp3",
+ "subtitulos": "voz/subtitulos.srt",
+ "musica": "../../../../musica/pepa_pita/Travelling Light - Blue Deer Studio.mp3",
+ "musica_db": -22,
+ "fondo": "../../fondos/pexels_5451503.jpg",
+ "cabecera": "¿CABEZA DE GAMBA?",
+ "planos": [
+  {
+   "desde": 0,
+   "imagen": "busto"
+  },
+  {
+   "desde": 6.13,
+   "imagen": "exp_sorprendida"
+  },
+  {
+   "desde": 9.41,
+   "imagen": "pose_senala"
+  },
+  {
+   "desde": 18.4,
+   "imagen": "busto"
+  },
+  {
+   "desde": 23.22,
+   "imagen": "exp_pensativa"
+  },
+  {
+   "desde": 27.97,
+   "imagen": "pose_sartenes"
+  },
+  {
+   "desde": 34.25,
+   "imagen": "busto"
+  },
+  {
+   "desde": 38.77,
+   "imagen": "exp_guino"
+  }
+ ],
+ "rotulos": [
+  {
+   "desde": 9.41,
+   "hasta": 18.09,
+   "texto": "CADMIO EN LA CABEZA",
+   "sub": "hepatopáncreas · AESAN"
+  },
+  {
+   "desde": 23.22,
+   "hasta": 27.92,
+   "texto": "4 × MÁS CADMIO",
+   "sub": "con cabeza que solo abdomen · AESAN"
+  },
+  {
+   "desde": 27.97,
+   "hasta": 33.94,
+   "texto": "10–30 AÑOS EN EL CUERPO",
+   "sub": "hígado y riñón · AESAN"
+  }
+ ],
+ "salida": "salida/PEPA_035_cabezas_gambas.mp4",
+ "gancho": {
+  "tipo": "A",
+  "texto": "¿CHUPAS LA CABEZA DE LAS GAMBAS?",
+  "hasta": 2.02
+ }
+}

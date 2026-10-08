@@ -1,0 +1,52 @@
+{
+ "largo": true,
+ "id": "041",
+ "slug": "cena_segura",
+ "fecha": "2026-12-03",
+ "titulo": "La cena de Navidad segura",
+ "cabecera": "¿CENA SEGURA?",
+ "fondo": "pexels_5451503",
+ "gancho": {
+  "tipo": "A",
+  "texto": "¿CENA DE NAVIDAD SEGURA? 6 PASOS"
+ },
+ "guion": "¿Preparas la cena de Navidad? Estos son los seis pasos que recomienda la EFSA, la Autoridad Europea de Seguridad Alimentaria.\n\nUno, la limpieza. Lávate las manos antes de manipular los alimentos y durante la preparación, y limpia bien superficies y utensilios.\n\nDos, separa lo crudo de lo cocinado. Usa utensilios y tablas diferentes, y guárdalos por separado en el frigorífico.\n\nTres, cocina bien la carne, los huevos y los pescados. Las sopas y los guisos, a ebullición, hasta los setenta grados. En la carne, los jugos tienen que salir claros, no rosados. Y en el pescado, la carne se separa fácilmente de las espinas.\n\nCuatro, la conservación. Nada de dejar lo cocinado a temperatura ambiente más de dos horas. Refrigéralo por debajo de cinco grados, o mantenlo caliente, por encima de sesenta.\n\nCinco, descongela en el frigorífico: es la forma más segura.\n\nY seis, usa agua potable, alimentos frescos, lava bien las frutas y verduras y no tomes nada pasada su fecha de caducidad.\n\nSígueme, que aquí aprendemos todos. ¡Cloc, cloc!",
+ "rotulos": [
+  {
+   "clave": "la limpieza",
+   "texto": "1 · LIMPIEZA",
+   "sub": "manos, superficies y utensilios · EFSA"
+  },
+  {
+   "clave": "separa lo crudo",
+   "texto": "2 · CRUDO APARTE",
+   "sub": "utensilios y tablas distintos · EFSA"
+  },
+  {
+   "clave": "setenta grados",
+   "texto": "3 · COCINA BIEN: 70 °C",
+   "sub": "jugos claros, no rosados · EFSA"
+  },
+  {
+   "clave": "más de dos horas",
+   "texto": "4 · MÁX. 2 HORAS FUERA",
+   "sub": "frío < 5 °C · caliente > 60 °C · EFSA"
+  },
+  {
+   "clave": "descongela en el frigorífico",
+   "texto": "5 · DESCONGELA EN LA NEVERA",
+   "sub": "la forma más segura · EFSA"
+  },
+  {
+   "clave": "agua potable",
+   "texto": "6 · AGUA POTABLE Y FRESCOS",
+   "sub": "y nada caducado · EFSA"
+  }
+ ],
+ "fuentes": [
+  "- EFSA (Autoridad Europea de Seguridad Alimentaria), «Manipulación adecuada de los alimentos» (campaña Safe2Eat; última revisión 29/9/2026). https://www.efsa.europa.eu/es/safe2eat/proper-food-handling",
+  "- 1) manos y superficies; 2) «Separa la carne y los pescados crudos de otros alimentos. Utiliza utensilios y tablas de cortar diferentes… Guarda los alimentos crudos y los cocinados por separado en el frigorífico»; 3) «Es esencial cocinar bien la carne, los huevos y los pescados. Lleva alimentos como sopas y guisos a ebullición para asegurarte de que alcancen los 70 °C… los jugos sean claros y no de una tonalidad rosada… la carne se separa fácilmente de las espinas»; 4) 2 horas, < 5 °C, > 60 °C; 5) «La forma más segura de descongelar alimentos es en el frigorífico»; 6) «Utiliza siempre agua potable… Lava bien las frutas y verduras… No consumas alimentos después de su fecha de caducidad.»",
+  "- Verificado el 8/10/2026 leyendo la página."
+ ],
+ "texto_pub": "¿Preparas la cena de Navidad? 🎄 Los 6 pasos que recomienda la EFSA:\n\n1️⃣ Limpieza: manos, superficies y utensilios.\n2️⃣ Lo crudo, separado de lo cocinado (utensilios y tablas distintos).\n3️⃣ Cocina bien carne, huevos y pescado; sopas y guisos a ebullición (70 °C); jugos claros en la carne.\n4️⃣ Máximo 2 horas fuera de la nevera; frío por debajo de 5 °C, caliente por encima de 60 °C.\n5️⃣ Descongela en el frigorífico.\n6️⃣ Agua potable, alimentos frescos, frutas y verduras lavadas y nada pasada su fecha de caducidad.\n\n📊 Fuente: EFSA, «Manipulación adecuada de los alimentos» (Safe2Eat).\nPepa es un personaje animado con IA; los datos, no 😉\n\n#navidad #cena #seguridadalimentaria #cocina #pepapita"
+}

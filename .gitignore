@@ -56,3 +56,9 @@ privado/
 # Archivos de otros programas (no son del proyecto)
 .cursor/
 AGENTS.md
+.DS_Store
+
+# Fondos ilustrados y miniaturas renderizadas (pesados; se regeneran o se guardan en archivo/)
+youtube/**/fondos/
+youtube/**/output/*.png
+redes/pepa_pita/videos/**/voz/*.mp3

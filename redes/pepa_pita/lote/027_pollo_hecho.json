@@ -1,0 +1,38 @@
+{
+ "id": "027",
+ "slug": "pollo_hecho",
+ "titulo": "¿Cuándo está hecho el pollo?",
+ "cabecera": "¿POLLO HECHO?",
+ "fondo": "pexels_5451503",
+ "gancho": {
+  "tipo": "C",
+  "texto": "¿CÓMO SABES SI EL POLLO ESTÁ HECHO?"
+ },
+ "guion": "¿Cómo sabes si el pollo está hecho? ¡Ojo con el centro! Por lo general, para evitar intoxicaciones, el alimento tiene que llegar a setenta grados en todas sus partes, también por dentro.\n\nEn el pollo se nota cuando desaparece el color rosa. En la carne de vacuno, cuando se pone grisácea. Y el pescado, cuando la carne está firme, blanca y se separa fácil con el tenedor.\n\nY los huevos, hasta que la yema y la clara estén cuajadas.\n\nSígueme, que aquí aprendemos todos. ¡Cloc, cloc!",
+ "rotulos": [
+  {
+   "clave": "setenta grados",
+   "texto": "70 °C EN TODAS PARTES",
+   "sub": "también por dentro · Min. de Consumo"
+  },
+  {
+   "clave": "color rosa",
+   "texto": "POLLO: SIN ROSA",
+   "sub": "vacuno: grisáceo · Min. de Consumo"
+  },
+  {
+   "clave": "firme, blanca",
+   "texto": "PESCADO: FIRME Y BLANCO",
+   "sub": "se separa con el tenedor · Consumo"
+  }
+ ],
+ "fuentes": [
+  "- Ministerio de Derechos Sociales, Consumo y Agenda 2030, «Cocinar de forma segura». https://www.dsca.gob.es/es/consumo/novedades/recomendaciones/recomendaciones-alimentarias/manipulacion-alimentos/cocinar-de-forma-segura",
+  "- «Por lo general, para evitar intoxicaciones alimentarias, es necesario que el alimento alcance, en todas sus partes, los 70ºC. Para la carne, nos daremos cuenta de que se alcanza esa temperatura, cuando la carne vacuna alcance un color grisáceo, y cuando en el pollo desaparezca el color rosa.»",
+  "- «Los huevos han de cocinarse hasta que la yema y la clara estén cuajadas.» «Los pescados que hayan alcanzado una temperatura adecuada de cocinado presentarán una carne firme y blanca, fácilmente separable con el tenedor.»",
+  "- Verificado el 8/10/2026 leyendo la página."
+ ],
+ "largo": false,
+ "fecha": "2026-11-13",
+ "texto_pub": "¿Cómo sabes si el pollo está hecho? 🍗 ¡Ojo con el centro!\n\nPor lo general, el alimento debe llegar a 70 °C en todas sus partes. En el pollo se nota cuando desaparece el color rosa; en el vacuno, cuando se pone grisáceo; el pescado, firme, blanco y fácil de separar con el tenedor. Y los huevos, con yema y clara cuajadas.\n\n📊 Fuente: Ministerio de Consumo, «Cocinar de forma segura».\nPepa es un personaje animado con IA; los datos, no 😉\n\n#pollo #cocinar #seguridadalimentaria #cocina #pepapita"
+}

@@ -1,0 +1,38 @@
+{
+ "largo": false,
+ "id": "038",
+ "slug": "alergenos_14",
+ "fecha": "2026-11-30",
+ "titulo": "Los 14 alérgenos",
+ "cabecera": "¿14 ALÉRGENOS?",
+ "fondo": "pexels_5451503",
+ "gancho": {
+  "tipo": "A",
+  "texto": "¿CUÁNTOS ALÉRGENOS HAY EN LA ETIQUETA?"
+ },
+ "guion": "¿Compras turrón, mazapán o canapés para Navidad? Mira la etiqueta: la ley obliga a destacar catorce alérgenos.\n\nCereales con gluten, crustáceos, huevos, pescado, cacahuetes, soja, leche, frutos de cáscara como las almendras o las avellanas, apio, mostaza, sésamo, sulfitos, altramuces y moluscos.\n\nTienen que aparecer destacados en la lista de ingredientes, con un tipo de letra, un estilo o un color de fondo distintos al del resto.\n\nSi tienes alergia, no te fíes de la memoria: lee siempre la etiqueta.\n\nSígueme, que aquí aprendemos todos. ¡Cloc, cloc!",
+ "rotulos": [
+  {
+   "clave": "catorce alérgenos",
+   "texto": "14 ALÉRGENOS",
+   "sub": "obligatorio destacarlos · UE 1169/2011"
+  },
+  {
+   "clave": "frutos de cáscara",
+   "texto": "FRUTOS DE CÁSCARA",
+   "sub": "almendras, avellanas, nueces… · UE"
+  },
+  {
+   "clave": "tipo de letra",
+   "texto": "EN OTRA LETRA O COLOR",
+   "sub": "distinto del resto · UE 1169/2011"
+  }
+ ],
+ "fuentes": [
+  "- Reglamento (UE) 1169/2011, anexo II y art. 21. https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32011R1169",
+  "- Anexo II (14): cereales con gluten; crustáceos; huevos; pescado; cacahuetes; soja; leche (incluida la lactosa); frutos de cáscara (almendras, avellanas, nueces, anacardos, pacanas, nueces de Brasil, alfóncigos, macadamia); apio; mostaza; granos de sésamo; dióxido de azufre y sulfitos (> 10 mg/kg o 10 mg/litro); altramuces; moluscos.",
+  "- Art. 21: se indicarán en la lista de ingredientes y la denominación «se destacará mediante una composición tipográfica que la diferencie claramente del resto de la lista de ingredientes, por ejemplo mediante el tipo de letra, el estilo o el color de fondo».",
+  "- Verificado el 8/10/2026 leyendo la página."
+ ],
+ "texto_pub": "¿Compras turrón, mazapán o canapés para Navidad? 🍬 Mira la etiqueta: la ley obliga a destacar 14 alérgenos.\n\nCereales con gluten, crustáceos, huevos, pescado, cacahuetes, soja, leche, frutos de cáscara (almendras, avellanas, nueces…), apio, mostaza, sésamo, sulfitos, altramuces y moluscos. Van resaltados en la lista de ingredientes con otro tipo de letra, estilo o color de fondo. Si tienes alergia, lee siempre la etiqueta.\n\n📊 Fuente: Reglamento (UE) 1169/2011, anexo II y art. 21.\nPepa es un personaje animado con IA; los datos, no 😉\n\n#alergenos #etiquetas #navidad #turron #pepapita"
+}

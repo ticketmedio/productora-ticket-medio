@@ -1,0 +1,38 @@
+{
+ "largo": false,
+ "id": "039",
+ "slug": "guisos_70",
+ "fecha": "2026-12-01",
+ "titulo": "Sopas y guisos a 70 °C",
+ "cabecera": "¿GUISO A 70 °C?",
+ "fondo": "pexels_29148450",
+ "gancho": {
+  "tipo": "B",
+  "texto": "¿TU CALDO LLEGÓ A 70 GRADOS?"
+ },
+ "guion": "¿Cómo sabes si el caldo de Navidad está bien caliente? La EFSA, la Autoridad Europea de Seguridad Alimentaria, dice que lleves las sopas y los guisos a ebullición para asegurarte de que alcanzan los setenta grados. Y que, idealmente, uses un termómetro.\n\nY lo que ya estaba cocinado y guardado en la nevera o en el congelador, recaliéntalo bien, para destruir las bacterias que hayan podido contaminarlo durante el almacenamiento.\n\nSígueme, que aquí aprendemos todos. ¡Cloc, cloc!",
+ "rotulos": [
+  {
+   "clave": "ebullición",
+   "texto": "A EBULLICIÓN: 70 °C",
+   "sub": "sopas y guisos · EFSA"
+  },
+  {
+   "clave": "termómetro",
+   "texto": "MEJOR, CON TERMÓMETRO",
+   "sub": "idealmente · EFSA"
+  },
+  {
+   "clave": "recaliéntalo bien",
+   "texto": "RECALIENTA BIEN",
+   "sub": "lo refrigerado o congelado · EFSA"
+  }
+ ],
+ "fuentes": [
+  "- EFSA (Autoridad Europea de Seguridad Alimentaria), «Manipulación adecuada de los alimentos» (campaña Safe2Eat; última revisión 29/9/2026). https://www.efsa.europa.eu/es/safe2eat/proper-food-handling",
+  "- «Lleva alimentos como sopas y guisos a ebullición para asegurarte de que alcancen los 70 °C. Idealmente, utiliza un termómetro.»",
+  "- «Recalienta bien los alimentos previamente cocinados, que se hayan refrigerado o congelado, para destruir las bacterias que puedan haberlos contaminado durante el almacenamiento.»",
+  "- Verificado el 8/10/2026 leyendo la página."
+ ],
+ "texto_pub": "¿Cómo sabes si el caldo está bien caliente? 🍲 La EFSA dice que lleves sopas y guisos a ebullición para que alcancen los 70 °C, idealmente con un termómetro. Y lo que ya estaba cocinado y guardado en la nevera o el congelador, recaliéntalo bien para destruir las bacterias que hayan podido contaminarlo.\n\n📊 Fuente: EFSA, «Manipulación adecuada de los alimentos» (Safe2Eat).\nPepa es un personaje animado con IA; los datos, no 😉\n\n#sopa #guiso #caldo #seguridadalimentaria #pepapita"
+}

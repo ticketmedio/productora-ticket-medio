@@ -1,0 +1,100 @@
+{
+ "voz": "voz/voz.mp3",
+ "subtitulos": "voz/subtitulos.srt",
+ "musica": "../../../../musica/pepa_pita/Travelling Light - Blue Deer Studio.mp3",
+ "musica_db": -22,
+ "fondo": "../../fondos/pexels_29148450.jpg",
+ "cabecera": "¿UVAS Y NIÑOS?",
+ "planos": [
+  {
+   "desde": 0,
+   "imagen": "busto"
+  },
+  {
+   "desde": 7.0,
+   "imagen": "exp_sorprendida"
+  },
+  {
+   "desde": 11.37,
+   "imagen": "pose_senala"
+  },
+  {
+   "desde": 14.66,
+   "imagen": "busto"
+  },
+  {
+   "desde": 18.8,
+   "imagen": "exp_pensativa"
+  },
+  {
+   "desde": 24.55,
+   "imagen": "pose_sartenes"
+  },
+  {
+   "desde": 33.1,
+   "imagen": "busto"
+  },
+  {
+   "desde": 38.51,
+   "imagen": "exp_preocupada"
+  },
+  {
+   "desde": 45.01,
+   "imagen": "exp_riendo"
+  },
+  {
+   "desde": 51.01,
+   "imagen": "busto"
+  },
+  {
+   "desde": 58.14,
+   "imagen": "pose_senala"
+  },
+  {
+   "desde": 64.16,
+   "imagen": "exp_contenta"
+  },
+  {
+   "desde": 70.88,
+   "imagen": "exp_guino"
+  }
+ ],
+ "rotulos": [
+  {
+   "desde": 27.48,
+   "hasta": 33.05,
+   "texto": "NI UVAS ENTERAS HASTA LOS 4–5",
+   "sub": "según la AEP"
+  },
+  {
+   "desde": 33.1,
+   "hasta": 38.2,
+   "texto": "CUATRO TROZOS A LO LARGO",
+   "sub": "no en rodajas · AEP"
+  },
+  {
+   "desde": 38.51,
+   "hasta": 44.7,
+   "texto": "PELADAS Y SIN SEMILLAS",
+   "sub": "la piel es resbaladiza · AEP"
+  },
+  {
+   "desde": 45.01,
+   "hasta": 50.7,
+   "texto": "SENTADO, TRANQUILO Y CON UN ADULTO",
+   "sub": "siempre supervisado · AEP"
+  },
+  {
+   "desde": 51.01,
+   "hasta": 57.83,
+   "texto": "ALTERNATIVAS: PASAS, GUSANITOS",
+   "sub": "más seguras · AEP"
+  }
+ ],
+ "salida": "salida/PEPA_046_uvas_ninos.mp4",
+ "gancho": {
+  "tipo": "C",
+  "texto": "¿UVAS PARA LOS NIÑOS EN NOCHEVIEJA?",
+  "hasta": 2.8
+ }
+}

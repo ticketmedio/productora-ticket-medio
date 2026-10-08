@@ -1,0 +1,227 @@
+{
+ "formato": "vertical",
+ "fondos": "../../fondos",
+ "musica": "../../audio/musica.mp3",
+ "musica_db": -26,
+ "cola": 1.5,
+ "salida": "../../output/SHORT_01_compra_mas_de_lo_que_vende.mp4",
+ "escenas": [
+  {
+   "id": "a",
+   "desde": "Lidl compra en España más de lo que vende",
+   "fondo": "supermercado",
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 60,
+     "y": 360,
+     "w": 960,
+     "h": 700
+    },
+    {
+     "tipo": "texto",
+     "texto": "¿COMPRA MÁS DE LO QUE VENDE?",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "VENDE en España",
+     "x": 540,
+     "y": 480,
+     "tam": 56,
+     "fuente": "mano",
+     "t": 0.3
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 7641,
+     "x": 540,
+     "y": 600,
+     "tam": 140,
+     "sufijo": " M€",
+     "t": 0.4
+    },
+    {
+     "tipo": "texto",
+     "texto": "COMPRA producto español",
+     "x": 540,
+     "y": 800,
+     "tam": 56,
+     "fuente": "mano",
+     "en": "Compró producto español"
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 8400,
+     "x": 540,
+     "y": 920,
+     "tam": 140,
+     "sufijo": " M€",
+     "color": "#E0521B",
+     "en": "ocho mil cuatrocientos millones"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "sorprendido",
+     "x": 880,
+     "y": 1310,
+     "h": 380,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "b",
+   "desde": "Y de ese volumen",
+   "fondo": "puerto_avion",
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 60,
+     "y": 360,
+     "w": 960,
+     "h": 760
+    },
+    {
+     "tipo": "texto",
+     "texto": "¿COMPRA MÁS DE LO QUE VENDE?",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "rect",
+     "x": 110,
+     "y": 470,
+     "w": 860,
+     "h": 110,
+     "color": "#9CC5E8",
+     "texto": "Compras: 8.400 M€",
+     "tam": 48,
+     "t": 0.2,
+     "dur": 0.7
+    },
+    {
+     "tipo": "rect",
+     "x": 110,
+     "y": 640,
+     "w": 440,
+     "h": 110,
+     "color": "#E0521B",
+     "texto": "4.255 M€ fuera",
+     "tam": 44,
+     "en": "cuatro mil doscientos cincuenta y cinco",
+     "dur": 0.8
+    },
+    {
+     "tipo": "rect",
+     "x": 550,
+     "y": 640,
+     "w": 420,
+     "h": 110,
+     "color": "#F5B301",
+     "texto": "4.145 M€ aquí*",
+     "tam": 44,
+     "en": "Más de la mitad",
+     "dur": 0.8
+    },
+    {
+     "tipo": "texto",
+     "texto": "*cálculo propio: 8.400 − 4.255",
+     "x": 540,
+     "y": 840,
+     "tam": 38,
+     "fuente": "mano",
+     "en": "Más de la mitad"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Más de la mitad, a una treintena de países",
+     "x": 540,
+     "y": 960,
+     "tam": 50,
+     "papel": true,
+     "en": "treintena de países europeos"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "senala",
+     "x": 880,
+     "y": 1310,
+     "h": 340,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "c",
+   "desde": "España no es solo un mercado",
+   "fondo": "#FFF3C4",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "¿COMPRA MÁS DE LO QUE VENDE?",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "sello",
+     "texto": "ESPAÑA = LA DESPENSA DE LIDL EN EUROPA",
+     "x": 540,
+     "y": 520,
+     "tam": 56,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "Compra en España\nmás de lo que vende en España",
+     "x": 540,
+     "y": 800,
+     "tam": 56,
+     "fuente": "mano",
+     "papel": true,
+     "en": "la frase exacta"
+    },
+    {
+     "tipo": "texto",
+     "texto": "porque compra para media Europa",
+     "x": 540,
+     "y": 1010,
+     "tam": 50,
+     "fuente": "mano",
+     "en": "porque compra para media Europa"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "pensativo",
+     "x": 880,
+     "y": 1310,
+     "h": 340,
+     "t": 0.2
+    }
+   ]
+  }
+ ]
+}

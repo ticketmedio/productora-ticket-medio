@@ -1,0 +1,64 @@
+{
+ "voz": "voz/voz.mp3",
+ "subtitulos": "voz/subtitulos.srt",
+ "musica": "../../../../musica/pepa_pita/Travelling Light - Blue Deer Studio.mp3",
+ "musica_db": -22,
+ "fondo": "../../fondos/pexels_29148450.jpg",
+ "cabecera": "¿SIN DESCONGELAR?",
+ "planos": [
+  {
+   "desde": 0,
+   "imagen": "busto"
+  },
+  {
+   "desde": 7.91,
+   "imagen": "exp_sorprendida"
+  },
+  {
+   "desde": 12.8,
+   "imagen": "pose_senala"
+  },
+  {
+   "desde": 16.8,
+   "imagen": "busto"
+  },
+  {
+   "desde": 22.86,
+   "imagen": "exp_pensativa"
+  },
+  {
+   "desde": 28.0,
+   "imagen": "pose_sartenes"
+  },
+  {
+   "desde": 30.6,
+   "imagen": "exp_guino"
+  }
+ ],
+ "rotulos": [
+  {
+   "desde": 2.77,
+   "hasta": 7.59,
+   "texto": "MÁS SEGURO: EN LA NEVERA",
+   "sub": "descongelar · EFSA"
+  },
+  {
+   "desde": 12.8,
+   "hasta": 16.75,
+   "texto": "VERDURAS, HAMBURGUESAS, PASTELERÍA",
+   "sub": "se cocinan congeladas · AESAN"
+  },
+  {
+   "desde": 16.8,
+   "hasta": 22.54,
+   "texto": "SOLO SI LA ETIQUETA LO DICE",
+   "sub": "y con sus instrucciones · AESAN"
+  }
+ ],
+ "salida": "salida/PEPA_049_cocinar_congelado.mp4",
+ "gancho": {
+  "tipo": "C",
+  "texto": "¿SE PUEDE COCINAR SIN DESCONGELAR?",
+  "hasta": 2.25
+ }
+}

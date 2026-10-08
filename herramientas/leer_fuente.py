@@ -1,6 +1,7 @@
 """Descarga una URL (HTML o PDF) y guarda su texto en privado/fuentes_cache/. Uso: python3 leer_fuente.py URL [palabra_clave ...]
 Con palabras clave, imprime solo los fragmentos que las contienen (±300 caracteres)."""
-import hashlib, html, io, os, re, subprocess, sys
+import hashlib, html, io, logging, os, re, subprocess, sys
+logging.disable(logging.CRITICAL)
 RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 url, claves = sys.argv[1], sys.argv[2:]
 datos = subprocess.run(["curl", "-sL", "--max-time", "90", "-A", "Mozilla/5.0", url], capture_output=True).stdout
@@ -21,4 +22,8 @@ if claves:
         print("…" + texto[max(0, m.start() - 300): m.end() + 300].replace("\n", " ") + "…\n"); vistos += 1
         if vistos >= 6: break
 else:
-    print(texto[:6000])
+    lineas = texto.split("\n")
+    fin = next((i for i in range(len(lineas)) if lineas[i].startswith(("Pie de página", "Enlaces relacionados"))), len(lineas))
+    pares = [i for i in range(min(fin, len(lineas) - 1)) if len(lineas[i].strip()) > 25 and lineas[i] == lineas[i + 1]]  # título repetido de las webs oficiales
+    ini = pares[-1] if pares else 0
+    print("\n".join(lineas[ini:fin])[:7000])

@@ -1,0 +1,38 @@
+{
+ "largo": false,
+ "id": "035",
+ "slug": "cabezas_gambas",
+ "fecha": "2026-11-25",
+ "titulo": "La cabeza de las gambas",
+ "cabecera": "¿CABEZA DE GAMBA?",
+ "fondo": "pexels_5451503",
+ "gancho": {
+  "tipo": "A",
+  "texto": "¿CHUPAS LA CABEZA DE LAS GAMBAS?"
+ },
+ "guion": "¿Chupas la cabeza de las gambas? Ojo, que la AESAN recomienda limitar, en la medida de lo posible, la carne oscura de la cabeza de los crustáceos.\n\nLa razón es el cadmio. Es un metal pesado que se acumula en una parte del aparato digestivo que está en la cabeza: el hepatopáncreas.\n\nCon las gambas, los datos apuntan a que, si te comes la cabeza, tomas cuatro veces más cadmio que si solo te comes el abdomen. Y el cadmio se acumula en el hígado y en el riñón durante diez a treinta años.\n\nSobre todo, si lo haces a menudo.\n\nSígueme, que aquí aprendemos todos. ¡Cloc, cloc!",
+ "rotulos": [
+  {
+   "clave": "el cadmio",
+   "texto": "CADMIO EN LA CABEZA",
+   "sub": "hepatopáncreas · AESAN"
+  },
+  {
+   "clave": "cuatro veces más",
+   "texto": "4 × MÁS CADMIO",
+   "sub": "con cabeza que solo abdomen · AESAN"
+  },
+  {
+   "clave": "diez a treinta años",
+   "texto": "10–30 AÑOS EN EL CUERPO",
+   "sub": "hígado y riñón · AESAN"
+  }
+ ],
+ "fuentes": [
+  "- Ministerio de Derechos Sociales, Consumo y Agenda 2030 (AESAN), «Recomendaciones de consumo de crustáceos para reducir la exposición de cadmio». https://www.dsca.gob.es/es/node/365",
+  "- «Se recomienda limitar, en la medida de lo posible, el consumo de la carne oscura de los crustáceos, localizada en la cabeza, con el objetivo de reducir la exposición de cadmio.»",
+  "- «Los datos disponibles apuntan a que la ingesta de cadmio cuando se consume la cabeza supone 4 veces la ingesta que se obtendría al consumir solo el abdomen.» Cadmio: «tiende a acumularse en el organismo, principalmente en el hígado y riñón, durante un tiempo estimado de 10-30 años». «…puede conducir a una exposición inaceptable de cadmio, particularmente cuando el consumo es habitual.»",
+  "- Verificado el 8/10/2026 leyendo la página."
+ ],
+ "texto_pub": "¿Chupas la cabeza de las gambas? 🦐 La AESAN recomienda limitar, en la medida de lo posible, la carne oscura de la cabeza de los crustáceos.\n\nEl motivo es el cadmio, un metal pesado que se acumula en el hepatopáncreas, que está en la cabeza. Con las gambas, comer la cabeza supone unas 4 veces más cadmio que comer solo el abdomen, y el cadmio se acumula en hígado y riñón durante 10-30 años. Sobre todo, si lo haces a menudo.\n\n📊 Fuente: AESAN / Ministerio de Consumo, «Recomendaciones de consumo de crustáceos para reducir la exposición de cadmio».\nPepa es un personaje animado con IA; los datos, no 😉\n\n#gambas #navidad #marisco #seguridadalimentaria #pepapita"
+}

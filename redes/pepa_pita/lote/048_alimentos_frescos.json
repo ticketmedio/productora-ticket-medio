@@ -1,0 +1,38 @@
+{
+ "largo": false,
+ "id": "048",
+ "slug": "alimentos_frescos",
+ "fecha": "2026-12-14",
+ "titulo": "Fresco, lavado y sin caducar",
+ "cabecera": "¿COMPRA FRESCA?",
+ "fondo": "pexels_33640979",
+ "gancho": {
+  "tipo": "B",
+  "texto": "¿ESTO CADUCÓ AYER? ¡NO TE LO COMAS!"
+ },
+ "guion": "¿Vas a comprar para las fiestas? Tres consejos de la EFSA.\n\nUno: elige alimentos frescos y en buen estado.\n\nDos: lava bien las frutas y las verduras, sobre todo si se van a comer crudas, y usa siempre agua potable para preparar los alimentos.\n\nY tres: no consumas alimentos después de su fecha de caducidad.\n\nY recuerda: la de consumo preferente es otra cosa, mira la etiqueta.\n\nSígueme, que aquí aprendemos todos. ¡Cloc, cloc!",
+ "rotulos": [
+  {
+   "clave": "frescos y en buen estado",
+   "texto": "ALIMENTOS FRESCOS",
+   "sub": "y en buen estado · EFSA"
+  },
+  {
+   "clave": "lava bien",
+   "texto": "LAVA FRUTAS Y VERDURAS",
+   "sub": "sobre todo si van crudas · EFSA"
+  },
+  {
+   "clave": "fecha de caducidad",
+   "texto": "CADUCIDAD: NO CONSUMIR",
+   "sub": "pasada la fecha · EFSA"
+  }
+ ],
+ "fuentes": [
+  "- EFSA (Autoridad Europea de Seguridad Alimentaria), «Manipulación adecuada de los alimentos» (campaña Safe2Eat; última revisión 29/9/2026). https://www.efsa.europa.eu/es/safe2eat/proper-food-handling",
+  "- «Utiliza siempre agua potable para preparar los alimentos. Elige alimentos frescos y en buen estado. Lava bien las frutas y verduras, sobre todo si se van a comer crudas. No consumas alimentos después de su fecha de caducidad.»",
+  "- Consumo preferente vs. caducidad: Reglamento (UE) 1169/2011, art. 24 (ver Reel 019).",
+  "- Verificado el 8/10/2026 leyendo la página."
+ ],
+ "texto_pub": "¿Vas a comprar para las fiestas? 🛒 Tres consejos de la EFSA: elige alimentos frescos y en buen estado; lava bien frutas y verduras, sobre todo si se van a comer crudas, y usa agua potable; y no consumas alimentos después de su fecha de caducidad (la de consumo preferente es otra cosa: mira la etiqueta).\n\n📊 Fuente: EFSA, «Manipulación adecuada de los alimentos» (Safe2Eat).\nPepa es un personaje animado con IA; los datos, no 😉\n\n#compra #navidad #caducidad #seguridadalimentaria #pepapita"
+}

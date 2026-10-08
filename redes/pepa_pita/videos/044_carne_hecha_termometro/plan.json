@@ -1,0 +1,68 @@
+{
+ "voz": "voz/voz.mp3",
+ "subtitulos": "voz/subtitulos.srt",
+ "musica": "../../../../musica/pepa_pita/Travelling Light - Blue Deer Studio.mp3",
+ "musica_db": -22,
+ "fondo": "../../fondos/pexels_5451503.jpg",
+ "cabecera": "¿CARNE HECHA?",
+ "planos": [
+  {
+   "desde": 0,
+   "imagen": "busto"
+  },
+  {
+   "desde": 4.87,
+   "imagen": "exp_sorprendida"
+  },
+  {
+   "desde": 9.95,
+   "imagen": "pose_senala"
+  },
+  {
+   "desde": 15.15,
+   "imagen": "busto"
+  },
+  {
+   "desde": 19.9,
+   "imagen": "exp_pensativa"
+  },
+  {
+   "desde": 24.61,
+   "imagen": "pose_sartenes"
+  },
+  {
+   "desde": 29.71,
+   "imagen": "busto"
+  },
+  {
+   "desde": 37.15,
+   "imagen": "exp_guino"
+  }
+ ],
+ "rotulos": [
+  {
+   "desde": 9.95,
+   "hasta": 14.84,
+   "texto": "IDEALMENTE, TERMÓMETRO",
+   "sub": "para la carne · EFSA"
+  },
+  {
+   "desde": 15.15,
+   "hasta": 19.9,
+   "texto": "JUGOS CLAROS, NO ROSADOS",
+   "sub": "en la carne · EFSA"
+  },
+  {
+   "desde": 24.61,
+   "hasta": 29.71,
+   "texto": "PESCADO: SE SEPARA",
+   "sub": "fácilmente de las espinas · EFSA"
+  }
+ ],
+ "salida": "salida/PEPA_044_carne_hecha_termometro.mp4",
+ "gancho": {
+  "tipo": "A",
+  "texto": "¿CÓMO SABES QUE LA CARNE ESTÁ HECHA?",
+  "hasta": 4.87
+ }
+}

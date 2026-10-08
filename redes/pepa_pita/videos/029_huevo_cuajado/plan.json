@@ -1,0 +1,60 @@
+{
+ "voz": "voz/voz.mp3",
+ "subtitulos": "voz/subtitulos.srt",
+ "musica": "../../../../musica/pepa_pita/Travelling Light - Blue Deer Studio.mp3",
+ "musica_db": -22,
+ "fondo": "../../fondos/pexels_33640979.jpg",
+ "cabecera": "¿HUEVO CUAJADO?",
+ "planos": [
+  {
+   "desde": 0,
+   "imagen": "busto"
+  },
+  {
+   "desde": 5.77,
+   "imagen": "exp_sorprendida"
+  },
+  {
+   "desde": 12.15,
+   "imagen": "pose_senala"
+  },
+  {
+   "desde": 17.11,
+   "imagen": "busto"
+  },
+  {
+   "desde": 22.84,
+   "imagen": "exp_pensativa"
+  },
+  {
+   "desde": 29.82,
+   "imagen": "exp_guino"
+  }
+ ],
+ "rotulos": [
+  {
+   "desde": 5.77,
+   "hasta": 12.1,
+   "texto": "YEMA Y CLARA CUAJADAS",
+   "sub": "así se recomienda · Min. de Consumo"
+  },
+  {
+   "desde": 12.15,
+   "hasta": 16.79,
+   "texto": "SIRVE ENSEGUIDA",
+   "sub": "los platos con huevo · Min. de Consumo"
+  },
+  {
+   "desde": 17.11,
+   "hasta": 22.84,
+   "texto": "CRUDOS, APARTE",
+   "sub": "y lava manos y superficies · AESAN"
+  }
+ ],
+ "salida": "salida/PEPA_029_huevo_cuajado.mp4",
+ "gancho": {
+  "tipo": "B",
+  "texto": "¿TORTILLA JUGOSA? ¡OJO!",
+  "hasta": 2.51
+ }
+}

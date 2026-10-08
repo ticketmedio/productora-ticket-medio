@@ -1,0 +1,202 @@
+{
+ "formato": "vertical",
+ "fondos": "../../fondos",
+ "musica": "../../audio/musica.mp3",
+ "musica_db": -26,
+ "cola": 1.5,
+ "salida": "../../output/SHORT_05_3_6_centimos.mp4",
+ "escenas": [
+  {
+   "id": "a",
+   "desde": "Lidl ingresa unos doscientos",
+   "fondo": "supermercado",
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 60,
+     "y": 360,
+     "w": 960,
+     "h": 640
+    },
+    {
+     "tipo": "texto",
+     "texto": "¿CUÁNTO GANA?",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "≈ 242 €",
+     "x": 540,
+     "y": 540,
+     "tam": 150,
+     "color": "#2E8B57",
+     "anim": "pop",
+     "t": 0.3
+    },
+    {
+     "tipo": "texto",
+     "texto": "cada segundo",
+     "x": 540,
+     "y": 660,
+     "tam": 54,
+     "fuente": "mano",
+     "t": 0.4
+    },
+    {
+     "tipo": "texto",
+     "texto": "¿Y cuánto se queda?",
+     "x": 540,
+     "y": 860,
+     "tam": 66,
+     "en": "¿Cuánto gana de cada euro?"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "pensativo",
+     "x": 880,
+     "y": 1310,
+     "h": 380,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "b",
+   "desde": "De cada euro que gastas en Lidl",
+   "fondo": "#F4E9D0",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "¿CUÁNTO GANA?",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "moneda",
+     "texto": "1 €",
+     "r": 120,
+     "x": 300,
+     "y": 600,
+     "color": "#F5B301",
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "→",
+     "x": 540,
+     "y": 600,
+     "tam": 100,
+     "en": "la empresa se queda"
+    },
+    {
+     "tipo": "moneda",
+     "texto": "3,6 c",
+     "r": 100,
+     "x": 780,
+     "y": 600,
+     "color": "#E0521B",
+     "en": "tres céntimos y medio"
+    },
+    {
+     "tipo": "texto",
+     "texto": "beneficio: 274 millones",
+     "x": 540,
+     "y": 860,
+     "tam": 54,
+     "fuente": "mano",
+     "en": "doscientos setenta y cuatro millones"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "moneda",
+     "x": 880,
+     "y": 1310,
+     "h": 340,
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "c",
+   "desde": "Para ponerlo en perspectiva",
+   "fondo": "#E3E7EC",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "LIDL vs MERCADONA",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "Beneficio por euro",
+     "x": 540,
+     "y": 440,
+     "tam": 52,
+     "fuente": "mano",
+     "t": 0.2
+    },
+    {
+     "tipo": "rect",
+     "x": 110,
+     "y": 520,
+     "w": 800,
+     "h": 110,
+     "color": "#F5B301",
+     "texto": "Mercadona ≈ 4,1 c",
+     "tam": 46,
+     "en": "cuatro céntimos por euro",
+     "dur": 0.8
+    },
+    {
+     "tipo": "rect",
+     "x": 110,
+     "y": 680,
+     "w": 700,
+     "h": 110,
+     "color": "#E0521B",
+     "texto": "Lidl ≈ 3,6 c",
+     "tam": 46,
+     "en": "cuatro céntimos por euro",
+     "dur": 0.8,
+     "t": 1.4
+    },
+    {
+     "tipo": "texto",
+     "texto": "Pero Mercadona vende 5,5 veces más",
+     "x": 540,
+     "y": 900,
+     "tam": 52,
+     "color": "#E0521B",
+     "en": "más de cinco veces más"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "lupa",
+     "x": 880,
+     "y": 1310,
+     "h": 300,
+     "t": 0.2
+    }
+   ]
+  }
+ ]
+}

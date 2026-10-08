@@ -1,0 +1,72 @@
+{
+ "voz": "voz/voz.mp3",
+ "subtitulos": "voz/subtitulos.srt",
+ "musica": "../../../../musica/pepa_pita/Travelling Light - Blue Deer Studio.mp3",
+ "musica_db": -22,
+ "fondo": "../../fondos/pexels_33640979.jpg",
+ "cabecera": "¿MARISCO SOBRANTE?",
+ "planos": [
+  {
+   "desde": 0,
+   "imagen": "busto"
+  },
+  {
+   "desde": 6.59,
+   "imagen": "exp_sorprendida"
+  },
+  {
+   "desde": 10.26,
+   "imagen": "pose_senala"
+  },
+  {
+   "desde": 14.03,
+   "imagen": "busto"
+  },
+  {
+   "desde": 18.01,
+   "imagen": "exp_pensativa"
+  },
+  {
+   "desde": 22.59,
+   "imagen": "pose_sartenes"
+  },
+  {
+   "desde": 27.34,
+   "imagen": "busto"
+  },
+  {
+   "desde": 32.97,
+   "imagen": "exp_preocupada"
+  },
+  {
+   "desde": 37.52,
+   "imagen": "exp_guino"
+  }
+ ],
+ "rotulos": [
+  {
+   "desde": 6.59,
+   "hasta": 10.21,
+   "texto": "MARISCO: 3–6 MESES",
+   "sub": "por calidad · AESAN"
+  },
+  {
+   "desde": 10.26,
+   "hasta": 14.03,
+   "texto": "BLANCO 6–8 · AZUL 2–3",
+   "sub": "meses, por calidad · AESAN"
+  },
+  {
+   "desde": 27.34,
+   "hasta": 32.97,
+   "texto": "DESCONGELA EN LA NEVERA",
+   "sub": "12 horas antes, con bandeja · AESAN"
+  }
+ ],
+ "salida": "salida/PEPA_043_marisco_congelado.mp4",
+ "gancho": {
+  "tipo": "C",
+  "texto": "¿TE SOBRA MARISCO? ¿LO CONGELAS?",
+  "hasta": 2.0
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "voz": "voz/voz.mp3",
+ "subtitulos": "voz/subtitulos.srt",
+ "musica": "../../../../musica/pepa_pita/Travelling Light - Blue Deer Studio.mp3",
+ "musica_db": -22,
+ "fondo": "../../fondos/pexels_5451503.jpg",
+ "cabecera": "¿PAÑO DE COCINA?",
+ "planos": [
+  {
+   "desde": 0,
+   "imagen": "busto"
+  },
+  {
+   "desde": 7.96,
+   "imagen": "exp_sorprendida"
+  },
+  {
+   "desde": 12.95,
+   "imagen": "pose_senala"
+  },
+  {
+   "desde": 19.38,
+   "imagen": "busto"
+  },
+  {
+   "desde": 24.26,
+   "imagen": "exp_pensativa"
+  },
+  {
+   "desde": 27.52,
+   "imagen": "pose_sartenes"
+  },
+  {
+   "desde": 30.89,
+   "imagen": "busto"
+  },
+  {
+   "desde": 34.02,
+   "imagen": "exp_guino"
+  }
+ ],
+ "rotulos": [
+  {
+   "desde": 2.72,
+   "hasta": 7.96,
+   "texto": "PAÑO: UNA VEZ AL DÍA",
+   "sub": "y siempre que haga falta · Consumo"
+  },
+  {
+   "desde": 19.38,
+   "hasta": 24.26,
+   "texto": "UÑAS CORTAS Y SIN ESMALTE",
+   "sub": "el esmalte oculta suciedad · Consumo"
+  },
+  {
+   "desde": 27.52,
+   "hasta": 30.57,
+   "texto": "¿ENFERMO? NO COCINES",
+   "sub": "para otros · Ministerio de Consumo"
+  }
+ ],
+ "salida": "salida/PEPA_030_pano_cocina.mp4",
+ "gancho": {
+  "tipo": "C",
+  "texto": "¿CADA CUÁNTO CAMBIAS EL PAÑO?",
+  "hasta": 2.72
+ }
+}

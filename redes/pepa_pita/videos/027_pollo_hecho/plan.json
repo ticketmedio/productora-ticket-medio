@@ -1,0 +1,68 @@
+{
+ "voz": "voz/voz.mp3",
+ "subtitulos": "voz/subtitulos.srt",
+ "musica": "../../../../musica/pepa_pita/Travelling Light - Blue Deer Studio.mp3",
+ "musica_db": -22,
+ "fondo": "../../fondos/pexels_5451503.jpg",
+ "cabecera": "¿POLLO HECHO?",
+ "planos": [
+  {
+   "desde": 0,
+   "imagen": "busto"
+  },
+  {
+   "desde": 3.63,
+   "imagen": "exp_sorprendida"
+  },
+  {
+   "desde": 12.62,
+   "imagen": "pose_senala"
+  },
+  {
+   "desde": 16.43,
+   "imagen": "busto"
+  },
+  {
+   "desde": 19.88,
+   "imagen": "exp_pensativa"
+  },
+  {
+   "desde": 26.2,
+   "imagen": "pose_sartenes"
+  },
+  {
+   "desde": 31.9,
+   "imagen": "busto"
+  },
+  {
+   "desde": 34.45,
+   "imagen": "exp_guino"
+  }
+ ],
+ "rotulos": [
+  {
+   "desde": 6.52,
+   "hasta": 12.31,
+   "texto": "70 °C EN TODAS PARTES",
+   "sub": "también por dentro · Min. de Consumo"
+  },
+  {
+   "desde": 12.62,
+   "hasta": 16.43,
+   "texto": "POLLO: SIN ROSA",
+   "sub": "vacuno: grisáceo · Min. de Consumo"
+  },
+  {
+   "desde": 19.88,
+   "hasta": 25.89,
+   "texto": "PESCADO: FIRME Y BLANCO",
+   "sub": "se separa con el tenedor · Consumo"
+  }
+ ],
+ "salida": "salida/PEPA_027_pollo_hecho.mp4",
+ "gancho": {
+  "tipo": "C",
+  "texto": "¿CÓMO SABES SI EL POLLO ESTÁ HECHO?",
+  "hasta": 2.35
+ }
+}

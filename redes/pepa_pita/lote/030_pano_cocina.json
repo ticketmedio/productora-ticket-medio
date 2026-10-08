@@ -1,0 +1,38 @@
+{
+ "id": "030",
+ "slug": "pano_cocina",
+ "titulo": "El paño de cocina y las manos",
+ "cabecera": "¿PAÑO DE COCINA?",
+ "fondo": "pexels_5451503",
+ "gancho": {
+  "tipo": "C",
+  "texto": "¿CADA CUÁNTO CAMBIAS EL PAÑO?"
+ },
+ "guion": "¿Cada cuánto cambias el paño de cocina? El Ministerio de Consumo aconseja una vez al día, y siempre que haga falta. El papel de cocina de un solo uso también es una buena alternativa.\n\nLas manos, con jabón y agua, y sécalas con paños de un solo uso o toallas de papel. Uñas cortas, limpias y sin esmalte, que puede ocultar suciedad. Y las heridas, cubiertas con apósitos.\n\nY si estás malo, mejor no cocines para otros.\n\nSígueme, que aquí aprendemos todos. ¡Cloc, cloc!",
+ "rotulos": [
+  {
+   "clave": "una vez al día",
+   "texto": "PAÑO: UNA VEZ AL DÍA",
+   "sub": "y siempre que haga falta · Consumo"
+  },
+  {
+   "clave": "uñas cortas",
+   "texto": "UÑAS CORTAS Y SIN ESMALTE",
+   "sub": "el esmalte oculta suciedad · Consumo"
+  },
+  {
+   "clave": "estás malo",
+   "texto": "¿ENFERMO? NO COCINES",
+   "sub": "para otros · Ministerio de Consumo"
+  }
+ ],
+ "fuentes": [
+  "- Ministerio de Derechos Sociales, Consumo y Agenda 2030, «Cocinar de forma segura». https://www.dsca.gob.es/es/consumo/novedades/recomendaciones/recomendaciones-alimentarias/manipulacion-alimentos/cocinar-de-forma-segura",
+  "- «Los paños de cocina han de estar limpios, por lo que deben cambiarse con bastante frecuencia, siendo lo aconsejable una vez al día y siempre que sea necesario. El papel de cocina de un solo uso puede ser una buena alternativa.»",
+  "- «Es conveniente lavarse concienzudamente bajo el chorro de agua y con jabón y deben secarse preferentemente con paños de un solo uso o toallas de papel.» «…llevar siempre las uñas cortas y limpias y sin esmalte, ya que éste puede ocultar la suciedad.» «Las heridas en las manos deben cubrirse con apósitos adecuados.» «Si estamos enfermos es mejor no preparar comida para otros.»",
+  "- Verificado el 8/10/2026 leyendo la página."
+ ],
+ "largo": false,
+ "fecha": "2026-11-18",
+ "texto_pub": "¿Cada cuánto cambias el paño de cocina? 🧽 El Ministerio de Consumo aconseja una vez al día y siempre que haga falta (el papel de cocina de usar y tirar también vale).\n\nManos con jabón y agua, secadas con papel o paños de un solo uso; uñas cortas, limpias y sin esmalte; heridas cubiertas. Y si estás malo, mejor no cocines para otros.\n\n📊 Fuente: Ministerio de Consumo, «Cocinar de forma segura».\nPepa es un personaje animado con IA; los datos, no 😉\n\n#cocina #higiene #manos #trucosdecocina #pepapita"
+}

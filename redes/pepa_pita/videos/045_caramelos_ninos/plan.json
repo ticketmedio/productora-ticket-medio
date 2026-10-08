@@ -1,0 +1,64 @@
+{
+ "voz": "voz/voz.mp3",
+ "subtitulos": "voz/subtitulos.srt",
+ "musica": "../../../../musica/pepa_pita/Travelling Light - Blue Deer Studio.mp3",
+ "musica_db": -22,
+ "fondo": "../../fondos/pexels_33640979.jpg",
+ "cabecera": "¿CARAMELOS?",
+ "planos": [
+  {
+   "desde": 0,
+   "imagen": "busto"
+  },
+  {
+   "desde": 11.84,
+   "imagen": "exp_sorprendida"
+  },
+  {
+   "desde": 18.52,
+   "imagen": "pose_senala"
+  },
+  {
+   "desde": 23.09,
+   "imagen": "busto"
+  },
+  {
+   "desde": 27.44,
+   "imagen": "exp_pensativa"
+  },
+  {
+   "desde": 32.69,
+   "imagen": "pose_sartenes"
+  },
+  {
+   "desde": 35.34,
+   "imagen": "exp_guino"
+  }
+ ],
+ "rotulos": [
+  {
+   "desde": 2.55,
+   "hasta": 11.52,
+   "texto": "NINGÚN CARAMELO ES SEGURO",
+   "sub": "antes de los 5 años · AEP"
+  },
+  {
+   "desde": 18.52,
+   "hasta": 23.09,
+   "texto": "0–3 AÑOS: RIESGO MUY ALTO",
+   "sub": "no deben tomarlos · AEP"
+  },
+  {
+   "desde": 27.44,
+   "hasta": 32.37,
+   "texto": "+5 AÑOS: NO DESAPARECE",
+   "sub": "el riesgo disminuye · AEP"
+  }
+ ],
+ "salida": "salida/PEPA_045_caramelos_ninos.mp4",
+ "gancho": {
+  "tipo": "B",
+  "texto": "¿CARAMELOS PARA LOS NIÑOS? ¡OJO!",
+  "hasta": 2.3
+ }
+}

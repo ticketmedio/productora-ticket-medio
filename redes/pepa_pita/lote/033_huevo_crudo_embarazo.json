@@ -1,0 +1,39 @@
+{
+ "largo": false,
+ "id": "033",
+ "slug": "huevo_crudo_embarazo",
+ "fecha": "2026-11-23",
+ "titulo": "Embarazo y huevo crudo",
+ "cabecera": "¿HUEVO CRUDO?",
+ "fondo": "pexels_5451503",
+ "gancho": {
+  "tipo": "B",
+  "texto": "¿EMBARAZADA? OJO CON LA MAYONESA"
+ },
+ "guion": "¿Estás embarazada y se acercan las fiestas? Ojo con el huevo crudo.\n\nEl Ministerio de Consumo recomienda evitar los huevos crudos y todo lo que se prepare con huevo crudo: salsas y mayonesas caseras, mousses, merengues y pasteles caseros, tiramisú, helados caseros y ponches de huevo.\n\nY también la carne cruda o poco hecha, como el carpaccio.\n\nLa carne, bien cocinada, hasta los setenta y un grados. Y ante cualquier duda, pregunta a tu médico.\n\nSígueme, que aquí aprendemos todos. ¡Cloc, cloc!",
+ "rotulos": [
+  {
+   "clave": "huevos crudos",
+   "texto": "EVITA EL HUEVO CRUDO",
+   "sub": "y lo que lo lleve · Min. de Consumo"
+  },
+  {
+   "clave": "carpaccio",
+   "texto": "CARNE CRUDA, NO",
+   "sub": "carpaccio y poco hecha · Consumo"
+  },
+  {
+   "clave": "setenta y un grados",
+   "texto": "CARNE: 71 °C",
+   "sub": "hasta que cambie de color · Consumo"
+  }
+ ],
+ "fuentes": [
+  "- Ministerio de Derechos Sociales, Consumo y Agenda 2030, «Alimentación segura durante el embarazo». https://www.dsca.gob.es/es/consumo/alimentacion-embarazo",
+  "- Alimentos que debes evitar: «Huevos crudos o preparaciones elaboradas con huevo crudo (salsas y mayonesas caseras, mousses, merengues y pasteles caseros, tiramisú, helados caseros, ponches de huevo...)»; «Carne cruda o poco hecha (carpaccios)».",
+  "- «Cocina completamente las carnes hasta alcanzar los 71ºC (debe cambiar de color en el centro del producto)».",
+  "- Verificado el 8/10/2026 leyendo la página.",
+  "- Información general; ante cualquier duda, el consejo es consultar al médico o a la matrona."
+ ],
+ "texto_pub": "¿Estás embarazada y se acercan las fiestas? 🤰 Ojo con el huevo crudo.\n\nEl Ministerio de Consumo recomienda evitar huevos crudos y lo elaborado con ellos (mayonesas y salsas caseras, mousses, merengues, tiramisú, helados caseros, ponches de huevo) y la carne cruda o poco hecha (carpaccio). La carne, bien cocinada hasta 71 °C. Ante cualquier duda, pregunta a tu médico.\n\n📊 Fuente: Ministerio de Consumo, «Alimentación segura durante el embarazo».\nPepa es un personaje animado con IA; los datos, no 😉\n\n#embarazo #huevo #navidad #seguridadalimentaria #pepapita"
+}

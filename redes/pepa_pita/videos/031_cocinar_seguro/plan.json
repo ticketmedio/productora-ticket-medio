@@ -1,0 +1,106 @@
+{
+ "voz": "voz/voz.mp3",
+ "subtitulos": "voz/subtitulos.srt",
+ "musica": "../../../../musica/pepa_pita/Travelling Light - Blue Deer Studio.mp3",
+ "musica_db": -22,
+ "fondo": "../../fondos/pexels_29148450.jpg",
+ "cabecera": "¿COCINAS SEGURO?",
+ "planos": [
+  {
+   "desde": 0,
+   "imagen": "busto"
+  },
+  {
+   "desde": 7.5,
+   "imagen": "exp_sorprendida"
+  },
+  {
+   "desde": 14.27,
+   "imagen": "pose_senala"
+  },
+  {
+   "desde": 23.29,
+   "imagen": "busto"
+  },
+  {
+   "desde": 29.08,
+   "imagen": "exp_pensativa"
+  },
+  {
+   "desde": 34.77,
+   "imagen": "pose_sartenes"
+  },
+  {
+   "desde": 39.6,
+   "imagen": "busto"
+  },
+  {
+   "desde": 46.32,
+   "imagen": "exp_preocupada"
+  },
+  {
+   "desde": 52.6,
+   "imagen": "exp_riendo"
+  },
+  {
+   "desde": 59.54,
+   "imagen": "busto"
+  },
+  {
+   "desde": 63.55,
+   "imagen": "pose_senala"
+  },
+  {
+   "desde": 69.92,
+   "imagen": "exp_contenta"
+  },
+  {
+   "desde": 73.99,
+   "imagen": "exp_guino"
+  }
+ ],
+ "rotulos": [
+  {
+   "desde": 7.5,
+   "hasta": 14.27,
+   "texto": "MANOS: JABÓN Y PAPEL",
+   "sub": "antes y después de tocar comida · Consumo"
+  },
+  {
+   "desde": 23.29,
+   "hasta": 28.77,
+   "texto": "PAÑO: UNA VEZ AL DÍA",
+   "sub": "y siempre que haga falta · Consumo"
+  },
+  {
+   "desde": 29.08,
+   "hasta": 34.77,
+   "texto": "FRUTA Y VERDURA: AL CHORRO",
+   "sub": "y sécalas bien · Min. de Consumo"
+  },
+  {
+   "desde": 39.6,
+   "hasta": 46.32,
+   "texto": "NEVERA, 24 HORAS",
+   "sub": "o microondas en «descongelar» · Consumo"
+  },
+  {
+   "desde": 52.6,
+   "hasta": 59.23,
+   "texto": "70 °C EN TODAS PARTES",
+   "sub": "también por dentro · Min. de Consumo"
+  },
+  {
+   "desde": 63.55,
+   "hasta": 69.61,
+   "texto": "RECALENTAR: 70 °C, 15 S",
+   "sub": "en el centro · Min. de Consumo"
+  }
+ ],
+ "salida": "salida/PEPA_031_cocinar_seguro.mp4",
+ "gancho": {
+  "tipo": "A",
+  "texto": "¿COCINAS SEGURO? TE LO CUENTO",
+  "hasta": 7.19
+ }
+}

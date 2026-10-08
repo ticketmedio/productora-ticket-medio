@@ -1,0 +1,64 @@
+{
+ "voz": "voz/voz.mp3",
+ "subtitulos": "voz/subtitulos.srt",
+ "musica": "../../../../musica/pepa_pita/Travelling Light - Blue Deer Studio.mp3",
+ "musica_db": -22,
+ "fondo": "../../fondos/pexels_33640979.jpg",
+ "cabecera": "¿DESCONGELAR?",
+ "planos": [
+  {
+   "desde": 0,
+   "imagen": "busto"
+  },
+  {
+   "desde": 11.58,
+   "imagen": "exp_sorprendida"
+  },
+  {
+   "desde": 17.74,
+   "imagen": "pose_senala"
+  },
+  {
+   "desde": 22.2,
+   "imagen": "busto"
+  },
+  {
+   "desde": 28.25,
+   "imagen": "exp_pensativa"
+  },
+  {
+   "desde": 31.7,
+   "imagen": "pose_sartenes"
+  },
+  {
+   "desde": 39.48,
+   "imagen": "exp_guino"
+  }
+ ],
+ "rotulos": [
+  {
+   "desde": 3.19,
+   "hasta": 11.27,
+   "texto": "DE 5 A 65 °C",
+   "sub": "se multiplican más rápido · AESAN"
+  },
+  {
+   "desde": 11.58,
+   "hasta": 17.74,
+   "texto": "12 HORAS ANTES",
+   "sub": "en la nevera, sobre una bandeja · AESAN"
+  },
+  {
+   "desde": 23.24,
+   "hasta": 28.25,
+   "texto": "MICROONDAS: POTENCIA BAJA",
+   "sub": "y cocínalo enseguida · AESAN"
+  }
+ ],
+ "salida": "salida/PEPA_024_descongelar.mp4",
+ "gancho": {
+  "tipo": "C",
+  "texto": "¿DESCONGELAS EN LA ENCIMERA?",
+  "hasta": 2.57
+ }
+}

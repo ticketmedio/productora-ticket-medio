@@ -1,0 +1,68 @@
+{
+ "voz": "voz/voz.mp3",
+ "subtitulos": "voz/subtitulos.srt",
+ "musica": "../../../../musica/pepa_pita/Travelling Light - Blue Deer Studio.mp3",
+ "musica_db": -22,
+ "fondo": "../../fondos/pexels_33640979.jpg",
+ "cabecera": "¿TOSTADA QUEMADA?",
+ "planos": [
+  {
+   "desde": 0,
+   "imagen": "busto"
+  },
+  {
+   "desde": 4.3,
+   "imagen": "exp_sorprendida"
+  },
+  {
+   "desde": 8.1,
+   "imagen": "pose_senala"
+  },
+  {
+   "desde": 11.75,
+   "imagen": "busto"
+  },
+  {
+   "desde": 21.39,
+   "imagen": "exp_pensativa"
+  },
+  {
+   "desde": 29.03,
+   "imagen": "pose_sartenes"
+  },
+  {
+   "desde": 33.35,
+   "imagen": "busto"
+  },
+  {
+   "desde": 41.35,
+   "imagen": "exp_guino"
+  }
+ ],
+ "rotulos": [
+  {
+   "desde": 14.63,
+   "hasta": 21.39,
+   "texto": "«PROBABLE CANCERÍGENO»",
+   "sub": "en animales (IARC) · AESAN"
+  },
+  {
+   "desde": 24.11,
+   "hasta": 29.03,
+   "texto": "DORADO, NO MARRÓN",
+   "sub": "regla de la AESAN"
+  },
+  {
+   "desde": 36.31,
+   "hasta": 41.35,
+   "texto": "PATATAS: FUERA DE LA NEVERA",
+   "sub": "lugar seco y oscuro · AESAN"
+  }
+ ],
+ "salida": "salida/PEPA_037_acrilamida_dorado.mp4",
+ "gancho": {
+  "tipo": "C",
+  "texto": "¿TOSTADA QUEMADA? ELIGE DORADO",
+  "hasta": 2.8
+ }
+}

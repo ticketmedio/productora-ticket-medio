@@ -1,0 +1,68 @@
+{
+ "voz": "voz/voz.mp3",
+ "subtitulos": "voz/subtitulos.srt",
+ "musica": "../../../../musica/pepa_pita/Travelling Light - Blue Deer Studio.mp3",
+ "musica_db": -22,
+ "fondo": "../../fondos/pexels_29148450.jpg",
+ "cabecera": "¿RECALIENTAS?",
+ "planos": [
+  {
+   "desde": 0,
+   "imagen": "busto"
+  },
+  {
+   "desde": 3.49,
+   "imagen": "exp_sorprendida"
+  },
+  {
+   "desde": 8.26,
+   "imagen": "pose_senala"
+  },
+  {
+   "desde": 12.09,
+   "imagen": "busto"
+  },
+  {
+   "desde": 15.51,
+   "imagen": "exp_pensativa"
+  },
+  {
+   "desde": 21.98,
+   "imagen": "pose_sartenes"
+  },
+  {
+   "desde": 30.88,
+   "imagen": "busto"
+  },
+  {
+   "desde": 33.55,
+   "imagen": "exp_guino"
+  }
+ ],
+ "rotulos": [
+  {
+   "desde": 8.26,
+   "hasta": 11.77,
+   "texto": "SOLO LO QUE VAYAS A COMER",
+   "sub": "menos recalentados, menos riesgo · Consumo"
+  },
+  {
+   "desde": 15.51,
+   "hasta": 21.67,
+   "texto": "70 °C · 15 SEGUNDOS",
+   "sub": "también en el centro · Consumo"
+  },
+  {
+   "desde": 21.98,
+   "hasta": 30.56,
+   "texto": "ENFRÍALA ANTES DE GUARDAR",
+   "sub": "no la metas caliente · Min. de Consumo"
+  }
+ ],
+ "salida": "salida/PEPA_028_recalentar.mp4",
+ "gancho": {
+  "tipo": "A",
+  "texto": "¿RECALIENTAS LA COMIDA VARIAS VECES?",
+  "hasta": 2.67
+ }
+}

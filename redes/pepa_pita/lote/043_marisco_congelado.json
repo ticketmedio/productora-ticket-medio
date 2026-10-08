@@ -1,0 +1,39 @@
+{
+ "largo": false,
+ "id": "043",
+ "slug": "marisco_congelado",
+ "fecha": "2026-12-07",
+ "titulo": "Congelar marisco y pescado",
+ "cabecera": "¿MARISCO SOBRANTE?",
+ "fondo": "pexels_33640979",
+ "gancho": {
+  "tipo": "C",
+  "texto": "¿TE SOBRA MARISCO? ¿LO CONGELAS?"
+ },
+ "guion": "¿Te sobra marisco de Navidad? Se puede congelar, y la AESAN dice cuánto aguanta por calidad.\n\nEl marisco, de tres a seis meses. El pescado blanco, de seis a ocho. Y el pescado azul, de dos a tres.\n\nCongélalo cuanto antes, y siempre antes de la fecha de caducidad. Divídelo en raciones, que se congelan antes, y apunta la fecha.\n\nPara descongelarlo, a la nevera, con unas doce horas de antelación como mínimo, y sobre una bandeja.\n\nSígueme, que aquí aprendemos todos. ¡Cloc, cloc!",
+ "rotulos": [
+  {
+   "clave": "de tres a seis",
+   "texto": "MARISCO: 3–6 MESES",
+   "sub": "por calidad · AESAN"
+  },
+  {
+   "clave": "pescado blanco",
+   "texto": "BLANCO 6–8 · AZUL 2–3",
+   "sub": "meses, por calidad · AESAN"
+  },
+  {
+   "clave": "doce horas",
+   "texto": "DESCONGELA EN LA NEVERA",
+   "sub": "12 horas antes, con bandeja · AESAN"
+  }
+ ],
+ "fuentes": [
+  "- AESAN, «¿Congelas y descongelas los alimentos de forma segura en casa?» (NIPO 069-21-012-7). https://www.aesan.gob.es/dam/jcr:38a8f1b3-25dc-40b6-a831-90a04ae3d03f/congelar_descongelar.pdf",
+  "- Tabla de almacenamiento (por calidad, a -18 ºC): marisco 3–6 meses; pescado blanco 6–8 meses; pescado azul 2–3 meses.",
+  "- «Congela los alimentos lo más rápido posible… siempre antes de sobrepasar la fecha de caducidad». «Divide las porciones de comida en raciones… se congelen antes».",
+  "- «Es recomendable sacar la comida del congelador con una antelación de al menos 12 horas y dejarla en la nevera sobre una bandeja que recoja el líquido que se genere.»",
+  "- Verificado el 8/10/2026 leyendo la página."
+ ],
+ "texto_pub": "¿Te sobra marisco de Navidad? 🦐 Se puede congelar. La AESAN indica cuánto aguanta por calidad: marisco, de 3 a 6 meses; pescado blanco, de 6 a 8; pescado azul, de 2 a 3. Congélalo cuanto antes y antes de su fecha de caducidad, en raciones y con la fecha apuntada. Para descongelar: a la nevera, al menos 12 horas antes y sobre una bandeja.\n\n📊 Fuente: AESAN, «¿Congelas y descongelas los alimentos de forma segura en casa?».\nPepa es un personaje animado con IA; los datos, no 😉\n\n#marisco #navidad #congelar #pescado #pepapita"
+}

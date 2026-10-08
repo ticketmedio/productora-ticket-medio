@@ -1,0 +1,210 @@
+{
+ "formato": "vertical",
+ "fondos": "../../fondos",
+ "musica": "../../audio/musica.mp3",
+ "musica_db": -26,
+ "cola": 1.5,
+ "salida": "../../output/SHORT_04_cuota_2_a_7.mp4",
+ "escenas": [
+  {
+   "id": "a",
+   "desde": "Según Kantar, Lidl ha pasado",
+   "fondo": "calle_comercial",
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 60,
+     "y": 360,
+     "w": 960,
+     "h": 700
+    },
+    {
+     "tipo": "texto",
+     "texto": "LA CUOTA DE LIDL",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "2,3 %",
+     "x": 540,
+     "y": 560,
+     "tam": 150,
+     "en": "dos coma tres"
+    },
+    {
+     "tipo": "texto",
+     "texto": "hace 20 años",
+     "x": 540,
+     "y": 690,
+     "tam": 46,
+     "fuente": "mano",
+     "en": "dos coma tres"
+    },
+    {
+     "tipo": "texto",
+     "texto": "7,3 %",
+     "x": 540,
+     "y": 860,
+     "tam": 170,
+     "color": "#E0521B",
+     "anim": "pop",
+     "en": "más del siete"
+    },
+    {
+     "tipo": "texto",
+     "texto": "hoy (Kantar)",
+     "x": 540,
+     "y": 1000,
+     "tam": 46,
+     "fuente": "mano",
+     "en": "más del siete"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "riendo",
+     "x": 880,
+     "y": 1310,
+     "h": 340,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "b",
+   "desde": "de cada cien euros",
+   "fondo": "#FFF3C4",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "¿QUIÉN SE LLEVA TU GASTO?",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "De cada 100 € en el súper:",
+     "x": 540,
+     "y": 440,
+     "tam": 52,
+     "fuente": "mano",
+     "t": 0.2
+    },
+    {
+     "tipo": "rect",
+     "x": 110,
+     "y": 540,
+     "w": 780,
+     "h": 110,
+     "color": "#F5B301",
+     "texto": "27 € · Mercadona",
+     "tam": 48,
+     "en": "veintisiete van a Mercadona",
+     "dur": 0.8
+    },
+    {
+     "tipo": "rect",
+     "x": 110,
+     "y": 700,
+     "w": 210,
+     "h": 110,
+     "color": "#E0521B",
+     "texto": "7 € · Lidl",
+     "tam": 40,
+     "en": "siete a Lidl",
+     "dur": 0.8
+    },
+    {
+     "tipo": "texto",
+     "texto": "Lidl, la que más sube: +0,5 puntos",
+     "x": 540,
+     "y": 940,
+     "tam": 54,
+     "color": "#E0521B",
+     "en": "la que más sube"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "senala",
+     "x": 880,
+     "y": 1310,
+     "h": 320,
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "c",
+   "desde": "Para que te hagas una idea",
+   "fondo": "#E3E7EC",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "LA CUOTA DE LIDL",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "2006 · 2,3 %",
+     "x": 540,
+     "y": 480,
+     "tam": 80,
+     "en": "hace veinte años"
+    },
+    {
+     "tipo": "texto",
+     "texto": "2020 · 4,8 %",
+     "x": 540,
+     "y": 640,
+     "tam": 80,
+     "en": "En dos mil veinte"
+    },
+    {
+     "tipo": "texto",
+     "texto": "2026 · 7,3 %",
+     "x": 540,
+     "y": 820,
+     "tam": 100,
+     "color": "#E0521B",
+     "anim": "pop",
+     "en": "el siete coma tres"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Fuente: Kantar",
+     "x": 540,
+     "y": 990,
+     "tam": 42,
+     "fuente": "mano",
+     "t": 1.0
+    },
+    {
+     "tipo": "mascota",
+     "pose": "contento",
+     "x": 880,
+     "y": 1310,
+     "h": 320,
+     "t": 0.2
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "voz": "voz/voz.mp3",
+ "subtitulos": "voz/subtitulos.srt",
+ "musica": "../../../../musica/pepa_pita/Travelling Light - Blue Deer Studio.mp3",
+ "musica_db": -22,
+ "fondo": "../../fondos/pexels_5451503.jpg",
+ "cabecera": "¿HUEVO CRUDO?",
+ "planos": [
+  {
+   "desde": 0,
+   "imagen": "busto"
+  },
+  {
+   "desde": 4.96,
+   "imagen": "exp_sorprendida"
+  },
+  {
+   "desde": 13.5,
+   "imagen": "pose_senala"
+  },
+  {
+   "desde": 19.32,
+   "imagen": "busto"
+  },
+  {
+   "desde": 23.16,
+   "imagen": "exp_pensativa"
+  },
+  {
+   "desde": 27.13,
+   "imagen": "pose_sartenes"
+  },
+  {
+   "desde": 30.62,
+   "imagen": "busto"
+  },
+  {
+   "desde": 33.66,
+   "imagen": "exp_guino"
+  }
+ ],
+ "rotulos": [
+  {
+   "desde": 4.96,
+   "hasta": 13.5,
+   "texto": "EVITA EL HUEVO CRUDO",
+   "sub": "y lo que lo lleve · Min. de Consumo"
+  },
+  {
+   "desde": 19.32,
+   "hasta": 22.85,
+   "texto": "CARNE CRUDA, NO",
+   "sub": "carpaccio y poco hecha · Consumo"
+  },
+  {
+   "desde": 23.16,
+   "hasta": 27.13,
+   "texto": "CARNE: 71 °C",
+   "sub": "hasta que cambie de color · Consumo"
+  }
+ ],
+ "salida": "salida/PEPA_033_huevo_crudo_embarazo.mp4",
+ "gancho": {
+  "tipo": "B",
+  "texto": "¿EMBARAZADA? OJO CON LA MAYONESA",
+  "hasta": 3.03
+ }
+}

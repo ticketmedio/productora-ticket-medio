@@ -1,0 +1,39 @@
+{
+ "largo": false,
+ "id": "045",
+ "slug": "caramelos_ninos",
+ "fecha": "2026-12-09",
+ "titulo": "Caramelos y niños",
+ "cabecera": "¿CARAMELOS?",
+ "fondo": "pexels_33640979",
+ "gancho": {
+  "tipo": "B",
+  "texto": "¿CARAMELOS PARA LOS NIÑOS? ¡OJO!"
+ },
+ "guion": "¿Caramelos para los peques en Navidad? Ojo. Los pediatras avisan de que ningún caramelo es seguro antes de cumplir los cinco años: no se deshacen rápido y encajan con facilidad en la garganta.\n\nLos caramelos duros y redondos pueden bloquear completamente la vía aérea de un niño en segundos.\n\nDe cero a tres años, el riesgo es muy alto y no deben tomarlos. De tres a cinco, el riesgo es alto, incluso con supervisión. Y por encima de cinco años, el riesgo disminuye, pero no desaparece.\n\nSígueme, que aquí aprendemos todos. ¡Cloc, cloc!",
+ "rotulos": [
+  {
+   "clave": "ningún caramelo es seguro",
+   "texto": "NINGÚN CARAMELO ES SEGURO",
+   "sub": "antes de los 5 años · AEP"
+  },
+  {
+   "clave": "cero a tres",
+   "texto": "0–3 AÑOS: RIESGO MUY ALTO",
+   "sub": "no deben tomarlos · AEP"
+  },
+  {
+   "clave": "disminuye, pero no desaparece",
+   "texto": "+5 AÑOS: NO DESAPARECE",
+   "sub": "el riesgo disminuye · AEP"
+  }
+ ],
+ "fuentes": [
+  "- Asociación Española de Pediatría, Comité de Soporte Vital, «Cómo pelar las uvas y cortarlas en cuatro trozos longitudinales para prevenir atragantamientos navideños en menores de 5 años» (23/12/2025). https://www.aeped.es/actualidad/atragantamientos-navidad",
+  "- «ningún caramelo es seguro antes de cumplir los 5 años, por no deshacerse rápido y encajar con facilidad en la garganta». «Los caramelos, especialmente los duros y redondos, pueden bloquear completamente la vía aérea de un niño en segundos.»",
+  "- Por edades (CSV-AEP): 0–3 años, riesgo muy alto, no deben consumir caramelos; 3–5 años, riesgo alto, incluso con supervisión; por encima de los 5 años, el riesgo disminuye, pero no desaparece.",
+  "- La AEP es una sociedad científica (no una administración).",
+  "- Verificado el 8/10/2026 leyendo la página."
+ ],
+ "texto_pub": "¿Caramelos para los peques en Navidad? 🍬 Ojo: la Asociación Española de Pediatría avisa de que ningún caramelo es seguro antes de los 5 años, porque no se deshacen rápido y encajan con facilidad en la garganta. De 0 a 3 años, riesgo muy alto (no deben tomarlos); de 3 a 5, riesgo alto, incluso con supervisión; a partir de 5, el riesgo disminuye pero no desaparece.\n\n📊 Fuente: Asociación Española de Pediatría (Comité de Soporte Vital).\nPepa es un personaje animado con IA; los datos, no 😉\n\n#caramelos #ninos #navidad #pediatria #pepapita"
+}

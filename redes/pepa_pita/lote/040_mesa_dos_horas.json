@@ -1,0 +1,37 @@
+{
+ "largo": false,
+ "id": "040",
+ "slug": "mesa_dos_horas",
+ "fecha": "2026-12-02",
+ "titulo": "La mesa de Navidad y las dos horas",
+ "cabecera": "¿COMIDA EN MESA?",
+ "fondo": "pexels_33640979",
+ "gancho": {
+  "tipo": "C",
+  "texto": "¿LA COMIDA, TODA LA TARDE EN LA MESA?"
+ },
+ "guion": "¿Dejas la comida de Navidad en la mesa toda la tarde? Ojo.\n\nLa EFSA dice que no dejes los alimentos cocinados a temperatura ambiente más de dos horas.\n\nSi se van a comer enseguida, mantenlos calientes, por encima de sesenta grados. Si no, refrigéralos cuanto antes, por debajo de cinco grados.\n\nY evita guardar las sobras demasiado tiempo, incluso en la nevera, porque eso también puede afectar a su seguridad.\n\nSígueme, que aquí aprendemos todos. ¡Cloc, cloc!",
+ "rotulos": [
+  {
+   "clave": "más de dos horas",
+   "texto": "MÁXIMO 2 HORAS FUERA",
+   "sub": "a temperatura ambiente · EFSA"
+  },
+  {
+   "clave": "sesenta grados",
+   "texto": "CALIENTE: MÁS DE 60 °C",
+   "sub": "si se va a comer enseguida · EFSA"
+  },
+  {
+   "clave": "cinco grados",
+   "texto": "FRÍO: MENOS DE 5 °C",
+   "sub": "refrigéralo cuanto antes · EFSA"
+  }
+ ],
+ "fuentes": [
+  "- EFSA (Autoridad Europea de Seguridad Alimentaria), «Manipulación adecuada de los alimentos» (campaña Safe2Eat; última revisión 29/9/2026). https://www.efsa.europa.eu/es/safe2eat/proper-food-handling",
+  "- «No dejes los alimentos cocinados a temperatura ambiente durante más de 2 horas. Refrigera los alimentos cocinados cuanto antes (por debajo de 5 °C) y mantenlos calientes (por encima de 60 °C) si se van a consumir inmediatamente. Evita almacenar las sobras de alimentos durante demasiado tiempo, incluso en la nevera».",
+  "- Verificado el 8/10/2026 leyendo la página."
+ ],
+ "texto_pub": "¿Dejas la comida de Navidad en la mesa toda la tarde? 🎄 Ojo: la EFSA dice que no dejes los alimentos cocinados a temperatura ambiente más de 2 horas. Si se van a comer ya, mantenlos calientes (más de 60 °C); si no, refrigéralos cuanto antes (menos de 5 °C). Y evita guardar las sobras demasiado tiempo, incluso en la nevera.\n\n📊 Fuente: EFSA, «Manipulación adecuada de los alimentos» (Safe2Eat).\nPepa es un personaje animado con IA; los datos, no 😉\n\n#navidad #sobras #seguridadalimentaria #cocina #pepapita"
+}

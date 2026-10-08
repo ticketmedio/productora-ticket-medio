@@ -1,0 +1,39 @@
+{
+ "largo": false,
+ "id": "044",
+ "slug": "carne_hecha_termometro",
+ "fecha": "2026-12-08",
+ "titulo": "Carne bien hecha: jugos claros",
+ "cabecera": "¿CARNE HECHA?",
+ "fondo": "pexels_5451503",
+ "gancho": {
+  "tipo": "A",
+  "texto": "¿CÓMO SABES QUE LA CARNE ESTÁ HECHA?"
+ },
+ "guion": "¿Cómo sabes que el cordero o el cochinillo ya están hechos? No lo dejes a ojo.\n\nLa EFSA recomienda cocinar bien la carne, los huevos y los pescados, y, idealmente, usar un termómetro.\n\nEn la carne, los jugos tienen que salir claros, no de un tono rosado. Y si hace falta, haz pequeños cortes para comprobar el cocinado.\n\nEn el pescado, la carne se separa fácilmente de las espinas. Y los huevos, hasta que la yema y la clara estén cuajadas.\n\nSígueme, que aquí aprendemos todos. ¡Cloc, cloc!",
+ "rotulos": [
+  {
+   "clave": "usar un termómetro",
+   "texto": "IDEALMENTE, TERMÓMETRO",
+   "sub": "para la carne · EFSA"
+  },
+  {
+   "clave": "jugos tienen que salir claros",
+   "texto": "JUGOS CLAROS, NO ROSADOS",
+   "sub": "en la carne · EFSA"
+  },
+  {
+   "clave": "espinas",
+   "texto": "PESCADO: SE SEPARA",
+   "sub": "fácilmente de las espinas · EFSA"
+  }
+ ],
+ "fuentes": [
+  "- EFSA (Autoridad Europea de Seguridad Alimentaria), «Manipulación adecuada de los alimentos» (campaña Safe2Eat; última revisión 29/9/2026). https://www.efsa.europa.eu/es/safe2eat/proper-food-handling",
+  "- «Es esencial cocinar bien la carne, los huevos y los pescados… Idealmente, utiliza un termómetro. En el caso de la carne, asegúrate de que los jugos sean claros y no de una tonalidad rosada. En el pescado, comprueba que la carne se separa fácilmente de las espinas.»",
+  "- Misma página (barbacoa): «Si es necesario, haz pequeños cortes para comprobar el cocinado».",
+  "- Ministerio de Consumo, «Cocinar de forma segura»: «Los huevos han de cocinarse hasta que la yema y la clara estén cuajadas». https://www.dsca.gob.es/es/consumo/novedades/recomendaciones/recomendaciones-alimentarias/manipulacion-alimentos/cocinar-de-forma-segura",
+  "- Verificado el 8/10/2026 leyendo la página."
+ ],
+ "texto_pub": "¿Cómo sabes que el cordero o el cochinillo ya están hechos? 🍖 No lo dejes a ojo.\n\nLa EFSA recomienda cocinar bien carne, huevos y pescado y, idealmente, usar un termómetro. En la carne, los jugos tienen que salir claros, no rosados (y si hace falta, haz pequeños cortes para comprobarlo). En el pescado, la carne se separa fácilmente de las espinas. Y los huevos, con yema y clara cuajadas.\n\n📊 Fuentes: EFSA (Safe2Eat) y Ministerio de Consumo.\nPepa es un personaje animado con IA; los datos, no 😉\n\n#carne #cordero #navidad #seguridadalimentaria #pepapita"
+}

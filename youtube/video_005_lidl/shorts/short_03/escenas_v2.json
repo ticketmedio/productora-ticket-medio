@@ -1,0 +1,194 @@
+{
+ "formato": "vertical",
+ "fondos": "../../fondos",
+ "musica": "../../audio/musica.mp3",
+ "musica_db": -26,
+ "cola": 1.5,
+ "salida": "../../output/SHORT_03_ocu_18_a_60.mp4",
+ "escenas": [
+  {
+   "id": "a",
+   "desde": "Según la OCU",
+   "fondo": "oficina_financiera",
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 60,
+     "y": 360,
+     "w": 960,
+     "h": 700
+    },
+    {
+     "tipo": "texto",
+     "texto": "OCU 2026",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "Lidl, la más barata en…",
+     "x": 540,
+     "y": 480,
+     "tam": 54,
+     "fuente": "mano",
+     "t": 0.2
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 18,
+     "x": 540,
+     "y": 640,
+     "tam": 170,
+     "color": "#9A9A9A",
+     "en": "hace un año"
+    },
+    {
+     "tipo": "texto",
+     "texto": "localidades, el año pasado",
+     "x": 540,
+     "y": 790,
+     "tam": 44,
+     "fuente": "mano",
+     "en": "hace un año"
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 60,
+     "x": 540,
+     "y": 940,
+     "tam": 190,
+     "color": "#E0521B",
+     "en": "Hoy, en sesenta"
+    },
+    {
+     "tipo": "texto",
+     "texto": "localidades, este año",
+     "x": 540,
+     "y": 1090,
+     "tam": 44,
+     "fuente": "mano",
+     "en": "Hoy, en sesenta"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "sorprendido",
+     "x": 880,
+     "y": 1310,
+     "h": 340,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "b",
+   "desde": "Y ojo con el método",
+   "fondo": "#F4E9D0",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "EL MÉTODO DE LA OCU",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "690 tiendas",
+     "x": 540,
+     "y": 480,
+     "tam": 90,
+     "en": "seiscientos noventa establecimientos"
+    },
+    {
+     "tipo": "texto",
+     "texto": "38 ciudades",
+     "x": 540,
+     "y": 640,
+     "tam": 90,
+     "en": "treinta y ocho ciudades"
+    },
+    {
+     "tipo": "texto",
+     "texto": "244 productos",
+     "x": 540,
+     "y": 800,
+     "tam": 90,
+     "en": "doscientos cuarenta y cuatro productos"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "lupa",
+     "x": 880,
+     "y": 1310,
+     "h": 340,
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "c",
+   "desde": "Entre el súper más barato",
+   "fondo": "#E3E7EC",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "EL AHORRO MEDIO",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "Entre el súper más barato\ny el más caro de tu ciudad",
+     "x": 540,
+     "y": 470,
+     "tam": 54,
+     "fuente": "mano",
+     "t": 0.2
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 1310,
+     "x": 540,
+     "y": 760,
+     "tam": 190,
+     "sufijo": " €",
+     "color": "#2E8B57",
+     "en": "mil trescientos diez euros"
+    },
+    {
+     "tipo": "texto",
+     "texto": "al año",
+     "x": 540,
+     "y": 930,
+     "tam": 60,
+     "fuente": "mano",
+     "en": "al año"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "moneda",
+     "x": 880,
+     "y": 1310,
+     "h": 320,
+     "t": 0.2
+    }
+   ]
+  }
+ ]
+}

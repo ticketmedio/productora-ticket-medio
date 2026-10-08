@@ -1,0 +1,38 @@
+{
+ "id": "029",
+ "slug": "huevo_cuajado",
+ "titulo": "El huevo, bien cuajado",
+ "cabecera": "¿HUEVO CUAJADO?",
+ "fondo": "pexels_33640979",
+ "gancho": {
+  "tipo": "B",
+  "texto": "¿TORTILLA JUGOSA? ¡OJO!"
+ },
+ "guion": "¿Te gusta la tortilla jugosa? ¡Ojo con el huevo a medio cocinar!\n\nEl Ministerio de Consumo recomienda cocinar los huevos hasta que la yema y la clara estén cuajadas. Y los alimentos que lleven huevo, servirlos justo después de cocinarlos.\n\nY cuando manipules huevos crudos, sepáralos del resto de alimentos y lava bien manos, superficies y utensilios después.\n\nSígueme, que aquí aprendemos todos. ¡Cloc, cloc!",
+ "rotulos": [
+  {
+   "clave": "yema y la clara",
+   "texto": "YEMA Y CLARA CUAJADAS",
+   "sub": "así se recomienda · Min. de Consumo"
+  },
+  {
+   "clave": "justo después",
+   "texto": "SIRVE ENSEGUIDA",
+   "sub": "los platos con huevo · Min. de Consumo"
+  },
+  {
+   "clave": "huevos crudos",
+   "texto": "CRUDOS, APARTE",
+   "sub": "y lava manos y superficies · AESAN"
+  }
+ ],
+ "fuentes": [
+  "- Ministerio de Derechos Sociales, Consumo y Agenda 2030, «Cocinar de forma segura». https://www.dsca.gob.es/es/consumo/novedades/recomendaciones/recomendaciones-alimentarias/manipulacion-alimentos/cocinar-de-forma-segura",
+  "- «Los huevos han de cocinarse hasta que la yema y la clara estén cuajadas, además, los alimentos que contengan huevo han de servirse inmediatamente después del cocinado.»",
+  "- AESAN, «De tu cocina a la oficina» (NIPO 690-14-015-1): «Manipula siempre carne, mariscos, pescados y huevos crudos separados entre sí y de otros alimentos. Las manos, las superficies y los utensilios de cocina utilizados se deben lavar a fondo después de manipular cualquier alimento crudo.» https://www.aesan.gob.es/dam/jcr:4761e79f-4510-4556-bdb4-715b2fac73e8/cocina_oficina.pdf",
+  "- Verificado el 8/10/2026 leyendo la página."
+ ],
+ "largo": false,
+ "fecha": "2026-11-17",
+ "texto_pub": "¿Te gusta la tortilla jugosa? 🍳 ¡Ojo con el huevo a medio cocinar!\n\nEl Ministerio de Consumo recomienda cocinar los huevos hasta que la yema y la clara estén cuajadas, y servir justo después los platos que lleven huevo. Y los huevos crudos, separados del resto, con manos, superficies y utensilios bien lavados después.\n\n📊 Fuentes: Ministerio de Consumo y AESAN.\nPepa es un personaje animado con IA; los datos, no 😉\n\n#huevos #tortilla #seguridadalimentaria #cocina #pepapita"
+}

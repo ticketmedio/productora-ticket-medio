@@ -1,0 +1,72 @@
+{
+ "voz": "voz/voz.mp3",
+ "subtitulos": "voz/subtitulos.srt",
+ "musica": "../../../../musica/pepa_pita/Travelling Light - Blue Deer Studio.mp3",
+ "musica_db": -22,
+ "fondo": "../../fondos/pexels_33640979.jpg",
+ "cabecera": "¿PEZ ESPADA?",
+ "planos": [
+  {
+   "desde": 0,
+   "imagen": "busto"
+  },
+  {
+   "desde": 3.2,
+   "imagen": "exp_sorprendida"
+  },
+  {
+   "desde": 10.7,
+   "imagen": "pose_senala"
+  },
+  {
+   "desde": 18.54,
+   "imagen": "busto"
+  },
+  {
+   "desde": 23.23,
+   "imagen": "exp_pensativa"
+  },
+  {
+   "desde": 27.54,
+   "imagen": "pose_sartenes"
+  },
+  {
+   "desde": 31.98,
+   "imagen": "busto"
+  },
+  {
+   "desde": 38.03,
+   "imagen": "exp_preocupada"
+  },
+  {
+   "desde": 40.59,
+   "imagen": "exp_guino"
+  }
+ ],
+ "rotulos": [
+  {
+   "desde": 5.12,
+   "hasta": 10.7,
+   "texto": "ESPADA · TIBURÓN · ATÚN ROJO · LUCIO",
+   "sub": "los que más mercurio acumulan · AESAN"
+  },
+  {
+   "desde": 23.23,
+   "hasta": 27.54,
+   "texto": "3–12 AÑOS: 50 G/SEMANA",
+   "sub": "o 100 g cada 2 semanas · AESAN"
+  },
+  {
+   "desde": 31.98,
+   "hasta": 37.72,
+   "texto": "PESCADO: VARIEDAD",
+   "sub": "es muy sano · Min. de Consumo"
+  }
+ ],
+ "salida": "salida/PEPA_034_mercurio_pescado.mp4",
+ "gancho": {
+  "tipo": "C",
+  "texto": "¿PEZ ESPADA? ¡OJO CON EL MERCURIO!",
+  "hasta": 3.2
+ }
+}

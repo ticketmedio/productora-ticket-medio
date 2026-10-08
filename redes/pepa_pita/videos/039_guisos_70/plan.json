@@ -1,0 +1,64 @@
+{
+ "voz": "voz/voz.mp3",
+ "subtitulos": "voz/subtitulos.srt",
+ "musica": "../../../../musica/pepa_pita/Travelling Light - Blue Deer Studio.mp3",
+ "musica_db": -22,
+ "fondo": "../../fondos/pexels_29148450.jpg",
+ "cabecera": "¿GUISO A 70 °C?",
+ "planos": [
+  {
+   "desde": 0,
+   "imagen": "busto"
+  },
+  {
+   "desde": 4.2,
+   "imagen": "exp_sorprendida"
+  },
+  {
+   "desde": 8.47,
+   "imagen": "pose_senala"
+  },
+  {
+   "desde": 16.48,
+   "imagen": "busto"
+  },
+  {
+   "desde": 19.74,
+   "imagen": "exp_pensativa"
+  },
+  {
+   "desde": 24.16,
+   "imagen": "pose_sartenes"
+  },
+  {
+   "desde": 33.16,
+   "imagen": "exp_guino"
+  }
+ ],
+ "rotulos": [
+  {
+   "desde": 8.47,
+   "hasta": 16.43,
+   "texto": "A EBULLICIÓN: 70 °C",
+   "sub": "sopas y guisos · EFSA"
+  },
+  {
+   "desde": 16.48,
+   "hasta": 24.11,
+   "texto": "MEJOR, CON TERMÓMETRO",
+   "sub": "idealmente · EFSA"
+  },
+  {
+   "desde": 24.16,
+   "hasta": 30.57,
+   "texto": "RECALIENTA BIEN",
+   "sub": "lo refrigerado o congelado · EFSA"
+  }
+ ],
+ "salida": "salida/PEPA_039_guisos_70.mp4",
+ "gancho": {
+  "tipo": "B",
+  "texto": "¿TU CALDO LLEGÓ A 70 GRADOS?",
+  "hasta": 4.2
+ }
+}

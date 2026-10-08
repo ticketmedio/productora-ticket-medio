@@ -1,0 +1,195 @@
+{
+ "formato": "vertical",
+ "fondos": "../../fondos",
+ "musica": "../../audio/musica.mp3",
+ "musica_db": -26,
+ "cola": 1.5,
+ "salida": "../../output/SHORT_02_3200_vs_8000.mp4",
+ "escenas": [
+  {
+   "id": "a",
+   "desde": "Lidl vende tres mil doscientos productos",
+   "fondo": "supermercado",
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 60,
+     "y": 360,
+     "w": 960,
+     "h": 700
+    },
+    {
+     "tipo": "texto",
+     "texto": "¿POCOS PRODUCTOS?",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 3200,
+     "x": 540,
+     "y": 540,
+     "tam": 150,
+     "color": "#E0521B",
+     "t": 0.3
+    },
+    {
+     "tipo": "texto",
+     "texto": "referencias en Lidl",
+     "x": 540,
+     "y": 660,
+     "tam": 52,
+     "fuente": "mano",
+     "t": 0.4
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 8000,
+     "x": 540,
+     "y": 800,
+     "tam": 150,
+     "color": "#9A9A9A",
+     "en": "ocho mil"
+    },
+    {
+     "tipo": "texto",
+     "texto": "en Mercadona",
+     "x": 540,
+     "y": 920,
+     "tam": 52,
+     "fuente": "mano",
+     "en": "ocho mil"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "pensativo",
+     "x": 880,
+     "y": 1310,
+     "h": 380,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "b",
+   "desde": "Lidl tiene unas tres mil doscientas",
+   "fondo": "#F4E9D0",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "¿POCOS PRODUCTOS?",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "> 80 %",
+     "x": 540,
+     "y": 520,
+     "tam": 170,
+     "color": "#E0521B",
+     "anim": "pop",
+     "en": "ochenta por ciento"
+    },
+    {
+     "tipo": "texto",
+     "texto": "de su surtido es\nmarca propia",
+     "x": 540,
+     "y": 720,
+     "tam": 56,
+     "fuente": "mano",
+     "en": "marca propia"
+    },
+    {
+     "tipo": "texto",
+     "texto": "(unas 3.200 referencias)",
+     "x": 540,
+     "y": 900,
+     "tam": 44,
+     "fuente": "mano",
+     "en": "tres mil doscientas"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "senala",
+     "x": 880,
+     "y": 1310,
+     "h": 340,
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "c",
+   "desde": "¿Por qué importa?",
+   "fondo": "#E6E0F5",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "¿POR QUÉ LE SALE A CUENTA?",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "Sin duplicidades,\nsolo lo que más se pide…",
+     "x": 540,
+     "y": 480,
+     "tam": 56,
+     "fuente": "mano",
+     "en": "eliminando duplicidades"
+    },
+    {
+     "tipo": "texto",
+     "texto": "más demanda\npor producto",
+     "x": 540,
+     "y": 740,
+     "tam": 66,
+     "en": "junta más demanda"
+    },
+    {
+     "tipo": "texto",
+     "texto": "mejor precio\nde compra",
+     "x": 540,
+     "y": 960,
+     "tam": 66,
+     "color": "#2E8B57",
+     "en": "mejores precios"
+    },
+    {
+     "tipo": "sello",
+     "texto": "COMPRAS ENORMES",
+     "x": 540,
+     "y": 1130,
+     "tam": 60,
+     "en": "cantidades enormes"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "normal",
+     "x": 880,
+     "y": 1310,
+     "h": 300,
+     "t": 0.2
+    }
+   ]
+  }
+ ]
+}

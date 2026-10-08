@@ -1,0 +1,2103 @@
+{
+ "musica": "audio/musica.mp3",
+ "musica_db": -26,
+ "cola": 3,
+ "escenas": [
+  {
+   "id": "01",
+   "desde": "Lidl vendió en España",
+   "fondo": "supermercado",
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 90,
+     "y": 120,
+     "w": 1230,
+     "h": 870,
+     "t": 0
+    },
+    {
+     "tipo": "texto",
+     "texto": "VENDIÓ en España",
+     "x": 700,
+     "y": 230,
+     "tam": 60,
+     "fuente": "mano",
+     "t": 0.2
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 7641,
+     "x": 700,
+     "y": 380,
+     "tam": 150,
+     "sufijo": " M€",
+     "en": "siete mil seiscientos cuarenta y un millones"
+    },
+    {
+     "tipo": "texto",
+     "texto": "pero COMPRÓ producto español por…",
+     "x": 700,
+     "y": 560,
+     "tam": 58,
+     "fuente": "mano",
+     "en": "compró producto español"
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 8400,
+     "x": 700,
+     "y": 720,
+     "tam": 150,
+     "sufijo": " M€",
+     "color": "#E0521B",
+     "en": "ocho mil cuatrocientos millones"
+    },
+    {
+     "tipo": "sello",
+     "texto": "MÁS DE LO QUE VENDIÓ",
+     "x": 700,
+     "y": 900,
+     "tam": 54,
+     "en": "Más de lo que vendió"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "sorprendido",
+     "x": 1620,
+     "y": 1015,
+     "h": 520,
+     "entra": "der",
+     "t": 0.3
+    }
+   ],
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "fuente": "Comunicado de resultados de Lidl España (30/9/2026; ejercicio 2025, de marzo de 2025 a febrero de 2026)"
+  },
+  {
+   "id": "02",
+   "desde": "Hoy vamos a abrir el ticket",
+   "fondo": "#FFF3C4",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "¿Cómo se compra más\nde lo que se vende?",
+     "x": 800,
+     "y": 250,
+     "tam": 76,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "Hoy abrimos el ticket de Lidl",
+     "x": 800,
+     "y": 470,
+     "tam": 60,
+     "fuente": "mano",
+     "en": "el ticket de Lidl"
+    },
+    {
+     "tipo": "bocadillo",
+     "texto": "No es magia: es un sistema *alemán*",
+     "x": 780,
+     "y": 700,
+     "ancho": 900,
+     "tam": 66,
+     "piensa": true,
+     "en": "no tiene nada de magia"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "pensativo",
+     "x": 1620,
+     "y": 1015,
+     "h": 520,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "03",
+   "desde": "Lidl es una cadena alemana",
+   "fondo": "fachada",
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 90,
+     "y": 120,
+     "w": 1230,
+     "h": 870,
+     "t": 0
+    },
+    {
+     "tipo": "texto",
+     "texto": "Lidl · cadena alemana",
+     "x": 700,
+     "y": 230,
+     "tam": 62,
+     "fuente": "mano",
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "1930",
+     "x": 380,
+     "y": 380,
+     "tam": 120,
+     "color": "#E0521B",
+     "en": "mil novecientos treinta"
+    },
+    {
+     "tipo": "texto",
+     "texto": "su historia, según su web",
+     "x": 380,
+     "y": 490,
+     "tam": 44,
+     "fuente": "mano",
+     "en": "mil novecientos treinta"
+    },
+    {
+     "tipo": "texto",
+     "texto": "1994",
+     "x": 1000,
+     "y": 380,
+     "tam": 120,
+     "color": "#E0521B",
+     "en": "mil novecientos noventa y cuatro"
+    },
+    {
+     "tipo": "texto",
+     "texto": "llega a España",
+     "x": 1000,
+     "y": 490,
+     "tam": 44,
+     "fuente": "mano",
+     "en": "mil novecientos noventa y cuatro"
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 730,
+     "x": 330,
+     "y": 700,
+     "tam": 130,
+     "prefijo": "+",
+     "en": "más de setecientas treinta tiendas"
+    },
+    {
+     "tipo": "texto",
+     "texto": "tiendas",
+     "x": 330,
+     "y": 790,
+     "tam": 44,
+     "fuente": "mano",
+     "en": "más de setecientas treinta tiendas"
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 14,
+     "x": 700,
+     "y": 700,
+     "tam": 130,
+     "en": "catorce plataformas"
+    },
+    {
+     "tipo": "texto",
+     "texto": "plataformas\nlogísticas",
+     "x": 700,
+     "y": 810,
+     "tam": 44,
+     "fuente": "mano",
+     "en": "catorce plataformas"
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 20000,
+     "x": 1070,
+     "y": 700,
+     "tam": 130,
+     "prefijo": "+",
+     "en": "veinte mil empleados"
+    },
+    {
+     "tipo": "texto",
+     "texto": "empleados",
+     "x": 1070,
+     "y": 790,
+     "tam": 44,
+     "fuente": "mano",
+     "en": "veinte mil empleados"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "saluda",
+     "x": 1620,
+     "y": 1015,
+     "h": 520,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "fuente": "Lidl España, empresa.lidl.es y comunicado de resultados (30/9/2026)"
+  },
+  {
+   "id": "04",
+   "desde": "Está presente en más de treinta",
+   "fondo": "#E6E0F5",
+   "capas": [
+    {
+     "tipo": "cifra",
+     "hasta": 30,
+     "x": 560,
+     "y": 330,
+     "tam": 200,
+     "prefijo": "+",
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "países",
+     "x": 560,
+     "y": 480,
+     "tam": 60,
+     "fuente": "mano",
+     "t": 0.3
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 12900,
+     "x": 1100,
+     "y": 330,
+     "tam": 160,
+     "en": "doce mil novecientas tiendas"
+    },
+    {
+     "tipo": "texto",
+     "texto": "tiendas en total",
+     "x": 1100,
+     "y": 470,
+     "tam": 54,
+     "fuente": "mano",
+     "en": "doce mil novecientas tiendas"
+    },
+    {
+     "tipo": "sello",
+     "texto": "GRUPO SCHWARZ",
+     "x": 800,
+     "y": 700,
+     "tam": 80,
+     "en": "Grupo Schwarz"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Lidl España es filial de la alemana Lidl Stiftung",
+     "x": 800,
+     "y": 880,
+     "tam": 48,
+     "fuente": "mano",
+     "papel": true,
+     "en": "Grupo Schwarz"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "normal",
+     "x": 1650,
+     "y": 1015,
+     "h": 480,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "Lidl España, empresa.lidl.es/sobre-lidl"
+  },
+  {
+   "id": "05",
+   "desde": "Y en su último ejercicio",
+   "fondo": "supermercado",
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 90,
+     "y": 120,
+     "w": 1230,
+     "h": 870,
+     "t": 0
+    },
+    {
+     "tipo": "texto",
+     "texto": "Ventas netas del último año",
+     "x": 700,
+     "y": 230,
+     "tam": 60,
+     "fuente": "mano",
+     "t": 0.2
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 7641,
+     "x": 700,
+     "y": 400,
+     "tam": 170,
+     "sufijo": " M€",
+     "en": "siete mil seiscientos cuarenta y un millones"
+    },
+    {
+     "tipo": "texto",
+     "texto": "+10 %",
+     "x": 700,
+     "y": 590,
+     "tam": 100,
+     "color": "#2E8B57",
+     "anim": "pop",
+     "en": "Un diez por ciento más"
+    },
+    {
+     "tipo": "texto",
+     "texto": "≈ 242 € cada segundo",
+     "x": 700,
+     "y": 800,
+     "tam": 64,
+     "fuente": "mano",
+     "papel": true,
+     "en": "doscientos cuarenta y dos euros"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "sorprendido",
+     "x": 1620,
+     "y": 1015,
+     "h": 520,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "fuente": "Comunicado de resultados de Lidl España (30/9/2026; ejercicio 2025, de marzo de 2025 a febrero de 2026) (cálculo propio por segundo)"
+  },
+  {
+   "id": "06",
+   "desde": "De cada euro que gastas en Lidl",
+   "fondo": "#F4E9D0",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "De cada euro que gastas en Lidl…",
+     "x": 800,
+     "y": 220,
+     "tam": 62,
+     "fuente": "mano",
+     "t": 0.2
+    },
+    {
+     "tipo": "moneda",
+     "texto": "1 €",
+     "r": 170,
+     "x": 420,
+     "y": 520,
+     "color": "#F5B301",
+     "t": 0.4
+    },
+    {
+     "tipo": "texto",
+     "texto": "→",
+     "x": 720,
+     "y": 520,
+     "tam": 120,
+     "en": "la empresa se queda"
+    },
+    {
+     "tipo": "moneda",
+     "texto": "3,6 c",
+     "r": 130,
+     "x": 1040,
+     "y": 520,
+     "color": "#E0521B",
+     "en": "tres céntimos y medio"
+    },
+    {
+     "tipo": "texto",
+     "texto": "de beneficio: 274 millones en total",
+     "x": 800,
+     "y": 820,
+     "tam": 60,
+     "fuente": "mano",
+     "papel": true,
+     "en": "doscientos setenta y cuatro millones"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "moneda",
+     "x": 1650,
+     "y": 1015,
+     "h": 480,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "Comunicado de resultados de Lidl España (30/9/2026; ejercicio 2025, de marzo de 2025 a febrero de 2026) (beneficio 274 M€ sobre 7.641 M€ = 3,6 c; cálculo propio)"
+  },
+  {
+   "id": "07",
+   "desde": "Para ponerlo en perspectiva",
+   "fondo": "#E3E7EC",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "Beneficio por cada euro vendido",
+     "x": 800,
+     "y": 190,
+     "tam": 58,
+     "fuente": "mano",
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "Mercadona",
+     "x": 220,
+     "y": 390,
+     "tam": 54,
+     "fuente": "mano",
+     "ancla": "izq",
+     "en": "Mercadona, el líder"
+    },
+    {
+     "tipo": "rect",
+     "x": 220,
+     "y": 440,
+     "w": 880,
+     "h": 110,
+     "color": "#F5B301",
+     "texto": "≈ 4,1 c",
+     "tam": 56,
+     "en": "cuatro céntimos por euro",
+     "dur": 1.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "Lidl",
+     "x": 220,
+     "y": 650,
+     "tam": 54,
+     "fuente": "mano",
+     "ancla": "izq",
+     "en": "cuatro céntimos por euro"
+    },
+    {
+     "tipo": "rect",
+     "x": 220,
+     "y": 700,
+     "w": 770,
+     "h": 110,
+     "color": "#E0521B",
+     "texto": "≈ 3,6 c",
+     "tam": 56,
+     "en": "cuatro céntimos por euro",
+     "dur": 1.2,
+     "t": 1.8
+    },
+    {
+     "tipo": "texto",
+     "texto": "Pero Mercadona vende 5,5 veces más",
+     "x": 700,
+     "y": 910,
+     "tam": 56,
+     "color": "#E0521B",
+     "en": "más de cinco veces más"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "lupa",
+     "x": 1650,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "Lidl: comunicado 30/9/2026 · Mercadona: Memoria Anual 2025 (41.858 M€; 4,1 c, cálculo propio). Ejercicios distintos"
+  },
+  {
+   "id": "08",
+   "desde": "Según Kantar",
+   "fondo": "#FFF3C4",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "¿Quién se lleva tu gasto en el súper?",
+     "x": 470,
+     "y": 130,
+     "tam": 60,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "tarta",
+     "x": 470,
+     "y": 590,
+     "r": 300,
+     "t": 0.3,
+     "porciones": [
+      {
+       "v": 27.2,
+       "color": "#F5B301",
+       "en": "veintisiete van a Mercadona"
+      },
+      {
+       "v": 7.3,
+       "color": "#E0521B",
+       "en": "siete a Lidl"
+      },
+      {
+       "v": 9.0,
+       "color": "#9CC5E8",
+       "en": "siete a Lidl"
+      },
+      {
+       "v": 56.5,
+       "color": "#D9D2C0",
+       "en": "siete a Lidl"
+      }
+     ]
+    },
+    {
+     "tipo": "rect",
+     "x": 850,
+     "y": 332,
+     "w": 56,
+     "h": 56,
+     "color": "#F5B301",
+     "en": "veintisiete van a Mercadona",
+     "dur": 0.3
+    },
+    {
+     "tipo": "texto",
+     "texto": "27,2 % · Mercadona",
+     "x": 935,
+     "y": 360,
+     "tam": 48,
+     "ancla": "izq",
+     "en": "veintisiete van a Mercadona"
+    },
+    {
+     "tipo": "rect",
+     "x": 850,
+     "y": 432,
+     "w": 56,
+     "h": 56,
+     "color": "#E0521B",
+     "en": "siete a Lidl",
+     "dur": 0.3
+    },
+    {
+     "tipo": "texto",
+     "texto": "7,3 % · Lidl (+0,5)",
+     "x": 935,
+     "y": 460,
+     "tam": 48,
+     "ancla": "izq",
+     "en": "siete a Lidl"
+    },
+    {
+     "tipo": "rect",
+     "x": 850,
+     "y": 532,
+     "w": 56,
+     "h": 56,
+     "color": "#9CC5E8",
+     "en": "siete a Lidl",
+     "dur": 0.3
+    },
+    {
+     "tipo": "texto",
+     "texto": "9,0 % · Carrefour",
+     "x": 935,
+     "y": 560,
+     "tam": 48,
+     "ancla": "izq",
+     "en": "siete a Lidl"
+    },
+    {
+     "tipo": "rect",
+     "x": 850,
+     "y": 632,
+     "w": 56,
+     "h": 56,
+     "color": "#D9D2C0",
+     "en": "siete a Lidl",
+     "dur": 0.3
+    },
+    {
+     "tipo": "texto",
+     "texto": "resto de cadenas",
+     "x": 935,
+     "y": 660,
+     "tam": 48,
+     "ancla": "izq",
+     "en": "siete a Lidl"
+    },
+    {
+     "tipo": "texto",
+     "texto": "1.er trimestre de 2026",
+     "x": 1210,
+     "y": 880,
+     "tam": 50,
+     "fuente": "mano",
+     "en": "en el primer trimestre"
+    }
+   ],
+   "fuente": "Kantar, primer trimestre de 2026 (vía El Español, 20/4/2026)"
+  },
+  {
+   "id": "09",
+   "desde": "Para que te hagas una idea",
+   "fondo": "#E3E7EC",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "Cuota de Lidl en España",
+     "x": 800,
+     "y": 190,
+     "tam": 58,
+     "fuente": "mano",
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "2,3 %",
+     "x": 360,
+     "y": 480,
+     "tam": 120,
+     "en": "dos coma tres por ciento"
+    },
+    {
+     "tipo": "texto",
+     "texto": "hace 20 años",
+     "x": 360,
+     "y": 590,
+     "tam": 50,
+     "fuente": "mano",
+     "en": "hace veinte años"
+    },
+    {
+     "tipo": "texto",
+     "texto": "4,8 %",
+     "x": 800,
+     "y": 480,
+     "tam": 120,
+     "en": "el cuatro coma ocho"
+    },
+    {
+     "tipo": "texto",
+     "texto": "2020",
+     "x": 800,
+     "y": 590,
+     "tam": 50,
+     "fuente": "mano",
+     "en": "En dos mil veinte"
+    },
+    {
+     "tipo": "texto",
+     "texto": "7,3 %",
+     "x": 1240,
+     "y": 480,
+     "tam": 140,
+     "color": "#E0521B",
+     "anim": "pop",
+     "en": "el siete coma tres"
+    },
+    {
+     "tipo": "texto",
+     "texto": "hoy",
+     "x": 1240,
+     "y": 600,
+     "tam": 50,
+     "fuente": "mano",
+     "en": "el siete coma tres"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Es la que más sube",
+     "x": 800,
+     "y": 860,
+     "tam": 62,
+     "fuente": "mano",
+     "papel": true,
+     "en": "Lidl es la que más sube"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "riendo",
+     "x": 1650,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "Kantar (vía El Español, 20/4/2026)"
+  },
+  {
+   "id": "10",
+   "desde": "Y aquí viene lo curioso",
+   "fondo": "oficina_financiera",
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 90,
+     "y": 120,
+     "w": 1230,
+     "h": 870,
+     "t": 0
+    },
+    {
+     "tipo": "texto",
+     "texto": "OCU · estudio de supermercados 2026",
+     "x": 700,
+     "y": 220,
+     "tam": 58,
+     "fuente": "mano",
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "Lidl, la más barata en…",
+     "x": 700,
+     "y": 340,
+     "tam": 60,
+     "en": "La OCU acaba de publicar"
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 60,
+     "x": 440,
+     "y": 550,
+     "tam": 180,
+     "en": "sesenta de las localidades"
+    },
+    {
+     "tipo": "texto",
+     "texto": "localidades este año",
+     "x": 440,
+     "y": 680,
+     "tam": 46,
+     "fuente": "mano",
+     "en": "sesenta de las localidades"
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 18,
+     "x": 1000,
+     "y": 550,
+     "tam": 180,
+     "color": "#9A9A9A",
+     "en": "eran dieciocho"
+    },
+    {
+     "tipo": "texto",
+     "texto": "el año anterior",
+     "x": 1000,
+     "y": 680,
+     "tam": 46,
+     "fuente": "mano",
+     "en": "eran dieciocho"
+    },
+    {
+     "tipo": "texto",
+     "texto": "690 tiendas · 38 ciudades · 244 productos",
+     "x": 700,
+     "y": 830,
+     "tam": 50,
+     "papel": true,
+     "en": "seiscientos noventa establecimientos"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "sorprendido",
+     "x": 1620,
+     "y": 1015,
+     "h": 520,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "fuente": "OCU, estudio de supermercados 2026 (25/9/2026)"
+  },
+  {
+   "id": "11",
+   "desde": "Entre el súper más barato",
+   "fondo": "#F4E9D0",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "Entre el súper más barato y el más caro de tu ciudad…",
+     "x": 800,
+     "y": 220,
+     "tam": 54,
+     "fuente": "mano",
+     "t": 0.2
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 1310,
+     "x": 800,
+     "y": 520,
+     "tam": 200,
+     "sufijo": " €",
+     "color": "#2E8B57",
+     "en": "mil trescientos diez euros"
+    },
+    {
+     "tipo": "texto",
+     "texto": "de ahorro medio al año",
+     "x": 800,
+     "y": 700,
+     "tam": 62,
+     "fuente": "mano",
+     "en": "el ahorro medio"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "moneda",
+     "x": 1640,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "OCU, estudio de supermercados 2026 (25/9/2026)"
+  },
+  {
+   "id": "12",
+   "desde": "¿Cómo lo hace?",
+   "fondo": "#FFF3C4",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "¿Cómo lo hace?",
+     "x": 800,
+     "y": 300,
+     "tam": 110,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "Tres trucos, con lo que dice la propia empresa",
+     "x": 800,
+     "y": 520,
+     "tam": 60,
+     "fuente": "mano",
+     "papel": true,
+     "en": "tres trucos"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "pensativo",
+     "x": 1620,
+     "y": 1015,
+     "h": 520,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "13",
+   "desde": "El primer truco",
+   "fondo": "supermercado",
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 90,
+     "y": 120,
+     "w": 1230,
+     "h": 870,
+     "t": 0
+    },
+    {
+     "tipo": "texto",
+     "texto": "TRUCO 1: pocas cosas",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 3200,
+     "x": 440,
+     "y": 420,
+     "tam": 150,
+     "en": "tres mil doscientas referencias"
+    },
+    {
+     "tipo": "texto",
+     "texto": "referencias en Lidl",
+     "x": 440,
+     "y": 540,
+     "tam": 46,
+     "fuente": "mano",
+     "en": "tres mil doscientas referencias"
+    },
+    {
+     "tipo": "texto",
+     "texto": "> 80 % marca propia",
+     "x": 440,
+     "y": 700,
+     "tam": 56,
+     "color": "#E0521B",
+     "en": "ochenta por ciento"
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 8000,
+     "x": 1000,
+     "y": 420,
+     "tam": 150,
+     "color": "#9A9A9A",
+     "en": "Mercadona tiene unas ocho mil"
+    },
+    {
+     "tipo": "texto",
+     "texto": "en Mercadona",
+     "x": 1000,
+     "y": 540,
+     "tam": 46,
+     "fuente": "mano",
+     "en": "Mercadona tiene unas ocho mil"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "senala",
+     "x": 1650,
+     "y": 1015,
+     "h": 500,
+     "mira": "izq",
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "fuente": "Lidl España (empresa.lidl.es, modelo de negocio) · Mercadona, Memoria Anual 2025"
+  },
+  {
+   "id": "14",
+   "desde": "¿Por qué importa?",
+   "fondo": "#E6E0F5",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "Menos productos…",
+     "x": 800,
+     "y": 250,
+     "tam": 66,
+     "fuente": "mano",
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "más demanda por producto",
+     "x": 800,
+     "y": 400,
+     "tam": 64,
+     "en": "junta más demanda"
+    },
+    {
+     "tipo": "texto",
+     "texto": "mejor precio de compra",
+     "x": 800,
+     "y": 540,
+     "tam": 64,
+     "color": "#2E8B57",
+     "en": "mejores precios"
+    },
+    {
+     "tipo": "sello",
+     "texto": "COMPRAS ENORMES",
+     "x": 800,
+     "y": 760,
+     "tam": 70,
+     "en": "Menos productos, pero comprados"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "normal",
+     "x": 1650,
+     "y": 1015,
+     "h": 480,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "Lidl España (empresa.lidl.es, modelo de negocio)"
+  },
+  {
+   "id": "15",
+   "desde": "Y hay otra consecuencia",
+   "fondo": "fachada",
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 90,
+     "y": 120,
+     "w": 1230,
+     "h": 870,
+     "t": 0
+    },
+    {
+     "tipo": "texto",
+     "texto": "Ventas medias por tienda y año",
+     "x": 700,
+     "y": 200,
+     "tam": 56,
+     "fuente": "mano",
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "Mercadona",
+     "x": 220,
+     "y": 360,
+     "tam": 54,
+     "fuente": "mano",
+     "ancla": "izq",
+     "en": "una tienda de Mercadona"
+    },
+    {
+     "tipo": "rect",
+     "x": 220,
+     "y": 410,
+     "w": 940,
+     "h": 110,
+     "color": "#F5B301",
+     "texto": "≈ 25 M€",
+     "tam": 56,
+     "en": "veinticinco millones",
+     "dur": 1.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "Lidl",
+     "x": 220,
+     "y": 600,
+     "tam": 54,
+     "fuente": "mano",
+     "ancla": "izq",
+     "en": "Una de Lidl"
+    },
+    {
+     "tipo": "rect",
+     "x": 220,
+     "y": 650,
+     "w": 400,
+     "h": 110,
+     "color": "#E0521B",
+     "texto": "≈ 10,5 M€",
+     "tam": 56,
+     "en": "diez millones y medio",
+     "dur": 1.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "Menos donde elegir",
+     "x": 700,
+     "y": 880,
+     "tam": 62,
+     "color": "#E0521B",
+     "anim": "pop",
+     "rot": -2,
+     "en": "menos donde elegir"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "encoge_hombros",
+     "x": 1650,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "Cálculo propio: ventas / tiendas (Lidl 7.641 M€ / 730; Mercadona 41.858 M€ / 1.672). Ejercicios distintos"
+  },
+  {
+   "id": "16",
+   "desde": "El segundo truco",
+   "fondo": "puerto_avion",
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 90,
+     "y": 120,
+     "w": 1230,
+     "h": 870,
+     "t": 0
+    },
+    {
+     "tipo": "texto",
+     "texto": "TRUCO 2: comprar para todos",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "Compra en España…",
+     "x": 700,
+     "y": 400,
+     "tam": 70,
+     "en": "no solo para sus tiendas españolas"
+    },
+    {
+     "tipo": "texto",
+     "texto": "…para +30 países",
+     "x": 700,
+     "y": 560,
+     "tam": 80,
+     "color": "#E0521B",
+     "anim": "pop",
+     "en": "los más de treinta países"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Así junta una demanda gigante",
+     "x": 700,
+     "y": 780,
+     "tam": 58,
+     "fuente": "mano",
+     "papel": true,
+     "en": "demanda gigante"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "senala",
+     "x": 1640,
+     "y": 1015,
+     "h": 500,
+     "mira": "izq",
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "fuente": "Lidl España (empresa.lidl.es, modelo de negocio)"
+  },
+  {
+   "id": "17",
+   "desde": "Mira lo que eso significa",
+   "fondo": "centro_logistico",
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 90,
+     "y": 120,
+     "w": 1230,
+     "h": 870,
+     "t": 0
+    },
+    {
+     "tipo": "texto",
+     "texto": "Compras de producto español en 2025",
+     "x": 700,
+     "y": 200,
+     "tam": 54,
+     "fuente": "mano",
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 330,
+     "w": 1100,
+     "h": 130,
+     "color": "#9CC5E8",
+     "texto": "8.400 M€ · más de 800 proveedores",
+     "tam": 50,
+     "en": "a más de ochocientos proveedores",
+     "dur": 0.8,
+     "t": 0.5
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 560,
+     "w": 556,
+     "h": 150,
+     "color": "#E0521B",
+     "texto": "4.255 M€ exportados",
+     "tam": 44,
+     "en": "cuatro mil doscientos cincuenta y cinco",
+     "dur": 1.0
+    },
+    {
+     "tipo": "rect",
+     "x": 706,
+     "y": 560,
+     "w": 544,
+     "h": 150,
+     "color": "#F5B301",
+     "texto": "4.145 M€ para España*",
+     "tam": 44,
+     "en": "más de la mitad",
+     "dur": 1.0
+    },
+    {
+     "tipo": "texto",
+     "texto": "Más de la mitad se vende fuera",
+     "x": 700,
+     "y": 840,
+     "tam": 62,
+     "color": "#E0521B",
+     "anim": "pop",
+     "rot": -2,
+     "en": "más de la mitad"
+    },
+    {
+     "tipo": "texto",
+     "texto": "*cálculo propio: 8.400 − 4.255",
+     "x": 700,
+     "y": 930,
+     "tam": 36,
+     "fuente": "mano",
+     "en": "más de la mitad"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "sorprendido",
+     "x": 1650,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "Comunicado de resultados de Lidl España (30/9/2026; ejercicio 2025, de marzo de 2025 a febrero de 2026) (exportaciones «a una treintena de países europeos»)"
+  },
+  {
+   "id": "18",
+   "desde": "España no es solo un mercado",
+   "fondo": "puerto_avion",
+   "capas": [
+    {
+     "tipo": "sello",
+     "texto": "ESPAÑA = LA DESPENSA DE LIDL EN EUROPA",
+     "x": 960,
+     "y": 440,
+     "tam": 70,
+     "t": 0.3
+    },
+    {
+     "tipo": "texto",
+     "texto": "Compra en España y vende en una treintena de países europeos",
+     "x": 960,
+     "y": 640,
+     "tam": 54,
+     "fuente": "mano",
+     "papel": true,
+     "en": "su despensa en Europa"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "saluda",
+     "x": 1650,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "zoom": [
+    1.0,
+    1.08
+   ]
+  },
+  {
+   "id": "19",
+   "desde": "Se nota sobre todo en la fruta",
+   "fondo": "#E8F3E0",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "Fruta y verdura",
+     "x": 700,
+     "y": 200,
+     "tam": 70,
+     "fuente": "mano",
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 2,
+     "x": 380,
+     "y": 420,
+     "tam": 190,
+     "sufijo": " M t",
+     "prefijo": "+",
+     "en": "más de dos millones de toneladas"
+    },
+    {
+     "tipo": "texto",
+     "texto": "compradas",
+     "x": 380,
+     "y": 570,
+     "tam": 50,
+     "fuente": "mano",
+     "en": "más de dos millones de toneladas"
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 81,
+     "x": 1000,
+     "y": 420,
+     "tam": 190,
+     "sufijo": " %",
+     "color": "#E0521B",
+     "en": "El ochenta y un por ciento"
+    },
+    {
+     "tipo": "texto",
+     "texto": "a otros mercados europeos",
+     "x": 1000,
+     "y": 570,
+     "tam": 46,
+     "fuente": "mano",
+     "en": "otros mercados europeos"
+    },
+    {
+     "tipo": "texto",
+     "texto": "2026, previsión: 9.400 M€ de compras",
+     "x": 700,
+     "y": 820,
+     "tam": 56,
+     "papel": true,
+     "en": "nueve mil cuatrocientos millones"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "carrito",
+     "x": 1650,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "Lidl España, comunicado 30/9/2026 (vía FreshPlaza)"
+  },
+  {
+   "id": "20",
+   "desde": "Así que, cuando dices",
+   "fondo": "#FFF3C4",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "La frase exacta:",
+     "x": 800,
+     "y": 220,
+     "tam": 62,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "Compra en España\nmás de lo que vende\nen España",
+     "x": 800,
+     "y": 440,
+     "tam": 70,
+     "color": "#E0521B",
+     "en": "la frase exacta es esta"
+    },
+    {
+     "tipo": "texto",
+     "texto": "…porque compra para media Europa",
+     "x": 800,
+     "y": 760,
+     "tam": 58,
+     "fuente": "mano",
+     "papel": true,
+     "en": "porque compra para media Europa"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "lupa",
+     "x": 1640,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "21",
+   "desde": "El tercer truco",
+   "fondo": "centro_logistico",
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 90,
+     "y": 120,
+     "w": 1230,
+     "h": 870,
+     "t": 0
+    },
+    {
+     "tipo": "texto",
+     "texto": "TRUCO 3: gastar lo mínimo",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "Eliminar todo lo que el cliente no nota",
+     "x": 700,
+     "y": 400,
+     "tam": 58,
+     "fuente": "mano",
+     "en": "todo lo que no aporte nada"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Productos en palés",
+     "x": 700,
+     "y": 530,
+     "tam": 70,
+     "en": "en palés"
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 14,
+     "x": 380,
+     "y": 760,
+     "tam": 120,
+     "en": "catorce plataformas"
+    },
+    {
+     "tipo": "texto",
+     "texto": "plataformas",
+     "x": 380,
+     "y": 850,
+     "tam": 44,
+     "fuente": "mano",
+     "en": "catorce plataformas"
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 140,
+     "x": 850,
+     "y": 760,
+     "tam": 120,
+     "sufijo": " M€",
+     "en": "ciento cuarenta millones"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Martorell (Barcelona)",
+     "x": 850,
+     "y": 850,
+     "tam": 44,
+     "fuente": "mano",
+     "en": "Martorell"
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 130,
+     "x": 1180,
+     "y": 760,
+     "tam": 120,
+     "prefijo": "+",
+     "en": "más de ciento treinta tiendas"
+    },
+    {
+     "tipo": "texto",
+     "texto": "tiendas servidas",
+     "x": 1180,
+     "y": 850,
+     "tam": 44,
+     "fuente": "mano",
+     "en": "más de ciento treinta tiendas"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "senala",
+     "x": 1660,
+     "y": 1015,
+     "h": 500,
+     "mira": "izq",
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "fuente": "Lidl España (empresa.lidl.es) y comunicado 30/9/2026"
+  },
+  {
+   "id": "22",
+   "desde": "Y detrás hay personas",
+   "fondo": "oficina_financiera",
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 90,
+     "y": 120,
+     "w": 1230,
+     "h": 870,
+     "t": 0
+    },
+    {
+     "tipo": "texto",
+     "texto": "Las personas",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 1200,
+     "x": 450,
+     "y": 450,
+     "tam": 150,
+     "prefijo": "+",
+     "en": "más de mil doscientos empleos"
+    },
+    {
+     "tipo": "texto",
+     "texto": "empleos creados en 2025",
+     "x": 450,
+     "y": 570,
+     "tam": 46,
+     "fuente": "mano",
+     "en": "más de mil doscientos empleos"
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 94,
+     "x": 1000,
+     "y": 450,
+     "tam": 150,
+     "sufijo": " %",
+     "en": "el noventa y cuatro por ciento"
+    },
+    {
+     "tipo": "texto",
+     "texto": "contrato indefinido",
+     "x": 1000,
+     "y": 570,
+     "tam": 46,
+     "fuente": "mano",
+     "en": "contrato indefinido"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Convenio: > 280 M€ en 4 años",
+     "x": 700,
+     "y": 790,
+     "tam": 58,
+     "papel": true,
+     "en": "doscientos ochenta millones"
+    },
+    {
+     "tipo": "texto",
+     "texto": "según la empresa",
+     "x": 700,
+     "y": 900,
+     "tam": 44,
+     "fuente": "mano",
+     "en": "doscientos ochenta millones"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "contento",
+     "x": 1650,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "Lidl España, comunicado 30/9/2026 (datos de la empresa)"
+  },
+  {
+   "id": "23",
+   "desde": "Tampoco es barato crecer",
+   "fondo": "fachada",
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 90,
+     "y": 120,
+     "w": 1230,
+     "h": 870,
+     "t": 0
+    },
+    {
+     "tipo": "texto",
+     "texto": "Inversión",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 320,
+     "x": 440,
+     "y": 440,
+     "tam": 150,
+     "sufijo": " M€",
+     "en": "trescientos veinte millones"
+    },
+    {
+     "tipo": "texto",
+     "texto": "2025: ≈ 50 tiendas\nabiertas o reformadas",
+     "x": 440,
+     "y": 600,
+     "tam": 46,
+     "fuente": "mano",
+     "en": "trescientos veinte millones"
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 440,
+     "x": 1000,
+     "y": 440,
+     "tam": 150,
+     "prefijo": "+",
+     "sufijo": " M€",
+     "color": "#E0521B",
+     "en": "cuatrocientos cuarenta millones"
+    },
+    {
+     "tipo": "texto",
+     "texto": "2026: >60 actuaciones,\n≈ 50 tiendas nuevas",
+     "x": 1000,
+     "y": 600,
+     "tam": 46,
+     "fuente": "mano",
+     "en": "cuatrocientos cuarenta millones"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "corriendo",
+     "x": 1650,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "fuente": "Lidl España, comunicado 30/9/2026"
+  },
+  {
+   "id": "24",
+   "desde": "Y la empresa dice que su contribución",
+   "fondo": "oficina_financiera",
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 90,
+     "y": 120,
+     "w": 1230,
+     "h": 870,
+     "t": 0
+    },
+    {
+     "tipo": "texto",
+     "texto": "Impuestos",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 643,
+     "x": 700,
+     "y": 430,
+     "tam": 180,
+     "sufijo": " M€",
+     "en": "seiscientos cuarenta y tres millones"
+    },
+    {
+     "tipo": "texto",
+     "texto": "contribución tributaria 2025",
+     "x": 700,
+     "y": 580,
+     "tam": 50,
+     "fuente": "mano",
+     "en": "contribución tributaria"
+    },
+    {
+     "tipo": "texto",
+     "texto": "≈ 8,4 c por euro de ventas",
+     "x": 700,
+     "y": 760,
+     "tam": 66,
+     "color": "#E0521B",
+     "anim": "pop",
+     "en": "ocho céntimos y medio"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Ojo: incluye impuestos que recauda para el Estado",
+     "x": 700,
+     "y": 890,
+     "tam": 44,
+     "fuente": "mano",
+     "papel": true,
+     "en": "incluye impuestos que recauda"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "encoge_hombros",
+     "x": 1650,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "Lidl España, comunicado 30/9/2026 (643 M€ / 7.641 M€ = 8,4 c; cálculo propio)"
+  },
+  {
+   "id": "25",
+   "desde": "Ahora, la parte que Lidl no cuenta",
+   "fondo": "#E3E7EC",
+   "capas": [
+    {
+     "tipo": "sello",
+     "texto": "LO QUE NO SABEMOS",
+     "x": 800,
+     "y": 260,
+     "tam": 80,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "Lidl no publica una memoria anual\ncon el reparto de cada euro",
+     "x": 800,
+     "y": 470,
+     "tam": 56,
+     "fuente": "mano",
+     "en": "no publica una memoria anual"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Sueldos · alquileres · logística: sin desglose",
+     "x": 800,
+     "y": 700,
+     "tam": 54,
+     "fuente": "mano",
+     "papel": true,
+     "en": "cuánto va a sueldos"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "preocupado",
+     "x": 1640,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "26",
+   "desde": "También hay que ser prudente",
+   "fondo": "#F4E9D0",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "La OCU dice…",
+     "x": 800,
+     "y": 200,
+     "tam": 62,
+     "fuente": "mano",
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "Lidl: la más barata en 60 localidades",
+     "x": 800,
+     "y": 360,
+     "tam": 60,
+     "en": "sesenta localidades"
+    },
+    {
+     "tipo": "texto",
+     "texto": "No dice que lo sea en todas, ni siempre",
+     "x": 800,
+     "y": 520,
+     "tam": 56,
+     "color": "#E0521B",
+     "en": "en todas, ni siempre"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Cesta OCU:  Lidl −1,9 %  ·  Mercadona −1,8 %",
+     "x": 800,
+     "y": 720,
+     "tam": 56,
+     "fuente": "mano",
+     "papel": true,
+     "en": "la cesta de Mercadona"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "pensativo",
+     "x": 1640,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "OCU, estudio de supermercados 2026 (25/9/2026)"
+  },
+  {
+   "id": "27",
+   "desde": "Así que, la próxima vez",
+   "fondo": "supermercado",
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 90,
+     "y": 120,
+     "w": 1230,
+     "h": 870,
+     "t": 0
+    },
+    {
+     "tipo": "texto",
+     "texto": "El viaje de tu euro",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "tarta",
+     "x": 420,
+     "y": 640,
+     "r": 260,
+     "t": 0.3,
+     "porciones": [
+      {
+       "v": 3.6,
+       "color": "#E0521B",
+       "en": "Tres céntimos y medio"
+      },
+      {
+       "v": 8.4,
+       "color": "#9CC5E8",
+       "en": "Unos ocho y medio"
+      },
+      {
+       "v": 88.0,
+       "color": "#D9D2C0",
+       "en": "el producto, la plantilla"
+      }
+     ]
+    },
+    {
+     "tipo": "rect",
+     "x": 760,
+     "y": 412,
+     "w": 56,
+     "h": 56,
+     "color": "#E0521B",
+     "en": "Tres céntimos y medio",
+     "dur": 0.3
+    },
+    {
+     "tipo": "texto",
+     "texto": "3,6 c · beneficio",
+     "x": 845,
+     "y": 440,
+     "tam": 46,
+     "ancla": "izq",
+     "en": "Tres céntimos y medio"
+    },
+    {
+     "tipo": "rect",
+     "x": 760,
+     "y": 532,
+     "w": 56,
+     "h": 56,
+     "color": "#9CC5E8",
+     "en": "Unos ocho y medio",
+     "dur": 0.3
+    },
+    {
+     "tipo": "texto",
+     "texto": "≈ 8,4 c · impuestos (según la empresa)",
+     "x": 845,
+     "y": 560,
+     "tam": 46,
+     "ancla": "izq",
+     "en": "Unos ocho y medio"
+    },
+    {
+     "tipo": "rect",
+     "x": 760,
+     "y": 652,
+     "w": 56,
+     "h": 56,
+     "color": "#D9D2C0",
+     "en": "el producto, la plantilla",
+     "dur": 0.3
+    },
+    {
+     "tipo": "texto",
+     "texto": "resto · producto, plantilla, tiendas",
+     "x": 845,
+     "y": 680,
+     "tam": 46,
+     "ancla": "izq",
+     "en": "el producto, la plantilla"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "saluda",
+     "x": 1650,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "Lidl España, comunicado 30/9/2026 (cálculo propio sobre ventas netas; los impuestos incluyen los que recauda para el Estado)"
+  },
+  {
+   "id": "28",
+   "desde": "Lidl no gana dinero por vender caro",
+   "fondo": "#FFF3C4",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "Pocas cosas",
+     "x": 800,
+     "y": 240,
+     "tam": 80,
+     "t": 0.3,
+     "en": "vender pocas cosas"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Comprar para media Europa",
+     "x": 800,
+     "y": 400,
+     "tam": 80,
+     "en": "comprar para media Europa"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Gastar lo mínimo en todo lo demás",
+     "x": 800,
+     "y": 560,
+     "tam": 70,
+     "en": "gastar lo mínimo"
+    },
+    {
+     "tipo": "texto",
+     "texto": "¿Y si todos empiezan a copiarle?",
+     "x": 800,
+     "y": 800,
+     "tam": 66,
+     "color": "#E0521B",
+     "anim": "pop",
+     "rot": -2,
+     "en": "empiecen a copiarle"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "pensativo",
+     "x": 1640,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "29",
+   "desde": "Aquí, cada semana, abrimos",
+   "fondo": "#F5B301",
+   "capas": [
+    {
+     "tipo": "mascota",
+     "pose": "saluda",
+     "x": 960,
+     "y": 1015,
+     "h": 560,
+     "entra": "abajo",
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "TICKET MEDIO",
+     "x": 960,
+     "y": 170,
+     "tam": 150,
+     "anim": "pop",
+     "t": 0.3
+    },
+    {
+     "tipo": "texto",
+     "texto": "Cada semana, el ticket de algo que pagas todos los días",
+     "x": 960,
+     "y": 300,
+     "tam": 50,
+     "fuente": "mano",
+     "papel": true,
+     "t": 1.0
+    }
+   ],
+   "sin_marca": true
+  }
+ ]
+}

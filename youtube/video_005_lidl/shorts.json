@@ -1,0 +1,89 @@
+{
+ "shorts": [
+  {
+   "id": "01",
+   "titulo": "Lidl compra en España más de lo que vende",
+   "tramos": [
+    [
+     "Mira lo que eso significa",
+     "es su despensa en Europa"
+    ],
+    [
+     "Así que, cuando dices",
+     "porque compra para media Europa"
+    ]
+   ],
+   "intro": "Lidl compra en España más de lo que vende. ¿Cómo es posible?"
+  },
+  {
+   "id": "02",
+   "titulo": "Lidl vende 3.200 productos; Mercadona, 8.000",
+   "tramos": [
+    [
+     "El primer truco",
+     "cantidades enormes"
+    ]
+   ],
+   "intro": "Lidl vende tres mil doscientos productos. Mercadona, ocho mil. ¿Por qué le sale a cuenta?"
+  },
+  {
+   "id": "03",
+   "titulo": "Lidl pasa de 18 a 60 localidades como más barato (OCU)",
+   "tramos": [
+    [
+     "La OCU acaba de publicar",
+     "de dieciocho a sesenta"
+    ],
+    [
+     "Y ojo con el método",
+     "mil trescientos diez euros al año"
+    ]
+   ],
+   "intro": "Según la OCU, hace un año Lidl era la más barata en dieciocho localidades. Hoy, en sesenta."
+  },
+  {
+   "id": "04",
+   "titulo": "La cuota de Lidl: del 2,3 % al 7,3 %",
+   "tramos": [
+    [
+     "Según Kantar",
+     "el siete coma tres"
+    ]
+   ],
+   "intro": "Según Kantar, Lidl ha pasado del dos coma tres por ciento del mercado español a más del siete en veinte años."
+  },
+  {
+   "id": "05",
+   "titulo": "¿Cuánto gana Lidl de cada euro? 3,6 céntimos",
+   "tramos": [
+    [
+     "Son unos doscientos cuarenta y dos",
+     "más de cinco veces más"
+    ]
+   ],
+   "intro": "Lidl ingresa unos doscientos cuarenta y dos euros cada segundo. ¿Cuánto gana de cada euro?"
+  },
+  {
+   "id": "06",
+   "titulo": "Lidl pone los productos en palés: así ahorra",
+   "tramos": [
+    [
+     "El tercer truco",
+     "más de ciento treinta tiendas"
+    ]
+   ],
+   "intro": "Lidl expone sus productos directamente en palés. Y no es por casualidad."
+  },
+  {
+   "id": "07",
+   "titulo": "Lidl compra 2 millones de toneladas de fruta en España",
+   "tramos": [
+    [
+     "Se nota sobre todo en la fruta",
+     "nueve mil cuatrocientos millones"
+    ]
+   ],
+   "intro": "Lidl compra en España dos millones de toneladas de fruta y verdura. Y el ochenta y uno por ciento se va fuera."
+  }
+ ]
+}

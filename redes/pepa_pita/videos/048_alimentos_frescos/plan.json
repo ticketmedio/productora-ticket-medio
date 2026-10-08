@@ -1,0 +1,60 @@
+{
+ "voz": "voz/voz.mp3",
+ "subtitulos": "voz/subtitulos.srt",
+ "musica": "../../../../musica/pepa_pita/Travelling Light - Blue Deer Studio.mp3",
+ "musica_db": -22,
+ "fondo": "../../fondos/pexels_33640979.jpg",
+ "cabecera": "¿COMPRA FRESCA?",
+ "planos": [
+  {
+   "desde": 0,
+   "imagen": "busto"
+  },
+  {
+   "desde": 3.93,
+   "imagen": "exp_sorprendida"
+  },
+  {
+   "desde": 8.38,
+   "imagen": "pose_senala"
+  },
+  {
+   "desde": 18.64,
+   "imagen": "busto"
+  },
+  {
+   "desde": 23.29,
+   "imagen": "exp_pensativa"
+  },
+  {
+   "desde": 30.83,
+   "imagen": "exp_guino"
+  }
+ ],
+ "rotulos": [
+  {
+   "desde": 3.93,
+   "hasta": 8.07,
+   "texto": "ALIMENTOS FRESCOS",
+   "sub": "y en buen estado · EFSA"
+  },
+  {
+   "desde": 8.38,
+   "hasta": 11.45,
+   "texto": "LAVA FRUTAS Y VERDURAS",
+   "sub": "sobre todo si van crudas · EFSA"
+  },
+  {
+   "desde": 18.64,
+   "hasta": 22.97,
+   "texto": "CADUCIDAD: NO CONSUMIR",
+   "sub": "pasada la fecha · EFSA"
+  }
+ ],
+ "salida": "salida/PEPA_048_alimentos_frescos.mp4",
+ "gancho": {
+  "tipo": "B",
+  "texto": "¿ESTO CADUCÓ AYER? ¡NO TE LO COMAS!",
+  "hasta": 2.03
+ }
+}

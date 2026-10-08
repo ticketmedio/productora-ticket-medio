@@ -1,0 +1,54 @@
+{
+ "largo": true,
+ "id": "036",
+ "slug": "embarazo_navidad",
+ "fecha": "2026-11-26",
+ "titulo": "Embarazo y Navidad",
+ "cabecera": "¿EMBARAZADA?",
+ "fondo": "pexels_29148450",
+ "gancho": {
+  "tipo": "B",
+  "texto": "¿EMBARAZADA EN NAVIDAD? ESCUCHA"
+ },
+ "guion": "¿Estás embarazada y se acercan las fiestas? Esto dice el Ministerio de Consumo. Y ante cualquier duda, pregunta a tu médico.\n\nPrimero, la higiene: manos con jabón y agua caliente, al menos veinte segundos. Y la carne, bien cocinada, hasta los setenta y un grados.\n\nSegundo, lo que debes evitar. Los grandes peces, como el pez espada, el tiburón, el atún rojo o el lucio. El huevo crudo y lo que lo lleve: mayonesas caseras, mousses, merengues, tiramisú. La carne cruda o poco hecha. El pescado crudo y las ostras, almejas o mejillones crudos. Y los patés refrigerados.\n\nOjo con los quesos frescos o de pasta blanda, como el Brie o el Camembert, si no dicen que están hechos con leche pasteurizada.\n\nY si no estás inmunizada frente a la toxoplasmosis, evita también el jamón curado, el chorizo o el salchichón crudos.\n\nY, claro, nada de alcohol.\n\nSígueme, que aquí aprendemos todos. ¡Cloc, cloc!",
+ "rotulos": [
+  {
+   "clave": "veinte segundos",
+   "texto": "MANOS: 20 SEGUNDOS",
+   "sub": "jabón y agua caliente · Min. de Consumo"
+  },
+  {
+   "clave": "pez espada",
+   "texto": "EVITA: GRANDES PECES",
+   "sub": "espada, tiburón, atún rojo, lucio · Consumo"
+  },
+  {
+   "clave": "huevo crudo",
+   "texto": "EVITA: HUEVO CRUDO",
+   "sub": "mayonesas, mousses, tiramisú… · Consumo"
+  },
+  {
+   "clave": "pasta blanda",
+   "texto": "QUESOS: PASTEURIZADOS",
+   "sub": "frescos o de pasta blanda · Consumo"
+  },
+  {
+   "clave": "toxoplasmosis",
+   "texto": "¿SIN INMUNIDAD? SIN CURADOS",
+   "sub": "consulta con tu médico · Min. de Consumo"
+  },
+  {
+   "clave": "hasta los setenta y un",
+   "texto": "CARNE: 71 °C",
+   "sub": "hasta que cambie de color · Consumo"
+  }
+ ],
+ "fuentes": [
+  "- Ministerio de Derechos Sociales, Consumo y Agenda 2030, «Alimentación segura durante el embarazo». https://www.dsca.gob.es/es/consumo/alimentacion-embarazo",
+  "- Higiene: manos «con jabón y agua caliente, al menos durante 20 segundos»; superficies y utensilios lavados «después de manipular carne, pescados, aves de corral, frutas y vegetales no lavados y cualquier otro alimento crudo». «Cocina completamente las carnes hasta alcanzar los 71ºC». «Las comidas así como las sobras de comida, no deben consumirse frías. Asegúrate de calentarlas a más de 75 °C.»",
+  "- Evitar: «Grandes peces como el pez espada, el tiburón, el atún rojo o el lucio»; «Leche cruda y quesos frescos o de pasta blanda (Brie, Camembert, tipo Burgos…) si en la etiqueta no dice que estén hechos con leche pasterizada»; huevos crudos y preparaciones con huevo crudo; carne cruda o poco hecha; pescado crudo, ahumado refrigerado y «ostras, almejas o mejillones crudos»; patés refrigerados; «Si no estás inmunizada frente a la toxoplasmosis (consulta a tu médico) evita el consumo de productos cárnicos crudos curados (chorizo, salchichón, salami, jamón curado…)»; «Consume sólo zumos recién exprimidos o zumos envasados pasterizados»; «No tomes bebidas alcohólicas».",
+  "- Verificado el 8/10/2026 leyendo la página.",
+  "- Información general; no sustituye el consejo médico."
+ ],
+ "texto_pub": "¿Estás embarazada y se acercan las fiestas? 🤰 Lo que dice el Ministerio de Consumo (y ante cualquier duda, pregunta a tu médico):\n\n• Manos con jabón y agua caliente, 20 segundos como mínimo.\n• Carnes bien cocinadas (71 °C); sobras siempre calientes (más de 75 °C).\n• Evita: pez espada, tiburón, atún rojo y lucio; huevo crudo y lo que lo lleve (mayonesas, mousses, merengues, tiramisú); carne cruda o poco hecha; pescado crudo o ahumado refrigerado; ostras, almejas y mejillones crudos; patés refrigerados.\n• Quesos frescos o de pasta blanda, solo si son de leche pasteurizada. Zumos, solo recién exprimidos o pasteurizados.\n• Si no estás inmunizada frente a la toxoplasmosis, sin curados crudos (jamón, chorizo, salchichón).\n• Nada de alcohol.\n\n📊 Fuente: Ministerio de Consumo, «Alimentación segura durante el embarazo».\nPepa es un personaje animado con IA; los datos, no 😉\n\n#embarazo #navidad #seguridadalimentaria #embarazada #pepapita"
+}

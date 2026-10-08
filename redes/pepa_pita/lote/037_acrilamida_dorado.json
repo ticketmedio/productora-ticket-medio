@@ -1,0 +1,39 @@
+{
+ "largo": false,
+ "id": "037",
+ "slug": "acrilamida_dorado",
+ "fecha": "2026-11-27",
+ "titulo": "Dorado, no quemado",
+ "cabecera": "¿TOSTADA QUEMADA?",
+ "fondo": "pexels_33640979",
+ "gancho": {
+  "tipo": "C",
+  "texto": "¿TOSTADA QUEMADA? ELIGE DORADO"
+ },
+ "guion": "¿Te gusta la tostada bien oscura? Mejor, dorada.\n\nAl tostar, hornear o freír alimentos con almidón, como el pan o las patatas, se forma acrilamida. Y cuanto más oscuros, más acrilamida. La agencia de cáncer de la OMS la clasifica como probable cancerígeno para los humanos, aunque en ensayos con animales.\n\nLa regla de la AESAN es sencilla: elige dorado, no marrón oscuro. Tuesta el pan hasta que quede dorado y, si se quema algo, no te comas las partes más oscuras.\n\nY las patatas, guárdalas fuera de la nevera.\n\nSígueme, que aquí aprendemos todos. ¡Cloc, cloc!",
+ "rotulos": [
+  {
+   "clave": "probable cancerígeno",
+   "texto": "«PROBABLE CANCERÍGENO»",
+   "sub": "en animales (IARC) · AESAN"
+  },
+  {
+   "clave": "elige dorado",
+   "texto": "DORADO, NO MARRÓN",
+   "sub": "regla de la AESAN"
+  },
+  {
+   "clave": "fuera de la nevera",
+   "texto": "PATATAS: FUERA DE LA NEVERA",
+   "sub": "lugar seco y oscuro · AESAN"
+  }
+ ],
+ "fuentes": [
+  "- AESAN, cuadríptico «Acrilamida en los alimentos» (8/11/2018) y campaña «Con la acrilamida, no desentones. Elige dorado, elige salud». https://www.aesan.gob.es/dam/jcr:53187c6f-545f-4cb3-b2c5-d745e85263cd/CUADRIPTICO_ACRILAMIDA_AECOSAN.pdf",
+  "- «se forma… al cocinar determinados alimentos ricos en hidratos de carbono, como cereales y patatas, a temperaturas superiores a 120ºC y en ambientes de baja humedad»; «se forma en altas concentraciones cuando los freímos, tostamos u horneamos en exceso».",
+  "- IARC: «probable cancerígeno para los humanos, al haberse demostrado estos efectos, aunque de momento, sólo en ensayos con animales de experimentación». EFSA: tanto la acrilamida como su metabolito la glicidamida «podrían ser genotóxicas y cancerígenas».",
+  "- «Un color ligeramente dorado en un alimento frito o tostado es aval de una menor presencia de acrilamida. Evita siempre las tonalidades marrones oscuras.» «Tuesta el pan hasta un color dorado y, en todo caso, evita siempre comerte las partes más oscuras.» Patatas: «Consérvalas fuera de la nevera. Guárdalas en lugar seco y oscuro».",
+  "- Verificado el 8/10/2026 leyendo la página."
+ ],
+ "texto_pub": "¿Te gusta la tostada bien oscura? 🍞 Mejor, dorada.\n\nAl tostar, hornear o freír alimentos con almidón (pan, patatas) se forma acrilamida, más cuanto más oscuros. La IARC la clasifica como probable cancerígeno para humanos (en ensayos con animales). La regla de la AESAN: elige dorado, no marrón oscuro, y no te comas las partes más oscuras. Las patatas, fuera de la nevera.\n\n📊 Fuente: AESAN, «Acrilamida en los alimentos».\nPepa es un personaje animado con IA; los datos, no 😉\n\n#acrilamida #tostada #seguridadalimentaria #cocina #pepapita"
+}

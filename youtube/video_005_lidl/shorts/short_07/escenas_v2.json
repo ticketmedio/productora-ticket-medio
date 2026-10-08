@@ -1,0 +1,138 @@
+{
+ "formato": "vertical",
+ "fondos": "../../fondos",
+ "musica": "../../audio/musica.mp3",
+ "musica_db": -26,
+ "cola": 1.5,
+ "salida": "../../output/SHORT_07_fruta_81.mp4",
+ "escenas": [
+  {
+   "id": "a",
+   "desde": "Lidl compra en España dos millones",
+   "fondo": "#E8F3E0",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "FRUTA Y VERDURA",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 2,
+     "x": 540,
+     "y": 520,
+     "tam": 190,
+     "prefijo": "+",
+     "sufijo": " M t",
+     "t": 0.3
+    },
+    {
+     "tipo": "texto",
+     "texto": "compradas en España",
+     "x": 540,
+     "y": 650,
+     "tam": 52,
+     "fuente": "mano",
+     "t": 0.4
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 81,
+     "x": 540,
+     "y": 860,
+     "tam": 190,
+     "sufijo": " %",
+     "color": "#E0521B",
+     "en": "el ochenta y uno"
+    },
+    {
+     "tipo": "texto",
+     "texto": "se va fuera",
+     "x": 540,
+     "y": 990,
+     "tam": 52,
+     "fuente": "mano",
+     "en": "se va fuera"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "carrito",
+     "x": 880,
+     "y": 1310,
+     "h": 340,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "b",
+   "desde": "El ochenta y un por ciento",
+   "fondo": "puerto_avion",
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 60,
+     "y": 360,
+     "w": 960,
+     "h": 640
+    },
+    {
+     "tipo": "texto",
+     "texto": "FRUTA Y VERDURA",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "81 % a otros mercados europeos",
+     "x": 540,
+     "y": 520,
+     "tam": 60,
+     "en": "otros mercados europeos"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Previsión de compras en 2026",
+     "x": 540,
+     "y": 700,
+     "tam": 50,
+     "fuente": "mano",
+     "en": "para este año"
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 9400,
+     "x": 540,
+     "y": 840,
+     "tam": 140,
+     "sufijo": " M€",
+     "color": "#E0521B",
+     "en": "nueve mil cuatrocientos millones"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "senala",
+     "x": 880,
+     "y": 1310,
+     "h": 360,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  }
+ ]
+}

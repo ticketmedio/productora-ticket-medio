@@ -1,0 +1,68 @@
+{
+ "voz": "voz/voz.mp3",
+ "subtitulos": "voz/subtitulos.srt",
+ "musica": "../../../../musica/pepa_pita/Travelling Light - Blue Deer Studio.mp3",
+ "musica_db": -22,
+ "fondo": "../../fondos/pexels_5451503.jpg",
+ "cabecera": "¿14 ALÉRGENOS?",
+ "planos": [
+  {
+   "desde": 0,
+   "imagen": "busto"
+  },
+  {
+   "desde": 7.43,
+   "imagen": "exp_sorprendida"
+  },
+  {
+   "desde": 13.06,
+   "imagen": "pose_senala"
+  },
+  {
+   "desde": 22.04,
+   "imagen": "busto"
+  },
+  {
+   "desde": 28.68,
+   "imagen": "exp_pensativa"
+  },
+  {
+   "desde": 33.08,
+   "imagen": "pose_sartenes"
+  },
+  {
+   "desde": 39.0,
+   "imagen": "busto"
+  },
+  {
+   "desde": 45.83,
+   "imagen": "exp_guino"
+  }
+ ],
+ "rotulos": [
+  {
+   "desde": 3.13,
+   "hasta": 7.12,
+   "texto": "14 ALÉRGENOS",
+   "sub": "obligatorio destacarlos · UE 1169/2011"
+  },
+  {
+   "desde": 13.06,
+   "hasta": 22.04,
+   "texto": "FRUTOS DE CÁSCARA",
+   "sub": "almendras, avellanas, nueces… · UE"
+  },
+  {
+   "desde": 33.08,
+   "hasta": 38.68,
+   "texto": "EN OTRA LETRA O COLOR",
+   "sub": "distinto del resto · UE 1169/2011"
+  }
+ ],
+ "salida": "salida/PEPA_038_alergenos_14.mp4",
+ "gancho": {
+  "tipo": "A",
+  "texto": "¿CUÁNTOS ALÉRGENOS HAY EN LA ETIQUETA?",
+  "hasta": 3.13
+ }
+}

@@ -1,0 +1,76 @@
+{
+ "voz": "voz/voz.mp3",
+ "subtitulos": "voz/subtitulos.srt",
+ "musica": "../../../../musica/pepa_pita/Travelling Light - Blue Deer Studio.mp3",
+ "musica_db": -22,
+ "fondo": "../../fondos/pexels_29148450.jpg",
+ "cabecera": "¿PEZ MANTEQUILLA?",
+ "planos": [
+  {
+   "desde": 0,
+   "imagen": "busto"
+  },
+  {
+   "desde": 5.34,
+   "imagen": "exp_sorprendida"
+  },
+  {
+   "desde": 10.83,
+   "imagen": "pose_senala"
+  },
+  {
+   "desde": 14.94,
+   "imagen": "busto"
+  },
+  {
+   "desde": 18.53,
+   "imagen": "exp_pensativa"
+  },
+  {
+   "desde": 23.93,
+   "imagen": "pose_sartenes"
+  },
+  {
+   "desde": 28.18,
+   "imagen": "busto"
+  },
+  {
+   "desde": 31.55,
+   "imagen": "exp_preocupada"
+  },
+  {
+   "desde": 35.49,
+   "imagen": "exp_riendo"
+  },
+  {
+   "desde": 40.84,
+   "imagen": "exp_guino"
+  }
+ ],
+ "rotulos": [
+  {
+   "desde": 5.34,
+   "hasta": 10.83,
+   "texto": "20 % DE GRASA",
+   "sub": "ceras que no se digieren · Consumo"
+  },
+  {
+   "desde": 23.93,
+   "hasta": 27.86,
+   "texto": "A VECES, «MERO»",
+   "sub": "nombre equivocado · Min. de Consumo"
+  },
+  {
+   "desde": 31.55,
+   "hasta": 35.49,
+   "texto": "NI CALDO NI SOBRANTE",
+   "sub": "ahí está la grasa · Min. de Consumo"
+  }
+ ],
+ "salida": "salida/PEPA_032_pez_mantequilla.mp4",
+ "gancho": {
+  "tipo": "A",
+  "texto": "¿HAS COMIDO PEZ MANTEQUILLA?",
+  "hasta": 2.62
+ }
+}

@@ -1,0 +1,15 @@
+1
+00:00:00,150 --> 00:00:06,319
+Lidl ingresa unos doscientos cuarenta y dos euros cada segundo. ¿Cuánto gana de cada euro?
+
+2
+00:00:06,270 --> 00:00:15,454
+De cada euro que gastas en Lidl, la empresa se queda con tres céntimos y medio de beneficio: doscientos setenta y cuatro millones en total.
+
+3
+00:00:15,804 --> 00:00:19,620
+Para ponerlo en perspectiva: Mercadona, el líder,
+
+4
+00:00:19,620 --> 00:00:25,696
+se queda con unos cuatro céntimos por euro, pero vende más de cinco veces más.

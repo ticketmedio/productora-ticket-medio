@@ -1,0 +1,39 @@
+{
+ "largo": false,
+ "id": "032",
+ "slug": "pez_mantequilla",
+ "fecha": "2026-11-20",
+ "titulo": "El pez mantequilla",
+ "cabecera": "¿PEZ MANTEQUILLA?",
+ "fondo": "pexels_29148450",
+ "gancho": {
+  "tipo": "A",
+  "texto": "¿HAS COMIDO PEZ MANTEQUILLA?"
+ },
+ "guion": "¿Has oído hablar del pez mantequilla? Es el escolar, y el escolar negro.\n\nTiene un veinte por ciento de grasa, formada por ceras que no digerimos, y puede dar diarrea unas dos horas después de comerlo. No es que sea tóxico: es que no se digiere.\n\nPor eso solo puede venderse envasado y con una etiqueta que avise del riesgo. Y a veces se ha encontrado con otros nombres, como mero.\n\nSi lo cocinas, quita la piel y la grasa visible, y nunca aproveches el caldo ni el sobrante de la sartén. Y si te sienta mal, no repitas.\n\nSígueme, que aquí aprendemos todos. ¡Cloc, cloc!",
+ "rotulos": [
+  {
+   "clave": "veinte por ciento de grasa",
+   "texto": "20 % DE GRASA",
+   "sub": "ceras que no se digieren · Consumo"
+  },
+  {
+   "clave": "otros nombres",
+   "texto": "A VECES, «MERO»",
+   "sub": "nombre equivocado · Min. de Consumo"
+  },
+  {
+   "clave": "caldo ni el sobrante",
+   "texto": "NI CALDO NI SOBRANTE",
+   "sub": "ahí está la grasa · Min. de Consumo"
+  }
+ ],
+ "fuentes": [
+  "- Ministerio de Derechos Sociales, Consumo y Agenda 2030, «Recomendaciones de consumo del pez mantequilla: escolar y escolar negro». https://www.dsca.gob.es/es/consumo/recomendaciones-pez-mantequilla",
+  "- «Estos pescados tienen un alto contenido en grasa (aproximadamente un 20%), compuesta por esteres cerosos indigestibles para los humanos, por lo que pueden producir episodios diarreicos y síntomas gastrointestinales agudos que aparecen unas 2 horas después de su consumo. Estos episodios no son causados porque el pescado sea tóxico, sino por la falta de digestibilidad».",
+  "- «Sólo podrán comercializarse envasados o embalados» y etiquetados con el riesgo. «A veces se han encontrado erróneamente identificados con otros nombres, como por ejemplo “mero”».",
+  "- «retirar la piel y la grasa visible»; «NUNCA se debe utilizar el sobrante que queda en la sartén ni el caldo de cocción»; «Si se observan síntomas gastrointestinales, no volver a consumir en el futuro.»",
+  "- Verificado el 8/10/2026 leyendo la página."
+ ],
+ "texto_pub": "¿Has oído hablar del pez mantequilla? 🐟 Es el escolar y el escolar negro.\n\nTienen un 20 % de grasa en forma de ceras que no digerimos y pueden dar diarrea unas 2 horas después. No es toxicidad: es falta de digestibilidad. Por eso solo se venden envasados y con aviso en la etiqueta; a veces se han encontrado con otros nombres, como «mero». Si lo cocinas, quita piel y grasa visible y no aproveches el caldo.\n\n📊 Fuente: Ministerio de Consumo, «Recomendaciones de consumo del pez mantequilla».\nPepa es un personaje animado con IA; los datos, no 😉\n\n#pezmantequilla #pescado #escolar #seguridadalimentaria #pepapita"
+}

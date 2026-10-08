@@ -1,0 +1,31 @@
+1
+00:00:00,150 --> 00:00:05,389
+Lidl expone sus productos directamente en palés. Y no es por casualidad.
+
+2
+00:00:05,497 --> 00:00:07,642
+Es literal, está en su web.
+
+3
+00:00:07,642 --> 00:00:12,489
+Su ejemplo: exponer en palés los artículos de mayor rotación.
+
+4
+00:00:12,489 --> 00:00:16,303
+La idea: ahorrar todo lo que el cliente no nota.
+
+5
+00:00:16,303 --> 00:00:20,832
+Y detrás, una logística muy pensada: catorce plataformas,
+
+6
+00:00:20,832 --> 00:00:24,328
+una de ellas, la de Martorell, en Barcelona,
+
+7
+00:00:24,328 --> 00:00:27,665
+con ciento cuarenta millones de inversión,
+
+8
+00:00:27,665 --> 00:00:31,479
+que da servicio a más de ciento treinta tiendas.

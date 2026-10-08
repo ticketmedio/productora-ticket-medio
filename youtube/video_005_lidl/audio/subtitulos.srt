@@ -1,0 +1,435 @@
+1
+00:00:00,000 --> 00:00:06,513
+Lidl vendió en España, en su último año, siete mil seiscientos cuarenta y un millones de euros.
+
+2
+00:00:06,513 --> 00:00:12,135
+Pero en ese mismo año compró producto español por ocho mil cuatrocientos millones.
+
+3
+00:00:12,135 --> 00:00:13,575
+Más de lo que vendió.
+
+4
+00:00:13,575 --> 00:00:17,071
+¿Cómo puede una cadena comprar más de lo que vende?
+
+5
+00:00:17,421 --> 00:00:21,594
+Hoy vamos a abrir el ticket de Lidl para entender su truco.
+
+6
+00:00:21,594 --> 00:00:24,634
+Y te adelanto algo: no tiene nada de magia.
+
+7
+00:00:24,634 --> 00:00:28,029
+Es un sistema alemán que lleva décadas afinando.
+
+8
+00:00:28,379 --> 00:00:30,340
+Primero, las presentaciones.
+
+9
+00:00:30,340 --> 00:00:32,232
+Lidl es una cadena alemana.
+
+10
+00:00:32,232 --> 00:00:36,855
+En su web dice que su historia empieza en mil novecientos treinta,
+
+11
+00:00:36,855 --> 00:00:40,567
+y llegó a España en mil novecientos noventa y cuatro.
+
+12
+00:00:40,567 --> 00:00:43,719
+Hoy tiene más de setecientas treinta tiendas,
+
+13
+00:00:43,719 --> 00:00:47,992
+catorce plataformas logísticas y más de veinte mil empleados.
+
+14
+00:00:47,992 --> 00:00:53,456
+Está presente en más de treinta países, con unas doce mil novecientas tiendas,
+
+15
+00:00:53,456 --> 00:00:55,487
+y pertenece al Grupo Schwarz.
+
+16
+00:00:55,837 --> 00:00:59,075
+Y en su último ejercicio, que terminó en febrero,
+
+17
+00:00:59,075 --> 00:01:03,105
+vendió siete mil seiscientos cuarenta y un millones de euros.
+
+18
+00:01:03,105 --> 00:01:05,946
+Un diez por ciento más que el año anterior.
+
+19
+00:01:05,946 --> 00:01:09,514
+Son unos doscientos cuarenta y dos euros cada segundo.
+
+20
+00:01:09,514 --> 00:01:18,698
+De cada euro que gastas en Lidl, la empresa se queda con tres céntimos y medio de beneficio: doscientos setenta y cuatro millones en total.
+
+21
+00:01:19,048 --> 00:01:22,864
+Para ponerlo en perspectiva: Mercadona, el líder,
+
+22
+00:01:22,864 --> 00:01:28,940
+se queda con unos cuatro céntimos por euro, pero vende más de cinco veces más.
+
+23
+00:01:28,940 --> 00:01:32,756
+Según Kantar, en el primer trimestre de este año,
+
+24
+00:01:32,756 --> 00:01:37,118
+de cada cien euros que los españoles gastan en el súper,
+
+25
+00:01:37,118 --> 00:01:40,467
+veintisiete van a Mercadona y siete a Lidl.
+
+26
+00:01:40,467 --> 00:01:44,517
+Pero Lidl es la que más sube: medio punto en un año.
+
+27
+00:01:44,517 --> 00:01:53,785
+Para que te hagas una idea de lo rápido que va: hace veinte años tenía el dos coma tres por ciento del mercado español.
+
+28
+00:01:53,785 --> 00:01:56,823
+En dos mil veinte, el cuatro coma ocho.
+
+29
+00:01:56,823 --> 00:01:58,692
+Hoy, el siete coma tres.
+
+30
+00:01:59,042 --> 00:02:00,706
+Y aquí viene lo curioso.
+
+31
+00:02:00,706 --> 00:02:05,213
+La OCU acaba de publicar su estudio de supermercados de este año.
+
+32
+00:02:05,213 --> 00:02:10,066
+Lidl es la opción más barata en sesenta de las localidades analizadas.
+
+33
+00:02:10,066 --> 00:02:12,284
+El año anterior, eran dieciocho.
+
+34
+00:02:12,284 --> 00:02:15,266
+En un año ha pasado de dieciocho a sesenta.
+
+35
+00:02:15,266 --> 00:02:25,526
+Y ojo con el método: la OCU visitó seiscientos noventa establecimientos en treinta y ocho ciudades y comparó doscientos cuarenta y cuatro productos.
+
+36
+00:02:25,526 --> 00:02:29,686
+Entre el súper más barato y el más caro de una misma ciudad,
+
+37
+00:02:29,686 --> 00:02:33,569
+el ahorro medio es de mil trescientos diez euros al año.
+
+38
+00:02:33,919 --> 00:02:34,875
+¿Cómo lo hace?
+
+39
+00:02:34,875 --> 00:02:39,454
+Vamos a repasar sus tres trucos, con lo que dice la propia empresa.
+
+40
+00:02:39,804 --> 00:02:42,580
+El primer truco: vender muy pocas cosas.
+
+41
+00:02:42,580 --> 00:02:45,911
+Lidl tiene unas tres mil doscientas referencias,
+
+42
+00:02:45,911 --> 00:02:49,519
+y más del ochenta por ciento son de su marca propia.
+
+43
+00:02:49,519 --> 00:02:51,601
+Mercadona tiene unas ocho mil.
+
+44
+00:02:51,601 --> 00:02:52,781
+¿Por qué importa?
+
+45
+00:02:52,781 --> 00:02:59,096
+Porque, según la empresa, eliminando duplicidades y quedándose solo con lo que más se pide,
+
+46
+00:02:59,096 --> 00:03:04,092
+junta más demanda en cada producto y consigue mejores precios de compra.
+
+47
+00:03:04,092 --> 00:03:07,840
+Menos productos, pero comprados en cantidades enormes.
+
+48
+00:03:08,190 --> 00:03:09,956
+Y hay otra consecuencia.
+
+49
+00:03:09,956 --> 00:03:16,063
+Una tienda de Mercadona vende, de media, unos veinticinco millones de euros al año.
+
+50
+00:03:16,063 --> 00:03:19,007
+Una de Lidl, unos diez millones y medio.
+
+51
+00:03:19,007 --> 00:03:22,613
+Según nuestros cálculos con sus cifras oficiales.
+
+52
+00:03:22,613 --> 00:03:26,587
+Más pequeña, con menos cosas, y aun así sale rentable.
+
+53
+00:03:26,587 --> 00:03:29,751
+Y hay un precio, claro: menos donde elegir.
+
+54
+00:03:29,751 --> 00:03:35,123
+Casi ocho mil productos en una cadena, y poco más de tres mil en la otra.
+
+55
+00:03:35,473 --> 00:03:41,661
+El segundo truco es el que explica la paradoja del principio: comprar para todos a la vez.
+
+56
+00:03:41,661 --> 00:03:46,267
+Lidl hace sus compras en España no solo para sus tiendas españolas,
+
+57
+00:03:46,267 --> 00:03:50,117
+sino para los más de treinta países donde está presente.
+
+58
+00:03:50,117 --> 00:03:53,280
+Así junta una demanda gigante y negocia mejor.
+
+59
+00:03:53,630 --> 00:03:57,077
+Mira lo que eso significa con sus cifras oficiales.
+
+60
+00:03:57,077 --> 00:04:01,740
+Compró producto español por ocho mil cuatrocientos millones de euros,
+
+61
+00:04:01,740 --> 00:04:03,970
+a más de ochocientos proveedores.
+
+62
+00:04:03,970 --> 00:04:13,027
+Y de ese volumen, cuatro mil doscientos cincuenta y cinco millones correspondieron a exportaciones a una treintena de países europeos.
+
+63
+00:04:13,027 --> 00:04:16,609
+Más de la mitad de lo que compra aquí se vende fuera.
+
+64
+00:04:16,609 --> 00:04:21,002
+España no es solo un mercado para Lidl: es su despensa en Europa.
+
+65
+00:04:21,352 --> 00:04:24,457
+Se nota sobre todo en la fruta y la verdura.
+
+66
+00:04:24,457 --> 00:04:27,634
+Lidl compró más de dos millones de toneladas.
+
+67
+00:04:27,634 --> 00:04:32,151
+El ochenta y un por ciento se destinó a otros mercados europeos.
+
+68
+00:04:32,151 --> 00:04:36,668
+Y para este año, prevé comprar nueve mil cuatrocientos millones.
+
+69
+00:04:37,018 --> 00:04:40,770
+Así que, cuando dices que Lidl compra más de lo que vende,
+
+70
+00:04:40,770 --> 00:04:45,427
+la frase exacta es esta: compra en España más de lo que vende en España,
+
+71
+00:04:45,427 --> 00:04:47,497
+porque compra para media Europa.
+
+72
+00:04:47,497 --> 00:04:52,865
+Para sus tiendas españolas quedan unos cuatro mil ciento cuarenta y cinco millones.
+
+73
+00:04:53,215 --> 00:04:58,301
+El tercer truco: eliminar todo lo que no aporte nada al cliente.
+
+74
+00:04:58,301 --> 00:05:00,446
+Es literal, está en su web.
+
+75
+00:05:00,446 --> 00:05:05,293
+Su ejemplo: exponer en palés los artículos de mayor rotación.
+
+76
+00:05:05,293 --> 00:05:09,107
+La idea: ahorrar todo lo que el cliente no nota.
+
+77
+00:05:09,107 --> 00:05:13,636
+Y detrás, una logística muy pensada: catorce plataformas,
+
+78
+00:05:13,636 --> 00:05:17,132
+una de ellas, la de Martorell, en Barcelona,
+
+79
+00:05:17,132 --> 00:05:20,469
+con ciento cuarenta millones de inversión,
+
+80
+00:05:20,469 --> 00:05:24,283
+que da servicio a más de ciento treinta tiendas.
+
+81
+00:05:24,633 --> 00:05:26,039
+Y detrás hay personas.
+
+82
+00:05:26,039 --> 00:05:35,111
+Lidl dice que creó más de mil doscientos empleos el último año y que el noventa y cuatro por ciento de su plantilla tiene contrato indefinido.
+
+83
+00:05:35,111 --> 00:05:41,628
+Y que su convenio colectivo supone una inversión de más de doscientos ochenta millones en cuatro años.
+
+84
+00:05:41,978 --> 00:05:43,996
+Tampoco es barato crecer así.
+
+85
+00:05:43,996 --> 00:05:50,678
+El año pasado invirtió trescientos veinte millones para abrir o reformar unas cincuenta tiendas.
+
+86
+00:05:50,678 --> 00:05:55,062
+Este año prevé invertir más de cuatrocientos cuarenta millones,
+
+87
+00:05:55,062 --> 00:06:00,004
+con más de sesenta actuaciones, unas cincuenta de ellas tiendas nuevas.
+
+88
+00:06:00,004 --> 00:06:06,476
+Y la empresa dice que su contribución tributaria fue de seiscientos cuarenta y tres millones.
+
+89
+00:06:06,476 --> 00:06:10,582
+Eso son unos ocho céntimos y medio por cada euro de ventas,
+
+90
+00:06:10,582 --> 00:06:15,037
+aunque ojo: incluye impuestos que recauda por cuenta del Estado.
+
+91
+00:06:15,387 --> 00:06:18,001
+Ahora, la parte que Lidl no cuenta.
+
+92
+00:06:18,001 --> 00:06:26,217
+A diferencia de Mercadona, Lidl no publica una memoria anual con el reparto de cada euro: cuánto va a sueldos,
+
+93
+00:06:26,217 --> 00:06:28,234
+a alquileres o a logística.
+
+94
+00:06:28,234 --> 00:06:35,330
+Por eso, en este ticket solo podemos enseñarte lo que la empresa y las fuentes oficiales dicen.
+
+95
+00:06:35,330 --> 00:06:37,123
+El resto, no lo sabemos.
+
+96
+00:06:37,473 --> 00:06:40,983
+También hay que ser prudente con las comparaciones.
+
+97
+00:06:40,983 --> 00:06:45,181
+La OCU dice que Lidl es la más barata en sesenta localidades.
+
+98
+00:06:45,181 --> 00:06:49,516
+No dice que lo sea en todas, ni siempre, ni en todo el carrito.
+
+99
+00:06:49,516 --> 00:06:55,229
+Y la cesta de Mercadona, según la propia OCU, también ha bajado de precio este año.
+
+100
+00:06:55,579 --> 00:07:00,818
+Así que, la próxima vez que pagues un euro en Lidl, piensa en su viaje.
+
+101
+00:07:00,818 --> 00:07:04,287
+Tres céntimos y medio se quedan como beneficio.
+
+102
+00:07:04,287 --> 00:07:08,420
+Unos ocho y medio van a los impuestos, según la empresa.
+
+103
+00:07:08,420 --> 00:07:12,552
+Y el resto paga el producto, la plantilla y las tiendas.
+
+104
+00:07:12,902 --> 00:07:17,982
+Lidl no gana dinero por vender caro, ni por tener muchas tiendas grandes.
+
+105
+00:07:17,982 --> 00:07:24,313
+Gana por vender pocas cosas, comprar para media Europa y gastar lo mínimo en todo lo demás.
+
+106
+00:07:24,313 --> 00:07:27,236
+La pregunta ya no es cómo sigue creciendo.
+
+107
+00:07:27,236 --> 00:07:31,202
+Es qué pasará cuando todos los demás empiecen a copiarle.
+
+108
+00:07:31,552 --> 00:07:35,991
+Aquí, cada semana, abrimos el ticket de algo que pagas todos los días.
+
+109
+00:07:35,991 --> 00:07:40,557
+Si quieres saber cuál es el siguiente, ya sabes lo que tienes que hacer.

@@ -1,0 +1,102 @@
+{
+ "voz": "voz/voz.mp3",
+ "subtitulos": "voz/subtitulos.srt",
+ "musica": "../../../../musica/pepa_pita/Travelling Light - Blue Deer Studio.mp3",
+ "musica_db": -22,
+ "fondo": "../../fondos/pexels_29148450.jpg",
+ "cabecera": "¿EMBARAZADA?",
+ "planos": [
+  {
+   "desde": 0,
+   "imagen": "busto"
+  },
+  {
+   "desde": 4.84,
+   "imagen": "exp_sorprendida"
+  },
+  {
+   "desde": 13.52,
+   "imagen": "pose_senala"
+  },
+  {
+   "desde": 17.91,
+   "imagen": "busto"
+  },
+  {
+   "desde": 26.26,
+   "imagen": "exp_pensativa"
+  },
+  {
+   "desde": 32.84,
+   "imagen": "pose_sartenes"
+  },
+  {
+   "desde": 39.83,
+   "imagen": "busto"
+  },
+  {
+   "desde": 45.12,
+   "imagen": "exp_preocupada"
+  },
+  {
+   "desde": 50.8,
+   "imagen": "exp_riendo"
+  },
+  {
+   "desde": 54.7,
+   "imagen": "busto"
+  },
+  {
+   "desde": 59.98,
+   "imagen": "pose_senala"
+  },
+  {
+   "desde": 64.46,
+   "imagen": "exp_guino"
+  }
+ ],
+ "rotulos": [
+  {
+   "desde": 7.88,
+   "hasta": 13.47,
+   "texto": "MANOS: 20 SEGUNDOS",
+   "sub": "jabón y agua caliente · Min. de Consumo"
+  },
+  {
+   "desde": 13.52,
+   "hasta": 17.6,
+   "texto": "CARNE: 71 °C",
+   "sub": "hasta que cambie de color · Consumo"
+  },
+  {
+   "desde": 20.24,
+   "hasta": 26.21,
+   "texto": "EVITA: GRANDES PECES",
+   "sub": "espada, tiburón, atún rojo, lucio · Consumo"
+  },
+  {
+   "desde": 26.26,
+   "hasta": 32.84,
+   "texto": "EVITA: HUEVO CRUDO",
+   "sub": "mayonesas, mousses, tiramisú… · Consumo"
+  },
+  {
+   "desde": 42.15,
+   "hasta": 50.48,
+   "texto": "QUESOS: PASTEURIZADOS",
+   "sub": "frescos o de pasta blanda · Consumo"
+  },
+  {
+   "desde": 50.8,
+   "hasta": 54.7,
+   "texto": "¿SIN INMUNIDAD? SIN CURADOS",
+   "sub": "consulta con tu médico · Min. de Consumo"
+  }
+ ],
+ "salida": "salida/PEPA_036_embarazo_navidad.mp4",
+ "gancho": {
+  "tipo": "B",
+  "texto": "¿EMBARAZADA EN NAVIDAD? ESCUCHA",
+  "hasta": 2.67
+ }
+}

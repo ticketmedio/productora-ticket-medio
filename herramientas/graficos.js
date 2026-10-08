@@ -12,7 +12,7 @@ const FPS = 30;
 // Navegador propio (chrome-headless-shell en herramientas/navegador); si no está, se usa Edge.
 function navegador() {
   const base = path.join(__dirname, 'navegador', 'chrome-headless-shell');
-  if (fs.existsSync(base)) {
+  if (process.platform === 'win32' && fs.existsSync(base)) {
     for (const v of fs.readdirSync(base).sort().reverse()) {
       const exe = path.join(base, v, 'chrome-headless-shell-win64', 'chrome-headless-shell.exe');
       if (fs.existsSync(exe)) return exe;

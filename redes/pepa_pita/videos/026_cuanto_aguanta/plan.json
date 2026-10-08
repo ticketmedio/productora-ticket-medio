@@ -1,0 +1,108 @@
+{
+ "voz": "voz/voz.mp3",
+ "subtitulos": "voz/subtitulos.srt",
+ "musica": "../../../../musica/pepa_pita/Travelling Light - Blue Deer Studio.mp3",
+ "musica_db": -22,
+ "fondo": "../../fondos/pexels_29148450.jpg",
+ "cabecera": "¿CUÁNTO AGUANTA?",
+ "planos": [
+  {
+   "desde": 0,
+   "imagen": "busto"
+  },
+  {
+   "desde": 5.92,
+   "imagen": "exp_sorprendida"
+  },
+  {
+   "desde": 12.1,
+   "imagen": "pose_senala"
+  },
+  {
+   "desde": 20.88,
+   "imagen": "busto"
+  },
+  {
+   "desde": 24.31,
+   "imagen": "exp_pensativa"
+  },
+  {
+   "desde": 28.84,
+   "imagen": "pose_sartenes"
+  },
+  {
+   "desde": 36.12,
+   "imagen": "busto"
+  },
+  {
+   "desde": 39.84,
+   "imagen": "exp_preocupada"
+  },
+  {
+   "desde": 45.08,
+   "imagen": "exp_riendo"
+  },
+  {
+   "desde": 48.57,
+   "imagen": "busto"
+  },
+  {
+   "desde": 51.8,
+   "imagen": "pose_senala"
+  },
+  {
+   "desde": 58.02,
+   "imagen": "exp_contenta"
+  },
+  {
+   "desde": 63.99,
+   "imagen": "busto"
+  },
+  {
+   "desde": 68.24,
+   "imagen": "exp_sorprendida"
+  },
+  {
+   "desde": 71.6,
+   "imagen": "exp_guino"
+  }
+ ],
+ "rotulos": [
+  {
+   "desde": 12.1,
+   "hasta": 15.12,
+   "texto": "SEGURO CASI SIEMPRE",
+   "sub": "los tiempos son de calidad · AESAN"
+  },
+  {
+   "desde": 20.88,
+   "hasta": 24.31,
+   "texto": "FRUTA Y VERDURA: 8–12 MESES",
+   "sub": "vacuno, cordero, cerdo: 6–12 · AESAN"
+  },
+  {
+   "desde": 31.65,
+   "hasta": 36.12,
+   "texto": "CARNE PICADA: 3–4 MESES",
+   "sub": "fiambres y embutidos: 1–2 · AESAN"
+  },
+  {
+   "desde": 45.08,
+   "hasta": 48.57,
+   "texto": "PESCADO BLANCO: 6–8 MESES",
+   "sub": "azul: 2–3 · marisco: 3–6 · AESAN"
+  },
+  {
+   "desde": 54.65,
+   "hasta": 57.71,
+   "texto": "SOPAS Y GUISOS: 2–3 MESES",
+   "sub": "apunta la fecha en el envase · AESAN"
+  }
+ ],
+ "salida": "salida/PEPA_026_cuanto_aguanta.mp4",
+ "gancho": {
+  "tipo": "B",
+  "texto": "¿CUÁNTO AGUANTA EN EL CONGELADOR?",
+  "hasta": 2.7
+ }
+}

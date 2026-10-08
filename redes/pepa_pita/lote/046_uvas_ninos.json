@@ -1,0 +1,49 @@
+{
+ "largo": true,
+ "id": "046",
+ "slug": "uvas_ninos",
+ "fecha": "2026-12-10",
+ "titulo": "Las uvas de Nochevieja y los niños",
+ "cabecera": "¿UVAS Y NIÑOS?",
+ "fondo": "pexels_29148450",
+ "gancho": {
+  "tipo": "C",
+  "texto": "¿UVAS PARA LOS NIÑOS EN NOCHEVIEJA?"
+ },
+ "guion": "¿Van a tomar las uvas los niños en Nochevieja? Esto dicen los pediatras de la Asociación Española de Pediatría.\n\nDurante las fiestas aumenta el riesgo de atragantamiento, porque se toman más turrones, frutos secos, peladillas, palomitas y, sobre todo, uvas y caramelos. Y la asfixia es una de las principales causas de mortalidad en la infancia, sobre todo entre uno y cinco años.\n\nPrimero: no ofrezcas uvas enteras hasta, al menos, los cuatro o cinco años. Hasta entonces, pártelas en cuatro trozos a lo largo, no en rodajas.\n\nSegundo: que estén peladas y sin semillas, porque la piel es resbaladiza.\n\nTercero: que el niño esté sentado y tranquilo, y siempre con un adulto al lado.\n\nY cuarto: los gusanitos de sémola de maíz o las pasas pueden ser alternativas seguras.\n\nY ojo con los caramelos: según los pediatras, ninguno es seguro antes de los cinco años. Si un niño se atraganta, pide ayuda o llama al ciento doce.\n\nSígueme, que aquí aprendemos todos. ¡Cloc, cloc!",
+ "rotulos": [
+  {
+   "clave": "hasta, al menos, los cuatro",
+   "texto": "NI UVAS ENTERAS HASTA LOS 4–5",
+   "sub": "según la AEP"
+  },
+  {
+   "clave": "cuatro trozos a lo largo",
+   "texto": "CUATRO TROZOS A LO LARGO",
+   "sub": "no en rodajas · AEP"
+  },
+  {
+   "clave": "peladas y sin semillas",
+   "texto": "PELADAS Y SIN SEMILLAS",
+   "sub": "la piel es resbaladiza · AEP"
+  },
+  {
+   "clave": "sentado y tranquilo",
+   "texto": "SENTADO, TRANQUILO Y CON UN ADULTO",
+   "sub": "siempre supervisado · AEP"
+  },
+  {
+   "clave": "gusanitos",
+   "texto": "ALTERNATIVAS: PASAS, GUSANITOS",
+   "sub": "más seguras · AEP"
+  }
+ ],
+ "fuentes": [
+  "- Asociación Española de Pediatría, Comité de Soporte Vital, «Cómo pelar las uvas y cortarlas en cuatro trozos longitudinales para prevenir atragantamientos navideños en menores de 5 años» (23/12/2025). https://www.aeped.es/actualidad/atragantamientos-navidad",
+  "- «No se deben ofrecer uvas enteras a los niños y niñas hasta al menos los 4–5 años… Hasta entonces, se recomienda partirlas en cuatro trozos a lo largo, no en rodajas.» «las uvas deben estar peladas y sin semillas, pues la piel es resbaladiza». «Es conveniente que el niño esté sentado y tranquilo». «Deberá tomarlas con supervisión de un adulto.» «Los gusanitos de sémola de maíz o las pasas pueden ser alternativas seguras a las uvas.»",
+  "- «La asfixia es una de las principales causas de mortalidad durante la infancia, especialmente en niños de entre uno y cinco años»; en fiestas, «turrones, frutos secos, peladillas, palomitas de maíz y, sobre todo, uvas y caramelos».",
+  "- La AEP es una sociedad científica (no una administración). Si hay un atragantamiento, llamar al 112.",
+  "- Verificado el 8/10/2026 leyendo la página."
+ ],
+ "texto_pub": "¿Van a tomar las uvas los niños en Nochevieja? 🍇 Esto dice la Asociación Española de Pediatría:\n\n• No ofrezcas uvas enteras hasta, al menos, los 4-5 años: hasta entonces, pártelas en 4 trozos a lo largo (no en rodajas).\n• Peladas y sin semillas (la piel es resbaladiza).\n• Con el niño sentado, tranquilo y con un adulto al lado.\n• Los gusanitos de sémola de maíz o las pasas pueden ser alternativas seguras.\n\nEn fiestas aumenta el riesgo de atragantamiento (turrones, frutos secos, palomitas, uvas y caramelos).\n\n📊 Fuente: Asociación Española de Pediatría (Comité de Soporte Vital).\nPepa es un personaje animado con IA; los datos, no 😉\n\n#uvas #nochevieja #ninos #pediatria #pepapita"
+}

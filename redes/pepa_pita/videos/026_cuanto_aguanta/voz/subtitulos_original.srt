@@ -1,0 +1,79 @@
+1
+00:00:00,000 --> 00:00:03,019
+¿Cuánto tiempo aguanta la comida en el congelador?
+
+2
+00:00:03,019 --> 00:00:06,280
+Aquí va la tabla de la AESAN, que te la cuento entera.
+
+3
+00:00:06,630 --> 00:00:09,185
+Primero, un detalle importante.
+
+4
+00:00:09,185 --> 00:00:13,554
+Si el congelador mantiene los menos dieciocho grados,
+
+5
+00:00:13,554 --> 00:00:16,934
+la comida es segura casi indefinidamente.
+
+6
+00:00:16,934 --> 00:00:23,034
+Estos tiempos son solo por calidad: con el tiempo, pierde sabor y textura.
+
+7
+00:00:23,384 --> 00:00:27,229
+Las frutas y verduras, de ocho a doce meses.
+
+8
+00:00:27,229 --> 00:00:32,298
+La carne de vacuno, cordero y cerdo, de seis a doce meses.
+
+9
+00:00:32,298 --> 00:00:35,094
+El pollo, de nueve a doce meses.
+
+10
+00:00:35,444 --> 00:00:40,454
+La carne picada y las hamburguesas, de tres a cuatro meses.
+
+11
+00:00:40,454 --> 00:00:44,275
+Los fiambres y embutidos, de uno a dos meses.
+
+12
+00:00:44,625 --> 00:00:50,138
+Las claras y yemas de huevo crudas, sin cáscara, doce meses.
+
+13
+00:00:50,488 --> 00:00:54,401
+El pescado blanco, de seis a ocho meses.
+
+14
+00:00:54,401 --> 00:00:58,021
+El pescado azul, de dos a tres meses.
+
+15
+00:00:58,021 --> 00:01:00,858
+Y el marisco, de tres a seis.
+
+16
+00:01:01,208 --> 00:01:04,631
+Las sopas y los guisos, de dos a tres meses.
+
+17
+00:01:04,981 --> 00:01:11,674
+Y recuerda: lo primero que entra en el congelador es lo primero que debe salir.
+
+18
+00:01:11,674 --> 00:01:16,080
+Apunta la fecha en el envase y no se te olvida nada.
+
+19
+00:01:16,430 --> 00:01:20,191
+Sígueme, que aquí aprendemos todos.
+
+20
+00:01:20,191 --> 00:01:21,480
+¡Cloc, cloc!
