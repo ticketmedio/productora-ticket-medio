@@ -1,0 +1,74 @@
+{
+ "voz": "voz/voz.mp3",
+ "subtitulos": "voz/subtitulos.srt",
+ "musica": "../../../../musica/pepa_pita/Travelling Light - Blue Deer Studio.mp3",
+ "musica_db": -22,
+ "fondo": "../../fondos/pexels_5451503.jpg",
+ "cabecera": "¿CASTAÑAS ASADAS?",
+ "planos": [
+  {
+   "desde": 0,
+   "imagen": "busto"
+  },
+  {
+   "desde": 4.1,
+   "imagen": "exp_sorprendida"
+  },
+  {
+   "desde": 7.0,
+   "imagen": "pose_senala"
+  },
+  {
+   "desde": 12.4,
+   "imagen": "busto"
+  },
+  {
+   "desde": 17.8,
+   "imagen": "pose_sartenes"
+  },
+  {
+   "desde": 24.3,
+   "imagen": "exp_preocupada"
+  },
+  {
+   "desde": 29.6,
+   "imagen": "busto"
+  },
+  {
+   "desde": 31.3,
+   "imagen": "exp_guino"
+  }
+ ],
+ "rotulos": [
+  {
+   "desde": 7.0,
+   "hasta": 12.4,
+   "texto": "UN CORTE EN LA PIEL",
+   "sub": "para que no estallen · MAPA"
+  },
+  {
+   "desde": 12.5,
+   "hasta": 17.7,
+   "texto": "50–60 % DE AGUA",
+   "sub": "se estropea pronto · IGP Castaña de Galicia"
+  },
+  {
+   "desde": 17.8,
+   "hasta": 24.2,
+   "texto": "EN RED… O AL CONGELADOR",
+   "sub": "que ventile"
+  },
+  {
+   "desde": 24.4,
+   "hasta": 31.2,
+   "texto": "LA DEL PARQUE, NO",
+   "sub": "castaña de Indias · ANSES (Francia)"
+  }
+ ],
+ "salida": "salida/PEPA_013_castanas.mp4",
+ "gancho": {
+  "tipo": "A",
+  "texto": "¿TE EXPLOTAN LAS CASTAÑAS?",
+  "hasta": 3.5
+ }
+}

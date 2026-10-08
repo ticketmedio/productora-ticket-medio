@@ -1,0 +1,37 @@
+{
+ "id": "025",
+ "slug": "no_congelar",
+ "fecha": "2026-11-11",
+ "largo": false,
+ "titulo": "Qué no se congela",
+ "cabecera": "¿QUÉ NO SE CONGELA?",
+ "fondo": "pexels_5451503",
+ "gancho": {
+  "tipo": "A",
+  "texto": "¿QUÉ NO SE CONGELA?"
+ },
+ "guion": "¿Qué no deberías congelar? Ojo, que no es peligroso: es que pierde sabor o textura.\n\nLas verduras y frutas que se comen en crudo, como la lechuga o los tomates. Las patatas. Los huevos con cáscara. Los alimentos con mucha grasa. La mayonesa. Y los alimentos fritos.\n\nEn cambio, sí se pueden congelar las carnes, los pescados, los fiambres, las legumbres, el pan, las verduras y los huevos batidos.\n\nEso sí, a menos dieciocho grados o menos.\n\nSígueme, que aquí aprendemos todos. ¡Cloc, cloc!",
+ "rotulos": [
+  {
+   "clave": "la mayonesa",
+   "texto": "NO: CRUDOS, PATATAS, MAYONESA",
+   "sub": "pierden sabor o textura · AESAN"
+  },
+  {
+   "clave": "huevos batidos",
+   "texto": "SÍ: CARNE, PESCADO, PAN…",
+   "sub": "y huevos batidos · AESAN"
+  },
+  {
+   "clave": "dieciocho grados",
+   "texto": "-18 °C O MENOS",
+   "sub": "congelador de 4 estrellas · AESAN"
+  }
+ ],
+ "fuentes": [
+  "- AESAN, «¿Congelas y descongelas los alimentos de forma segura en casa?»: «NO se deben congelar porque, aunque sean seguros, pierden sus cualidades de sabor o textura: verduras y frutas que se van a comer en crudo (lechuga, tomates, etc.); patatas; huevos con cáscara; alimentos con alto contenido en grasa; mayonesa; alimentos fritos». https://www.aesan.gob.es/dam/jcr:38a8f1b3-25dc-40b6-a831-90a04ae3d03f/congelar_descongelar.pdf",
+  "- Misma ficha: «SÍ se pueden congelar: carnes, pescados, fiambres, verduras, legumbres, embutidos, frutas, huevos batidos, pan». «Se recomienda que los alimentos se congelen a temperaturas inferiores a -18 ºC, para lo que se necesita un congelador de 4 estrellas.»",
+  "- Verificado el 8/10/2026 con el PDF (lectura por posiciones, columnas SÍ y NO comprobadas)."
+ ],
+ "texto_pub": "¿Qué no deberías congelar? 🧊 No es peligroso: es que pierde sabor o textura.\n\nNO: verduras y frutas que se comen crudas (lechuga, tomate…), patatas, huevos con cáscara, alimentos con mucha grasa, mayonesa y fritos.\nSÍ: carnes, pescados, fiambres, legumbres, pan, verduras y huevos batidos.\nY a -18 °C o menos.\n\n📊 Fuente: AESAN, «¿Congelas y descongelas los alimentos de forma segura en casa?».\nPepa es un personaje animado con IA; los datos, no 😉\n\n#congelar #cocina #trucosdecocina #ahorrar #pepapita"
+}

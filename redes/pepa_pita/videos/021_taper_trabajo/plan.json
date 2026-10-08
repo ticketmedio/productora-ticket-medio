@@ -1,0 +1,110 @@
+{
+ "voz": "voz/voz.mp3",
+ "subtitulos": "voz/subtitulos.srt",
+ "musica": "../../../../musica/pepa_pita/Travelling Light - Blue Deer Studio.mp3",
+ "musica_db": -22,
+ "fondo": "../../fondos/pexels_33640979.jpg",
+ "cabecera": "¿TÁPER AL TRABAJO?",
+ "planos": [
+  {
+   "desde": 0,
+   "imagen": "busto"
+  },
+  {
+   "desde": 4.55,
+   "imagen": "exp_sorprendida"
+  },
+  {
+   "desde": 10.96,
+   "imagen": "pose_senala"
+  },
+  {
+   "desde": 16.39,
+   "imagen": "busto"
+  },
+  {
+   "desde": 20.63,
+   "imagen": "exp_pensativa"
+  },
+  {
+   "desde": 28.24,
+   "imagen": "pose_sartenes"
+  },
+  {
+   "desde": 31.57,
+   "imagen": "busto"
+  },
+  {
+   "desde": 37.21,
+   "imagen": "exp_preocupada"
+  },
+  {
+   "desde": 44.28,
+   "imagen": "exp_riendo"
+  },
+  {
+   "desde": 50.54,
+   "imagen": "busto"
+  },
+  {
+   "desde": 57.19,
+   "imagen": "pose_senala"
+  },
+  {
+   "desde": 60.44,
+   "imagen": "exp_contenta"
+  },
+  {
+   "desde": 64.01,
+   "imagen": "busto"
+  },
+  {
+   "desde": 66.63,
+   "imagen": "exp_guino"
+  }
+ ],
+ "rotulos": [
+  {
+   "desde": 10.96,
+   "hasta": 16.08,
+   "texto": "MANOS: 20 SEGUNDOS",
+   "sub": "jabón y agua caliente · AESAN"
+  },
+  {
+   "desde": 17.82,
+   "hasta": 23.44,
+   "texto": "COPA Y TENEDOR",
+   "sub": "recipiente apto · AESAN"
+  },
+  {
+   "desde": 29.77,
+   "hasta": 36.9,
+   "texto": "BOLSA ISOTÉRMICA",
+   "sub": "sin golpes ni cambios bruscos · AESAN"
+  },
+  {
+   "desde": 38.98,
+   "hasta": 44.28,
+   "texto": "MÁS DE 75 °C",
+   "sub": "no la comas fría · AESAN"
+  },
+  {
+   "desde": 52.2,
+   "hasta": 57.19,
+   "texto": "MÁX. 2 HORAS FUERA",
+   "sub": "1 hora si hace más de 30 °C · AESAN"
+  },
+  {
+   "desde": 60.44,
+   "hasta": 63.7,
+   "texto": "3 DÍAS EN LA NEVERA",
+   "sub": "como máximo · AESAN"
+  }
+ ],
+ "salida": "salida/PEPA_021_taper_trabajo.mp4",
+ "gancho": {
+  "tipo": "C",
+  "texto": "¿TU TÁPER AGUANTA HASTA LAS DOS?",
+  "hasta": 1.9
+ }
+}

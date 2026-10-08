@@ -1,0 +1,53 @@
+{
+ "id": "021",
+ "slug": "taper_trabajo",
+ "fecha": "2026-11-05",
+ "largo": true,
+ "titulo": "El táper del trabajo",
+ "cabecera": "¿TÁPER AL TRABAJO?",
+ "fondo": "pexels_33640979",
+ "gancho": {
+  "tipo": "C",
+  "texto": "¿TU TÁPER AGUANTA HASTA LAS DOS?"
+ },
+ "guion": "¿Te llevas el táper al trabajo? Pues escucha, que aquí hay mucha tela.\n\nPrimero, desde casa. Prepara raciones individuales: se enfrían antes y se manipulan menos. Y lávate las manos con jabón y agua caliente, al menos veinte segundos.\n\nSegundo, el recipiente. Fíjate en el símbolo de la copa y el tenedor, o en que ponga «para contacto con alimentos». Y si lo vas a meter al microondas, que lleve el dibujito del microondas.\n\nTercero, el transporte. Una bolsa isotérmica ayuda. Evita golpes y cambios bruscos de temperatura, y en cuanto llegues, a la nevera.\n\nCuarto, la hora de comer. La comida no debe tomarse fría: caliéntala a más de setenta y cinco grados. En el microondas, tápala, remuévela y dale la vuelta para que se caliente por igual.\n\nY ojo con los tiempos. Una vez cocinada, no la dejes fuera de la nevera más de dos horas, o más de una si hace más de treinta grados. Y dentro de la nevera, no más de tres días.\n\nSígueme, que aquí aprendemos todos. ¡Cloc, cloc!",
+ "rotulos": [
+  {
+   "clave": "veinte segundos",
+   "texto": "MANOS: 20 SEGUNDOS",
+   "sub": "jabón y agua caliente · AESAN"
+  },
+  {
+   "clave": "copa y el tenedor",
+   "texto": "COPA Y TENEDOR",
+   "sub": "recipiente apto · AESAN"
+  },
+  {
+   "clave": "bolsa isotérmica",
+   "texto": "BOLSA ISOTÉRMICA",
+   "sub": "sin golpes ni cambios bruscos · AESAN"
+  },
+  {
+   "clave": "setenta y cinco",
+   "texto": "MÁS DE 75 °C",
+   "sub": "no la comas fría · AESAN"
+  },
+  {
+   "clave": "dos horas",
+   "texto": "MÁX. 2 HORAS FUERA",
+   "sub": "1 hora si hace más de 30 °C · AESAN"
+  },
+  {
+   "clave": "tres días",
+   "texto": "3 DÍAS EN LA NEVERA",
+   "sub": "como máximo · AESAN"
+  }
+ ],
+ "fuentes": [
+  "- AESAN, «De tu cocina a la oficina. Recomendaciones para consumir tu comida fuera de casa» (NIPO 690-14-015-1). https://www.aesan.gob.es/dam/jcr:4761e79f-4510-4556-bdb4-715b2fac73e8/cocina_oficina.pdf",
+  "- Recipientes: «símbolo de la copa y el tenedor o indicar para contacto con alimentos»; símbolo de microondas si es apto. Transporte: bolsas isotermas, «evitando cambios bruscos de temperatura, golpes y derrames». Recalentar: «Asegúrate de calentarlas a más de 75 ºC»; microondas: cubrir, remover y girar.",
+  "- Casa: «porciones de consumo individual»; manos «al menos durante 20 segundos». Almacenamiento: «no los dejes fuera del refrigerador durante más de 2 horas, o más de una hora si la temperatura es mayor de 30 ºC»; cocinados «no deben de permanecer más de 3 días en la nevera».",
+  "- Verificado el 8/10/2026 leyendo el PDF."
+ ],
+ "texto_pub": "¿Te llevas el táper al trabajo? 🍱 Te dejo lo que dice la AESAN:\n\n• Raciones individuales y manos lavadas 20 segundos.\n• Recipiente con el símbolo de la copa y el tenedor (y el del microondas si lo vas a usar).\n• Bolsa isotérmica, sin golpes, y a la nevera al llegar.\n• Caliéntalo a más de 75 °C: tapa, remueve y gira.\n• Máximo 2 horas fuera de la nevera (1 si hace más de 30 °C) y 3 días en la nevera.\n\n📊 Fuente: AESAN, «De tu cocina a la oficina».\nPepa es un personaje animado con IA; los datos, no 😉\n\n#taper #comidadeltrabajo #seguridadalimentaria #cocina #pepapita"
+}

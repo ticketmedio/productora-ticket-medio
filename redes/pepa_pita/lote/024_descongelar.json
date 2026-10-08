@@ -1,0 +1,38 @@
+{
+ "id": "024",
+ "slug": "descongelar",
+ "fecha": "2026-11-10",
+ "largo": false,
+ "titulo": "Descongelar sin riesgos",
+ "cabecera": "¿DESCONGELAR?",
+ "fondo": "pexels_33640979",
+ "gancho": {
+  "tipo": "C",
+  "texto": "¿DESCONGELAS EN LA ENCIMERA?"
+ },
+ "guion": "¿Descongelas la comida sobre la encimera? ¡Alto ahí! Entre cinco y sesenta y cinco grados, los microorganismos se reproducen más rápido y se pone en riesgo la seguridad del alimento.\n\nLo mejor: sácala del congelador con al menos doce horas de antelación y déjala en la nevera, en la parte más fría, sobre una bandeja que recoja el líquido.\n\n¿Tienes prisa? El microondas es lo más rápido, pero no es uniforme: potencia baja, trozos pequeños, y remuévelo o dale la vuelta. Y cocínalo enseguida, que alguna parte puede haber empezado a cocerse.\n\nSígueme, que aquí aprendemos todos. ¡Cloc, cloc!",
+ "rotulos": [
+  {
+   "clave": "sesenta y cinco",
+   "texto": "DE 5 A 65 °C",
+   "sub": "se multiplican más rápido · AESAN"
+  },
+  {
+   "clave": "doce horas",
+   "texto": "12 HORAS ANTES",
+   "sub": "en la nevera, sobre una bandeja · AESAN"
+  },
+  {
+   "clave": "potencia baja",
+   "texto": "MICROONDAS: POTENCIA BAJA",
+   "sub": "y cocínalo enseguida · AESAN"
+  }
+ ],
+ "fuentes": [
+  "- AESAN, «¿Congelas y descongelas los alimentos de forma segura en casa?» (NIPO 069-21-012-7): «No es recomendable la descongelación a temperatura ambiente… a temperaturas entre 5 y 65 ºC los microorganismos pueden reproducirse con mayor rapidez». https://www.aesan.gob.es/dam/jcr:38a8f1b3-25dc-40b6-a831-90a04ae3d03f/congelar_descongelar.pdf",
+  "- Misma ficha: «La mejor opción es descongelar los alimentos en la parte del frigorífico donde la temperatura sea más fría. Es recomendable sacar la comida del congelador con una antelación de al menos 12 horas y dejarla en la nevera sobre una bandeja que recoja el líquido.»",
+  "- Microondas: «la más rápida… pero no es homogénea… potencia más baja, cortar los alimentos en trozos pequeños… girar o remover… conviene cocinar inmediatamente estos alimentos, ya que alguna parte ha podido comenzar a cocerse.»",
+  "- Verificado el 8/10/2026 leyendo el PDF."
+ ],
+ "texto_pub": "¿Descongelas la comida sobre la encimera? 🥶 ¡Alto ahí!\n\nEntre 5 y 65 °C los microorganismos se reproducen más rápido. Lo mejor: sácala del congelador al menos 12 horas antes y déjala en la nevera, en la parte más fría, sobre una bandeja. ¿Prisa? Microondas a potencia baja, en trozos pequeños, y cocínalo enseguida.\n\n📊 Fuente: AESAN, «¿Congelas y descongelas los alimentos de forma segura en casa?».\nPepa es un personaje animado con IA; los datos, no 😉\n\n#descongelar #congelador #seguridadalimentaria #cocina #pepapita"
+}

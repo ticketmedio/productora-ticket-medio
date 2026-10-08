@@ -1,0 +1,34 @@
+{
+ "id": "023",
+ "slug": "cinco_segundos",
+ "fecha": "2026-11-09",
+ "largo": false,
+ "titulo": "La regla de los cinco segundos",
+ "cabecera": "¿5 SEGUNDOS?",
+ "fondo": "pexels_29148450",
+ "gancho": {
+  "tipo": "B",
+  "texto": "¿LA REGLA DE LOS 5 SEGUNDOS?"
+ },
+ "guion": "¿Se te cae una galleta al suelo y la recoges en cinco segundos? A ver qué dice la ciencia.\n\nInvestigadores de la Universidad de Rutgers lo probaron con una bacteria, cuatro superficies y cuatro alimentos, con contactos de menos de un segundo, cinco, treinta y trescientos segundos.\n\nResultado: cuanto más tiempo, más bacterias pasan. Pero algo se transfiere ya en algo se transfiere de los cinco segundos no funciona.\n\nY también importa qué alimento y qué suelo: la sandía recogió más bacterias que un caramelo de goma.\n\nAsí que si se cae, mejor no arriesgar. Sígueme, que aquí aprendemos todos. ¡Cloc, cloc!",
+ "rotulos": [
+  {
+   "clave": "algo se transfiere",
+   "texto": "YA PASAN EN <1 SEGUNDO",
+   "sub": "Rutgers · Appl. Environ. Microbiol. 2016"
+  },
+  {
+   "clave": "la sandía",
+   "texto": "SANDÍA > CARAMELO",
+   "sub": "el alimento también importa · Rutgers"
+  }
+ ],
+ "fuentes": [
+  "- Miranda RC, Schaffner DW. «Longer Contact Times Increase Cross-Contamination of Enterobacter aerogenes from Surfaces to Food». Appl Environ Microbiol 2016; 82(21):6490–6496. doi:10.1128/AEM.01838-16 (Universidad de Rutgers). https://pmc.ncbi.nlm.nih.gov/articles/PMC5066366/",
+  "- Superficies: acero inoxidable, baldosa, madera y moqueta; alimentos: sandía, pan, pan con mantequilla y gominola; tiempos de contacto <1, 5, 30 y 300 s.",
+  "- «Longer contact times result in more transfer… other factors, including the nature of the food and the surface, are of equal or greater importance. Some transfer takes place instantaneously, at times of <1 s, disproving the five-second rule.» Sandía: la mayor transferencia; gominola, la menor.",
+  "- Estudio con una bacteria de laboratorio (Enterobacter aerogenes), no con suelos de casas reales. La recomendación final es de Pepa, no del estudio.",
+  "- Verificado el 8/10/2026."
+ ],
+ "texto_pub": "¿Se te cae una galleta y la recoges en 5 segundos? 🍪 La ciencia dice que no vale.\n\nInvestigadores de la Universidad de Rutgers probaron una bacteria en 4 superficies y 4 alimentos, con contactos de menos de 1, 5, 30 y 300 segundos. Cuanto más tiempo, más bacterias pasan, pero ya hay transferencia en menos de 1 segundo. Y la sandía recogió más que un caramelo de goma. Si se cae, mejor no arriesgar.\n\n📊 Fuente: Miranda y Schaffner, Applied and Environmental Microbiology, 2016.\nPepa es un personaje animado con IA; los datos, no 😉\n\n#reglade5segundos #higiene #cocina #sabiasque #pepapita"
+}

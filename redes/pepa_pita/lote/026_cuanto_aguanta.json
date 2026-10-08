@@ -1,0 +1,48 @@
+{
+ "id": "026",
+ "slug": "cuanto_aguanta",
+ "fecha": "2026-11-12",
+ "largo": true,
+ "titulo": "Cuánto aguanta en el congelador",
+ "cabecera": "¿CUÁNTO AGUANTA?",
+ "fondo": "pexels_29148450",
+ "gancho": {
+  "tipo": "B",
+  "texto": "¿CUÁNTO AGUANTA EN EL CONGELADOR?"
+ },
+ "guion": "¿Cuánto tiempo aguanta la comida en el congelador? Aquí va la tabla de la AESAN, que te la cuento entera.\n\nPrimero, un detalle importante. Si el congelador mantiene los menos dieciocho grados, la comida es segura casi indefinidamente. Estos tiempos son solo por calidad: con el tiempo, pierde sabor y textura.\n\nLas frutas y verduras, de ocho a doce meses. La carne de vacuno, cordero y cerdo, de seis a doce meses. El pollo, de nueve a doce meses.\n\nLa carne picada y las hamburguesas, de tres a cuatro meses. Los fiambres y embutidos, de uno a dos meses.\n\nLas claras y yemas de huevo crudas, sin cáscara, doce meses.\n\nEl pescado blanco, de seis a ocho meses. El pescado azul, de dos a tres meses. Y el marisco, de tres a seis.\n\nLas sopas y los guisos, de dos a tres meses.\n\nY recuerda: lo primero que entra en el congelador es lo primero que debe salir. Apunta la fecha en el envase y no se te olvida nada.\n\nSígueme, que aquí aprendemos todos. ¡Cloc, cloc!",
+ "rotulos": [
+  {
+   "clave": "casi indefinidamente",
+   "texto": "SEGURO CASI SIEMPRE",
+   "sub": "los tiempos son de calidad · AESAN"
+  },
+  {
+   "clave": "ocho a doce meses",
+   "texto": "FRUTA Y VERDURA: 8–12 MESES",
+   "sub": "vacuno, cordero, cerdo: 6–12 · AESAN"
+  },
+  {
+   "clave": "tres a cuatro meses",
+   "texto": "CARNE PICADA: 3–4 MESES",
+   "sub": "fiambres y embutidos: 1–2 · AESAN"
+  },
+  {
+   "clave": "seis a ocho meses",
+   "texto": "PESCADO BLANCO: 6–8 MESES",
+   "sub": "azul: 2–3 · marisco: 3–6 · AESAN"
+  },
+  {
+   "clave": "sopas y los guisos",
+   "texto": "SOPAS Y GUISOS: 2–3 MESES",
+   "sub": "apunta la fecha en el envase · AESAN"
+  }
+ ],
+ "fuentes": [
+  "- AESAN, «¿Congelas y descongelas los alimentos de forma segura en casa?», apartado «¿Cuánto tiempo pueden estar congelados los alimentos?»: «una congelación correcta mantiene los alimentos seguros casi indefinidamente, los tiempos de almacenamiento recomendados son solo por motivos de calidad». https://www.aesan.gob.es/dam/jcr:38a8f1b3-25dc-40b6-a831-90a04ae3d03f/congelar_descongelar.pdf",
+  "- Tabla (leída por posiciones del PDF): frutas y verduras 8–12 meses; carne de vacuno, cordero y cerdo 6–12; carne de pollo 9–12; carne picada y hamburguesas 3–4; fiambres y embutidos 1–2; claras y yemas crudas (sin cáscara) 12; pescado blanco 6–8; pescado azul 2–3; marisco 3–6; sopas y guisos 2–3 meses.",
+  "- «Recuerda que lo primero que entra en el congelador es lo primero que debe salir.» «Se recomienda marcar en el envase de qué alimento se trata y su fecha de congelación.»",
+  "- Verificado el 8/10/2026."
+ ],
+ "texto_pub": "¿Cuánto aguanta la comida en el congelador? 🧊 La tabla de la AESAN, entera:\n\n• Frutas y verduras: 8–12 meses\n• Vacuno, cordero y cerdo: 6–12 · Pollo: 9–12\n• Carne picada y hamburguesas: 3–4 · Fiambres y embutidos: 1–2\n• Claras y yemas crudas (sin cáscara): 12\n• Pescado blanco: 6–8 · Azul: 2–3 · Marisco: 3–6\n• Sopas y guisos: 2–3 meses\n\nA -18 °C es seguro casi indefinidamente: estos tiempos son por calidad. Apunta la fecha en el envase. ✍️\n\n📊 Fuente: AESAN, «¿Congelas y descongelas los alimentos de forma segura en casa?».\nPepa es un personaje animado con IA; los datos, no 😉\n\n#congelador #conservar #ahorrar #cocina #pepapita"
+}

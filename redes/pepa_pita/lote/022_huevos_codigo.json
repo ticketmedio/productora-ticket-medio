@@ -1,0 +1,35 @@
+{
+ "id": "022",
+ "slug": "huevos_codigo",
+ "fecha": "2026-11-06",
+ "largo": false,
+ "titulo": "El código de los huevos",
+ "cabecera": "¿CÓDIGO DEL HUEVO?",
+ "fondo": "pexels_5451503",
+ "gancho": {
+  "tipo": "A",
+  "texto": "¿QUÉ DICE TU HUEVO?"
+ },
+ "guion": "¿Has visto ese código que llevan los huevos? ¡No es un adorno! El primer número dice cómo vivió la gallina: el uno, campera, con acceso al aire libre; el dos, criada en el suelo; y el tres, en jaula.\n\nDespués van las letras del país y el número de la granja.\n\nY las letras del estuche, S, M, L y XL, son por peso. Una L pesa entre sesenta y tres y setenta y tres gramos. Una M, entre cincuenta y tres y sesenta y tres.\n\nSígueme, que aquí aprendemos todos. ¡Cloc, cloc!",
+ "rotulos": [
+  {
+   "clave": "el uno, campera",
+   "texto": "1 · 2 · 3",
+   "sub": "campera · suelo · jaula · UE 2023/2465"
+  },
+  {
+   "clave": "sesenta y tres y setenta y tres",
+   "texto": "L: 63 A 73 GRAMOS",
+   "sub": "M: 53 a 63 g · UE 2023/2465"
+  }
+ ],
+ "fuentes": [
+  "- Reglamento Delegado (UE) 2023/2465, anexo I: términos «Huevos de gallinas camperas» (1), «criadas en el suelo» (2), «criadas en jaula» (3). https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32023R2465",
+  "- Mismo reglamento, art. 5: XL ≥ 73 g; L ≥ 63 g y < 73 g; M ≥ 53 g y < 63 g; S < 53 g.",
+  "- Directiva 2002/4/CE, anexo, punto 2: el número distintivo del establecimiento se compone de «un dígito que indique la forma de cría», el código del Estado miembro y un número identificativo. https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32002L0004",
+  "- Anexo II del Reglamento: los huevos de gallinas camperas exigen acceso ininterrumpido durante el día a un espacio al aire libre.",
+  "- No se usa el límite de 28 días de consumo preferente (Reglamento 589/2008, derogado): no se ha podido confirmar en la norma vigente. El código 0 (ecológico) tampoco se cita: la tabla no se lee en el texto de EUR-Lex.",
+  "- Verificado el 8/10/2026."
+ ],
+ "texto_pub": "¿Has visto ese código de los huevos? 🥚 No es un adorno.\n\nEl primer número dice cómo vivió la gallina: 1, campera (con acceso al aire libre); 2, criada en el suelo; 3, en jaula. Luego van el país y la granja. Y S, M, L y XL son por peso: una L pesa entre 63 y 73 g; una M, entre 53 y 63 g.\n\n📊 Fuentes: Reglamento Delegado (UE) 2023/2465 y Directiva 2002/4/CE.\nPepa es un personaje animado con IA; los datos, no 😉\n\n#huevos #etiquetas #supermercado #cocina #pepapita"
+}

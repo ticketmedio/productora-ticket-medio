@@ -1,0 +1,66 @@
+{
+ "voz": "voz/voz.mp3",
+ "subtitulos": "voz/subtitulos.srt",
+ "musica": "../../../../musica/pepa_pita/Travelling Light - Blue Deer Studio.mp3",
+ "musica_db": -22,
+ "fondo": "../../fondos/pexels_5451503.jpg",
+ "cabecera": "¿FECHA PASADA?",
+ "planos": [
+  {
+   "desde": 0,
+   "imagen": "busto"
+  },
+  {
+   "desde": 5.19,
+   "imagen": "exp_sorprendida"
+  },
+  {
+   "desde": 11.5,
+   "imagen": "pose_senala"
+  },
+  {
+   "desde": 16.8,
+   "imagen": "busto"
+  },
+  {
+   "desde": 23.05,
+   "imagen": "exp_pensativa"
+  },
+  {
+   "desde": 28.5,
+   "imagen": "pose_sartenes"
+  },
+  {
+   "desde": 34.03,
+   "imagen": "busto"
+  },
+  {
+   "desde": 37.35,
+   "imagen": "exp_preocupada"
+  },
+  {
+   "desde": 40.13,
+   "imagen": "exp_guino"
+  }
+ ],
+ "rotulos": [
+  {
+   "desde": 11.5,
+   "hasta": 16.8,
+   "texto": "CONSUMO PREFERENTE",
+   "sub": "conserva sus propiedades · UE 1169/2011"
+  },
+  {
+   "desde": 28.5,
+   "hasta": 31.5,
+   "texto": "CADUCIDAD: A LA BASURA",
+   "sub": "tras la fecha no es seguro · UE 1169/2011"
+  }
+ ],
+ "salida": "salida/PEPA_019_caducidad.mp4",
+ "gancho": {
+  "tipo": "A",
+  "texto": "¿FECHA PASADA? ¿A LA BASURA?",
+  "hasta": 3.04
+ }
+}

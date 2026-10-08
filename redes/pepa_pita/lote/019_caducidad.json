@@ -1,0 +1,32 @@
+{
+ "id": "019",
+ "slug": "caducidad",
+ "fecha": "2026-11-03",
+ "largo": false,
+ "titulo": "Caducidad o consumo preferente",
+ "cabecera": "¿FECHA PASADA?",
+ "fondo": "pexels_5451503",
+ "gancho": {
+  "tipo": "A",
+  "texto": "¿FECHA PASADA? ¿A LA BASURA?"
+ },
+ "guion": "¿Se te ha pasado la fecha de un alimento? ¡Espera, no lo tires todavía! Que no es lo mismo «consumir preferentemente antes del» que «fecha de caducidad».\n\nLa fecha de consumo preferente es hasta cuándo el alimento conserva sus propiedades, si lo guardas bien. Pasada, ya no está garantizada su calidad, pero no es lo mismo que caducar.\n\nLa fecha de caducidad es la de los alimentos muy perecederos: pasada, el alimento ya no se considera seguro. Ahí, a la basura, sin dudar.\n\nMira siempre la etiqueta antes de decidir. Sígueme, que aquí aprendemos todos. ¡Cloc, cloc!",
+ "rotulos": [
+  {
+   "clave": "conserva sus propiedades",
+   "texto": "CONSUMO PREFERENTE",
+   "sub": "conserva sus propiedades · UE 1169/2011"
+  },
+  {
+   "clave": "ya no se considera seguro",
+   "texto": "CADUCIDAD: A LA BASURA",
+   "sub": "tras la fecha no es seguro · UE 1169/2011"
+  }
+ ],
+ "fuentes": [
+  "- Reglamento (UE) 1169/2011, art. 2.2.r: la fecha de duración mínima es «la fecha hasta la que el alimento conserva sus propiedades específicas cuando se almacena correctamente». https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32011R1169",
+  "- Mismo reglamento, art. 24.1: en alimentos «microbiológicamente muy perecederos» la fecha de duración mínima se cambia por la fecha de caducidad; «después de su fecha de caducidad, el alimento no se considerará seguro». Anexo X: fórmulas «consumir preferentemente antes del…» y «fecha de caducidad».",
+  "- Verificado el 8/10/2026 leyendo el texto consolidado en EUR-Lex."
+ ],
+ "texto_pub": "¿Se te ha pasado la fecha de un alimento? 🗓️ ¡Espera, no lo tires todavía!\n\n«Consumir preferentemente antes del…» habla de calidad: es hasta cuándo conserva sus propiedades si lo guardas bien. La «fecha de caducidad», en cambio, es la de los alimentos muy perecederos: pasada, ya no se considera seguro. Mira siempre la etiqueta antes de decidir. 👀\n\n📊 Fuente: Reglamento (UE) 1169/2011, arts. 2 y 24.\nPepa es un personaje animado con IA; los datos, no 😉\n\n#caducidad #consumopreferente #etiquetas #cocina #pepapita"
+}

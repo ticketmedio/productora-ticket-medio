@@ -1,0 +1,68 @@
+{
+ "voz": "voz/voz.mp3",
+ "subtitulos": "voz/subtitulos.srt",
+ "musica": "../../../../musica/pepa_pita/Travelling Light - Blue Deer Studio.mp3",
+ "musica_db": -22,
+ "fondo": "../../fondos/pexels_29148450.jpg",
+ "cabecera": "¿CONGELAS TODO?",
+ "planos": [
+  {
+   "desde": 0,
+   "imagen": "busto"
+  },
+  {
+   "desde": 3.32,
+   "imagen": "exp_sorprendida"
+  },
+  {
+   "desde": 8.55,
+   "imagen": "pose_senala"
+  },
+  {
+   "desde": 19.27,
+   "imagen": "busto"
+  },
+  {
+   "desde": 23.55,
+   "imagen": "exp_pensativa"
+  },
+  {
+   "desde": 27.48,
+   "imagen": "pose_sartenes"
+  },
+  {
+   "desde": 36.14,
+   "imagen": "busto"
+  },
+  {
+   "desde": 39.2,
+   "imagen": "exp_guino"
+  }
+ ],
+ "rotulos": [
+  {
+   "desde": 3.32,
+   "hasta": 8.55,
+   "texto": "RACIONES INDIVIDUALES",
+   "sub": "se congela antes · AESAN"
+  },
+  {
+   "desde": 11.2,
+   "hasta": 19.27,
+   "texto": "NO LA METAS CALIENTE",
+   "sub": "primero, a la nevera · AESAN"
+  },
+  {
+   "desde": 30.57,
+   "hasta": 35.83,
+   "texto": "MÁS DE 70 °C, 2 MIN",
+   "sub": "para volver a congelar · AESAN"
+  }
+ ],
+ "salida": "salida/PEPA_020_congelar_raciones.mp4",
+ "gancho": {
+  "tipo": "B",
+  "texto": "¿CONGELAS TODO EN UN BLOQUE?",
+  "hasta": 2.69
+ }
+}

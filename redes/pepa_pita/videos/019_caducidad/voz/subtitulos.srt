@@ -1,0 +1,47 @@
+1
+00:00:00,000 --> 00:00:03,037
+¿Se te ha pasado la fecha de un alimento?
+
+2
+00:00:03,037 --> 00:00:05,186
+¡Espera, no lo tires todavía!
+
+3
+00:00:05,186 --> 00:00:11,187
+Que no es lo mismo «consumir preferentemente antes del» que «fecha de caducidad».
+
+4
+00:00:11,499 --> 00:00:16,802
+La fecha de consumo preferente es hasta cuándo el alimento conserva sus propiedades,
+
+5
+00:00:16,802 --> 00:00:18,001
+si lo guardas bien.
+
+6
+00:00:18,001 --> 00:00:22,736
+Pasada, ya no está garantizada su calidad, pero no es lo mismo que caducar.
+
+7
+00:00:23,048 --> 00:00:28,499
+La fecha de caducidad es la de los alimentos muy perecederos: pasada,
+
+8
+00:00:28,499 --> 00:00:31,501
+el alimento ya no se considera seguro.
+
+9
+00:00:31,501 --> 00:00:33,713
+Ahí, a la basura, sin dudar.
+
+10
+00:00:34,026 --> 00:00:37,354
+Mira siempre la etiqueta antes de decidir.
+
+11
+00:00:37,354 --> 00:00:40,129
+Sígueme, que aquí aprendemos todos.
+
+12
+00:00:40,129 --> 00:00:41,080
+¡Cloc, cloc!
