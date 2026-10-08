@@ -2,6 +2,20 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 08/10/2026 (tarde)
+
+**Ejemplos que funcionan (datos públicos, 8/10/2026)**
+- Detrás de la Etiqueta (85,7 mil suscriptores): «30 productos de Mercadona que deberías dejar de comprar (y por qué)», 194 mil (32:35, hace 1 mes).
+- Veterinario Gratis (2,06 M): «¿Qué está pasando con la fruta de Mercadona?», 119 mil (10:30, hace 2 sem.).
+- qash (18,8 mil): Irán 154 mil en 4 días; Amancio Ortega 437 mil.
+
+**Ideas**
+1. **Vídeo largo — «5 productos de Mercadona que te salen más caros de lo que crees (con el ticket)»**: lista + negativo + «y por qué», con cuentas verificables.
+2. **Reel de Pepa — «¿Se puede comer la fruta que se pone blanda?»**: duda cotidiana; verificar con AESAN.
+3. **Carrusel de Pepa — «Caducidad vs consumo preferente: qué tirar y qué no»**: útil antes del puente de Todos los Santos; fuente AESAN.
+
+**Mejora aplicable:** título con número + negativo + «y por qué». (Hoy `yt_video.py` da 403 en la nube: sin «momentos más vistos».)
+
 ## 08/10/2026 (mañana)
 
 **Ejemplos que funcionan (datos públicos, 8/10/2026)**
