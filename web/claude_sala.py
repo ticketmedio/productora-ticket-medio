@@ -5,8 +5,9 @@ Uso:
   python claude_sala.py comentar ID "texto"    -> comentario de Claude en una tarea
   python claude_sala.py mensaje "texto"        -> mensaje de Claude en el Tablón
   python claude_sala.py estado ID ESTADO       -> pendiente | en_curso | hecho
-  python claude_sala.py informe AAAA-MM-DD "titular" ARCHIVO.md
-                                               -> informe del día en «Informes diarios» (si ya hay uno ese día, lo sustituye)
+  python claude_sala.py informe AAAA-MM-DD "titular" ARCHIVO.md [CLAVE]
+                                               -> informe en «Informes diarios». CLAVE: seo (por defecto) | mercado-manana |
+                                                  mercado-tarde. Si ya hay uno de esa fecha y clave, lo sustituye
 
 Antes de cada orden trae de GitHub lo que el usuario haya hecho en la Sala web (web/web_cambios.json,
 lo escribe GitHub Actions) y lo fusiona en datos.json.
@@ -131,13 +132,17 @@ def estado(tid, st):
     print("No existe la tarea", tid)
 
 
-def informe(fecha, titulo, archivo):
+CLAVES_INFORME = ("seo", "mercado-manana", "mercado-tarde")
+
+
+def informe(fecha, titulo, archivo, clave="seo"):
+    assert clave in CLAVES_INFORME, f"clave debe ser una de {CLAVES_INFORME}"
     datetime.date.fromisoformat(fecha)
     with open(archivo, encoding="utf-8") as f:
         texto = f.read().strip()
     d = load()
-    lista = [r for r in d.setdefault("informes", []) if r["fecha"] != fecha]
-    lista.append({"fecha": fecha, "titulo": titulo, "texto": texto, "createdAt": now()})
+    lista = [r for r in d.setdefault("informes", []) if not (r["fecha"] == fecha and r.get("clave", "seo") == clave)]
+    lista.append({"fecha": fecha, "clave": clave, "titulo": titulo, "texto": texto, "createdAt": now()})
     d["informes"] = sorted(lista, key=lambda r: r["fecha"], reverse=True)
     save(d)
     print("ok")
@@ -167,4 +172,4 @@ if __name__ == "__main__":
     elif cmd == "estado":
         estado(sys.argv[2], sys.argv[3])
     elif cmd == "informe":
-        informe(sys.argv[2], sys.argv[3], sys.argv[4])
+        informe(sys.argv[2], sys.argv[3], sys.argv[4], *(sys.argv[5:6]))

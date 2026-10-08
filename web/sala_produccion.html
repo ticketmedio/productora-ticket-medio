@@ -121,6 +121,8 @@ header.top{display:flex;flex-wrap:wrap;align-items:flex-end;justify-content:spac
 .msg p{margin:0;white-space:pre-wrap;overflow-wrap:anywhere;font-size:14px}
 .reports{margin-top:18px}
 .reports .vitem summary{align-items:center}
+.reports .rtag{font-size:11px;font-weight:600;letter-spacing:.03em;text-transform:uppercase;border-radius:999px;padding:2px 8px;background:var(--claude-soft);color:var(--claude);white-space:nowrap;flex:none}
+.reports .rtag.mercado{background:var(--tu-soft);color:var(--tu)}
 .reports .rdate{font-family:var(--mono);font-size:12px;color:var(--muted);white-space:nowrap;flex:none;min-width:92px}
 .reports .rtitle{font-weight:600;font-size:15px;line-height:1.35;overflow-wrap:anywhere}
 .reports .rbody{padding:0 14px 14px;font-size:14.5px;line-height:1.6;overflow-wrap:anywhere;border-top:1px solid var(--line);margin:0 14px;padding:12px 0 4px}
@@ -312,7 +314,7 @@ img{max-width:100%}
 
   <section class="panel reports" id="reports">
     <h2>Informes diarios</h2>
-    <p class="sub">El informe de cada día laborable: cifras de YouTube, Facebook, Instagram y TikTok, qué funciona, la recomendación y la idea del día. Pulsa uno para leerlo.</p>
+    <p class="sub">El informe SEO de cada día (cifras, qué funciona y la recomendación) y las dos investigaciones de mercado diarias, de mañana y de tarde (qué está funcionando en YouTube, Instagram, Facebook y TikTok, ideas para nosotros y plan B). Pulsa uno para leerlo.</p>
     <div class="vlist" id="reportlist"></div>
     <div class="rmore" id="rmore" hidden><button class="btn" type="button" id="rmorebtn">Ver informes anteriores</button></div>
   </section>
@@ -554,22 +556,26 @@ img{max-width:100%}
     return box;
   }
   var openReports={};
+  var CLAVES_INFORME={seo:{n:'Informe SEO',o:2,t:'seo'},'mercado-manana':{n:'Investigación · mañana',o:1,t:'mercado'},'mercado-tarde':{n:'Investigación · tarde',o:0,t:'mercado'}};
+  function claveInfo(r){return CLAVES_INFORME[r.clave||'seo']||{n:r.clave,o:9,t:'seo'};}
   function longDate(s){var d=parse(s);return DAYS[(d.getDay()+6)%7].slice(0,3)+' '+d.getDate()+' '+MONTHS[d.getMonth()];}
   function renderReports(){
     var box=$('reportlist'),list=state.reports;
     if(!state.loaded){box.replaceChildren(el('p',{class:'empty',text:'Cargando…'}));return;}
-    if(!list.length){box.replaceChildren(el('p',{class:'empty',text:'Aún no hay informes. El primero sale tras la rutina de las 9:00.'}));$('rmore').hidden=true;return;}
+    if(!list.length){box.replaceChildren(el('p',{class:'empty',text:'Aún no hay informes. El primero sale tras la rutina de las 8:00.'}));$('rmore').hidden=true;return;}
     var shown=state.reportsAll?list:list.slice(0,10);
     $('rmore').hidden=shown.length>=list.length;
-    if(list.length&&openReports._first===undefined){openReports[list[0].fecha]=true;openReports._first=true;}
+    if(list.length&&openReports._first===undefined){openReports[list[0].fecha+'|'+(list[0].clave||'seo')]=true;openReports._first=true;}
     box.replaceChildren.apply(box,shown.map(function(r){
+      var k=r.fecha+'|'+(r.clave||'seo'),ci=claveInfo(r);
       var det=el('details',{class:'vitem'},
         el('summary',null,el('span',{class:'rdate',text:longDate(r.fecha)}),
+          el('span',{class:'rtag '+ci.t,text:ci.n}),
           el('span',{class:'rtitle',text:r.titulo||'Informe del día'}),
           el('span',{class:'chev','aria-hidden':'true',text:'›'})),
         reportBody(r.texto));
-      if(openReports[r.fecha])det.open=true;
-      det.addEventListener('toggle',function(){if(det.open)openReports[r.fecha]=true;else delete openReports[r.fecha];});
+      if(openReports[k])det.open=true;
+      det.addEventListener('toggle',function(){if(det.open)openReports[k]=true;else delete openReports[k];});
       return det;
     }));
   }
@@ -743,7 +749,7 @@ img{max-width:100%}
     lastRaw=raw;var d=JSON.parse(raw);
     state.tasks=(d.tareas||[]).map(normalize);
     state.roadmap=d.hojaDeRuta||null;
-    state.reports=(d.informes||[]).filter(function(r){return r&&/^\d{4}-\d{2}-\d{2}$/.test(r.fecha);}).sort(function(a,b){return b.fecha.localeCompare(a.fecha);});
+    state.reports=(d.informes||[]).filter(function(r){return r&&/^\d{4}-\d{2}-\d{2}$/.test(r.fecha);}).sort(function(a,b){return b.fecha.localeCompare(a.fecha)||((CLAVES_INFORME[a.clave||'seo']||{o:9}).o-(CLAVES_INFORME[b.clave||'seo']||{o:9}).o);});
     state.msgs=(d.mensajes||[]).slice().sort(function(a,b){return String(b.createdAt).localeCompare(String(a.createdAt));}).slice(0,80);
     state.loaded=true;setStatus(esWeb?WEB:'');render();
   }
