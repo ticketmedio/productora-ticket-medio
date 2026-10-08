@@ -1912,7 +1912,7 @@
     {
       "id": "pub-yt-11-comentario",
       "title": "Fijar el comentario con las fuentes del vídeo 11 (2 min)",
-      "date": "2026-12-07",
+      "date": "2026-12-09",
       "who": "tu",
       "kind": "publicacion",
       "project": "youtube",
@@ -1920,9 +1920,16 @@
         "YouTube"
       ],
       "notes": "Abre el vídeo ya publicado (studio.youtube.com → «Contenido» → título → «Ver en YouTube»), pega como comentario el texto de Descargas › faceless › archivo › video_0XX… › COMENTARIO_FIJADO.txt, publícalo y en sus tres puntos → «Fijar».\n\nLISTA DE COMPROBACIÓN (redes/LISTA_COMPROBACION.md), en CADA publicación antes de pasar a la siguiente:\n  ☐ Texto pegado entero (no vacío ni cortado)\n  ☐ Hashtags: 5 como máximo\n  ☐ Fecha y hora correctas (ojo al MES en Meta; que la hora no se quede en la actual)\n  ☐ Cuenta y archivo correctos (Pepa Pita o Ticket Medio; en TikTok, el archivo con TIKTOK en el nombre si lo hay)",
-      "updatedAt": "2026-09-30T12:55:22.000Z",
+      "updatedAt": "2026-10-08T17:56:11.000Z",
       "status": "pendiente",
-      "comentarios": [],
+      "comentarios": [
+        {
+          "id": "c-fest-pub-yt-11-comentario",
+          "author": "claude",
+          "text": "Movida del 7/12 al 9/12: el 7 es puente y el 8 es festivo (Inmaculada).",
+          "createdAt": "2026-10-08T17:56:11.000Z"
+        }
+      ],
       "createdAt": "2026-09-28T13:02:28.000Z",
       "createdBy": "claude"
     },
@@ -1944,15 +1951,22 @@
     {
       "id": "u-fondos-v12",
       "title": "Solo si te lo pido: escenarios en Gemini para el vídeo 12 (15 min)",
-      "date": "2026-12-07",
+      "date": "2026-12-09",
       "who": "tu",
       "kind": "material",
       "project": "youtube",
       "platforms": [],
       "notes": "Si el vídeo necesita escenarios nuevos, te dejo aquí los textos para Gemini el día anterior. Si no hay textos, no hay que hacer nada.",
-      "updatedAt": "2026-09-28T13:02:28.000Z",
+      "updatedAt": "2026-10-08T17:56:11.000Z",
       "status": "pendiente",
-      "comentarios": [],
+      "comentarios": [
+        {
+          "id": "c-fest-u-fondos-v12",
+          "author": "claude",
+          "text": "Movida del 7/12 al 9/12: el 7 es puente y el 8 es festivo (Inmaculada).",
+          "createdAt": "2026-10-08T17:56:11.000Z"
+        }
+      ],
       "createdAt": "2026-09-28T13:02:28.000Z",
       "createdBy": "claude"
     },
