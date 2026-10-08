@@ -2,6 +2,19 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 08/10/2026 (mañana)
+
+**Ejemplos que funcionan (datos públicos, 8/10/2026)**
+- qash (18,8 mil suscriptores): «La máquina de dinero de Amancio Ortega, explicada», 435 mil (hace 3 sem.); «Si EEUU es el país más poderoso, por qué no puede contra Irán», 148 mil (hace 3 d).
+- Demand Lab (2,45 mil): «¿Cuánto le queda a El Corte Inglés?» 202 mil; «¿Qué pasó con Telepizza?» 90 mil.
+
+**Ideas**
+1. **Vídeo largo — «La máquina de dinero de Zara, con el ticket de una camiseta»**: mismo imán (Inditex) con enfoque de mecanismo, no «cómo gana dinero» (esos hacen 0–135).
+2. **Reel de Pepa — «¿Se pueden comer castañas asadas blandas?»**: temporada de Todos los Santos; verificar con AESAN.
+3. **Carrusel de Pepa — «Qué congelar y qué no tras el puente»**: lista corta; fuente AESAN.
+
+**Mejora aplicable:** título en forma de paradoja o pregunta (qash, Demand Lab) y un dato fuerte en los primeros 30 s.
+
 ## 05/10/2026
 
 **Ejemplos que funcionan (datos públicos, 5/10/2026)**
