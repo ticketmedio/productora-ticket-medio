@@ -100,6 +100,8 @@ if __name__ == "__main__":
                        {"part": "snippet,contentDetails", "id": ",".join(f["video"] for f in filas)})
             nombres = {i["id"]: {"titulo": i["snippet"]["title"], "publicado": i["snippet"]["publishedAt"][:10],
                                  "duracion": i["contentDetails"]["duration"]} for i in info.get("items", [])} if "items" in info else {}
+            if "items" not in info:
+                print("AVISO: no se pudieron leer los títulos (¿YouTube Data API v3 habilitada en el proyecto de Google Cloud?): " + str(info)[:300], file=sys.stderr)
             for f in filas:
                 f.update(nombres.get(f["video"], {}))
         print(json.dumps(filas, ensure_ascii=False, indent=1))
