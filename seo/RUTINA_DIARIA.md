@@ -1,6 +1,6 @@
-# Rutina SEO diaria de Claude (la lanza sola una tarea programada de Windows, de lunes a viernes a las 9:00)
+# Rutina SEO diaria de Claude (la lanza sola una tarea programada de Windows, todos los días a las 8:00, también fines de semana y festivos)
 
-> **PARADA desde el 5/10/2026 por decisión del usuario.** La tarea de Windows está desactivada. No ejecutar salvo que el usuario lo pida.
+> **REACTIVADA el 8/10/2026 por decisión del usuario:** informe todos los días a las 8:00, anotado en la Sala (paso 5 bis). Estuvo parada del 5 al 8/10. Si el PC estaba apagado a las 8:00, se ejecuta al encenderlo (StartWhenAvailable) y los reintentos cubren los fallos de arranque.
 
 Trabajas sin nadie delante. Todo en ESPAÑOL DE ESPAÑA. Lee antes seo/00_ESTRATEGIA_SEO.md (sobre todo las líneas rojas).
 

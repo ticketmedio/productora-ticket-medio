@@ -1,5 +1,5 @@
 @echo off
-rem Rutina SEO diaria de Claude. La lanza la tarea programada "Claude SEO diario" (lunes a viernes, 9:00).
+rem Rutina SEO diaria de Claude. La lanza la tarea programada "Claude SEO diario" (todos los días, 8:00).
 rem Usa el modelo Sonnet (30/09) para no gastar la cuota de la mañana del usuario.
 rem Para quitarla: Programador de tareas de Windows > "Claude SEO diario" > Eliminar.
 cd /d "%~dp0.."
