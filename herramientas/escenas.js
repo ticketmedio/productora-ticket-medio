@@ -29,11 +29,15 @@ function navegador() {
       if (fs.existsSync(exe)) return exe;
     }
   }
+  for (const p of ['/Applications/Google Chrome.app/Contents/MacOS/Google Chrome',
+                   '/Applications/Microsoft Edge.app/Contents/MacOS/Microsoft Edge']) {
+    if (fs.existsSync(p)) return p;
+  }
   return 'C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe';
 }
 function ffmpegPath() {
   const base = path.join(process.env.LOCALAPPDATA || '', 'Microsoft', 'WinGet', 'Packages');
-  for (const d of fs.readdirSync(base)) {
+  for (const d of fs.existsSync(base) ? fs.readdirSync(base) : []) {
     if (!d.startsWith('Gyan.FFmpeg')) continue;
     for (const sub of fs.readdirSync(path.join(base, d))) {
       const p = path.join(base, d, sub, 'bin', 'ffmpeg.exe');
@@ -44,7 +48,7 @@ function ffmpegPath() {
 }
 const FF = ffmpegPath();
 const FFPROBE = FF.replace(/ffmpeg(\.exe)?$/i, 'ffprobe$1');
-const url = (p) => 'file:///' + p.replace(/\\/g, '/');
+const url = (p) => (p.startsWith('/') ? 'file://' : 'file:///') + p.replace(/\\/g, '/');
 
 // ---------- SRT y anclajes ----------
 function leerSRT(ruta) {

@@ -14,7 +14,7 @@ const puppeteer = require('puppeteer-core');
 
 const RAIZ = path.resolve(__dirname, '..');
 const PERFIL = path.join(RAIZ, 'privado', 'perfil_navegador');
-const EDGE = 'C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe';
+const EDGE = ['/Applications/Google Chrome.app/Contents/MacOS/Google Chrome', 'C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe'].find((p) => fs.existsSync(p)) || 'C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe';
 const hoy = new Date().toISOString().slice(0, 10);
 const SALIDA = path.join(RAIZ, 'privado', 'estadisticas', hoy);
 
