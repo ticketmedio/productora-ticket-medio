@@ -2168,7 +2168,14 @@
       "notes": "Depende de c-pepa-ganchos (mismo día). Si ninguna variante cumple, NO se produce el lote: se hacen 2 Reels de prueba con otras variantes. Temas: Caducidad y consumo preferente · Congelar en raciones · El táper del trabajo · Huevos: talla y código · Marisco congelado · Descongelar el pavo. Los largos (jueves) salen de los temas con más contenido. Datos verificados en fuentes oficiales; requisitos de monetización comprobados (apartados 7 y 9 de la estrategia SEO).",
       "updatedAt": "2026-10-08T18:29:51.558Z",
       "status": "en_curso",
-      "comentarios": [],
+      "comentarios": [
+        {
+          "id": "c-202952427495",
+          "author": "claude",
+          "text": "8/10: el usuario pide tener TODO producido hasta el 15/12 para programarlo poco a poco. Se produce ya (5 Reels a la semana, lunes a viernes, desde el 26/10). Los arranques A/B/C se rotan igual que en 013–018 y, si el 9/11 gana uno con claridad, se vuelven a renderizar los que falten con el ganador (cambiar el campo «gancho» y renderizar de nuevo es barato).",
+          "createdAt": "2026-10-08T18:29:52.427Z"
+        }
+      ],
       "createdAt": "2026-09-28T13:02:28.000Z",
       "createdBy": "claude"
     },
