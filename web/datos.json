@@ -2466,14 +2466,20 @@
       "status": "pendiente",
       "createdBy": "claude",
       "createdAt": "2026-10-08T10:04:39.980Z",
-      "updatedAt": "2026-10-08T10:04:39.980Z",
-      "notes": "Las dos investigaciones diarias de la nube (7:00 y 20:00) ya están creadas, pero en la prueba de hoy fallaron en dos cosas. Sin esto no funcionan, y son las que te dejan el informe en el móvil aunque el ordenador esté apagado.\n\nPASO 1 · Que la nube pueda ESCRIBIR en el proyecto (error 403 al subir):\n1. Abre https://github.com/apps/claude/installations/select_target\n2. Tienes que estar en GitHub con la cuenta «ticketmedio». Si te sale tu cuenta personal u otra, cierra sesión en GitHub y entra con ticketmedio.\n3. Elige la cuenta «ticketmedio» → «Only select repositories» → productora-ticket-medio → «Install» (o «Save» si ya está instalada).\n4. Si te pide aceptar permisos de lectura y escritura del contenido, acepta.\n\nPASO 2 · Que la nube pueda LEER YouTube (la red de la nube lo bloquea):\n1. Abre https://claude.ai/code\n2. Junto a la caja donde se elige el entorno, abre los ajustes del entorno «Default» (icono de rueda o lápiz).\n3. Busca «Acceso a la red» / «Network access». Elige la opción de lista personalizada («Custom») y añade: youtube.com, www.youtube.com, i.ytimg.com (cada uno en su línea). Si solo hay «Limitado» o «Completo», elige «Completo».\n4. Guarda.\n\nCuando termines, escribe aquí «hecho» y yo repito la prueba. Si algún paso no sale como lo cuento, sube una captura de lo que veas.",
+      "updatedAt": "2026-10-08T10:19:51.985Z",
+      "notes": "Las dos investigaciones diarias de la nube (7:00 y 20:00) ya están creadas, pero en la prueba de hoy fallaron en dos cosas. Sin esto no funcionan, y son las que te dejan el informe en el móvil aunque el ordenador esté apagado.\n\nPASO 1 · Que la nube pueda ESCRIBIR en el proyecto (error 403 al subir):\n1. Abre https://github.com/apps/claude/installations/select_target\n2. Tienes que estar en GitHub con la cuenta «ticketmedio». Si te sale tu cuenta personal u otra, cierra sesión en GitHub y entra con ticketmedio.\n3. Elige la cuenta «ticketmedio» → «Only select repositories» → productora-ticket-medio → «Install» (o «Save» si ya está instalada).\n4. Si te pide aceptar permisos de lectura y escritura del contenido, acepta.\n\nPASO 2 · Que la nube pueda LEER YouTube (la red de la nube lo bloquea; según la documentación oficial, youtube.com no está en la lista permitida por defecto):\n1. Abre https://claude.ai/code\n2. Justo encima de la caja donde se escribe el mensaje hay una fila de iconos. Pulsa el icono de la NUBE, el que muestra el nombre del entorno («Default»). Si no ves la caja del mensaje, reduce el zoom del navegador con Ctrl y el signo menos.\n3. En el menú que se abre, ve a la sección «Cloud» (Nube) y pasa el ratón por encima de «Default»: aparece un icono de rueda (ajustes). Púlsalo → se abre «Edit environment» (Editar entorno).\n4. En «Network access» (Acceso a la red) elige «Custom» (personalizado) y añade estos dominios, uno por línea: youtube.com, www.youtube.com, i.ytimg.com, oauth2.googleapis.com, www.googleapis.com, youtubeanalytics.googleapis.com. Deja marcada la opción de incluir también la lista por defecto, si aparece. (Si no te deja o no encuentras «Custom», elige «Full».)\n5. Guarda.\n\nCuando termines, escribe aquí «hecho» y yo repito la prueba. Si algún paso no sale como lo cuento, sube una captura de lo que veas.",
       "comentarios": [
         {
           "id": "c-120439980152",
           "author": "claude",
           "text": "Resultado de la prueba de las 12:00: la nube hizo la investigación (sin inventar datos) y escribió el informe, pero GitHub rechazó la subida (403) y YouTube estaba bloqueado. Por eso aún no ves ese informe en la Sala. Con estos dos pasos queda resuelto.",
           "createdAt": "2026-10-08T10:04:39.980Z"
+        },
+        {
+          "id": "c-121951985337",
+          "author": "claude",
+          "text": "Corregido el paso 2 con el camino exacto según la documentación oficial (icono de la nube encima de la caja de mensaje → Cloud → rueda de «Default» → Edit environment → Network access). Añadí también los dominios de las API de Google, que hacen falta después para la tarea de la API de YouTube.",
+          "createdAt": "2026-10-08T10:19:51.985Z"
         }
       ]
     },
