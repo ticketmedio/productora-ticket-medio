@@ -1,0 +1,230 @@
+{
+ "formato": "vertical",
+ "fondos": "../../fondos",
+ "musica": "../../audio/musica.mp3",
+ "musica_db": -26,
+ "cola": 1.5,
+ "salida": "../../output/SHORT_06_tiendas.mp4",
+ "escenas": [
+  {
+   "id": "a",
+   "desde": "¿Cuántas tiendas ha cerrado",
+   "fondo": "grandes_almacenes",
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 60,
+     "y": 360,
+     "w": 960,
+     "h": 640
+    },
+    {
+     "tipo": "texto",
+     "texto": "MENOS TIENDAS",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "Grandes almacenes",
+     "x": 540,
+     "y": 520,
+     "tam": 60,
+     "fuente": "mano",
+     "t": 0.3
+    },
+    {
+     "tipo": "mascota",
+     "pose": "preocupado",
+     "x": 880,
+     "y": 1310,
+     "h": 380,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "b",
+   "desde": "En dos mil dieciocho tenía noventa y tres",
+   "fondo": "#F4E9D0",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "MENOS TIENDAS",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "2018",
+     "x": 540,
+     "y": 420,
+     "tam": 100,
+     "color": "#E0521B",
+     "t": 0.1
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 93,
+     "x": 540,
+     "y": 620,
+     "tam": 170,
+     "color": "#2E8B57",
+     "en": "noventa y tres"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Hoy",
+     "x": 540,
+     "y": 840,
+     "tam": 100,
+     "color": "#E0521B",
+     "en": "Hoy, setenta y dos"
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 72,
+     "x": 540,
+     "y": 1040,
+     "tam": 170,
+     "color": "#E0521B",
+     "en": "setenta y dos"
+    },
+    {
+     "tipo": "sello",
+     "texto": "21 MENOS",
+     "x": 540,
+     "y": 1250,
+     "tam": 80,
+     "en": "Hoy, setenta y dos"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "sorprendido",
+     "x": 880,
+     "y": 1310,
+     "h": 280,
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "c",
+   "desde": "Y la plantilla ha bajado",
+   "fondo": "#E3E7EC",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "MENOS TIENDAS",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "La plantilla",
+     "x": 540,
+     "y": 560,
+     "tam": 84,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "90.000 → menos de 82.000",
+     "x": 540,
+     "y": 760,
+     "tam": 58,
+     "fuente": "mano",
+     "en": "noventa mil personas"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "preocupado",
+     "x": 880,
+     "y": 1310,
+     "h": 300,
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "d",
+   "desde": "La segunda: las ventas",
+   "fondo": "#FFF3C4",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "MENOS VENTAS",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "Frente a 2007",
+     "x": 540,
+     "y": 450,
+     "tam": 58,
+     "fuente": "mano",
+     "t": 0.1
+    },
+    {
+     "tipo": "texto",
+     "texto": "−3.000 M€",
+     "x": 540,
+     "y": 660,
+     "tam": 120,
+     "color": "#E0521B",
+     "anim": "pop",
+     "en": "tres mil millones"
+    },
+    {
+     "tipo": "texto",
+     "texto": "−17 %",
+     "x": 540,
+     "y": 900,
+     "tam": 160,
+     "color": "#E0521B",
+     "anim": "pop",
+     "en": "diecisiete por ciento"
+    },
+    {
+     "tipo": "texto",
+     "texto": "sin descontar la inflación",
+     "x": 540,
+     "y": 1060,
+     "tam": 52,
+     "fuente": "mano",
+     "en": "sin descontar la inflación"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "pensativo",
+     "x": 880,
+     "y": 1310,
+     "h": 260,
+     "t": 0.2
+    }
+   ]
+  }
+ ]
+}

@@ -1,6 +1,6 @@
 """Prepara los Shorts de un vídeo largo: recorta la voz en pausas naturales y crea sus subtítulos.
 
-Uso: python herramientas/shorts_prep.py CARPETA_VIDEO
+Uso: python herramientas/shorts_prep.py CARPETA_VIDEO [ID ...]   (con IDs, solo prepara esos Shorts y no toca los demás)
 Lee CARPETA_VIDEO/shorts.json:
   {"shorts": [{"id": "01", "tramos": [["frase inicial", "frase final"], ...]}, ...]}
 Crea CARPETA_VIDEO/shorts/short_ID/audio/voz.mp3 y subtitulos.srt (listos para escenas.js en vertical).
@@ -10,6 +10,7 @@ from comun import FFMPEG
 
 sys.stdout.reconfigure(encoding="utf-8")
 V = os.path.abspath(sys.argv[1])
+SOLO = set(sys.argv[2:])
 VOZ = os.path.join(V, "audio", "voz.mp3")
 
 
@@ -58,6 +59,8 @@ def frase(trozo, desde=0):
 
 cfg = json.load(open(os.path.join(V, "shorts.json"), encoding="utf-8"))
 for sh in cfg["shorts"]:
+    if SOLO and sh["id"] not in SOLO:
+        continue
     d = os.path.join(V, "shorts", f"short_{sh['id']}", "audio")
     os.makedirs(d, exist_ok=True)
     partes, subs, t_acum = [], [], 0.0

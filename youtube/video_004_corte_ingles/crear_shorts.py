@@ -76,6 +76,94 @@ shorts = {
      txt("Mercadona: 4 c · Zara: 13 c", 920, 60, en="Mercadona se quedaba"),
      masc("sorprendido", 880, 300, t=0.2)]},
  ]},
+ "04": {"salida": "../../output/SHORT_04_pandemia.mp4", "escenas": [
+   {"id": "a", "desde": "¿Cuánto perdió El Corte Inglés", "fondo": "grandes_almacenes", "zoom": [1.0, 1.08], "capas": [
+     panel(640), cab("LA PANDEMIA"),
+     mano("Año 2020: tiendas cerradas", 500, 56, t=0.3),
+     txt("Ventas: −1/3", 760, 96, color="#E0521B", anim="pop", en="Con las tiendas cerradas"),
+     masc("preocupado", 880, 380, entra="der", t=0.2)]},
+   {"id": "b", "desde": "Y, según la prensa, perdió", "fondo": "#F4E9D0", "capas": [
+     cab("LA PANDEMIA"),
+     mano("Pérdida de aquel año", 450, 56, t=0.1),
+     {"tipo": "cifra", "hasta": 2945, "sufijo": " M€", "x": 540, "y": 640, "tam": 140, "color": "#E0521B", "en": "dos mil novecientos cuarenta y cinco"},
+     sello("LA MAYOR DE SU HISTORIA", 880, 54, en="La mayor pérdida de su historia"),
+     masc("sorprendido", 880, 320, t=0.2)]},
+   {"id": "c", "desde": "Ahí es cuando todo el mundo", "fondo": "#E3E7EC", "capas": [
+     cab("LA PANDEMIA"),
+     txt("¿Cuánto le quedaba?", 560, 92, color="#E0521B", anim="pop", t=0.2),
+     mano("La respuesta, en el vídeo completo", 780, 52, t=0.9),
+     masc("pensativo", 880, 360, t=0.2)]},
+ ]},
+ "05": {"salida": "../../output/SHORT_05_vendio.mp4", "escenas": [
+   {"id": "a", "desde": "¿Qué ha vendido El Corte Inglés", "fondo": "oficina_financiera", "zoom": [1.0, 1.08], "capas": [
+     panel(640), cab("SE DESHIZO DE TODO"),
+     mano("Para pagar la deuda…", 500, 58, t=0.3),
+     masc("pensativo", 880, 380, entra="der", t=0.2)]},
+   {"id": "b", "desde": "Vendió Óptica dos mil", "fondo": "#E6E0F5", "capas": [
+     cab("SE DESHIZO DE TODO"),
+     txt("Óptica 2000", 450, 90, color="#E0521B", t=0.1),
+     txt("Informática\nEl Corte Inglés", 700, 80, en="Vendió Informática"),
+     masc("encoge_hombros", 880, 330, t=0.2)]},
+   {"id": "c", "desde": "Y en dos mil veintidós, Mutua", "fondo": "#F4E9D0", "capas": [
+     cab("SE DESHIZO DE TODO"),
+     txt("2022", 430, 110, color="#E0521B", anim="pop", t=0.1),
+     mano("Mutua Madrileña le paga", 600, 56, en="Mutua Madrileña le pagó"),
+     {"tipo": "cifra", "hasta": 1105, "sufijo": " M€", "x": 540, "y": 790, "tam": 140, "color": "#2E8B57", "en": "mil ciento cinco millones"},
+     mano("por la mitad de seguros\ny el 8 % de la empresa", 980, 50, papel=True, en="por la mitad de su negocio"),
+     masc("contento", 880, 300, t=0.2)]},
+ ]},
+ "06": {"salida": "../../output/SHORT_06_tiendas.mp4", "escenas": [
+   {"id": "a", "desde": "¿Cuántas tiendas ha cerrado", "fondo": "grandes_almacenes", "zoom": [1.0, 1.08], "capas": [
+     panel(640), cab("MENOS TIENDAS"),
+     mano("Grandes almacenes", 520, 60, t=0.3),
+     masc("preocupado", 880, 380, entra="der", t=0.2)]},
+   {"id": "b", "desde": "En dos mil dieciocho tenía noventa y tres", "fondo": "#F4E9D0", "capas": [
+     cab("MENOS TIENDAS"),
+     txt("2018", 420, 100, color="#E0521B", t=0.1),
+     {"tipo": "cifra", "hasta": 93, "x": 540, "y": 620, "tam": 170, "color": "#2E8B57", "en": "noventa y tres"},
+     txt("Hoy", 840, 100, color="#E0521B", en="Hoy, setenta y dos"),
+     {"tipo": "cifra", "hasta": 72, "x": 540, "y": 1040, "tam": 170, "color": "#E0521B", "en": "setenta y dos"},
+     sello("21 MENOS", 1250, 80, en="Hoy, setenta y dos"),
+     masc("sorprendido", 880, 280, t=0.2)]},
+   {"id": "c", "desde": "Y la plantilla ha bajado", "fondo": "#E3E7EC", "capas": [
+     cab("MENOS TIENDAS"),
+     txt("La plantilla", 560, 84, t=0.2),
+     mano("90.000 → menos de 82.000", 760, 58, en="noventa mil personas"),
+     masc("preocupado", 880, 300, t=0.2)]},
+   {"id": "d", "desde": "La segunda: las ventas", "fondo": "#FFF3C4", "capas": [
+     cab("MENOS VENTAS"),
+     mano("Frente a 2007", 450, 58, t=0.1),
+     txt("−3.000 M€", 660, 120, color="#E0521B", anim="pop", en="tres mil millones"),
+     txt("−17 %", 900, 160, color="#E0521B", anim="pop", en="diecisiete por ciento"),
+     mano("sin descontar la inflación", 1060, 52, en="sin descontar la inflación"),
+     masc("pensativo", 880, 260, t=0.2)]},
+ ]},
+ "07": {"salida": "../../output/SHORT_07_fundacion.mp4", "escenas": [
+   {"id": "a", "desde": "¿Sabes quién manda de verdad", "fondo": "fachada", "zoom": [1.0, 1.08], "capas": [
+     panel(640), cab("¿QUIÉN MANDA?"),
+     mano("No es una familia\nni un fondo", 540, 60, t=0.5),
+     masc("pensativo", 880, 380, entra="der", t=0.2)]},
+   {"id": "b", "desde": "Es una fundación, la Fundación Ramón Areces", "fondo": "#E6E0F5", "capas": [
+     cab("¿QUIÉN MANDA?"),
+     sello("FUNDACIÓN RAMÓN ARECES", 430, 50, t=0.1),
+     mano("dedica su dinero a la\ninvestigación científica", 650, 54, en="que dedica su dinero"),
+     masc("contento", 880, 340, t=0.2)]},
+   {"id": "c", "desde": "Tiene el cuarenta por ciento", "fondo": "#F4E9D0", "capas": [
+     cab("¿QUIÉN MANDA?"),
+     rect(110, 470, 700, 100, "#E0521B", texto="Fundación 40 %", tam=44, t=0.1, dur=0.7),
+     rect(110, 620, 315, 100, "#F5B301", en="Otro dieciocho por ciento", dur=0.6),
+     txt("Hermanas Álvarez 18 %", 670, 44, x=450, ancla="izq", en="Otro dieciocho por ciento"),
+     rect(110, 770, 140, 100, "#9CC5E8", en="Mutua Madrileña tiene", dur=0.5),
+     txt("Mutua Madrileña 8 %", 820, 44, x=275, ancla="izq", en="Mutua Madrileña tiene"),
+     rect(110, 920, 96, 100, "#8FD18F", en="Y un jeque de Catar", dur=0.5),
+     txt("Jeque de Catar ≈ 5,5 %", 970, 44, x=230, ancla="izq", en="Y un jeque de Catar"),
+     masc("encoge_hombros", 940, 260, t=0.2)]},
+   {"id": "d", "desde": "El Corte Inglés no cotiza en bolsa", "fondo": "#E3E7EC", "capas": [
+     cab("¿QUIÉN MANDA?"),
+     sello("NO COTIZA EN BOLSA", 600, 64, t=0.2),
+     mano("Nadie puede comprar sus\nacciones en el mercado", 820, 52, t=1.0),
+     masc("sorprendido", 880, 340, t=0.2)]},
+ ]},
 }
 for n, s in shorts.items():
     d = os.path.join(V, "shorts", f"short_{n}")

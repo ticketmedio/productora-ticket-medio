@@ -1,0 +1,15 @@
+1
+00:00:00,150 --> 00:00:02,926
+¿Qué ha vendido El Corte Inglés para no hundirse?
+
+2
+00:00:03,264 --> 00:00:04,832
+Vendió Óptica dos mil.
+
+3
+00:00:04,832 --> 00:00:07,326
+Vendió Informática El Corte Inglés.
+
+4
+00:00:07,326 --> 00:00:18,657
+Y en dos mil veintidós, Mutua Madrileña le pagó mil ciento cinco millones: por la mitad de su negocio de seguros y por el ocho por ciento de la propia empresa.

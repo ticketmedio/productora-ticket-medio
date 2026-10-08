@@ -1,0 +1,162 @@
+{
+ "formato": "vertical",
+ "fondos": "../../fondos",
+ "musica": "../../audio/musica.mp3",
+ "musica_db": -26,
+ "cola": 1.5,
+ "salida": "../../output/SHORT_05_vendio.mp4",
+ "escenas": [
+  {
+   "id": "a",
+   "desde": "¿Qué ha vendido El Corte Inglés",
+   "fondo": "oficina_financiera",
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 60,
+     "y": 360,
+     "w": 960,
+     "h": 640
+    },
+    {
+     "tipo": "texto",
+     "texto": "SE DESHIZO DE TODO",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "Para pagar la deuda…",
+     "x": 540,
+     "y": 500,
+     "tam": 58,
+     "fuente": "mano",
+     "t": 0.3
+    },
+    {
+     "tipo": "mascota",
+     "pose": "pensativo",
+     "x": 880,
+     "y": 1310,
+     "h": 380,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "b",
+   "desde": "Vendió Óptica dos mil",
+   "fondo": "#E6E0F5",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "SE DESHIZO DE TODO",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "Óptica 2000",
+     "x": 540,
+     "y": 450,
+     "tam": 90,
+     "color": "#E0521B",
+     "t": 0.1
+    },
+    {
+     "tipo": "texto",
+     "texto": "Informática\nEl Corte Inglés",
+     "x": 540,
+     "y": 700,
+     "tam": 80,
+     "en": "Vendió Informática"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "encoge_hombros",
+     "x": 880,
+     "y": 1310,
+     "h": 330,
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "c",
+   "desde": "Y en dos mil veintidós, Mutua",
+   "fondo": "#F4E9D0",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "SE DESHIZO DE TODO",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "2022",
+     "x": 540,
+     "y": 430,
+     "tam": 110,
+     "color": "#E0521B",
+     "anim": "pop",
+     "t": 0.1
+    },
+    {
+     "tipo": "texto",
+     "texto": "Mutua Madrileña le paga",
+     "x": 540,
+     "y": 600,
+     "tam": 56,
+     "fuente": "mano",
+     "en": "Mutua Madrileña le pagó"
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 1105,
+     "sufijo": " M€",
+     "x": 540,
+     "y": 790,
+     "tam": 140,
+     "color": "#2E8B57",
+     "en": "mil ciento cinco millones"
+    },
+    {
+     "tipo": "texto",
+     "texto": "por la mitad de seguros\ny el 8 % de la empresa",
+     "x": 540,
+     "y": 980,
+     "tam": 50,
+     "fuente": "mano",
+     "papel": true,
+     "en": "por la mitad de su negocio"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "contento",
+     "x": 880,
+     "y": 1310,
+     "h": 300,
+     "t": 0.2
+    }
+   ]
+  }
+ ]
+}

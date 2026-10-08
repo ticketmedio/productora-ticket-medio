@@ -44,6 +44,50 @@
     ]
    ],
    "intro": "¿Por qué Zara gana trece céntimos por euro y El Corte Inglés, solo tres y medio?"
+  },
+  {
+   "id": "04",
+   "titulo": "¿Cuánto perdió El Corte Inglés en un solo año?",
+   "tramos": [
+    [
+     "Y luego, la pandemia",
+     "cuánto le quedaba"
+    ]
+   ],
+   "intro": "¿Cuánto perdió El Corte Inglés en un solo año?"
+  },
+  {
+   "id": "05",
+   "titulo": "Lo que vendió El Corte Inglés para no hundirse",
+   "tramos": [
+    [
+     "La segunda pieza es vender",
+     "ocho por ciento de la propia empresa"
+    ]
+   ],
+   "intro": "¿Qué ha vendido El Corte Inglés para no hundirse?"
+  },
+  {
+   "id": "06",
+   "titulo": "El Corte Inglés ha cerrado 21 grandes almacenes",
+   "tramos": [
+    [
+     "La primera sombra: las tiendas",
+     "sin descontar la inflación"
+    ]
+   ],
+   "intro": "¿Cuántas tiendas ha cerrado El Corte Inglés?"
+  },
+  {
+   "id": "07",
+   "titulo": "¿Quién manda en El Corte Inglés? Una fundación",
+   "tramos": [
+    [
+     "Y aquí va el primer dato curioso",
+     "no cotiza en bolsa"
+    ]
+   ],
+   "intro": "¿Sabes quién manda de verdad en El Corte Inglés? No es una familia ni un fondo."
   }
  ],
  "nota": "«intro» = primera frase nueva de cada Short: se añade con python herramientas/short_intro.py shorts/short_ID \"frase\" DESPUÉS de shorts_prep.py y ANTES de escenas.js (las escenas se anclan a sus palabras)."

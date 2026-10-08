@@ -1,0 +1,234 @@
+{
+ "formato": "vertical",
+ "fondos": "../../fondos",
+ "musica": "../../audio/musica.mp3",
+ "musica_db": -26,
+ "cola": 1.5,
+ "salida": "../../output/SHORT_07_fundacion.mp4",
+ "escenas": [
+  {
+   "id": "a",
+   "desde": "¿Sabes quién manda de verdad",
+   "fondo": "fachada",
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 60,
+     "y": 360,
+     "w": 960,
+     "h": 640
+    },
+    {
+     "tipo": "texto",
+     "texto": "¿QUIÉN MANDA?",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "No es una familia\nni un fondo",
+     "x": 540,
+     "y": 540,
+     "tam": 60,
+     "fuente": "mano",
+     "t": 0.5
+    },
+    {
+     "tipo": "mascota",
+     "pose": "pensativo",
+     "x": 880,
+     "y": 1310,
+     "h": 380,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "b",
+   "desde": "Es una fundación, la Fundación Ramón Areces",
+   "fondo": "#E6E0F5",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "¿QUIÉN MANDA?",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "sello",
+     "texto": "FUNDACIÓN RAMÓN ARECES",
+     "x": 540,
+     "y": 430,
+     "tam": 50,
+     "t": 0.1
+    },
+    {
+     "tipo": "texto",
+     "texto": "dedica su dinero a la\ninvestigación científica",
+     "x": 540,
+     "y": 650,
+     "tam": 54,
+     "fuente": "mano",
+     "en": "que dedica su dinero"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "contento",
+     "x": 880,
+     "y": 1310,
+     "h": 340,
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "c",
+   "desde": "Tiene el cuarenta por ciento",
+   "fondo": "#F4E9D0",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "¿QUIÉN MANDA?",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "rect",
+     "x": 110,
+     "y": 470,
+     "w": 700,
+     "h": 100,
+     "color": "#E0521B",
+     "texto": "Fundación 40 %",
+     "tam": 44,
+     "t": 0.1,
+     "dur": 0.7
+    },
+    {
+     "tipo": "rect",
+     "x": 110,
+     "y": 620,
+     "w": 315,
+     "h": 100,
+     "color": "#F5B301",
+     "en": "Otro dieciocho por ciento",
+     "dur": 0.6
+    },
+    {
+     "tipo": "texto",
+     "texto": "Hermanas Álvarez 18 %",
+     "x": 450,
+     "y": 670,
+     "tam": 44,
+     "ancla": "izq",
+     "en": "Otro dieciocho por ciento"
+    },
+    {
+     "tipo": "rect",
+     "x": 110,
+     "y": 770,
+     "w": 140,
+     "h": 100,
+     "color": "#9CC5E8",
+     "en": "Mutua Madrileña tiene",
+     "dur": 0.5
+    },
+    {
+     "tipo": "texto",
+     "texto": "Mutua Madrileña 8 %",
+     "x": 275,
+     "y": 820,
+     "tam": 44,
+     "ancla": "izq",
+     "en": "Mutua Madrileña tiene"
+    },
+    {
+     "tipo": "rect",
+     "x": 110,
+     "y": 920,
+     "w": 96,
+     "h": 100,
+     "color": "#8FD18F",
+     "en": "Y un jeque de Catar",
+     "dur": 0.5
+    },
+    {
+     "tipo": "texto",
+     "texto": "Jeque de Catar ≈ 5,5 %",
+     "x": 230,
+     "y": 970,
+     "tam": 44,
+     "ancla": "izq",
+     "en": "Y un jeque de Catar"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "encoge_hombros",
+     "x": 940,
+     "y": 1310,
+     "h": 260,
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "d",
+   "desde": "El Corte Inglés no cotiza en bolsa",
+   "fondo": "#E3E7EC",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "¿QUIÉN MANDA?",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "sello",
+     "texto": "NO COTIZA EN BOLSA",
+     "x": 540,
+     "y": 600,
+     "tam": 64,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "Nadie puede comprar sus\nacciones en el mercado",
+     "x": 540,
+     "y": 820,
+     "tam": 52,
+     "fuente": "mano",
+     "t": 1.0
+    },
+    {
+     "tipo": "mascota",
+     "pose": "sorprendido",
+     "x": 880,
+     "y": 1310,
+     "h": 340,
+     "t": 0.2
+    }
+   ]
+  }
+ ]
+}

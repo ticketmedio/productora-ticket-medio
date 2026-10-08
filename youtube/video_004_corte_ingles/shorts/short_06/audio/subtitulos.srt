@@ -1,0 +1,31 @@
+1
+00:00:00,150 --> 00:00:02,557
+¿Cuántas tiendas ha cerrado El Corte Inglés?
+
+2
+00:00:03,661 --> 00:00:08,270
+En dos mil dieciocho tenía noventa y tres grandes almacenes.
+
+3
+00:00:08,270 --> 00:00:09,730
+Hoy, setenta y dos.
+
+4
+00:00:09,730 --> 00:00:10,959
+Veintiuno menos.
+
+5
+00:00:10,959 --> 00:00:16,951
+Y la plantilla ha bajado de noventa mil personas a menos de ochenta y dos mil.
+
+6
+00:00:17,301 --> 00:00:19,025
+La segunda: las ventas.
+
+7
+00:00:19,025 --> 00:00:23,675
+Hoy factura unos tres mil millones menos que en dos mil siete.
+
+8
+00:00:23,675 --> 00:00:28,549
+Un diecisiete por ciento menos, y eso sin descontar la inflación.
