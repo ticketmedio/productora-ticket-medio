@@ -1443,6 +1443,12 @@
           "author": "claude",
           "text": "El vídeo 4 está terminado desde el 29/09, pero se perdieron los archivos pesados (voz y MP4) con el incidente de la carpeta. Los estoy volviendo a generar hoy (8/10) con la misma voz. Te aviso aquí cuando estén en la carpeta output. Con la voz nueva cambian unos segundos de duración y rehago los capítulos de la descripción y los subtítulos para que cuadren. Tú no tienes que hacer nada hasta que te avise.",
           "createdAt": "2026-10-08T09:35:01.505Z"
+        },
+        {
+          "id": "c-130141915996",
+          "author": "claude",
+          "text": "LISTO el vídeo 4 (8/10, 13:05). En Descargas › faceless › youtube › video_004_corte_ingles › output: FINAL_YOUTUBE_1080P.mp4 (10:32, −14,1 LUFS), SHORT_01_el_jeque.mp4 (38 s), SHORT_02_su_propio_casero.mp4 (38 s), SHORT_03_zara_13_eci_3.mp4 (44 s), MINIATURA_1280x720.png, 06_SUBTITULOS.srt (nuevo, con los tiempos de la voz nueva), 07_TITULOS.md, 08_DESCRIPCION.txt (capítulos rehechos), SHORTS_TEXTOS.txt y COMENTARIO_FIJADO.txt. Como la voz nueva dura 7 s menos que la primera, usa SOLO estos archivos. Revisados fotogramas y volumen. Puedes verlo, subirlo y programarlo cuando quieras (sale el viernes 16/10 a las 18:00; los Shorts 17, 19 y 21/10 a las 13:00). Acuérdate del paso 4: enlazar cada Short al vídeo largo con «Vídeo relacionado» cuando el largo ya esté publicado.",
+          "createdAt": "2026-10-08T11:01:41.916Z"
         }
       ],
       "createdAt": "2026-09-28T13:02:28.000Z",

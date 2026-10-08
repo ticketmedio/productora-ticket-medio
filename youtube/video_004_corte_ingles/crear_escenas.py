@@ -79,7 +79,7 @@ escena("05", "Y aquí va el primer dato curioso", "#E6E0F5", [
               ("8 % · Mutua Madrileña", "#9CC5E8", "Mutua Madrileña tiene"),
               ("≈ 5,5 % · jeque de Catar (prensa)", "#8FD18F", "Y un jeque de Catar"),
               ("resto y acciones propias", "#D9D2C0", "Y un jeque de Catar")], x=850, y0=330, paso=95, tam=46),
-    sello("NO COTIZA EN BOLSA", 1210, 880, 50, en="no cotiza en bolsa"),
+    sello("NO COTIZA EN BOLSA", 1210, 880, 50, en="según la prensa"),
 ], fuente=CUENTAS + " (nota 15); Mutua (2022); participación del jeque: prensa")
 
 # ── EL VIAJE DE TU EURO ────────────────────────────────

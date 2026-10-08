@@ -1,10 +1,50 @@
 {
  "shorts": [
-  {"id": "01", "titulo": "El jeque que prestó 1.000 millones a El Corte Inglés",
-   "tramos": [["Y la cuarta pieza es un personaje", "Y en dos mil veintidós, El Corte"], ["Y la cuarta: el jeque todavía", "dos mil treinta y uno y dos mil"]]},
-  {"id": "02", "titulo": "El Corte Inglés casi no paga alquiler: es su propio casero",
-   "tramos": [["Cuarta parada: el local", "Sus inmuebles están tasados"], ["Su deuda hoy es", "Eso tranquiliza mucho"]]},
-  {"id": "03", "titulo": "Zara gana 13 céntimos por euro; El Corte Inglés, 3,5",
-   "tramos": [["Y aquí está la primera clave", "Zara se queda con un cincuenta"], ["Y lo que queda, al final", "Para que te hagas una idea"]]}
- ]
+  {
+   "id": "01",
+   "titulo": "El jeque que prestó 1.000 millones a El Corte Inglés",
+   "tramos": [
+    [
+     "Y la cuarta pieza es un personaje",
+     "Y en dos mil veintidós, El Corte"
+    ],
+    [
+     "Y la cuarta: el jeque todavía",
+     "dos mil treinta y uno y dos mil"
+    ]
+   ],
+   "intro": "Un jeque de Catar tiene un as en la manga contra El Corte Inglés."
+  },
+  {
+   "id": "02",
+   "titulo": "El Corte Inglés casi no paga alquiler: es su propio casero",
+   "tramos": [
+    [
+     "Cuarta parada: el local",
+     "Sus inmuebles están tasados"
+    ],
+    [
+     "Su deuda hoy es",
+     "Eso tranquiliza mucho"
+    ]
+   ],
+   "intro": "El Corte Inglés casi no paga alquiler, y la razón es muy curiosa."
+  },
+  {
+   "id": "03",
+   "titulo": "Zara gana 13 céntimos por euro; El Corte Inglés, 3,5",
+   "tramos": [
+    [
+     "Y aquí está la primera clave",
+     "Zara se queda con un cincuenta"
+    ],
+    [
+     "Y lo que queda, al final",
+     "Para que te hagas una idea"
+    ]
+   ],
+   "intro": "¿Por qué Zara gana trece céntimos por euro y El Corte Inglés, solo tres y medio?"
+  }
+ ],
+ "nota": "«intro» = primera frase nueva de cada Short: se añade con python herramientas/short_intro.py shorts/short_ID \"frase\" DESPUÉS de shorts_prep.py y ANTES de escenas.js (las escenas se anclan a sus palabras)."
 }

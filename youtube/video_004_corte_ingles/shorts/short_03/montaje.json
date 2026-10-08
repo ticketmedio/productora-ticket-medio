@@ -9,19 +9,19 @@
  "escenas": [
   {
    "archivo": "clips/s_a.mp4",
-   "duracion": 4.784
+   "duracion": 5.168
   },
   {
    "archivo": "clips/s_b.mp4",
-   "duracion": 12.278
+   "duracion": 13.39
   },
   {
    "archivo": "clips/s_c.mp4",
-   "duracion": 11.38
+   "duracion": 12.36
   },
   {
    "archivo": "clips/s_d.mp4",
-   "duracion": 13.804
+   "duracion": 13.286
   }
  ],
  "salida_final": "../../output/SHORT_03_zara_13_eci_3.mp4"

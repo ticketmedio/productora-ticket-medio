@@ -1,91 +1,99 @@
 1
-00:00:00,150 --> 00:00:01,470
+00:00:00,150 --> 00:00:01,229
 El Corte Inglés casi
 
 2
-00:00:01,470 --> 00:00:02,791
-no paga alquiler.
+00:00:01,229 --> 00:00:02,308
+no paga alquiler, y
 
 3
-00:00:02,446 --> 00:00:03,484
-Y aquí viene la
+00:00:02,308 --> 00:00:03,386
+la razón es muy
 
 4
-00:00:03,484 --> 00:00:04,522
-sorpresa.
+00:00:03,386 --> 00:00:04,465
+curiosa.
 
 5
-00:00:04,522 --> 00:00:06,320
-En alquileres, El Corte
+00:00:04,181 --> 00:00:05,248
+Y aquí viene la
 
 6
-00:00:06,320 --> 00:00:08,119
-Inglés paga menos de
+00:00:05,248 --> 00:00:06,314
+sorpresa.
 
 7
-00:00:08,119 --> 00:00:09,918
-un céntimo por euro.
+00:00:06,314 --> 00:00:08,163
+En alquileres, El Corte
 
 8
-00:00:09,918 --> 00:00:11,164
-Zara paga seis.
+00:00:08,163 --> 00:00:10,011
+Inglés paga menos de
 
 9
-00:00:11,164 --> 00:00:11,911
-¿Por qué?
+00:00:10,011 --> 00:00:11,860
+un céntimo por euro.
 
 10
-00:00:11,911 --> 00:00:13,654
-Porque casi todos sus
+00:00:11,860 --> 00:00:13,140
+Zara paga seis.
 
 11
-00:00:13,654 --> 00:00:15,398
-edificios son suyos.
+00:00:13,140 --> 00:00:13,908
+¿Por qué?
 
 12
-00:00:15,398 --> 00:00:17,203
-Sus inmuebles están tasados
+00:00:13,908 --> 00:00:15,700
+Porque casi todos sus
 
 13
-00:00:17,203 --> 00:00:19,009
-en quince mil seiscientos
+00:00:15,700 --> 00:00:17,491
+edificios son suyos.
 
 14
-00:00:19,009 --> 00:00:20,815
-sesenta y seis millones
+00:00:17,491 --> 00:00:19,347
+Sus inmuebles están tasados
 
 15
-00:00:20,815 --> 00:00:22,621
-de euros.
+00:00:19,347 --> 00:00:21,203
+en quince mil seiscientos
 
 16
-00:00:22,763 --> 00:00:24,067
-Su deuda hoy es
+00:00:21,203 --> 00:00:23,058
+sesenta y seis millones
 
 17
-00:00:24,067 --> 00:00:25,371
-de mil seiscientos cuarenta
+00:00:23,058 --> 00:00:24,914
+de euros.
 
 18
-00:00:25,371 --> 00:00:26,676
-y ocho millones.
+00:00:25,033 --> 00:00:26,411
+Su deuda hoy es
 
 19
-00:00:26,676 --> 00:00:27,987
-O sea, sus edificios
+00:00:26,411 --> 00:00:27,789
+de mil seiscientos cuarenta
 
 20
-00:00:27,987 --> 00:00:29,299
-valen nueve veces y
+00:00:27,789 --> 00:00:29,167
+y ocho millones.
 
 21
-00:00:29,299 --> 00:00:30,611
-media lo que debe.
+00:00:29,167 --> 00:00:30,522
+O sea, sus edificios
 
 22
-00:00:30,611 --> 00:00:31,778
-Eso tranquiliza mucho a
+00:00:30,522 --> 00:00:31,876
+valen nueve veces y
 
 23
-00:00:31,778 --> 00:00:32,945
+00:00:31,876 --> 00:00:33,231
+media lo que debe.
+
+24
+00:00:33,231 --> 00:00:34,437
+Eso tranquiliza mucho a
+
+25
+00:00:34,437 --> 00:00:35,642
 los bancos.

@@ -9,15 +9,15 @@
  "escenas": [
   {
    "archivo": "clips/s_a.mp4",
-   "duracion": 10.506
+   "duracion": 10.789
   },
   {
    "archivo": "clips/s_b.mp4",
-   "duracion": 13.855
+   "duracion": 13.696
   },
   {
    "archivo": "clips/s_c.mp4",
-   "duracion": 13.378
+   "duracion": 13.501
   }
  ],
  "salida_final": "../../output/SHORT_01_el_jeque.mp4"

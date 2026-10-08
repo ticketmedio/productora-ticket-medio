@@ -3,10 +3,10 @@
 ## Archivos
 | Archivo | Comprobado |
 |---|---|
-| FINAL_YOUTUBE_1080P.mp4 | 1920×1080, 10:39, −14,0 LUFS |
-| SHORT_01_el_jeque.mp4 | 1080×1920, 37,8 s, subtítulos grabados |
-| SHORT_02_su_propio_casero.mp4 | 1080×1920, 35,4 s |
-| SHORT_03_zara_13_eci_3.mp4 | 1080×1920, 42,3 s |
+| FINAL_YOUTUBE_1080P.mp4 | 1920×1080, 10:32 (632,2 s), −14,1 LUFS |
+| SHORT_01_el_jeque.mp4 | 1080×1920, 38,0 s, −14,4 LUFS, subtítulos grabados |
+| SHORT_02_su_propio_casero.mp4 | 1080×1920, 38,2 s, −14,6 LUFS |
+| SHORT_03_zara_13_eci_3.mp4 | 1080×1920, 44,3 s, −14,2 LUFS |
 | MINIATURA_1280x720.png, 06_SUBTITULOS.srt, 07_TITULOS.md (con etiquetas), 08_DESCRIPCION.txt (14 capítulos), SHORTS_TEXTOS.txt, COMENTARIO_FIJADO.txt, 10_FUENTES.md | Sí |
 
 ## Título y enfoque
@@ -26,3 +26,6 @@ Todas las cifras del guion salen de INVESTIGACION.md, con cita literal de las cu
 
 ## Aportación propia (por si YouTube revisa el canal)
 Reparto propio de cada euro con la cuenta de resultados consolidada; guion, mascota, escenarios e ilustraciones propios; ningún clip de terceros.
+
+## Regeneración del 8/10/2026
+Los archivos pesados (voz y MP4) se perdieron con el incidente de la carpeta y se volvieron a generar con la misma voz (Tristan HD, −12 %) y la música «Way Back Home». Duración ahora 10:32 (antes 10:39): los capítulos de 08_DESCRIPCION.txt y 06_SUBTITULOS.srt se rehicieron con los tiempos nuevos. Escena 05: el sello «NO COTIZA EN BOLSA» se anclaba demasiado tarde con la voz nueva y se adelantó (aparece unos 5 s antes del cambio). Los ganchos de los 3 Shorts se reescribieron con las mismas palabras de anclaje de las escenas.

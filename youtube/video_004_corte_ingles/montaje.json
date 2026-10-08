@@ -9,135 +9,135 @@
  "escenas": [
   {
    "archivo": "clips/s_01.mp4",
-   "duracion": 19.797
+   "duracion": 20.457
   },
   {
    "archivo": "clips/s_02.mp4",
-   "duracion": 13.728
+   "duracion": 13.188
   },
   {
    "archivo": "clips/s_03.mp4",
-   "duracion": 17.734
+   "duracion": 15.469
   },
   {
    "archivo": "clips/s_04.mp4",
-   "duracion": 17.522
+   "duracion": 15.33
   },
   {
    "archivo": "clips/s_05.mp4",
-   "duracion": 33.12
+   "duracion": 32.486
   },
   {
    "archivo": "clips/s_06.mp4",
-   "duracion": 23.816
+   "duracion": 26.33
   },
   {
    "archivo": "clips/s_07.mp4",
-   "duracion": 22.575
+   "duracion": 21.564
   },
   {
    "archivo": "clips/s_08.mp4",
-   "duracion": 13.9
+   "duracion": 14.293
   },
   {
    "archivo": "clips/s_09.mp4",
-   "duracion": 26.849
+   "duracion": 29.248
   },
   {
    "archivo": "clips/s_10.mp4",
-   "duracion": 14.815
+   "duracion": 15.156
   },
   {
    "archivo": "clips/s_11.mp4",
-   "duracion": 25.59
+   "duracion": 26.288
   },
   {
    "archivo": "clips/s_12.mp4",
-   "duracion": 22.368
+   "duracion": 21.913
   },
   {
    "archivo": "clips/s_13.mp4",
-   "duracion": 23.403
+   "duracion": 23.711
   },
   {
    "archivo": "clips/s_14.mp4",
-   "duracion": 11.857
+   "duracion": 11.106
   },
   {
    "archivo": "clips/s_15.mp4",
-   "duracion": 10.89
+   "duracion": 10.222
   },
   {
    "archivo": "clips/s_16.mp4",
-   "duracion": 10.778
+   "duracion": 10.445
   },
   {
    "archivo": "clips/s_17.mp4",
-   "duracion": 21.509
+   "duracion": 22.24
   },
   {
    "archivo": "clips/s_18.mp4",
-   "duracion": 25.018
+   "duracion": 21.077
   },
   {
    "archivo": "clips/s_19.mp4",
-   "duracion": 21.72
+   "duracion": 21.32
   },
   {
    "archivo": "clips/s_20.mp4",
-   "duracion": 15.67
+   "duracion": 15.492
   },
   {
    "archivo": "clips/s_21.mp4",
-   "duracion": 7.932
+   "duracion": 8.129
   },
   {
    "archivo": "clips/s_22.mp4",
-   "duracion": 22.425
+   "duracion": 23.152
   },
   {
    "archivo": "clips/s_23.mp4",
-   "duracion": 19.612
+   "duracion": 19.805
   },
   {
    "archivo": "clips/s_24.mp4",
-   "duracion": 18.813
+   "duracion": 18.106
   },
   {
    "archivo": "clips/s_25.mp4",
-   "duracion": 23.54
+   "duracion": 23.249
   },
   {
    "archivo": "clips/s_26.mp4",
-   "duracion": 20.58
+   "duracion": 20.7
   },
   {
    "archivo": "clips/s_27.mp4",
-   "duracion": 20.115
+   "duracion": 19.92
   },
   {
    "archivo": "clips/s_28.mp4",
-   "duracion": 11.883
+   "duracion": 11.598
   },
   {
    "archivo": "clips/s_29.mp4",
-   "duracion": 23.073
+   "duracion": 23.022
   },
   {
    "archivo": "clips/s_30.mp4",
-   "duracion": 11.969
+   "duracion": 12.109
   },
   {
    "archivo": "clips/s_31.mp4",
-   "duracion": 31.945
+   "duracion": 30.02
   },
   {
    "archivo": "clips/s_32.mp4",
-   "duracion": 22.541
+   "duracion": 22.027
   },
   {
    "archivo": "clips/s_33.mp4",
-   "duracion": 11.882
+   "duracion": 13.023
   }
  ],
  "salida_final": "output/FINAL_YOUTUBE_1080P.mp4"

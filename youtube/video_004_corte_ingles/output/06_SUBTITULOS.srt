@@ -1,631 +1,631 @@
 1
-00:00:00,000 --> 00:00:03,351
+00:00:00,000 --> 00:00:03,464
 De cada euro que te gastas en El Corte Inglés,
 
 2
-00:00:03,351 --> 00:00:06,702
+00:00:03,464 --> 00:00:06,928
 la empresa se queda con tres céntimos y medio.
 
 3
-00:00:06,702 --> 00:00:07,650
+00:00:06,928 --> 00:00:07,907
 Tres y medio.
 
 4
-00:00:07,650 --> 00:00:11,438
+00:00:07,907 --> 00:00:11,823
 Hacienda, solo con el IVA, se lleva cinco veces más.
 
 5
-00:00:11,438 --> 00:00:19,597
+00:00:11,823 --> 00:00:20,257
 Y, aun así, El Corte Inglés acaba de tener su mejor año en mucho tiempo y la deuda más baja en casi veinte años.
 
 6
-00:00:19,947 --> 00:00:23,326
+00:00:20,607 --> 00:00:23,849
 Llevamos años oyendo que El Corte Inglés se hunde.
 
 7
-00:00:23,326 --> 00:00:27,042
+00:00:23,849 --> 00:00:27,415
 Hoy vamos a abrir su ticket, con sus cuentas oficiales,
 
 8
-00:00:27,042 --> 00:00:32,177
+00:00:27,415 --> 00:00:32,343
 para responder a una pregunta muy sencilla: si gana tan poco con cada venta,
 
 9
-00:00:32,177 --> 00:00:33,325
+00:00:32,343 --> 00:00:33,445
 ¿cómo sigue vivo?
 
 10
-00:00:33,675 --> 00:00:35,922
+00:00:33,795 --> 00:00:35,755
 Primero, las presentaciones.
 
 11
-00:00:35,922 --> 00:00:42,021
+00:00:35,755 --> 00:00:41,075
 El Corte Inglés tiene setenta grandes almacenes en España y dos en Portugal.
 
 12
-00:00:42,021 --> 00:00:45,872
+00:00:41,075 --> 00:00:44,435
 Además, treinta y cuatro hipermercados Hipercor,
 
 13
-00:00:45,872 --> 00:00:51,409
+00:00:44,435 --> 00:00:49,264
 supermercados, tiendas Sfera y unas cuatrocientas agencias de viajes.
 
 14
-00:00:51,409 --> 00:00:56,224
+00:00:49,264 --> 00:00:53,464
 Trabajan allí ochenta y un mil ochocientas treinta personas.
 
 15
-00:00:56,224 --> 00:01:00,236
+00:00:53,464 --> 00:00:56,964
 Y en su último año fiscal, que terminó en febrero,
 
 16
-00:01:00,236 --> 00:01:03,606
+00:00:56,964 --> 00:00:59,904
 facturó casi quince mil millones de euros.
 
 17
-00:01:03,606 --> 00:01:08,581
+00:00:59,904 --> 00:01:04,244
 Eso son unos cuatrocientos setenta y cinco euros cada segundo.
 
 18
-00:01:08,931 --> 00:01:14,825
+00:01:04,594 --> 00:01:10,374
 Y aquí va el primer dato curioso: su mayor accionista no es una familia ni un fondo.
 
 19
-00:01:14,825 --> 00:01:17,913
+00:01:10,374 --> 00:01:13,402
 Es una fundación, la Fundación Ramón Areces,
 
 20
-00:01:17,913 --> 00:01:21,492
+00:01:13,402 --> 00:01:16,911
 que dedica su dinero a la investigación científica.
 
 21
-00:01:21,492 --> 00:01:24,509
+00:01:16,911 --> 00:01:19,870
 Tiene el cuarenta por ciento de la empresa.
 
 22
-00:01:24,509 --> 00:01:29,281
+00:01:19,870 --> 00:01:24,550
 Otro dieciocho por ciento es de la sociedad de las hermanas Álvarez,
 
 23
-00:01:29,281 --> 00:01:32,508
+00:01:24,550 --> 00:01:27,715
 la familia que la ha dirigido durante décadas.
 
 24
-00:01:32,508 --> 00:01:34,614
+00:01:27,715 --> 00:01:29,780
 Mutua Madrileña tiene el ocho.
 
 25
-00:01:34,614 --> 00:01:39,245
+00:01:29,780 --> 00:01:34,322
 Y un jeque de Catar, alrededor del cinco y medio, según la prensa.
 
 26
-00:01:39,245 --> 00:01:41,701
+00:01:34,322 --> 00:01:36,730
 El Corte Inglés no cotiza en bolsa.
 
 27
-00:01:42,051 --> 00:01:43,378
+00:01:37,080 --> 00:01:38,549
 Vamos a lo nuestro.
 
 28
-00:01:43,378 --> 00:01:47,917
+00:01:38,549 --> 00:01:43,575
 Pongamos que te compras una camisa o un móvil en El Corte Inglés.
 
 29
-00:01:47,917 --> 00:01:53,016
+00:01:43,575 --> 00:01:49,220
 Y el aviso de siempre: la empresa no publica lo que cuesta cada producto.
 
 30
-00:01:53,016 --> 00:01:55,390
+00:01:49,220 --> 00:01:51,849
 Lo que sí publica son sus cuentas.
 
 31
-00:01:55,390 --> 00:02:00,279
+00:01:51,849 --> 00:01:57,261
 Así que vamos a repartir cada euro según lo que gasta el grupo entero.
 
 32
-00:02:00,279 --> 00:02:03,143
+00:01:57,261 --> 00:02:00,431
 Es una media, no la factura de tu camisa.
 
 33
-00:02:03,143 --> 00:02:05,517
+00:02:00,431 --> 00:02:03,060
 Pero el orden de magnitud es real.
 
 34
-00:02:05,867 --> 00:02:07,757
+00:02:03,410 --> 00:02:05,214
 Primera parada: Hacienda.
 
 35
-00:02:07,757 --> 00:02:12,444
+00:02:05,214 --> 00:02:09,688
 La ropa y la electrónica pagan el veintiuno por ciento de IVA.
 
 36
-00:02:12,444 --> 00:02:18,718
+00:02:09,688 --> 00:02:15,676
 Así que, de cada euro, unos diecisiete céntimos ni siquiera son de El Corte Inglés.
 
 37
-00:02:18,718 --> 00:02:20,457
+00:02:15,676 --> 00:02:17,336
 Van directos al Estado.
 
 38
-00:02:20,457 --> 00:02:24,690
+00:02:17,336 --> 00:02:21,377
 Si compras comida, el IVA suele ser del diez por ciento,
 
 39
-00:02:24,690 --> 00:02:28,092
+00:02:21,377 --> 00:02:24,624
 y en el pan, la leche o la fruta, del cuatro.
 
 40
-00:02:28,442 --> 00:02:32,119
+00:02:24,974 --> 00:02:28,757
 Segunda parada, y la más grande de lejos: el producto.
 
 41
-00:02:32,119 --> 00:02:40,153
+00:02:28,757 --> 00:02:37,025
 Cincuenta y cinco céntimos de cada euro sirven para pagar lo que compras a quien lo fabrica o a la marca que lo vende.
 
 42
-00:02:40,153 --> 00:02:41,992
+00:02:37,025 --> 00:02:38,917
 Más de la mitad de tu euro.
 
 43
-00:02:42,342 --> 00:02:45,537
+00:02:39,267 --> 00:02:42,751
 Y aquí está la primera clave de toda esta historia.
 
 44
-00:02:45,537 --> 00:02:53,869
+00:02:42,751 --> 00:02:51,837
 Zara, que vimos en el vídeo anterior, fabrica su propia ropa y por cada euro que le cuesta un producto lo vende por casi dos y medio.
 
 45
-00:02:53,869 --> 00:02:57,815
+00:02:51,837 --> 00:02:56,141
 El Corte Inglés, en cambio, revende sobre todo marcas de otros.
 
 46
-00:02:57,815 --> 00:03:01,323
+00:02:56,141 --> 00:02:59,967
 Por eso su margen es mucho más pequeño: de lo que vende,
 
 47
-00:03:01,323 --> 00:03:06,460
+00:02:59,967 --> 00:03:05,569
 sin contar el IVA, solo le queda un treinta y cuatro por ciento para pagarlo todo.
 
 48
-00:03:06,460 --> 00:03:08,841
+00:03:05,569 --> 00:03:08,165
 Zara se queda con un cincuenta y ocho.
 
 49
-00:03:09,191 --> 00:03:11,104
+00:03:08,515 --> 00:03:10,474
 Tercera parada: la gente.
 
 50
-00:03:11,104 --> 00:03:15,773
+00:03:10,474 --> 00:03:15,252
 Catorce céntimos de cada euro son sueldos y Seguridad Social.
 
 51
-00:03:15,773 --> 00:03:16,462
+00:03:15,252 --> 00:03:15,957
 Es mucho.
 
 52
-00:03:16,462 --> 00:03:20,365
+00:03:15,957 --> 00:03:19,953
 Un gran almacén necesita vendedores en cada planta,
 
 53
-00:03:20,365 --> 00:03:23,656
+00:03:19,953 --> 00:03:23,321
 y El Corte Inglés tiene más de ochenta mil.
 
 54
-00:03:24,006 --> 00:03:25,999
+00:03:23,671 --> 00:03:25,719
 Cuarta parada: el local.
 
 55
-00:03:25,999 --> 00:03:28,075
+00:03:25,719 --> 00:03:27,852
 Y aquí viene la sorpresa.
 
 56
-00:03:28,075 --> 00:03:33,471
+00:03:27,852 --> 00:03:33,398
 En alquileres, El Corte Inglés paga menos de un céntimo por euro.
 
 57
-00:03:33,471 --> 00:03:34,717
+00:03:33,398 --> 00:03:34,678
 Zara paga seis.
 
 58
-00:03:34,717 --> 00:03:35,464
+00:03:34,678 --> 00:03:35,446
 ¿Por qué?
 
 59
-00:03:35,464 --> 00:03:38,951
+00:03:35,446 --> 00:03:39,029
 Porque casi todos sus edificios son suyos.
 
 60
-00:03:38,951 --> 00:03:46,174
+00:03:39,029 --> 00:03:46,452
 Sus inmuebles están tasados en quince mil seiscientos sesenta y seis millones de euros.
 
 61
-00:03:46,174 --> 00:03:49,246
+00:03:46,452 --> 00:03:49,609
 Guárdate esa cifra, que vuelve luego.
 
 62
-00:03:49,596 --> 00:03:52,657
+00:03:49,959 --> 00:03:52,956
 Quinta parada: todo lo que no se ve.
 
 63
-00:03:52,657 --> 00:03:54,952
+00:03:52,956 --> 00:03:55,204
 Un céntimo va a publicidad.
 
 64
-00:03:54,952 --> 00:03:58,607
+00:03:55,204 --> 00:03:58,784
 Unos cinco, a la logística, la informática,
 
 65
-00:03:58,607 --> 00:04:05,238
+00:03:58,784 --> 00:04:05,278
 la seguridad, la luz, el transporte y las comisiones de cada pago con tarjeta.
 
 66
-00:04:05,238 --> 00:04:11,614
+00:04:05,278 --> 00:04:11,522
 Y otros dos son el desgaste de sus edificios, sus reformas y su tecnología.
 
 67
-00:04:11,964 --> 00:04:17,266
+00:04:11,872 --> 00:04:17,245
 Sexta parada: Hacienda, otra vez, con el impuesto sobre el beneficio.
 
 68
-00:04:17,266 --> 00:04:19,418
+00:04:17,245 --> 00:04:19,425
 Y los intereses de la deuda.
 
 69
-00:04:19,418 --> 00:04:22,799
+00:04:19,425 --> 00:04:22,851
 Entre los dos, menos de un céntimo este año.
 
 70
-00:04:22,799 --> 00:04:32,558
+00:04:22,851 --> 00:04:32,741
 Ojo: el impuesto ha salido especialmente bajo porque la empresa está usando créditos fiscales de los años en que perdió dinero.
 
 71
-00:04:32,558 --> 00:04:35,017
+00:04:32,741 --> 00:04:35,233
 En un año normal sería algo más.
 
 72
-00:04:35,367 --> 00:04:41,515
+00:04:35,583 --> 00:04:41,341
 Y lo que queda, al final, es esto: tres céntimos y medio de beneficio por cada euro.
 
 73
-00:04:41,515 --> 00:04:47,224
+00:04:41,341 --> 00:04:46,689
 Para que te hagas una idea, Mercadona se quedaba con cuatro, y Zara con trece.
 
 74
-00:04:47,224 --> 00:04:53,153
+00:04:46,689 --> 00:04:52,242
 De esos tres céntimos y medio, casi uno y medio se reparte entre los accionistas.
 
 75
-00:04:53,153 --> 00:04:57,764
+00:04:52,242 --> 00:04:56,561
 Y algo más de medio céntimo acaba en la Fundación Ramón Areces.
 
 76
-00:04:58,114 --> 00:05:00,169
+00:04:56,911 --> 00:04:58,900
 Así que ya ves el problema.
 
 77
-00:05:00,169 --> 00:05:05,725
+00:04:58,900 --> 00:05:04,279
 Con tres céntimos y medio por euro, cualquier tropiezo se nota muchísimo.
 
 78
-00:05:05,725 --> 00:05:08,085
+00:05:04,279 --> 00:05:06,563
 Y El Corte Inglés ha tropezado.
 
 79
-00:05:08,085 --> 00:05:08,542
+00:05:06,563 --> 00:05:07,006
 Mucho.
 
 80
-00:05:08,892 --> 00:05:11,836
+00:05:07,356 --> 00:05:10,402
 Pero antes, déjame contarte de dónde viene.
 
 81
-00:05:11,836 --> 00:05:17,999
+00:05:10,402 --> 00:05:16,778
 En mil ochocientos noventa, en Madrid, abre una pequeña sastrería llamada El Corte Inglés.
 
 82
-00:05:17,999 --> 00:05:21,697
+00:05:16,778 --> 00:05:20,603
 En mil novecientos treinta y cinco la compra un joven,
 
 83
-00:05:21,697 --> 00:05:25,326
+00:05:20,603 --> 00:05:24,358
 Ramón Areces, con el aval de su tío, César Rodríguez.
 
 84
-00:05:25,326 --> 00:05:28,476
+00:05:24,358 --> 00:05:27,617
 En mil novecientos cuarenta crean la sociedad.
 
 85
-00:05:28,476 --> 00:05:30,051
+00:05:27,617 --> 00:05:29,246
 Tenían siete empleados.
 
 86
-00:05:30,401 --> 00:05:34,361
+00:05:29,596 --> 00:05:32,924
 Luego llegaron las cosas que seguro que conoces.
 
 87
-00:05:34,361 --> 00:05:40,549
+00:05:32,924 --> 00:05:38,122
 En mil novecientos sesenta, el primer «Ya es primavera en El Corte Inglés».
 
 88
-00:05:40,549 --> 00:05:45,169
+00:05:38,122 --> 00:05:42,004
 En mil novecientos sesenta y seis, su tarjeta de compra.
 
 89
-00:05:45,169 --> 00:05:50,119
+00:05:42,004 --> 00:05:46,163
 Y en mil novecientos setenta y dos, por primera vez impreso,
 
 90
-00:05:50,119 --> 00:05:55,069
+00:05:46,163 --> 00:05:50,323
 el famoso «si no queda satisfecho, le devolvemos su dinero».
 
 91
-00:05:55,419 --> 00:05:57,465
+00:05:50,673 --> 00:05:52,680
 Durante décadas fue el rey.
 
 92
-00:05:57,465 --> 00:06:06,028
+00:05:52,680 --> 00:06:01,083
 Según la prensa, en dos mil siete vendió casi dieciocho mil millones de euros y ganó más de setecientos millones.
 
 93
-00:06:06,028 --> 00:06:08,377
+00:06:01,083 --> 00:06:03,389
 Nunca ha vuelto a vender tanto.
 
 94
-00:06:08,377 --> 00:06:12,545
+00:06:03,389 --> 00:06:07,478
 Llegó la crisis, bajaron las ventas, y la deuda se fue,
 
 95
-00:06:12,545 --> 00:06:16,789
+00:06:07,478 --> 00:06:11,643
 según la prensa, hasta unos cinco mil millones de euros.
 
 96
-00:06:17,139 --> 00:06:18,601
+00:06:11,993 --> 00:06:13,438
 Y luego, la pandemia.
 
 97
-00:06:18,601 --> 00:06:24,520
+00:06:13,438 --> 00:06:19,289
 Con las tiendas cerradas, en su año dos mil veinte las ventas cayeron casi un tercio.
 
 98
-00:06:24,520 --> 00:06:30,231
+00:06:19,289 --> 00:06:24,933
 Y, según la prensa, perdió dos mil novecientos cuarenta y cinco millones de euros.
 
 99
-00:06:30,231 --> 00:06:32,459
+00:06:24,933 --> 00:06:27,135
 La mayor pérdida de su historia.
 
 100
-00:06:32,809 --> 00:06:37,078
+00:06:27,485 --> 00:06:31,865
 Ahí es cuando todo el mundo empezó a preguntarse cuánto le quedaba.
 
 101
-00:06:37,078 --> 00:06:40,391
+00:06:31,865 --> 00:06:35,264
 Y ahora viene lo interesante: cómo ha salido de ahí.
 
 102
-00:06:40,741 --> 00:06:43,075
+00:06:35,614 --> 00:06:38,025
 La primera pieza son los edificios.
 
 103
-00:06:43,075 --> 00:06:47,744
+00:06:38,025 --> 00:06:42,847
 Recuerda: quince mil seiscientos sesenta y seis millones en inmuebles.
 
 104
-00:06:47,744 --> 00:06:51,745
+00:06:42,847 --> 00:06:46,981
 Su deuda hoy es de mil seiscientos cuarenta y ocho millones.
 
 105
-00:06:51,745 --> 00:06:55,680
+00:06:46,981 --> 00:06:51,045
 O sea, sus edificios valen nueve veces y media lo que debe.
 
 106
-00:06:55,680 --> 00:06:58,014
+00:06:51,045 --> 00:06:53,456
 Eso tranquiliza mucho a los bancos.
 
 107
-00:06:58,014 --> 00:07:02,816
+00:06:53,456 --> 00:06:58,416
 Y también le ha permitido vender alguno cuando le ha hecho falta dinero.
 
 108
-00:07:03,166 --> 00:07:07,188
+00:06:58,766 --> 00:07:02,828
 La segunda pieza es vender lo que no era el gran almacén.
 
 109
-00:07:07,188 --> 00:07:08,740
+00:07:02,828 --> 00:07:04,396
 Vendió Óptica dos mil.
 
 110
-00:07:08,740 --> 00:07:11,209
+00:07:04,396 --> 00:07:06,890
 Vendió Informática El Corte Inglés.
 
 111
-00:07:11,209 --> 00:07:22,428
+00:07:06,890 --> 00:07:18,221
 Y en dos mil veintidós, Mutua Madrileña le pagó mil ciento cinco millones: por la mitad de su negocio de seguros y por el ocho por ciento de la propia empresa.
 
 112
-00:07:22,778 --> 00:07:26,498
+00:07:18,571 --> 00:07:22,149
 La tercera pieza es el dinero que no se ve en la caja.
 
 113
-00:07:26,498 --> 00:07:29,667
+00:07:22,149 --> 00:07:25,197
 Sigue teniendo casi la mitad de su financiera,
 
 114
-00:07:29,667 --> 00:07:34,834
+00:07:25,197 --> 00:07:30,166
 la de la tarjeta, que tiene once millones setecientas mil tarjetas activas.
 
 115
-00:07:34,834 --> 00:07:36,970
+00:07:30,166 --> 00:07:32,220
 Y casi la mitad de sus seguros.
 
 116
-00:07:36,970 --> 00:07:41,241
+00:07:32,220 --> 00:07:36,327
 Entre las dos, le aportan uno de cada diez euros de beneficio.
 
 117
-00:07:41,591 --> 00:07:44,725
+00:07:36,677 --> 00:07:39,772
 Y la cuarta pieza es un personaje inesperado.
 
 118
-00:07:44,725 --> 00:07:49,042
+00:07:39,772 --> 00:07:44,035
 En dos mil quince, un jeque catarí, Hamad bin Jassim Al Thani,
 
 119
-00:07:49,042 --> 00:07:51,271
+00:07:44,035 --> 00:07:46,236
 le prestó mil millones de euros.
 
 120
-00:07:51,271 --> 00:07:57,539
+00:07:46,236 --> 00:07:52,425
 En dos mil dieciocho se los cobró en acciones: algo más del diez por ciento de la empresa.
 
 121
-00:07:57,539 --> 00:08:04,781
+00:07:52,425 --> 00:07:59,576
 Y en dos mil veintidós, El Corte Inglés le recompró la mitad por cuatrocientos ochenta y cinco millones.
 
 122
-00:08:05,131 --> 00:08:11,449
+00:07:59,926 --> 00:08:06,282
 Con todo eso, la deuda ha bajado de unos cinco mil millones a mil seiscientos cuarenta y ocho.
 
 123
-00:08:11,449 --> 00:08:15,481
+00:08:06,282 --> 00:08:10,338
 El año pasado ganó seiscientos veintiocho millones de euros.
 
 124
-00:08:15,481 --> 00:08:20,858
+00:08:10,338 --> 00:08:15,747
 Y las dos grandes agencias de calificación le dan el llamado grado de inversión,
 
 125
-00:08:20,858 --> 00:08:25,361
+00:08:15,747 --> 00:08:20,276
 que consiguió por primera vez en su historia en dos mil veintitrés.
 
 126
-00:08:25,711 --> 00:08:29,237
+00:08:20,626 --> 00:08:24,175
 Ahora bien, esto no significa que todo vaya bien.
 
 127
-00:08:29,587 --> 00:08:32,002
+00:08:24,525 --> 00:08:26,906
 La primera sombra: las tiendas.
 
 128
-00:08:32,002 --> 00:08:36,675
+00:08:26,906 --> 00:08:31,515
 En dos mil dieciocho tenía noventa y tres grandes almacenes.
 
 129
-00:08:36,675 --> 00:08:38,155
+00:08:31,515 --> 00:08:32,975
 Hoy, setenta y dos.
 
 130
-00:08:38,155 --> 00:08:39,401
+00:08:32,975 --> 00:08:34,204
 Veintiuno menos.
 
 131
-00:08:39,401 --> 00:08:45,476
+00:08:34,204 --> 00:08:40,196
 Y la plantilla ha bajado de noventa mil personas a menos de ochenta y dos mil.
 
 132
-00:08:45,826 --> 00:08:47,594
+00:08:40,546 --> 00:08:42,270
 La segunda: las ventas.
 
 133
-00:08:47,594 --> 00:08:52,361
+00:08:42,270 --> 00:08:46,920
 Hoy factura unos tres mil millones menos que en dos mil siete.
 
 134
-00:08:52,361 --> 00:08:57,359
+00:08:46,920 --> 00:08:51,794
 Un diecisiete por ciento menos, y eso sin descontar la inflación.
 
 135
-00:08:57,709 --> 00:08:59,214
+00:08:52,144 --> 00:08:53,646
 La tercera: internet.
 
 136
-00:08:59,214 --> 00:09:07,744
+00:08:53,646 --> 00:09:02,157
 La última vez que dijo qué parte vendía en línea fue en dos mil veintiuno: el doce por ciento de sus grandes almacenes.
 
 137
-00:09:07,744 --> 00:09:12,762
+00:09:02,157 --> 00:09:07,163
 Desde entonces solo publica visitas y clientes registrados, no ventas.
 
 138
-00:09:12,762 --> 00:09:19,429
+00:09:07,163 --> 00:09:13,815
 Mientras, el comercio electrónico en España creció más de un veinte por ciento el año pasado,
 
 139
-00:09:19,429 --> 00:09:20,432
+00:09:13,815 --> 00:09:14,816
 según la CNMC.
 
 140
-00:09:20,782 --> 00:09:25,714
+00:09:15,166 --> 00:09:20,157
 Y la cuarta: el jeque todavía puede pedirle que le recompre sus acciones.
 
 141
-00:09:25,714 --> 00:09:29,091
+00:09:20,157 --> 00:09:23,575
 Tiene ventanas para hacerlo en dos mil veintiocho,
 
 142
-00:09:29,091 --> 00:09:32,401
+00:09:23,575 --> 00:09:26,925
 dos mil treinta y uno y dos mil treinta y cuatro.
 
 143
-00:09:32,751 --> 00:09:40,087
+00:09:27,275 --> 00:09:34,164
 Así que, la próxima vez que pagues un euro en El Corte Inglés por una camisa o un móvil,
 
 144
-00:09:40,087 --> 00:09:41,671
+00:09:34,164 --> 00:09:35,651
 piensa en su viaje.
 
 145
-00:09:41,671 --> 00:09:44,589
+00:09:35,651 --> 00:09:38,391
 Diecisiete céntimos, para Hacienda.
 
 146
-00:09:44,589 --> 00:09:48,757
+00:09:38,391 --> 00:09:42,306
 Cincuenta y cinco, para quien fabrica el producto.
 
 147
-00:09:48,757 --> 00:09:51,008
+00:09:42,306 --> 00:09:44,419
 Catorce, para la plantilla.
 
 148
-00:09:51,008 --> 00:09:55,593
+00:09:44,419 --> 00:09:48,725
 Menos de uno, para el alquiler, porque la casa es suya.
 
 149
-00:09:55,593 --> 00:10:01,261
+00:09:48,725 --> 00:09:54,048
 Casi nueve, para la publicidad, la logística, la luz y las reformas.
 
 150
-00:10:01,261 --> 00:10:04,346
+00:09:54,048 --> 00:09:56,945
 Y tres céntimos y medio de beneficio.
 
 151
-00:10:04,696 --> 00:10:08,172
+00:09:57,295 --> 00:10:00,691
 El Corte Inglés no gana dinero por vender caro.
 
 152
-00:10:08,172 --> 00:10:12,019
+00:10:00,691 --> 00:10:04,448
 Sigue vivo porque es dueño de sus propios edificios,
 
 153
-00:10:12,019 --> 00:10:15,717
+00:10:04,448 --> 00:10:08,061
 porque ha vendido todo lo que le sobraba y porque,
 
 154
-00:10:15,717 --> 00:10:19,268
+00:10:08,061 --> 00:10:11,530
 céntimo a céntimo, ha pagado casi toda su deuda.
 
 155
-00:10:19,268 --> 00:10:22,005
+00:10:11,530 --> 00:10:14,203
 La pregunta ya no es cuánto le queda.
 
 156
-00:10:22,005 --> 00:10:26,887
+00:10:14,203 --> 00:10:18,972
 Es si tres céntimos por euro bastan para los próximos veinte años.
 
 157
-00:10:27,237 --> 00:10:31,369
+00:10:19,322 --> 00:10:24,016
 Aquí, cada semana, abrimos el ticket de algo que pagas todos los días.
 
 158
-00:10:31,369 --> 00:10:35,619
+00:10:24,016 --> 00:10:28,845
 Si quieres saber cuál es el siguiente, ya sabes lo que tienes que hacer.
