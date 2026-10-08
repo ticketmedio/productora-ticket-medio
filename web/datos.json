@@ -2452,6 +2452,30 @@
           "createdAt": "2026-10-01T10:56:04.727Z"
         }
       ]
+    },
+    {
+      "who": "tu",
+      "kind": "tarea",
+      "project": "redes",
+      "platforms": [
+        "Facebook"
+      ],
+      "id": "u-nube-permisos",
+      "title": "Dar permiso a la nube para escribir en la Sala y leer YouTube (10 min, desde el ordenador o el móvil)",
+      "date": "2026-10-08",
+      "status": "pendiente",
+      "createdBy": "claude",
+      "createdAt": "2026-10-08T10:04:39.980Z",
+      "updatedAt": "2026-10-08T10:04:39.980Z",
+      "notes": "Las dos investigaciones diarias de la nube (7:00 y 20:00) ya están creadas, pero en la prueba de hoy fallaron en dos cosas. Sin esto no funcionan, y son las que te dejan el informe en el móvil aunque el ordenador esté apagado.\n\nPASO 1 · Que la nube pueda ESCRIBIR en el proyecto (error 403 al subir):\n1. Abre https://github.com/apps/claude/installations/select_target\n2. Tienes que estar en GitHub con la cuenta «ticketmedio». Si te sale tu cuenta personal u otra, cierra sesión en GitHub y entra con ticketmedio.\n3. Elige la cuenta «ticketmedio» → «Only select repositories» → productora-ticket-medio → «Install» (o «Save» si ya está instalada).\n4. Si te pide aceptar permisos de lectura y escritura del contenido, acepta.\n\nPASO 2 · Que la nube pueda LEER YouTube (la red de la nube lo bloquea):\n1. Abre https://claude.ai/code\n2. Junto a la caja donde se elige el entorno, abre los ajustes del entorno «Default» (icono de rueda o lápiz).\n3. Busca «Acceso a la red» / «Network access». Elige la opción de lista personalizada («Custom») y añade: youtube.com, www.youtube.com, i.ytimg.com (cada uno en su línea). Si solo hay «Limitado» o «Completo», elige «Completo».\n4. Guarda.\n\nCuando termines, escribe aquí «hecho» y yo repito la prueba. Si algún paso no sale como lo cuento, sube una captura de lo que veas.",
+      "comentarios": [
+        {
+          "id": "c-120439980152",
+          "author": "claude",
+          "text": "Resultado de la prueba de las 12:00: la nube hizo la investigación (sin inventar datos) y escribió el informe, pero GitHub rechazó la subida (403) y YouTube estaba bloqueado. Por eso aún no ves ese informe en la Sala. Con estos dos pasos queda resuelto.",
+          "createdAt": "2026-10-08T10:04:39.980Z"
+        }
+      ]
     }
   ],
   "mensajes": [
