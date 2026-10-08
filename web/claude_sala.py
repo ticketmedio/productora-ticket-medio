@@ -22,7 +22,7 @@ CAMBIOS_WEB = os.path.join(HERE, "web_cambios.json")
 
 
 def now():
-    return datetime.datetime.now(datetime.UTC).strftime("%Y-%m-%dT%H:%M:%S.%f")[:-3] + "Z"
+    return datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%S.%f")[:-3] + "Z"
 
 
 def load():
