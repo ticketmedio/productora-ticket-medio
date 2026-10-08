@@ -23,5 +23,5 @@ Ver `seo/00_ESTRATEGIA_SEO.md`, apartado 7 («Shorts y monetización»). No suma
 - Puntos de control: 1/12/2026 (300 suscriptores y 600 h de vídeos largos) y marzo de 2027 (600 y 2.500 h). Si no vamos por ahí, se revisa el rumbo con el Plan B (`seo/PLAN_B.md`).
 
 ## Producción pendiente de este plan
-- Tras terminar el vídeo 4 (Corte Inglés): 3–4 Shorts extra con ángulos nuevos del vídeo 4 y 3–4 del vídeo 3 (Zara).
+- HECHO el 8/10: 4 Shorts extra del vídeo 4 (Corte Inglés) y 4 del vídeo 3 (Zara), con ángulos distintos. Siguiente: lote de 5 Reels a la semana de Pepa desde el 26/10.
 - Preparar el lote de Pepa con 5 Reels a la semana desde el 26/10.

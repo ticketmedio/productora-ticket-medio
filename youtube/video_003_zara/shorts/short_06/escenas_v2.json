@@ -1,0 +1,158 @@
+{
+ "formato": "vertical",
+ "fondos": "../../fondos",
+ "musica": "../../audio/musica.mp3",
+ "musica_db": -26,
+ "cola": 1.5,
+ "salida": "../../output/SHORT_06_precios.mp4",
+ "escenas": [
+  {
+   "id": "a",
+   "desde": "¿Cuánto ha subido Zara sus precios",
+   "fondo": "tienda_ropa",
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 60,
+     "y": 360,
+     "w": 960,
+     "h": 640
+    },
+    {
+     "tipo": "texto",
+     "texto": "¿MÁS CARA?",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "Precios de Zara en Europa",
+     "x": 540,
+     "y": 520,
+     "tam": 56,
+     "fuente": "mano",
+     "t": 0.3
+    },
+    {
+     "tipo": "mascota",
+     "pose": "preocupado",
+     "x": 880,
+     "y": 1310,
+     "h": 380,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "b",
+   "desde": "Según un análisis de Bloomberg",
+   "fondo": "#FFF3C4",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "¿MÁS CARA?",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "Análisis de Bloomberg",
+     "x": 540,
+     "y": 440,
+     "tam": 56,
+     "fuente": "mano",
+     "t": 0.1
+    },
+    {
+     "tipo": "texto",
+     "texto": "En Europa, de media, desde 2020",
+     "x": 540,
+     "y": 600,
+     "tam": 54,
+     "fuente": "mano",
+     "en": "Zara ha subido sus precios"
+    },
+    {
+     "tipo": "texto",
+     "texto": "+22 %",
+     "x": 540,
+     "y": 840,
+     "tam": 190,
+     "color": "#E0521B",
+     "anim": "pop",
+     "en": "un veintidós por ciento"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "sorprendido",
+     "x": 880,
+     "y": 1310,
+     "h": 300,
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "c",
+   "desde": "Y su margen, en ese tiempo",
+   "fondo": "#E3E7EC",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "¿MÁS CARA?",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "Y su margen",
+     "x": 540,
+     "y": 450,
+     "tam": 80,
+     "t": 0.1
+    },
+    {
+     "tipo": "texto",
+     "texto": "no ha dejado de crecer",
+     "x": 540,
+     "y": 650,
+     "tam": 66,
+     "en": "no ha dejado de crecer"
+    },
+    {
+     "tipo": "sello",
+     "texto": "MARGEN ↑",
+     "x": 540,
+     "y": 900,
+     "tam": 80,
+     "en": "no ha dejado de crecer"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "encoge_hombros",
+     "x": 880,
+     "y": 1310,
+     "h": 300,
+     "t": 0.2
+    }
+   ]
+  }
+ ]
+}

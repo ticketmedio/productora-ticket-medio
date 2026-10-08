@@ -1,0 +1,202 @@
+{
+ "formato": "vertical",
+ "fondos": "../../fondos",
+ "musica": "../../audio/musica.mp3",
+ "musica_db": -26,
+ "cola": 1.5,
+ "salida": "../../output/SHORT_05_fabricas.mp4",
+ "escenas": [
+  {
+   "id": "a",
+   "desde": "¿Quién fabrica de verdad",
+   "fondo": "taller_costura",
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 60,
+     "y": 360,
+     "w": 960,
+     "h": 640
+    },
+    {
+     "tipo": "texto",
+     "texto": "¿QUIÉN LA FABRICA?",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "La ropa de Zara…",
+     "x": 540,
+     "y": 520,
+     "tam": 60,
+     "fuente": "mano",
+     "t": 0.3
+    },
+    {
+     "tipo": "mascota",
+     "pose": "pensativo",
+     "x": 880,
+     "y": 1310,
+     "h": 380,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "b",
+   "desde": "Inditex trabaja con seis mil",
+   "fondo": "#E6E0F5",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "¿QUIÉN LA FABRICA?",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 6684,
+     "x": 540,
+     "y": 560,
+     "tam": 150,
+     "color": "#E0521B",
+     "en": "seis mil seiscientas ochenta y cuatro"
+    },
+    {
+     "tipo": "texto",
+     "texto": "fábricas en 49 países",
+     "x": 540,
+     "y": 700,
+     "tam": 58,
+     "fuente": "mano",
+     "en": "cuarenta y nueve países"
+    },
+    {
+     "tipo": "texto",
+     "texto": "+ 3 millones de personas",
+     "x": 540,
+     "y": 880,
+     "tam": 60,
+     "en": "tres millones de personas"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "sorprendido",
+     "x": 880,
+     "y": 1310,
+     "h": 300,
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "c",
+   "desde": "Y casi ninguna es suya",
+   "fondo": "#F4E9D0",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "¿QUIÉN LA FABRICA?",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "sello",
+     "texto": "CASI NINGUNA ES SUYA",
+     "x": 540,
+     "y": 470,
+     "tam": 66,
+     "t": 0.1
+    },
+    {
+     "tipo": "texto",
+     "texto": "Solo unas pocas, cerca de\nArteixo, son del grupo",
+     "x": 540,
+     "y": 700,
+     "tam": 52,
+     "fuente": "mano",
+     "en": "Solo unas pocas"
+    },
+    {
+     "tipo": "texto",
+     "texto": "El resto, proveedores",
+     "x": 540,
+     "y": 920,
+     "tam": 58,
+     "fuente": "mano",
+     "en": "El resto son proveedores"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "encoge_hombros",
+     "x": 880,
+     "y": 1310,
+     "h": 300,
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "d",
+   "desde": "Y seis de cada diez",
+   "fondo": "#E3E7EC",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "¿QUIÉN LA FABRICA?",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "6 de cada 10",
+     "x": 540,
+     "y": 520,
+     "tam": 120,
+     "color": "#E0521B",
+     "anim": "pop",
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "están en Asia",
+     "x": 540,
+     "y": 720,
+     "tam": 66,
+     "fuente": "mano",
+     "t": 0.6
+    },
+    {
+     "tipo": "mascota",
+     "pose": "pensativo",
+     "x": 880,
+     "y": 1310,
+     "h": 320,
+     "t": 0.2
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+1
+00:00:00,150 --> 00:00:02,781
+¿Quién fabrica de verdad la ropa de Zara?
+
+2
+00:00:03,003 --> 00:00:09,479
+Inditex trabaja con seis mil seiscientas ochenta y cuatro fábricas en cuarenta y nueve países,
+
+3
+00:00:09,479 --> 00:00:12,993
+que dan trabajo a más de tres millones de personas.
+
+4
+00:00:12,993 --> 00:00:14,577
+Y casi ninguna es suya.
+
+5
+00:00:14,577 --> 00:00:19,125
+Solo unas pocas, cerca de su sede de Arteixo, pertenecen al grupo.
+
+6
+00:00:19,125 --> 00:00:20,847
+El resto son proveedores.
+
+7
+00:00:20,847 --> 00:00:24,361
+Y seis de cada diez de esas fábricas están en Asia.

@@ -1,0 +1,28 @@
+{
+ "salida": "output/_sin_normalizar.mp4",
+ "formato": "vertical",
+ "voz": "audio/voz_cola.mp3",
+ "subtitulos": "audio/subtitulos_cortos.srt",
+ "quemar_subtitulos": true,
+ "musica": "../../audio/musica.mp3",
+ "musica_db": -26,
+ "escenas": [
+  {
+   "archivo": "clips/s_a.mp4",
+   "duracion": 2.853
+  },
+  {
+   "archivo": "clips/s_b.mp4",
+   "duracion": 9.99
+  },
+  {
+   "archivo": "clips/s_c.mp4",
+   "duracion": 7.854
+  },
+  {
+   "archivo": "clips/s_d.mp4",
+   "duracion": 5.261
+  }
+ ],
+ "salida_final": "../../output/SHORT_05_fabricas.mp4"
+}

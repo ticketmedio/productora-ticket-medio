@@ -1,0 +1,23 @@
+1
+00:00:00,150 --> 00:00:03,741
+¿Es verdad que Zara tiene una prenda nueva en tienda en dos semanas?
+
+2
+00:00:03,619 --> 00:00:04,946
+Es verdad a medias.
+
+3
+00:00:04,946 --> 00:00:08,649
+Según un famoso estudio de la Universidad de Harvard,
+
+4
+00:00:08,649 --> 00:00:12,142
+de 2003, eso valía para reponer o retocar prendas.
+
+5
+00:00:12,142 --> 00:00:16,613
+Un diseño totalmente nuevo tardaba entre cuatro y cinco semanas.
+
+6
+00:00:16,613 --> 00:00:22,272
+Que, para la época, ya era rapidísimo: en el resto del sector podían pasar meses.

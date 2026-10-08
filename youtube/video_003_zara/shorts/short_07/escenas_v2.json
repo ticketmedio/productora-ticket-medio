@@ -1,0 +1,212 @@
+{
+ "formato": "vertical",
+ "fondos": "../../fondos",
+ "musica": "../../audio/musica.mp3",
+ "musica_db": -26,
+ "cola": 1.5,
+ "salida": "../../output/SHORT_07_shein.mp4",
+ "escenas": [
+  {
+   "id": "a",
+   "desde": "¿Por qué Shein vende casi lo mismo",
+   "fondo": "calle_comercial",
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 60,
+     "y": 360,
+     "w": 960,
+     "h": 640
+    },
+    {
+     "tipo": "texto",
+     "texto": "ZARA VS SHEIN",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "Casi las mismas ventas…",
+     "x": 540,
+     "y": 520,
+     "tam": 58,
+     "fuente": "mano",
+     "t": 0.3
+    },
+    {
+     "tipo": "mascota",
+     "pose": "sorprendido",
+     "x": 880,
+     "y": 1310,
+     "h": 380,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "b",
+   "desde": "En 2025 vendió casi lo mismo",
+   "fondo": "#F4E9D0",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "ZARA VS SHEIN",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "Ventas 2025: casi iguales",
+     "x": 540,
+     "y": 450,
+     "tam": 62,
+     "t": 0.1
+    },
+    {
+     "tipo": "rect",
+     "x": 110,
+     "y": 600,
+     "w": 860,
+     "h": 110,
+     "color": "#F5B301",
+     "texto": "Inditex (Zara)",
+     "tam": 46,
+     "t": 0.3,
+     "dur": 0.8
+    },
+    {
+     "tipo": "rect",
+     "x": 110,
+     "y": 750,
+     "w": 830,
+     "h": 110,
+     "color": "#9CC5E8",
+     "texto": "Shein",
+     "tam": 46,
+     "t": 0.7,
+     "dur": 0.8
+    },
+    {
+     "tipo": "mascota",
+     "pose": "pensativo",
+     "x": 880,
+     "y": 1310,
+     "h": 300,
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "c",
+   "desde": "Pero ganó unas tres veces menos",
+   "fondo": "#E3E7EC",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "ZARA VS SHEIN",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "Beneficio",
+     "x": 540,
+     "y": 450,
+     "tam": 76,
+     "t": 0.1
+    },
+    {
+     "tipo": "rect",
+     "x": 110,
+     "y": 560,
+     "w": 860,
+     "h": 110,
+     "color": "#F5B301",
+     "texto": "Inditex (Zara)",
+     "tam": 46,
+     "t": 0.2,
+     "dur": 0.7
+    },
+    {
+     "tipo": "rect",
+     "x": 110,
+     "y": 710,
+     "w": 290,
+     "h": 110,
+     "color": "#9CC5E8",
+     "texto": "Shein ÷ 3",
+     "tam": 38,
+     "t": 0.9,
+     "dur": 0.7
+    },
+    {
+     "tipo": "mascota",
+     "pose": "preocupado",
+     "x": 880,
+     "y": 1310,
+     "h": 300,
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "d",
+   "desde": "Vender barato es fácil",
+   "fondo": "#FFF3C4",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "ZARA VS SHEIN",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "Vender barato: fácil",
+     "x": 540,
+     "y": 520,
+     "tam": 76,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "Ganar dinero: no tanto",
+     "x": 540,
+     "y": 720,
+     "tam": 76,
+     "color": "#E0521B",
+     "en": "Ganar dinero vendiendo barato"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "pensativo",
+     "x": 880,
+     "y": 1310,
+     "h": 320,
+     "t": 0.2
+    }
+   ]
+  }
+ ]
+}

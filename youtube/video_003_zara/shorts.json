@@ -1,10 +1,86 @@
 {
  "shorts": [
-  {"id": "01", "titulo": "Casi 9 millones al día: a dónde va el beneficio de Zara",
-   "tramos": [["un señor de A Coruña", "un señor de A Coruña"], ["¿Y adónde van esos trece", "Casi nueve millones al día"]]},
-  {"id": "02", "titulo": "Zara casi nunca malvende: el 0,57 %",
-   "tramos": [["La primera pieza es que casi nunca", "Si no, se deja de fabricar"]]},
-  {"id": "03", "titulo": "Con tu ropa, Hacienda gana más que Zara",
-   "tramos": [["Primera parada: Hacienda", "Van directos al Estado"], ["Sexta parada: Hacienda", "Más de lo que gana la propia empresa"]]}
+  {
+   "id": "01",
+   "titulo": "Casi 9 millones al día: a dónde va el beneficio de Zara",
+   "tramos": [
+    [
+     "un señor de A Coruña",
+     "un señor de A Coruña"
+    ],
+    [
+     "¿Y adónde van esos trece",
+     "Casi nueve millones al día"
+    ]
+   ]
+  },
+  {
+   "id": "02",
+   "titulo": "Zara casi nunca malvende: el 0,57 %",
+   "tramos": [
+    [
+     "La primera pieza es que casi nunca",
+     "Si no, se deja de fabricar"
+    ]
+   ]
+  },
+  {
+   "id": "03",
+   "titulo": "Con tu ropa, Hacienda gana más que Zara",
+   "tramos": [
+    [
+     "Primera parada: Hacienda",
+     "Van directos al Estado"
+    ],
+    [
+     "Sexta parada: Hacienda",
+     "Más de lo que gana la propia empresa"
+    ]
+   ]
+  },
+  {
+   "id": "04",
+   "titulo": "¿Zara tiene una prenda nueva en tienda en dos semanas?",
+   "tramos": [
+    [
+     "Seguro que has oído que Zara diseña",
+     "ya era rapidísimo"
+    ]
+   ],
+   "intro": "¿Es verdad que Zara tiene una prenda nueva en tienda en dos semanas?"
+  },
+  {
+   "id": "05",
+   "titulo": "Zara tiene 6.684 fábricas y casi ninguna es suya",
+   "tramos": [
+    [
+     "Y aquí viene la primera sorpresa",
+     "están en Asia"
+    ]
+   ],
+   "intro": "¿Quién fabrica de verdad la ropa de Zara?"
+  },
+  {
+   "id": "06",
+   "titulo": "Zara ha subido sus precios un 22 % desde 2020",
+   "tramos": [
+    [
+     "La segunda cara son los precios",
+     "no ha dejado de crecer"
+    ]
+   ],
+   "intro": "¿Cuánto ha subido Zara sus precios desde 2020?"
+  },
+  {
+   "id": "07",
+   "titulo": "Shein vende casi lo mismo que Zara y gana tres veces menos",
+   "tramos": [
+    [
+     "¿Y Shein, la gran amenaza",
+     "vendiendo barato, no tanto"
+    ]
+   ],
+   "intro": "¿Por qué Shein vende casi lo mismo que Zara y gana tres veces menos?"
+  }
  ]
 }

@@ -1,0 +1,159 @@
+{
+ "formato": "vertical",
+ "fondos": "../../fondos",
+ "musica": "../../audio/musica.mp3",
+ "musica_db": -26,
+ "cola": 1.5,
+ "salida": "../../output/SHORT_04_dos_semanas.mp4",
+ "escenas": [
+  {
+   "id": "a",
+   "desde": "¿Es verdad que Zara tiene una prenda",
+   "fondo": "estudio_diseno",
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 60,
+     "y": 360,
+     "w": 960,
+     "h": 640
+    },
+    {
+     "tipo": "texto",
+     "texto": "¿EN 2 SEMANAS?",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "Una prenda nueva en tienda…",
+     "x": 540,
+     "y": 520,
+     "tam": 56,
+     "fuente": "mano",
+     "t": 0.3
+    },
+    {
+     "tipo": "mascota",
+     "pose": "pensativo",
+     "x": 880,
+     "y": 1310,
+     "h": 380,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "b",
+   "desde": "Es verdad a medias",
+   "fondo": "#F4E9D0",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "¿EN 2 SEMANAS?",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "sello",
+     "texto": "VERDAD A MEDIAS",
+     "x": 540,
+     "y": 450,
+     "tam": 70,
+     "t": 0.1
+    },
+    {
+     "tipo": "texto",
+     "texto": "Estudio de Harvard, 2003",
+     "x": 540,
+     "y": 680,
+     "tam": 56,
+     "fuente": "mano",
+     "en": "Universidad de Harvard"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Reponer o retocar:\n2 semanas",
+     "x": 540,
+     "y": 900,
+     "tam": 64,
+     "color": "#E0521B",
+     "en": "reponer o retocar prendas"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "encoge_hombros",
+     "x": 880,
+     "y": 1310,
+     "h": 300,
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "c",
+   "desde": "Un diseño totalmente nuevo tardaba",
+   "fondo": "#E3E7EC",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "¿EN 2 SEMANAS?",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "Un diseño nuevo",
+     "x": 540,
+     "y": 460,
+     "tam": 80,
+     "t": 0.1
+    },
+    {
+     "tipo": "texto",
+     "texto": "4–5 semanas",
+     "x": 540,
+     "y": 680,
+     "tam": 130,
+     "color": "#E0521B",
+     "anim": "pop",
+     "en": "entre cuatro y cinco semanas"
+    },
+    {
+     "tipo": "texto",
+     "texto": "para la época, rapidísimo",
+     "x": 540,
+     "y": 900,
+     "tam": 56,
+     "fuente": "mano",
+     "en": "rapidísimo"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "contento",
+     "x": 880,
+     "y": 1310,
+     "h": 300,
+     "t": 0.2
+    }
+   ]
+  }
+ ]
+}

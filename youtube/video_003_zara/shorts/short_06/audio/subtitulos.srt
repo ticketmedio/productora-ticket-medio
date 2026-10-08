@@ -1,0 +1,15 @@
+1
+00:00:00,150 --> 00:00:03,481
+¿Cuánto ha subido Zara sus precios desde 2020?
+
+2
+00:00:03,641 --> 00:00:07,395
+Según un análisis de Bloomberg recogido por la prensa,
+
+3
+00:00:07,395 --> 00:00:13,025
+Zara ha subido sus precios en Europa un veintidós por ciento de media desde 2020.
+
+4
+00:00:13,025 --> 00:00:16,571
+Y su margen, en ese tiempo, no ha dejado de crecer.

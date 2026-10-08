@@ -10,6 +10,8 @@ def panel(h=700): return {"tipo": "panel", "x": 60, "y": 360, "w": 960, "h": h}
 def txt(c, y, tam=64, x=540, **k): return {"tipo": "texto", "texto": c, "x": x, "y": y, "tam": tam, **k}
 def mano(c, y, tam=58, x=540, **k): return txt(c, y, tam, x, fuente="mano", **k)
 def masc(pose, x=540, h=400, **k): return {"tipo": "mascota", "pose": pose, "x": x, "y": 1310, "h": h, **k}
+def rect(x, y, w, h, color, **k): return {"tipo": "rect", "x": x, "y": y, "w": w, "h": h, "color": color, **k}
+def sello(c, y, tam=64, x=540, **k): return {"tipo": "sello", "texto": c, "x": x, "y": y, "tam": tam, **k}
 
 shorts = {
  "01": {"salida": "../../output/SHORT_01_9_millones_al_dia.mp4", "escenas": [
@@ -75,6 +77,88 @@ shorts = {
      txt("IVA + impuesto\n≈ 21 c", 790, 90, color="#E0521B", en="unos veintiún"),
      {"tipo": "sello", "texto": "MÁS QUE ZARA (13 c)", "x": 540, "y": 1010, "tam": 62, "en": "Más de lo que gana"},
      masc("enfadado", 880, 280, t=0.2)]},
+ ]},
+ "04": {"salida": "../../output/SHORT_04_dos_semanas.mp4", "escenas": [
+   {"id": "a", "desde": "¿Es verdad que Zara tiene una prenda", "fondo": "estudio_diseno", "zoom": [1.0, 1.08], "capas": [
+     panel(640), cab("¿EN 2 SEMANAS?"),
+     mano("Una prenda nueva en tienda…", 520, 56, t=0.3),
+     masc("pensativo", 880, 380, entra="der", t=0.2)]},
+   {"id": "b", "desde": "Es verdad a medias", "fondo": "#F4E9D0", "capas": [
+     cab("¿EN 2 SEMANAS?"),
+     sello("VERDAD A MEDIAS", 450, 70, t=0.1),
+     mano("Estudio de Harvard, 2003", 680, 56, en="Universidad de Harvard"),
+     txt("Reponer o retocar:\n2 semanas", 900, 64, color="#E0521B", en="reponer o retocar prendas"),
+     masc("encoge_hombros", 880, 300, t=0.2)]},
+   {"id": "c", "desde": "Un diseño totalmente nuevo tardaba", "fondo": "#E3E7EC", "capas": [
+     cab("¿EN 2 SEMANAS?"),
+     txt("Un diseño nuevo", 460, 80, t=0.1),
+     txt("4–5 semanas", 680, 130, color="#E0521B", anim="pop", en="entre cuatro y cinco semanas"),
+     mano("para la época, rapidísimo", 900, 56, en="rapidísimo"),
+     masc("contento", 880, 300, t=0.2)]},
+ ]},
+ "05": {"salida": "../../output/SHORT_05_fabricas.mp4", "escenas": [
+   {"id": "a", "desde": "¿Quién fabrica de verdad", "fondo": "taller_costura", "zoom": [1.0, 1.08], "capas": [
+     panel(640), cab("¿QUIÉN LA FABRICA?"),
+     mano("La ropa de Zara…", 520, 60, t=0.3),
+     masc("pensativo", 880, 380, entra="der", t=0.2)]},
+   {"id": "b", "desde": "Inditex trabaja con seis mil", "fondo": "#E6E0F5", "capas": [
+     cab("¿QUIÉN LA FABRICA?"),
+     {"tipo": "cifra", "hasta": 6684, "x": 540, "y": 560, "tam": 150, "color": "#E0521B", "en": "seis mil seiscientas ochenta y cuatro"},
+     mano("fábricas en 49 países", 700, 58, en="cuarenta y nueve países"),
+     txt("+ 3 millones de personas", 880, 60, en="tres millones de personas"),
+     masc("sorprendido", 880, 300, t=0.2)]},
+   {"id": "c", "desde": "Y casi ninguna es suya", "fondo": "#F4E9D0", "capas": [
+     cab("¿QUIÉN LA FABRICA?"),
+     sello("CASI NINGUNA ES SUYA", 470, 66, t=0.1),
+     mano("Solo unas pocas, cerca de\nArteixo, son del grupo", 700, 52, en="Solo unas pocas"),
+     mano("El resto, proveedores", 920, 58, en="El resto son proveedores"),
+     masc("encoge_hombros", 880, 300, t=0.2)]},
+   {"id": "d", "desde": "Y seis de cada diez", "fondo": "#E3E7EC", "capas": [
+     cab("¿QUIÉN LA FABRICA?"),
+     txt("6 de cada 10", 520, 120, color="#E0521B", anim="pop", t=0.2),
+     mano("están en Asia", 720, 66, t=0.6),
+     masc("pensativo", 880, 320, t=0.2)]},
+ ]},
+ "06": {"salida": "../../output/SHORT_06_precios.mp4", "escenas": [
+   {"id": "a", "desde": "¿Cuánto ha subido Zara sus precios", "fondo": "tienda_ropa", "zoom": [1.0, 1.08], "capas": [
+     panel(640), cab("¿MÁS CARA?"),
+     mano("Precios de Zara en Europa", 520, 56, t=0.3),
+     masc("preocupado", 880, 380, entra="der", t=0.2)]},
+   {"id": "b", "desde": "Según un análisis de Bloomberg", "fondo": "#FFF3C4", "capas": [
+     cab("¿MÁS CARA?"),
+     mano("Análisis de Bloomberg", 440, 56, t=0.1),
+     mano("En Europa, de media, desde 2020", 600, 54, en="Zara ha subido sus precios"),
+     txt("+22 %", 840, 190, color="#E0521B", anim="pop", en="un veintidós por ciento"),
+     masc("sorprendido", 880, 300, t=0.2)]},
+   {"id": "c", "desde": "Y su margen, en ese tiempo", "fondo": "#E3E7EC", "capas": [
+     cab("¿MÁS CARA?"),
+     txt("Y su margen", 450, 80, t=0.1),
+     txt("no ha dejado de crecer", 650, 66, en="no ha dejado de crecer"),
+     sello("MARGEN ↑", 900, 80, en="no ha dejado de crecer"),
+     masc("encoge_hombros", 880, 300, t=0.2)]},
+ ]},
+ "07": {"salida": "../../output/SHORT_07_shein.mp4", "escenas": [
+   {"id": "a", "desde": "¿Por qué Shein vende casi lo mismo", "fondo": "calle_comercial", "zoom": [1.0, 1.08], "capas": [
+     panel(640), cab("ZARA VS SHEIN"),
+     mano("Casi las mismas ventas…", 520, 58, t=0.3),
+     masc("sorprendido", 880, 380, entra="der", t=0.2)]},
+   {"id": "b", "desde": "En 2025 vendió casi lo mismo", "fondo": "#F4E9D0", "capas": [
+     cab("ZARA VS SHEIN"),
+     txt("Ventas 2025: casi iguales", 450, 62, t=0.1),
+     rect(110, 600, 860, 110, "#F5B301", texto="Inditex (Zara)", tam=46, t=0.3, dur=0.8),
+     rect(110, 750, 830, 110, "#9CC5E8", texto="Shein", tam=46, t=0.7, dur=0.8),
+     masc("pensativo", 880, 300, t=0.2)]},
+   {"id": "c", "desde": "Pero ganó unas tres veces menos", "fondo": "#E3E7EC", "capas": [
+     cab("ZARA VS SHEIN"),
+     txt("Beneficio", 450, 76, t=0.1),
+     rect(110, 560, 860, 110, "#F5B301", texto="Inditex (Zara)", tam=46, t=0.2, dur=0.7),
+     rect(110, 710, 290, 110, "#9CC5E8", texto="Shein ÷ 3", tam=38, t=0.9, dur=0.7),
+     masc("preocupado", 880, 300, t=0.2)]},
+   {"id": "d", "desde": "Vender barato es fácil", "fondo": "#FFF3C4", "capas": [
+     cab("ZARA VS SHEIN"),
+     txt("Vender barato: fácil", 520, 76, t=0.2),
+     txt("Ganar dinero: no tanto", 720, 76, color="#E0521B", en="Ganar dinero vendiendo barato"),
+     masc("pensativo", 880, 320, t=0.2)]},
  ]},
 }
 for n, s in shorts.items():
