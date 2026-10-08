@@ -35,3 +35,8 @@ Si la memoria automática de Claude Code en este ordenador está vacía o es má
 - Objetivo único de YouTube: 1.000 suscriptores + 8.000 h, solicitud en julio de 2027. Decisiones del 30/09 en `seo/00_ESTRATEGIA_SEO.md`, apartado 13.
 - Antes de proponer o producir cualquier vídeo, Short, Reel o carrusel, lee `seo/IDEAS.md` (lo viral y sus lecciones) y `seo/PLAN_B.md` y apoya título, gancho y ritmo en ellos. Las ideas las alimentan dos rutinas diarias en la nube (`seo/INVESTIGACION_MERCADO.md`, 7:00 y 20:00) y los informes salen en la Sala. El usuario no siempre tiene el PC encendido (fines de semana no): lo importante debe verse desde el móvil en la Sala web.
 - Cada publicación que programe el usuario lleva la lista de comprobación de `redes/LISTA_COMPROBACION.md` en su tarea.
+
+## Ordenador principal: Mac (desde el 8/10/2026, decisión del usuario)
+- El trabajo se hace en el Mac (macOS, Python 3.9: usa `python3`, no `python`). `gh` y `ffprobe` están en `~/.local/bin` (en el PATH vía ~/.zshrc); gh ya tiene la sesión de ticketmedio. Los `.bat`, la tarea de Windows «Claude SEO diario» y `herramientas/navegador` (Chrome de Windows) no sirven en el Mac: los gráficos usan Google Chrome instalado.
+- Todo lo periódico va en la NUBE (rutinas de claude.ai): investigación de mercado 7:00 y 20:00, SEO 8:30 (`seo/RUTINA_SEO_NUBE.md`). Las cifras privadas de Meta/TikTok necesitan navegador con sesión y hoy no se leen desde la nube.
+- Drive: carpeta «REDES Y VIDEOS» (id 1W7gxpsgWAForlphX-CVaa5mEl-C2hopa). Cuando el usuario diga «súbelo», se sube allí lo del día (vídeos grandes: requiere Google Drive para escritorio; el conector solo admite archivos pequeños).
