@@ -2565,6 +2565,23 @@
       "createdAt": "2026-10-08T11:21:08.708Z",
       "updatedAt": "2026-10-08T11:21:08.708Z",
       "notes": "Cuatro Shorts más del vídeo del Corte Inglés, cada uno con un ángulo distinto (lo que perdió en la pandemia, lo que vendió para no hundirse, las tiendas que ha cerrado y quién manda de verdad). Forman parte del nuevo ritmo de 7 Shorts a la semana. Hazlo en el mismo rato que el vídeo 4 y sus 3 primeros Shorts.\n\nArchivos: Descargas › faceless › youtube › video_004_corte_ingles › output:\n· SHORT_04_pandemia.mp4 · SHORT_05_vendio.mp4 · SHORT_06_tiendas.mp4 · SHORT_07_fundacion.mp4\nTítulos, descripciones y hashtags: en SHORTS_TEXTOS.txt (SHORT 4, 5, 6 y 7), el mismo archivo de los otros tres.\n\n1. SUBIR cada uno («CREAR» → «Subir vídeos», uno a uno), como los otros Shorts: no son para niños · Contenido alterado «No» · Idioma Español (España) · Categoría Educación · sin archivo de subtítulos.\n2. PROGRAMAR (todos a las 13:00): SHORT_04 → domingo 18 de octubre · SHORT_05 → martes 20 · SHORT_06 → jueves 22 · SHORT_07 → viernes 23.\n3. ENLAZAR cada Short al vídeo largo con «Vídeo relacionado» (ver el paso 4 de la tarea del vídeo 4), cuando el vídeo largo ya esté publicado.\n4. Escribe «programado» aquí.\n\nLISTA DE COMPROBACIÓN (redes/LISTA_COMPROBACION.md), en CADA publicación antes de pasar a la siguiente:\n  ☐ Texto pegado entero (no vacío ni cortado)\n  ☐ Hashtags: 5 como máximo\n  ☐ Fecha y hora correctas (ojo al MES; que la hora no se quede en la actual)\n  ☐ Cuenta y archivo correctos (Ticket Medio)"
+    },
+    {
+      "kind": "publicacion",
+      "who": "tu",
+      "project": "youtube",
+      "platforms": [
+        "YouTube",
+        "Shorts"
+      ],
+      "id": "pub-yt-3-extra",
+      "title": "Subir y programar los 4 Shorts extra del vídeo de Zara (20 min)",
+      "date": "2026-10-13",
+      "status": "pendiente",
+      "createdBy": "claude",
+      "createdAt": "2026-10-08T13:02:34.033Z",
+      "updatedAt": "2026-10-08T13:02:34.033Z",
+      "notes": "Cuatro Shorts más del vídeo de Zara, cada uno con un ángulo distinto (si es verdad que saca una prenda en dos semanas, quién fabrica su ropa, cuánto ha subido los precios y Shein frente a Zara). Forman parte del nuevo ritmo de Shorts. Hazlos el martes 13, antes de la primera fecha (jueves 15).\n\nArchivos: Descargas › faceless › youtube › video_003_zara › output:\n· SHORT_04_dos_semanas.mp4 · SHORT_05_fabricas.mp4 · SHORT_06_precios.mp4 · SHORT_07_shein.mp4\nTítulos, descripciones y hashtags: en SHORTS_TEXTOS.txt (SHORT 4, 5, 6 y 7, a continuación de los tres primeros).\n\n1. SUBIR cada uno («CREAR» → «Subir vídeos», uno a uno), como los demás Shorts: no son para niños · Contenido alterado «No» · Idioma Español (España) · Categoría Educación · sin archivo de subtítulos.\n2. PROGRAMAR (todos a las 13:00): SHORT_04 → jueves 15 de octubre · SHORT_05 → viernes 16 · SHORT_06 → sábado 24 · SHORT_07 → domingo 25.\n3. ENLAZAR cada Short al vídeo largo de Zara con «Vídeo relacionado» (el vídeo ya está publicado desde el 9/10).\n4. Escribe «programado» aquí.\n\nLISTA DE COMPROBACIÓN (redes/LISTA_COMPROBACION.md), en CADA publicación antes de pasar a la siguiente:\n  ☐ Texto pegado entero (no vacío ni cortado)\n  ☐ Hashtags: 5 como máximo\n  ☐ Fecha y hora correctas (ojo al MES; que la hora no se quede en la actual)\n  ☐ Cuenta y archivo correctos (Ticket Medio)"
     }
   ],
   "mensajes": [
@@ -2761,7 +2778,7 @@
           "✅ Mascota del ticket y formato ilustrado (28/09)",
           "✅ Vídeo 2 (Mercadona) publicado el 2/10; sus 3 Shorts, con 1.594 visualizaciones en 5 días y 4 suscriptores nuevos en el canal",
           "✅ Vídeo 3 (Zara) subido y programado: sale el 9/10 a las 18:00, con sus 3 Shorts",
-          "✅ Vídeo 4 (El Corte Inglés) terminado el 8/10 con sus 3 Shorts, y 4 Shorts extra en producción (cada uno con su ángulo)",
+          "✅ Vídeo 4 (El Corte Inglés) terminado el 8/10 con sus 3 Shorts, y 4 Shorts extra, más otros 4 de Zara, terminados (cada uno con su ángulo)",
           "✅ Pepa Pita: 001–012 programados hasta el 24/10 en Instagram, Facebook y TikTok",
           "✅ Informes SEO diarios y 2 investigaciones de mercado al día en la nube, visibles en la Sala desde el móvil (7:00 y 20:00)",
           "✅ API de YouTube conectada (8/10): el informe SEO de YouTube se hace en la nube, sin depender de ningún ordenador (Meta y TikTok, de momento, solo con el PC del trabajo)",
