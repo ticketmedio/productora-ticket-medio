@@ -2210,9 +2210,16 @@
       "project": "redes",
       "platforms": [],
       "notes": "3 cortos + 3 largos. Temas: Las uvas de Nochevieja · Roscón · Sobras de las fiestas · Brindis sin intoxicaciones · Menú barato de enero · Comer mejor gastando menos.",
-      "updatedAt": "2026-09-30T12:55:22.000Z",
-      "status": "pendiente",
-      "comentarios": [],
+      "updatedAt": "2026-10-08T18:29:55.056Z",
+      "status": "en_curso",
+      "comentarios": [
+        {
+          "id": "c-202955814819",
+          "author": "claude",
+          "text": "8/10: el usuario pide tener TODO producido hasta el 15/12 para programarlo poco a poco. Se produce ya (5 Reels a la semana, lunes a viernes, desde el 26/10). Los arranques A/B/C se rotan igual que en 013–018 y, si el 9/11 gana uno con claridad, se vuelven a renderizar los que falten con el ganador (cambiar el campo «gancho» y renderizar de nuevo es barato).",
+          "createdAt": "2026-10-08T18:29:55.814Z"
+        }
+      ],
       "createdAt": "2026-09-28T13:02:28.000Z",
       "createdBy": "claude"
     },
