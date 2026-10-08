@@ -1428,8 +1428,8 @@
         "YouTube",
         "Shorts"
       ],
-      "notes": "Vídeo 4: «El Corte Inglés gana 3 céntimos por euro. ¿Cómo sigue vivo?». Sale el viernes 16 de octubre a las 18:00. Unos 35 minutos.\nTodo estará en:  Descargas › faceless › youtube › video_004_corte_ingles › output.\n\n1. VER (10 min): abre FINAL_YOUTUBE_1080P.mp4 y los 3 SHORT_…mp4. Si algo se ve o se oye raro, dime el minuto aquí.\n\n2. SUBIR EL VÍDEO LARGO (studio.youtube.com; comprueba el logo del ticket amarillo arriba a la derecha):\n   «CREAR» → «Subir vídeos» → FINAL_YOUTUBE_1080P.mp4\n   · Título: el primero de 07_TITULOS.md (el marcado como ELEGIDO).\n   · Descripción: todo 08_DESCRIPCION.txt (Ctrl+E, Ctrl+C, Ctrl+V).\n   · Miniatura: output › MINIATURA_1280x720.png\n   · No es contenido para niños.\n   · «Mostrar más» (en este orden): Contenido alterado o sintético «No» · Etiquetas (vienen al final de 07_TITULOS.md) · Idioma Español (España) · Subtítulos: «Subir archivo» → «Con sincronización» → 06_SUBTITULOS.srt · Categoría Educación.\n   · Elementos: pantalla final «1 vídeo, 1 suscripción» (vídeo más reciente).\n   · Visibilidad: «Programar» → viernes 16 de octubre, 18:00.\n\n3. LOS 3 SHORTS («CREAR» → «Subir vídeos», uno a uno; títulos y descripciones en output › SHORTS_TEXTOS.txt):\n   No son para niños · Contenido alterado «No» · Idioma Español (España) · Categoría Educación · sin archivo de subtítulos.\n   Programar: SHORT_01 → sábado 17 de octubre 13:00 · SHORT_02 → lunes 19 de octubre 13:00 · SHORT_03 → miércoles 21 de octubre 13:00.\n\n4. Escribe «programado» aquí.\n\nLISTA DE COMPROBACIÓN (redes/LISTA_COMPROBACION.md), en CADA publicación antes de pasar a la siguiente:\n  ☐ Texto pegado entero (no vacío ni cortado)\n  ☐ Hashtags: 5 como máximo\n  ☐ Fecha y hora correctas (ojo al MES en Meta; que la hora no se quede en la actual)\n  ☐ Cuenta y archivo correctos (Pepa Pita o Ticket Medio; en TikTok, el archivo con TIKTOK en el nombre si lo hay)",
-      "updatedAt": "2026-09-30T12:55:22.000Z",
+      "notes": "Vídeo 4: «El Corte Inglés gana 3 céntimos por euro. ¿Cómo sigue vivo?». Sale el viernes 16 de octubre a las 18:00. Unos 35 minutos.\nTodo estará en:  Descargas › faceless › youtube › video_004_corte_ingles › output  (te aviso en un comentario cuando los archivos estén listos: se están volviendo a generar). Puedes hacerlo antes del jueves si quieres, como con Zara.\n\n1. VER (10 min): abre FINAL_YOUTUBE_1080P.mp4 y los 3 SHORT_…mp4. Si algo se ve o se oye raro, dime el minuto aquí.\n\n2. SUBIR EL VÍDEO LARGO (studio.youtube.com; comprueba el logo del ticket amarillo arriba a la derecha):\n   «CREAR» → «Subir vídeos» → FINAL_YOUTUBE_1080P.mp4\n   · Título: el primero de 07_TITULOS.md (el marcado como ELEGIDO).\n   · Descripción: todo 08_DESCRIPCION.txt (Ctrl+E, Ctrl+C, Ctrl+V).\n   · Miniatura: output › MINIATURA_1280x720.png\n   · No es contenido para niños.\n   · «Mostrar más» (en este orden): Contenido alterado o sintético «No» · Etiquetas (vienen al final de 07_TITULOS.md) · Idioma Español (España) · Subtítulos: «Subir archivo» → «Con sincronización» → 06_SUBTITULOS.srt · Categoría Educación.\n   · Elementos: pantalla final «1 vídeo, 1 suscripción» (vídeo más reciente).\n   · Visibilidad: «Programar» → viernes 16 de octubre, 18:00.\n\n3. LOS 3 SHORTS («CREAR» → «Subir vídeos», uno a uno; títulos y descripciones en output › SHORTS_TEXTOS.txt):\n   No son para niños · Contenido alterado «No» · Idioma Español (España) · Categoría Educación · sin archivo de subtítulos.\n   Programar: SHORT_01 → sábado 17 de octubre 13:00 · SHORT_02 → lunes 19 de octubre 13:00 · SHORT_03 → miércoles 21 de octubre 13:00.\n\n4. ENLAZAR LOS SHORTS AL VÍDEO LARGO (nuevo, 8/10): los Shorts de Mercadona traen miles de visualizaciones y el vídeo largo casi ninguna; esta es la forma de pasar de uno a otro. Cuando el vídeo largo ya esté publicado (viernes 16, a partir de las 18:00): studio.youtube.com → Contenido → Shorts → lápiz de «Editar» de cada Short → «Vídeo relacionado» → elige el vídeo del Corte Inglés → Guardar. Los 3 Shorts.\n\n5. Escribe «programado» aquí.\n\nLISTA DE COMPROBACIÓN (redes/LISTA_COMPROBACION.md), en CADA publicación antes de pasar a la siguiente:\n  ☐ Texto pegado entero (no vacío ni cortado)\n  ☐ Hashtags: 5 como máximo\n  ☐ Fecha y hora correctas (ojo al MES en Meta; que la hora no se quede en la actual)\n  ☐ Cuenta y archivo correctos (Pepa Pita o Ticket Medio; en TikTok, el archivo con TIKTOK en el nombre si lo hay)",
+      "updatedAt": "2026-10-08T09:35:01.503Z",
       "status": "pendiente",
       "comentarios": [
         {
@@ -1437,6 +1437,12 @@
           "author": "claude",
           "text": "Todo listo desde el 29/09 (puedes subirlo antes si quieres, como hiciste con Zara). Carpeta: Descargas › faceless › youtube › video_004_corte_ingles › output. Dentro: FINAL_YOUTUBE_1080P.mp4 (10:39), SHORT_01_el_jeque.mp4, SHORT_02_su_propio_casero.mp4, SHORT_03_zara_13_eci_3.mp4, MINIATURA_1280x720.png, 06_SUBTITULOS.srt, 07_TITULOS.md (título ELEGIDO y etiquetas al final), 08_DESCRIPCION.txt y SHORTS_TEXTOS.txt. Ya lo he revisado yo entero.",
           "createdAt": "2026-09-29T15:03:58.872Z"
+        },
+        {
+          "id": "c-113501505522",
+          "author": "claude",
+          "text": "El vídeo 4 está terminado desde el 29/09, pero se perdieron los archivos pesados (voz y MP4) con el incidente de la carpeta. Los estoy volviendo a generar hoy (8/10) con la misma voz. Te aviso aquí cuando estén en la carpeta output. Con la voz nueva cambian unos segundos de duración y rehago los capítulos de la descripción y los subtítulos para que cuadren. Tú no tienes que hacer nada hasta que te avise.",
+          "createdAt": "2026-10-08T09:35:01.505Z"
         }
       ],
       "createdAt": "2026-09-28T13:02:28.000Z",
@@ -2387,7 +2393,14 @@
       "createdAt": "2026-09-30T12:55:22.000Z",
       "createdBy": "claude",
       "updatedAt": "2026-09-30T12:55:22.000Z",
-      "comentarios": []
+      "comentarios": [
+        {
+          "id": "c-113501505578",
+          "author": "claude",
+          "text": "Mañana viernes 9/10 (festivo) lo hace la rutina automática de las 8:00 (activada desde hoy, todos los días): comprobará las visualizaciones y la retención a 7 días y lo anotará en el informe del día, en «Informes diarios». Para que se ejecute, el ordenador tiene que estar encendido con la sesión de Windows abierta; si estaba apagado, se hace en cuanto lo enciendas. Tú no tienes que hacer nada.",
+          "createdAt": "2026-10-08T09:35:01.505Z"
+        }
+      ]
     },
     {
       "id": "c-pepa-ganchos",
