@@ -1,0 +1,75 @@
+1
+00:00:00,150 --> 00:00:01,338
+¿Cuál es el truco
+
+2
+00:00:01,338 --> 00:00:02,526
+de Ryanair, según sus
+
+3
+00:00:02,526 --> 00:00:03,713
+propias cifras?
+
+4
+00:00:03,983 --> 00:00:05,186
+Con sus propias cifras,
+
+5
+00:00:05,186 --> 00:00:06,388
+son tres.
+
+6
+00:00:06,388 --> 00:00:07,919
+Uno: llenar el avión.
+
+7
+00:00:07,919 --> 00:00:09,614
+Un noventa y cuatro
+
+8
+00:00:09,614 --> 00:00:11,308
+por ciento de ocupación
+
+9
+00:00:11,308 --> 00:00:13,003
+significa que casi no
+
+10
+00:00:13,003 --> 00:00:14,697
+vuela ningún asiento vacío.
+
+11
+00:00:14,697 --> 00:00:16,100
+Dos: un solo modelo
+
+12
+00:00:16,100 --> 00:00:17,503
+de avión, que simplifica
+
+13
+00:00:17,503 --> 00:00:18,906
+el mantenimiento y la
+
+14
+00:00:18,906 --> 00:00:20,309
+formación.
+
+15
+00:00:20,309 --> 00:00:21,592
+Y tres: cobrar aparte
+
+16
+00:00:21,592 --> 00:00:22,875
+lo que no es
+
+17
+00:00:22,875 --> 00:00:24,158
+el asiento, que ya
+
+18
+00:00:24,158 --> 00:00:25,441
+es casi un tercio
+
+19
+00:00:25,441 --> 00:00:26,723
+de sus ingresos.

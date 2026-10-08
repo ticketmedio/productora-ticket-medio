@@ -1,0 +1,62 @@
+{
+ "formato": "vertical",
+ "fondos": "../../fondos",
+ "musica": "../../audio/musica.mp3",
+ "musica_db": -26,
+ "cola": 1.5,
+ "salida": "../../output/SHORT_07_ley_europea_precio_final.mp4",
+ "escenas": [
+  {
+   "id": "a",
+   "desde": "¿Pueden los extras aparecer",
+   "fondo": "#E6E0F5",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "LA LEY EUROPEA",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "Reglamento (CE) 1008/2008, art. 23",
+     "x": 540,
+     "y": 470,
+     "tam": 46,
+     "fuente": "mano",
+     "t": 0.3
+    },
+    {
+     "tipo": "texto",
+     "texto": "Precio final siempre visible:\ntarifa + impuestos + tasas",
+     "x": 540,
+     "y": 700,
+     "tam": 56,
+     "en": "el precio final tiene que mostrarse"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Extras opcionales: claros al principio\ny aceptados de forma expresa",
+     "x": 540,
+     "y": 960,
+     "tam": 46,
+     "fuente": "mano",
+     "papel": true,
+     "en": "suplementos opcionales"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "lupa",
+     "x": 900,
+     "y": 1310,
+     "h": 260,
+     "t": 0.2
+    }
+   ]
+  }
+ ]
+}

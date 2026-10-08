@@ -1,0 +1,30 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap">
+<style>
+*{box-sizing:border-box}
+html,body{margin:0;width:1280px;height:720px;overflow:hidden}
+body{position:relative;font-family:"Permanent Marker",cursive;background:#141414}
+.fondo{position:absolute;inset:0;background:url(../fondos/puerto_avion.png) center/cover;filter:brightness(.55) saturate(1.1)}
+.vineta{position:absolute;inset:0;background:radial-gradient(circle at 70% 60%,rgba(0,0,0,0) 0,rgba(0,0,0,.55) 75%)}
+.t1{position:absolute;left:34px;top:22px;font-size:104px;line-height:.95;color:#FFFDF6;transform:rotate(-3deg);
+  text-shadow:-6px -6px 0 #1b1b1b,6px -6px 0 #1b1b1b,-6px 6px 0 #1b1b1b,6px 6px 0 #1b1b1b,0 8px 0 #1b1b1b,10px 14px 0 rgba(0,0,0,.45)}
+.t1 b{color:#FFD23F;font-weight:400}
+.masc{position:absolute;right:20px;bottom:-30px;height:470px;filter:drop-shadow(0 16px 10px rgba(0,0,0,.55));transform:rotate(3deg)}
+.m{position:absolute;width:250px;height:250px;border-radius:50%;border:10px solid #1b1b1b;display:flex;flex-direction:column;align-items:center;justify-content:center;color:#1b1b1b;box-shadow:12px 14px 0 rgba(0,0,0,.45)}
+.m span{font-size:28px;line-height:1}.m i{font-style:normal;font-size:84px;line-height:1.05}
+.m1{left:60px;top:330px;background:#8FD18F;transform:rotate(-8deg)}
+.m2{left:400px;top:350px;background:#FF5A36;transform:rotate(6deg);color:#FFFDF6}
+.vs{position:absolute;left:290px;top:440px;font-size:60px;color:#FFFDF6;text-shadow:-5px -5px 0 #1b1b1b,5px -5px 0 #1b1b1b,-5px 5px 0 #1b1b1b,5px 5px 0 #1b1b1b;z-index:3}
+.stripe{position:absolute;left:0;right:0;bottom:0;height:14px;background:repeating-linear-gradient(-45deg,#F5B301 0 18px,#1b1b1b 18px 36px)}
+.tag{position:absolute;left:60px;bottom:40px;background:#FFFDF6;border:6px solid #1b1b1b;border-radius:14px;padding:4px 22px;font-size:44px;transform:rotate(-2deg);color:#1b1b1b;white-space:nowrap}
+</style></head><body>
+<div class="fondo"></div><div class="vineta"></div>
+<div class="t1">EL BILLETE<br>NO CUESTA <b>10 €</b></div>
+<div class="m m1"><span>tarifa media</span><i>51 €</i><span>+10 %</span></div>
+<div class="vs">+24</div>
+<div class="m m2"><span>con extras</span><i>75 €</i><span>por pasajero</span></div>
+<img class="masc" src="../../marca/mascota/recortes/sorprendido.png">
+<div class="tag">las cuentas de Ryanair, por pasajero</div>
+<div class="stripe"></div>
+</body></html>

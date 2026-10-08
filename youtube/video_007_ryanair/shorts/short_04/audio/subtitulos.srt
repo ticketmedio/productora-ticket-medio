@@ -1,0 +1,35 @@
+1
+00:00:00,150 --> 00:00:07,997
+¿Gana Ryanair con las maletas? Los extras son veinticuatro euros por pasajero: el treinta y dos por ciento.
+
+2
+00:00:08,163 --> 00:00:12,214
+Es todo lo que el pasajero paga aparte del asiento.
+
+3
+00:00:12,214 --> 00:00:15,470
+Ryanair no lo desglosa; solo da el total.
+
+4
+00:00:15,820 --> 00:00:19,688
+Y fíjate en cómo crece cada parte: en el último año,
+
+5
+00:00:19,688 --> 00:00:25,936
+los ingresos por tarifas subieron un catorce por ciento; los de los extras, un seis.
+
+6
+00:00:25,936 --> 00:00:29,878
+Es decir: la tarifa crece más deprisa que los extras.
+
+7
+00:00:30,228 --> 00:00:34,479
+Fíjate en algo: casi un tercio del dinero viene de los extras,
+
+8
+00:00:34,479 --> 00:00:37,290
+pero los dos tercios vienen de la tarifa.
+
+9
+00:00:37,290 --> 00:00:41,060
+Así que no, el negocio no es solo cobrar por la maleta.

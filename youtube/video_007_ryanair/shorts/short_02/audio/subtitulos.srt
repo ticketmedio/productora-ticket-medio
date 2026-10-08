@@ -1,0 +1,39 @@
+1
+00:00:00,150 --> 00:00:05,226
+¿Adónde va cada euro de un billete de Ryanair? Primero, el combustible.
+
+2
+00:00:04,906 --> 00:00:07,173
+Veintiséis euros por pasajero.
+
+3
+00:00:07,173 --> 00:00:10,346
+El treinta y cinco por ciento del billete.
+
+4
+00:00:10,346 --> 00:00:17,070
+Ryanair dice que ya tiene cubierto el ochenta por ciento del combustible del próximo año,
+
+5
+00:00:17,070 --> 00:00:20,168
+a unos sesenta y siete dólares el barril.
+
+6
+00:00:20,518 --> 00:00:22,999
+Segunda parada: el personal.
+
+7
+00:00:22,999 --> 00:00:27,431
+Casi nueve euros por pasajero, el doce por ciento.
+
+8
+00:00:27,781 --> 00:00:30,212
+Tercera parada: los aeropuertos.
+
+9
+00:00:30,212 --> 00:00:32,642
+Ocho euros con cuarenta y cinco.
+
+10
+00:00:32,642 --> 00:00:34,085
+El once por ciento.

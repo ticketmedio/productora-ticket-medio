@@ -1,0 +1,1854 @@
+{
+ "musica": "audio/musica.mp3",
+ "musica_db": -26,
+ "cola": 3,
+ "escenas": [
+  {
+   "id": "01",
+   "desde": "El billete medio de Ryanair",
+   "fondo": "puerto_avion",
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 90,
+     "y": 120,
+     "w": 1230,
+     "h": 870,
+     "t": 0
+    },
+    {
+     "tipo": "texto",
+     "texto": "El billete medio de Ryanair…",
+     "x": 700,
+     "y": 230,
+     "tam": 58,
+     "fuente": "mano",
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "NO CUESTA 10 €",
+     "x": 700,
+     "y": 400,
+     "tam": 100,
+     "color": "#E0521B",
+     "anim": "pop",
+     "en": "no cuesta diez euros"
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 74.57,
+     "x": 700,
+     "y": 620,
+     "tam": 170,
+     "sufijo": " €",
+     "dec": 2,
+     "en": "setenta y cuatro con cincuenta y siete"
+    },
+    {
+     "tipo": "texto",
+     "texto": "y le deja de beneficio 10,84 €",
+     "x": 700,
+     "y": 830,
+     "tam": 56,
+     "fuente": "mano",
+     "papel": true,
+     "en": "diez euros con ochenta y cuatro"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "sorprendido",
+     "x": 1620,
+     "y": 1015,
+     "h": 520,
+     "entra": "der",
+     "t": 0.3
+    }
+   ],
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "fuente": "Ryanair Holdings plc, resultados del ejercicio FY26 (1/4/2025–31/3/2026), comunicado del 18/5/2026 (cálculo propio por pasajero)"
+  },
+  {
+   "id": "02",
+   "desde": "Hoy vamos a abrir el ticket",
+   "fondo": "#FFF3C4",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "El ticket de un\nbillete de Ryanair",
+     "x": 800,
+     "y": 270,
+     "tam": 84,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "con las cuentas de la propia aerolínea",
+     "x": 800,
+     "y": 520,
+     "tam": 56,
+     "fuente": "mano",
+     "en": "cuentas que acaba de publicar"
+    },
+    {
+     "tipo": "texto",
+     "texto": "¿Adónde va cada euro?",
+     "x": 800,
+     "y": 700,
+     "tam": 64,
+     "fuente": "mano",
+     "papel": true,
+     "en": "Y a ver adónde va"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "saluda",
+     "x": 1620,
+     "y": 1015,
+     "h": 520,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "Ryanair Holdings plc, resultados del ejercicio FY26 (1/4/2025–31/3/2026), comunicado del 18/5/2026"
+  },
+  {
+   "id": "03",
+   "desde": "Primero, las presentaciones",
+   "fondo": "calle_comercial",
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 90,
+     "y": 120,
+     "w": 1230,
+     "h": 870,
+     "t": 0
+    },
+    {
+     "tipo": "texto",
+     "texto": "Ryanair · ejercicio cerrado en marzo de 2026",
+     "x": 700,
+     "y": 220,
+     "tam": 52,
+     "fuente": "mano",
+     "t": 0.2
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 208.4,
+     "x": 360,
+     "y": 430,
+     "tam": 130,
+     "sufijo": " M",
+     "dec": 1,
+     "en": "doscientos ocho millones"
+    },
+    {
+     "tipo": "texto",
+     "texto": "pasajeros",
+     "x": 360,
+     "y": 540,
+     "tam": 44,
+     "fuente": "mano",
+     "en": "doscientos ocho millones"
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 647,
+     "x": 1000,
+     "y": 430,
+     "tam": 130,
+     "en": "seiscientos cuarenta y siete"
+    },
+    {
+     "tipo": "texto",
+     "texto": "aviones",
+     "x": 1000,
+     "y": 540,
+     "tam": 44,
+     "fuente": "mano",
+     "en": "seiscientos cuarenta y siete"
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 621,
+     "x": 360,
+     "y": 720,
+     "tam": 130,
+     "en": "seiscientos veintiuno"
+    },
+    {
+     "tipo": "texto",
+     "texto": "son Boeing 737",
+     "x": 360,
+     "y": 830,
+     "tam": 44,
+     "fuente": "mano",
+     "en": "seiscientos veintiuno"
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 30000,
+     "x": 1000,
+     "y": 720,
+     "tam": 130,
+     "en": "seiscientos veintiuno",
+     "t": 1.8
+    },
+    {
+     "tipo": "texto",
+     "texto": "empleados",
+     "x": 1000,
+     "y": 830,
+     "tam": 44,
+     "fuente": "mano",
+     "en": "seiscientos veintiuno",
+     "t": 2.0
+    },
+    {
+     "tipo": "mascota",
+     "pose": "saluda",
+     "x": 1630,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "zoom": [
+    1.0,
+    1.05
+   ],
+   "fuente": "Ryanair Holdings plc, resultados del ejercicio FY26 (1/4/2025–31/3/2026), comunicado del 18/5/2026"
+  },
+  {
+   "id": "04",
+   "desde": "Sus aviones iban llenos",
+   "fondo": "#E3E7EC",
+   "capas": [
+    {
+     "tipo": "cifra",
+     "hasta": 94,
+     "x": 800,
+     "y": 340,
+     "tam": 220,
+     "sufijo": " %",
+     "color": "#2E8B57",
+     "t": 0.3
+    },
+    {
+     "tipo": "texto",
+     "texto": "de ocupación",
+     "x": 800,
+     "y": 500,
+     "tam": 60,
+     "fuente": "mano",
+     "t": 0.4
+    },
+    {
+     "tipo": "texto",
+     "texto": "De cada 100 asientos, solo 6 volaron vacíos",
+     "x": 800,
+     "y": 700,
+     "tam": 54,
+     "fuente": "mano",
+     "papel": true,
+     "en": "solo seis volaron vacíos"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "contento",
+     "x": 1620,
+     "y": 1015,
+     "h": 520,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "Ryanair Holdings plc, resultados del ejercicio FY26 (1/4/2025–31/3/2026), comunicado del 18/5/2026"
+  },
+  {
+   "id": "05",
+   "desde": "Para que te hagas una idea del tamaño",
+   "fondo": "#F4E9D0",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "Ingresos anuales (distintos ejercicios y sectores)",
+     "x": 800,
+     "y": 190,
+     "tam": 48,
+     "fuente": "mano",
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 290,
+     "w": 1000,
+     "h": 100,
+     "color": "#F5B301",
+     "texto": "Mercadona · casi 42.000 M€",
+     "tam": 42,
+     "en": "casi cuarenta y dos mil",
+     "dur": 0.9
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 430,
+     "w": 370,
+     "h": 100,
+     "color": "#9CC5E8",
+     "texto": "Ryanair · 15.540 M€",
+     "tam": 38,
+     "en": "quince mil quinientos millones",
+     "dur": 0.9,
+     "t": 0.6
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 570,
+     "w": 190,
+     "h": 100,
+     "color": "#8FD18F",
+     "texto": "Lidl España · 7.641 M€",
+     "tam": 34,
+     "en": "siete mil seiscientos",
+     "dur": 0.9
+    },
+    {
+     "tipo": "mascota",
+     "pose": "lupa",
+     "x": 1650,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "Ryanair Holdings plc, resultados del ejercicio FY26 (1/4/2025–31/3/2026), comunicado del 18/5/2026 · Mercadona, Memoria 2025 · Lidl España, comunicado del 30/9/2026"
+  },
+  {
+   "id": "06",
+   "desde": "Con eso, ingresó quince mil",
+   "fondo": "puerto_avion",
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 90,
+     "y": 120,
+     "w": 1230,
+     "h": 870,
+     "t": 0
+    },
+    {
+     "tipo": "texto",
+     "texto": "Último ejercicio",
+     "x": 700,
+     "y": 230,
+     "tam": 56,
+     "fuente": "mano",
+     "t": 0.2
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 15540,
+     "x": 700,
+     "y": 400,
+     "tam": 150,
+     "sufijo": " M€",
+     "en": "quince mil quinientos cuarenta"
+    },
+    {
+     "tipo": "texto",
+     "texto": "ingresos · +11 %",
+     "x": 700,
+     "y": 540,
+     "tam": 56,
+     "color": "#2E8B57",
+     "en": "Un once por ciento"
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 2260,
+     "x": 700,
+     "y": 710,
+     "tam": 150,
+     "sufijo": " M€",
+     "color": "#E0521B",
+     "en": "dos mil doscientos sesenta"
+    },
+    {
+     "tipo": "texto",
+     "texto": "beneficio neto · +40 %",
+     "x": 700,
+     "y": 850,
+     "tam": 56,
+     "color": "#2E8B57",
+     "en": "un cuarenta por ciento"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "sorprendido",
+     "x": 1620,
+     "y": 1015,
+     "h": 520,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "fuente": "Ryanair Holdings plc, resultados del ejercicio FY26 (1/4/2025–31/3/2026), comunicado del 18/5/2026"
+  },
+  {
+   "id": "07",
+   "desde": "Hagamos primero unas cuentas rápidas",
+   "fondo": "#E6E0F5",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "Medias por avión y por empleado",
+     "x": 800,
+     "y": 190,
+     "tam": 54,
+     "fuente": "mano",
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 322000,
+     "x": 450,
+     "y": 400,
+     "tam": 130,
+     "en": "trescientos veintidós mil"
+    },
+    {
+     "tipo": "texto",
+     "texto": "pasajeros por avión",
+     "x": 450,
+     "y": 510,
+     "tam": 44,
+     "fuente": "mano",
+     "en": "trescientos veintidós mil"
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 24,
+     "x": 1150,
+     "y": 400,
+     "tam": 130,
+     "sufijo": " M€",
+     "en": "veinticuatro millones"
+    },
+    {
+     "tipo": "texto",
+     "texto": "ingresos por avión",
+     "x": 1150,
+     "y": 510,
+     "tam": 44,
+     "fuente": "mano",
+     "en": "veinticuatro millones"
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 3.5,
+     "x": 450,
+     "y": 700,
+     "tam": 130,
+     "sufijo": " M€",
+     "dec": 1,
+     "color": "#E0521B",
+     "en": "tres millones y medio"
+    },
+    {
+     "tipo": "texto",
+     "texto": "beneficio por avión",
+     "x": 450,
+     "y": 810,
+     "tam": 44,
+     "fuente": "mano",
+     "en": "tres millones y medio"
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 518000,
+     "x": 1150,
+     "y": 700,
+     "tam": 120,
+     "sufijo": " €",
+     "en": "quinientos dieciocho mil"
+    },
+    {
+     "tipo": "texto",
+     "texto": "ingresos por empleado",
+     "x": 1150,
+     "y": 810,
+     "tam": 44,
+     "fuente": "mano",
+     "en": "quinientos dieciocho mil"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "pensativo",
+     "x": 1680,
+     "y": 1015,
+     "h": 480,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "Cálculo propio con las cifras de Ryanair (medias de todo el grupo)"
+  },
+  {
+   "id": "08",
+   "desde": "Y mira lo que pasó con los costes",
+   "fondo": "#FFF3C4",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "Costes vs ingresos (variación anual)",
+     "x": 800,
+     "y": 190,
+     "tam": 54,
+     "fuente": "mano",
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 290,
+     "w": 450,
+     "h": 120,
+     "color": "#D9D2C0",
+     "texto": "Costes  +6 %",
+     "tam": 48,
+     "en": "Los costes subieron",
+     "dur": 0.8
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 450,
+     "w": 830,
+     "h": 120,
+     "color": "#F5B301",
+     "texto": "Ingresos  +11 %",
+     "tam": 48,
+     "en": "Los ingresos, un once",
+     "dur": 0.8
+    },
+    {
+     "tipo": "texto",
+     "texto": "Beneficio operativo  +52 %",
+     "x": 800,
+     "y": 760,
+     "tam": 76,
+     "color": "#2E8B57",
+     "anim": "pop",
+     "en": "cincuenta y dos por ciento"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "riendo",
+     "x": 1650,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "Ryanair Holdings plc, resultados del ejercicio FY26 (1/4/2025–31/3/2026), comunicado del 18/5/2026"
+  },
+  {
+   "id": "09",
+   "desde": "Ahora, pongamos todo eso",
+   "fondo": "#E3E7EC",
+   "capas": [
+    {
+     "tipo": "sello",
+     "texto": "EN UN SOLO BILLETE",
+     "x": 800,
+     "y": 260,
+     "tam": 80,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "Cada cifra ÷ 208,4 millones de pasajeros",
+     "x": 800,
+     "y": 480,
+     "tam": 56,
+     "fuente": "mano",
+     "en": "Dividimos cada cifra"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Un cálculo nuestro: una media,\nno el precio de ningún vuelo",
+     "x": 800,
+     "y": 700,
+     "tam": 56,
+     "fuente": "mano",
+     "papel": true,
+     "en": "Es un cálculo nuestro"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "lupa",
+     "x": 1620,
+     "y": 1015,
+     "h": 520,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "Cálculo propio con Ryanair Holdings plc, resultados del ejercicio FY26 (1/4/2025–31/3/2026), comunicado del 18/5/2026"
+  },
+  {
+   "id": "10",
+   "desde": "Cada pasajero le deja",
+   "fondo": "supermercado",
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 90,
+     "y": 120,
+     "w": 1230,
+     "h": 870,
+     "t": 0
+    },
+    {
+     "tipo": "texto",
+     "texto": "Cada pasajero le deja a Ryanair",
+     "x": 700,
+     "y": 230,
+     "tam": 56,
+     "fuente": "mano",
+     "t": 0.2
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 74.57,
+     "x": 700,
+     "y": 420,
+     "tam": 190,
+     "sufijo": " €",
+     "dec": 2,
+     "t": 0.4
+    },
+    {
+     "tipo": "texto",
+     "texto": "de media (cálculo propio)",
+     "x": 700,
+     "y": 580,
+     "tam": 50,
+     "fuente": "mano",
+     "t": 2.0
+    },
+    {
+     "tipo": "mascota",
+     "pose": "moneda",
+     "x": 1620,
+     "y": 1015,
+     "h": 520,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "fuente": "Ryanair Holdings plc, resultados del ejercicio FY26 (1/4/2025–31/3/2026), comunicado del 18/5/2026"
+  },
+  {
+   "id": "11",
+   "desde": "De la tarifa, cincuenta euros",
+   "fondo": "#F4E9D0",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "De la tarifa: 50,67 €  (68 %)",
+     "x": 800,
+     "y": 190,
+     "tam": 58,
+     "fuente": "mano",
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 300,
+     "w": 1000,
+     "h": 110,
+     "color": "#9CC5E8",
+     "texto": "Tarifa media ≈ 51 € (+10 %)",
+     "tam": 46,
+     "en": "cincuenta euros con sesenta y siete",
+     "dur": 0.9
+    },
+    {
+     "tipo": "texto",
+     "texto": "Es la media de todos los billetes:\nlos de 10 € y los de 200 €",
+     "x": 800,
+     "y": 540,
+     "tam": 54,
+     "fuente": "mano",
+     "en": "los de diez euros y los de doscientos"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Ryanair no dice cuántos billetes vende a cada precio",
+     "x": 800,
+     "y": 780,
+     "tam": 48,
+     "fuente": "mano",
+     "papel": true,
+     "en": "Ryanair dice que la tarifa media"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "encoge_hombros",
+     "x": 1660,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "Ryanair Holdings plc, resultados del ejercicio FY26 (1/4/2025–31/3/2026), comunicado del 18/5/2026"
+  },
+  {
+   "id": "12",
+   "desde": "Y de los extras, veinticuatro",
+   "fondo": "#FFF3C4",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "De los extras: 23,94 €  (32 %)",
+     "x": 800,
+     "y": 190,
+     "tam": 58,
+     "fuente": "mano",
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 300,
+     "w": 560,
+     "h": 110,
+     "color": "#F5B301",
+     "texto": "Extras ≈ 24 € por pasajero",
+     "tam": 40,
+     "en": "veinticuatro euros",
+     "dur": 0.9
+    },
+    {
+     "tipo": "texto",
+     "texto": "Todo lo que pagas aparte del asiento",
+     "x": 800,
+     "y": 540,
+     "tam": 56,
+     "fuente": "mano",
+     "en": "aparte del asiento"
+    },
+    {
+     "tipo": "texto",
+     "texto": "La empresa solo da el total",
+     "x": 800,
+     "y": 700,
+     "tam": 52,
+     "fuente": "mano",
+     "papel": true,
+     "en": "no lo desglosa"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "normal",
+     "x": 1650,
+     "y": 1015,
+     "h": 480,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "Ryanair Holdings plc, resultados del ejercicio FY26 (1/4/2025–31/3/2026), comunicado del 18/5/2026"
+  },
+  {
+   "id": "13",
+   "desde": "Y fíjate en cómo crece",
+   "fondo": "#E6E0F5",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "Cómo crece cada parte (último año)",
+     "x": 800,
+     "y": 190,
+     "tam": 54,
+     "fuente": "mano",
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 290,
+     "w": 900,
+     "h": 110,
+     "color": "#9CC5E8",
+     "texto": "Tarifas  +14 %",
+     "tam": 48,
+     "en": "un catorce por ciento",
+     "dur": 0.8
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 450,
+     "w": 400,
+     "h": 110,
+     "color": "#F5B301",
+     "texto": "Extras  +6 %",
+     "tam": 48,
+     "en": "un seis",
+     "dur": 0.8
+    },
+    {
+     "tipo": "texto",
+     "texto": "La tarifa crece más deprisa",
+     "x": 800,
+     "y": 720,
+     "tam": 70,
+     "color": "#E0521B",
+     "anim": "pop",
+     "en": "la tarifa crece más deprisa"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "senala",
+     "x": 1650,
+     "y": 1015,
+     "h": 500,
+     "mira": "izq",
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "Ryanair Holdings plc, resultados del ejercicio FY26 (1/4/2025–31/3/2026), comunicado del 18/5/2026"
+  },
+  {
+   "id": "14",
+   "desde": "Fíjate en algo",
+   "fondo": "#E3E7EC",
+   "capas": [
+    {
+     "tipo": "tarta",
+     "x": 470,
+     "y": 560,
+     "r": 290,
+     "t": 0.3,
+     "porciones": [
+      {
+       "v": 68,
+       "color": "#9CC5E8",
+       "en": "pero los dos tercios"
+      },
+      {
+       "v": 32,
+       "color": "#F5B301",
+       "en": "casi un tercio"
+      }
+     ]
+    },
+    {
+     "tipo": "rect",
+     "x": 860,
+     "y": 412,
+     "w": 56,
+     "h": 56,
+     "color": "#9CC5E8",
+     "en": "pero los dos tercios",
+     "dur": 0.3
+    },
+    {
+     "tipo": "texto",
+     "texto": "68 % · tarifa",
+     "x": 945,
+     "y": 440,
+     "tam": 52,
+     "ancla": "izq",
+     "en": "pero los dos tercios"
+    },
+    {
+     "tipo": "rect",
+     "x": 860,
+     "y": 522,
+     "w": 56,
+     "h": 56,
+     "color": "#F5B301",
+     "en": "casi un tercio",
+     "dur": 0.3
+    },
+    {
+     "tipo": "texto",
+     "texto": "32 % · extras",
+     "x": 945,
+     "y": 550,
+     "tam": 52,
+     "ancla": "izq",
+     "en": "casi un tercio"
+    },
+    {
+     "tipo": "texto",
+     "texto": "El negocio no es solo la maleta",
+     "x": 1180,
+     "y": 860,
+     "tam": 52,
+     "fuente": "mano",
+     "papel": true,
+     "en": "no es solo cobrar por la maleta"
+    }
+   ],
+   "fuente": "Ryanair Holdings plc, resultados del ejercicio FY26 (1/4/2025–31/3/2026), comunicado del 18/5/2026 (porcentajes: cálculo propio)"
+  },
+  {
+   "id": "15",
+   "desde": "Ahora, la otra mitad del ticket",
+   "fondo": "#FFF3C4",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "Ahora, adónde va",
+     "x": 800,
+     "y": 260,
+     "tam": 90,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "el dinero de ese billete",
+     "x": 800,
+     "y": 430,
+     "tam": 70,
+     "fuente": "mano",
+     "en": "adónde va ese dinero"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "pensativo",
+     "x": 1620,
+     "y": 1015,
+     "h": 520,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "16",
+   "desde": "Primera parada, y la más grande",
+   "fondo": "centro_logistico",
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 90,
+     "y": 120,
+     "w": 1230,
+     "h": 870,
+     "t": 0
+    },
+    {
+     "tipo": "texto",
+     "texto": "PARADA 1: combustible",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 26,
+     "x": 450,
+     "y": 460,
+     "tam": 220,
+     "sufijo": " €",
+     "color": "#E0521B",
+     "en": "Veintiséis euros por pasajero"
+    },
+    {
+     "tipo": "texto",
+     "texto": "por pasajero · 35 % del billete",
+     "x": 450,
+     "y": 640,
+     "tam": 46,
+     "fuente": "mano",
+     "en": "el treinta y cinco por ciento"
+    },
+    {
+     "tipo": "texto",
+     "texto": "80 % cubierto\npara el próximo año",
+     "x": 1020,
+     "y": 480,
+     "tam": 60,
+     "en": "cubierto el ochenta por ciento"
+    },
+    {
+     "tipo": "texto",
+     "texto": "a ≈ 67 $ el barril",
+     "x": 1020,
+     "y": 680,
+     "tam": 48,
+     "fuente": "mano",
+     "en": "sesenta y siete dólares"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "senala",
+     "x": 1660,
+     "y": 1015,
+     "h": 500,
+     "mira": "izq",
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "fuente": "Ryanair Holdings plc, resultados del ejercicio FY26 (1/4/2025–31/3/2026), comunicado del 18/5/2026"
+  },
+  {
+   "id": "17",
+   "desde": "Segunda parada: el personal",
+   "fondo": "#E3E7EC",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "PARADA 2: el personal",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 8.93,
+     "x": 700,
+     "y": 450,
+     "tam": 200,
+     "sufijo": " €",
+     "dec": 2,
+     "color": "#E0521B",
+     "en": "Casi nueve euros"
+    },
+    {
+     "tipo": "texto",
+     "texto": "por pasajero · 12 % del billete",
+     "x": 700,
+     "y": 640,
+     "tam": 54,
+     "fuente": "mano",
+     "en": "el doce por ciento"
+    },
+    {
+     "tipo": "texto",
+     "texto": "1.860 M€ al año",
+     "x": 700,
+     "y": 800,
+     "tam": 52,
+     "fuente": "mano",
+     "papel": true,
+     "t": 1.5
+    },
+    {
+     "tipo": "mascota",
+     "pose": "riendo",
+     "x": 1640,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "Ryanair Holdings plc, resultados del ejercicio FY26 (1/4/2025–31/3/2026), comunicado del 18/5/2026"
+  },
+  {
+   "id": "18",
+   "desde": "Tercera parada: los aeropuertos",
+   "fondo": "oficina_financiera",
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 90,
+     "y": 120,
+     "w": 1230,
+     "h": 870,
+     "t": 0
+    },
+    {
+     "tipo": "texto",
+     "texto": "PARADA 3: los aeropuertos",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 8.45,
+     "x": 450,
+     "y": 460,
+     "tam": 200,
+     "sufijo": " €",
+     "dec": 2,
+     "color": "#E0521B",
+     "en": "Ocho euros con cuarenta y cinco"
+    },
+    {
+     "tipo": "texto",
+     "texto": "por pasajero · 11 % del billete",
+     "x": 450,
+     "y": 640,
+     "tam": 46,
+     "fuente": "mano",
+     "en": "El once por ciento"
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 1760,
+     "x": 1010,
+     "y": 460,
+     "tam": 150,
+     "sufijo": " M€",
+     "en": "Mil setecientos sesenta"
+    },
+    {
+     "tipo": "texto",
+     "texto": "en tasas aeroportuarias al año",
+     "x": 1010,
+     "y": 620,
+     "tam": 44,
+     "fuente": "mano",
+     "en": "tasas aeroportuarias"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "lupa",
+     "x": 1660,
+     "y": 1015,
+     "h": 500,
+     "mira": "izq",
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "fuente": "Ryanair Holdings plc, resultados del ejercicio FY26 (1/4/2025–31/3/2026), comunicado del 18/5/2026"
+  },
+  {
+   "id": "19",
+   "desde": "Y el resto de costes",
+   "fondo": "#F4E9D0",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "EL RESTO DE COSTES",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 19.43,
+     "x": 700,
+     "y": 450,
+     "tam": 200,
+     "sufijo": " €",
+     "dec": 2,
+     "color": "#E0521B",
+     "en": "unos diecinueve euros"
+    },
+    {
+     "tipo": "texto",
+     "texto": "mantenimiento, rutas y todo lo demás · 26 %",
+     "x": 700,
+     "y": 640,
+     "tam": 46,
+     "fuente": "mano",
+     "en": "mantenimiento, rutas"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "normal",
+     "x": 1640,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "Ryanair Holdings plc, resultados del ejercicio FY26 (1/4/2025–31/3/2026), comunicado del 18/5/2026 (resto = costes totales − combustible − personal − tasas; cálculo propio)"
+  },
+  {
+   "id": "20",
+   "desde": "Lo que queda, antes de impuestos",
+   "fondo": "#FFF3C4",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "LO QUE QUEDA",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 300,
+     "w": 760,
+     "h": 110,
+     "color": "#F5B301",
+     "texto": "Beneficio operativo: 11,37 €",
+     "tam": 44,
+     "en": "beneficio operativo",
+     "dur": 0.8
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 450,
+     "w": 700,
+     "h": 110,
+     "color": "#E0521B",
+     "texto": "Beneficio neto: 10,84 €",
+     "tam": 44,
+     "en": "beneficio neto antes",
+     "dur": 0.8
+    },
+    {
+     "tipo": "texto",
+     "texto": "14,5 % de los ingresos",
+     "x": 700,
+     "y": 740,
+     "tam": 70,
+     "color": "#2E8B57",
+     "anim": "pop",
+     "en": "catorce y medio por ciento"
+    },
+    {
+     "tipo": "texto",
+     "texto": "(neto, antes de partidas excepcionales)",
+     "x": 700,
+     "y": 850,
+     "tam": 40,
+     "fuente": "mano",
+     "t": 1.8
+    },
+    {
+     "tipo": "mascota",
+     "pose": "contento",
+     "x": 1650,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "Ryanair Holdings plc, resultados del ejercicio FY26 (1/4/2025–31/3/2026), comunicado del 18/5/2026 (cálculo propio)"
+  },
+  {
+   "id": "21",
+   "desde": "Para ponerlo en perspectiva",
+   "fondo": "#E3E7EC",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "Beneficio por cada euro ingresado",
+     "x": 800,
+     "y": 190,
+     "tam": 54,
+     "fuente": "mano",
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 290,
+     "w": 1000,
+     "h": 100,
+     "color": "#E0521B",
+     "texto": "Ryanair  14,5 c",
+     "tam": 44,
+     "en": "catorce céntimos y medio",
+     "dur": 0.8
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 430,
+     "w": 320,
+     "h": 100,
+     "color": "#F5B301",
+     "texto": "Mercadona  ≈ 4 c",
+     "tam": 36,
+     "en": "Mercadona, unos cuatro",
+     "dur": 0.8
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 570,
+     "w": 290,
+     "h": 100,
+     "color": "#8FD18F",
+     "texto": "Lidl  ≈ 3,6 c",
+     "tam": 36,
+     "en": "Lidl, tres y medio",
+     "dur": 0.8
+    },
+    {
+     "tipo": "texto",
+     "texto": "Sectores muy distintos",
+     "x": 800,
+     "y": 800,
+     "tam": 52,
+     "fuente": "mano",
+     "papel": true,
+     "en": "sectores muy distintos"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "pensativo",
+     "x": 1660,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "Ryanair Holdings plc, resultados del ejercicio FY26 (1/4/2025–31/3/2026), comunicado del 18/5/2026 · Mercadona, Memoria 2025 · Lidl España, comunicado 30/9/2026 (ejercicios distintos)"
+  },
+  {
+   "id": "22",
+   "desde": "Y esto no se detiene",
+   "fondo": "puerto_avion",
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 90,
+     "y": 120,
+     "w": 1230,
+     "h": 870,
+     "t": 0
+    },
+    {
+     "tipo": "texto",
+     "texto": "Lo que viene",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 216,
+     "x": 450,
+     "y": 440,
+     "tam": 170,
+     "sufijo": " M",
+     "en": "doscientos dieciséis millones"
+    },
+    {
+     "tipo": "texto",
+     "texto": "pasajeros previstos (+4 %)",
+     "x": 450,
+     "y": 590,
+     "tam": 44,
+     "fuente": "mano",
+     "en": "doscientos dieciséis millones"
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 300,
+     "x": 1000,
+     "y": 440,
+     "tam": 170,
+     "en": "trescientos aviones"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Boeing 737 MAX-10 encargados",
+     "x": 1000,
+     "y": 590,
+     "tam": 44,
+     "fuente": "mano",
+     "en": "trescientos aviones"
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 1900,
+     "x": 700,
+     "y": 800,
+     "tam": 120,
+     "sufijo": " M€",
+     "en": "mil novecientos millones"
+    },
+    {
+     "tipo": "texto",
+     "texto": "invertidos el último año",
+     "x": 700,
+     "y": 900,
+     "tam": 44,
+     "fuente": "mano",
+     "en": "invirtió"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "corriendo",
+     "x": 1660,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "fuente": "Ryanair Holdings plc, resultados del ejercicio FY26 (1/4/2025–31/3/2026), comunicado del 18/5/2026"
+  },
+  {
+   "id": "23",
+   "desde": "Entonces, ¿cuál es el truco?",
+   "fondo": "#FFF3C4",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "Tres trucos, con sus cifras",
+     "x": 800,
+     "y": 220,
+     "tam": 70,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "1 · Llenar el avión (94 %)",
+     "x": 800,
+     "y": 420,
+     "tam": 62,
+     "en": "Uno: llenar el avión"
+    },
+    {
+     "tipo": "texto",
+     "texto": "2 · Un solo modelo de avión",
+     "x": 800,
+     "y": 580,
+     "tam": 62,
+     "en": "un solo modelo de avión"
+    },
+    {
+     "tipo": "texto",
+     "texto": "3 · Cobrar aparte lo que no es el asiento",
+     "x": 800,
+     "y": 740,
+     "tam": 56,
+     "en": "Y tres: cobrar aparte"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "pensativo",
+     "x": 1650,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "Ryanair Holdings plc, resultados del ejercicio FY26 (1/4/2025–31/3/2026), comunicado del 18/5/2026"
+  },
+  {
+   "id": "24",
+   "desde": "Y aquí entra la ley europea",
+   "fondo": "#E6E0F5",
+   "capas": [
+    {
+     "tipo": "sello",
+     "texto": "LA LEY EUROPEA",
+     "x": 800,
+     "y": 240,
+     "tam": 76,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "Precio final siempre visible:\ntarifa + impuestos + tasas obligatorias",
+     "x": 800,
+     "y": 470,
+     "tam": 56,
+     "fuente": "mano",
+     "en": "el precio final tiene que mostrarse"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Extras opcionales: claros desde el principio,\ny aceptados de forma expresa",
+     "x": 800,
+     "y": 700,
+     "tam": 52,
+     "fuente": "mano",
+     "papel": true,
+     "en": "suplementos opcionales"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "lupa",
+     "x": 1640,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "Reglamento (CE) 1008/2008, art. 23.1"
+  },
+  {
+   "id": "25",
+   "desde": "Ahora, lo que no sabemos",
+   "fondo": "#E3E7EC",
+   "capas": [
+    {
+     "tipo": "sello",
+     "texto": "LO QUE NO SABEMOS",
+     "x": 800,
+     "y": 250,
+     "tam": 80,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "· Cuántos billetes vende a 10 € ni su margen",
+     "x": 800,
+     "y": 450,
+     "tam": 50,
+     "fuente": "mano",
+     "en": "cuántos billetes vende a diez euros"
+    },
+    {
+     "tipo": "texto",
+     "texto": "· La tarifa de 51 € es una media",
+     "x": 800,
+     "y": 580,
+     "tam": 50,
+     "fuente": "mano",
+     "en": "es una media"
+    },
+    {
+     "tipo": "texto",
+     "texto": "· Las cuentas son de todo el grupo, no solo de España",
+     "x": 800,
+     "y": 710,
+     "tam": 48,
+     "fuente": "mano",
+     "en": "de todo el grupo"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Nadie con el dato dice «pierde en cada billete»",
+     "x": 800,
+     "y": 880,
+     "tam": 44,
+     "fuente": "mano",
+     "papel": true,
+     "en": "Así que cualquiera que te diga"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "encoge_hombros",
+     "x": 1660,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "26",
+   "desde": "Así que, la próxima vez que mires",
+   "fondo": "supermercado",
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 90,
+     "y": 120,
+     "w": 1230,
+     "h": 870,
+     "t": 0
+    },
+    {
+     "tipo": "texto",
+     "texto": "El viaje de tu billete",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "tarta",
+     "x": 420,
+     "y": 640,
+     "r": 260,
+     "t": 0.3,
+     "porciones": [
+      {
+       "v": 34.9,
+       "color": "#E0521B",
+       "en": "veintiséis, para combustible"
+      },
+      {
+       "v": 12.0,
+       "color": "#F5B301",
+       "en": "Nueve, para el personal"
+      },
+      {
+       "v": 11.3,
+       "color": "#9CC5E8",
+       "en": "para los aeropuertos"
+      },
+      {
+       "v": 26.1,
+       "color": "#D9D2C0",
+       "en": "Diecinueve, para el resto"
+      },
+      {
+       "v": 15.7,
+       "color": "#8FD18F",
+       "en": "Y once, de beneficio"
+      }
+     ]
+    },
+    {
+     "tipo": "rect",
+     "x": 760,
+     "y": 372,
+     "w": 56,
+     "h": 56,
+     "color": "#E0521B",
+     "en": "veintiséis, para combustible",
+     "dur": 0.3
+    },
+    {
+     "tipo": "texto",
+     "texto": "26 € · combustible",
+     "x": 845,
+     "y": 400,
+     "tam": 44,
+     "ancla": "izq",
+     "en": "veintiséis, para combustible"
+    },
+    {
+     "tipo": "rect",
+     "x": 760,
+     "y": 472,
+     "w": 56,
+     "h": 56,
+     "color": "#F5B301",
+     "en": "Nueve, para el personal",
+     "dur": 0.3
+    },
+    {
+     "tipo": "texto",
+     "texto": "9 € · personal",
+     "x": 845,
+     "y": 500,
+     "tam": 44,
+     "ancla": "izq",
+     "en": "Nueve, para el personal"
+    },
+    {
+     "tipo": "rect",
+     "x": 760,
+     "y": 572,
+     "w": 56,
+     "h": 56,
+     "color": "#9CC5E8",
+     "en": "para los aeropuertos",
+     "dur": 0.3
+    },
+    {
+     "tipo": "texto",
+     "texto": "8,5 € · aeropuertos",
+     "x": 845,
+     "y": 600,
+     "tam": 44,
+     "ancla": "izq",
+     "en": "para los aeropuertos"
+    },
+    {
+     "tipo": "rect",
+     "x": 760,
+     "y": 672,
+     "w": 56,
+     "h": 56,
+     "color": "#D9D2C0",
+     "en": "Diecinueve, para el resto",
+     "dur": 0.3
+    },
+    {
+     "tipo": "texto",
+     "texto": "19 € · resto",
+     "x": 845,
+     "y": 700,
+     "tam": 44,
+     "ancla": "izq",
+     "en": "Diecinueve, para el resto"
+    },
+    {
+     "tipo": "rect",
+     "x": 760,
+     "y": 772,
+     "w": 56,
+     "h": 56,
+     "color": "#8FD18F",
+     "en": "Y once, de beneficio",
+     "dur": 0.3
+    },
+    {
+     "tipo": "texto",
+     "texto": "11 € · beneficio",
+     "x": 845,
+     "y": 800,
+     "tam": 44,
+     "ancla": "izq",
+     "en": "Y once, de beneficio"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "saluda",
+     "x": 1660,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "Ryanair Holdings plc, resultados del ejercicio FY26 (1/4/2025–31/3/2026), comunicado del 18/5/2026 (74,57 € por pasajero; cálculo propio, cifras redondeadas)"
+  },
+  {
+   "id": "27",
+   "desde": "Ryanair no gana dinero por regalar",
+   "fondo": "#FFF3C4",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "Llenar aviones",
+     "x": 800,
+     "y": 240,
+     "tam": 80,
+     "t": 0.3,
+     "en": "llenar aviones"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Gastar poco en cada uno",
+     "x": 800,
+     "y": 400,
+     "tam": 76,
+     "en": "gastar poco en cada uno"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Cobrar aparte lo que no es el asiento",
+     "x": 800,
+     "y": 560,
+     "tam": 64,
+     "en": "cobrar aparte lo que no es el asiento"
+    },
+    {
+     "tipo": "texto",
+     "texto": "¿Cuánto de lo que pagas es tarifa y cuánto, extras?",
+     "x": 800,
+     "y": 800,
+     "tam": 56,
+     "color": "#E0521B",
+     "anim": "pop",
+     "rot": -2,
+     "en": "La pregunta ya no es"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "pensativo",
+     "x": 1650,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "28",
+   "desde": "Aquí, cada semana, abrimos",
+   "fondo": "#F5B301",
+   "capas": [
+    {
+     "tipo": "mascota",
+     "pose": "saluda",
+     "x": 960,
+     "y": 1015,
+     "h": 560,
+     "entra": "abajo",
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "TICKET MEDIO",
+     "x": 960,
+     "y": 170,
+     "tam": 150,
+     "anim": "pop",
+     "t": 0.3
+    },
+    {
+     "tipo": "texto",
+     "texto": "Cada semana, el ticket de algo que pagas todos los días",
+     "x": 960,
+     "y": 300,
+     "tam": 50,
+     "fuente": "mano",
+     "papel": true,
+     "t": 1.0
+    }
+   ],
+   "sin_marca": true
+  }
+ ]
+}

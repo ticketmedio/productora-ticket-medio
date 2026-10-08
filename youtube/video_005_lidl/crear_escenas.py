@@ -90,7 +90,7 @@ escena("07", "Para ponerlo en perspectiva", "#E3E7EC", [
     rect(220, 440, 880, 110, "#F5B301", texto="≈ 4,1 c", tam=56, en="cuatro céntimos por euro", dur=1.2),
     mano("Lidl", 220, 650, 54, ancla="izq", en="cuatro céntimos por euro"),
     rect(220, 700, 770, 110, "#E0521B", texto="≈ 3,6 c", tam=56, en="Mercadona, el líder", dur=1.2, t=1.0),
-    txt("Pero Mercadona vende 5,5 veces más", 700, 910, 56, color="#E0521B", en="pero vende"),
+    txt("Pero Mercadona vende 5,5 veces más", 700, 910, 56, color="#E0521B", en="unos cuatro céntimos por euro"),
     masc("lupa", 1650, 500, entra="der", t=0.2),
 ], fuente="Lidl: comunicado 30/9/2026 · Mercadona: Memoria Anual 2025 (41.858 M€; 4,1 c, cálculo propio). Ejercicios distintos")
 

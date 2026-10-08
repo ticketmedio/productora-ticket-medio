@@ -1,0 +1,19 @@
+1
+00:00:00,150 --> 00:00:04,991
+¿Pueden los extras aparecer al final de la reserva? Esto dice la ley europea.
+
+2
+00:00:04,947 --> 00:00:11,117
+El Reglamento mil ocho de dos mil ocho dice que el precio final tiene que mostrarse siempre,
+
+3
+00:00:11,117 --> 00:00:14,001
+con tarifa, impuestos y tasas obligatorias.
+
+4
+00:00:14,001 --> 00:00:19,768
+Y que los suplementos opcionales se comunican con claridad al principio de la reserva,
+
+5
+00:00:19,768 --> 00:00:22,585
+y el pasajero los acepta de forma expresa.

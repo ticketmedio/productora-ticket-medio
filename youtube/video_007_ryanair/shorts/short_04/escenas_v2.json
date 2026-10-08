@@ -1,0 +1,184 @@
+{
+ "formato": "vertical",
+ "fondos": "../../fondos",
+ "musica": "../../audio/musica.mp3",
+ "musica_db": -26,
+ "cola": 1.5,
+ "salida": "../../output/SHORT_04_maletas_extras_32.mp4",
+ "escenas": [
+  {
+   "id": "a",
+   "desde": "¿Gana Ryanair con las maletas",
+   "fondo": "supermercado",
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 60,
+     "y": 360,
+     "w": 960,
+     "h": 640
+    },
+    {
+     "tipo": "texto",
+     "texto": "¿GANA CON LAS MALETAS?",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 24,
+     "x": 540,
+     "y": 540,
+     "tam": 180,
+     "sufijo": " €",
+     "t": 0.5
+    },
+    {
+     "tipo": "texto",
+     "texto": "de extras por pasajero",
+     "x": 540,
+     "y": 680,
+     "tam": 46,
+     "fuente": "mano",
+     "t": 0.7
+    },
+    {
+     "tipo": "sello",
+     "texto": "32 % DE LOS INGRESOS",
+     "x": 540,
+     "y": 840,
+     "tam": 60,
+     "en": "el treinta y dos por ciento"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "lupa",
+     "x": 880,
+     "y": 1310,
+     "h": 360,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "b",
+   "desde": "Y fíjate en cómo crece cada parte",
+   "fondo": "#E6E0F5",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "¿QUÉ CRECE MÁS?",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "rect",
+     "x": 110,
+     "y": 450,
+     "w": 860,
+     "h": 110,
+     "color": "#9CC5E8",
+     "texto": "Tarifas +14 %",
+     "tam": 44,
+     "en": "un catorce por ciento",
+     "dur": 0.8
+    },
+    {
+     "tipo": "rect",
+     "x": 110,
+     "y": 600,
+     "w": 420,
+     "h": 110,
+     "color": "#F5B301",
+     "texto": "Extras +6 %",
+     "tam": 44,
+     "en": "los de los extras, un seis",
+     "dur": 0.8
+    },
+    {
+     "tipo": "texto",
+     "texto": "La tarifa crece más deprisa",
+     "x": 540,
+     "y": 860,
+     "tam": 56,
+     "color": "#E0521B",
+     "en": "la tarifa crece más deprisa"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "senala",
+     "x": 900,
+     "y": 1310,
+     "h": 260,
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "c",
+   "desde": "Fíjate en algo",
+   "fondo": "#FFF3C4",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "EL REPARTO",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "68 % tarifa",
+     "x": 540,
+     "y": 500,
+     "tam": 100,
+     "color": "#2E8B57",
+     "en": "los dos tercios"
+    },
+    {
+     "tipo": "texto",
+     "texto": "32 % extras",
+     "x": 540,
+     "y": 700,
+     "tam": 100,
+     "color": "#E0521B",
+     "en": "casi un tercio"
+    },
+    {
+     "tipo": "texto",
+     "texto": "El negocio no es solo la maleta",
+     "x": 540,
+     "y": 920,
+     "tam": 50,
+     "fuente": "mano",
+     "papel": true,
+     "en": "no es solo cobrar por la maleta"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "encoge_hombros",
+     "x": 900,
+     "y": 1310,
+     "h": 260,
+     "t": 0.2
+    }
+   ]
+  }
+ ]
+}

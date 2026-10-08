@@ -1,0 +1,143 @@
+{
+ "formato": "vertical",
+ "fondos": "../../fondos",
+ "musica": "../../audio/musica.mp3",
+ "musica_db": -26,
+ "cola": 1.5,
+ "salida": "../../output/SHORT_01_billete_medio_74_euros.mp4",
+ "escenas": [
+  {
+   "id": "a",
+   "desde": "El billete medio de Ryanair no cuesta",
+   "fondo": "puerto_avion",
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 60,
+     "y": 360,
+     "w": 960,
+     "h": 700
+    },
+    {
+     "tipo": "texto",
+     "texto": "EL BILLETE MEDIO",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "NO CUESTA 10 €",
+     "x": 540,
+     "y": 520,
+     "tam": 90,
+     "color": "#E0521B",
+     "anim": "pop",
+     "t": 0.3
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 74.57,
+     "x": 540,
+     "y": 760,
+     "tam": 150,
+     "sufijo": " €",
+     "dec": 2,
+     "en": "setenta y cuatro con cincuenta y siete"
+    },
+    {
+     "tipo": "texto",
+     "texto": "de media por pasajero",
+     "x": 540,
+     "y": 900,
+     "tam": 44,
+     "fuente": "mano",
+     "t": 2.5
+    },
+    {
+     "tipo": "mascota",
+     "pose": "sorprendido",
+     "x": 880,
+     "y": 1310,
+     "h": 340,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "b",
+   "desde": "De la tarifa, cincuenta euros",
+   "fondo": "#F4E9D0",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "¿DE DÓNDE SALEN?",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "rect",
+     "x": 110,
+     "y": 480,
+     "w": 860,
+     "h": 120,
+     "color": "#9CC5E8",
+     "texto": "Tarifa 50,67 € · 68 %",
+     "tam": 44,
+     "en": "el sesenta y ocho por ciento",
+     "dur": 0.8
+    },
+    {
+     "tipo": "texto",
+     "texto": "la media de los de 10 € y los de 200 €",
+     "x": 540,
+     "y": 690,
+     "tam": 42,
+     "fuente": "mano",
+     "en": "los de diez euros y los de doscientos"
+    },
+    {
+     "tipo": "rect",
+     "x": 110,
+     "y": 790,
+     "w": 450,
+     "h": 120,
+     "color": "#F5B301",
+     "texto": "Extras 24 € · 32 %",
+     "tam": 36,
+     "en": "veinticuatro euros",
+     "dur": 0.8
+    },
+    {
+     "tipo": "texto",
+     "texto": "todo lo que pagas aparte del asiento",
+     "x": 540,
+     "y": 990,
+     "tam": 42,
+     "fuente": "mano",
+     "en": "aparte del asiento"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "pensativo",
+     "x": 910,
+     "y": 1310,
+     "h": 240,
+     "t": 0.2
+    }
+   ]
+  }
+ ]
+}

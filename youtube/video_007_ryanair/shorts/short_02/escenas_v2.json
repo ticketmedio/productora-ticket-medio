@@ -1,0 +1,124 @@
+{
+ "formato": "vertical",
+ "fondos": "../../fondos",
+ "musica": "../../audio/musica.mp3",
+ "musica_db": -26,
+ "cola": 1.5,
+ "salida": "../../output/SHORT_02_adonde_va_el_euro.mp4",
+ "escenas": [
+  {
+   "id": "a",
+   "desde": "¿Adónde va cada euro de un billete",
+   "fondo": "centro_logistico",
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 60,
+     "y": 360,
+     "w": 960,
+     "h": 640
+    },
+    {
+     "tipo": "texto",
+     "texto": "PARADA 1: COMBUSTIBLE",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 26,
+     "x": 540,
+     "y": 540,
+     "tam": 190,
+     "sufijo": " €",
+     "color": "#E0521B",
+     "en": "Veintiséis euros por pasajero"
+    },
+    {
+     "tipo": "texto",
+     "texto": "por pasajero · 35 % del billete",
+     "x": 540,
+     "y": 680,
+     "tam": 42,
+     "fuente": "mano",
+     "en": "el treinta y cinco por ciento"
+    },
+    {
+     "tipo": "texto",
+     "texto": "80 % cubierto a ≈ 67 $/barril",
+     "x": 540,
+     "y": 840,
+     "tam": 46,
+     "fuente": "mano",
+     "en": "cubierto el ochenta por ciento"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "senala",
+     "x": 880,
+     "y": 1310,
+     "h": 360,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "b",
+   "desde": "Segunda parada: el personal",
+   "fondo": "#E3E7EC",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "PARADAS 2 Y 3",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "rect",
+     "x": 110,
+     "y": 450,
+     "w": 640,
+     "h": 110,
+     "color": "#F5B301",
+     "texto": "Personal 8,9 € · 12 %",
+     "tam": 40,
+     "en": "Casi nueve euros",
+     "dur": 0.8
+    },
+    {
+     "tipo": "rect",
+     "x": 110,
+     "y": 620,
+     "w": 600,
+     "h": 110,
+     "color": "#9CC5E8",
+     "texto": "Aeropuertos 8,45 € · 11 %",
+     "tam": 38,
+     "en": "Ocho euros con cuarenta y cinco",
+     "dur": 0.8
+    },
+    {
+     "tipo": "mascota",
+     "pose": "lupa",
+     "x": 900,
+     "y": 1310,
+     "h": 280,
+     "t": 0.2
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,156 @@
+{
+ "formato": "vertical",
+ "fondos": "../../fondos",
+ "musica": "../../audio/musica.mp3",
+ "musica_db": -26,
+ "cola": 1.5,
+ "salida": "../../output/SHORT_03_cuanto_gana_por_billete.mp4",
+ "escenas": [
+  {
+   "id": "a",
+   "desde": "¿Cuánto gana Ryanair de cada billete",
+   "fondo": "oficina_financiera",
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 60,
+     "y": 360,
+     "w": 960,
+     "h": 640
+    },
+    {
+     "tipo": "texto",
+     "texto": "¿CUÁNTO GANA?",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "Antes de impuestos:",
+     "x": 540,
+     "y": 480,
+     "tam": 50,
+     "fuente": "mano",
+     "t": 0.4
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 11.37,
+     "x": 540,
+     "y": 620,
+     "tam": 150,
+     "sufijo": " €",
+     "dec": 2,
+     "en": "once euros con treinta y siete"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Beneficio neto:",
+     "x": 540,
+     "y": 790,
+     "tam": 50,
+     "fuente": "mano",
+     "en": "el beneficio neto antes"
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 10.84,
+     "x": 540,
+     "y": 930,
+     "tam": 150,
+     "sufijo": " €",
+     "dec": 2,
+     "color": "#E0521B",
+     "en": "diez euros con ochenta y cuatro"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "sorprendido",
+     "x": 880,
+     "y": 1310,
+     "h": 340,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "b",
+   "desde": "Un catorce y medio por ciento",
+   "fondo": "#E3E7EC",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "BENEFICIO POR CADA EURO",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "rect",
+     "x": 110,
+     "y": 450,
+     "w": 860,
+     "h": 100,
+     "color": "#E0521B",
+     "texto": "Ryanair 14,5 c",
+     "tam": 40,
+     "en": "catorce céntimos y medio",
+     "dur": 0.8
+    },
+    {
+     "tipo": "rect",
+     "x": 110,
+     "y": 590,
+     "w": 280,
+     "h": 100,
+     "color": "#F5B301",
+     "texto": "Mercadona ≈ 4 c",
+     "tam": 32,
+     "en": "Mercadona, unos cuatro",
+     "dur": 0.8
+    },
+    {
+     "tipo": "rect",
+     "x": 110,
+     "y": 730,
+     "w": 250,
+     "h": 100,
+     "color": "#8FD18F",
+     "texto": "Lidl ≈ 3,6 c",
+     "tam": 32,
+     "en": "Lidl, tres y medio",
+     "dur": 0.8
+    },
+    {
+     "tipo": "texto",
+     "texto": "Sectores muy distintos",
+     "x": 540,
+     "y": 960,
+     "tam": 44,
+     "fuente": "mano",
+     "en": "sectores muy distintos"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "pensativo",
+     "x": 900,
+     "y": 1310,
+     "h": 240,
+     "t": 0.2
+    }
+   ]
+  }
+ ]
+}

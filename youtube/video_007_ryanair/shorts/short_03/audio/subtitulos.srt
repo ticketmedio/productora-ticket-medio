@@ -1,0 +1,31 @@
+1
+00:00:00,150 --> 00:00:02,359
+¿Cuánto gana Ryanair de cada billete?
+
+2
+00:00:02,909 --> 00:00:09,268
+Lo que queda, antes de impuestos, es el beneficio operativo: once euros con treinta y siete.
+
+3
+00:00:09,268 --> 00:00:17,148
+Y, tras impuestos e intereses, el beneficio neto antes de partidas excepcionales: diez euros con ochenta y cuatro.
+
+4
+00:00:17,148 --> 00:00:20,327
+Un catorce y medio por ciento de los ingresos.
+
+5
+00:00:20,677 --> 00:00:27,901
+Para ponerlo en perspectiva: Ryanair gana unos catorce céntimos y medio de cada euro que ingresa.
+
+6
+00:00:27,901 --> 00:00:29,614
+Mercadona, unos cuatro.
+
+7
+00:00:29,614 --> 00:00:31,029
+Lidl, tres y medio.
+
+8
+00:00:31,029 --> 00:00:35,647
+Son sectores muy distintos, pero la comparación da que pensar.

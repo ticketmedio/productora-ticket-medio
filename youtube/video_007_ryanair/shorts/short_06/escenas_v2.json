@@ -1,0 +1,77 @@
+{
+ "formato": "vertical",
+ "fondos": "../../fondos",
+ "musica": "../../audio/musica.mp3",
+ "musica_db": -26,
+ "cola": 1.5,
+ "salida": "../../output/SHORT_06_tres_trucos.mp4",
+ "escenas": [
+  {
+   "id": "a",
+   "desde": "¿Cuál es el truco de Ryanair",
+   "fondo": "#FFF3C4",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "LOS 3 TRUCOS",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "1 · Llenar el avión",
+     "x": 540,
+     "y": 480,
+     "tam": 64,
+     "en": "Uno: llenar el avión"
+    },
+    {
+     "tipo": "texto",
+     "texto": "94 % de ocupación",
+     "x": 540,
+     "y": 570,
+     "tam": 46,
+     "fuente": "mano",
+     "en": "noventa y cuatro por ciento"
+    },
+    {
+     "tipo": "texto",
+     "texto": "2 · Un solo modelo",
+     "x": 540,
+     "y": 740,
+     "tam": 64,
+     "en": "Dos: un solo modelo"
+    },
+    {
+     "tipo": "texto",
+     "texto": "más fácil mantenerlos y formar",
+     "x": 540,
+     "y": 830,
+     "tam": 42,
+     "fuente": "mano",
+     "en": "mantenimiento y la formación"
+    },
+    {
+     "tipo": "texto",
+     "texto": "3 · Cobrar aparte lo que\nno es el asiento",
+     "x": 540,
+     "y": 1000,
+     "tam": 56,
+     "en": "Y tres: cobrar aparte"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "pensativo",
+     "x": 900,
+     "y": 1310,
+     "h": 220,
+     "t": 0.2
+    }
+   ]
+  }
+ ]
+}

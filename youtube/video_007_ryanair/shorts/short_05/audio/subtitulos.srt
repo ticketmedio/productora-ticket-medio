@@ -1,0 +1,15 @@
+1
+00:00:00,150 --> 00:00:07,881
+Según sus cuentas, cada avión de Ryanair transportó, de media, unos trescientos veintidós mil pasajeros.
+
+2
+00:00:08,271 --> 00:00:14,759
+ingresó unos veinticuatro millones de euros y dejó unos tres millones y medio de beneficio.
+
+3
+00:00:14,759 --> 00:00:23,458
+Y cada empleado, de media, supuso unos quinientos dieciocho mil euros de ingresos y unos setenta y cinco mil de beneficio.
+
+4
+00:00:23,458 --> 00:00:25,454
+Son medias de todo el grupo.

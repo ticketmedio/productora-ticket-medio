@@ -1,0 +1,120 @@
+{
+ "n": 7,
+ "nombre": "Ryanair",
+ "titulo": "El billete medio de Ryanair no cuesta 10 €: cuesta 75",
+ "alternativas": [
+  "¿Cómo gana dinero Ryanair? Adónde va cada euro de tu billete",
+  "Ryanair gana 10,84 € por pasajero: así se reparte tu billete"
+ ],
+ "miniatura": "¿10 € EL BILLETE? NO: 75 €",
+ "etiquetas": "Ryanair, cómo gana dinero Ryanair, vuelos baratos, low cost, billete de avión, tarifa media Ryanair, extras Ryanair, resultados Ryanair, aerolíneas, dónde va tu dinero, economía, Ticket Medio",
+ "descripcion": "El billete medio de Ryanair no cuesta 10 euros: cuesta unos 75 (51 de tarifa y 24 de extras) y de cada uno la aerolínea se queda unos 10,84 € de beneficio neto. Abrimos el ticket con los resultados del ejercicio FY26 (abril de 2025 – marzo de 2026), publicados por la propia Ryanair el 18/5/2026: 208,4 millones de pasajeros, 15.540 M€ de ingresos y 2.260 M€ de beneficio. Adónde va cada euro (combustible, personal, aeropuertos…), cuánto pesan los extras (32 %), los tres trucos de su modelo y qué dice la ley europea sobre el precio final.\n\nLas cifras por pasajero, por avión y por empleado son cálculos propios con los datos del grupo (no solo España) y están redondeadas. Ryanair no publica cuántos billetes vende a 10 € ni su margen: la tarifa media (≈ 51 €) es una media. Las fuentes, en el comentario fijado.",
+ "capitulos": [
+  [
+   "El billete medio cuesta 75 €",
+   "El billete medio de Ryanair"
+  ],
+  [
+   "Quién es Ryanair",
+   "Primero, las presentaciones"
+  ],
+  [
+   "Cuentas rápidas",
+   "Hagamos primero unas cuentas rápidas"
+  ],
+  [
+   "El billete en un ticket",
+   "Ahora, pongamos todo eso"
+  ],
+  [
+   "Tarifa y extras",
+   "De la tarifa, cincuenta euros"
+  ],
+  [
+   "Adónde va el dinero",
+   "Ahora, la otra mitad del ticket"
+  ],
+  [
+   "El beneficio",
+   "Lo que queda, antes de impuestos"
+  ],
+  [
+   "Los tres trucos",
+   "Entonces, ¿cuál es el truco?"
+  ],
+  [
+   "La ley europea y lo que no sabemos",
+   "Y aquí entra la ley europea"
+  ],
+  [
+   "El ticket completo",
+   "Así que, la próxima vez que mires"
+  ]
+ ],
+ "vistos": "Vídeos anteriores: Mercadona, Zara, El Corte Inglés, Lidl y la factura de la luz, con el mismo método.",
+ "hashtags": "#Ryanair #Economía #Aerolíneas",
+ "comentario": [
+  "· Ryanair Holdings plc, resultados anuales del ejercicio FY26 (1/4/2025 – 31/3/2026), comunicado del 18/5/2026: ingresos, tarifas, extras, pasajeros, costes, beneficio, flota y previsiones: https://www.investegate.co.uk/announcement/rns/ryanair-holdings-cdi---0rya/full-year-fy26-ryanair-holdings-plc-earnings/9571835",
+  "· Por pasajero, por avión, por empleado y porcentajes: cálculo propio con esas cifras (datos del grupo, cifras redondeadas; diferencia de ≈ 0,4 € por partidas no desglosadas).",
+  "· Comparación del beneficio por euro: Mercadona, Memoria Anual 2025; Lidl España, comunicado del 30/9/2026 (ejercicios y sectores distintos).",
+  "· Precio final y suplementos opcionales: Reglamento (CE) 1008/2008, art. 23.1: https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32008R1008"
+ ],
+ "shorts": [
+  {
+   "id": "01",
+   "archivo": "SHORT_01_billete_medio_74_euros.mp4",
+   "dia": "sábado 7/11",
+   "titulo": "El billete medio de Ryanair no cuesta 10 €: 74,57 €",
+   "descripcion": "Dividiendo los ingresos de Ryanair (15.540 M€) entre sus 208,4 millones de pasajeros: 74,57 € por pasajero, de los que 50,67 € son tarifa (68 %) y 23,94 € extras (32 %). Cálculo propio con el comunicado del 18/5/2026 (ejercicio FY26, datos del grupo).",
+   "hashtags": "#Ryanair #Economía #Aerolíneas"
+  },
+  {
+   "id": "02",
+   "archivo": "SHORT_02_adonde_va_el_euro.mp4",
+   "dia": "lunes 9/11",
+   "titulo": "¿Adónde va cada euro de un billete de Ryanair?",
+   "descripcion": "Por pasajero (cálculo propio): combustible 26 € (35 %), personal 8,9 € (12 %), tasas aeroportuarias 8,45 € (11 %). Ryanair dice tener cubierto el 80 % del combustible del próximo año a unos 67 $ el barril. Fuente: Ryanair, FY26.",
+   "hashtags": "#Ryanair #Economía #Aerolíneas"
+  },
+  {
+   "id": "03",
+   "archivo": "SHORT_03_cuanto_gana_por_billete.mp4",
+   "dia": "miércoles 11/11",
+   "titulo": "¿Cuánto gana Ryanair de cada billete? 10,84 €",
+   "descripcion": "Beneficio operativo: 11,37 € por pasajero; beneficio neto antes de excepcionales: 10,84 € (14,5 % de los ingresos). Mercadona, ≈ 4 céntimos por euro; Lidl, ≈ 3,6 (sectores y ejercicios distintos). Cálculo propio con los resultados FY26 de Ryanair.",
+   "hashtags": "#Ryanair #Mercadona #Economía"
+  },
+  {
+   "id": "04",
+   "archivo": "SHORT_04_maletas_extras_32.mp4",
+   "dia": "domingo 8/11",
+   "titulo": "¿Gana Ryanair con las maletas? Los extras son el 32 %",
+   "descripcion": "Los ingresos complementarios fueron 4.990 M€ (24 € por pasajero, el 32 % del total, +6 %); las tarifas, 10.560 M€ (+14 %). Ryanair no desglosa los extras. Fuente: Ryanair, FY26 (18/5/2026).",
+   "hashtags": "#Ryanair #Economía #Aerolíneas"
+  },
+  {
+   "id": "05",
+   "archivo": "SHORT_05_cada_avion_al_ano.mp4",
+   "dia": "martes 10/11",
+   "titulo": "Lo que da de sí cada avión de Ryanair al año",
+   "descripcion": "Medias del grupo (cálculo propio con los datos FY26): 322.000 pasajeros, 24 M€ de ingresos y 3,5 M€ de beneficio por avión; 518.000 € de ingresos y 75.000 € de beneficio por empleado.",
+   "hashtags": "#Ryanair #Economía #Aerolíneas"
+  },
+  {
+   "id": "06",
+   "archivo": "SHORT_06_tres_trucos.mp4",
+   "dia": "jueves 12/11",
+   "titulo": "Los 3 trucos de Ryanair, según sus propias cifras",
+   "descripcion": "Ocupación del 94 %, casi toda la flota de un solo modelo (621 de 647 aviones son Boeing 737) y extras que ya suponen el 32 % de los ingresos. Fuente: Ryanair, resultados FY26.",
+   "hashtags": "#Ryanair #Economía #Aerolíneas"
+  },
+  {
+   "id": "07",
+   "archivo": "SHORT_07_ley_europea_precio_final.mp4",
+   "dia": "viernes 13/11",
+   "titulo": "¿Pueden los extras aparecer al final de la reserva? Lo que dice la ley europea",
+   "descripcion": "Reglamento (CE) 1008/2008, art. 23.1: el precio final debe mostrarse siempre (tarifa, impuestos y tasas obligatorias) y los suplementos opcionales deben comunicarse con claridad al inicio de la reserva y aceptarse de forma expresa (opt-in).",
+   "hashtags": "#Ryanair #Consumo #Aerolíneas"
+  }
+ ]
+}

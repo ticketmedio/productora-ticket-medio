@@ -1,0 +1,27 @@
+1
+00:00:00,150 --> 00:00:08,172
+El billete medio de Ryanair no cuesta diez euros: de media, cada pasajero le deja setenta y cuatro con cincuenta y siete.
+
+2
+00:00:08,728 --> 00:00:14,296
+De la tarifa, cincuenta euros con sesenta y siete: el sesenta y ocho por ciento.
+
+3
+00:00:14,296 --> 00:00:19,377
+Es la media de todos los billetes, los de diez euros y los de doscientos.
+
+4
+00:00:19,377 --> 00:00:23,971
+Ryanair dice que la tarifa media fue de unos cincuenta y un euros,
+
+5
+00:00:23,971 --> 00:00:26,964
+un diez por ciento más que el año anterior.
+
+6
+00:00:27,314 --> 00:00:32,477
+Y de los extras, veinticuatro euros: el treinta y dos por ciento.
+
+7
+00:00:32,477 --> 00:00:36,051
+Es todo lo que el pasajero paga aparte del asiento.

@@ -1,0 +1,23 @@
+{"shorts": [
+ {"id": "01", "titulo": "El billete medio de Ryanair no cuesta 10 €: 74,57 €",
+  "tramos": [["¿De dónde salen?", "aparte del asiento"]],
+  "intro": "El billete medio de Ryanair no cuesta diez euros: de media, cada pasajero le deja setenta y cuatro con cincuenta y siete."},
+ {"id": "02", "titulo": "¿Adónde va cada euro de un billete de Ryanair?",
+  "tramos": [["Primera parada, y la más grande", "a unos sesenta y siete dólares el barril"], ["Segunda parada: el personal", "El once por ciento"]],
+  "intro": "¿Adónde va cada euro de un billete de Ryanair? Primero, el combustible."},
+ {"id": "03", "titulo": "¿Cuánto gana Ryanair de cada billete? 10,84 €",
+  "tramos": [["El veintiséis por ciento", "la comparación da que pensar"]],
+  "intro": "¿Cuánto gana Ryanair de cada billete?"},
+ {"id": "04", "titulo": "¿Gana Ryanair con las maletas? Los extras son el 32 %",
+  "tramos": [["Y de los extras", "Así que no, el negocio no es solo cobrar por la maleta"]],
+  "intro": "¿Gana Ryanair con las maletas? Los extras son veinticuatro euros por pasajero: el treinta y dos por ciento."},
+ {"id": "05", "titulo": "Lo que da de sí cada avión de Ryanair al año",
+  "tramos": [["Cada avión de la flota", "Son medias de todo el grupo"]],
+  "intro": "Según sus cuentas, cada avión de Ryanair transportó, de media, unos trescientos veintidós mil pasajeros."},
+ {"id": "06", "titulo": "Los 3 trucos de Ryanair, según sus propias cifras",
+  "tramos": [["Entonces, ¿cuál es el truco?", "que ya es casi un tercio de sus ingresos"]],
+  "intro": "¿Cuál es el truco de Ryanair, según sus propias cifras?"},
+ {"id": "07", "titulo": "¿Pueden los extras aparecer al final de la reserva? Lo que dice la ley europea",
+  "tramos": [["Y aquí entra la ley europea", "acepta de forma expresa"]],
+  "intro": "¿Pueden los extras aparecer al final de la reserva? Esto dice la ley europea."}
+]}

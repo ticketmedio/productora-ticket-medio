@@ -1,0 +1,173 @@
+{
+ "formato": "vertical",
+ "fondos": "../../fondos",
+ "musica": "../../audio/musica.mp3",
+ "musica_db": -26,
+ "cola": 1.5,
+ "salida": "../../output/SHORT_05_cada_avion_al_ano.mp4",
+ "escenas": [
+  {
+   "id": "a",
+   "desde": "Según sus cuentas, cada avión",
+   "fondo": "puerto_avion",
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 60,
+     "y": 360,
+     "w": 960,
+     "h": 700
+    },
+    {
+     "tipo": "texto",
+     "texto": "CADA AVIÓN, AL AÑO",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 322000,
+     "x": 540,
+     "y": 520,
+     "tam": 130,
+     "en": "trescientos veintidós mil"
+    },
+    {
+     "tipo": "texto",
+     "texto": "pasajeros",
+     "x": 540,
+     "y": 630,
+     "tam": 46,
+     "fuente": "mano",
+     "en": "trescientos veintidós mil"
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 24,
+     "x": 540,
+     "y": 780,
+     "tam": 130,
+     "sufijo": " M€",
+     "en": "veinticuatro millones"
+    },
+    {
+     "tipo": "texto",
+     "texto": "ingresos",
+     "x": 540,
+     "y": 890,
+     "tam": 46,
+     "fuente": "mano",
+     "en": "veinticuatro millones"
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 3.5,
+     "x": 540,
+     "y": 1030,
+     "tam": 130,
+     "sufijo": " M€",
+     "dec": 1,
+     "color": "#E0521B",
+     "en": "tres millones y medio"
+    },
+    {
+     "tipo": "texto",
+     "texto": "beneficio",
+     "x": 540,
+     "y": 1140,
+     "tam": 46,
+     "fuente": "mano",
+     "en": "tres millones y medio"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "sorprendido",
+     "x": 900,
+     "y": 1310,
+     "h": 300,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "b",
+   "desde": "Y cada empleado",
+   "fondo": "#F4E9D0",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "CADA EMPLEADO, AL AÑO",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 518000,
+     "x": 540,
+     "y": 520,
+     "tam": 120,
+     "sufijo": " €",
+     "en": "quinientos dieciocho mil"
+    },
+    {
+     "tipo": "texto",
+     "texto": "de ingresos",
+     "x": 540,
+     "y": 640,
+     "tam": 46,
+     "fuente": "mano",
+     "en": "quinientos dieciocho mil"
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 75000,
+     "x": 540,
+     "y": 820,
+     "tam": 120,
+     "sufijo": " €",
+     "color": "#E0521B",
+     "en": "setenta y cinco mil"
+    },
+    {
+     "tipo": "texto",
+     "texto": "de beneficio",
+     "x": 540,
+     "y": 940,
+     "tam": 46,
+     "fuente": "mano",
+     "en": "setenta y cinco mil"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Medias de todo el grupo",
+     "x": 540,
+     "y": 1070,
+     "tam": 42,
+     "fuente": "mano",
+     "en": "medias de todo el grupo"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "pensativo",
+     "x": 900,
+     "y": 1310,
+     "h": 240,
+     "t": 0.2
+    }
+   ]
+  }
+ ]
+}
