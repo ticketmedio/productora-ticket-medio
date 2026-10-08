@@ -122,6 +122,14 @@ Además, hoy ya no sirve para crecer. Seguir para que te sigan no mejora ninguna
 - TikTok paga solo por vídeos de más de 60 s, y Pepa dura hoy 33–46 s. DECIDIDO el 30/09: desde Pepa 019, versión de 61–75 s para TikTok (consejo extra); en Instagram y Facebook, vídeos cortos. Los vídeos ya subidos no se pierden: sirven para conseguir los seguidores y las visualizaciones que pide el programa, y TikTok solo paga por lo que se sube después de la aceptación.
 - Comprobar que la cuenta de TikTok es personal y no de empresa.
 
+### Shorts y monetización (VERIFICADO el 8/10/2026 en la ayuda oficial de YouTube)
+- **Entrada al Programa de Socios desde el 1/2/2027** (nuestra solicitud de julio de 2027 cae aquí): 1.000 suscriptores y, además, **8.000 horas de visualización válidas en 365 días** o **20 millones de visualizaciones de Shorts en 90 días**. Los canales que ya están dentro no se ven afectados.
+- **Las horas de visualización de los Shorts NO cuentan** para el umbral de horas (ayuda oficial: «las horas de visualización válidas que provengan de visualizaciones de Shorts en el feed de Shorts no se tendrán en cuenta»).
+- **Cobrar por los Shorts:** solo los miembros del programa, y **desde el 1/2/2027 hace falta mantener 10 millones de visualizaciones de Shorts válidas en los últimos 90 días** para recibir ingresos del fondo de Shorts. El creador se queda con el 45 % de lo asignado.
+- **Escalón de «apoyo de fans»** (sin anuncios): 500 suscriptores y 3.000 horas o 3 millones de visualizaciones de Shorts en 90 días.
+- **Conclusión:** para nosotros los Shorts NO monetizan: ni suman horas, ni la vía de los Shorts es alcanzable (20 millones en 90 días; hoy tenemos unas 1.300 en 28 días), ni pagarían aunque entráramos. Sirven SOLO como embudo: suscriptores (hacen falta 1.000) y visitas a los vídeos largos, que son los que dan las horas. El dinero de YouTube depende de las horas de VÍDEOS LARGOS (hoy: 0,12 h en 28 días).
+- Fuentes: https://support.google.com/youtube/answer/12843009 · https://support.google.com/youtube/answer/12504220 · https://support.google.com/youtube/answer/72851
+
 ## 8. Puntos de control (los vigila la rutina diaria)
 
 | Fecha | Vamos bien si… | Si no, se cambia… |

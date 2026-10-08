@@ -8,6 +8,9 @@
 | Pepa, Reels | 2–3 a la semana | **5 a la semana** (lun–vie, 19:00; Facebook principal, también Instagram y TikTok) |
 | Pepa, carruseles | 2 a la semana | **3 a la semana** |
 
+## DATO VERIFICADO (8/10/2026): los Shorts NO monetizan
+Ver `seo/00_ESTRATEGIA_SEO.md`, apartado 7 («Shorts y monetización»). No suman horas para el Programa de Socios, la vía de los Shorts exige 20 millones de visualizaciones en 90 días y, ya dentro, cobrarlos exige 10 millones. Por tanto los Shorts se tratan como EMBUDO, no como ingreso: se miden por suscriptores y por visitas que llevan al vídeo largo (hoy ~1 % de los que ven un Short). Regla: en el punto de control del 1/12/2026, si ese embudo sigue en torno al 1 %, se reduce la cadencia de Shorts al mínimo y se pasa el esfuerzo a que los vídeos largos se descubran (títulos con búsqueda, miniaturas, primeros 30 s) y a los 500 seguidores de Pepa (Amazon Afiliados, regalos, Stars).
+
 ## Guardarraíles (no se saltan)
 1. **Contenido repetitivo / «inauténtico» (YouTube, política del Programa de Socios).** Más Shorts NO significa la misma plantilla. Cada Short: pregunta distinta, cifra distinta, escena distinta y guion propio; sin frases repetidas entre Shorts. Mantener la «copia de autoría» en `archivo/`.
 2. **Calidad primero si baja la retención.** Freno automático: si un Short baja del 70 % visto, o un Reel de Pepa no pasa de 3 s en el 30 % de los casos durante 2 semanas, se produce menos y mejor y se revisa el arranque antes de seguir.
