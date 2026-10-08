@@ -1,0 +1,460 @@
+[
+ {
+  "id": "01",
+  "tipo": "curvas",
+  "duracion": 5.5,
+  "titulo": "Sube el lunes. ¿Y cuando *baja*?",
+  "ritmo": 0.85,
+  "nota": "Esquema ilustrativo"
+ },
+ {
+  "id": "02",
+  "tipo": "titular",
+  "duracion": 7,
+  "eyebrow": "No es una impresión tuya",
+  "titulo": "Tiene nombre.\n*Y está medido.*"
+ },
+ {
+  "id": "03",
+  "tipo": "cifra",
+  "duracion": 9,
+  "eyebrow": "Gasolina 95 · media en España",
+  "numero": 1.927,
+  "decimales": 3,
+  "sufijo": "€/l",
+  "desde": 1.5,
+  "texto": "25 de septiembre de 2026 · el gasóleo, casi igual",
+  "fuente": "Geoportal del Ministerio para la Transición Ecológica"
+ },
+ {
+  "id": "04",
+  "tipo": "cifra",
+  "duracion": 6,
+  "eyebrow": "Gasolina",
+  "numero": 12,
+  "sufijo": "semanas",
+  "texto": "seguidas subiendo · máximos del año",
+  "fuente": "Boletín Petrolero de la UE (24/09/2026)"
+ },
+ {
+  "id": "05",
+  "tipo": "titular",
+  "duracion": 8,
+  "titulo": "Cuando baje el petróleo…\n¿cuánto tardará *tu depósito*?",
+  "tam": 120
+ },
+ {
+  "id": "06",
+  "tipo": "titular",
+  "duracion": 6,
+  "eyebrow": "Abrimos el ticket",
+  "titulo": "¿Qué pagas en\n*un litro* de gasolina?",
+  "tam": 130
+ },
+ {
+  "id": "07",
+  "tipo": "cifra",
+  "duracion": 8,
+  "eyebrow": "Gasolina 95 · precio medio de 2025",
+  "numero": 1.5,
+  "decimales": 2,
+  "sufijo": "€/l",
+  "texto": "Un año tranquilo, para ver el reparto «normal»",
+  "fuente": "CNMC"
+ },
+ {
+  "id": "08",
+  "tipo": "barra",
+  "duracion": 7,
+  "titulo": "*Casi la mitad* son impuestos",
+  "segmentos": [
+   {
+    "label": "Impuestos",
+    "pct": 49,
+    "valor": "≈0,73 €",
+    "color": "#F5B301",
+    "t": 0.4
+   },
+   {
+    "label": "Todo lo demás",
+    "pct": 51,
+    "valor": "≈0,77 €",
+    "color": "#3A424E",
+    "t": 1.2,
+    "oscuro": true
+   }
+  ],
+  "fuente": "CNMC y Ley 38/1992 · cálculo propio, aprox."
+ },
+ {
+  "id": "09",
+  "tipo": "ticket",
+  "duracion": 8,
+  "titulo": "IMPUESTO FIJO POR LITRO",
+  "subtitulo": "Impuesto sobre Hidrocarburos · gasolina",
+  "lineas": [
+   {
+    "c": "Por cada litro",
+    "v": "0,47 €",
+    "t": 0.8
+   }
+  ],
+  "total": {
+   "c": "Cueste 1 € o 2 €",
+   "v": "igual",
+   "t": 1.8
+  },
+  "fuente": "Ley 38/1992, art. 50 (472,69 €/1.000 l)"
+ },
+ {
+  "id": "10",
+  "tipo": "titular",
+  "duracion": 10,
+  "eyebrow": "El detalle curioso",
+  "titulo": "IVA sobre\n*un impuesto*",
+  "sub": "El 21 % se calcula sobre un precio que ya incluye el Impuesto sobre Hidrocarburos"
+ },
+ {
+  "id": "11",
+  "tipo": "barra",
+  "duracion": 13,
+  "titulo": "El reparto de *un litro* (2025)",
+  "segmentos": [
+   {
+    "label": "Impuestos",
+    "pct": 49,
+    "valor": "≈0,73 €",
+    "color": "#F5B301",
+    "t": 0.3
+   },
+   {
+    "label": "Producto (cotización)",
+    "pct": 32,
+    "valor": "≈0,48 €",
+    "color": "#8A93A0",
+    "t": 1.2
+   },
+   {
+    "label": "Margen bruto",
+    "pct": 19,
+    "valor": "≈0,29 €",
+    "color": "#E0521B",
+    "t": 10.2,
+    "oscuro": true
+   }
+  ],
+  "fuente": "CNMC · cálculo propio con datos de 2025, aprox."
+ },
+ {
+  "id": "12",
+  "tipo": "ticket",
+  "duracion": 8,
+  "titulo": "1 LITRO DE GASOLINA 95",
+  "subtitulo": "Media de 2025 · aprox.",
+  "lineas": [
+   {
+    "c": "Imp. hidrocarburos",
+    "v": "0,47 €",
+    "t": 0.4
+   },
+   {
+    "c": "IVA 21 %",
+    "v": "0,26 €",
+    "t": 0.7
+   },
+   {
+    "c": "Producto",
+    "v": "0,48 €",
+    "t": 1.0
+   },
+   {
+    "c": "Margen bruto",
+    "v": "0,29 €",
+    "t": 1.3,
+    "color": "naranja"
+   }
+  ],
+  "total": {
+   "c": "TOTAL",
+   "v": "1,50 €",
+   "t": 1.8
+  },
+  "sello": {
+   "texto": "No es beneficio",
+   "t": 5.6
+  },
+  "fuente": "CNMC y Ley 38/1992 · cálculo propio"
+ },
+ {
+  "id": "13",
+  "tipo": "lista",
+  "duracion": 10,
+  "titulo": "Del margen bruto *salen*",
+  "items": [
+   "Transporte y almacenamiento",
+   "Reservas obligatorias",
+   "Biocarburantes",
+   "Alquiler de la estación",
+   "Sueldos"
+  ],
+  "paso": 1.3
+ },
+ {
+  "id": "14",
+  "tipo": "titular",
+  "duracion": 4,
+  "titulo": "Ahora,\n*el misterio*",
+  "tam": 170
+ },
+ {
+  "id": "15",
+  "tipo": "titular",
+  "duracion": 11,
+  "eyebrow": "Comisión Nacional de la Competencia · 2012",
+  "titulo": "6 años de precios\n*semana a semana*",
+  "sub": "Y un nombre para lo que todos sospechábamos"
+ },
+ {
+  "id": "16",
+  "tipo": "titular",
+  "duracion": 5,
+  "titulo": "Suben como un *cohete*.\nBajan como una *pluma*.",
+  "tam": 130
+ },
+ {
+  "id": "17",
+  "tipo": "curvas",
+  "duracion": 13,
+  "titulo": "El efecto *cohete y pluma*",
+  "fuente": "CNC (2012), «Los cohetes y las plumas»",
+  "nota": "Esquema ilustrativo",
+  "ritmo": 2.0
+ },
+ {
+  "id": "18",
+  "tipo": "cifra",
+  "duracion": 4,
+  "eyebrow": "El desfase",
+  "prefijo": "≈",
+  "numero": 2,
+  "sufijo": "semanas",
+  "texto": "pagando más de lo que tocaría",
+  "fuente": "CNC (2012)"
+ },
+ {
+  "id": "19",
+  "tipo": "titular",
+  "duracion": 6,
+  "titulo": "Después se igualan…\npero el desfase *suma*",
+  "tam": 120
+ },
+ {
+  "id": "20",
+  "tipo": "comparacion",
+  "duracion": 5,
+  "titulo": "Dónde se vio la *asimetría*",
+  "izq": {
+   "etiqueta": "Gasolina",
+   "valor": "Clara",
+   "nota": "reacción asimétrica evidente"
+  },
+  "der": {
+   "etiqueta": "Gasóleo",
+   "valor": "Débil",
+   "nota": "asimetría mucho menor"
+  },
+  "resaltar": "izq",
+  "fuente": "CNC (2012)"
+ },
+ {
+  "id": "21",
+  "tipo": "titular",
+  "duracion": 8,
+  "eyebrow": "Otro hallazgo",
+  "titulo": "Menos competencia,\nprecios *más altos*",
+  "sub": "En las provincias con más concentración de estaciones"
+ },
+ {
+  "id": "22",
+  "tipo": "lista",
+  "duracion": 7,
+  "titulo": "¿Por qué *pasa*?",
+  "items": [
+   "Tú comparas más cuando sube",
+   "El combustible del depósito",
+   "Poca competencia en la zona"
+  ]
+ },
+ {
+  "id": "23",
+  "tipo": "lista",
+  "duracion": 12,
+  "titulo": "1 · *Tú*",
+  "items": [
+   "Tú comparas más cuando sube",
+   "El combustible del depósito",
+   "Poca competencia en la zona"
+  ],
+  "activo": 0
+ },
+ {
+  "id": "24",
+  "tipo": "lista",
+  "duracion": 9,
+  "titulo": "2 · *El depósito*",
+  "items": [
+   "Tú comparas más cuando sube",
+   "El combustible del depósito",
+   "Poca competencia en la zona"
+  ],
+  "activo": 1
+ },
+ {
+  "id": "25",
+  "tipo": "lista",
+  "duracion": 13,
+  "titulo": "3 · *La competencia*",
+  "items": [
+   "Tú comparas más cuando sube",
+   "El combustible del depósito",
+   "Poca competencia en la zona"
+  ],
+  "activo": 2
+ },
+ {
+  "id": "26",
+  "tipo": "idea",
+  "duracion": 12,
+  "eyebrow": "Conclusión de la CNC (resumen)",
+  "texto": "Una asimetría no demuestra por sí sola una infracción, pero sí refleja poca competencia efectiva.",
+  "fuente": "CNC (2012)"
+ },
+ {
+  "id": "27",
+  "tipo": "cifra",
+  "duracion": 8,
+  "eyebrow": "2022 · ayuda del Gobierno",
+  "numero": 20,
+  "sufijo": "céntimos",
+  "texto": "por cada litro, para todos los conductores",
+  "fuente": "Real Decreto-ley 6/2022"
+ },
+ {
+  "id": "28",
+  "tipo": "comparacion",
+  "duracion": 15,
+  "titulo": "Qué hicieron con el *gasóleo*",
+  "izq": {
+   "etiqueta": "Grandes marcas",
+   "valor": "+3 c",
+   "nota": "subida de su precio"
+  },
+  "der": {
+   "etiqueta": "Independientes",
+   "valor": "+6 c",
+   "nota": "subida de su precio"
+  },
+  "fuente": "Balaguer y Ripollés, Energy Economics (2024)"
+ },
+ {
+  "id": "29",
+  "tipo": "barra",
+  "duracion": 8,
+  "titulo": "De cada 20 céntimos de ayuda…",
+  "segmentos": [
+   {
+    "label": "Llegaron al conductor",
+    "pct": 60,
+    "valor": "≈12 c",
+    "color": "#F5B301",
+    "t": 0.4
+   },
+   {
+    "label": "Se quedaron por el camino",
+    "pct": 40,
+    "valor": "≈8 c",
+    "color": "#E0521B",
+    "t": 1.2,
+    "oscuro": true
+   }
+  ],
+  "fuente": "Balaguer y Ripollés (2024) · gasolineras independientes, media"
+ },
+ {
+  "id": "30",
+  "tipo": "cifra",
+  "duracion": 10,
+  "eyebrow": "Margen de las gasolineras minoristas",
+  "prefijo": "≈",
+  "numero": 3.5,
+  "decimales": 1,
+  "sufijo": "%",
+  "texto": "No se hacen de oro con el combustible",
+  "fuente": "CNMC (30/06/2026), margen EBITDA mediano de 2024"
+ },
+ {
+  "id": "31",
+  "tipo": "cifra",
+  "duracion": 10,
+  "eyebrow": "Repsol · 2025",
+  "numero": 778,
+  "sufijo": "tiendas",
+  "texto": "de El Corte Inglés dentro de sus estaciones",
+  "fuente": "DA Retail"
+ },
+ {
+  "id": "32",
+  "tipo": "titular",
+  "duracion": 5,
+  "titulo": "El café también\nes *negocio*",
+  "tam": 150
+ },
+ {
+  "id": "33",
+  "tipo": "cifra",
+  "duracion": 10,
+  "eyebrow": "Gasolineras en España · 2025",
+  "numero": 12746,
+  "sufijo": "",
+  "texto": "un récord · más de la mitad no son de las 4 grandes marcas",
+  "fuente": "AICE"
+ },
+ {
+  "id": "34",
+  "tipo": "comparacion",
+  "duracion": 13,
+  "titulo": "Lo que cuesta *no comparar*",
+  "izq": {
+   "etiqueta": "Grandes marcas",
+   "valor": "+12–15 %",
+   "nota": "más caras que las cadenas baratas"
+  },
+  "der": {
+   "etiqueta": "Ahorro posible",
+   "valor": "≈200 €",
+   "nota": "hasta unos 200 € al año"
+  },
+  "fuente": "OCU (2026)"
+ },
+ {
+  "id": "35",
+  "tipo": "titular",
+  "duracion": 9,
+  "titulo": "Llegará.\nPero *despacio*.",
+  "tam": 170
+ },
+ {
+  "id": "36",
+  "tipo": "titular",
+  "duracion": 9,
+  "eyebrow": "Tu mejor herramienta",
+  "titulo": "*Comparar*",
+  "sub": "El efecto pluma funciona, sobre todo, cuando nadie mira el precio",
+  "tam": 200
+ },
+ {
+  "id": "37",
+  "tipo": "final",
+  "duracion": 12.4
+ }
+]

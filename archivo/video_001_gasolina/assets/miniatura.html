@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="es"><head><meta charset="utf-8">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@900&family=JetBrains+Mono:wght@700&display=swap">
+<style>
+@font-face{font-family:"TM Titular";src:url("../../../herramientas/fuentes/ArchivoBlack-Regular.ttf")}
+html,body{margin:0;width:1280px;height:720px;overflow:hidden;background:#12161C}
+.foto{position:absolute;right:0;top:0;width:760px;height:720px;background:url(mini_fondo.jpg) center/cover;filter:saturate(1.1) contrast(1.05)}
+.foto::after{content:"";position:absolute;inset:0;background:linear-gradient(90deg,#12161C 0%,rgba(18,22,28,.85) 22%,rgba(18,22,28,0) 60%)}
+.txt{position:absolute;left:56px;top:110px;font-family:"TM Titular",Impact,sans-serif;text-transform:uppercase;line-height:.92;letter-spacing:-2px}
+.l1{font-size:150px;color:#FBFAF6;display:flex;align-items:center;gap:18px}
+.l2{font-size:150px;color:#F5B301;display:flex;align-items:center;gap:18px;margin-top:34px}
+.flecha{margin-left:26px;width:0;height:0;border-left:44px solid transparent;border-right:44px solid transparent}
+.up{border-bottom:78px solid #FBFAF6}
+.down{border-top:78px solid #E0521B}
+.q{color:#E0521B}
+.precio{position:absolute;left:60px;bottom:52px;font-family:"JetBrains Mono",monospace;font-weight:700;font-size:40px;color:#12161C;background:#FBFAF6;padding:10px 20px;transform:rotate(-2deg);box-shadow:0 10px 24px rgba(0,0,0,.5)}
+.stripe{position:absolute;left:0;right:0;bottom:0;height:14px;background:repeating-linear-gradient(-45deg,#F5B301 0 22px,#12161C 22px 44px)}
+</style></head><body>
+<div class="foto"></div>
+<div class="txt">
+  <div class="l1">Sube ya <span class="flecha up"></span></div>
+  <div class="l2">¿Y baja? <span class="flecha down"></span></div>
+</div>
+<div class="precio">GASOLINA 1,93 €/l</div>
+<div class="stripe"></div>
+</body></html>

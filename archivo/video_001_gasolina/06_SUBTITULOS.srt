@@ -1,0 +1,295 @@
+1
+00:00:00,000 --> 00:00:04,802
+El petróleo sube un lunes y el viernes ya lo estás pagando en la gasolinera.
+
+2
+00:00:04,802 --> 00:00:10,110
+Pero cuando el petróleo baja, pasa una semana, pasa otra, y el surtidor sigue igual.
+
+3
+00:00:10,110 --> 00:00:11,690
+No es una impresión tuya.
+
+4
+00:00:11,690 --> 00:00:17,250
+Tiene nombre, está medido, y lo estudió la propia autoridad de la competencia en España.
+
+5
+00:00:17,600 --> 00:00:23,536
+Esta semana, el litro de gasolina roza el euro con noventa y tres de media en España,
+
+6
+00:00:23,536 --> 00:00:26,189
+y el gasóleo está prácticamente igual.
+
+7
+00:00:26,189 --> 00:00:32,194
+Son los precios más altos del año, y la gasolina lleva doce semanas seguidas subiendo.
+
+8
+00:00:32,194 --> 00:00:36,872
+Así que la pregunta viene al pelo: cuando por fin baje el petróleo,
+
+9
+00:00:36,872 --> 00:00:39,805
+¿cuánto tardará en notarse en tu depósito?
+
+10
+00:00:40,155 --> 00:00:42,845
+Para responder, primero hay que abrir el ticket.
+
+11
+00:00:42,845 --> 00:00:46,040
+¿Qué pagas exactamente cuando pagas un litro de gasolina?
+
+12
+00:00:46,390 --> 00:00:48,880
+Cojamos un año tranquilo: 2025.
+
+13
+00:00:48,880 --> 00:00:54,101
+El litro de gasolina costó de media un euro y cincuenta céntimos.
+
+14
+00:00:54,101 --> 00:01:00,767
+De ese euro y medio, casi la mitad, unos setenta y tres céntimos, fueron impuestos.
+
+15
+00:01:01,117 --> 00:01:03,371
+Y aquí viene el detalle curioso.
+
+16
+00:01:03,371 --> 00:01:07,387
+Hay un impuesto fijo por cada litro, el de hidrocarburos,
+
+17
+00:01:07,387 --> 00:01:09,782
+de unos cuarenta y siete céntimos.
+
+18
+00:01:09,782 --> 00:01:16,616
+Y encima, el IVA del veintiuno por ciento se calcula sobre el precio que ya incluye ese impuesto.
+
+19
+00:01:16,616 --> 00:01:19,294
+Es decir: pagas IVA sobre un impuesto.
+
+20
+00:01:19,644 --> 00:01:29,106
+Después está el producto en sí, la gasolina tal y como cotiza en los mercados internacionales: aproximadamente cuarenta y ocho céntimos.
+
+21
+00:01:29,456 --> 00:01:32,508
+Y lo que queda, unos veintinueve céntimos,
+
+22
+00:01:32,508 --> 00:01:38,540
+es lo que la Comisión Nacional de los Mercados y la Competencia llama margen bruto.
+
+23
+00:01:38,540 --> 00:01:40,575
+Ojo, porque no es beneficio.
+
+24
+00:01:40,575 --> 00:01:43,917
+De ahí salen el transporte, el almacenamiento,
+
+25
+00:01:43,917 --> 00:01:50,312
+las reservas obligatorias, los biocarburantes, el alquiler de la estación y los sueldos.
+
+26
+00:01:50,662 --> 00:01:52,122
+Ahora, el misterio.
+
+27
+00:01:52,122 --> 00:02:05,717
+En 2012, la antigua Comisión Nacional de la Competencia analizó seis años de precios semanales en España y le puso nombre a lo que todos sospechábamos: el efecto cohete y pluma.
+
+28
+00:02:05,717 --> 00:02:10,019
+Los precios suben como un cohete y bajan como una pluma.
+
+29
+00:02:10,369 --> 00:02:12,256
+Lo que encontró fue esto.
+
+30
+00:02:12,256 --> 00:02:17,994
+Cuando el precio internacional sube, el surtidor reacciona esa misma semana.
+
+31
+00:02:17,994 --> 00:02:23,280
+Cuando baja, la bajada no empieza a notarse hasta la semana siguiente.
+
+32
+00:02:23,280 --> 00:02:27,357
+Durante unas dos semanas, pagas más de lo que tocaría.
+
+33
+00:02:27,357 --> 00:02:33,246
+Después las cosas se igualan, pero ese desfase, repetido una y otra vez, suma.
+
+34
+00:02:33,596 --> 00:02:38,413
+La asimetría se vio clara en la gasolina y más débil en el gasóleo.
+
+35
+00:02:38,413 --> 00:02:44,093
+Y hubo otro hallazgo: en las provincias con menos competencia entre estaciones,
+
+36
+00:02:44,093 --> 00:02:46,034
+los precios eran más altos.
+
+37
+00:02:46,384 --> 00:02:47,662
+¿Y por qué pasa?
+
+38
+00:02:47,662 --> 00:02:53,254
+Hay tres explicaciones, y probablemente las tres son ciertas a la vez.
+
+39
+00:02:53,604 --> 00:02:55,165
+La primera eres tú.
+
+40
+00:02:55,165 --> 00:03:00,998
+Cuando la gasolina sube, todos miramos precios y cambiamos de estación.
+
+41
+00:03:00,998 --> 00:03:03,216
+Cuando baja, nos relajamos.
+
+42
+00:03:03,216 --> 00:03:05,188
+Y la gasolinera lo sabe.
+
+43
+00:03:05,538 --> 00:03:07,335
+La segunda es el depósito.
+
+44
+00:03:07,335 --> 00:03:10,791
+La estación tiene combustible que compró más caro,
+
+45
+00:03:10,791 --> 00:03:14,178
+y no tiene ninguna prisa por venderlo más barato.
+
+46
+00:03:14,528 --> 00:03:16,720
+La tercera es la más incómoda.
+
+47
+00:03:16,720 --> 00:03:22,492
+Cuando pocos operadores dominan una zona, nadie quiere ser el primero en bajar.
+
+48
+00:03:22,492 --> 00:03:27,680
+No hace falta ningún pacto: basta con mirar lo que hace el de enfrente.
+
+49
+00:03:27,680 --> 00:03:31,407
+La propia autoridad de competencia aclaró que esto,
+
+50
+00:03:31,407 --> 00:03:34,695
+por sí solo, no demuestra ninguna infracción.
+
+51
+00:03:34,695 --> 00:03:39,445
+Pero sí indica que la competencia es más débil de lo que debería.
+
+52
+00:03:39,795 --> 00:03:41,618
+Hay una prueba de fuego.
+
+53
+00:03:41,618 --> 00:03:47,768
+En 2022, el Gobierno pagó veinte céntimos por cada litro a todos los conductores.
+
+54
+00:03:47,768 --> 00:03:55,666
+Un estudio publicado en la revista Energy Economics analizó qué hicieron las gasolineras con el gasóleo.
+
+55
+00:03:55,666 --> 00:04:00,526
+Las de las grandes marcas subieron su precio unos tres céntimos.
+
+56
+00:04:00,526 --> 00:04:02,804
+Las independientes, unos seis.
+
+57
+00:04:02,804 --> 00:04:06,829
+En esas estaciones, de cada veinte céntimos de ayuda,
+
+58
+00:04:06,829 --> 00:04:10,170
+al conductor le llegaron de media unos doce.
+
+59
+00:04:10,520 --> 00:04:14,997
+Aun así, las gasolineras no se hacen de oro con el combustible.
+
+60
+00:04:14,997 --> 00:04:20,682
+Según la Comisión, el margen de las minoristas ronda el tres y medio por ciento.
+
+61
+00:04:20,682 --> 00:04:30,347
+Por eso cada vez se parecen más a un supermercado: Repsol ya tiene casi ochocientas tiendas de El Corte Inglés dentro de sus estaciones.
+
+62
+00:04:30,347 --> 00:04:34,683
+El café, el lavado y la bolsa de patatas también son negocio.
+
+63
+00:04:35,033 --> 00:04:37,400
+Y hay un dato que te interesa mucho.
+
+64
+00:04:37,400 --> 00:04:41,544
+En España hay doce mil setecientas cuarenta y seis gasolineras,
+
+65
+00:04:41,544 --> 00:04:45,820
+un récord, y más de la mitad no son de las cuatro grandes marcas.
+
+66
+00:04:45,820 --> 00:04:52,529
+Según la OCU, las grandes cobran entre un doce y un quince por ciento más que las cadenas más baratas.
+
+67
+00:04:52,529 --> 00:04:57,659
+Para un conductor medio, eso puede suponer hasta unos doscientos euros al año.
+
+68
+00:04:58,009 --> 00:05:02,160
+Así que la próxima vez que el petróleo baje en las noticias,
+
+69
+00:05:02,160 --> 00:05:05,550
+no esperes verlo en el surtidor al día siguiente.
+
+70
+00:05:05,550 --> 00:05:07,142
+Llegará, pero despacio.
+
+71
+00:05:07,142 --> 00:05:11,777
+Y mientras tanto, tu mejor herramienta no es quejarte: es comparar.
+
+72
+00:05:11,777 --> 00:05:16,828
+Porque el efecto pluma funciona, sobre todo, cuando nadie mira el precio.
+
+73
+00:05:17,178 --> 00:05:21,298
+Cada semana abrimos el ticket de algo que pagas todos los días.
+
+74
+00:05:21,298 --> 00:05:25,681
+Si quieres saber cuál es el siguiente, ya sabes dónde encontrarnos.

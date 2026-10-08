@@ -1,0 +1,79 @@
+{
+ "voz": "voz/voz.mp3",
+ "subtitulos": "voz/subtitulos.srt",
+ "musica": "../../../../musica/pepa_pita/Travelling Light - Blue Deer Studio.mp3",
+ "musica_db": -22,
+ "fondo": "../../fondos/pexels_5451503.jpg",
+ "cabecera": "¿EL ARROZ DE AYER?",
+ "planos": [
+  {
+   "desde": 0,
+   "imagen": "busto"
+  },
+  {
+   "desde": 2.7,
+   "imagen": "pose_ojo"
+  },
+  {
+   "desde": 3.7,
+   "imagen": "busto"
+  },
+  {
+   "desde": 8.6,
+   "imagen": "exp_preocupada"
+  },
+  {
+   "desde": 15.0,
+   "imagen": "busto"
+  },
+  {
+   "desde": 21.5,
+   "imagen": "pose_senala"
+  },
+  {
+   "desde": 23.9,
+   "imagen": "pose_sartenes"
+  },
+  {
+   "desde": 28.3,
+   "imagen": "busto"
+  },
+  {
+   "desde": 31.1,
+   "imagen": "exp_guino"
+  }
+ ],
+ "rotulos": [
+  {
+   "desde": 3.7,
+   "hasta": 8.6,
+   "texto": "AGUANTA LA COCCIÓN",
+   "sub": "las esporas de Bacillus cereus · AESAN"
+  },
+  {
+   "desde": 8.6,
+   "hasta": 15.0,
+   "texto": "EL CALOR NO LA QUITA",
+   "sub": "la toxina resiste hasta 121 °C · AESAN"
+  },
+  {
+   "desde": 15.0,
+   "hasta": 21.5,
+   "texto": "TÁPERES PEQUEÑOS",
+   "sub": "sin apilar y a la nevera · AESAN"
+  },
+  {
+   "desde": 21.5,
+   "hasta": 23.9,
+   "texto": "MÁX. 2 HORAS FUERA",
+   "sub": "fuente: AESAN"
+  },
+  {
+   "desde": 23.9,
+   "hasta": 28.3,
+   "texto": "74 °C AL RECALENTAR",
+   "sub": "en todas partes · AESAN"
+  }
+ ],
+ "salida": "salida/PEPA_004_arroz_de_ayer.mp4"
+}
