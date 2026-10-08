@@ -54,7 +54,7 @@ escena("03", "Lidl es una cadena alemana", "fachada", [
     txt("1994", 1000, 380, 120, color="#E0521B", en="mil novecientos noventa y cuatro"), mano("llega a España", 1000, 490, 44, en="mil novecientos noventa y cuatro"),
     cifra(730, 330, 700, 130, prefijo="+", en="más de setecientas treinta tiendas"), mano("tiendas", 330, 790, 44, en="más de setecientas treinta tiendas"),
     cifra(14, 700, 700, 130, en="catorce plataformas"), mano("plataformas\nlogísticas", 700, 810, 44, en="catorce plataformas"),
-    cifra(20000, 1070, 700, 130, prefijo="+", en="veinte mil empleados"), mano("empleados", 1070, 790, 44, en="veinte mil empleados"),
+    cifra(20000, 1070, 700, 130, prefijo="+", en="catorce plataformas", t=1.0), mano("empleados", 1070, 790, 44, en="catorce plataformas", t=1.2),
     masc("saluda", 1620, 520, entra="der", t=0.2),
 ], zoom=[1.0, 1.06], fuente="Lidl España, empresa.lidl.es y comunicado de resultados (30/9/2026)")
 
@@ -66,12 +66,12 @@ escena("04", "Está presente en más de treinta", "#E6E0F5", [
     masc("normal", 1650, 480, entra="der", t=0.2),
 ], fuente="Lidl España, empresa.lidl.es/sobre-lidl")
 
-escena("05", "Y en su último ejercicio", "supermercado", [
+escena("05", "vendió siete mil seiscientos cuarenta", "supermercado", [
     panel(),
     mano("Ventas netas del último año", 700, 230, 60, t=0.2),
     cifra(7641, 700, 400, 170, sufijo=" M€", en="siete mil seiscientos cuarenta y un millones"),
     txt("+10 %", 700, 590, 100, color="#2E8B57", anim="pop", en="Un diez por ciento más"),
-    mano("≈ 242 € cada segundo", 700, 800, 64, papel=True, en="doscientos cuarenta y dos euros"),
+    mano("≈ 242 € cada segundo", 700, 800, 64, papel=True, en="Un diez por ciento más"),
     masc("sorprendido", 1620, 520, entra="der", t=0.2),
 ], zoom=[1.0, 1.06], fuente=LIDL + " (cálculo propio por segundo)")
 
@@ -89,13 +89,13 @@ escena("07", "Para ponerlo en perspectiva", "#E3E7EC", [
     mano("Mercadona", 220, 390, 54, ancla="izq", en="Mercadona, el líder"),
     rect(220, 440, 880, 110, "#F5B301", texto="≈ 4,1 c", tam=56, en="cuatro céntimos por euro", dur=1.2),
     mano("Lidl", 220, 650, 54, ancla="izq", en="cuatro céntimos por euro"),
-    rect(220, 700, 770, 110, "#E0521B", texto="≈ 3,6 c", tam=56, en="cuatro céntimos por euro", dur=1.2, t=1.8),
-    txt("Pero Mercadona vende 5,5 veces más", 700, 910, 56, color="#E0521B", en="más de cinco veces más"),
+    rect(220, 700, 770, 110, "#E0521B", texto="≈ 3,6 c", tam=56, en="Mercadona, el líder", dur=1.2, t=1.0),
+    txt("Pero Mercadona vende 5,5 veces más", 700, 910, 56, color="#E0521B", en="pero vende"),
     masc("lupa", 1650, 500, entra="der", t=0.2),
 ], fuente="Lidl: comunicado 30/9/2026 · Mercadona: Memoria Anual 2025 (41.858 M€; 4,1 c, cálculo propio). Ejercicios distintos")
 
 escena("08", "Según Kantar", "#FFF3C4", [
-    txt("¿Quién se lleva tu gasto en el súper?", 470, 130, 60, papel=True, t=0.2),
+    txt("¿Quién se lleva tu gasto en el súper?", 960, 130, 60, papel=True, t=0.2),
     {"tipo": "tarta", "x": 470, "y": 590, "r": 300, "t": 0.3, "porciones": [
         {"v": 27.2, "color": "#F5B301", "en": "veintisiete van a Mercadona"},
         {"v": 7.3, "color": "#E0521B", "en": "siete a Lidl"},
@@ -145,7 +145,7 @@ escena("13", "El primer truco", "supermercado", [
     panel(), titulo("TRUCO 1: pocas cosas"),
     cifra(3200, 440, 420, 150, en="tres mil doscientas referencias"), mano("referencias en Lidl", 440, 540, 46, en="tres mil doscientas referencias"),
     txt("> 80 % marca propia", 440, 700, 56, color="#E0521B", en="ochenta por ciento"),
-    cifra(8000, 1000, 420, 150, color="#9A9A9A", en="Mercadona tiene unas ocho mil"), mano("en Mercadona", 1000, 540, 46, en="Mercadona tiene unas ocho mil"),
+    cifra(8000, 1000, 420, 150, color="#9A9A9A", en="ochenta por ciento"), mano("en Mercadona", 1000, 540, 46, en="ochenta por ciento"),
     masc("senala", 1650, 500, mira="izq", entra="der", t=0.2),
 ], zoom=[1.0, 1.06], fuente="Lidl España (empresa.lidl.es, modelo de negocio) · Mercadona, Memoria Anual 2025")
 
@@ -187,7 +187,7 @@ escena("17", "Mira lo que eso significa", "centro_logistico", [
 
 escena("18", "España no es solo un mercado", "puerto_avion", [
     sello("ESPAÑA = LA DESPENSA DE LIDL EN EUROPA", 960, 440, 70, t=0.3),
-    mano("Compra en España y vende en una treintena de países europeos", 960, 640, 54, papel=True, en="su despensa en Europa"),
+    mano("Compra en España y vende en\nuna treintena de países europeos", 960, 640, 54, papel=True, en="España no es solo un mercado"),
     masc("saluda", 1650, 500, entra="der", t=0.2),
 ], zoom=[1.0, 1.08])
 
@@ -195,7 +195,7 @@ escena("19", "Se nota sobre todo en la fruta", "#E8F3E0", [
     mano("Fruta y verdura", 700, 200, 70, papel=True, t=0.2),
     cifra(2, 380, 420, 190, sufijo=" M t", prefijo="+", en="más de dos millones de toneladas"), mano("compradas", 380, 570, 50, en="más de dos millones de toneladas"),
     cifra(81, 1000, 420, 190, sufijo=" %", color="#E0521B", en="El ochenta y un por ciento"), mano("a otros mercados europeos", 1000, 570, 46, en="otros mercados europeos"),
-    txt("2026, previsión: 9.400 M€ de compras", 700, 820, 56, papel=True, en="nueve mil cuatrocientos millones"),
+    txt("2026, previsión: 9.400 M€ de compras", 700, 820, 56, papel=True, en="Y para este año"),
     masc("carrito", 1650, 500, entra="der", t=0.2),
 ], fuente="Lidl España, comunicado 30/9/2026 (vía FreshPlaza)")
 
@@ -220,8 +220,8 @@ escena("22", "Y detrás hay personas", "oficina_financiera", [
     panel(), titulo("Las personas"),
     cifra(1200, 450, 450, 150, prefijo="+", en="más de mil doscientos empleos"), mano("empleos creados en 2025", 450, 570, 46, en="más de mil doscientos empleos"),
     cifra(94, 1000, 450, 150, sufijo=" %", en="el noventa y cuatro por ciento"), mano("contrato indefinido", 1000, 570, 46, en="contrato indefinido"),
-    txt("Convenio: > 280 M€ en 4 años", 700, 790, 58, papel=True, en="doscientos ochenta millones"),
-    mano("según la empresa", 700, 900, 44, en="doscientos ochenta millones"),
+    txt("Convenio: > 280 M€ en 4 años", 700, 790, 58, papel=True, en="Y que su convenio"),
+    mano("según la empresa", 700, 900, 44, en="Y que su convenio"),
     masc("contento", 1650, 500, entra="der", t=0.2),
 ], fuente="Lidl España, comunicado 30/9/2026 (datos de la empresa)")
 
@@ -264,8 +264,8 @@ escena("27", "Así que, la próxima vez", "supermercado", [
         {"v": 8.4, "color": "#9CC5E8", "en": "Unos ocho y medio"},
         {"v": 88.0, "color": "#D9D2C0", "en": "el producto, la plantilla"}]},
     *leyenda([("3,6 c · beneficio", "#E0521B", "Tres céntimos y medio"),
-              ("≈ 8,4 c · impuestos (según la empresa)", "#9CC5E8", "Unos ocho y medio"),
-              ("resto · producto, plantilla, tiendas", "#D9D2C0", "el producto, la plantilla")], x=760, y0=440, paso=120, tam=46),
+              ("≈ 8,4 c · impuestos*", "#9CC5E8", "Unos ocho y medio"),
+              ("resto: producto y gastos", "#D9D2C0", "el producto, la plantilla")], x=760, y0=440, paso=120, tam=46),
     masc("saluda", 1650, 500, entra="der", t=0.2),
 ], fuente="Lidl España, comunicado 30/9/2026 (cálculo propio sobre ventas netas; los impuestos incluyen los que recauda para el Estado)")
 

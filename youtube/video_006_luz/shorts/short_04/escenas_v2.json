@@ -1,0 +1,176 @@
+{
+ "formato": "vertical",
+ "fondos": "../../fondos",
+ "musica": "../../audio/musica.mp3",
+ "musica_db": -26,
+ "cola": 1.5,
+ "salida": "../../output/SHORT_04_71_euros_mas.mp4",
+ "escenas": [
+  {
+   "id": "a",
+   "desde": "Un hogar que consume tres mil",
+   "fondo": "supermercado",
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 60,
+     "y": 360,
+     "w": 960,
+     "h": 640
+    },
+    {
+     "tipo": "texto",
+     "texto": "HOGAR DE 3.000 kWh/AÑO",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "sello",
+     "texto": "+71 € AL AÑO",
+     "x": 540,
+     "y": 560,
+     "tam": 80,
+     "t": 0.4
+    },
+    {
+     "tipo": "texto",
+     "texto": "frente a 2023",
+     "x": 540,
+     "y": 700,
+     "tam": 50,
+     "fuente": "mano",
+     "t": 0.6
+    },
+    {
+     "tipo": "mascota",
+     "pose": "moneda",
+     "x": 880,
+     "y": 1310,
+     "h": 380,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "b",
+   "desde": "Con los precios medios de dos mil veintitrés",
+   "fondo": "#E6E0F5",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "HOGAR DE 3.000 kWh/AÑO",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "2023: 781 €",
+     "x": 540,
+     "y": 480,
+     "tam": 100,
+     "en": "setecientos ochenta y un euros"
+    },
+    {
+     "tipo": "texto",
+     "texto": "2025: 851 €",
+     "x": 540,
+     "y": 680,
+     "tam": 100,
+     "color": "#E0521B",
+     "en": "ochocientos cincuenta y uno"
+    },
+    {
+     "tipo": "sello",
+     "texto": "+71 €",
+     "x": 540,
+     "y": 900,
+     "tam": 100,
+     "en": "Con los de dos mil veinticinco"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "pensativo",
+     "x": 900,
+     "y": 1310,
+     "h": 260,
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "c",
+   "desde": "Pero la energía le costaría",
+   "fondo": "#F4E9D0",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "¿DE DÓNDE SALE?",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "Energía  −57 €",
+     "x": 540,
+     "y": 470,
+     "tam": 62,
+     "fuente": "mano",
+     "en": "cincuenta y siete euros menos"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Red  −36 €",
+     "x": 540,
+     "y": 600,
+     "tam": 62,
+     "fuente": "mano",
+     "en": "treinta y seis menos"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Impuestos y gravámenes\n+164 €",
+     "x": 540,
+     "y": 820,
+     "tam": 76,
+     "color": "#E0521B",
+     "anim": "pop",
+     "en": "ciento sesenta y cuatro"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Cálculo propio con medias de Eurostat",
+     "x": 540,
+     "y": 1050,
+     "tam": 38,
+     "fuente": "mano",
+     "en": "un cálculo nuestro"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "senala",
+     "x": 900,
+     "y": 1310,
+     "h": 260,
+     "t": 0.2
+    }
+   ]
+  }
+ ]
+}

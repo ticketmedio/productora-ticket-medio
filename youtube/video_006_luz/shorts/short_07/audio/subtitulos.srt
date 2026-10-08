@@ -1,0 +1,19 @@
+1
+00:00:00,150 --> 00:00:05,262
+Según Eurostat, quien consume poco paga más por cada kilovatio hora de luz.
+
+2
+00:00:06,736 --> 00:00:15,420
+Los hogares que gastan entre mil y dos mil quinientos kilovatios hora al año pagaron de media treinta y dos coma seis céntimos.
+
+3
+00:00:15,420 --> 00:00:20,616
+Los que gastan entre dos mil quinientos y cinco mil, veintiséis coma cuatro.
+
+4
+00:00:20,616 --> 00:00:27,454
+Eurostat no lo explica, pero parte de la diferencia puede venir de los términos fijos de la factura,
+
+5
+00:00:27,454 --> 00:00:30,121
+que se reparten entre menos kilovatios.

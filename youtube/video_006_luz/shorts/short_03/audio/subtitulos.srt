@@ -1,0 +1,39 @@
+1
+00:00:00,150 --> 00:00:03,762
+¿Por qué los impuestos de la luz se han multiplicado por casi tres?
+
+2
+00:00:03,988 --> 00:00:08,372
+Porque las rebajas fiscales de la crisis energética se han ido retirando.
+
+3
+00:00:08,372 --> 00:00:09,813
+Mira lo que dice el BOE.
+
+4
+00:00:09,813 --> 00:00:16,179
+En dos mil veinticuatro, el IVA de la luz era del diez por ciento para contratos de hasta diez kilovatios,
+
+5
+00:00:16,179 --> 00:00:22,064
+mientras el precio medio del mercado diario superara los cuarenta y cinco euros el megavatio hora.
+
+6
+00:00:22,064 --> 00:00:30,351
+Y el impuesto especial sobre la electricidad estaba al dos coma cinco por ciento en el primer trimestre y al tres coma ocho en el segundo.
+
+7
+00:00:30,701 --> 00:00:35,519
+En dos mil veinticinco, el IVA es el general: veintiuno por ciento.
+
+8
+00:00:35,519 --> 00:00:41,847
+Y el impuesto especial sobre la electricidad, el general: cinco coma uno uno por ciento.
+
+9
+00:00:41,847 --> 00:00:45,802
+Eso ayuda a explicar por qué, en los datos de Eurostat,
+
+10
+00:00:45,802 --> 00:00:48,822
+el IVA se multiplicó por tres en dos años.

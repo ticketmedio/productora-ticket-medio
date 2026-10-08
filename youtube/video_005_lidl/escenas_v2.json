@@ -220,7 +220,8 @@
      "y": 700,
      "tam": 130,
      "prefijo": "+",
-     "en": "veinte mil empleados"
+     "en": "catorce plataformas",
+     "t": 1.0
     },
     {
      "tipo": "texto",
@@ -229,7 +230,8 @@
      "y": 790,
      "tam": 44,
      "fuente": "mano",
-     "en": "veinte mil empleados"
+     "en": "catorce plataformas",
+     "t": 1.2
     },
     {
      "tipo": "mascota",
@@ -319,7 +321,7 @@
   },
   {
    "id": "05",
-   "desde": "Y en su último ejercicio",
+   "desde": "vendió siete mil seiscientos cuarenta",
    "fondo": "supermercado",
    "capas": [
     {
@@ -366,7 +368,7 @@
      "tam": 64,
      "fuente": "mano",
      "papel": true,
-     "en": "doscientos cuarenta y dos euros"
+     "en": "Un diez por ciento más"
     },
     {
      "tipo": "mascota",
@@ -502,9 +504,9 @@
      "color": "#E0521B",
      "texto": "≈ 3,6 c",
      "tam": 56,
-     "en": "cuatro céntimos por euro",
+     "en": "Mercadona, el líder",
      "dur": 1.2,
-     "t": 1.8
+     "t": 1.0
     },
     {
      "tipo": "texto",
@@ -513,7 +515,7 @@
      "y": 910,
      "tam": 56,
      "color": "#E0521B",
-     "en": "más de cinco veces más"
+     "en": "pero vende"
     },
     {
      "tipo": "mascota",
@@ -535,7 +537,7 @@
     {
      "tipo": "texto",
      "texto": "¿Quién se lleva tu gasto en el súper?",
-     "x": 470,
+     "x": 960,
      "y": 130,
      "tam": 60,
      "papel": true,
@@ -972,7 +974,7 @@
      "y": 420,
      "tam": 150,
      "color": "#9A9A9A",
-     "en": "Mercadona tiene unas ocho mil"
+     "en": "ochenta por ciento"
     },
     {
      "tipo": "texto",
@@ -981,7 +983,7 @@
      "y": 540,
      "tam": 46,
      "fuente": "mano",
-     "en": "Mercadona tiene unas ocho mil"
+     "en": "ochenta por ciento"
     },
     {
      "tipo": "mascota",
@@ -1315,13 +1317,13 @@
     },
     {
      "tipo": "texto",
-     "texto": "Compra en España y vende en una treintena de países europeos",
+     "texto": "Compra en España y vende en\nuna treintena de países europeos",
      "x": 960,
      "y": 640,
      "tam": 54,
      "fuente": "mano",
      "papel": true,
-     "en": "su despensa en Europa"
+     "en": "España no es solo un mercado"
     },
     {
      "tipo": "mascota",
@@ -1398,7 +1400,7 @@
      "y": 820,
      "tam": 56,
      "papel": true,
-     "en": "nueve mil cuatrocientos millones"
+     "en": "Y para este año"
     },
     {
      "tipo": "mascota",
@@ -1629,7 +1631,7 @@
      "y": 790,
      "tam": 58,
      "papel": true,
-     "en": "doscientos ochenta millones"
+     "en": "Y que su convenio"
     },
     {
      "tipo": "texto",
@@ -1638,7 +1640,7 @@
      "y": 900,
      "tam": 44,
      "fuente": "mano",
-     "en": "doscientos ochenta millones"
+     "en": "Y que su convenio"
     },
     {
      "tipo": "mascota",
@@ -1973,7 +1975,7 @@
     },
     {
      "tipo": "texto",
-     "texto": "≈ 8,4 c · impuestos (según la empresa)",
+     "texto": "≈ 8,4 c · impuestos*",
      "x": 845,
      "y": 560,
      "tam": 46,
@@ -1992,7 +1994,7 @@
     },
     {
      "tipo": "texto",
-     "texto": "resto · producto, plantilla, tiendas",
+     "texto": "resto: producto y gastos",
      "x": 845,
      "y": 680,
      "tam": 46,

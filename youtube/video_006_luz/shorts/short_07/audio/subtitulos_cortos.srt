@@ -1,0 +1,83 @@
+1
+00:00:00,150 --> 00:00:01,428
+Según Eurostat, quien consume
+
+2
+00:00:01,428 --> 00:00:02,706
+poco paga más por
+
+3
+00:00:02,706 --> 00:00:03,984
+cada kilovatio hora de
+
+4
+00:00:03,984 --> 00:00:05,262
+luz.
+
+5
+00:00:06,736 --> 00:00:08,183
+Los hogares que gastan
+
+6
+00:00:08,183 --> 00:00:09,631
+entre mil y dos
+
+7
+00:00:09,631 --> 00:00:11,078
+mil quinientos kilovatios hora
+
+8
+00:00:11,078 --> 00:00:12,525
+al año pagaron de
+
+9
+00:00:12,525 --> 00:00:13,973
+media treinta y dos
+
+10
+00:00:13,973 --> 00:00:15,420
+coma seis céntimos.
+
+11
+00:00:15,420 --> 00:00:16,719
+Los que gastan entre
+
+12
+00:00:16,719 --> 00:00:18,018
+dos mil quinientos y
+
+13
+00:00:18,018 --> 00:00:19,317
+cinco mil, veintiséis coma
+
+14
+00:00:19,317 --> 00:00:20,616
+cuatro.
+
+15
+00:00:20,616 --> 00:00:21,983
+Eurostat no lo explica,
+
+16
+00:00:21,983 --> 00:00:23,351
+pero parte de la
+
+17
+00:00:23,351 --> 00:00:24,719
+diferencia puede venir de
+
+18
+00:00:24,719 --> 00:00:26,086
+los términos fijos de
+
+19
+00:00:26,086 --> 00:00:27,454
+la factura,
+
+20
+00:00:27,454 --> 00:00:28,787
+que se reparten entre
+
+21
+00:00:28,787 --> 00:00:30,121
+menos kilovatios.

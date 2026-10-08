@@ -1,0 +1,51 @@
+1
+00:00:00,150 --> 00:00:08,591
+En dos mil veinticinco, un hogar español pagó veintiocho coma cuatro céntimos por kilovatio hora. Así se reparten.
+
+2
+00:00:09,127 --> 00:00:17,551
+La primera es la energía y el suministro: lo que cuesta la electricidad que consumes y el servicio de la comercializadora.
+
+3
+00:00:17,551 --> 00:00:19,208
+Once coma seis céntimos.
+
+4
+00:00:19,208 --> 00:00:22,177
+El cuarenta y uno por ciento de tu factura.
+
+5
+00:00:22,177 --> 00:00:23,420
+Menos de la mitad.
+
+6
+00:00:23,770 --> 00:00:29,234
+La segunda son los costes de red: los cables que llevan la luz hasta tu casa,
+
+7
+00:00:29,234 --> 00:00:31,931
+los de alta tensión y los de tu calle.
+
+8
+00:00:31,931 --> 00:00:33,564
+Ocho coma uno céntimos.
+
+9
+00:00:33,564 --> 00:00:35,338
+El veintiocho por ciento.
+
+10
+00:00:35,688 --> 00:00:41,639
+Y la tercera es la que Eurostat llama impuestos, tasas, gravámenes y cargos.
+
+11
+00:00:41,639 --> 00:00:43,597
+Ocho coma siete céntimos.
+
+12
+00:00:43,597 --> 00:00:46,886
+El treinta y uno por ciento de tu factura.
+
+13
+00:00:46,886 --> 00:00:48,922
+Casi un euro de cada tres.

@@ -1,0 +1,134 @@
+{
+ "formato": "vertical",
+ "fondos": "../../fondos",
+ "musica": "../../audio/musica.mp3",
+ "musica_db": -26,
+ "cola": 1.5,
+ "salida": "../../output/SHORT_06_luz_espana_vs_europa.mp4",
+ "escenas": [
+  {
+   "id": "a",
+   "desde": "¿Es la luz en España más cara",
+   "fondo": "puerto_avion",
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 60,
+     "y": 360,
+     "w": 960,
+     "h": 640
+    },
+    {
+     "tipo": "texto",
+     "texto": "¿MÁS CARA QUE EN EUROPA?",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "Eurostat · 2025 · c/kWh",
+     "x": 540,
+     "y": 480,
+     "tam": 46,
+     "fuente": "mano",
+     "t": 0.4
+    },
+    {
+     "tipo": "texto",
+     "texto": "España 28,4",
+     "x": 540,
+     "y": 640,
+     "tam": 90,
+     "color": "#E0521B",
+     "en": "España, veintiocho coma cuatro"
+    },
+    {
+     "tipo": "texto",
+     "texto": "UE-27: 29,4",
+     "x": 540,
+     "y": 800,
+     "tam": 80,
+     "en": "Unión Europea"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "pensativo",
+     "x": 880,
+     "y": 1310,
+     "h": 380,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "b",
+   "desde": "Alemania, cuarenta",
+   "fondo": "#E3E7EC",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "¿MÁS CARA QUE EN EUROPA?",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "rect",
+     "x": 110,
+     "y": 470,
+     "w": 860,
+     "h": 90,
+     "color": "#9A9A9A",
+     "texto": "Alemania 40,2",
+     "tam": 40,
+     "en": "Alemania, cuarenta",
+     "dur": 0.7
+    },
+    {
+     "tipo": "rect",
+     "x": 110,
+     "y": 590,
+     "w": 750,
+     "h": 90,
+     "color": "#9A9A9A",
+     "texto": "Italia 35,1",
+     "tam": 40,
+     "en": "Italia, treinta y cinco",
+     "dur": 0.7
+    },
+    {
+     "tipo": "rect",
+     "x": 110,
+     "y": 710,
+     "w": 560,
+     "h": 90,
+     "color": "#9A9A9A",
+     "texto": "Portugal 25,6 · Francia 25,5",
+     "tam": 34,
+     "en": "Francia y Portugal",
+     "dur": 0.7
+    },
+    {
+     "tipo": "mascota",
+     "pose": "encoge_hombros",
+     "x": 900,
+     "y": 1310,
+     "h": 280,
+     "t": 0.2
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1569 @@
+{
+ "musica": "audio/musica.mp3",
+ "musica_db": -26,
+ "cola": 3,
+ "escenas": [
+  {
+   "id": "01",
+   "desde": "En dos años, la energía",
+   "fondo": "oficina_financiera",
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 90,
+     "y": 120,
+     "w": 1230,
+     "h": 870,
+     "t": 0
+    },
+    {
+     "tipo": "texto",
+     "texto": "2023 → 2025, tu factura de la luz",
+     "x": 700,
+     "y": 220,
+     "tam": 56,
+     "fuente": "mano",
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "−14 %",
+     "x": 380,
+     "y": 420,
+     "tam": 130,
+     "color": "#2E8B57",
+     "anim": "pop",
+     "en": "se ha abaratado un catorce"
+    },
+    {
+     "tipo": "texto",
+     "texto": "la energía",
+     "x": 380,
+     "y": 540,
+     "tam": 46,
+     "fuente": "mano",
+     "en": "se ha abaratado un catorce"
+    },
+    {
+     "tipo": "texto",
+     "texto": "+9 %",
+     "x": 1000,
+     "y": 420,
+     "tam": 130,
+     "color": "#E0521B",
+     "anim": "pop",
+     "en": "pagas un nueve por ciento más"
+    },
+    {
+     "tipo": "texto",
+     "texto": "lo que pagas",
+     "x": 1000,
+     "y": 540,
+     "tam": 46,
+     "fuente": "mano",
+     "en": "pagas un nueve por ciento más"
+    },
+    {
+     "tipo": "sello",
+     "texto": "IMPUESTOS ×2,7",
+     "x": 700,
+     "y": 800,
+     "tam": 70,
+     "en": "casi tres"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "sorprendido",
+     "x": 1620,
+     "y": 1015,
+     "h": 520,
+     "entra": "der",
+     "t": 0.3
+    }
+   ],
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "fuente": "Eurostat, nrg_pc_204_c (hogares, todas las bandas; actualizado el 7/10/2026) (cálculo propio)"
+  },
+  {
+   "id": "02",
+   "desde": "Hoy vamos a abrir el ticket",
+   "fondo": "#FFF3C4",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "El ticket de tu\nfactura de la luz",
+     "x": 800,
+     "y": 260,
+     "tam": 84,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "Cifras oficiales de Eurostat, publicadas este mes",
+     "x": 800,
+     "y": 520,
+     "tam": 52,
+     "fuente": "mano",
+     "en": "Eurostat"
+    },
+    {
+     "tipo": "texto",
+     "texto": "¿Adónde va cada euro?",
+     "x": 800,
+     "y": 700,
+     "tam": 64,
+     "fuente": "mano",
+     "papel": true,
+     "en": "publicadas este mismo mes"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "saluda",
+     "x": 1620,
+     "y": 1015,
+     "h": 520,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "Eurostat, nrg_pc_204_c (hogares, todas las bandas; actualizado el 7/10/2026)"
+  },
+  {
+   "id": "03",
+   "desde": "Primero, una advertencia",
+   "fondo": "#E3E7EC",
+   "capas": [
+    {
+     "tipo": "sello",
+     "texto": "ES UNA MEDIA",
+     "x": 800,
+     "y": 260,
+     "tam": 90,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "Tu factura depende de:",
+     "x": 800,
+     "y": 470,
+     "tam": 56,
+     "fuente": "mano",
+     "en": "Tu factura depende"
+    },
+    {
+     "tipo": "texto",
+     "texto": "tu tarifa · tu potencia · tu consumo",
+     "x": 800,
+     "y": 600,
+     "tam": 54,
+     "en": "tu tarifa"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Pero el orden de magnitud es real",
+     "x": 800,
+     "y": 800,
+     "tam": 56,
+     "fuente": "mano",
+     "papel": true,
+     "en": "orden de magnitud"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "encoge_hombros",
+     "x": 1620,
+     "y": 1015,
+     "h": 520,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "04",
+   "desde": "En dos mil veinticinco, un hogar",
+   "fondo": "calle_comercial",
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 90,
+     "y": 120,
+     "w": 1230,
+     "h": 870,
+     "t": 0
+    },
+    {
+     "tipo": "texto",
+     "texto": "Un hogar español, 2025, de media",
+     "x": 700,
+     "y": 230,
+     "tam": 56,
+     "fuente": "mano",
+     "t": 0.2
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 28.4,
+     "x": 700,
+     "y": 450,
+     "tam": 190,
+     "sufijo": " c",
+     "dec": 1,
+     "en": "veintiocho coma cuatro"
+    },
+    {
+     "tipo": "texto",
+     "texto": "por cada kilovatio hora (kWh), con todo incluido",
+     "x": 700,
+     "y": 620,
+     "tam": 52,
+     "fuente": "mano",
+     "en": "con todo incluido"
+    },
+    {
+     "tipo": "texto",
+     "texto": "1 kWh = 28,4 c",
+     "x": 700,
+     "y": 820,
+     "tam": 70,
+     "papel": true,
+     "en": "un kilovatio hora"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "lupa",
+     "x": 1620,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "fuente": "Eurostat, nrg_pc_204_c (hogares, todas las bandas; actualizado el 7/10/2026)"
+  },
+  {
+   "id": "05",
+   "desde": "La primera es la energía",
+   "fondo": "#F4E9D0",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "Tu euro de la luz, en 3 partes",
+     "x": 470,
+     "y": 130,
+     "tam": 56,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "tarta",
+     "x": 470,
+     "y": 590,
+     "r": 300,
+     "t": 0.3,
+     "porciones": [
+      {
+       "v": 40.8,
+       "color": "#F5B301",
+       "en": "Once coma seis céntimos"
+      },
+      {
+       "v": 28.4,
+       "color": "#9CC5E8",
+       "en": "Ocho coma uno céntimos"
+      },
+      {
+       "v": 30.8,
+       "color": "#E0521B",
+       "en": "Ocho coma siete céntimos"
+      }
+     ]
+    },
+    {
+     "tipo": "rect",
+     "x": 830,
+     "y": 352,
+     "w": 56,
+     "h": 56,
+     "color": "#F5B301",
+     "en": "Once coma seis céntimos",
+     "dur": 0.3
+    },
+    {
+     "tipo": "texto",
+     "texto": "41 c · energía y suministro (11,6)",
+     "x": 915,
+     "y": 380,
+     "tam": 42,
+     "ancla": "izq",
+     "en": "Once coma seis céntimos"
+    },
+    {
+     "tipo": "rect",
+     "x": 830,
+     "y": 477,
+     "w": 56,
+     "h": 56,
+     "color": "#9CC5E8",
+     "en": "Ocho coma uno céntimos",
+     "dur": 0.3
+    },
+    {
+     "tipo": "texto",
+     "texto": "28 c · redes (8,1)",
+     "x": 915,
+     "y": 505,
+     "tam": 42,
+     "ancla": "izq",
+     "en": "Ocho coma uno céntimos"
+    },
+    {
+     "tipo": "rect",
+     "x": 830,
+     "y": 602,
+     "w": 56,
+     "h": 56,
+     "color": "#E0521B",
+     "en": "Ocho coma siete céntimos",
+     "dur": 0.3
+    },
+    {
+     "tipo": "texto",
+     "texto": "31 c · impuestos, tasas y cargos (8,7)",
+     "x": 915,
+     "y": 630,
+     "tam": 42,
+     "ancla": "izq",
+     "en": "Ocho coma siete céntimos"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Casi 1 euro de cada 3",
+     "x": 1210,
+     "y": 900,
+     "tam": 50,
+     "fuente": "mano",
+     "en": "Casi un euro de cada tres"
+    }
+   ],
+   "fuente": "Eurostat, nrg_pc_204_c (hogares, todas las bandas; actualizado el 7/10/2026) (porcentajes: cálculo propio)"
+  },
+  {
+   "id": "06",
+   "desde": "De esos ocho coma siete",
+   "fondo": "#E3E7EC",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "De los 8,7 c de impuestos, tasas y cargos…",
+     "x": 800,
+     "y": 200,
+     "tam": 54,
+     "fuente": "mano",
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "rect",
+     "x": 220,
+     "y": 330,
+     "w": 900,
+     "h": 130,
+     "color": "#E0521B",
+     "texto": "IVA: 4,8 c · 17 % del total",
+     "tam": 50,
+     "en": "cuatro coma ocho son el IVA",
+     "dur": 1.0
+    },
+    {
+     "tipo": "rect",
+     "x": 220,
+     "y": 520,
+     "w": 440,
+     "h": 130,
+     "color": "#9CC5E8",
+     "texto": "Otros: 3,9 c · 14 %",
+     "tam": 44,
+     "en": "El resto, casi cuatro céntimos",
+     "dur": 1.0
+    },
+    {
+     "tipo": "texto",
+     "texto": "otros impuestos y gravámenes",
+     "x": 700,
+     "y": 740,
+     "tam": 52,
+     "fuente": "mano",
+     "en": "otros impuestos y gravámenes"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "senala",
+     "x": 1620,
+     "y": 1015,
+     "h": 520,
+     "mira": "izq",
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "Eurostat, nrg_pc_204_c (hogares, todas las bandas; actualizado el 7/10/2026) (resto = total − IVA; cálculo propio)"
+  },
+  {
+   "id": "07",
+   "desde": "Fíjate en dos mil veintitrés",
+   "fondo": "#FFF3C4",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "Energía y suministro (c/kWh)",
+     "x": 800,
+     "y": 190,
+     "tam": 54,
+     "fuente": "mano",
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 290,
+     "w": 1000,
+     "h": 90,
+     "color": "#D9D2C0",
+     "texto": "2023 · 13,5",
+     "tam": 44,
+     "en": "trece coma cinco",
+     "dur": 0.8
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 400,
+     "w": 860,
+     "h": 90,
+     "color": "#F5B301",
+     "texto": "2025 · 11,6  (−14 %)",
+     "tam": 44,
+     "en": "once coma seis",
+     "dur": 0.8
+    },
+    {
+     "tipo": "texto",
+     "texto": "Costes de red (c/kWh)",
+     "x": 800,
+     "y": 580,
+     "tam": 54,
+     "fuente": "mano",
+     "papel": true,
+     "en": "Los costes de red"
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 680,
+     "w": 700,
+     "h": 90,
+     "color": "#D9D2C0",
+     "texto": "2023 · 9,3",
+     "tam": 44,
+     "en": "de nueve coma tres",
+     "dur": 0.8
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 790,
+     "w": 610,
+     "h": 90,
+     "color": "#9CC5E8",
+     "texto": "2025 · 8,1  (−13 %)",
+     "tam": 44,
+     "en": "a ocho coma uno",
+     "dur": 0.8
+    },
+    {
+     "tipo": "mascota",
+     "pose": "pensativo",
+     "x": 1650,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "Eurostat, nrg_pc_204_c (hogares, todas las bandas; actualizado el 7/10/2026)"
+  },
+  {
+   "id": "08",
+   "desde": "Pero los impuestos, tasas",
+   "fondo": "#F4E9D0",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "Impuestos, tasas, gravámenes y cargos (c/kWh)",
+     "x": 800,
+     "y": 190,
+     "tam": 50,
+     "fuente": "mano",
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "3,3",
+     "x": 330,
+     "y": 430,
+     "tam": 150,
+     "en": "tres coma tres"
+    },
+    {
+     "tipo": "texto",
+     "texto": "2023",
+     "x": 330,
+     "y": 560,
+     "tam": 50,
+     "fuente": "mano",
+     "en": "tres coma tres"
+    },
+    {
+     "tipo": "texto",
+     "texto": "6,3",
+     "x": 800,
+     "y": 430,
+     "tam": 150,
+     "en": "seis coma tres"
+    },
+    {
+     "tipo": "texto",
+     "texto": "2024",
+     "x": 800,
+     "y": 560,
+     "tam": 50,
+     "fuente": "mano",
+     "en": "seis coma tres"
+    },
+    {
+     "tipo": "texto",
+     "texto": "8,7",
+     "x": 1270,
+     "y": 430,
+     "tam": 160,
+     "color": "#E0521B",
+     "anim": "pop",
+     "en": "ocho coma siete"
+    },
+    {
+     "tipo": "texto",
+     "texto": "2025",
+     "x": 1270,
+     "y": 570,
+     "tam": 50,
+     "fuente": "mano",
+     "en": "ocho coma siete"
+    },
+    {
+     "tipo": "sello",
+     "texto": "×2,7",
+     "x": 800,
+     "y": 760,
+     "tam": 110,
+     "en": "dos coma siete"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Total: 26,0 → 28,4 c  (+9 %)",
+     "x": 800,
+     "y": 920,
+     "tam": 54,
+     "fuente": "mano",
+     "papel": true,
+     "en": "un nueve por ciento más"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "preocupado",
+     "x": 1650,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "Eurostat, nrg_pc_204_c (hogares, todas las bandas; actualizado el 7/10/2026) (cálculo propio de las variaciones)"
+  },
+  {
+   "id": "09",
+   "desde": "Para que lo veas en euros",
+   "fondo": "#E6E0F5",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "Hogar de 3.000 kWh al año (ejemplo)",
+     "x": 800,
+     "y": 190,
+     "tam": 54,
+     "fuente": "mano",
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "2023: 781 €",
+     "x": 450,
+     "y": 400,
+     "tam": 90,
+     "en": "setecientos ochenta y un euros"
+    },
+    {
+     "tipo": "texto",
+     "texto": "2025: 851 €",
+     "x": 1150,
+     "y": 400,
+     "tam": 90,
+     "color": "#E0521B",
+     "en": "ochocientos cincuenta y uno"
+    },
+    {
+     "tipo": "sello",
+     "texto": "+71 € AL AÑO",
+     "x": 800,
+     "y": 590,
+     "tam": 80,
+     "en": "Setenta y un euros más"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Energía −57 €   ·   Red −36 €",
+     "x": 800,
+     "y": 760,
+     "tam": 56,
+     "fuente": "mano",
+     "en": "cincuenta y siete euros menos"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Impuestos y gravámenes +164 €",
+     "x": 800,
+     "y": 880,
+     "tam": 60,
+     "color": "#E0521B",
+     "en": "ciento sesenta y cuatro"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "moneda",
+     "x": 1650,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "Cálculo propio con las medias de Eurostat (3.000 kWh × precio medio de cada año); no es la factura de nadie en concreto"
+  },
+  {
+   "id": "10",
+   "desde": "¿Por qué ha pasado?",
+   "fondo": "#FFF3C4",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "¿Por qué?",
+     "x": 800,
+     "y": 280,
+     "tam": 110,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "Se han ido retirando las rebajas\nfiscales de la crisis energética",
+     "x": 800,
+     "y": 520,
+     "tam": 62,
+     "fuente": "mano",
+     "papel": true,
+     "en": "rebajas fiscales"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "pensativo",
+     "x": 1620,
+     "y": 1015,
+     "h": 520,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "11",
+   "desde": "En dos mil veinticuatro, el IVA",
+   "fondo": "#E3E7EC",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "2024 · lo que dice el BOE",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "IVA de la luz: 10 %",
+     "x": 700,
+     "y": 380,
+     "tam": 80,
+     "en": "diez por ciento"
+    },
+    {
+     "tipo": "texto",
+     "texto": "contratos de hasta 10 kW,\ncon el mercado diario > 45 €/MWh",
+     "x": 700,
+     "y": 540,
+     "tam": 48,
+     "fuente": "mano",
+     "en": "superara los cuarenta y cinco"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Impuesto eléctrico: 2,5 % → 3,8 %",
+     "x": 700,
+     "y": 770,
+     "tam": 66,
+     "en": "dos coma cinco"
+    },
+    {
+     "tipo": "texto",
+     "texto": "1.er trimestre → 2.º trimestre",
+     "x": 700,
+     "y": 880,
+     "tam": 44,
+     "fuente": "mano",
+     "en": "dos coma cinco"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "lupa",
+     "x": 1620,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "BOE: Real Decreto-ley 8/2023, arts. 21 y 22"
+  },
+  {
+   "id": "12",
+   "desde": "En dos mil veinticinco, el IVA es el general",
+   "fondo": "#F4E9D0",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "2025 · el tipo general",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "IVA: 21 %",
+     "x": 700,
+     "y": 420,
+     "tam": 110,
+     "color": "#E0521B",
+     "anim": "pop",
+     "en": "veintiuno por ciento"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Impuesto eléctrico: 5,11 %",
+     "x": 700,
+     "y": 680,
+     "tam": 80,
+     "color": "#E0521B",
+     "anim": "pop",
+     "en": "cinco coma uno uno"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Ley 37/1992 (art. 90) y Ley 38/1992 (art. 99)",
+     "x": 700,
+     "y": 860,
+     "tam": 44,
+     "fuente": "mano",
+     "en": "el general"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "senala",
+     "x": 1620,
+     "y": 1015,
+     "h": 500,
+     "mira": "izq",
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "BOE: Ley 37/1992, art. 90; Ley 38/1992, art. 99.1"
+  },
+  {
+   "id": "13",
+   "desde": "Ahora, otra cifra que conviene conocer",
+   "fondo": "#E6E0F5",
+   "capas": [
+    {
+     "tipo": "sello",
+     "texto": "LOS CARGOS DEL SISTEMA",
+     "x": 800,
+     "y": 260,
+     "tam": 76,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "Otra clasificación: Eurostat y el Ministerio\nno agrupan igual, así que no se suman",
+     "x": 800,
+     "y": 520,
+     "tam": 52,
+     "fuente": "mano",
+     "papel": true,
+     "en": "no clasifican las cosas igual"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "encoge_hombros",
+     "x": 1620,
+     "y": 1015,
+     "h": 520,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "14",
+   "desde": "Para dos mil veintiséis, el Ministerio",
+   "fondo": "centro_logistico",
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 90,
+     "y": 120,
+     "w": 1230,
+     "h": 870,
+     "t": 0
+    },
+    {
+     "tipo": "texto",
+     "texto": "Costes del sistema 2026",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 8510,
+     "x": 700,
+     "y": 400,
+     "tam": 170,
+     "sufijo": " M€",
+     "t": 0.4
+    },
+    {
+     "tipo": "texto",
+     "texto": "Pagan, según el Ministerio:",
+     "x": 700,
+     "y": 560,
+     "tam": 50,
+     "fuente": "mano",
+     "en": "Pagan, según el propio Ministerio"
+    },
+    {
+     "tipo": "texto",
+     "texto": "· Renovables, cogeneración y residuos",
+     "x": 700,
+     "y": 660,
+     "tam": 46,
+     "en": "retribución específica"
+    },
+    {
+     "tipo": "texto",
+     "texto": "· Sobrecostes de las islas y otros\nterritorios no peninsulares",
+     "x": 700,
+     "y": 770,
+     "tam": 46,
+     "en": "territorios no peninsulares"
+    },
+    {
+     "tipo": "texto",
+     "texto": "· Antiguos déficits del sistema",
+     "x": 700,
+     "y": 900,
+     "tam": 46,
+     "en": "antiguos déficits"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "normal",
+     "x": 1650,
+     "y": 1015,
+     "h": 480,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "fuente": "MITECO, memoria de la Orden TED/1524/2025"
+  },
+  {
+   "id": "15",
+   "desde": "De esos ocho mil quinientos diez",
+   "fondo": "#FFF3C4",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "Quién paga los 8.510 M€ (2026)",
+     "x": 800,
+     "y": 190,
+     "tam": 56,
+     "fuente": "mano",
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 290,
+     "w": 1100,
+     "h": 100,
+     "color": "#9CC5E8",
+     "texto": "Costes del sistema: 8.510 M€",
+     "tam": 46,
+     "t": 0.4,
+     "dur": 0.8
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 450,
+     "w": 570,
+     "h": 120,
+     "color": "#8FD18F",
+     "texto": "Otros ingresos: 4.453 M€",
+     "tam": 42,
+     "en": "unos cuatro mil cuatrocientos",
+     "dur": 0.9
+    },
+    {
+     "tipo": "rect",
+     "x": 720,
+     "y": 450,
+     "w": 530,
+     "h": 120,
+     "color": "#E0521B",
+     "texto": "Consumidores: 4.057 M€",
+     "tam": 42,
+     "en": "Los otros cuatro mil cincuenta",
+     "dur": 0.9
+    },
+    {
+     "tipo": "texto",
+     "texto": "Impuesto a la generación: ≈ 2.000 M€",
+     "x": 700,
+     "y": 680,
+     "tam": 46,
+     "fuente": "mano",
+     "en": "con el impuesto a la generación"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Subastas de CO₂: 1.100 M€",
+     "x": 700,
+     "y": 780,
+     "tam": 46,
+     "fuente": "mano",
+     "en": "subastas de derechos"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "senala",
+     "x": 1650,
+     "y": 1015,
+     "h": 500,
+     "mira": "izq",
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "MITECO, memoria de la Orden TED/1524/2025 (BOE-A-2025-26705)"
+  },
+  {
+   "id": "16",
+   "desde": "O sea: de cada cien euros",
+   "fondo": "#E3E7EC",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "De cada 100 € de costes del sistema…",
+     "x": 800,
+     "y": 250,
+     "tam": 58,
+     "fuente": "mano",
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 48,
+     "x": 450,
+     "y": 520,
+     "tam": 200,
+     "sufijo": " €",
+     "color": "#E0521B",
+     "en": "cuarenta y ocho"
+    },
+    {
+     "tipo": "texto",
+     "texto": "los pagas tú",
+     "x": 450,
+     "y": 680,
+     "tam": 52,
+     "fuente": "mano",
+     "en": "cuarenta y ocho"
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 52,
+     "x": 1150,
+     "y": 520,
+     "tam": 200,
+     "sufijo": " €",
+     "color": "#2E8B57",
+     "en": "cuarenta y ocho",
+     "t": 1.0
+    },
+    {
+     "tipo": "texto",
+     "texto": "los pagan otros ingresos",
+     "x": 1150,
+     "y": 680,
+     "tam": 48,
+     "fuente": "mano",
+     "en": "cuarenta y ocho",
+     "t": 1.2
+    },
+    {
+     "tipo": "mascota",
+     "pose": "normal",
+     "x": 1650,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "MITECO (4.057 / 8.510 = 47,7 %; cálculo propio)"
+  },
+  {
+   "id": "17",
+   "desde": "Y ahora, una pregunta incómoda",
+   "fondo": "puerto_avion",
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 90,
+     "y": 120,
+     "w": 1230,
+     "h": 870,
+     "t": 0
+    },
+    {
+     "tipo": "texto",
+     "texto": "¿Es más cara que en Europa? (2025, c/kWh)",
+     "x": 700,
+     "y": 200,
+     "tam": 50,
+     "fuente": "mano",
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 290,
+     "w": 1010,
+     "h": 80,
+     "color": "#9A9A9A",
+     "texto": "Alemania 40,2",
+     "tam": 40,
+     "en": "Alemania, cuarenta",
+     "dur": 0.7
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 390,
+     "w": 790,
+     "h": 80,
+     "color": "#9A9A9A",
+     "texto": "Italia 35,1",
+     "tam": 40,
+     "en": "Italia, treinta y cinco",
+     "dur": 0.7
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 490,
+     "w": 680,
+     "h": 80,
+     "color": "#F5B301",
+     "texto": "UE-27: 29,4",
+     "tam": 40,
+     "en": "unos veintinueve coma cuatro",
+     "dur": 0.7
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 590,
+     "w": 640,
+     "h": 80,
+     "color": "#E0521B",
+     "texto": "España 28,4",
+     "tam": 40,
+     "en": "España, veintiocho coma cuatro",
+     "dur": 0.7
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 690,
+     "w": 580,
+     "h": 80,
+     "color": "#9A9A9A",
+     "texto": "Portugal 25,6",
+     "tam": 40,
+     "en": "Francia y Portugal",
+     "dur": 0.7
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 790,
+     "w": 575,
+     "h": 80,
+     "color": "#9A9A9A",
+     "texto": "Francia 25,5",
+     "tam": 40,
+     "en": "algo más de veinticinco",
+     "dur": 0.7
+    },
+    {
+     "tipo": "mascota",
+     "pose": "sorprendido",
+     "x": 1650,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "zoom": [
+    1.0,
+    1.05
+   ],
+   "fuente": "Eurostat, nrg_pc_204_c (hogares, todas las bandas; actualizado el 7/10/2026)"
+  },
+  {
+   "id": "18",
+   "desde": "Pero sí hay una diferencia",
+   "fondo": "#F4E9D0",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "Impuestos y gravámenes: % de la factura",
+     "x": 800,
+     "y": 190,
+     "tam": 52,
+     "fuente": "mano",
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 290,
+     "w": 1010,
+     "h": 80,
+     "color": "#9A9A9A",
+     "texto": "Portugal 34 %",
+     "tam": 40,
+     "en": "el treinta y cuatro",
+     "dur": 0.7
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 390,
+     "w": 930,
+     "h": 80,
+     "color": "#9A9A9A",
+     "texto": "Alemania 31,5 %",
+     "tam": 40,
+     "en": "el treinta y uno y medio",
+     "dur": 0.7
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 490,
+     "w": 900,
+     "h": 80,
+     "color": "#E0521B",
+     "texto": "España 31 %",
+     "tam": 40,
+     "en": "treinta y uno por ciento",
+     "dur": 0.7
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 590,
+     "w": 880,
+     "h": 80,
+     "color": "#9A9A9A",
+     "texto": "Francia 30 %",
+     "tam": 40,
+     "en": "casi el treinta",
+     "dur": 0.7
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 690,
+     "w": 820,
+     "h": 80,
+     "color": "#F5B301",
+     "texto": "UE-27: 28 %",
+     "tam": 40,
+     "en": "el veintiocho",
+     "dur": 0.7
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 790,
+     "w": 790,
+     "h": 80,
+     "color": "#9A9A9A",
+     "texto": "Italia 27 %",
+     "tam": 40,
+     "en": "casi el treinta",
+     "t": 0.9,
+     "dur": 0.7
+    },
+    {
+     "tipo": "mascota",
+     "pose": "lupa",
+     "x": 1650,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "Eurostat, nrg_pc_204_c (hogares, todas las bandas; actualizado el 7/10/2026) (porcentajes: cálculo propio)"
+  },
+  {
+   "id": "19",
+   "desde": "Y un dato más",
+   "fondo": "#E6E0F5",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "Precio por kWh según lo que consumes (2025)",
+     "x": 800,
+     "y": 190,
+     "tam": 52,
+     "fuente": "mano",
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 32.6,
+     "x": 450,
+     "y": 500,
+     "tam": 150,
+     "sufijo": " c",
+     "dec": 1,
+     "color": "#E0521B",
+     "en": "treinta y dos coma seis"
+    },
+    {
+     "tipo": "texto",
+     "texto": "1.000–2.500 kWh al año",
+     "x": 450,
+     "y": 630,
+     "tam": 46,
+     "fuente": "mano",
+     "en": "entre mil y dos mil quinientos"
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 26.4,
+     "x": 1150,
+     "y": 500,
+     "tam": 150,
+     "sufijo": " c",
+     "dec": 1,
+     "color": "#2E8B57",
+     "en": "veintiséis coma cuatro"
+    },
+    {
+     "tipo": "texto",
+     "texto": "2.500–5.000 kWh al año",
+     "x": 1150,
+     "y": 630,
+     "tam": 46,
+     "fuente": "mano",
+     "en": "entre dos mil quinientos y cinco mil"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Parte puede venir de los términos fijos\n(Eurostat no lo explica)",
+     "x": 800,
+     "y": 860,
+     "tam": 46,
+     "fuente": "mano",
+     "papel": true,
+     "en": "términos fijos"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "pensativo",
+     "x": 1650,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "Eurostat, nrg_pc_204_c (hogares, todas las bandas; actualizado el 7/10/2026)"
+  },
+  {
+   "id": "20",
+   "desde": "Así que, la próxima vez",
+   "fondo": "supermercado",
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 90,
+     "y": 120,
+     "w": 1230,
+     "h": 870,
+     "t": 0
+    },
+    {
+     "tipo": "texto",
+     "texto": "El viaje de tu euro",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "tarta",
+     "x": 420,
+     "y": 640,
+     "r": 260,
+     "t": 0.3,
+     "porciones": [
+      {
+       "v": 40.8,
+       "color": "#F5B301",
+       "en": "cuarenta y un céntimos"
+      },
+      {
+       "v": 28.4,
+       "color": "#9CC5E8",
+       "en": "Veintiocho, las redes"
+      },
+      {
+       "v": 30.8,
+       "color": "#E0521B",
+       "en": "treinta y uno, impuestos"
+      }
+     ]
+    },
+    {
+     "tipo": "rect",
+     "x": 760,
+     "y": 412,
+     "w": 56,
+     "h": 56,
+     "color": "#F5B301",
+     "en": "cuarenta y un céntimos",
+     "dur": 0.3
+    },
+    {
+     "tipo": "texto",
+     "texto": "41 c · energía y suministro",
+     "x": 845,
+     "y": 440,
+     "tam": 42,
+     "ancla": "izq",
+     "en": "cuarenta y un céntimos"
+    },
+    {
+     "tipo": "rect",
+     "x": 760,
+     "y": 532,
+     "w": 56,
+     "h": 56,
+     "color": "#9CC5E8",
+     "en": "Veintiocho, las redes",
+     "dur": 0.3
+    },
+    {
+     "tipo": "texto",
+     "texto": "28 c · redes",
+     "x": 845,
+     "y": 560,
+     "tam": 42,
+     "ancla": "izq",
+     "en": "Veintiocho, las redes"
+    },
+    {
+     "tipo": "rect",
+     "x": 760,
+     "y": 652,
+     "w": 56,
+     "h": 56,
+     "color": "#E0521B",
+     "en": "treinta y uno, impuestos",
+     "dur": 0.3
+    },
+    {
+     "tipo": "texto",
+     "texto": "31 c · impuestos y cargos (17 de IVA)",
+     "x": 845,
+     "y": 680,
+     "tam": 42,
+     "ancla": "izq",
+     "en": "treinta y uno, impuestos"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "saluda",
+     "x": 1650,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "Eurostat, nrg_pc_204_c (hogares, todas las bandas; actualizado el 7/10/2026) (cálculo propio de los porcentajes)"
+  },
+  {
+   "id": "21",
+   "desde": "La luz no se ha encarecido",
+   "fondo": "#FFF3C4",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "La energía ha bajado",
+     "x": 800,
+     "y": 260,
+     "tam": 84,
+     "t": 0.3,
+     "en": "que ha bajado"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Lo que se ha sumado alrededor, no",
+     "x": 800,
+     "y": 440,
+     "tam": 66,
+     "color": "#E0521B",
+     "en": "Se ha encarecido por lo que"
+    },
+    {
+     "tipo": "texto",
+     "texto": "¿Cuánto decide el mercado\ny cuánto deciden las normas?",
+     "x": 800,
+     "y": 720,
+     "tam": 62,
+     "fuente": "mano",
+     "papel": true,
+     "en": "cuánto de lo que pagas decide"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "pensativo",
+     "x": 1640,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "22",
+   "desde": "Aquí, cada semana, abrimos",
+   "fondo": "#F5B301",
+   "capas": [
+    {
+     "tipo": "mascota",
+     "pose": "saluda",
+     "x": 960,
+     "y": 1015,
+     "h": 560,
+     "entra": "abajo",
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "TICKET MEDIO",
+     "x": 960,
+     "y": 170,
+     "tam": 150,
+     "anim": "pop",
+     "t": 0.3
+    },
+    {
+     "tipo": "texto",
+     "texto": "Cada semana, el ticket de algo que pagas todos los días",
+     "x": 960,
+     "y": 300,
+     "tam": 50,
+     "fuente": "mano",
+     "papel": true,
+     "t": 1.0
+    }
+   ],
+   "sin_marca": true
+  }
+ ]
+}

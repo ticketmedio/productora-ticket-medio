@@ -1,0 +1,119 @@
+{
+ "formato": "vertical",
+ "fondos": "../../fondos",
+ "musica": "../../audio/musica.mp3",
+ "musica_db": -26,
+ "cola": 1.5,
+ "salida": "../../output/SHORT_07_consumo_bajo_paga_mas.mp4",
+ "escenas": [
+  {
+   "id": "a",
+   "desde": "Según Eurostat, quien consume poco",
+   "fondo": "#E6E0F5",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "¿QUIÉN PAGA MÁS POR kWh?",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 32.6,
+     "x": 540,
+     "y": 520,
+     "tam": 170,
+     "sufijo": " c",
+     "dec": 1,
+     "color": "#E0521B",
+     "en": "treinta y dos coma seis"
+    },
+    {
+     "tipo": "texto",
+     "texto": "1.000–2.500 kWh al año",
+     "x": 540,
+     "y": 650,
+     "tam": 46,
+     "fuente": "mano",
+     "en": "entre mil y dos mil quinientos"
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 26.4,
+     "x": 540,
+     "y": 860,
+     "tam": 170,
+     "sufijo": " c",
+     "dec": 1,
+     "color": "#2E8B57",
+     "en": "Los que gastan entre dos mil quinientos"
+    },
+    {
+     "tipo": "texto",
+     "texto": "2.500–5.000 kWh al año",
+     "x": 540,
+     "y": 990,
+     "tam": 46,
+     "fuente": "mano",
+     "en": "Los que gastan entre dos mil quinientos"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "sorprendido",
+     "x": 900,
+     "y": 1310,
+     "h": 260,
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "b",
+   "desde": "Eurostat no lo explica",
+   "fondo": "#FFF3C4",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "¿POR QUÉ?",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "Eurostat no lo explica",
+     "x": 540,
+     "y": 480,
+     "tam": 56,
+     "fuente": "mano",
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "Parte puede venir de los\ntérminos fijos de la factura,\nque se reparten entre menos kWh",
+     "x": 540,
+     "y": 700,
+     "tam": 52,
+     "fuente": "mano",
+     "papel": true,
+     "en": "términos fijos"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "pensativo",
+     "x": 900,
+     "y": 1310,
+     "h": 300,
+     "t": 0.2
+    }
+   ]
+  }
+ ]
+}

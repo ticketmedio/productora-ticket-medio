@@ -1,0 +1,23 @@
+{"shorts": [
+ {"id": "01", "titulo": "La energía de tu luz baja un 14 % y los impuestos se multiplican por 2,7",
+  "tramos": [["Fíjate en dos mil veintitrés", "un nueve por ciento más"]],
+  "intro": "Según Eurostat, desde dos mil veintitrés la energía de tu factura de la luz ha bajado un catorce por ciento y los impuestos se han multiplicado por casi tres."},
+ {"id": "02", "titulo": "Así se reparte cada euro de tu factura de la luz",
+  "tramos": [["Esos veintiocho céntimos", "Casi un euro de cada tres"]],
+  "intro": "En dos mil veinticinco, un hogar español pagó veintiocho coma cuatro céntimos por kilovatio hora. Así se reparten."},
+ {"id": "03", "titulo": "Por qué los impuestos de la luz se han multiplicado por casi 3",
+  "tramos": [["¿Por qué ha pasado?", "el IVA se multiplicó por tres en dos años"]],
+  "intro": "¿Por qué los impuestos de la luz se han multiplicado por casi tres?"},
+ {"id": "04", "titulo": "Un hogar de 3.000 kWh paga 71 € más al año que en 2023",
+  "tramos": [["Para que lo veas en euros", "no la factura de nadie en concreto"]],
+  "intro": "Un hogar que consume tres mil kilovatios hora al año paga hoy setenta y un euros más que en dos mil veintitrés."},
+ {"id": "05", "titulo": "Los costes del sistema eléctrico: 8.510 millones y quién los paga",
+  "tramos": [["Para dos mil veintiséis", "antiguos déficits del sistema"], ["Los otros cuatro mil cincuenta", "Los otros cincuenta y dos, no"]],
+  "intro": "Los costes del sistema eléctrico en dos mil veintiséis ascienden a ocho mil quinientos diez millones de euros."},
+ {"id": "06", "titulo": "¿Es la luz en España más cara que en Europa? Los datos de Eurostat",
+  "tramos": [["Y ahora, una pregunta incómoda", "algo más de veinticinco"]],
+  "intro": "¿Es la luz en España más cara que en el resto de Europa?"},
+ {"id": "07", "titulo": "Quien consume poco paga más por cada kWh de luz",
+  "tramos": [["Y un dato más", "se reparten entre menos kilovatios"]],
+  "intro": "Según Eurostat, quien consume poco paga más por cada kilovatio hora de luz."}
+]}

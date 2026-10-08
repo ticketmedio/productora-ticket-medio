@@ -1,0 +1,395 @@
+1
+00:00:00,000 --> 00:00:05,760
+En dos años, la energía de tu factura de la luz se ha abaratado un catorce por ciento.
+
+2
+00:00:05,760 --> 00:00:08,506
+Y aun así, pagas un nueve por ciento más.
+
+3
+00:00:08,506 --> 00:00:09,645
+¿Cómo es posible?
+
+4
+00:00:09,645 --> 00:00:13,932
+Porque lo que se ha multiplicado por casi tres no es la energía.
+
+5
+00:00:13,932 --> 00:00:16,276
+Son los impuestos y los gravámenes.
+
+6
+00:00:16,626 --> 00:00:22,595
+Hoy vamos a abrir el ticket de tu factura de la luz con las cifras oficiales de Eurostat,
+
+7
+00:00:22,595 --> 00:00:27,289
+la oficina estadística de la Unión Europea, publicadas este mismo mes.
+
+8
+00:00:27,289 --> 00:00:29,837
+Y a ver adónde va de verdad cada euro.
+
+9
+00:00:30,187 --> 00:00:32,223
+Primero, una advertencia.
+
+10
+00:00:32,223 --> 00:00:35,723
+Esto es una media de los hogares españoles.
+
+11
+00:00:35,723 --> 00:00:42,236
+Tu factura depende de tu tarifa, de tu potencia contratada y de lo que consumas.
+
+12
+00:00:42,236 --> 00:00:45,004
+Pero el orden de magnitud es real.
+
+13
+00:00:45,354 --> 00:00:53,202
+En dos mil veinticinco, un hogar español pagó de media veintiocho coma cuatro céntimos por cada kilovatio hora,
+
+14
+00:00:53,202 --> 00:00:54,474
+con todo incluido.
+
+15
+00:00:54,474 --> 00:00:59,211
+Imagina que enciendes algo que gasta exactamente un kilovatio hora.
+
+16
+00:00:59,211 --> 00:01:02,888
+Esos veintiocho céntimos se reparten en tres partes.
+
+17
+00:01:03,238 --> 00:01:11,662
+La primera es la energía y el suministro: lo que cuesta la electricidad que consumes y el servicio de la comercializadora.
+
+18
+00:01:11,662 --> 00:01:13,319
+Once coma seis céntimos.
+
+19
+00:01:13,319 --> 00:01:16,288
+El cuarenta y uno por ciento de tu factura.
+
+20
+00:01:16,288 --> 00:01:17,531
+Menos de la mitad.
+
+21
+00:01:17,881 --> 00:01:23,345
+La segunda son los costes de red: los cables que llevan la luz hasta tu casa,
+
+22
+00:01:23,345 --> 00:01:26,042
+los de alta tensión y los de tu calle.
+
+23
+00:01:26,042 --> 00:01:27,675
+Ocho coma uno céntimos.
+
+24
+00:01:27,675 --> 00:01:29,449
+El veintiocho por ciento.
+
+25
+00:01:29,799 --> 00:01:35,750
+Y la tercera es la que Eurostat llama impuestos, tasas, gravámenes y cargos.
+
+26
+00:01:35,750 --> 00:01:37,708
+Ocho coma siete céntimos.
+
+27
+00:01:37,708 --> 00:01:40,997
+El treinta y uno por ciento de tu factura.
+
+28
+00:01:40,997 --> 00:01:43,033
+Casi un euro de cada tres.
+
+29
+00:01:43,383 --> 00:01:49,742
+De esos ocho coma siete, cuatro coma ocho son el IVA, el diecisiete por ciento del total.
+
+30
+00:01:49,742 --> 00:01:54,386
+El resto, casi cuatro céntimos, son otros impuestos y gravámenes.
+
+31
+00:01:54,736 --> 00:01:56,935
+Hasta aquí, el reparto.
+
+32
+00:01:56,935 --> 00:02:00,758
+Ahora, lo interesante: cómo ha cambiado.
+
+33
+00:02:01,108 --> 00:02:03,214
+Fíjate en dos mil veintitrés.
+
+34
+00:02:03,214 --> 00:02:07,207
+Entonces, la energía costaba trece coma cinco céntimos.
+
+35
+00:02:07,207 --> 00:02:10,765
+Hoy, once coma seis: un catorce por ciento menos.
+
+36
+00:02:10,765 --> 00:02:16,646
+Los costes de red, de nueve coma tres a ocho coma uno: un trece por ciento menos.
+
+37
+00:02:16,996 --> 00:02:23,924
+Pero los impuestos, tasas, gravámenes y cargos pasaron de tres coma tres céntimos a ocho coma siete.
+
+38
+00:02:23,924 --> 00:02:26,210
+Multiplicados por dos coma siete.
+
+39
+00:02:26,210 --> 00:02:30,366
+Año a año: tres coma tres, seis coma tres y ocho coma siete.
+
+40
+00:02:30,366 --> 00:02:36,601
+Y el total subió de veintiséis a veintiocho coma cuatro céntimos: un nueve por ciento más.
+
+41
+00:02:36,951 --> 00:02:43,041
+Para que lo veas en euros: imagina un hogar que consume tres mil kilovatios hora al año.
+
+42
+00:02:43,041 --> 00:02:49,200
+Con los precios medios de dos mil veintitrés pagaría unos setecientos ochenta y un euros.
+
+43
+00:02:49,200 --> 00:02:53,698
+Con los de dos mil veinticinco, unos ochocientos cincuenta y uno.
+
+44
+00:02:53,698 --> 00:02:55,290
+Setenta y un euros más.
+
+45
+00:02:55,290 --> 00:03:01,519
+Pero la energía le costaría cincuenta y siete euros menos, y la red, treinta y seis menos.
+
+46
+00:03:01,519 --> 00:03:05,394
+Los impuestos y gravámenes, ciento sesenta y cuatro más.
+
+47
+00:03:05,394 --> 00:03:11,277
+Es un cálculo nuestro con las medias de Eurostat, no la factura de nadie en concreto.
+
+48
+00:03:11,627 --> 00:03:12,767
+¿Por qué ha pasado?
+
+49
+00:03:12,767 --> 00:03:17,151
+Porque las rebajas fiscales de la crisis energética se han ido retirando.
+
+50
+00:03:17,151 --> 00:03:18,592
+Mira lo que dice el BOE.
+
+51
+00:03:18,592 --> 00:03:24,958
+En dos mil veinticuatro, el IVA de la luz era del diez por ciento para contratos de hasta diez kilovatios,
+
+52
+00:03:24,958 --> 00:03:30,843
+mientras el precio medio del mercado diario superara los cuarenta y cinco euros el megavatio hora.
+
+53
+00:03:30,843 --> 00:03:39,130
+Y el impuesto especial sobre la electricidad estaba al dos coma cinco por ciento en el primer trimestre y al tres coma ocho en el segundo.
+
+54
+00:03:39,480 --> 00:03:44,298
+En dos mil veinticinco, el IVA es el general: veintiuno por ciento.
+
+55
+00:03:44,298 --> 00:03:50,626
+Y el impuesto especial sobre la electricidad, el general: cinco coma uno uno por ciento.
+
+56
+00:03:50,626 --> 00:03:54,581
+Eso ayuda a explicar por qué, en los datos de Eurostat,
+
+57
+00:03:54,581 --> 00:03:57,601
+el IVA se multiplicó por tres en dos años.
+
+58
+00:03:57,951 --> 00:04:05,462
+Ahora, otra cifra que conviene conocer, aunque Eurostat y el Ministerio no clasifican las cosas igual,
+
+59
+00:04:05,462 --> 00:04:08,334
+así que no se suman con las anteriores.
+
+60
+00:04:08,334 --> 00:04:11,059
+Son los cargos del sistema eléctrico.
+
+61
+00:04:11,409 --> 00:04:22,463
+Para dos mil veintiséis, el Ministerio para la Transición Ecológica calcula que los costes del sistema ascienden a ocho mil quinientos diez millones de euros.
+
+62
+00:04:22,463 --> 00:04:27,990
+Pagan, según el propio Ministerio, la retribución específica de las renovables,
+
+63
+00:04:27,990 --> 00:04:34,916
+la cogeneración y los residuos, los sobrecostes de producir luz en los territorios no peninsulares,
+
+64
+00:04:34,916 --> 00:04:39,604
+como las islas, y las anualidades de antiguos déficits del sistema.
+
+65
+00:04:39,954 --> 00:04:42,831
+De esos ocho mil quinientos diez millones,
+
+66
+00:04:42,831 --> 00:04:49,614
+unos cuatro mil cuatrocientos cincuenta y tres se cubren con otros ingresos: casi dos mil millones,
+
+67
+00:04:49,614 --> 00:04:52,492
+con el impuesto a la generación eléctrica,
+
+68
+00:04:52,492 --> 00:04:57,562
+y mil cien, con las subastas de derechos de emisión de dióxido de carbono.
+
+69
+00:04:57,562 --> 00:05:03,796
+Los otros cuatro mil cincuenta y siete millones los pagamos los consumidores en la factura.
+
+70
+00:05:04,146 --> 00:05:08,944
+O sea: de cada cien euros de costes del sistema, cuarenta y ocho los pagas tú.
+
+71
+00:05:08,944 --> 00:05:10,789
+Los otros cincuenta y dos, no.
+
+72
+00:05:11,139 --> 00:05:18,098
+Y ahora, una pregunta incómoda: ¿es la luz en España más cara que en el resto de Europa?
+
+73
+00:05:18,098 --> 00:05:22,290
+Con los datos de Eurostat de dos mil veinticinco, no.
+
+74
+00:05:22,290 --> 00:05:25,453
+España, veintiocho coma cuatro céntimos.
+
+75
+00:05:25,453 --> 00:05:30,119
+La media de la Unión Europea, unos veintinueve coma cuatro.
+
+76
+00:05:30,119 --> 00:05:31,622
+Alemania, cuarenta.
+
+77
+00:05:31,622 --> 00:05:33,520
+Italia, treinta y cinco.
+
+78
+00:05:33,520 --> 00:05:36,999
+Francia y Portugal, algo más de veinticinco.
+
+79
+00:05:37,349 --> 00:05:40,882
+Pero sí hay una diferencia en el reparto: en España,
+
+80
+00:05:40,882 --> 00:05:45,842
+los impuestos y gravámenes son el treinta y uno por ciento de la factura.
+
+81
+00:05:45,842 --> 00:05:48,220
+En la Unión Europea, el veintiocho.
+
+82
+00:05:48,220 --> 00:05:51,277
+Y no es el país donde más pesan: en Portugal,
+
+83
+00:05:51,277 --> 00:05:56,101
+el treinta y cuatro; en Alemania, el treinta y uno y medio; en Francia,
+
+84
+00:05:56,101 --> 00:05:59,023
+casi el treinta; en Italia, el veintisiete.
+
+85
+00:05:59,373 --> 00:06:06,211
+Y un dato más, de los mismos datos de Eurostat: quien consume poco paga más por cada kilovatio hora.
+
+86
+00:06:06,211 --> 00:06:14,895
+Los hogares que gastan entre mil y dos mil quinientos kilovatios hora al año pagaron de media treinta y dos coma seis céntimos.
+
+87
+00:06:14,895 --> 00:06:20,091
+Los que gastan entre dos mil quinientos y cinco mil, veintiséis coma cuatro.
+
+88
+00:06:20,091 --> 00:06:26,929
+Eurostat no lo explica, pero parte de la diferencia puede venir de los términos fijos de la factura,
+
+89
+00:06:26,929 --> 00:06:29,596
+que se reparten entre menos kilovatios.
+
+90
+00:06:29,946 --> 00:06:35,758
+Así que, la próxima vez que mires tu factura de la luz, piensa en su viaje.
+
+91
+00:06:35,758 --> 00:06:40,562
+De cada euro, cuarenta y un céntimos son energía y suministro.
+
+92
+00:06:40,562 --> 00:06:42,267
+Veintiocho, las redes.
+
+93
+00:06:42,267 --> 00:06:47,768
+Y treinta y uno, impuestos y gravámenes, de los que diecisiete son IVA.
+
+94
+00:06:48,118 --> 00:06:51,900
+La luz no se ha encarecido por la energía, que ha bajado.
+
+95
+00:06:51,900 --> 00:06:55,616
+Se ha encarecido por lo que se ha ido sumando alrededor.
+
+96
+00:06:55,616 --> 00:06:58,668
+La pregunta ya no es cuánto cuesta producirla.
+
+97
+00:06:58,668 --> 00:07:03,446
+Es cuánto de lo que pagas decide el mercado y cuánto deciden las normas.
+
+98
+00:07:03,796 --> 00:07:08,045
+Aquí, cada semana, abrimos el ticket de algo que pagas todos los días.
+
+99
+00:07:08,045 --> 00:07:12,415
+Si quieres saber cuál es el siguiente, ya sabes lo que tienes que hacer.

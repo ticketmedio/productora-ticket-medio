@@ -1,0 +1,9 @@
+📌 Fuentes de las cifras del vídeo:
+
+· Eurostat, «Electricity prices components for household consumers» (nrg_pc_204_c), hogares de España, todas las bandas de consumo, datos de 2023, 2024 y 2025 (actualizado el 7/10/2026): https://ec.europa.eu/eurostat/databrowser/view/nrg_pc_204_c/
+· Reparto de cada euro, porcentajes, variaciones y ejemplo de 3.000 kWh al año: cálculo propio con esas medias (cifras redondeadas).
+· IVA y impuesto especial de la electricidad en 2024: Real Decreto-ley 8/2023, arts. 21 y 22 (BOE-A-2023-26452). Tipos generales: Ley 37/1992 (art. 90) y Ley 38/1992 (art. 99).
+· Costes del sistema eléctrico en 2026 (8.510 M€; 4.453 M€ de otros ingresos; 4.057 M€ a cargo de los consumidores): memoria de la Orden TED/1524/2025 del Ministerio para la Transición Ecológica (BOE-A-2025-26705).
+· Eurostat y el Ministerio clasifican los conceptos de forma distinta: sus cifras no se suman.
+
+¿Qué empresa o servicio quieres que analicemos la próxima vez? 👇

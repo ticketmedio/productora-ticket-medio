@@ -1,0 +1,27 @@
+1
+00:00:00,150 --> 00:00:06,831
+Los costes del sistema eléctrico en dos mil veintiséis ascienden a ocho mil quinientos diez millones de euros.
+
+2
+00:00:07,266 --> 00:00:12,793
+Pagan, según el propio Ministerio, la retribución específica de las renovables,
+
+3
+00:00:12,793 --> 00:00:19,719
+la cogeneración y los residuos, los sobrecostes de producir luz en los territorios no peninsulares,
+
+4
+00:00:19,719 --> 00:00:24,407
+como las islas, y las anualidades de antiguos déficits del sistema.
+
+5
+00:00:24,534 --> 00:00:29,852
+Los otros cuatro mil cincuenta y siete millones los pagamos los consumidores en la factura.
+
+6
+00:00:30,202 --> 00:00:35,000
+O sea: de cada cien euros de costes del sistema, cuarenta y ocho los pagas tú.
+
+7
+00:00:35,000 --> 00:00:36,845
+Los otros cincuenta y dos, no.

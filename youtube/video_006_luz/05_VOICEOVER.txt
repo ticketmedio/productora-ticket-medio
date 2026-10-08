@@ -1,0 +1,47 @@
+En dos años, la energía de tu factura de la luz se ha abaratado un catorce por ciento. Y aun así, pagas un nueve por ciento más. ¿Cómo es posible? Porque lo que se ha multiplicado por casi tres no es la energía. Son los impuestos y los gravámenes.
+
+Hoy vamos a abrir el ticket de tu factura de la luz con las cifras oficiales de Eurostat, la oficina estadística de la Unión Europea, publicadas este mismo mes. Y a ver adónde va de verdad cada euro.
+
+Primero, una advertencia. Esto es una media de los hogares españoles. Tu factura depende de tu tarifa, de tu potencia contratada y de lo que consumas. Pero el orden de magnitud es real.
+
+En dos mil veinticinco, un hogar español pagó de media veintiocho coma cuatro céntimos por cada kilovatio hora, con todo incluido. Imagina que enciendes algo que gasta exactamente un kilovatio hora. Esos veintiocho céntimos se reparten en tres partes.
+
+La primera es la energía y el suministro: lo que cuesta la electricidad que consumes y el servicio de la comercializadora. Once coma seis céntimos. El cuarenta y uno por ciento de tu factura. Menos de la mitad.
+
+La segunda son los costes de red: los cables que llevan la luz hasta tu casa, los de alta tensión y los de tu calle. Ocho coma uno céntimos. El veintiocho por ciento.
+
+Y la tercera es la que Eurostat llama impuestos, tasas, gravámenes y cargos. Ocho coma siete céntimos. El treinta y uno por ciento de tu factura. Casi un euro de cada tres.
+
+De esos ocho coma siete, cuatro coma ocho son el IVA, el diecisiete por ciento del total. El resto, casi cuatro céntimos, son otros impuestos y gravámenes.
+
+Hasta aquí, el reparto. Ahora, lo interesante: cómo ha cambiado.
+
+Fíjate en dos mil veintitrés. Entonces, la energía costaba trece coma cinco céntimos. Hoy, once coma seis: un catorce por ciento menos. Los costes de red, de nueve coma tres a ocho coma uno: un trece por ciento menos.
+
+Pero los impuestos, tasas, gravámenes y cargos pasaron de tres coma tres céntimos a ocho coma siete. Multiplicados por dos coma siete. Año a año: tres coma tres, seis coma tres y ocho coma siete. Y el total subió de veintiséis a veintiocho coma cuatro céntimos: un nueve por ciento más.
+
+Para que lo veas en euros: imagina un hogar que consume tres mil kilovatios hora al año. Con los precios medios de dos mil veintitrés pagaría unos setecientos ochenta y un euros. Con los de dos mil veinticinco, unos ochocientos cincuenta y uno. Setenta y un euros más. Pero la energía le costaría cincuenta y siete euros menos, y la red, treinta y seis menos. Los impuestos y gravámenes, ciento sesenta y cuatro más. Es un cálculo nuestro con las medias de Eurostat, no la factura de nadie en concreto.
+
+¿Por qué ha pasado? Porque las rebajas fiscales de la crisis energética se han ido retirando. Mira lo que dice el BOE. En dos mil veinticuatro, el IVA de la luz era del diez por ciento para contratos de hasta diez kilovatios, mientras el precio medio del mercado diario superara los cuarenta y cinco euros el megavatio hora. Y el impuesto especial sobre la electricidad estaba al dos coma cinco por ciento en el primer trimestre y al tres coma ocho en el segundo.
+
+En dos mil veinticinco, el IVA es el general: veintiuno por ciento. Y el impuesto especial sobre la electricidad, el general: cinco coma uno uno por ciento. Eso ayuda a explicar por qué, en los datos de Eurostat, el IVA se multiplicó por tres en dos años.
+
+Ahora, otra cifra que conviene conocer, aunque Eurostat y el Ministerio no clasifican las cosas igual, así que no se suman con las anteriores. Son los cargos del sistema eléctrico.
+
+Para dos mil veintiséis, el Ministerio para la Transición Ecológica calcula que los costes del sistema ascienden a ocho mil quinientos diez millones de euros. Pagan, según el propio Ministerio, la retribución específica de las renovables, la cogeneración y los residuos, los sobrecostes de producir luz en los territorios no peninsulares, como las islas, y las anualidades de antiguos déficits del sistema.
+
+De esos ocho mil quinientos diez millones, unos cuatro mil cuatrocientos cincuenta y tres se cubren con otros ingresos: casi dos mil millones, con el impuesto a la generación eléctrica, y mil cien, con las subastas de derechos de emisión de dióxido de carbono. Los otros cuatro mil cincuenta y siete millones los pagamos los consumidores en la factura.
+
+O sea: de cada cien euros de costes del sistema, cuarenta y ocho los pagas tú. Los otros cincuenta y dos, no.
+
+Y ahora, una pregunta incómoda: ¿es la luz en España más cara que en el resto de Europa? Con los datos de Eurostat de dos mil veinticinco, no. España, veintiocho coma cuatro céntimos. La media de la Unión Europea, unos veintinueve coma cuatro. Alemania, cuarenta. Italia, treinta y cinco. Francia y Portugal, algo más de veinticinco.
+
+Pero sí hay una diferencia en el reparto: en España, los impuestos y gravámenes son el treinta y uno por ciento de la factura. En la Unión Europea, el veintiocho. Y no es el país donde más pesan: en Portugal, el treinta y cuatro; en Alemania, el treinta y uno y medio; en Francia, casi el treinta; en Italia, el veintisiete.
+
+Y un dato más, de los mismos datos de Eurostat: quien consume poco paga más por cada kilovatio hora. Los hogares que gastan entre mil y dos mil quinientos kilovatios hora al año pagaron de media treinta y dos coma seis céntimos. Los que gastan entre dos mil quinientos y cinco mil, veintiséis coma cuatro. Eurostat no lo explica, pero parte de la diferencia puede venir de los términos fijos de la factura, que se reparten entre menos kilovatios.
+
+Así que, la próxima vez que mires tu factura de la luz, piensa en su viaje. De cada euro, cuarenta y un céntimos son energía y suministro. Veintiocho, las redes. Y treinta y uno, impuestos y gravámenes, de los que diecisiete son IVA.
+
+La luz no se ha encarecido por la energía, que ha bajado. Se ha encarecido por lo que se ha ido sumando alrededor. La pregunta ya no es cuánto cuesta producirla. Es cuánto de lo que pagas decide el mercado y cuánto deciden las normas.
+
+Aquí, cada semana, abrimos el ticket de algo que pagas todos los días. Si quieres saber cuál es el siguiente, ya sabes lo que tienes que hacer.

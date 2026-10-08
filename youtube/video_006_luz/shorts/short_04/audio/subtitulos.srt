@@ -1,0 +1,27 @@
+1
+00:00:00,150 --> 00:00:07,519
+Un hogar que consume tres mil kilovatios hora al año paga hoy setenta y un euros más que en dos mil veintitrés.
+
+2
+00:00:08,296 --> 00:00:14,455
+Con los precios medios de dos mil veintitrés pagaría unos setecientos ochenta y un euros.
+
+3
+00:00:14,455 --> 00:00:18,953
+Con los de dos mil veinticinco, unos ochocientos cincuenta y uno.
+
+4
+00:00:18,953 --> 00:00:20,545
+Setenta y un euros más.
+
+5
+00:00:20,545 --> 00:00:26,774
+Pero la energía le costaría cincuenta y siete euros menos, y la red, treinta y seis menos.
+
+6
+00:00:26,774 --> 00:00:30,649
+Los impuestos y gravámenes, ciento sesenta y cuatro más.
+
+7
+00:00:30,649 --> 00:00:36,532
+Es un cálculo nuestro con las medias de Eurostat, no la factura de nadie en concreto.

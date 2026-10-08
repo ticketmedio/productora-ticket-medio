@@ -1,0 +1,169 @@
+{
+ "formato": "vertical",
+ "fondos": "../../fondos",
+ "musica": "../../audio/musica.mp3",
+ "musica_db": -26,
+ "cola": 1.5,
+ "salida": "../../output/SHORT_02_reparto_euro_luz.mp4",
+ "escenas": [
+  {
+   "id": "a",
+   "desde": "En dos mil veinticinco, un hogar",
+   "fondo": "calle_comercial",
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 60,
+     "y": 360,
+     "w": 960,
+     "h": 640
+    },
+    {
+     "tipo": "texto",
+     "texto": "TU EURO DE LA LUZ",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 28.4,
+     "x": 540,
+     "y": 540,
+     "tam": 170,
+     "sufijo": " c",
+     "dec": 1,
+     "t": 0.4
+    },
+    {
+     "tipo": "texto",
+     "texto": "por kilovatio hora, con todo incluido",
+     "x": 540,
+     "y": 680,
+     "tam": 44,
+     "fuente": "mano",
+     "t": 0.5
+    },
+    {
+     "tipo": "texto",
+     "texto": "Eurostat · hogares · 2025",
+     "x": 540,
+     "y": 820,
+     "tam": 44,
+     "fuente": "mano",
+     "t": 1.2
+    },
+    {
+     "tipo": "mascota",
+     "pose": "lupa",
+     "x": 880,
+     "y": 1310,
+     "h": 380,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "b",
+   "desde": "La primera es la energía",
+   "fondo": "#F4E9D0",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "TU EURO DE LA LUZ",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "rect",
+     "x": 110,
+     "y": 450,
+     "w": 860,
+     "h": 120,
+     "color": "#F5B301",
+     "texto": "41 c · energía y suministro",
+     "tam": 44,
+     "en": "Once coma seis",
+     "dur": 0.8
+    },
+    {
+     "tipo": "rect",
+     "x": 110,
+     "y": 620,
+     "w": 600,
+     "h": 120,
+     "color": "#9CC5E8",
+     "texto": "28 c · redes",
+     "tam": 44,
+     "en": "Ocho coma uno",
+     "dur": 0.8
+    },
+    {
+     "tipo": "mascota",
+     "pose": "senala",
+     "x": 880,
+     "y": 1310,
+     "h": 300,
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "c",
+   "desde": "Y la tercera es la que Eurostat",
+   "fondo": "#E3E7EC",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "TU EURO DE LA LUZ",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "rect",
+     "x": 110,
+     "y": 450,
+     "w": 880,
+     "h": 120,
+     "color": "#E0521B",
+     "texto": "31 c · impuestos y cargos",
+     "tam": 44,
+     "en": "Ocho coma siete céntimos",
+     "dur": 0.8
+    },
+    {
+     "tipo": "texto",
+     "texto": "Casi 1 euro de cada 3",
+     "x": 540,
+     "y": 760,
+     "tam": 66,
+     "en": "Casi un euro de cada tres"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "sorprendido",
+     "x": 880,
+     "y": 1310,
+     "h": 300,
+     "t": 0.2
+    }
+   ]
+  }
+ ]
+}

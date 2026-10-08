@@ -1,0 +1,150 @@
+{
+ "formato": "vertical",
+ "fondos": "../../fondos",
+ "musica": "../../audio/musica.mp3",
+ "musica_db": -26,
+ "cola": 1.5,
+ "salida": "../../output/SHORT_03_iva_impuesto_electrico.mp4",
+ "escenas": [
+  {
+   "id": "a",
+   "desde": "¿Por qué los impuestos de la luz",
+   "fondo": "#FFF3C4",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "¿POR QUÉ SUBEN?",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "Se han ido retirando las\nrebajas fiscales de la crisis",
+     "x": 540,
+     "y": 520,
+     "tam": 58,
+     "fuente": "mano",
+     "papel": true,
+     "en": "rebajas fiscales"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "pensativo",
+     "x": 880,
+     "y": 1310,
+     "h": 360,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "b",
+   "desde": "En dos mil veinticuatro, el IVA",
+   "fondo": "#E3E7EC",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "2024 · LO QUE DICE EL BOE",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "IVA: 10 %",
+     "x": 540,
+     "y": 480,
+     "tam": 110,
+     "en": "del diez por ciento"
+    },
+    {
+     "tipo": "texto",
+     "texto": "hasta 10 kW y mercado > 45 €/MWh",
+     "x": 540,
+     "y": 590,
+     "tam": 40,
+     "fuente": "mano",
+     "en": "cuarenta y cinco euros"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Impuesto eléctrico:\n2,5 % → 3,8 %",
+     "x": 540,
+     "y": 800,
+     "tam": 72,
+     "en": "dos coma cinco"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "lupa",
+     "x": 880,
+     "y": 1310,
+     "h": 280,
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "c",
+   "desde": "En dos mil veinticinco, el IVA es el general",
+   "fondo": "#F4E9D0",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "2025 · EL TIPO GENERAL",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "IVA: 21 %",
+     "x": 540,
+     "y": 520,
+     "tam": 130,
+     "color": "#E0521B",
+     "anim": "pop",
+     "en": "veintiuno por ciento"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Impuesto eléctrico: 5,11 %",
+     "x": 540,
+     "y": 760,
+     "tam": 70,
+     "color": "#E0521B",
+     "anim": "pop",
+     "en": "cinco coma uno uno"
+    },
+    {
+     "tipo": "texto",
+     "texto": "El IVA, ×3 en dos años (Eurostat)",
+     "x": 540,
+     "y": 960,
+     "tam": 44,
+     "fuente": "mano",
+     "en": "se multiplicó por tres"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "senala",
+     "x": 880,
+     "y": 1310,
+     "h": 280,
+     "t": 0.2
+    }
+   ]
+  }
+ ]
+}

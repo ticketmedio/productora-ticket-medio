@@ -1,0 +1,121 @@
+{
+ "n": 6,
+ "nombre": "la factura de la luz",
+ "titulo": "Por qué tu factura de la luz sube aunque la energía baja",
+ "alternativas": [
+  "Los impuestos de tu factura de la luz se han multiplicado por 2,7",
+  "¿Dónde va cada euro de tu factura de la luz? Los datos de Eurostat"
+ ],
+ "miniatura": "¿LA LUZ NO SUBE POR LA ENERGÍA?",
+ "etiquetas": "factura de la luz, precio de la luz, impuestos luz, IVA luz, cómo es la factura de la luz, Eurostat, luz España Europa, cargos del sistema eléctrico, precio kWh, dónde va tu dinero, economía España, Ticket Medio",
+ "descripcion": "En dos años, la energía de tu factura de la luz se ha abaratado un 14 %… y aun así pagas un 9 % más. Abrimos el ticket de la luz con las cifras de Eurostat publicadas este mismo mes: de cada euro, 41 céntimos son energía y suministro, 28 son redes y 31 son impuestos, tasas, gravámenes y cargos (17 de IVA). Y cómo se explica con el BOE: las rebajas fiscales de la crisis se han ido retirando. También: los costes del sistema eléctrico de 2026, si la luz en España es más cara que en Europa y por qué quien consume poco paga más por kilovatio hora.\n\nLos datos son medias de hogares de Eurostat (nrg_pc_204_c); tu factura depende de tu tarifa, tu potencia y tu consumo. El ejemplo de 3.000 kWh al año y los porcentajes son cálculos propios con esas medias. Eurostat y el Ministerio clasifican los conceptos de forma distinta, así que sus cifras no se suman. Las fuentes, en el comentario fijado.",
+ "capitulos": [
+  [
+   "La energía baja, tu factura sube",
+   "En dos años, la energía"
+  ],
+  [
+   "Qué vamos a abrir",
+   "Hoy vamos a abrir el ticket"
+  ],
+  [
+   "Tu euro de la luz, en tres partes",
+   "En dos mil veinticinco, un hogar"
+  ],
+  [
+   "Qué ha cambiado desde 2023",
+   "Fíjate en dos mil veintitrés"
+  ],
+  [
+   "Un ejemplo en euros",
+   "Para que lo veas en euros"
+  ],
+  [
+   "Por qué: las rebajas fiscales",
+   "¿Por qué ha pasado?"
+  ],
+  [
+   "Los cargos del sistema eléctrico",
+   "Ahora, otra cifra que conviene conocer"
+  ],
+  [
+   "¿Más cara que en Europa?",
+   "Y ahora, una pregunta incómoda"
+  ],
+  [
+   "Quien consume poco paga más",
+   "Y un dato más"
+  ],
+  [
+   "El ticket completo",
+   "Así que, la próxima vez"
+  ]
+ ],
+ "vistos": "Vídeos anteriores: Mercadona, Zara, El Corte Inglés y Lidl, con el mismo método.",
+ "hashtags": "#FacturaDeLaLuz #PrecioDeLaLuz #Economía",
+ "comentario": [
+  "· Eurostat, «Electricity prices components for household consumers» (nrg_pc_204_c), hogares de España, todas las bandas de consumo, datos de 2023, 2024 y 2025 (actualizado el 7/10/2026): https://ec.europa.eu/eurostat/databrowser/view/nrg_pc_204_c/",
+  "· Reparto de cada euro, porcentajes, variaciones y ejemplo de 3.000 kWh al año: cálculo propio con esas medias (cifras redondeadas).",
+  "· IVA y impuesto especial de la electricidad en 2024: Real Decreto-ley 8/2023, arts. 21 y 22 (BOE-A-2023-26452). Tipos generales: Ley 37/1992 (art. 90) y Ley 38/1992 (art. 99).",
+  "· Costes del sistema eléctrico en 2026 (8.510 M€; 4.453 M€ de otros ingresos; 4.057 M€ a cargo de los consumidores): memoria de la Orden TED/1524/2025 del Ministerio para la Transición Ecológica (BOE-A-2025-26705).",
+  "· Eurostat y el Ministerio clasifican los conceptos de forma distinta: sus cifras no se suman."
+ ],
+ "shorts": [
+  {
+   "id": "01",
+   "archivo": "SHORT_01_energia_baja_impuestos_x27.mp4",
+   "dia": "sábado 31/10",
+   "titulo": "La energía de tu luz baja un 14 % y los impuestos se multiplican por 2,7",
+   "descripcion": "Según Eurostat, entre 2023 y 2025 el precio medio de la energía y el suministro en la factura de un hogar español bajó un 14 % (de 13,5 a 11,6 céntimos/kWh), las redes bajaron un 13 % y los impuestos, tasas, gravámenes y cargos pasaron de 3,3 a 8,7 céntimos/kWh (×2,7). El total subió un 9 %.",
+   "hashtags": "#FacturaDeLaLuz #Eurostat #Economía"
+  },
+  {
+   "id": "02",
+   "archivo": "SHORT_02_reparto_euro_luz.mp4",
+   "dia": "lunes 2/11",
+   "titulo": "Así se reparte cada euro de tu factura de la luz",
+   "descripcion": "En 2025 un hogar español pagó de media 28,4 céntimos por kWh: 41 % energía y suministro (11,6 c), 28 % redes (8,1 c) y 31 % impuestos, tasas, gravámenes y cargos (8,7 c; 4,8 de IVA). Fuente: Eurostat (nrg_pc_204_c, actualizado el 7/10/2026); porcentajes propios.",
+   "hashtags": "#FacturaDeLaLuz #PrecioDeLaLuz #Economía"
+  },
+  {
+   "id": "03",
+   "archivo": "SHORT_03_iva_impuesto_electrico.mp4",
+   "dia": "miércoles 4/11",
+   "titulo": "Por qué los impuestos de la luz se han multiplicado por casi 3",
+   "descripcion": "En 2024 el IVA de la luz fue del 10 % (contratos de hasta 10 kW, con el mercado diario por encima de 45 €/MWh) y el impuesto especial de la electricidad del 2,5 % y el 3,8 % en el primer semestre. En 2025 rigen los tipos generales: 21 % y 5,11 %. Fuentes: Real Decreto-ley 8/2023, Ley 37/1992 y Ley 38/1992.",
+   "hashtags": "#IVA #FacturaDeLaLuz #Economía"
+  },
+  {
+   "id": "04",
+   "archivo": "SHORT_04_71_euros_mas.mp4",
+   "dia": "domingo 1/11",
+   "titulo": "Un hogar de 3.000 kWh paga 71 € más al año que en 2023",
+   "descripcion": "Cálculo propio con las medias de Eurostat (3.000 kWh × precio medio de cada año): 781 € en 2023 y 851 € en 2025 (+71 €). La energía cuesta 57 € menos, la red 36 € menos y los impuestos, tasas, gravámenes y cargos 164 € más. No es la factura de nadie en concreto.",
+   "hashtags": "#FacturaDeLaLuz #AhorroEnergético #Economía"
+  },
+  {
+   "id": "05",
+   "archivo": "SHORT_05_costes_sistema_electrico.mp4",
+   "dia": "martes 3/11",
+   "titulo": "Los costes del sistema eléctrico: 8.510 millones y quién los paga",
+   "descripcion": "Según el Ministerio para la Transición Ecológica, los costes del sistema eléctrico en 2026 ascienden a 8.510 M€: renovables, cogeneración y residuos, territorios no peninsulares y antiguos déficits. Los consumidores pagan 4.057 M€ (48 %) en sus facturas; el resto, otros ingresos (impuesto a la generación, subastas de CO₂…). Fuente: memoria de la Orden TED/1524/2025.",
+   "hashtags": "#SistemaEléctrico #FacturaDeLaLuz #Economía"
+  },
+  {
+   "id": "06",
+   "archivo": "SHORT_06_luz_espana_vs_europa.mp4",
+   "dia": "jueves 5/11",
+   "titulo": "¿Es la luz en España más cara que en Europa? Los datos de Eurostat",
+   "descripcion": "Precio medio para hogares en 2025 (céntimos/kWh, todo incluido): España 28,4; UE-27 29,4; Alemania 40,2; Italia 35,1; Portugal 25,6; Francia 25,5. Precios nominales, sin ajustar por poder adquisitivo. Fuente: Eurostat (nrg_pc_204_c).",
+   "hashtags": "#PrecioDeLaLuz #Eurostat #Europa"
+  },
+  {
+   "id": "07",
+   "archivo": "SHORT_07_consumo_bajo_paga_mas.mp4",
+   "dia": "viernes 6/11",
+   "titulo": "Quien consume poco paga más por cada kWh de luz",
+   "descripcion": "Según Eurostat, en 2025 los hogares españoles que consumen entre 1.000 y 2.500 kWh al año pagaron de media 32,6 céntimos por kWh y los que consumen entre 2.500 y 5.000, 26,4. Eurostat no lo explica; parte puede venir de los términos fijos de la factura. Fuente: Eurostat (nrg_pc_204_c).",
+   "hashtags": "#FacturaDeLaLuz #Eurostat #Economía"
+  }
+ ]
+}

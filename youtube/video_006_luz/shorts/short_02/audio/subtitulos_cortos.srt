@@ -1,0 +1,139 @@
+1
+00:00:00,150 --> 00:00:01,838
+En dos mil veinticinco,
+
+2
+00:00:01,838 --> 00:00:03,526
+un hogar español pagó
+
+3
+00:00:03,526 --> 00:00:05,214
+veintiocho coma cuatro céntimos
+
+4
+00:00:05,214 --> 00:00:06,903
+por kilovatio hora. Así
+
+5
+00:00:06,903 --> 00:00:08,591
+se reparten.
+
+6
+00:00:09,127 --> 00:00:10,531
+La primera es la
+
+7
+00:00:10,531 --> 00:00:11,935
+energía y el suministro:
+
+8
+00:00:11,935 --> 00:00:13,339
+lo que cuesta la
+
+9
+00:00:13,339 --> 00:00:14,743
+electricidad que consumes y
+
+10
+00:00:14,743 --> 00:00:16,147
+el servicio de la
+
+11
+00:00:16,147 --> 00:00:17,551
+comercializadora.
+
+12
+00:00:17,551 --> 00:00:19,208
+Once coma seis céntimos.
+
+13
+00:00:19,208 --> 00:00:20,197
+El cuarenta y uno
+
+14
+00:00:20,197 --> 00:00:21,187
+por ciento de tu
+
+15
+00:00:21,187 --> 00:00:22,177
+factura.
+
+16
+00:00:22,177 --> 00:00:23,420
+Menos de la mitad.
+
+17
+00:00:23,770 --> 00:00:25,136
+La segunda son los
+
+18
+00:00:25,136 --> 00:00:26,502
+costes de red: los
+
+19
+00:00:26,502 --> 00:00:27,868
+cables que llevan la
+
+20
+00:00:27,868 --> 00:00:29,234
+luz hasta tu casa,
+
+21
+00:00:29,234 --> 00:00:30,133
+los de alta tensión
+
+22
+00:00:30,133 --> 00:00:31,032
+y los de tu
+
+23
+00:00:31,032 --> 00:00:31,931
+calle.
+
+24
+00:00:31,931 --> 00:00:33,564
+Ocho coma uno céntimos.
+
+25
+00:00:33,564 --> 00:00:35,338
+El veintiocho por ciento.
+
+26
+00:00:35,688 --> 00:00:37,176
+Y la tercera es
+
+27
+00:00:37,176 --> 00:00:38,663
+la que Eurostat llama
+
+28
+00:00:38,663 --> 00:00:40,151
+impuestos, tasas, gravámenes y
+
+29
+00:00:40,151 --> 00:00:41,639
+cargos.
+
+30
+00:00:41,639 --> 00:00:43,597
+Ocho coma siete céntimos.
+
+31
+00:00:43,597 --> 00:00:44,693
+El treinta y uno
+
+32
+00:00:44,693 --> 00:00:45,789
+por ciento de tu
+
+33
+00:00:45,789 --> 00:00:46,886
+factura.
+
+34
+00:00:46,886 --> 00:00:47,904
+Casi un euro de
+
+35
+00:00:47,904 --> 00:00:48,922
+cada tres.

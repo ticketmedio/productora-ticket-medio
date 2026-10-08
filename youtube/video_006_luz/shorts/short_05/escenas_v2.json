@@ -1,0 +1,180 @@
+{
+ "formato": "vertical",
+ "fondos": "../../fondos",
+ "musica": "../../audio/musica.mp3",
+ "musica_db": -26,
+ "cola": 1.5,
+ "salida": "../../output/SHORT_05_costes_sistema_electrico.mp4",
+ "escenas": [
+  {
+   "id": "a",
+   "desde": "Los costes del sistema eléctrico",
+   "fondo": "centro_logistico",
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 60,
+     "y": 360,
+     "w": 960,
+     "h": 640
+    },
+    {
+     "tipo": "texto",
+     "texto": "COSTES DEL SISTEMA 2026",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 8510,
+     "x": 540,
+     "y": 540,
+     "tam": 150,
+     "sufijo": " M€",
+     "t": 0.4
+    },
+    {
+     "tipo": "texto",
+     "texto": "Ministerio para la Transición Ecológica",
+     "x": 540,
+     "y": 680,
+     "tam": 42,
+     "fuente": "mano",
+     "t": 0.6
+    },
+    {
+     "tipo": "mascota",
+     "pose": "lupa",
+     "x": 880,
+     "y": 1310,
+     "h": 380,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "b",
+   "desde": "Pagan, según el propio Ministerio",
+   "fondo": "#E6E0F5",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "¿QUÉ PAGAN?",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "Renovables, cogeneración\ny residuos",
+     "x": 540,
+     "y": 470,
+     "tam": 52,
+     "fuente": "mano",
+     "en": "retribución específica"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Sobrecostes de las islas\ny territorios no peninsulares",
+     "x": 540,
+     "y": 660,
+     "tam": 52,
+     "fuente": "mano",
+     "en": "territorios no peninsulares"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Antiguos déficits del sistema",
+     "x": 540,
+     "y": 860,
+     "tam": 52,
+     "fuente": "mano",
+     "en": "antiguos déficits"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "normal",
+     "x": 900,
+     "y": 1310,
+     "h": 280,
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "c",
+   "desde": "Los otros cuatro mil cincuenta",
+   "fondo": "#FFF3C4",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "¿QUIÉN LOS PAGA?",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 48,
+     "x": 540,
+     "y": 520,
+     "tam": 190,
+     "sufijo": " €",
+     "color": "#E0521B",
+     "en": "cuarenta y ocho"
+    },
+    {
+     "tipo": "texto",
+     "texto": "de cada 100 € los pagas tú",
+     "x": 540,
+     "y": 660,
+     "tam": 48,
+     "fuente": "mano",
+     "en": "cuarenta y ocho"
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 52,
+     "x": 540,
+     "y": 840,
+     "tam": 190,
+     "sufijo": " €",
+     "color": "#2E8B57",
+     "en": "cincuenta y dos"
+    },
+    {
+     "tipo": "texto",
+     "texto": "otros ingresos",
+     "x": 540,
+     "y": 980,
+     "tam": 48,
+     "fuente": "mano",
+     "en": "cincuenta y dos"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "senala",
+     "x": 900,
+     "y": 1310,
+     "h": 240,
+     "t": 0.2
+    }
+   ]
+  }
+ ]
+}
