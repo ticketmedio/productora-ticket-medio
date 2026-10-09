@@ -2,6 +2,20 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 09/10/2026 (tarde)
+
+**Ejemplos que funcionan (datos públicos, 9/10/2026)**
+- Bruno Peluch (5,87 mil suscriptores): «El sistema que hace imposible copiar a Zara», 298 mil (10:49, hace 2 m); «El sistema que hace imposible repetir HAWKERS», 9,8 mil en 5 días.
+- qash (18,9 mil): «La máquina de dinero de Amancio Ortega, explicada», 443 mil (28:58); Irán, 166 mil en 5 días.
+- Marc Vidal: «Lo que están haciendo los supermercados con tus datos es una locura», 700 mil (19:28).
+
+**Ideas**
+1. **Vídeo largo — «El sistema que hace imposible copiar a Mercadona»**: fórmula «sistema imposible de copiar» con el ticket como prueba.
+2. **Reel de Pepa — «Lo que haces mal con las sobras y cómo se corrige en 10 s»**: formato corrección/truco; fuente AESAN.
+3. **Carrusel de Pepa — «Qué guardar y qué tirar tras el puente»**: lista corta; fuente AESAN.
+
+**Mejora aplicable:** el vídeo de referencia de Zara tiene su mayor retención en los primeros segundos y baja a ~0,5 hacia el segundo 12: dato fuerte en los primeros 6 s.
+
 ## 09/10/2026 (mañana)
 
 **Ejemplos que funcionan (datos públicos, 9/10/2026)**
