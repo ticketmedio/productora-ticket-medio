@@ -2,6 +2,20 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 09/10/2026 (mañana)
+
+**Ejemplos que funcionan (datos públicos, 9/10/2026)**
+- Lluís Lairón (2,01 mil suscriptores): «He comprado LO MISMO en Mercadona, Lidl, Aldi y Carrefour… ¿cuál es más barato?», 67.945 (8:36, hace 1 mes).
+- Elias Sweet: «15 EUROS en Mercadona vs Lidl», 45.290 (10:12, hace 7 m).
+- «Cómo gana dinero X» (Mercadona, Zara): 2–139 en canales pequeños.
+
+**Ideas**
+1. **Vídeo largo — «Misma cesta, 4 supermercados: el ticket real»**: comparativa con ticket verificable; refuerza el vídeo del 23/10.
+2. **Reel de Pepa — «¿Se puede comer la castaña que huele raro?»**: Todos los Santos; revelación al final; fuente AESAN.
+3. **Carrusel de Pepa — «Qué sobras de Halloween y puente se pueden guardar»**: lista corta; fuente AESAN.
+
+**Mejora aplicable:** título con comparación directa y resultado oculto hasta el final. (`yt_video.py` sigue dando 403 en la nube.)
+
 ## 08/10/2026 (tarde)
 
 **Ejemplos que funcionan (datos públicos, 8/10/2026)**
