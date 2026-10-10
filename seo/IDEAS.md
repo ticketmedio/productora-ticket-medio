@@ -2,6 +2,20 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 10/10/2026 (tarde)
+
+**Ejemplos que funcionan (datos públicos, 10/10/2026)**
+- Bruno Peluch (5,88 mil suscriptores): «La BATALLA FAMILIAR en El Corte Inglés», 114 mil (hace 2 m); «El estudio de animación español que NO tenía dibujantes», 79 mil (hace 1 m).
+- La Blue Kombi: «¿CUÁNTO CUESTA HACER MERCADO en ESPAÑA en 2026?», 74.595 (31:48, hace 5 m).
+- Saturación: «Cómo gana Mercadona…» en canales pequeños, 3–26 visualizaciones.
+
+**Ideas**
+1. **Vídeo largo — «La batalla familiar de [empresa española]: quién manda de verdad»**: conflicto + marca conocida; datos del registro mercantil.
+2. **Short — «El ticket de la compra semanal en 30 s»**: resultado al principio, cifra en pantalla.
+3. **Carrusel de Pepa — «Sobras del puente: guardar o tirar»**: lista corta; fuente AESAN.
+
+**Mejora aplicable:** evitar el título genérico «cómo gana dinero X»; ángulo de conflicto o sospecha. (`yt_video.py` sigue con 403.)
+
 ## 10/10/2026 (mañana)
 
 **Ejemplos que funcionan (datos públicos, 10/10/2026)**
