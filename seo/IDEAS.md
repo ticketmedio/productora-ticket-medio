@@ -2,6 +2,20 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 10/10/2026 (mañana)
+
+**Ejemplos que funcionan (datos públicos, 10/10/2026)**
+- Bruno Peluch (5,87 mil suscriptores): «¿Nos están engañando? La verdad sobre el cambio de nombre de CEPSA», 154 mil (hace 1 m).
+- qash (19 mil): «Si EEUU es el país más poderoso, por qué no puede contra Irán», 171 mil en 5 días.
+- Elias Sweet: «CUANTO CUESTA HACER LA COMPRA 2026 - CARREFOUR», 2.767 (18:32).
+
+**Ideas**
+1. **Vídeo largo — «¿Nos están engañando? El cambio de nombre de [marca]»**: sospecha + dato verificable.
+2. **Reel de Pepa — «El truco de las sobras del puente que no es seguro»**: corrección; fuente AESAN.
+3. **Carrusel de Pepa — «Qué guardar y qué tirar tras el puente»**: lista corta; fuente AESAN.
+
+**Mejora aplicable:** título con pregunta de sospecha y dato comprobable en los primeros 30 s.
+
 ## 09/10/2026 (tarde)
 
 **Ejemplos que funcionan (datos públicos, 9/10/2026)**
