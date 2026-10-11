@@ -2,6 +2,20 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 11/10/2026 (tarde)
+
+**Ejemplos que funcionan (datos públicos, 11/10/2026)**
+- ¿Y si?: «Cómo ganan dinero las aerolíneas con vuelos a 9 €», 716.544 (13:22, hace 4 m).
+- VETERINARIO GRATIS: «¿Quién fabrica las marcas blancas de Lidl, Carrefour y Dia?», 158.216 (12:10).
+- Bruno Peluch (5,88 mil suscriptores): CEPSA, 157 mil.
+
+**Ideas**
+1. **Vídeo largo — «¿Quién fabrica de verdad las marcas blancas de Mercadona?»**: revelación + registro mercantil.
+2. **Short — «Cómo ganan dinero las aerolíneas con vuelos a 9 €»**: desglose de una tarifa en 40 s.
+3. **Reel de Pepa — «Castañas: lo que no debes hacer con las que sobran»**: fuente AESAN.
+
+**Mejora aplicable:** título de revelación en vez de «cómo gana dinero X». (`yt_video.py` sigue con 403.)
+
 ## 11/10/2026 (mañana)
 
 **Ejemplos que funcionan (datos públicos, 11/10/2026)**
