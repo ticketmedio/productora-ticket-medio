@@ -2,6 +2,20 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 11/10/2026 (mañana)
+
+**Ejemplos que funcionan (datos públicos, 11/10/2026)**
+- Rimembah: «¿Qué LE HA PASADO a El Corte Inglés?», 485.597 (42:09, hace 2 sem.).
+- Bruno Peluch (5,7 mil suscriptores): «¿Qué Pasó con Telepizza?», 90 mil (hace 1 m); Demand Lab (2,4 mil): «¿Cuánto le queda a El Corte Inglés?», 202 mil.
+- Raíz Española: «El Corte Inglés: La Caída del Gigante que Dominó España», 229.633 (22:16).
+
+**Ideas**
+1. **Vídeo largo — «¿Qué le queda a [marca española]?»**: caída + dato verificable.
+2. **Short — «Misma cesta, dos supermercados»**: resultado primero.
+3. **Reel de Pepa — «Castañas y sobras del puente: la corrección en 10 s»**: fuente oficial.
+
+**Mejora aplicable:** título de caída o sospecha sobre marca conocida. (`yt_video.py` sigue con 403.)
+
 ## 10/10/2026 (tarde)
 
 **Ejemplos que funcionan (datos públicos, 10/10/2026)**
