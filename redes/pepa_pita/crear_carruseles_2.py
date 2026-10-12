@@ -120,7 +120,7 @@ guardar("011_congelar_bien", [
     ficha_numero("RACIONES", "No congeles en un solo bloque", "Divide en raciones individuales o según las personas de la casa: se congela antes y no tiras nada.", "AESAN", 3, T, "exp_guino"),
     ficha_numero("FRÍO", "Nunca lo metas caliente", "Déjalo enfriar en la nevera antes de pasarlo al congelador. Apunta qué es y la fecha.", "AESAN", 4, T, "exp_preocupada"),
     ficha_numero("12 h", "Descongela en la nevera", "Sácalo con al menos 12 horas de antelación, en la parte más fría. Entre 5 y 65 °C los microorganismos se reproducen más rápido.", "AESAN", 5, T, "exp_pensativa"),
-    ficha_veredicto("NO SE RECONGELA", AMARILLO, "Lo descongelado", "Salvo que lo cocines a más de 70 °C durante al menos 2 minutos.", "AESAN", 6, T, "exp_sorprendida"),
+    ficha_veredicto("DEPENDE", AMARILLO, "Lo descongelado", "AESAN (España): no se recongela, salvo que lo cocines a más de 70 °C durante 2 minutos. USDA (EE. UU.): si lo descongelaste en el refrigerador, se puede recongelar, con pérdida de calidad.", "AESAN y USDA", 6, T, "exp_sorprendida"),
     ficha_veredicto("MEJOR NO", ROJO, "Qué no congelar", "Pierden sabor o textura (no son peligrosos): lechuga, tomate, patatas, huevos con cáscara, mayonesa y fritos.", "AESAN", 7, T, "exp_pensativa"),
     cierre("¿Qué congelabas mal?", "Guárdalo y compártelo con quien congela todo en un bloque.", "exp_riendo", 8, T),
 ], """
@@ -130,12 +130,12 @@ Congelar bien: guía en 6 pasos 🧊 Guárdala.
 2️⃣ En raciones, no en un bloque.
 3️⃣ Nunca caliente: primero enfría en la nevera. Apunta la fecha.
 4️⃣ Descongela en la nevera, con 12 horas de antelación.
-5️⃣ Lo descongelado no se vuelve a congelar, salvo que lo cocines a más de 70 °C durante 2 minutos.
+5️⃣ ¿Recongelar? AESAN (España): no, salvo que lo cocines a más de 70 °C durante 2 minutos. USDA (EE. UU.): si lo descongelaste en el refrigerador, sí, con pérdida de calidad.
 6️⃣ Mejor no congelar: lechuga, tomate, patatas, huevos con cáscara, mayonesa y fritos (pierden sabor o textura).
 
 Compártelo con quien congela todo en un bloque 😅
 
-📊 Fuente: AESAN, «¿Congelas y descongelas los alimentos de forma segura en casa?».
+📊 Fuentes: AESAN, «¿Congelas y descongelas los alimentos de forma segura en casa?», y USDA FSIS, «Freezing and Food Safety».
 Pepa es un personaje animado con IA; los datos, no 😉
 
 #congelar #cocina #seguridadalimentaria #trucosdecocina #pepapita
@@ -196,22 +196,24 @@ Pepa es un personaje animado con IA; los datos, no 😉
 """)
 
 # ── 014 · lunes 7/12 · mesa de Navidad ──
-T = 7
+T = 8
 guardar("014_mesa_navidad", [
     portada("La mesa de Navidad sin sustos", "Cuatro reglas de la EFSA y de la norma europea.", "pose_aplaude", 1, T),
     ficha_numero("2 h", "Comida cocinada sobre la mesa", "No más de 2 horas a temperatura ambiente.", "EFSA (Safe2Eat)", 2, T, "exp_preocupada"),
     ficha_numero("60 °C / 5 °C", "Caliente o frío, nunca templado", "Si se come enseguida, mantenla por encima de 60 °C. Si no, refrigérala cuanto antes, por debajo de 5 °C.", "EFSA (Safe2Eat)", 3, T, "exp_pensativa"),
     ficha_numero("70 °C", "El caldo y los guisos", "Llévalos a ebullición para asegurar los 70 °C. Idealmente, con termómetro.", "EFSA (Safe2Eat)", 4, T, "exp_contenta"),
-    ficha_numero("14", "Alérgenos que la ley obliga a destacar", "Cereales con gluten, crustáceos, huevos, pescado, cacahuetes, soja, leche, frutos de cáscara, apio, mostaza, sésamo, sulfitos, altramuces y moluscos.", "Reglamento (UE) 1169/2011", 5, T, "exp_sorprendida"),
-    ficha_numero("ETIQUETA", "Si tienes alergia, léela siempre", "Deben aparecer destacados en la lista de ingredientes. No te fíes de la memoria.", "Reglamento (UE) 1169/2011", 6, T, "exp_guino"),
-    cierre("¿Cuál olvidabas?", "Guárdalo para la cena de Navidad y compártelo con quien cocina.", "exp_riendo", 7, T),
+    ficha_numero("1 h", "¿Navidad en verano? (Argentina, Paraguay)", "Con más de 32 °C (90 °F), el tiempo de la comida fuera del frío baja de 2 horas a 1 hora.", "USDA FSIS (EE. UU.)", 5, T, "exp_sorprendida"),
+    ficha_numero("14", "Alérgenos que la ley obliga a destacar", "Cereales con gluten, crustáceos, huevos, pescado, cacahuetes, soja, leche, frutos de cáscara, apio, mostaza, sésamo, sulfitos, altramuces y moluscos.", "Reglamento (UE) 1169/2011", 6, T, "exp_sorprendida"),
+    ficha_numero("ETIQUETA", "Si tienes alergia, léela siempre", "Deben aparecer destacados en la lista de ingredientes. No te fíes de la memoria.", "Reglamento (UE) 1169/2011", 7, T, "exp_guino"),
+    cierre("¿Cuál olvidabas?", "Guárdalo para la cena de Navidad y compártelo con quien cocina.", "exp_riendo", 8, T),
 ], """
 La mesa de Navidad sin sustos 🎄
 
 ⏱️ Comida cocinada: máximo 2 horas a temperatura ambiente.
 🔥 Caliente (más de 60 °C) o frío (menos de 5 °C), nunca templado.
 🍲 Caldos y guisos: a ebullición, 70 °C.
-⚠️ 14 alérgenos que la ley obliga a destacar en la etiqueta. Si tienes alergia, léela siempre.
+🌎 ¿Navidad en verano (Argentina, Paraguay)? Con más de 32 °C, 1 hora, no 2 (USDA).
+⚠️ 14 alérgenos que la UE obliga a destacar en la etiqueta. Si tienes alergia, léela siempre.
 
 Guárdalo para la cena de Navidad y compártelo con quien cocina 💛
 
