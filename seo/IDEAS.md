@@ -2,6 +2,19 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 12/10/2026 (tarde)
+
+**Ejemplos que funcionan (datos públicos, 12/10/2026)**
+- Bruno Peluch: «El sistema que hace imposible copiar a Zara», 300.673 (10:49).
+- Juan Ramón Rallo: «Francia puede quebrar», 435.062.
+
+**Ideas**
+1. **Vídeo largo — «El sistema que hace imposible copiar a [marca española]»**.
+2. **Short — misma cesta, dos supermercados**.
+3. **Carrusel de Pepa — sobras de otoño: guardar o tirar** (fuente AESAN).
+
+**Mejora aplicable:** título de paradoja o sospecha con dato fuerte al inicio. (`yt_video.py` sigue sin datos.)
+
 ## 12/10/2026 (mañana)
 
 **Ejemplos que funcionan (datos públicos, 12/10/2026)**
