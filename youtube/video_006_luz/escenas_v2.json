@@ -6,7 +6,7 @@
   {
    "id": "01",
    "desde": "En dos años, la energía",
-   "fondo": "oficina_financiera",
+   "fondo": "salon_luz",
    "capas": [
     {
      "tipo": "panel",
@@ -185,7 +185,7 @@
   {
    "id": "04",
    "desde": "En dos mil veinticinco, un hogar",
-   "fondo": "calle_comercial",
+   "fondo": "salon_luz",
    "capas": [
     {
      "tipo": "panel",
@@ -856,7 +856,7 @@
   {
    "id": "14",
    "desde": "Para dos mil veintiséis, el Ministerio",
-   "fondo": "centro_logistico",
+   "fondo": "torre_electrica",
    "capas": [
     {
      "tipo": "panel",
@@ -1085,7 +1085,7 @@
   {
    "id": "17",
    "desde": "Y ahora, una pregunta incómoda",
-   "fondo": "puerto_avion",
+   "fondo": "torre_electrica",
    "capas": [
     {
      "tipo": "panel",
@@ -1373,7 +1373,7 @@
   {
    "id": "20",
    "desde": "Así que, la próxima vez",
-   "fondo": "supermercado",
+   "fondo": "salon_luz",
    "capas": [
     {
      "tipo": "panel",

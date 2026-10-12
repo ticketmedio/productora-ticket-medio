@@ -13,7 +13,7 @@ def sello(c, y, tam=64, x=540, **k): return {"tipo": "sello", "texto": c, "x": x
 AMAR, ROJO, AZUL, VERDE = "#F5B301", "#E0521B", "#9CC5E8", "#8FD18F"
 shorts = {
  "01": {"salida": "../../output/SHORT_01_billete_medio_74_euros.mp4", "escenas": [
-   {"id": "a", "desde": "El billete medio de Ryanair no cuesta", "fondo": "puerto_avion", "zoom": [1.0, 1.08], "capas": [
+   {"id": "a", "desde": "El billete medio de Ryanair no cuesta", "fondo": "aeropuerto", "zoom": [1.0, 1.08], "capas": [
      panel(700), cab("EL BILLETE MEDIO"),
      txt("NO CUESTA 10 €", 520, 90, color=ROJO, anim="pop", t=0.3),
      cifra(74.57, 760, 150, sufijo=" €", dec=2, en="setenta y cuatro con cincuenta y siete"), mano("de media por pasajero", 900, 44, t=2.5),
@@ -27,7 +27,7 @@ shorts = {
      masc("pensativo", 910, 240, t=0.2)]},
  ]},
  "02": {"salida": "../../output/SHORT_02_adonde_va_el_euro.mp4", "escenas": [
-   {"id": "a", "desde": "¿Adónde va cada euro de un billete", "fondo": "centro_logistico", "zoom": [1.0, 1.08], "capas": [
+   {"id": "a", "desde": "¿Adónde va cada euro de un billete", "fondo": "aeropuerto", "zoom": [1.0, 1.08], "capas": [
      panel(640), cab("PARADA 1: COMBUSTIBLE"),
      cifra(26, 540, 190, sufijo=" €", color=ROJO, en="Veintiséis euros por pasajero"), mano("por pasajero · 35 % del billete", 680, 42, en="el treinta y cinco por ciento"),
      mano("80 % cubierto a ≈ 67 $/barril", 840, 46, en="cubierto el ochenta por ciento"),
@@ -39,7 +39,7 @@ shorts = {
      masc("lupa", 900, 280, t=0.2)]},
  ]},
  "03": {"salida": "../../output/SHORT_03_cuanto_gana_por_billete.mp4", "escenas": [
-   {"id": "a", "desde": "¿Cuánto gana Ryanair de cada billete", "fondo": "oficina_financiera", "zoom": [1.0, 1.08], "capas": [
+   {"id": "a", "desde": "¿Cuánto gana Ryanair de cada billete", "fondo": "avion_cabina", "zoom": [1.0, 1.08], "capas": [
      panel(640), cab("¿CUÁNTO GANA?"),
      mano("Antes de impuestos:", 480, 50, t=0.4), cifra(11.37, 620, 150, sufijo=" €", dec=2, en="once euros con treinta y siete"),
      mano("Beneficio neto:", 790, 50, en="el beneficio neto antes"), cifra(10.84, 930, 150, sufijo=" €", dec=2, color=ROJO, en="diez euros con ochenta y cuatro"),
@@ -53,7 +53,7 @@ shorts = {
      masc("pensativo", 900, 240, t=0.2)]},
  ]},
  "04": {"salida": "../../output/SHORT_04_maletas_extras_32.mp4", "escenas": [
-   {"id": "a", "desde": "¿Gana Ryanair con las maletas", "fondo": "supermercado", "zoom": [1.0, 1.08], "capas": [
+   {"id": "a", "desde": "¿Gana Ryanair con las maletas", "fondo": "avion_cabina", "zoom": [1.0, 1.08], "capas": [
      panel(640), cab("¿GANA CON LAS MALETAS?"),
      cifra(24, 540, 180, sufijo=" €", t=0.5), mano("de extras por pasajero", 680, 46, t=0.7),
      sello("32 % DE LOS INGRESOS", 840, 60, en="el treinta y dos por ciento"),
@@ -71,7 +71,7 @@ shorts = {
      masc("encoge_hombros", 900, 260, t=0.2)]},
  ]},
  "05": {"salida": "../../output/SHORT_05_cada_avion_al_ano.mp4", "escenas": [
-   {"id": "a", "desde": "Según sus cuentas, cada avión", "fondo": "puerto_avion", "zoom": [1.0, 1.08], "capas": [
+   {"id": "a", "desde": "Según sus cuentas, cada avión", "fondo": "aeropuerto", "zoom": [1.0, 1.08], "capas": [
      panel(700), cab("CADA AVIÓN, AL AÑO"),
      cifra(322000, 520, 130, en="trescientos veintidós mil"), mano("pasajeros", 630, 46, en="trescientos veintidós mil"),
      cifra(24, 780, 130, sufijo=" M€", en="veinticuatro millones"), mano("ingresos", 890, 46, en="veinticuatro millones"),

@@ -28,7 +28,7 @@ def escena(id, desde, fondo, capas, **k):
 EU = "Eurostat, nrg_pc_204_c (hogares, todas las bandas; actualizado el 7/10/2026)"
 AMAR, ROJO, AZUL, VERDE, GRIS = "#F5B301", "#E0521B", "#9CC5E8", "#8FD18F", "#D9D2C0"
 
-escena("01", "En dos años, la energía", "oficina_financiera", [
+escena("01", "En dos años, la energía", "salon_luz", [
     panel(90, 120, 1230, 870), mano("2023 → 2025, tu factura de la luz", 700, 220, 56, t=0.2),
     txt("−14 %", 380, 420, 130, color="#2E8B57", anim="pop", en="se ha abaratado un catorce"), mano("la energía", 380, 540, 46, en="se ha abaratado un catorce"),
     txt("+9 %", 1000, 420, 130, color=ROJO, anim="pop", en="pagas un nueve por ciento más"), mano("lo que pagas", 1000, 540, 46, en="pagas un nueve por ciento más"),
@@ -51,7 +51,7 @@ escena("03", "Primero, una advertencia", "#E3E7EC", [
     masc("encoge_hombros", 1620, 520, entra="der", t=0.2),
 ])
 
-escena("04", "En dos mil veinticinco, un hogar", "calle_comercial", [
+escena("04", "En dos mil veinticinco, un hogar", "salon_luz", [
     panel(), mano("Un hogar español, 2025, de media", 700, 230, 56, t=0.2),
     cifra(28.4, 700, 450, 190, sufijo=" c", dec=1, en="veintiocho coma cuatro"),
     mano("por cada kilovatio hora (kWh), con todo incluido", 700, 620, 52, en="con todo incluido"),
@@ -138,7 +138,7 @@ escena("13", "Ahora, otra cifra que conviene conocer", "#E6E0F5", [
     masc("encoge_hombros", 1620, 520, entra="der", t=0.2),
 ])
 
-escena("14", "Para dos mil veintiséis, el Ministerio", "centro_logistico", [
+escena("14", "Para dos mil veintiséis, el Ministerio", "torre_electrica", [
     panel(), titulo("Costes del sistema 2026"),
     cifra(8510, 700, 400, 170, sufijo=" M€", t=0.4),
     mano("Pagan, según el Ministerio:", 700, 560, 50, en="Pagan, según el propio Ministerio"),
@@ -165,7 +165,7 @@ escena("16", "O sea: de cada cien euros", "#E3E7EC", [
     masc("normal", 1650, 500, entra="der", t=0.2),
 ], fuente="MITECO (4.057 / 8.510 = 47,7 %; cálculo propio)")
 
-escena("17", "Y ahora, una pregunta incómoda", "puerto_avion", [
+escena("17", "Y ahora, una pregunta incómoda", "torre_electrica", [
     panel(), mano("¿Es más cara que en Europa? (2025, c/kWh)", 700, 200, 50, papel=True, t=0.2),
     rect(150, 290, 1010, 80, "#9A9A9A", texto="Alemania 40,2", tam=40, en="Alemania, cuarenta", dur=0.7),
     rect(150, 390, 790, 80, "#9A9A9A", texto="Italia 35,1", tam=40, en="Italia, treinta y cinco", dur=0.7),
@@ -195,7 +195,7 @@ escena("19", "Y un dato más", "#E6E0F5", [
     masc("pensativo", 1650, 500, entra="der", t=0.2),
 ], fuente=EU)
 
-escena("20", "Así que, la próxima vez", "supermercado", [
+escena("20", "Así que, la próxima vez", "salon_luz", [
     panel(), titulo("El viaje de tu euro"),
     {"tipo": "tarta", "x": 420, "y": 640, "r": 260, "t": 0.3, "porciones": [
         {"v": 40.8, "color": AMAR, "en": "cuarenta y un céntimos"},

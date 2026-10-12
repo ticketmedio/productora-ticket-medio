@@ -6,7 +6,7 @@
   {
    "id": "01",
    "desde": "Devuelves un paquete a Amazon",
-   "fondo": "centro_logistico",
+   "fondo": "almacen_devoluciones",
    "capas": [
     {
      "tipo": "panel",
@@ -119,7 +119,7 @@
   {
    "id": "03",
    "desde": "Primero, tu derecho",
-   "fondo": "oficina_financiera",
+   "fondo": "puerta_paquete",
    "capas": [
     {
      "tipo": "panel",
@@ -477,7 +477,7 @@
   {
    "id": "09",
    "desde": "Según Amazon, en un comunicado",
-   "fondo": "centro_logistico",
+   "fondo": "almacen_devoluciones",
    "capas": [
     {
      "tipo": "panel",
@@ -920,7 +920,7 @@
   {
    "id": "16",
    "desde": "Lo que sí cambia es la ley",
-   "fondo": "oficina_financiera",
+   "fondo": "puerta_paquete",
    "capas": [
     {
      "tipo": "panel",

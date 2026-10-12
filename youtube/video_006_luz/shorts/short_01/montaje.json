@@ -1,0 +1,24 @@
+{
+ "salida": "output/_sin_normalizar.mp4",
+ "formato": "vertical",
+ "voz": "audio/voz_cola.mp3",
+ "subtitulos": "audio/subtitulos_cortos.srt",
+ "quemar_subtitulos": true,
+ "musica": "../../audio/musica.mp3",
+ "musica_db": -26,
+ "escenas": [
+  {
+   "archivo": "clips/s_a.mp4",
+   "duracion": 10.392
+  },
+  {
+   "archivo": "clips/s_b.mp4",
+   "duracion": 13.782
+  },
+  {
+   "archivo": "clips/s_c.mp4",
+   "duracion": 21.362
+  }
+ ],
+ "salida_final": "../../output/SHORT_01_energia_baja_impuestos_x27.mp4"
+}

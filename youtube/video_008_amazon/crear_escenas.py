@@ -15,7 +15,7 @@ AMAR, ROJO, AZUL, VERDE, GRIS = "#F5B301", "#E0521B", "#9CC5E8", "#8FD18F", "#D9
 LEY = "Real Decreto Legislativo 1/2007 (TRLGDCU), arts. 68, 71, 102–108"
 AMZ = "Amazon, «¿Qué sucede en Amazon con los productos devueltos o no vendidos?» (22/10/2021)"
 
-escena("01", "Devuelves un paquete a Amazon", "centro_logistico", [
+escena("01", "Devuelves un paquete a Amazon", "almacen_devoluciones", [
     panel(), mano("Devuelves un paquete a Amazon…", 700, 230, 58, t=0.2),
     txt("¿Se revende?", 700, 430, 90, en="¿Se revende"), txt("¿Se regala?", 700, 600, 90, en="se regala"), txt("¿Se destruye?", 700, 770, 90, color=ROJO, en="¿Adónde va"),
     masc("pensativo", 1620, 520, entra="der", t=0.3),
@@ -27,7 +27,7 @@ escena("02", "Hoy vamos a abrir el ticket", "#FFF3C4", [
     mano("Sí hay: la ley · la empresa · la prensa", 800, 860, 54, papel=True, en="lo que dice la ley"),
     masc("encoge_hombros", 1620, 520, entra="der", t=0.2),
 ])
-escena("03", "Primero, tu derecho", "oficina_financiera", [
+escena("03", "Primero, tu derecho", "puerta_paquete", [
     panel(), titulo("TU DERECHO"),
     cifra(14, 450, 450, 220, color=ROJO, en="catorce días naturales"), mano("días naturales para devolver", 450, 630, 46, en="catorce días naturales"),
     txt("sin explicar por qué\nsin penalización", 1010, 470, 56, en="sin tener que explicar"),
@@ -68,7 +68,7 @@ escena("08", "Ahora, la pregunta", "#FFF3C4", [
     txt("¿Qué pasa con tu paquete?", 800, 320, 90, t=0.3),
     masc("pensativo", 1620, 520, entra="der", t=0.2),
 ])
-escena("09", "Según Amazon, en un comunicado", "centro_logistico", [
+escena("09", "Según Amazon, en un comunicado", "almacen_devoluciones", [
     panel(), titulo("SEGÚN AMAZON (oct. 2021)"),
     mano("Cada artículo devuelto pasa por\nuna inspección detallada", 700, 400, 52, en="una inspección detallada"),
     txt("¿Como nuevo? → se vende como NUEVO", 700, 590, 56, en="se etiqueta como nuevo"),
@@ -119,7 +119,7 @@ escena("15", "Amazon respondió", "#E3E7EC", [
     mano("Investigación británica y de hace 5 años:\nno se puede aplicar a España", 800, 890, 44, papel=True, en="no se puede aplicar"),
     masc("normal", 1660, 500, entra="der", t=0.2),
 ], fuente="Amazon, respuesta a ITV News (2021)")
-escena("16", "Lo que sí cambia es la ley", "oficina_financiera", [
+escena("16", "Lo que sí cambia es la ley", "puerta_paquete", [
     panel(), titulo("ESPAÑA · LEY 7/2022"),
     mano("Prohibido destruir o llevar a vertedero\nlos excedentes no vendidos de productos\nno perecederos", 700, 400, 48, en="prohíbe destruir"),
     txt("Textiles · juguetes · aparatos eléctricos", 700, 640, 50, en="textiles, juguetes"),

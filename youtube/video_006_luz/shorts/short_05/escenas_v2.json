@@ -9,7 +9,7 @@
   {
    "id": "a",
    "desde": "Los costes del sistema eléctrico",
-   "fondo": "centro_logistico",
+   "fondo": "torre_electrica",
    "zoom": [
     1.0,
     1.08

@@ -21,7 +21,7 @@ def escena(id, desde, fondo, capas, **k): E.append({"id": id, "desde": desde, "f
 RY = "Ryanair Holdings plc, resultados del ejercicio FY26 (1/4/2025–31/3/2026), comunicado del 18/5/2026"
 AMAR, ROJO, AZUL, VERDE, GRIS = "#F5B301", "#E0521B", "#9CC5E8", "#8FD18F", "#D9D2C0"
 
-escena("01", "El billete medio de Ryanair", "puerto_avion", [
+escena("01", "El billete medio de Ryanair", "aeropuerto", [
     panel(), mano("El billete medio de Ryanair…", 700, 230, 58, t=0.2),
     txt("NO CUESTA 10 €", 700, 400, 100, color=ROJO, anim="pop", en="no cuesta diez euros"),
     cifra(74.57, 700, 620, 170, sufijo=" €", dec=2, en="setenta y cuatro con cincuenta y siete"),
@@ -34,7 +34,7 @@ escena("02", "Hoy vamos a abrir el ticket", "#FFF3C4", [
     mano("¿Adónde va cada euro?", 800, 700, 64, papel=True, en="Y a ver adónde va"),
     masc("saluda", 1620, 520, entra="der", t=0.2),
 ], fuente=RY)
-escena("03", "Primero, las presentaciones", "calle_comercial", [
+escena("03", "Primero, las presentaciones", "aeropuerto", [
     panel(), mano("Ryanair · ejercicio cerrado en marzo de 2026", 700, 220, 52, t=0.2),
     cifra(208.4, 360, 430, 130, sufijo=" M", dec=1, en="doscientos ocho millones"), mano("pasajeros", 360, 540, 44, en="doscientos ocho millones"),
     cifra(647, 1000, 430, 130, en="seiscientos cuarenta y siete"), mano("aviones", 1000, 540, 44, en="seiscientos cuarenta y siete"),
@@ -54,7 +54,7 @@ escena("05", "Para que te hagas una idea del tamaño", "#F4E9D0", [
     rect(150, 570, 190, 100, VERDE, texto="Lidl España · 7.641 M€", tam=34, en="siete mil seiscientos", dur=0.9),
     masc("lupa", 1650, 500, entra="der", t=0.2),
 ], fuente=RY + " · Mercadona, Memoria 2025 · Lidl España, comunicado del 30/9/2026")
-escena("06", "Con eso, ingresó quince mil", "puerto_avion", [
+escena("06", "Con eso, ingresó quince mil", "aeropuerto", [
     panel(), mano("Último ejercicio", 700, 230, 56, t=0.2),
     cifra(15540, 700, 400, 150, sufijo=" M€", en="quince mil quinientos cuarenta"), txt("ingresos · +11 %", 700, 540, 56, color="#2E8B57", en="Un once por ciento"),
     cifra(2260, 700, 710, 150, sufijo=" M€", color=ROJO, en="dos mil doscientos sesenta"), txt("beneficio neto · +40 %", 700, 850, 56, color="#2E8B57", en="un cuarenta por ciento"),
@@ -81,7 +81,7 @@ escena("09", "Ahora, pongamos todo eso", "#E3E7EC", [
     mano("Un cálculo nuestro: una media,\nno el precio de ningún vuelo", 800, 700, 56, papel=True, en="Es un cálculo nuestro"),
     masc("lupa", 1620, 520, entra="der", t=0.2),
 ], fuente="Cálculo propio con " + RY)
-escena("10", "Cada pasajero le deja", "supermercado", [
+escena("10", "Cada pasajero le deja", "avion_cabina", [
     panel(), mano("Cada pasajero le deja a Ryanair", 700, 230, 56, t=0.2),
     cifra(74.57, 700, 420, 190, sufijo=" €", dec=2, t=0.4),
     mano("de media (cálculo propio)", 700, 580, 50, t=2.0),
@@ -120,7 +120,7 @@ escena("15", "Ahora, la otra mitad del ticket", "#FFF3C4", [
     mano("el dinero de ese billete", 800, 430, 70, en="adónde va ese dinero"),
     masc("pensativo", 1620, 520, entra="der", t=0.2),
 ])
-escena("16", "Primera parada, y la más grande", "centro_logistico", [
+escena("16", "Primera parada, y la más grande", "aeropuerto", [
     panel(), titulo("PARADA 1: combustible"),
     cifra(26, 450, 460, 220, sufijo=" €", color=ROJO, en="Veintiséis euros por pasajero"), mano("por pasajero · 35 % del billete", 450, 640, 46, en="el treinta y cinco por ciento"),
     txt("80 % cubierto\npara el próximo año", 1020, 480, 60, en="cubierto el ochenta por ciento"), mano("a ≈ 67 $ el barril", 1020, 680, 48, en="sesenta y siete dólares"),
@@ -132,7 +132,7 @@ escena("17", "Segunda parada: el personal", "#E3E7EC", [
     mano("1.860 M€ al año", 700, 800, 52, papel=True, t=1.5),
     masc("riendo", 1640, 500, entra="der", t=0.2),
 ], fuente=RY)
-escena("18", "Tercera parada: los aeropuertos", "oficina_financiera", [
+escena("18", "Tercera parada: los aeropuertos", "avion_cabina", [
     panel(), titulo("PARADA 3: los aeropuertos"),
     cifra(8.45, 450, 460, 200, sufijo=" €", dec=2, color=ROJO, en="Ocho euros con cuarenta y cinco"), mano("por pasajero · 11 % del billete", 450, 640, 46, en="El once por ciento"),
     cifra(1760, 1010, 460, 150, sufijo=" M€", en="Mil setecientos sesenta"), mano("en tasas aeroportuarias al año", 1010, 620, 44, en="tasas aeroportuarias"),
@@ -159,7 +159,7 @@ escena("21", "Para ponerlo en perspectiva", "#E3E7EC", [
     mano("Sectores muy distintos", 800, 800, 52, papel=True, en="sectores muy distintos"),
     masc("pensativo", 1660, 500, entra="der", t=0.2),
 ], fuente=RY + " · Mercadona, Memoria 2025 · Lidl España, comunicado 30/9/2026 (ejercicios distintos)")
-escena("22", "Y esto no se detiene", "puerto_avion", [
+escena("22", "Y esto no se detiene", "aeropuerto", [
     panel(), titulo("Lo que viene"),
     cifra(216, 450, 440, 170, sufijo=" M", en="doscientos dieciséis millones"), mano("pasajeros previstos (+4 %)", 450, 590, 44, en="doscientos dieciséis millones"),
     cifra(300, 1000, 440, 170, en="trescientos aviones"), mano("Boeing 737 MAX-10 encargados", 1000, 590, 44, en="trescientos aviones"),
@@ -187,7 +187,7 @@ escena("25", "Ahora, lo que no sabemos", "#E3E7EC", [
     mano("Nadie con el dato dice «pierde en cada billete»", 800, 880, 44, papel=True, en="Así que cualquiera que te diga"),
     masc("encoge_hombros", 1660, 500, entra="der", t=0.2),
 ])
-escena("26", "Así que, la próxima vez que mires", "supermercado", [
+escena("26", "Así que, la próxima vez que mires", "avion_cabina", [
     panel(), titulo("El viaje de tu billete"),
     {"tipo": "tarta", "x": 420, "y": 640, "r": 260, "t": 0.3, "porciones": [
         {"v": 34.9, "color": ROJO, "en": "veintiséis, para combustible"},

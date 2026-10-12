@@ -13,7 +13,7 @@ def sello(c, y, tam=64, x=540, **k): return {"tipo": "sello", "texto": c, "x": x
 AMAR, ROJO, AZUL = "#F5B301", "#E0521B", "#9CC5E8"
 shorts = {
  "01": {"salida": "../../output/SHORT_01_energia_baja_impuestos_x27.mp4", "escenas": [
-   {"id": "a", "desde": "Según Eurostat, desde dos mil veintitrés", "fondo": "oficina_financiera", "zoom": [1.0, 1.08], "capas": [
+   {"id": "a", "desde": "Según Eurostat, desde dos mil veintitrés", "fondo": "salon_luz", "zoom": [1.0, 1.08], "capas": [
      panel(700), cab("TU FACTURA DE LA LUZ"),
      txt("−14 %", 560, 150, color="#2E8B57", anim="pop", en="ha bajado un catorce"), mano("la energía", 680, 52, en="ha bajado un catorce"),
      txt("×2,7", 880, 160, color=ROJO, anim="pop", t=3.5), mano("los impuestos y gravámenes", 1000, 50, t=3.7),
@@ -33,7 +33,7 @@ shorts = {
      masc("preocupado", 900, 280, t=0.2)]},
  ]},
  "02": {"salida": "../../output/SHORT_02_reparto_euro_luz.mp4", "escenas": [
-   {"id": "a", "desde": "En dos mil veinticinco, un hogar", "fondo": "calle_comercial", "zoom": [1.0, 1.08], "capas": [
+   {"id": "a", "desde": "En dos mil veinticinco, un hogar", "fondo": "salon_luz", "zoom": [1.0, 1.08], "capas": [
      panel(640), cab("TU EURO DE LA LUZ"),
      cifra(28.4, 540, 170, sufijo=" c", dec=1, t=0.4), mano("por kilovatio hora, con todo incluido", 680, 44, t=0.5),
      mano("Eurostat · hogares · 2025", 820, 44, t=1.2),
@@ -67,7 +67,7 @@ shorts = {
      masc("senala", 880, 280, t=0.2)]},
  ]},
  "04": {"salida": "../../output/SHORT_04_71_euros_mas.mp4", "escenas": [
-   {"id": "a", "desde": "Un hogar que consume tres mil", "fondo": "supermercado", "zoom": [1.0, 1.08], "capas": [
+   {"id": "a", "desde": "Un hogar que consume tres mil", "fondo": "salon_luz", "zoom": [1.0, 1.08], "capas": [
      panel(640), cab("HOGAR DE 3.000 kWh/AÑO"),
      sello("+71 € AL AÑO", 560, 80, t=0.4), mano("frente a 2023", 700, 50, t=0.6),
      masc("moneda", 880, 380, entra="der", t=0.2)]},
@@ -86,7 +86,7 @@ shorts = {
      masc("senala", 900, 260, t=0.2)]},
  ]},
  "05": {"salida": "../../output/SHORT_05_costes_sistema_electrico.mp4", "escenas": [
-   {"id": "a", "desde": "Los costes del sistema eléctrico", "fondo": "centro_logistico", "zoom": [1.0, 1.08], "capas": [
+   {"id": "a", "desde": "Los costes del sistema eléctrico", "fondo": "torre_electrica", "zoom": [1.0, 1.08], "capas": [
      panel(640), cab("COSTES DEL SISTEMA 2026"),
      cifra(8510, 540, 150, sufijo=" M€", t=0.4), mano("Ministerio para la Transición Ecológica", 680, 42, t=0.6),
      masc("lupa", 880, 380, entra="der", t=0.2)]},
@@ -103,7 +103,7 @@ shorts = {
      masc("senala", 900, 240, t=0.2)]},
  ]},
  "06": {"salida": "../../output/SHORT_06_luz_espana_vs_europa.mp4", "escenas": [
-   {"id": "a", "desde": "¿Es la luz en España más cara", "fondo": "puerto_avion", "zoom": [1.0, 1.08], "capas": [
+   {"id": "a", "desde": "¿Es la luz en España más cara", "fondo": "torre_electrica", "zoom": [1.0, 1.08], "capas": [
      panel(640), cab("¿MÁS CARA QUE EN EUROPA?"),
      mano("Eurostat · 2025 · c/kWh", 480, 46, t=0.4),
      txt("España 28,4", 640, 90, color=ROJO, en="España, veintiocho coma cuatro"),

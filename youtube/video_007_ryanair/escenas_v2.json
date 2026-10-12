@@ -6,7 +6,7 @@
   {
    "id": "01",
    "desde": "El billete medio de Ryanair",
-   "fondo": "puerto_avion",
+   "fondo": "aeropuerto",
    "capas": [
     {
      "tipo": "panel",
@@ -118,7 +118,7 @@
   {
    "id": "03",
    "desde": "Primero, las presentaciones",
-   "fondo": "calle_comercial",
+   "fondo": "aeropuerto",
    "capas": [
     {
      "tipo": "panel",
@@ -338,7 +338,7 @@
   {
    "id": "06",
    "desde": "Con eso, ingresó quince mil",
-   "fondo": "puerto_avion",
+   "fondo": "aeropuerto",
    "capas": [
     {
      "tipo": "panel",
@@ -618,7 +618,7 @@
   {
    "id": "10",
    "desde": "Cada pasajero le deja",
-   "fondo": "supermercado",
+   "fondo": "avion_cabina",
    "capas": [
     {
      "tipo": "panel",
@@ -961,7 +961,7 @@
   {
    "id": "16",
    "desde": "Primera parada, y la más grande",
-   "fondo": "centro_logistico",
+   "fondo": "aeropuerto",
    "capas": [
     {
      "tipo": "panel",
@@ -1092,7 +1092,7 @@
   {
    "id": "18",
    "desde": "Tercera parada: los aeropuertos",
-   "fondo": "oficina_financiera",
+   "fondo": "avion_cabina",
    "capas": [
     {
      "tipo": "panel",
@@ -1357,7 +1357,7 @@
   {
    "id": "22",
    "desde": "Y esto no se detiene",
-   "fondo": "puerto_avion",
+   "fondo": "aeropuerto",
    "capas": [
     {
      "tipo": "panel",
@@ -1602,7 +1602,7 @@
   {
    "id": "26",
    "desde": "Así que, la próxima vez que mires",
-   "fondo": "supermercado",
+   "fondo": "avion_cabina",
    "capas": [
     {
      "tipo": "panel",
