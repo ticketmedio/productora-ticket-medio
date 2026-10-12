@@ -1,0 +1,118 @@
+{
+ "n": 9,
+ "nombre": "marcas blancas de Mercadona",
+ "titulo": "¿Quién fabrica las marcas blancas de Mercadona? La ley no obliga a decírtelo",
+ "alternativas": [
+  "El sistema de proveedores de Mercadona: 4 de ellos facturan más de 1.000 millones",
+  "¿Quién fabrica tu marca blanca? Cómo buscarlo en el registro de la AESAN"
+ ],
+ "miniatura": "¿QUIÉN FABRICA TU MARCA BLANCA?",
+ "etiquetas": "marcas blancas Mercadona, quién fabrica Hacendado, Hacendado, marca blanca, proveedores de Mercadona, registro sanitario, etiqueta alimentos, AESAN, Casa Tarradellas, Incarlopsa, García Carrión, Covap, dónde va tu dinero, economía España, Ticket Medio",
+ "descripcion": "Mercadona tiene más de 2.000 proveedores e interproveedores especialistas y cuatro de ellos facturan más de 1.000 millones de euros. Pero ¿quién fabrica de verdad lo que compras con su marca? La ley europea no obliga a que la etiqueta lo diga: figura quien comercializa el producto, no quien lo fabrica. Aquí, la única pista oficial (el óvalo de los productos de origen animal y el buscador público de la AESAN), lo que sí se sabe de los proveedores (inversión, ventas y dependencia) y lo que NO se sabe.\n\nNo afirmamos qué empresa fabrica qué producto: no hemos encontrado ninguna lista pública oficial. Cifras de proveedores: El Español (20/3/2026, inversión 2025, atribuida a Mercadona) y Cinco Días (7/1/2026, cuentas de 2024 de los 20 mayores proveedores, vía Xataka). El cálculo de 3 céntimos de beneficio por euro es propio y orientativo (ejercicios distintos; sus ventas no son solo a Mercadona). Las fuentes, en el comentario fijado.",
+ "capitulos": [
+  [
+   "Quién fabrica tu marca blanca",
+   "Mercadona tiene más de dos mil"
+  ],
+  [
+   "La etiqueta: quién aparece",
+   "Empecemos por la etiqueta"
+  ],
+  [
+   "El óvalo, la pista que sí tienes",
+   "La excepción son los productos"
+  ],
+  [
+   "Cómo buscarlo en el registro",
+   "Y con ese número puedes"
+  ],
+  [
+   "Los proveedores de Mercadona",
+   "Entonces, ¿qué sabemos"
+  ],
+  [
+   "Las cuentas del Registro Mercantil",
+   "Y hay otra fuente"
+  ],
+  [
+   "La cuenta del beneficio",
+   "Y ahora, la cuenta que nos gusta"
+  ],
+  [
+   "Lo que no sabemos",
+   "Vamos con lo que no sabemos"
+  ],
+  [
+   "El ticket completo",
+   "Así que, la próxima vez que cojas"
+  ]
+ ],
+ "vistos": "Vídeos anteriores: Mercadona, Zara, El Corte Inglés, Lidl, la factura de la luz y Ryanair, con el mismo método.",
+ "hashtags": "#Mercadona #MarcasBlancas #Economía",
+ "comentario": [
+  "· Quién aparece en la etiqueta: Reglamento (UE) 1169/2011, arts. 8.1 y 9.1.h: https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32011R1169",
+  "· Número de registro sanitario y buscador público: AESAN, «Empresas/Establecimientos alimentarios registrados en España»: https://www.aesan.gob.es/registro-sanitario/empresas-alimentarias",
+  "· Marca de identificación (óvalo) en productos de origen animal: AESAN, nota «Marca de identificación en productos de origen animal» (Reglamento CE 853/2004, anexo II, sección I): https://www.aesan.gob.es/seguridad-alimentaria/higiene-alimentos/marca-identificacion",
+  "· Más de 2.000 proveedores e interproveedores y 20 mayores proveedores (ventas 2024, beneficios, dependencia): Cinco Días (7/1/2026), vía Xataka (23/2/2026).",
+  "· Inversión de los proveedores en 2025 (1.700 M€, 5.200 empleos, Casa Tarradellas 117 M€) y más de 14.000 proveedores del ecosistema: El Español (20/3/2026), información de Mercadona.",
+  "· Beneficio de Mercadona (≈ 4,1 c por euro): Memoria Anual 2025 de Mercadona. El de los 20 proveedores (≈ 3 c por euro, 360 M€ / 12.000 M€) es un cálculo propio con ejercicios distintos y ventas que no son solo a Mercadona."
+ ],
+ "shorts": [
+  {
+   "id": "01",
+   "archivo": "SHORT_01_la_ley_no_obliga.mp4",
+   "dia": "sábado 21/11",
+   "titulo": "La ley no obliga a que tu marca blanca diga quién la fabrica",
+   "descripcion": "Según el Reglamento (UE) 1169/2011, el responsable de la información alimentaria es el operador con cuyo nombre se comercializa el alimento, y es su nombre y dirección lo que figura en la etiqueta: el de quien lo vende, no necesariamente el de quien lo fabrica.",
+   "hashtags": "#MarcasBlancas #Mercadona #Etiquetas"
+  },
+  {
+   "id": "02",
+   "archivo": "SHORT_02_el_ovalo.mp4",
+   "dia": "lunes 23/11",
+   "titulo": "El óvalo de la etiqueta: el código que revela la fábrica",
+   "descripcion": "Los productos de origen animal (carne, leche, queso, pescado) llevan una marca ovalada con las siglas del país (ES) y el número de autorización del establecimiento. Fuente: AESAN, marca de identificación (Reglamento CE 853/2004).",
+   "hashtags": "#Etiquetado #AESAN #Alimentación"
+  },
+  {
+   "id": "03",
+   "archivo": "SHORT_03_buscar_fabrica.mp4",
+   "dia": "miércoles 25/11",
+   "titulo": "Cómo buscar la fábrica de un producto en el registro de la AESAN",
+   "descripcion": "La AESAN tiene un buscador público de empresas y establecimientos alimentarios registrados en España. Con el número del óvalo ves qué establecimiento es, no para quién fabrica. Fuente: AESAN, RGSEAA.",
+   "hashtags": "#AESAN #Etiquetas #Consumo"
+  },
+  {
+   "id": "04",
+   "archivo": "SHORT_04_cuatro_gigantes.mp4",
+   "dia": "domingo 22/11",
+   "titulo": "4 proveedores de Mercadona facturan más de 1.000 millones cada uno",
+   "descripcion": "Según Cinco Días (cuentas de 2024 en el Registro Mercantil), Casa Tarradellas, Incarlopsa, J. García Carrión y Covap superaron los 1.000 M€ de ventas; los 20 mayores proveedores, más de 12.000 M€. Sus ventas no son solo a Mercadona.",
+   "hashtags": "#Mercadona #Proveedores #Economía"
+  },
+  {
+   "id": "05",
+   "archivo": "SHORT_05_cuatro_vs_tres.mp4",
+   "dia": "martes 24/11",
+   "titulo": "¿Gana más Mercadona o quienes fabrican para ella? 4 c frente a 3 c",
+   "descripcion": "Mercadona se queda con ≈ 4,1 céntimos por euro (Memoria 2025). Los 20 mayores proveedores: más de 360 M€ de beneficio sobre más de 12.000 M€ de ventas (2024), ≈ 3 c. Cálculo propio, ejercicios distintos y ventas que no son solo a Mercadona.",
+   "hashtags": "#Mercadona #Economía #Márgenes"
+  },
+  {
+   "id": "06",
+   "archivo": "SHORT_06_inversion_proveedores.mp4",
+   "dia": "jueves 26/11",
+   "titulo": "Los proveedores de Mercadona invirtieron 1.700 millones en 2025",
+   "descripcion": "Según la información de Mercadona publicada por El Español (20/3/2026): 1.700 M€ de inversión de proveedores e interproveedores y 5.200 empleos en 2025; la mayor, Casa Tarradellas, 117 M€.",
+   "hashtags": "#Mercadona #Inversión #Economía"
+  },
+  {
+   "id": "07",
+   "archivo": "SHORT_07_dependencia_53_94.mp4",
+   "dia": "viernes 27/11",
+   "titulo": "Hay empresas que venden hasta el 94 % a Mercadona",
+   "descripcion": "Según Cinco Días (7/1/2026), algunas de las 20 mayores proveedoras declaran que entre el 53 % y el 94 % de sus ventas están ligadas a Mercadona. El diario no dice cuáles.",
+   "hashtags": "#Mercadona #Proveedores #Economía"
+  }
+ ]
+}

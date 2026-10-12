@@ -1,0 +1,24 @@
+# INVESTIGACIÓN — Vídeo 009: MARCAS BLANCAS DE MERCADONA
+### «¿Quién fabrica las marcas blancas de Mercadona? La ley no obliga a decírtelo»
+
+Fecha: 12/10/2026. **Por qué este tema (informes diarios, `herramientas/briefing.py`):** el ángulo «quién fabrica las marcas blancas» (VETERINARIO GRATIS, 2,06 M de suscriptores, «¿Quién fabrica las marcas blancas de Lidl, Carrefour y Dia?», 159.898 visualizaciones en 12:10) aparece en los informes de mercado del 11 y 12/10; los «cómo gana dinero X» genéricos de canales pequeños hacen 1–200. Pedido por el usuario: usar los informes antes de producir. Ya hicimos un Short sobre «¿Quién fabrica Hacendado?» en el vídeo 2: este vídeo lo desarrolla con la ley y los datos de los proveedores.
+**Leyenda:** **D** = fuente oficial · **P** = prensa citando documentos · **C** = cálculo propio · **!** = no confirmado.
+
+## 1. LA LEY: QUIÉN APARECE EN LA ETIQUETA [D]
+- Reglamento (UE) 1169/2011, art. 8.1: «El operador de empresa alimentaria responsable de la información alimentaria será el operador con cuyo nombre o razón social se comercialice el alimento»; art. 9.1.h: la etiqueta lleva «el nombre o la razón social y la dirección del operador» (no del fabricante). https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32011R1169
+- AESAN: el número RGSEAA «es meramente de identificación administrativa; el operador no está obligado a utilizarlo en el etiquetado de sus productos, salvo en la “marca sanitaria” conforme al Reglamento 853/2004». https://www.aesan.gob.es/registro-sanitario/empresas-alimentarias
+- Productos de origen animal (carne, lácteos, pescado…): llevan la **marca de identificación** ovalada. Reglamento (CE) 853/2004, anexo II, sección I (según la nota de la AESAN, aprobada 15/3/2023 y modificada 4/12/2024): «La marca deberá indicar el nombre del país…» (ES) y «el número de autorización del establecimiento»; las marcas fijadas en establecimientos de la UE «deberán tener una forma oval». Excepciones: la miel y los insectos; los huevos con código de centro de embalado; los productos compuestos con ingredientes vegetales y animales no llevan la marca. https://www.aesan.gob.es/dam/jcr:0690b894-7f86-4b6a-8fcf-0d4dd5258058/marcado_identificacion_actualizado.pdf.pdf y https://www.aesan.gob.es/seguridad-alimentaria/higiene-alimentos/marca-identificacion
+- Buscador público: AESAN, «Empresas/Establecimientos alimentarios registrados en España» (RGSEAA): permite consultar las empresas inscritas en el registro; hay además registros autonómicos y la Lista europea de establecimientos. El registro identifica la empresa/establecimiento inscrito, no al dueño de la marca.
+
+## 2. LOS PROVEEDORES DE MERCADONA [P, citando la memoria de Mercadona y cuentas depositadas]
+- «Más de 2.000» proveedores e interproveedores especialistas (Xataka, 23/2/2026, citando la memoria anual 2024 de Mercadona). Ecosistema de «más de 14.000 proveedores de producto, no comerciales y de servicio» (El Español, 20/3/2026, memoria 2025).
+- Inversión de proveedores e interproveedores en 2025: **1.700 M€** y **5.200** empleos; la mayor, **Casa Tarradellas, 117 M€** (104 en 2024); Vall Companys 70; Avinatur 60; Incarlopsa 60; Essity 45; Familia Martínez 40; Cerealto 38; RNB 35; Profand 33,1; Covap 29; Entrepinares 27 (El Español, 20/3/2026). Mercadona atribuye la lista.
+- Los **20 mayores proveedores** facturaron **más de 12.000 M€ en 2024** (+18 % sobre 2022); beneficios agregados **más de 360 M€** (+5 %); los cuatro primeros —**Casa Tarradellas, Incarlopsa, J. García Carrión y Covap**— superaron los 1.000 M€ cada uno (Cinco Días, 7/1/2026, con las memorias depositadas en el Registro Mercantil; vía Xataka, 23/2/2026). Otros de la lista: Profand, Importaco, Jealsa, Entrepinares, Virto, Cerealto, Schreiber Foods, Delisano, Huevos Guillén, RNB Cosméticos, Alacant, SPB, Laboratorios Maverick, Hijos de Juan Pujante, Arrocería Pons.
+- Dependencia: algunas empresas declaran que entre el **53 % y el 94 %** de sus ventas están ligadas a Mercadona (el artículo no dice cuáles).
+- Cálculo propio: 360 / 12.000 = **≈ 3 céntimos de beneficio por euro de ventas** de esos 20 proveedores (2024; sus ventas incluyen clientes distintos de Mercadona), frente a ≈ 4,1 c de Mercadona (2025, Memoria Anual 2025, ver `archivo/video_002_mercadona/10_FUENTES.md`).
+
+## 3. LO QUE NO SE PUEDE AFIRMAR (!)
+- No existe (que se haya encontrado) una lista pública oficial que asocie cada producto Hacendado con su fabricante: ni la memoria ni la prensa citada la dan. NO se afirma «X fabrica el producto Y».
+- Que una empresa sea «proveedor de Mercadona» no significa que fabrique marca blanca: también venden marcas de fabricante. Xataka dice: «El artículo no asocia ninguna marca con un fabricante concreto».
+- El número de la marca ovalada identifica el establecimiento, que puede fabricar para varias cadenas.
+- Cifras de proveedores de 2024 (cuentas) y de 2025 (inversión): periodos distintos, se dicen.

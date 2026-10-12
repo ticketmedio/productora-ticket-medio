@@ -1,0 +1,109 @@
+{
+ "formato": "vertical",
+ "fondos": "../../fondos",
+ "musica": "../../audio/musica.mp3",
+ "musica_db": -26,
+ "cola": 1.5,
+ "salida": "../../output/SHORT_02_el_ovalo.mp4",
+ "escenas": [
+  {
+   "id": "a",
+   "desde": "Hay un código en las etiquetas",
+   "fondo": "fabrica_alimentos",
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 60,
+     "y": 360,
+     "w": 960,
+     "h": 640
+    },
+    {
+     "tipo": "texto",
+     "texto": "EL ÓVALO",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "moneda",
+     "texto": "ES",
+     "r": 130,
+     "x": 540,
+     "y": 600,
+     "color": "#FFFDF6",
+     "t": 0.4
+    },
+    {
+     "tipo": "texto",
+     "texto": "+ nº de autorización de la fábrica",
+     "x": 540,
+     "y": 800,
+     "tam": 48,
+     "fuente": "mano",
+     "en": "número de autorización"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "lupa",
+     "x": 880,
+     "y": 1310,
+     "h": 360,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "b",
+   "desde": "Esa marca está en el envase",
+   "fondo": "#FFF3C4",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "PRODUCTOS DE ORIGEN ANIMAL",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "Carne · leche · queso · pescado",
+     "x": 540,
+     "y": 520,
+     "tam": 52,
+     "fuente": "mano",
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "Es la pista\nque sí tienes",
+     "x": 540,
+     "y": 780,
+     "tam": 80,
+     "color": "#E0521B",
+     "anim": "pop",
+     "en": "la pista que sí tienes"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "senala",
+     "x": 900,
+     "y": 1310,
+     "h": 280,
+     "t": 0.2
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "formato": "vertical",
+ "fondos": "../../fondos",
+ "musica": "../../audio/musica.mp3",
+ "musica_db": -26,
+ "cola": 1.5,
+ "salida": "../../output/SHORT_03_buscar_fabrica.mp4",
+ "escenas": [
+  {
+   "id": "a",
+   "desde": "Así se busca la fábrica",
+   "fondo": "#E6E0F5",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "BUSCADOR DE LA AESAN",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "1 · Apunta el nº del óvalo",
+     "x": 540,
+     "y": 480,
+     "tam": 52,
+     "fuente": "mano",
+     "t": 0.4
+    },
+    {
+     "tipo": "texto",
+     "texto": "2 · Búscalo en el registro público",
+     "x": 540,
+     "y": 620,
+     "tam": 50,
+     "fuente": "mano",
+     "en": "Metes el número"
+    },
+    {
+     "tipo": "texto",
+     "texto": "3 → qué establecimiento es",
+     "x": 540,
+     "y": 760,
+     "tam": 52,
+     "fuente": "mano",
+     "en": "qué empresa está inscrita"
+    },
+    {
+     "tipo": "sello",
+     "texto": "NO DICE PARA QUIÉN FABRICA",
+     "x": 540,
+     "y": 960,
+     "tam": 50,
+     "en": "no para quién fabrica"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "encoge_hombros",
+     "x": 920,
+     "y": 1310,
+     "h": 250,
+     "t": 0.2
+    }
+   ]
+  }
+ ]
+}

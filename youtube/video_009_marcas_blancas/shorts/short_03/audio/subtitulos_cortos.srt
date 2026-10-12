@@ -1,0 +1,51 @@
+1
+00:00:00,150 --> 00:00:01,345
+Así se busca la
+
+2
+00:00:01,345 --> 00:00:02,540
+fábrica de un producto
+
+3
+00:00:02,540 --> 00:00:03,735
+en el registro público
+
+4
+00:00:03,735 --> 00:00:04,931
+de la AESAN.
+
+5
+00:00:05,878 --> 00:00:07,175
+Metes el número y
+
+6
+00:00:07,175 --> 00:00:08,472
+te dice qué empresa
+
+7
+00:00:08,472 --> 00:00:09,769
+está inscrita ahí.
+
+8
+00:00:09,769 --> 00:00:11,020
+Ojo con una cosa:
+
+9
+00:00:11,020 --> 00:00:12,270
+te dice qué establecimiento
+
+10
+00:00:12,270 --> 00:00:13,521
+es, no para quién
+
+11
+00:00:13,521 --> 00:00:14,772
+fabrica.
+
+12
+00:00:14,772 --> 00:00:16,648
+Una misma fábrica puede
+
+13
+00:00:16,648 --> 00:00:18,524
+producir para varios clientes.

@@ -1,0 +1,182 @@
+{
+ "formato": "vertical",
+ "fondos": "../../fondos",
+ "musica": "../../audio/musica.mp3",
+ "musica_db": -26,
+ "cola": 1.5,
+ "salida": "../../output/SHORT_04_cuatro_gigantes.mp4",
+ "escenas": [
+  {
+   "id": "a",
+   "desde": "Cuatro proveedores de Mercadona",
+   "fondo": "oficina_financiera",
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 60,
+     "y": 360,
+     "w": 960,
+     "h": 640
+    },
+    {
+     "tipo": "texto",
+     "texto": "> 1.000 M€ CADA UNO",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 4,
+     "x": 540,
+     "y": 540,
+     "tam": 190,
+     "color": "#E0521B",
+     "t": 0.4
+    },
+    {
+     "tipo": "texto",
+     "texto": "proveedores de Mercadona (ventas 2024)",
+     "x": 540,
+     "y": 700,
+     "tam": 44,
+     "fuente": "mano",
+     "t": 0.6
+    },
+    {
+     "tipo": "mascota",
+     "pose": "sorprendido",
+     "x": 880,
+     "y": 1310,
+     "h": 380,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "b",
+   "desde": "Cuatro de ellos superaron",
+   "fondo": "#E3E7EC",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "LOS CUATRO",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "rect",
+     "x": 110,
+     "y": 460,
+     "w": 860,
+     "h": 100,
+     "color": "#F5B301",
+     "texto": "Casa Tarradellas",
+     "tam": 42,
+     "en": "Casa Tarradellas",
+     "dur": 0.7
+    },
+    {
+     "tipo": "rect",
+     "x": 110,
+     "y": 590,
+     "w": 860,
+     "h": 100,
+     "color": "#9CC5E8",
+     "texto": "Incarlopsa",
+     "tam": 42,
+     "en": "Incarlopsa",
+     "dur": 0.7
+    },
+    {
+     "tipo": "rect",
+     "x": 110,
+     "y": 720,
+     "w": 860,
+     "h": 100,
+     "color": "#8FD18F",
+     "texto": "J. García Carrión",
+     "tam": 42,
+     "en": "García Carrión",
+     "dur": 0.7
+    },
+    {
+     "tipo": "rect",
+     "x": 110,
+     "y": 850,
+     "w": 860,
+     "h": 100,
+     "color": "#D9D2C0",
+     "texto": "Covap",
+     "tam": 42,
+     "en": "García Carrión",
+     "t": 2.0,
+     "dur": 0.7
+    },
+    {
+     "tipo": "mascota",
+     "pose": "senala",
+     "x": 900,
+     "y": 1310,
+     "h": 220,
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "c",
+   "desde": "Ojo con lo que significa",
+   "fondo": "#FFF3C4",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "OJO",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "Proveedor de Mercadona ≠ fabricar\nsu marca blanca",
+     "x": 540,
+     "y": 520,
+     "tam": 50,
+     "fuente": "mano",
+     "en": "no quiere decir"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Y venden también a otros clientes",
+     "x": 540,
+     "y": 800,
+     "tam": 50,
+     "fuente": "mano",
+     "en": "otros clientes"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "encoge_hombros",
+     "x": 900,
+     "y": 1310,
+     "h": 280,
+     "t": 0.2
+    }
+   ]
+  }
+ ]
+}

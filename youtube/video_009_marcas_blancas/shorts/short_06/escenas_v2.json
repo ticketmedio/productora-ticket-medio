@@ -1,0 +1,139 @@
+{
+ "formato": "vertical",
+ "fondos": "../../fondos",
+ "musica": "../../audio/musica.mp3",
+ "musica_db": -26,
+ "cola": 1.5,
+ "salida": "../../output/SHORT_06_inversion_proveedores.mp4",
+ "escenas": [
+  {
+   "id": "a",
+   "desde": "¿Cuánto invierten los proveedores",
+   "fondo": "fabrica_alimentos",
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 60,
+     "y": 360,
+     "w": 960,
+     "h": 640
+    },
+    {
+     "tipo": "texto",
+     "texto": "INVERSIÓN 2025",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 1700,
+     "x": 540,
+     "y": 540,
+     "tam": 160,
+     "sufijo": " M€",
+     "t": 0.5
+    },
+    {
+     "tipo": "texto",
+     "texto": "de proveedores · 5.200 empleos (según Mercadona)",
+     "x": 540,
+     "y": 700,
+     "tam": 42,
+     "fuente": "mano",
+     "t": 0.8
+    },
+    {
+     "tipo": "mascota",
+     "pose": "contento",
+     "x": 880,
+     "y": 1310,
+     "h": 380,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "b",
+   "desde": "El que más invirtió",
+   "fondo": "#E3E7EC",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "LOS QUE MÁS INVIRTIERON",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "rect",
+     "x": 110,
+     "y": 460,
+     "w": 860,
+     "h": 100,
+     "color": "#F5B301",
+     "texto": "Casa Tarradellas 117 M€",
+     "tam": 38,
+     "en": "Casa Tarradellas",
+     "dur": 0.7
+    },
+    {
+     "tipo": "rect",
+     "x": 110,
+     "y": 590,
+     "w": 600,
+     "h": 100,
+     "color": "#9CC5E8",
+     "texto": "Vall Companys 70",
+     "tam": 38,
+     "en": "Vall Companys",
+     "dur": 0.7
+    },
+    {
+     "tipo": "rect",
+     "x": 110,
+     "y": 720,
+     "w": 520,
+     "h": 100,
+     "color": "#8FD18F",
+     "texto": "Avinatur 60",
+     "tam": 38,
+     "en": "Avinatur",
+     "dur": 0.7
+    },
+    {
+     "tipo": "rect",
+     "x": 110,
+     "y": 850,
+     "w": 520,
+     "h": 100,
+     "color": "#D9D2C0",
+     "texto": "Incarlopsa 60",
+     "tam": 38,
+     "en": "Incarlopsa",
+     "t": 1.2,
+     "dur": 0.7
+    },
+    {
+     "tipo": "mascota",
+     "pose": "senala",
+     "x": 900,
+     "y": 1310,
+     "h": 220,
+     "t": 0.2
+    }
+   ]
+  }
+ ]
+}

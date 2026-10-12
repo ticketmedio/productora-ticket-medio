@@ -1,0 +1,15 @@
+1
+00:00:00,150 --> 00:00:04,931
+Así se busca la fábrica de un producto en el registro público de la AESAN.
+
+2
+00:00:05,878 --> 00:00:09,769
+Metes el número y te dice qué empresa está inscrita ahí.
+
+3
+00:00:09,769 --> 00:00:14,772
+Ojo con una cosa: te dice qué establecimiento es, no para quién fabrica.
+
+4
+00:00:14,772 --> 00:00:18,524
+Una misma fábrica puede producir para varios clientes.

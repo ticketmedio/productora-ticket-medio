@@ -1,0 +1,15 @@
+1
+00:00:00,150 --> 00:00:02,770
+¿Cuánto invierten los proveedores de Mercadona?
+
+2
+00:00:03,504 --> 00:00:11,771
+sus proveedores especialistas invirtieron mil setecientos millones de euros y crearon cinco mil doscientos empleos.
+
+3
+00:00:11,771 --> 00:00:17,020
+El que más invirtió fue Casa Tarradellas, con ciento diecisiete millones.
+
+4
+00:00:17,020 --> 00:00:23,274
+Le siguieron Vall Companys, con setenta, y Avinatur e Incarlopsa, con sesenta cada una.

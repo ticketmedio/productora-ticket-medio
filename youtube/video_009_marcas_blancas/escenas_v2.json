@@ -1,0 +1,1222 @@
+{
+ "musica": "audio/musica.mp3",
+ "musica_db": -26,
+ "cola": 3,
+ "escenas": [
+  {
+   "id": "01",
+   "desde": "Mercadona tiene más de dos mil",
+   "fondo": "pasillo_marca_blanca",
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 90,
+     "y": 120,
+     "w": 1230,
+     "h": 870,
+     "t": 0
+    },
+    {
+     "tipo": "texto",
+     "texto": "Mercadona · proveedores",
+     "x": 700,
+     "y": 230,
+     "tam": 56,
+     "fuente": "mano",
+     "t": 0.2
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 2000,
+     "x": 380,
+     "y": 420,
+     "tam": 150,
+     "prefijo": "+",
+     "en": "más de dos mil proveedores"
+    },
+    {
+     "tipo": "texto",
+     "texto": "proveedores e interproveedores",
+     "x": 380,
+     "y": 540,
+     "tam": 40,
+     "fuente": "mano",
+     "en": "más de dos mil proveedores"
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 4,
+     "x": 1000,
+     "y": 420,
+     "tam": 170,
+     "color": "#E0521B",
+     "en": "cuatro de ellos"
+    },
+    {
+     "tipo": "texto",
+     "texto": "facturan > 1.000 M€ cada uno",
+     "x": 1000,
+     "y": 540,
+     "tam": 40,
+     "fuente": "mano",
+     "en": "mil millones de euros cada uno"
+    },
+    {
+     "tipo": "sello",
+     "texto": "¿QUIÉN FABRICA TU MARCA BLANCA?",
+     "x": 700,
+     "y": 800,
+     "tam": 56,
+     "en": "¿quién fabrica de verdad"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "pensativo",
+     "x": 1630,
+     "y": 1015,
+     "h": 520,
+     "entra": "der",
+     "t": 0.3
+    }
+   ],
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "fuente": "El Español (20/3/2026) y Cinco Días (7/1/2026), vía Xataka (23/2/2026)"
+  },
+  {
+   "id": "02",
+   "desde": "Y aquí va lo sorprendente",
+   "fondo": "#FFF3C4",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "La ley NO obliga a que\nla etiqueta te lo diga",
+     "x": 800,
+     "y": 330,
+     "tam": 80,
+     "color": "#E0521B",
+     "anim": "pop",
+     "t": 0.4,
+     "en": "la ley no obliga"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "sorprendido",
+     "x": 1620,
+     "y": 1015,
+     "h": 520,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "03",
+   "desde": "Hoy vamos a abrir el ticket",
+   "fondo": "#E3E7EC",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "El ticket de una marca blanca",
+     "x": 800,
+     "y": 260,
+     "tam": 76,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "No vamos a repartir un euro:\nvamos a seguir la pista",
+     "x": 800,
+     "y": 480,
+     "tam": 56,
+     "fuente": "mano",
+     "en": "seguir la pista"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Con la ley y los datos públicos",
+     "x": 800,
+     "y": 730,
+     "tam": 56,
+     "fuente": "mano",
+     "papel": true,
+     "en": "con la ley en la mano"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "lupa",
+     "x": 1620,
+     "y": 1015,
+     "h": 520,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "04",
+   "desde": "Empecemos por la etiqueta",
+   "fondo": "pasillo_marca_blanca",
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 90,
+     "y": 120,
+     "w": 1230,
+     "h": 870,
+     "t": 0
+    },
+    {
+     "tipo": "texto",
+     "texto": "LA ETIQUETA",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "Responsable de la información:",
+     "x": 700,
+     "y": 360,
+     "tam": 52,
+     "fuente": "mano",
+     "en": "responsable de la información"
+    },
+    {
+     "tipo": "texto",
+     "texto": "quien lo COMERCIALIZA",
+     "x": 700,
+     "y": 480,
+     "tam": 76,
+     "color": "#E0521B",
+     "en": "comercializa el alimento"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Nombre y dirección de ese operador",
+     "x": 700,
+     "y": 650,
+     "tam": 52,
+     "fuente": "mano",
+     "en": "nombre y la dirección"
+    },
+    {
+     "tipo": "texto",
+     "texto": "quien lo vende ≠ quien lo fabrica",
+     "x": 700,
+     "y": 820,
+     "tam": 60,
+     "papel": true,
+     "en": "de quien lo vende"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "senala",
+     "x": 1660,
+     "y": 1015,
+     "h": 500,
+     "mira": "izq",
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "fuente": "Reglamento (UE) 1169/2011, arts. 8 y 9"
+  },
+  {
+   "id": "05",
+   "desde": "La Agencia Española de Seguridad",
+   "fondo": "#F4E9D0",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "EL Nº DE REGISTRO SANITARIO",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "«Es meramente de identificación administrativa»",
+     "x": 700,
+     "y": 400,
+     "tam": 50,
+     "fuente": "mano",
+     "en": "identificación administrativa"
+    },
+    {
+     "tipo": "texto",
+     "texto": "El operador NO está obligado a\nponerlo en la etiqueta",
+     "x": 700,
+     "y": 600,
+     "tam": 62,
+     "color": "#E0521B",
+     "en": "no está obligado"
+    },
+    {
+     "tipo": "texto",
+     "texto": "…salvo en la marca sanitaria",
+     "x": 700,
+     "y": 830,
+     "tam": 52,
+     "fuente": "mano",
+     "papel": true,
+     "t": 2.5
+    },
+    {
+     "tipo": "mascota",
+     "pose": "normal",
+     "x": 1640,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "AESAN, Empresas/Establecimientos alimentarios registrados en España (RGSEAA)"
+  },
+  {
+   "id": "06",
+   "desde": "La excepción son los productos",
+   "fondo": "fabrica_alimentos",
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 90,
+     "y": 120,
+     "w": 1230,
+     "h": 870,
+     "t": 0
+    },
+    {
+     "tipo": "texto",
+     "texto": "LA EXCEPCIÓN: ORIGEN ANIMAL",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "Carne · leche · queso · pescado",
+     "x": 700,
+     "y": 360,
+     "tam": 54,
+     "fuente": "mano",
+     "en": "carne, leche, queso"
+    },
+    {
+     "tipo": "moneda",
+     "texto": "ES",
+     "r": 130,
+     "x": 400,
+     "y": 640,
+     "color": "#FFFDF6",
+     "en": "las siglas del país"
+    },
+    {
+     "tipo": "texto",
+     "texto": "nº de autorización\ndel establecimiento",
+     "x": 920,
+     "y": 640,
+     "tam": 54,
+     "en": "número de autorización"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Marca ovalada en el envase o la etiqueta: «la pista que sí tienes»",
+     "x": 700,
+     "y": 880,
+     "tam": 44,
+     "fuente": "mano",
+     "en": "es la pista"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "lupa",
+     "x": 1670,
+     "y": 1015,
+     "h": 500,
+     "mira": "izq",
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "fuente": "AESAN, Marca de identificación (Reg. CE 853/2004, anexo II)"
+  },
+  {
+   "id": "07",
+   "desde": "Y con ese número puedes hacer algo",
+   "fondo": "#E6E0F5",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "EL BUSCADOR DE LA AESAN",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "1 · Apunta el nº del óvalo",
+     "x": 700,
+     "y": 380,
+     "tam": 56,
+     "fuente": "mano",
+     "en": "Y con ese número"
+    },
+    {
+     "tipo": "texto",
+     "texto": "2 · Búscalo en el registro público",
+     "x": 700,
+     "y": 520,
+     "tam": 56,
+     "fuente": "mano",
+     "en": "buscador público"
+    },
+    {
+     "tipo": "texto",
+     "texto": "3 → qué establecimiento es",
+     "x": 700,
+     "y": 660,
+     "tam": 56,
+     "fuente": "mano",
+     "en": "qué empresa está inscrita"
+    },
+    {
+     "tipo": "sello",
+     "texto": "OJO: NO DICE PARA QUIÉN FABRICA",
+     "x": 700,
+     "y": 860,
+     "tam": 52,
+     "en": "no para quién fabrica"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "encoge_hombros",
+     "x": 1640,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "AESAN, consulta al registro RGSEAA"
+  },
+  {
+   "id": "08",
+   "desde": "Hay excepciones",
+   "fondo": "#FFF3C4",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "NO LLEVAN LA MARCA",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "· Huevos con código de centro de embalaje",
+     "x": 700,
+     "y": 380,
+     "tam": 46,
+     "en": "los huevos"
+    },
+    {
+     "tipo": "texto",
+     "texto": "· Productos compuestos (animal + vegetal)",
+     "x": 700,
+     "y": 510,
+     "tam": 46,
+     "en": "productos compuestos"
+    },
+    {
+     "tipo": "texto",
+     "texto": "· Productos vegetales: pasta, galletas…",
+     "x": 700,
+     "y": 640,
+     "tam": 46,
+     "en": "productos vegetales"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "normal",
+     "x": 1660,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "AESAN, Marca de identificación (Reg. CE 853/2004, anexo II)"
+  },
+  {
+   "id": "09",
+   "desde": "Entonces, ¿qué sabemos",
+   "fondo": "oficina_financiera",
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 90,
+     "y": 120,
+     "w": 1230,
+     "h": 870,
+     "t": 0
+    },
+    {
+     "tipo": "texto",
+     "texto": "LOS PROVEEDORES",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 2000,
+     "x": 450,
+     "y": 450,
+     "tam": 150,
+     "prefijo": "+",
+     "en": "más de dos mil proveedores"
+    },
+    {
+     "tipo": "texto",
+     "texto": "proveedores e interproveedores\nespecialistas (memoria)",
+     "x": 450,
+     "y": 590,
+     "tam": 42,
+     "fuente": "mano",
+     "en": "más de dos mil proveedores"
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 14000,
+     "x": 1020,
+     "y": 450,
+     "tam": 150,
+     "prefijo": "+",
+     "t": 1.0
+    },
+    {
+     "tipo": "texto",
+     "texto": "en todo el ecosistema\n(con servicios y transporte)",
+     "x": 1020,
+     "y": 590,
+     "tam": 42,
+     "fuente": "mano",
+     "t": 1.2
+    },
+    {
+     "tipo": "mascota",
+     "pose": "saluda",
+     "x": 1660,
+     "y": 1015,
+     "h": 500,
+     "mira": "izq",
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "fuente": "El Español (20/3/2026) y Cinco Días (7/1/2026), vía Xataka (23/2/2026)"
+  },
+  {
+   "id": "10",
+   "desde": "En dos mil veinticinco, según la propia cadena",
+   "fondo": "fabrica_alimentos",
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 90,
+     "y": 120,
+     "w": 1230,
+     "h": 870,
+     "t": 0
+    },
+    {
+     "tipo": "texto",
+     "texto": "INVERSIÓN 2025 (según Mercadona)",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 1700,
+     "x": 440,
+     "y": 440,
+     "tam": 140,
+     "sufijo": " M€",
+     "en": "mil setecientos millones"
+    },
+    {
+     "tipo": "texto",
+     "texto": "de proveedores",
+     "x": 440,
+     "y": 570,
+     "tam": 44,
+     "fuente": "mano",
+     "en": "mil setecientos millones"
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 5200,
+     "x": 1000,
+     "y": 440,
+     "tam": 140,
+     "en": "cinco mil doscientos"
+    },
+    {
+     "tipo": "texto",
+     "texto": "empleos creados",
+     "x": 1000,
+     "y": 570,
+     "tam": 44,
+     "fuente": "mano",
+     "en": "cinco mil doscientos"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Casa Tarradellas 117 · Vall Companys 70\nAvinatur 60 · Incarlopsa 60 (M€)",
+     "x": 700,
+     "y": 820,
+     "tam": 46,
+     "fuente": "mano",
+     "papel": true,
+     "en": "Casa Tarradellas"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "contento",
+     "x": 1660,
+     "y": 1015,
+     "h": 500,
+     "mira": "izq",
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "fuente": "El Español (20/3/2026), a partir de la información de Mercadona"
+  },
+  {
+   "id": "11",
+   "desde": "Y hay otra fuente",
+   "fondo": "#F4E9D0",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "LAS CUENTAS DEL REGISTRO MERCANTIL",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "Los 20 mayores proveedores, en 2024:",
+     "x": 700,
+     "y": 360,
+     "tam": 52,
+     "fuente": "mano",
+     "en": "los veinte mayores"
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 12000,
+     "x": 700,
+     "y": 540,
+     "tam": 170,
+     "prefijo": "+",
+     "sufijo": " M€",
+     "en": "más de doce mil millones"
+    },
+    {
+     "tipo": "texto",
+     "texto": "de ventas",
+     "x": 700,
+     "y": 660,
+     "tam": 48,
+     "fuente": "mano",
+     "en": "más de doce mil millones"
+    },
+    {
+     "tipo": "texto",
+     "texto": "+18 % frente a 2022",
+     "x": 700,
+     "y": 800,
+     "tam": 66,
+     "color": "#2E8B57",
+     "en": "dieciocho por ciento"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "pensativo",
+     "x": 1660,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "Cinco Días (7/1/2026), vía Xataka (23/2/2026)"
+  },
+  {
+   "id": "12",
+   "desde": "Cuatro de ellos superaron",
+   "fondo": "#E3E7EC",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "Superaron los 1.000 millones de euros:",
+     "x": 800,
+     "y": 210,
+     "tam": 54,
+     "fuente": "mano",
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 310,
+     "w": 1000,
+     "h": 100,
+     "color": "#F5B301",
+     "texto": "Casa Tarradellas",
+     "tam": 46,
+     "en": "Casa Tarradellas",
+     "dur": 0.7
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 440,
+     "w": 1000,
+     "h": 100,
+     "color": "#9CC5E8",
+     "texto": "Incarlopsa",
+     "tam": 46,
+     "en": "Incarlopsa",
+     "dur": 0.7
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 570,
+     "w": 1000,
+     "h": 100,
+     "color": "#8FD18F",
+     "texto": "J. García Carrión",
+     "tam": 46,
+     "en": "García Carrión",
+     "dur": 0.7
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 700,
+     "w": 1000,
+     "h": 100,
+     "color": "#D9D2C0",
+     "texto": "Covap",
+     "tam": 46,
+     "en": "García Carrión",
+     "t": 1.5,
+     "dur": 0.7
+    },
+    {
+     "tipo": "mascota",
+     "pose": "senala",
+     "x": 1660,
+     "y": 1015,
+     "h": 500,
+     "mira": "izq",
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "Cinco Días (7/1/2026), vía Xataka (23/2/2026): ventas de 2024"
+  },
+  {
+   "id": "13",
+   "desde": "Ojo con lo que significa",
+   "fondo": "#FFF3C4",
+   "capas": [
+    {
+     "tipo": "sello",
+     "texto": "OJO",
+     "x": 800,
+     "y": 240,
+     "tam": 90,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "Ser proveedor de Mercadona ≠ fabricar\nsu marca blanca",
+     "x": 800,
+     "y": 470,
+     "tam": 54,
+     "fuente": "mano",
+     "en": "no quiere decir que todo"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Y no todo lo que venden\nlo compra Mercadona",
+     "x": 800,
+     "y": 700,
+     "tam": 54,
+     "fuente": "mano",
+     "en": "ni que todo lo que vende"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "encoge_hombros",
+     "x": 1620,
+     "y": 1015,
+     "h": 520,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "14",
+   "desde": "Aun así, hay un dato revelador",
+   "fondo": "#E6E0F5",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "Hay empresas que declaran que sus ventas\nligadas a Mercadona son del…",
+     "x": 800,
+     "y": 250,
+     "tam": 52,
+     "fuente": "mano",
+     "t": 0.2
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 53,
+     "x": 450,
+     "y": 560,
+     "tam": 190,
+     "sufijo": " %",
+     "en": "cincuenta y tres"
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 94,
+     "x": 1150,
+     "y": 560,
+     "tam": 190,
+     "sufijo": " %",
+     "color": "#E0521B",
+     "en": "noventa y cuatro"
+    },
+    {
+     "tipo": "texto",
+     "texto": "(el diario no dice cuáles)",
+     "x": 800,
+     "y": 840,
+     "tam": 46,
+     "fuente": "mano",
+     "papel": true,
+     "t": 2.0
+    },
+    {
+     "tipo": "mascota",
+     "pose": "sorprendido",
+     "x": 1670,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "Cinco Días (7/1/2026), vía Xataka"
+  },
+  {
+   "id": "15",
+   "desde": "Y ahora, la cuenta que nos gusta",
+   "fondo": "#FFF3C4",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "Beneficio por cada euro de ventas",
+     "x": 800,
+     "y": 190,
+     "tam": 54,
+     "fuente": "mano",
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 290,
+     "w": 820,
+     "h": 110,
+     "color": "#F5B301",
+     "texto": "Mercadona ≈ 4,1 c",
+     "tam": 46,
+     "en": "Mercadona, en su último",
+     "dur": 0.8
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 430,
+     "w": 750,
+     "h": 110,
+     "color": "#9CC5E8",
+     "texto": "Sus 20 mayores proveedores ≈ 3 c",
+     "tam": 40,
+     "en": "unos tres céntimos",
+     "dur": 0.8
+    },
+    {
+     "tipo": "texto",
+     "texto": "360 M€ de beneficio / 12.000 M€ de ventas",
+     "x": 800,
+     "y": 640,
+     "tam": 46,
+     "fuente": "mano",
+     "en": "trescientos sesenta"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Cálculo propio: ejercicios distintos y ventas\nno solo a Mercadona. Con prudencia.",
+     "x": 800,
+     "y": 800,
+     "tam": 42,
+     "fuente": "mano",
+     "papel": true,
+     "en": "un cálculo nuestro"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "lupa",
+     "x": 1670,
+     "y": 1015,
+     "h": 500,
+     "mira": "izq",
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "Cinco Días (2024) · Mercadona, Memoria Anual 2025 · cálculo propio"
+  },
+  {
+   "id": "16",
+   "desde": "Vamos con lo que no sabemos",
+   "fondo": "#E3E7EC",
+   "capas": [
+    {
+     "tipo": "sello",
+     "texto": "LO QUE NO SABEMOS",
+     "x": 800,
+     "y": 250,
+     "tam": 80,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "No hay una lista pública oficial que diga\nqué fábrica hace cada producto",
+     "x": 800,
+     "y": 480,
+     "tam": 50,
+     "fuente": "mano",
+     "en": "ninguna lista pública oficial"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Ni la memoria ni la prensa la dan",
+     "x": 800,
+     "y": 680,
+     "tam": 52,
+     "fuente": "mano",
+     "papel": true,
+     "en": "ni la memoria"
+    },
+    {
+     "tipo": "texto",
+     "texto": "No diremos «X fabrica Y»",
+     "x": 800,
+     "y": 860,
+     "tam": 60,
+     "color": "#E0521B",
+     "en": "no te vamos a decir"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "encoge_hombros",
+     "x": 1640,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "17",
+   "desde": "Lo que sí puedes hacer",
+   "fondo": "pasillo_marca_blanca",
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 90,
+     "y": 120,
+     "w": 1230,
+     "h": 870,
+     "t": 0
+    },
+    {
+     "tipo": "texto",
+     "texto": "LO QUE SÍ PUEDES HACER",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "Mira el óvalo de tu etiqueta",
+     "x": 700,
+     "y": 400,
+     "tam": 60,
+     "fuente": "mano",
+     "en": "mirar el óvalo"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Apunta el número",
+     "x": 700,
+     "y": 560,
+     "tam": 60,
+     "fuente": "mano",
+     "en": "apuntar el número"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Consulta el registro de la AESAN",
+     "x": 700,
+     "y": 720,
+     "tam": 60,
+     "fuente": "mano",
+     "en": "consultar el registro"
+    },
+    {
+     "tipo": "texto",
+     "texto": "La única pista oficial",
+     "x": 700,
+     "y": 880,
+     "tam": 56,
+     "color": "#E0521B",
+     "en": "la única pista oficial"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "senala",
+     "x": 1660,
+     "y": 1015,
+     "h": 500,
+     "mira": "izq",
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "fuente": "AESAN, Marca de identificación (Reg. CE 853/2004, anexo II)"
+  },
+  {
+   "id": "18",
+   "desde": "Así que, la próxima vez que cojas",
+   "fondo": "supermercado",
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 90,
+     "y": 120,
+     "w": 1230,
+     "h": 870,
+     "t": 0
+    },
+    {
+     "tipo": "texto",
+     "texto": "EL VIAJE DE TU MARCA BLANCA",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "Etiqueta → el nombre de quien lo vende",
+     "x": 700,
+     "y": 400,
+     "tam": 52,
+     "fuente": "mano",
+     "en": "el nombre de quien lo vende"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Óvalo → (si lo lleva) el nº de la fábrica",
+     "x": 700,
+     "y": 560,
+     "tam": 52,
+     "fuente": "mano",
+     "en": "el número de la fábrica"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Detrás → miles de proveedores",
+     "x": 700,
+     "y": 720,
+     "tam": 52,
+     "fuente": "mano",
+     "en": "miles de proveedores"
+    },
+    {
+     "tipo": "texto",
+     "texto": "≈ 3 c de beneficio por euro",
+     "x": 700,
+     "y": 880,
+     "tam": 58,
+     "color": "#E0521B",
+     "en": "tres céntimos por euro"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "saluda",
+     "x": 1660,
+     "y": 1015,
+     "h": 500,
+     "mira": "izq",
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "zoom": [
+    1.0,
+    1.06
+   ]
+  },
+  {
+   "id": "19",
+   "desde": "La marca blanca no tiene",
+   "fondo": "#FFF3C4",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "Miles de fabricantes",
+     "x": 800,
+     "y": 270,
+     "tam": 84,
+     "t": 0.3,
+     "en": "miles de ellos"
+    },
+    {
+     "tipo": "texto",
+     "texto": "¿Quién fabrica tu producto?",
+     "x": 800,
+     "y": 460,
+     "tam": 62,
+     "fuente": "mano",
+     "en": "la pregunta ya no es"
+    },
+    {
+     "tipo": "texto",
+     "texto": "¿Por qué la ley deja que no lo sepas?",
+     "x": 800,
+     "y": 700,
+     "tam": 66,
+     "color": "#E0521B",
+     "anim": "pop",
+     "rot": -2,
+     "en": "por qué la ley"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "pensativo",
+     "x": 1650,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "20",
+   "desde": "Aquí, cada semana, abrimos",
+   "fondo": "#F5B301",
+   "capas": [
+    {
+     "tipo": "mascota",
+     "pose": "saluda",
+     "x": 960,
+     "y": 1015,
+     "h": 560,
+     "entra": "abajo",
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "TICKET MEDIO",
+     "x": 960,
+     "y": 170,
+     "tam": 150,
+     "anim": "pop",
+     "t": 0.3
+    },
+    {
+     "tipo": "texto",
+     "texto": "Cada semana, el ticket de algo que pagas todos los días",
+     "x": 960,
+     "y": 300,
+     "tam": 50,
+     "fuente": "mano",
+     "papel": true,
+     "t": 1.0
+    }
+   ],
+   "sin_marca": true
+  }
+ ]
+}

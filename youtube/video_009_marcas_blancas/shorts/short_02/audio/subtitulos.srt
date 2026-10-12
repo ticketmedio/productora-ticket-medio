@@ -1,0 +1,19 @@
+1
+00:00:00,150 --> 00:00:04,513
+Hay un código en las etiquetas que sí revela dónde se fabricó el producto.
+
+2
+00:00:04,903 --> 00:00:08,831
+Esos llevan una marca ovalada con las siglas del país,
+
+3
+00:00:08,831 --> 00:00:14,941
+por ejemplo ES, y el número de autorización del establecimiento donde se elaboraron.
+
+4
+00:00:14,941 --> 00:00:18,214
+Esa marca está en el envase o en la etiqueta.
+
+5
+00:00:18,214 --> 00:00:20,105
+Es la pista que sí tienes.

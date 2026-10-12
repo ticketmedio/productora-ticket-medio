@@ -101,10 +101,10 @@ VIDEOS = [  # nº, viernes de publicación, título corto
     (6, D(2026, 10, 30), "La factura de la luz: ¿dónde va cada euro?"),
     (7, D(2026, 11, 6), "Ryanair: cómo gana dinero con vuelos a 10 €"),
     (8, D(2026, 11, 13), "¿Qué pasa con lo que devuelves a Amazon?"),
-    (9, D(2026, 11, 20), "Black Friday: ¿de verdad es más barato?"),
-    (10, D(2026, 11, 27), "Primark: cómo vende una camiseta a 3 €"),
-    (11, D(2026, 12, 4), "Lotería de Navidad: ¿quién gana siempre?"),
-    (12, D(2026, 12, 11), "Correos pierde dinero: ¿por qué no cierra?"),
+    (9, D(2026, 11, 20), "¿Quién fabrica de verdad las marcas blancas de Mercadona?"),
+    (10, D(2026, 11, 27), "¿Cuál es el súper más barato? Los datos de 690 supermercados"),
+    (11, D(2026, 12, 4), "¿Nos están engañando? Por qué Cepsa ya no se llama Cepsa"),
+    (12, D(2026, 12, 11), "Lotería de Navidad: ¿quién gana siempre?"),
 ]
 
 

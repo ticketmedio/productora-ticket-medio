@@ -44,7 +44,7 @@ Generado el 8/10/2026 por `web/calendario_publicaciones.py` (lo que PUBLICAN las
 | martes 17 de noviembre | 13:00 · Short 5 del vídeo 8<br>19:00 · Pepa Pita 029 «(en producción)» → Instagram + Facebook |
 | miércoles 18 de noviembre | 13:00 · Short 3 del vídeo 8<br>19:00 · Pepa Pita 030 «(en producción)» → Instagram + Facebook |
 | jueves 19 de noviembre | 13:00 · Short 6 del vídeo 8<br>19:00 · Pepa Pita 031 «(en producción)» → Facebook + TikTok |
-| viernes 20 de noviembre | 13:00 · Short 7 del vídeo 8<br>18:00 · Ticket Medio, vídeo 9: «Black Friday: ¿de verdad es más barato?»<br>19:00 · Pepa Pita 032 «(en producción)» → Instagram + Facebook |
+| viernes 20 de noviembre | 13:00 · Short 7 del vídeo 8<br>18:00 · Ticket Medio, vídeo 9: «¿Quién fabrica de verdad las marcas blancas de Mercadona?»<br>19:00 · Pepa Pita 032 «(en producción)» → Instagram + Facebook |
 | sábado 21 de noviembre | 13:00 · Short 1 del vídeo 9 |
 | domingo 22 de noviembre | 13:00 · Short 4 del vídeo 9 |
 | lunes 23 de noviembre | 13:00 · Carrusel de Pepa (Facebook + Instagram)<br>13:00 · Short 2 del vídeo 9<br>19:00 · Pepa Pita 033 «(en producción)» → Instagram + Facebook |

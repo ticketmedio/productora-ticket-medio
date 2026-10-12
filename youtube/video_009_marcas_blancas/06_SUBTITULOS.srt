@@ -1,0 +1,283 @@
+1
+00:00:00,000 --> 00:00:07,228
+Mercadona tiene más de dos mil proveedores y cuatro de ellos facturan más de mil millones de euros cada uno.
+
+2
+00:00:07,228 --> 00:00:11,979
+Pero ¿quién fabrica de verdad lo que compras con la marca de Mercadona?
+
+3
+00:00:11,979 --> 00:00:16,865
+Y aquí va lo sorprendente: la ley no obliga a que la etiqueta te lo diga.
+
+4
+00:00:17,215 --> 00:00:20,151
+Hoy vamos a abrir el ticket de una marca blanca.
+
+5
+00:00:20,151 --> 00:00:25,228
+Y esta vez no vamos a repartir un euro, sino a seguir la pista de quién hay detrás.
+
+6
+00:00:25,228 --> 00:00:28,776
+Con la ley en la mano y con los datos que sí son públicos.
+
+7
+00:00:29,126 --> 00:00:30,907
+Empecemos por la etiqueta.
+
+8
+00:00:30,907 --> 00:00:42,208
+El reglamento europeo de información alimentaria dice que el responsable de la información es el operador con cuyo nombre o razón social se comercializa el alimento.
+
+9
+00:00:42,208 --> 00:00:47,756
+Y lo que debe figurar en la etiqueta es el nombre y la dirección de ese operador.
+
+10
+00:00:47,756 --> 00:00:51,318
+Es decir: de quien lo vende, no de quien lo fabrica.
+
+11
+00:00:51,318 --> 00:00:53,921
+Si lo vende Mercadona, pone Mercadona.
+
+12
+00:00:54,271 --> 00:01:05,076
+La Agencia Española de Seguridad Alimentaria lo dice con todas las letras sobre el número de registro sanitario: es un número de identificación administrativa,
+
+13
+00:01:05,076 --> 00:01:08,882
+y el operador no está obligado a ponerlo en la etiqueta.
+
+14
+00:01:08,882 --> 00:01:10,105
+Hay una excepción.
+
+15
+00:01:10,455 --> 00:01:16,129
+La excepción son los productos de origen animal: carne, leche, queso, pescado.
+
+16
+00:01:16,129 --> 00:01:20,057
+Esos llevan una marca ovalada con las siglas del país,
+
+17
+00:01:20,057 --> 00:01:26,167
+por ejemplo ES, y el número de autorización del establecimiento donde se elaboraron.
+
+18
+00:01:26,167 --> 00:01:29,440
+Esa marca está en el envase o en la etiqueta.
+
+19
+00:01:29,440 --> 00:01:31,331
+Es la pista que sí tienes.
+
+20
+00:01:31,681 --> 00:01:41,200
+Y con ese número puedes hacer algo: la AESAN tiene un buscador público de empresas y establecimientos alimentarios registrados en España.
+
+21
+00:01:41,200 --> 00:01:45,091
+Metes el número y te dice qué empresa está inscrita ahí.
+
+22
+00:01:45,091 --> 00:01:50,094
+Ojo con una cosa: te dice qué establecimiento es, no para quién fabrica.
+
+23
+00:01:50,094 --> 00:01:53,846
+Una misma fábrica puede producir para varios clientes.
+
+24
+00:01:54,196 --> 00:01:55,257
+Hay excepciones.
+
+25
+00:01:55,257 --> 00:01:59,504
+Los huevos con código de centro de embalaje no llevan esa marca.
+
+26
+00:01:59,504 --> 00:02:04,747
+Tampoco los productos compuestos que mezclan ingredientes animales y vegetales,
+
+27
+00:02:04,747 --> 00:02:05,742
+como una pizza.
+
+28
+00:02:05,742 --> 00:02:11,316
+Y los productos vegetales, como la pasta o las galletas, no tienen por qué llevarla.
+
+29
+00:02:11,666 --> 00:02:15,371
+Entonces, ¿qué sabemos de verdad de los proveedores?
+
+30
+00:02:15,371 --> 00:02:22,852
+Mercadona dice en su memoria que trabaja con más de dos mil proveedores e interproveedores especialistas.
+
+31
+00:02:22,852 --> 00:02:28,409
+Y que el ecosistema completo, con servicios y transporte, pasa de catorce mil.
+
+32
+00:02:28,759 --> 00:02:32,138
+En dos mil veinticinco, según la propia cadena,
+
+33
+00:02:32,138 --> 00:02:40,405
+sus proveedores especialistas invirtieron mil setecientos millones de euros y crearon cinco mil doscientos empleos.
+
+34
+00:02:40,405 --> 00:02:45,654
+El que más invirtió fue Casa Tarradellas, con ciento diecisiete millones.
+
+35
+00:02:45,654 --> 00:02:51,908
+Le siguieron Vall Companys, con setenta, y Avinatur e Incarlopsa, con sesenta cada una.
+
+36
+00:02:52,258 --> 00:02:58,025
+Y hay otra fuente: las cuentas que las empresas depositan en el Registro Mercantil.
+
+37
+00:02:58,025 --> 00:03:07,823
+Según el diario Cinco Días, los veinte mayores proveedores de Mercadona facturaron más de doce mil millones de euros en dos mil veinticuatro,
+
+38
+00:03:07,823 --> 00:03:11,506
+un dieciocho por ciento más que en dos mil veintidós.
+
+39
+00:03:11,506 --> 00:03:15,744
+Cuatro de ellos superaron los mil millones: Casa Tarradellas,
+
+40
+00:03:15,744 --> 00:03:18,176
+Incarlopsa, García Carrión y Covap.
+
+41
+00:03:18,526 --> 00:03:20,226
+Ojo con lo que significa.
+
+42
+00:03:20,226 --> 00:03:26,959
+Que una empresa sea proveedora de Mercadona no quiere decir que todo lo que vende sea marca blanca,
+
+43
+00:03:26,959 --> 00:03:30,020
+ni que todo lo que vende lo compre Mercadona.
+
+44
+00:03:30,020 --> 00:03:32,196
+La cifra incluye otros clientes.
+
+45
+00:03:32,546 --> 00:03:44,439
+Aun así, hay un dato revelador: algunas de estas empresas declaran que entre el cincuenta y tres y el noventa y cuatro por ciento de sus ventas dependen de Mercadona.
+
+46
+00:03:44,439 --> 00:03:46,231
+El diario no dice cuáles.
+
+47
+00:03:46,581 --> 00:03:48,930
+Y ahora, la cuenta que nos gusta.
+
+48
+00:03:48,930 --> 00:03:55,053
+Los beneficios de esos veinte proveedores sumaron más de trescientos sesenta millones.
+
+49
+00:03:55,053 --> 00:03:59,895
+Si dividimos entre sus ventas, son unos tres céntimos por cada euro.
+
+50
+00:03:59,895 --> 00:04:04,166
+Mercadona, en su último ejercicio, se quedó con unos cuatro.
+
+51
+00:04:04,166 --> 00:04:10,503
+Es un cálculo nuestro, con ejercicios distintos y con ventas que no son solo a Mercadona,
+
+52
+00:04:10,503 --> 00:04:13,209
+así que hay que tomarlo con prudencia.
+
+53
+00:04:13,209 --> 00:04:18,762
+Pero sugiere que el margen de quien fabrica no es mayor que el de quien vende.
+
+54
+00:04:19,112 --> 00:04:21,106
+Vamos con lo que no sabemos.
+
+55
+00:04:21,106 --> 00:04:28,440
+No hemos encontrado ninguna lista pública oficial que diga qué fábrica hace cada producto de Mercadona.
+
+56
+00:04:28,440 --> 00:04:31,857
+Ni la memoria de la empresa ni la prensa la dan.
+
+57
+00:04:31,857 --> 00:04:37,483
+Por eso en este vídeo no te vamos a decir que tal empresa fabrica tal producto.
+
+58
+00:04:37,483 --> 00:04:38,764
+Eso no lo sabemos.
+
+59
+00:04:38,764 --> 00:04:42,680
+Y quien te lo diga sin enseñarte el documento, tampoco.
+
+60
+00:04:43,030 --> 00:04:46,811
+Lo que sí puedes hacer es mirar el óvalo de tu etiqueta,
+
+61
+00:04:46,811 --> 00:04:49,646
+apuntar el número y consultar el registro.
+
+62
+00:04:49,646 --> 00:04:52,549
+Es la única pista oficial que la ley te da.
+
+63
+00:04:52,899 --> 00:04:59,234
+Así que, la próxima vez que cojas un producto de marca blanca, piensa en su viaje.
+
+64
+00:04:59,234 --> 00:05:02,633
+En la etiqueta, el nombre de quien lo vende.
+
+65
+00:05:02,633 --> 00:05:06,495
+En el óvalo, si lo lleva, el número de la fábrica.
+
+66
+00:05:06,495 --> 00:05:12,675
+Y detrás, miles de proveedores que ganan, de media, unos tres céntimos por euro.
+
+67
+00:05:13,026 --> 00:05:18,420
+La marca blanca no tiene un único fabricante: tiene miles de ellos.
+
+68
+00:05:18,420 --> 00:05:22,204
+La pregunta ya no es quién fabrica tu producto.
+
+69
+00:05:22,204 --> 00:05:25,344
+Es por qué la ley deja que no lo sepas.
+
+70
+00:05:25,694 --> 00:05:29,937
+Aquí, cada semana, abrimos el ticket de algo que pagas todos los días.
+
+71
+00:05:29,937 --> 00:05:34,301
+Si quieres saber cuál es el siguiente, ya sabes lo que tienes que hacer.

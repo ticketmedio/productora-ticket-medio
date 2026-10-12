@@ -1,0 +1,123 @@
+{
+ "formato": "vertical",
+ "fondos": "../../fondos",
+ "musica": "../../audio/musica.mp3",
+ "musica_db": -26,
+ "cola": 1.5,
+ "salida": "../../output/SHORT_05_cuatro_vs_tres.mp4",
+ "escenas": [
+  {
+   "id": "a",
+   "desde": "¿Gana más Mercadona",
+   "fondo": "supermercado",
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 60,
+     "y": 360,
+     "w": 960,
+     "h": 640
+    },
+    {
+     "tipo": "texto",
+     "texto": "¿QUIÉN GANA MÁS?",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "Beneficio por euro de ventas",
+     "x": 540,
+     "y": 520,
+     "tam": 48,
+     "fuente": "mano",
+     "t": 0.4
+    },
+    {
+     "tipo": "rect",
+     "x": 110,
+     "y": 600,
+     "w": 760,
+     "h": 100,
+     "color": "#F5B301",
+     "texto": "Mercadona ≈ 4,1 c",
+     "tam": 40,
+     "en": "se quedó con unos cuatro",
+     "dur": 0.8
+    },
+    {
+     "tipo": "rect",
+     "x": 110,
+     "y": 740,
+     "w": 700,
+     "h": 100,
+     "color": "#9CC5E8",
+     "texto": "20 proveedores ≈ 3 c",
+     "tam": 38,
+     "en": "unos tres céntimos",
+     "dur": 0.8
+    },
+    {
+     "tipo": "mascota",
+     "pose": "pensativo",
+     "x": 880,
+     "y": 1310,
+     "h": 320,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "b",
+   "desde": "Es un cálculo nuestro",
+   "fondo": "#F4E9D0",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "CON PRUDENCIA",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "360 M€ de beneficio / 12.000 M€ de ventas",
+     "x": 540,
+     "y": 520,
+     "tam": 46,
+     "fuente": "mano",
+     "t": 0.3
+    },
+    {
+     "tipo": "texto",
+     "texto": "Cálculo propio: años distintos y ventas\nno solo a Mercadona",
+     "x": 540,
+     "y": 760,
+     "tam": 46,
+     "fuente": "mano",
+     "en": "ejercicios distintos"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "lupa",
+     "x": 900,
+     "y": 1310,
+     "h": 280,
+     "t": 0.2
+    }
+   ]
+  }
+ ]
+}

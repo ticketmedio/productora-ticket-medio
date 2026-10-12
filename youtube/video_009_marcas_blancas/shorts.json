@@ -1,0 +1,81 @@
+{
+ "shorts": [
+  {
+   "id": "01",
+   "titulo": "La ley no obliga a que tu marca blanca diga quién la fabrica",
+   "tramos": [
+    [
+     "Empecemos por la etiqueta",
+     "Si lo vende Mercadona"
+    ]
+   ],
+   "intro": "La ley no obliga a que la etiqueta de una marca blanca diga quién la fabrica."
+  },
+  {
+   "id": "02",
+   "titulo": "El óvalo de la etiqueta: el código que revela la fábrica",
+   "tramos": [
+    [
+     "La excepción son los productos",
+     "Es la pista que sí tienes"
+    ]
+   ],
+   "intro": "Hay un código en las etiquetas que sí revela dónde se fabricó el producto."
+  },
+  {
+   "id": "03",
+   "titulo": "Cómo buscar la fábrica de un producto en el registro de la AESAN",
+   "tramos": [
+    [
+     "Y con ese número puedes",
+     "Una misma fábrica puede producir"
+    ]
+   ],
+   "intro": "Así se busca la fábrica de un producto en el registro público de la AESAN."
+  },
+  {
+   "id": "04",
+   "titulo": "4 proveedores de Mercadona facturan más de 1.000 millones cada uno",
+   "tramos": [
+    [
+     "Y hay otra fuente",
+     "La cifra incluye otros clientes"
+    ]
+   ],
+   "intro": "Cuatro proveedores de Mercadona facturan más de mil millones de euros cada uno."
+  },
+  {
+   "id": "05",
+   "titulo": "¿Gana más Mercadona o quienes fabrican para ella? 4 c frente a 3 c",
+   "tramos": [
+    [
+     "Y ahora, la cuenta que nos gusta",
+     "Pero sugiere que el margen"
+    ]
+   ],
+   "intro": "¿Gana más Mercadona o quienes fabrican para ella?"
+  },
+  {
+   "id": "06",
+   "titulo": "Los proveedores de Mercadona invirtieron 1.700 millones en 2025",
+   "tramos": [
+    [
+     "En dos mil veinticinco, según la propia cadena",
+     "Avinatur e Incarlopsa"
+    ]
+   ],
+   "intro": "¿Cuánto invierten los proveedores de Mercadona?"
+  },
+  {
+   "id": "07",
+   "titulo": "Hay empresas que venden hasta el 94 % a Mercadona",
+   "tramos": [
+    [
+     "Aun así, hay un dato revelador",
+     "El diario no dice cuáles"
+    ]
+   ],
+   "intro": null
+  }
+ ]
+}

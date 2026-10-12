@@ -1,0 +1,81 @@
+{
+ "formato": "vertical",
+ "fondos": "../../fondos",
+ "musica": "../../audio/musica.mp3",
+ "musica_db": -26,
+ "cola": 1.5,
+ "salida": "../../output/SHORT_07_dependencia_53_94.mp4",
+ "escenas": [
+  {
+   "id": "a",
+   "desde": "Aun así, hay un dato revelador",
+   "fondo": "#E6E0F5",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "VENDEN A MERCADONA",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "Ventas ligadas a Mercadona, según\nalgunas empresas:",
+     "x": 540,
+     "y": 480,
+     "tam": 48,
+     "fuente": "mano",
+     "t": 0.3
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 53,
+     "x": 540,
+     "y": 700,
+     "tam": 150,
+     "sufijo": " %",
+     "t": 0.6
+    },
+    {
+     "tipo": "texto",
+     "texto": "hasta",
+     "x": 540,
+     "y": 820,
+     "tam": 50,
+     "fuente": "mano",
+     "t": 0.8
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 94,
+     "x": 540,
+     "y": 960,
+     "tam": 150,
+     "sufijo": " %",
+     "color": "#E0521B",
+     "t": 1.0
+    },
+    {
+     "tipo": "texto",
+     "texto": "(el diario no dice cuáles)",
+     "x": 540,
+     "y": 1100,
+     "tam": 44,
+     "fuente": "mano",
+     "t": 3.0
+    },
+    {
+     "tipo": "mascota",
+     "pose": "sorprendido",
+     "x": 900,
+     "y": 1310,
+     "h": 230,
+     "t": 0.2
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+1
+00:00:00,150 --> 00:00:03,474
+¿Gana más Mercadona o quienes fabrican para ella?
+
+2
+00:00:03,431 --> 00:00:09,554
+Los beneficios de esos veinte proveedores sumaron más de trescientos sesenta millones.
+
+3
+00:00:09,554 --> 00:00:14,396
+Si dividimos entre sus ventas, son unos tres céntimos por cada euro.
+
+4
+00:00:14,396 --> 00:00:18,667
+Mercadona, en su último ejercicio, se quedó con unos cuatro.
+
+5
+00:00:18,667 --> 00:00:25,004
+Es un cálculo nuestro, con ejercicios distintos y con ventas que no son solo a Mercadona,
+
+6
+00:00:25,004 --> 00:00:27,710
+así que hay que tomarlo con prudencia.
+
+7
+00:00:27,710 --> 00:00:33,263
+Pero sugiere que el margen de quien fabrica no es mayor que el de quien vende.

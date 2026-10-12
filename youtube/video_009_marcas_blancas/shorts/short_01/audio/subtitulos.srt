@@ -1,0 +1,19 @@
+1
+00:00:00,150 --> 00:00:04,603
+La ley no obliga a que la etiqueta de una marca blanca diga quién la fabrica.
+
+2
+00:00:04,421 --> 00:00:15,722
+El reglamento europeo de información alimentaria dice que el responsable de la información es el operador con cuyo nombre o razón social se comercializa el alimento.
+
+3
+00:00:15,722 --> 00:00:21,270
+Y lo que debe figurar en la etiqueta es el nombre y la dirección de ese operador.
+
+4
+00:00:21,270 --> 00:00:24,832
+Es decir: de quien lo vende, no de quien lo fabrica.
+
+5
+00:00:24,832 --> 00:00:27,435
+Si lo vende Mercadona, pone Mercadona.

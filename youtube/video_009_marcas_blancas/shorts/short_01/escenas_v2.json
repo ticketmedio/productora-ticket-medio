@@ -1,0 +1,115 @@
+{
+ "formato": "vertical",
+ "fondos": "../../fondos",
+ "musica": "../../audio/musica.mp3",
+ "musica_db": -26,
+ "cola": 1.5,
+ "salida": "../../output/SHORT_01_la_ley_no_obliga.mp4",
+ "escenas": [
+  {
+   "id": "a",
+   "desde": "La ley no obliga a que la etiqueta",
+   "fondo": "pasillo_marca_blanca",
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 60,
+     "y": 360,
+     "w": 960,
+     "h": 640
+    },
+    {
+     "tipo": "texto",
+     "texto": "¿QUIÉN LA FABRICA?",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "sello",
+     "texto": "LA ETIQUETA NO LO DICE",
+     "x": 540,
+     "y": 560,
+     "tam": 60,
+     "t": 0.4
+    },
+    {
+     "tipo": "texto",
+     "texto": "La ley no obliga a ponerlo",
+     "x": 540,
+     "y": 720,
+     "tam": 50,
+     "fuente": "mano",
+     "t": 1.0
+    },
+    {
+     "tipo": "mascota",
+     "pose": "sorprendido",
+     "x": 880,
+     "y": 1310,
+     "h": 380,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "b",
+   "desde": "El reglamento europeo",
+   "fondo": "#F4E9D0",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "LO QUE SÍ PONE",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "Responsable: quien lo COMERCIALIZA",
+     "x": 540,
+     "y": 500,
+     "tam": 52,
+     "fuente": "mano",
+     "en": "comercializa el alimento"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Nombre y dirección\nde quien lo vende",
+     "x": 540,
+     "y": 720,
+     "tam": 66,
+     "en": "nombre y la dirección"
+    },
+    {
+     "tipo": "texto",
+     "texto": "≠ quien lo fabrica",
+     "x": 540,
+     "y": 940,
+     "tam": 70,
+     "color": "#E0521B",
+     "en": "no de quien lo fabrica"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "lupa",
+     "x": 900,
+     "y": 1310,
+     "h": 260,
+     "t": 0.2
+    }
+   ]
+  }
+ ]
+}
