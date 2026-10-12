@@ -2,6 +2,19 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 12/10/2026 (mañana)
+
+**Ejemplos que funcionan (datos públicos, 12/10/2026)**
+- VETERINARIO GRATIS (2,06 M): «¿Quién fabrica las marcas blancas de Lidl, Carrefour y Dia?», 159.898 (12:10).
+- Bruno Peluch (5,88 mil suscriptores): «El sistema que hace imposible repetir HAWKERS», 11 mil (hace 7 d).
+
+**Ideas**
+1. **Vídeo largo — «¿Quién fabrica de verdad las marcas blancas de Mercadona?»**: revelación + registro mercantil.
+2. **Short — «El sistema que hace imposible copiar a [marca española]»**: resultado primero.
+3. **Reel de Pepa — castañas y sobras de otoño**: primero localizar fuente oficial.
+
+**Mejora aplicable:** título de «sistema» o revelación sobre marca conocida. (`yt_video.py` sigue con 403.)
+
 ## 11/10/2026 (tarde)
 
 **Ejemplos que funcionan (datos públicos, 11/10/2026)**
