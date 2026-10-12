@@ -97,6 +97,13 @@
    "fecha": "2026-10-12T11:28:12Z",
    "tarea": "pub-yt-3-comentario",
    "texto": "hecho"
+  },
+  {
+   "id": "w-24",
+   "accion": "estado",
+   "fecha": "2026-10-12T11:41:17Z",
+   "tarea": "pub-yt-3-comentario",
+   "estado": "hecho"
   }
  ]
 }
