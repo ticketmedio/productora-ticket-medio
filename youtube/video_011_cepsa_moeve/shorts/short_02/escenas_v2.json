@@ -1,0 +1,127 @@
+{
+ "formato": "vertical",
+ "fondos": "../../fondos",
+ "musica": "../../audio/musica.mp3",
+ "musica_db": -26,
+ "cola": 1.5,
+ "salida": "../../output/SHORT_02_inversion_verde.mp4",
+ "escenas": [
+  {
+   "id": "a",
+   "desde": "¿Cuánto invierte Moeve",
+   "fondo": "fabrica_alimentos",
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 60,
+     "y": 360,
+     "w": 960,
+     "h": 640
+    },
+    {
+     "tipo": "texto",
+     "texto": "TRANSICIÓN ENERGÉTICA",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 55,
+     "x": 540,
+     "y": 540,
+     "tam": 190,
+     "sufijo": " %",
+     "color": "#2E8B57",
+     "en": "el cincuenta y cinco"
+    },
+    {
+     "tipo": "texto",
+     "texto": "de la inversión de 2025 (récord)",
+     "x": 540,
+     "y": 700,
+     "tam": 46,
+     "fuente": "mano",
+     "en": "récord"
+    },
+    {
+     "tipo": "texto",
+     "texto": "antes: 43 %",
+     "x": 540,
+     "y": 820,
+     "tam": 50,
+     "fuente": "mano",
+     "en": "el cuarenta y tres"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "contento",
+     "x": 880,
+     "y": 1310,
+     "h": 340,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "b",
+   "desde": "Y en el primer semestre",
+   "fondo": "#F4E9D0",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "1.er SEMESTRE 2026",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 69,
+     "x": 540,
+     "y": 560,
+     "tam": 190,
+     "sufijo": " %",
+     "color": "#2E8B57",
+     "en": "el sesenta y nueve"
+    },
+    {
+     "tipo": "texto",
+     "texto": "de 605 M€ invertidos",
+     "x": 540,
+     "y": 700,
+     "tam": 50,
+     "fuente": "mano",
+     "en": "seiscientos cinco"
+    },
+    {
+     "tipo": "sello",
+     "texto": "OTRO RÉCORD",
+     "x": 540,
+     "y": 880,
+     "tam": 60,
+     "en": "Otro récord"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "riendo",
+     "x": 920,
+     "y": 1310,
+     "h": 240,
+     "t": 0.2
+    }
+   ]
+  }
+ ]
+}

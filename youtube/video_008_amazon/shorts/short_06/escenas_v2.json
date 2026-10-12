@@ -1,0 +1,97 @@
+{
+ "formato": "vertical",
+ "fondos": "../../fondos",
+ "musica": "../../audio/musica.mp3",
+ "musica_db": -26,
+ "cola": 1.5,
+ "salida": "../../output/SHORT_06_ley_residuos.mp4",
+ "escenas": [
+  {
+   "id": "a",
+   "desde": "¿Es legal destruir",
+   "fondo": "#E6E0F5",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "LEY DE RESIDUOS 2022",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "¿ES LEGAL DESTRUIR\nLO NUEVO SIN VENDER?",
+     "x": 540,
+     "y": 540,
+     "tam": 62,
+     "color": "#E0521B",
+     "t": 0.4
+    },
+    {
+     "tipo": "mascota",
+     "pose": "pensativo",
+     "x": 900,
+     "y": 1310,
+     "h": 340,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "b",
+   "desde": "En España, la ley de residuos",
+   "fondo": "#FFF3C4",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "EN ESPAÑA",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "Prohíbe destruir o llevar a vertedero\nlos excedentes no perecederos",
+     "x": 540,
+     "y": 500,
+     "tam": 44,
+     "fuente": "mano",
+     "t": 0.3
+    },
+    {
+     "tipo": "texto",
+     "texto": "Textiles, juguetes, aparatos eléctricos",
+     "x": 540,
+     "y": 760,
+     "tam": 44,
+     "fuente": "mano",
+     "en": "como textiles"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Primero reutilización o donación",
+     "x": 540,
+     "y": 900,
+     "tam": 46,
+     "fuente": "mano",
+     "en": "Y deben ir primero"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "senala",
+     "x": 1020,
+     "y": 1310,
+     "h": 240,
+     "t": 0.2
+    }
+   ]
+  }
+ ]
+}

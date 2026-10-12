@@ -1,95 +1,103 @@
 1
-00:00:00,240 --> 00:00:01,289
-Y tú también tienes
+00:00:00,150 --> 00:00:01,230
+Cuando devuelves una compra
 
 2
-00:00:01,289 --> 00:00:02,338
-obligaciones.
+00:00:01,230 --> 00:00:02,310
+online, la ley también
 
 3
-00:00:02,338 --> 00:00:03,832
-Tienes que devolver el
+00:00:02,310 --> 00:00:03,390
+te pide algo a
 
 4
-00:00:03,832 --> 00:00:05,326
-producto a más tardar
+00:00:03,390 --> 00:00:04,470
+ti.
 
 5
-00:00:05,326 --> 00:00:06,820
-en catorce días desde
+00:00:04,808 --> 00:00:06,303
+Tienes que devolver el
 
 6
-00:00:06,820 --> 00:00:08,315
-que comunicas que desistes.
+00:00:06,303 --> 00:00:07,797
+producto a más tardar
 
 7
-00:00:08,315 --> 00:00:09,523
-Los costes directos de
+00:00:07,797 --> 00:00:09,291
+en catorce días desde
 
 8
-00:00:09,523 --> 00:00:10,731
-la devolución corren de
+00:00:09,291 --> 00:00:10,785
+que comunicas que desistes.
 
 9
-00:00:10,731 --> 00:00:11,939
-tu cuenta,
+00:00:10,785 --> 00:00:11,993
+Los costes directos de
 
 10
-00:00:11,939 --> 00:00:13,147
-salvo que la tienda
+00:00:11,993 --> 00:00:13,201
+la devolución corren de
 
 11
-00:00:13,147 --> 00:00:14,355
-se haya ofrecido a
+00:00:13,201 --> 00:00:14,409
+tu cuenta,
 
 12
-00:00:14,355 --> 00:00:15,563
-asumirlos o no te
+00:00:14,409 --> 00:00:15,617
+salvo que la tienda
 
 13
-00:00:15,563 --> 00:00:16,771
-haya informado de que
+00:00:15,617 --> 00:00:16,825
+se haya ofrecido a
 
 14
-00:00:16,771 --> 00:00:17,979
-te tocaban a ti.
+00:00:16,825 --> 00:00:18,033
+asumirlos o no te
 
 15
-00:00:17,979 --> 00:00:19,324
-Solo respondes de la
+00:00:18,033 --> 00:00:19,241
+haya informado de que
 
 16
-00:00:19,324 --> 00:00:20,670
-pérdida de valor si
+00:00:19,241 --> 00:00:20,449
+te tocaban a ti.
 
 17
-00:00:20,670 --> 00:00:22,016
-has manipulado el producto
+00:00:20,449 --> 00:00:21,795
+Solo respondes de la
 
 18
-00:00:22,016 --> 00:00:23,361
-más de lo necesario
+00:00:21,795 --> 00:00:23,141
+pérdida de valor si
 
 19
-00:00:23,361 --> 00:00:24,707
-para comprobar cómo es
+00:00:23,141 --> 00:00:24,486
+has manipulado el producto
 
 20
-00:00:24,707 --> 00:00:26,053
-y cómo funciona.
+00:00:24,486 --> 00:00:25,832
+más de lo necesario
 
 21
-00:00:26,053 --> 00:00:27,276
-Y la carga de
+00:00:25,832 --> 00:00:27,178
+para comprobar cómo es
 
 22
-00:00:27,276 --> 00:00:28,500
-la prueba de que
+00:00:27,178 --> 00:00:28,523
+y cómo funciona.
 
 23
-00:00:28,500 --> 00:00:29,724
-has desistido es tuya:
+00:00:28,523 --> 00:00:29,747
+Y la carga de
 
 24
-00:00:29,724 --> 00:00:30,948
+00:00:29,747 --> 00:00:30,971
+la prueba de que
+
+25
+00:00:30,971 --> 00:00:32,195
+has desistido es tuya:
+
+26
+00:00:32,195 --> 00:00:33,418
 guarda el justificante.

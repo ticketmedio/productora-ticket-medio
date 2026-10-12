@@ -1,0 +1,1183 @@
+{
+ "musica": "audio/musica.mp3",
+ "musica_db": -26,
+ "cola": 3,
+ "escenas": [
+  {
+   "id": "01",
+   "desde": "El treinta de octubre",
+   "fondo": "centro_logistico",
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 90,
+     "y": 120,
+     "w": 1230,
+     "h": 870,
+     "t": 0
+    },
+    {
+     "tipo": "texto",
+     "texto": "30 de octubre de 2024",
+     "x": 700,
+     "y": 230,
+     "tam": 56,
+     "fuente": "mano",
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "CEPSA",
+     "x": 380,
+     "y": 480,
+     "tam": 120,
+     "color": "#9A9A9A",
+     "t": 0.4
+    },
+    {
+     "tipo": "texto",
+     "texto": "→",
+     "x": 700,
+     "y": 480,
+     "tam": 100,
+     "t": 0.8
+    },
+    {
+     "tipo": "texto",
+     "texto": "MOEVE",
+     "x": 1000,
+     "y": 480,
+     "tam": 120,
+     "color": "#E0521B",
+     "anim": "pop",
+     "en": "Ahora es Moeve"
+    },
+    {
+     "tipo": "sello",
+     "texto": "¿NOS ESTÁN ENGAÑANDO?",
+     "x": 700,
+     "y": 760,
+     "tam": 64,
+     "t": 2.0
+    },
+    {
+     "tipo": "mascota",
+     "pose": "pensativo",
+     "x": 1630,
+     "y": 1015,
+     "h": 520,
+     "entra": "der",
+     "t": 0.3
+    }
+   ],
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "fuente": "Forbes España (30/10/2024)"
+  },
+  {
+   "id": "02",
+   "desde": "Hoy lo comprobamos",
+   "fondo": "#FFF3C4",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "Lo comprobamos con lo que\nla propia empresa publica",
+     "x": 800,
+     "y": 300,
+     "tam": 72,
+     "t": 0.2
+    },
+    {
+     "tipo": "sello",
+     "texto": "SIN ACUSAR A NADIE",
+     "x": 800,
+     "y": 600,
+     "tam": 70,
+     "en": "sin acusar a nadie"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Cada dato, al lado de otro",
+     "x": 800,
+     "y": 820,
+     "tam": 58,
+     "fuente": "mano",
+     "papel": true,
+     "en": "cada dato al lado"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "lupa",
+     "x": 1620,
+     "y": 1015,
+     "h": 520,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "03",
+   "desde": "Empecemos por lo básico",
+   "fondo": "oficina_financiera",
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 90,
+     "y": 120,
+     "w": 1230,
+     "h": 870,
+     "t": 0
+    },
+    {
+     "tipo": "texto",
+     "texto": "¿HA CAMBIADO DE DUEÑO?",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "No hay ningún dato que lo indique",
+     "x": 700,
+     "y": 380,
+     "tam": 56,
+     "en": "No hay ningún dato"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Es la misma sociedad con otra marca",
+     "x": 700,
+     "y": 500,
+     "tam": 54,
+     "fuente": "mano",
+     "en": "la misma sociedad"
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 600,
+     "w": 780,
+     "h": 100,
+     "color": "#F5B301",
+     "texto": "Mubadala (Abu Dabi) > 61 %",
+     "tam": 42,
+     "en": "Mubadala, con algo más del sesenta",
+     "dur": 0.8
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 730,
+     "w": 380,
+     "h": 100,
+     "color": "#9CC5E8",
+     "texto": "Carlyle > 38 %",
+     "tam": 42,
+     "en": "el grupo Carlyle",
+     "dur": 0.8
+    },
+    {
+     "tipo": "mascota",
+     "pose": "normal",
+     "x": 1670,
+     "y": 1015,
+     "h": 500,
+     "mira": "izq",
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "fuente": "Informe de 2024, según prensa (cifras aproximadas)"
+  },
+  {
+   "id": "04",
+   "desde": "¿Qué dijo la empresa",
+   "fondo": "#E6E0F5",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "LO QUE DIJO LA EMPRESA",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "Estrategia «Positive Motion 2030»",
+     "x": 700,
+     "y": 380,
+     "tam": 54,
+     "fuente": "mano",
+     "en": "Positive Motion"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Acelerar su descarbonización\ny la de sus clientes",
+     "x": 700,
+     "y": 520,
+     "tam": 52,
+     "fuente": "mano",
+     "en": "acelerar su descarbonización"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Hasta 8.000 M€ · > 60 % sostenible",
+     "x": 700,
+     "y": 740,
+     "tam": 60,
+     "color": "#E0521B",
+     "en": "hasta ocho mil millones"
+    },
+    {
+     "tipo": "texto",
+     "texto": "hidrógeno verde · biocombustibles · recarga ultrarrápida",
+     "x": 700,
+     "y": 860,
+     "tam": 42,
+     "fuente": "mano",
+     "en": "hidrógeno verde"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "saluda",
+     "x": 1660,
+     "y": 1015,
+     "h": 500,
+     "mira": "izq",
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "Forbes España (30/10/2024)"
+  },
+  {
+   "id": "05",
+   "desde": "Hasta aquí, lo que dice",
+   "fondo": "#FFF3C4",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "Hasta aquí, lo que DICE",
+     "x": 800,
+     "y": 280,
+     "tam": 80,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "Ahora, lo que PUBLICA",
+     "x": 800,
+     "y": 520,
+     "tam": 80,
+     "color": "#E0521B",
+     "anim": "pop",
+     "en": "Ahora, lo que publica"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "senala",
+     "x": 1620,
+     "y": 1015,
+     "h": 520,
+     "mira": "izq",
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "06",
+   "desde": "En dos mil veinticinco, Moeve invirtió",
+   "fondo": "fabrica_alimentos",
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 90,
+     "y": 120,
+     "w": 1230,
+     "h": 870,
+     "t": 0
+    },
+    {
+     "tipo": "texto",
+     "texto": "INVERSIÓN 2025",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 1151,
+     "x": 450,
+     "y": 440,
+     "tam": 140,
+     "sufijo": " M€",
+     "en": "mil ciento cincuenta y un"
+    },
+    {
+     "tipo": "texto",
+     "texto": "de capex",
+     "x": 450,
+     "y": 570,
+     "tam": 44,
+     "fuente": "mano",
+     "en": "mil ciento cincuenta y un"
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 55,
+     "x": 1000,
+     "y": 440,
+     "tam": 190,
+     "sufijo": " %",
+     "color": "#2E8B57",
+     "en": "el cincuenta y cinco por ciento"
+    },
+    {
+     "tipo": "texto",
+     "texto": "a transición energética (récord)",
+     "x": 1000,
+     "y": 620,
+     "tam": 42,
+     "fuente": "mano",
+     "en": "récord"
+    },
+    {
+     "tipo": "texto",
+     "texto": "≈ 633 M€ (cálculo propio) · en 2024: 43 %",
+     "x": 700,
+     "y": 850,
+     "tam": 46,
+     "fuente": "mano",
+     "papel": true,
+     "en": "Unos seiscientos treinta"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "contento",
+     "x": 1680,
+     "y": 1015,
+     "h": 500,
+     "mira": "izq",
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "fuente": "Moeve, resultados 2025 (comunicado del 2/3/2026)"
+  },
+  {
+   "id": "07",
+   "desde": "Y en el primer semestre",
+   "fondo": "#F4E9D0",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "PRIMER SEMESTRE 2026",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 605,
+     "x": 450,
+     "y": 440,
+     "tam": 150,
+     "sufijo": " M€",
+     "en": "seiscientos cinco millones"
+    },
+    {
+     "tipo": "texto",
+     "texto": "invertidos",
+     "x": 450,
+     "y": 570,
+     "tam": 44,
+     "fuente": "mano",
+     "en": "seiscientos cinco millones"
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 69,
+     "x": 1000,
+     "y": 440,
+     "tam": 190,
+     "sufijo": " %",
+     "color": "#2E8B57",
+     "en": "el sesenta y nueve por ciento"
+    },
+    {
+     "tipo": "texto",
+     "texto": "a transición energética",
+     "x": 1000,
+     "y": 620,
+     "tam": 42,
+     "fuente": "mano",
+     "en": "el sesenta y nueve por ciento"
+    },
+    {
+     "tipo": "sello",
+     "texto": "OTRO RÉCORD",
+     "x": 700,
+     "y": 840,
+     "tam": 60,
+     "t": 1.5
+    },
+    {
+     "tipo": "mascota",
+     "pose": "riendo",
+     "x": 1680,
+     "y": 1015,
+     "h": 500,
+     "mira": "izq",
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "Moeve, primer semestre de 2026 (comunicado del 31/7/2026)"
+  },
+  {
+   "id": "08",
+   "desde": "Lo que están construyendo",
+   "fondo": "torre_electrica",
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 90,
+     "y": 120,
+     "w": 1230,
+     "h": 870,
+     "t": 0
+    },
+    {
+     "tipo": "texto",
+     "texto": "LO QUE CONSTRUYE",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "304 M€ de fondos europeos · Valle Andaluz\ndel Hidrógeno Verde",
+     "x": 700,
+     "y": 400,
+     "tam": 46,
+     "fuente": "mano",
+     "en": "trescientos cuatro"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Planta de biocombustibles 2G (Huelva): > 50 % construida",
+     "x": 700,
+     "y": 590,
+     "tam": 46,
+     "fuente": "mano",
+     "en": "Una planta de biocombustibles"
+    },
+    {
+     "tipo": "texto",
+     "texto": "> 280 puntos de recarga ultrarrápida",
+     "x": 700,
+     "y": 720,
+     "tam": 46,
+     "fuente": "mano",
+     "en": "Más de doscientos ochenta"
+    },
+    {
+     "tipo": "texto",
+     "texto": "500 estaciones renovadas con la nueva imagen",
+     "x": 700,
+     "y": 850,
+     "tam": 46,
+     "fuente": "mano",
+     "en": "quinientas estaciones"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "normal",
+     "x": 1680,
+     "y": 1015,
+     "h": 500,
+     "mira": "izq",
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "fuente": "Moeve, resultados 2025 (comunicado del 2/3/2026)"
+  },
+  {
+   "id": "09",
+   "desde": "Ahora, la otra columna",
+   "fondo": "#FFF3C4",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "Ahora, la otra columna",
+     "x": 800,
+     "y": 280,
+     "tam": 84,
+     "t": 0.3
+    },
+    {
+     "tipo": "texto",
+     "texto": "¿De dónde sale el dinero?",
+     "x": 800,
+     "y": 520,
+     "tam": 70,
+     "fuente": "mano",
+     "en": "¿De dónde sale el dinero"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "pensativo",
+     "x": 1620,
+     "y": 1015,
+     "h": 520,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "desde": "En dos mil veinticinco, la empresa ganó",
+   "fondo": "#E3E7EC",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "EBITDA 2025 (antes de intereses, impuestos\ny amortizaciones)",
+     "x": 800,
+     "y": 220,
+     "tam": 48,
+     "fuente": "mano",
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 340,
+     "w": 1100,
+     "h": 100,
+     "color": "#9CC5E8",
+     "texto": "Grupo: 1.685 M€",
+     "tam": 44,
+     "en": "mil seiscientos ochenta",
+     "dur": 0.8
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 480,
+     "w": 910,
+     "h": 100,
+     "color": "#E0521B",
+     "texto": "Energía: 1.400 M€ · 83 %",
+     "tam": 44,
+     "en": "mil cuatrocientos vinieron",
+     "dur": 0.9
+    },
+    {
+     "tipo": "texto",
+     "texto": "Refino, estaciones, comercio de combustibles\ny energías limpias comerciales",
+     "x": 800,
+     "y": 700,
+     "tam": 44,
+     "fuente": "mano",
+     "en": "refinerías"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "lupa",
+     "x": 1680,
+     "y": 1015,
+     "h": 500,
+     "mira": "izq",
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "Moeve, resultados 2025 (comunicado del 2/3/2026) (porcentaje: cálculo propio)"
+  },
+  {
+   "id": "11",
+   "desde": "Y en el primer semestre de dos mil veintiséis",
+   "fondo": "#F4E9D0",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "EBITDA primer semestre 2026",
+     "x": 800,
+     "y": 220,
+     "tam": 52,
+     "fuente": "mano",
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 340,
+     "w": 1100,
+     "h": 100,
+     "color": "#9CC5E8",
+     "texto": "Grupo: 1.178 M€",
+     "tam": 44,
+     "en": "mil ciento setenta y ocho",
+     "dur": 0.8
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 480,
+     "w": 880,
+     "h": 100,
+     "color": "#E0521B",
+     "texto": "Energía: 945 M€ · 80 %",
+     "tam": 44,
+     "en": "novecientos cuarenta y cinco",
+     "dur": 0.9
+    },
+    {
+     "tipo": "mascota",
+     "pose": "normal",
+     "x": 1680,
+     "y": 1015,
+     "h": 500,
+     "mira": "izq",
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "Moeve, primer semestre de 2026 (comunicado del 31/7/2026) (porcentaje: cálculo propio)"
+  },
+  {
+   "id": "12",
+   "desde": "Fíjate en lo que dice el comunicado",
+   "fondo": "centro_logistico",
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 90,
+     "y": 120,
+     "w": 1230,
+     "h": 870,
+     "t": 0
+    },
+    {
+     "tipo": "texto",
+     "texto": "LO QUE DICE EL COMUNICADO",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 18.2,
+     "x": 450,
+     "y": 440,
+     "tam": 150,
+     "sufijo": " Mt",
+     "dec": 1,
+     "en": "dieciocho millones doscientas mil"
+    },
+    {
+     "tipo": "texto",
+     "texto": "de productos comerciales (+6 %)",
+     "x": 450,
+     "y": 570,
+     "tam": 42,
+     "fuente": "mano",
+     "en": "un seis por ciento"
+    },
+    {
+     "tipo": "texto",
+     "texto": "7,0 → 7,9 $/barril",
+     "x": 1010,
+     "y": 470,
+     "tam": 64,
+     "color": "#E0521B",
+     "en": "de siete a casi ocho dólares"
+    },
+    {
+     "tipo": "texto",
+     "texto": "margen de refino",
+     "x": 1010,
+     "y": 580,
+     "tam": 44,
+     "fuente": "mano",
+     "en": "margen de refino"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "senala",
+     "x": 1680,
+     "y": 1015,
+     "h": 500,
+     "mira": "izq",
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "fuente": "Moeve, resultados 2025 (comunicado del 2/3/2026)"
+  },
+  {
+   "id": "13",
+   "desde": "O sea: lo que más se invierte",
+   "fondo": "#FFF3C4",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "Lo que más se INVIERTE\nes verde",
+     "x": 800,
+     "y": 270,
+     "tam": 70,
+     "color": "#2E8B57",
+     "t": 0.3,
+     "en": "lo que más se invierte es verde"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Lo que más INGRESA\nsigue siendo la energía de siempre",
+     "x": 800,
+     "y": 520,
+     "tam": 62,
+     "color": "#E0521B",
+     "en": "Y lo que más ingresa"
+    },
+    {
+     "tipo": "texto",
+     "texto": "No es una contradicción: es una transición",
+     "x": 800,
+     "y": 800,
+     "tam": 52,
+     "fuente": "mano",
+     "papel": true,
+     "en": "No es una contradicción"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "pensativo",
+     "x": 1650,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "14",
+   "desde": "Y otro dato curioso",
+   "fondo": "calle_comercial",
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 90,
+     "y": 120,
+     "w": 1230,
+     "h": 870,
+     "t": 0
+    },
+    {
+     "tipo": "texto",
+     "texto": "BALLENOIL",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "La cadena low cost también es de Moeve",
+     "x": 700,
+     "y": 400,
+     "tam": 52,
+     "fuente": "mano",
+     "en": "la dueña de Ballenoil"
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 370,
+     "x": 700,
+     "y": 600,
+     "tam": 190,
+     "color": "#E0521B",
+     "en": "trescientas setenta"
+    },
+    {
+     "tipo": "texto",
+     "texto": "estaciones (65 abiertas en 2025)",
+     "x": 700,
+     "y": 750,
+     "tam": 46,
+     "fuente": "mano",
+     "en": "trescientas setenta"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "sorprendido",
+     "x": 1680,
+     "y": 1015,
+     "h": 500,
+     "mira": "izq",
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "fuente": "Moeve, resultados 2025 (comunicado del 2/3/2026)"
+  },
+  {
+   "id": "15",
+   "desde": "Ahora, una norma",
+   "fondo": "#E6E0F5",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "DESDE EL 27/9/2026",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "Directiva (UE) 2024/825 · afirmaciones «verdes»",
+     "x": 700,
+     "y": 380,
+     "tam": 46,
+     "fuente": "mano",
+     "en": "Desde el veintisiete"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Prohíbe, entre otras:",
+     "x": 700,
+     "y": 500,
+     "tam": 54,
+     "en": "prohíbe"
+    },
+    {
+     "tipo": "texto",
+     "texto": "· «Respetuoso con el clima», «verde»… sin prueba",
+     "x": 700,
+     "y": 610,
+     "tam": 44,
+     "fuente": "mano",
+     "en": "genéricas"
+    },
+    {
+     "tipo": "texto",
+     "texto": "· Presentar toda la empresa como verde\n  si solo lo es un aspecto",
+     "x": 700,
+     "y": 730,
+     "tam": 44,
+     "fuente": "mano",
+     "en": "toda una empresa"
+    },
+    {
+     "tipo": "texto",
+     "texto": "· Neutralidad basada en compensar emisiones",
+     "x": 700,
+     "y": 880,
+     "tam": 44,
+     "fuente": "mano",
+     "en": "compensar emisiones"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "lupa",
+     "x": 1680,
+     "y": 1015,
+     "h": 500,
+     "mira": "izq",
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "Directiva (UE) 2024/825 (EUR-Lex), art. 4 y anexo I de la Directiva 2005/29/CE"
+  },
+  {
+   "id": "16",
+   "desde": "No decimos que Moeve incumpla",
+   "fondo": "#FFF3C4",
+   "capas": [
+    {
+     "tipo": "sello",
+     "texto": "NO DECIMOS QUE INCUMPLA NADA",
+     "x": 800,
+     "y": 280,
+     "tam": 56,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "No hemos revisado ningún anuncio concreto\nni cómo España ha incorporado la norma",
+     "x": 800,
+     "y": 520,
+     "tam": 50,
+     "fuente": "mano",
+     "en": "ningún anuncio concreto"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Es la vara de medir: toda afirmación verde\ndebe poder comprobarse y ser específica",
+     "x": 800,
+     "y": 780,
+     "tam": 48,
+     "fuente": "mano",
+     "papel": true,
+     "en": "la vara de medir"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "encoge_hombros",
+     "x": 1650,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "17",
+   "desde": "Vamos con lo que no sabemos",
+   "fondo": "#E3E7EC",
+   "capas": [
+    {
+     "tipo": "sello",
+     "texto": "LO QUE NO SABEMOS",
+     "x": 800,
+     "y": 240,
+     "tam": 80,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "· Si el cambio de nombre influye en los precios",
+     "x": 800,
+     "y": 440,
+     "tam": 46,
+     "fuente": "mano",
+     "en": "influye en los precios"
+    },
+    {
+     "tipo": "texto",
+     "texto": "· Cuántas estaciones tiene en total",
+     "x": 800,
+     "y": 570,
+     "tam": 46,
+     "fuente": "mano",
+     "en": "cuántas estaciones"
+    },
+    {
+     "tipo": "texto",
+     "texto": "· Qué parte de las ganancias será verde en 2030",
+     "x": 800,
+     "y": 700,
+     "tam": 46,
+     "fuente": "mano",
+     "en": "qué parte de las ganancias"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "encoge_hombros",
+     "x": 1660,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "18",
+   "desde": "Así que, ¿nos están engañando",
+   "fondo": "supermercado",
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 90,
+     "y": 120,
+     "w": 1230,
+     "h": 870,
+     "t": 0
+    },
+    {
+     "tipo": "texto",
+     "texto": "¿NOS ESTÁN ENGAÑANDO?",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "Sobre quién es la empresa: no.\nEs la misma y sus datos son públicos.",
+     "x": 700,
+     "y": 450,
+     "tam": 54,
+     "fuente": "mano",
+     "en": "no sobre quién es"
+    },
+    {
+     "tipo": "texto",
+     "texto": "¿Cuánto de lo que se llama Moeve\nya es lo que dice su nombre?",
+     "x": 700,
+     "y": 740,
+     "tam": 60,
+     "color": "#E0521B",
+     "en": "cuánto de lo que se llama"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "pensativo",
+     "x": 1660,
+     "y": 1015,
+     "h": 500,
+     "mira": "izq",
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "zoom": [
+    1.0,
+    1.06
+   ]
+  },
+  {
+   "id": "19",
+   "desde": "Y un detalle final",
+   "fondo": "#F4E9D0",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "IMPUESTOS EN ESPAÑA · 1.er SEM. 2026",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 2088,
+     "x": 700,
+     "y": 430,
+     "tam": 170,
+     "sufijo": " M€",
+     "en": "dos mil ochenta y ocho"
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 560,
+     "w": 700,
+     "h": 100,
+     "color": "#9CC5E8",
+     "texto": "1.269 M€ soportados por la empresa",
+     "tam": 36,
+     "en": "Mil doscientos sesenta y nueve",
+     "dur": 0.8
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 690,
+     "w": 520,
+     "h": 100,
+     "color": "#D9D2C0",
+     "texto": "819 M€ recaudados para Hacienda",
+     "tam": 34,
+     "en": "ochocientos diecinueve",
+     "dur": 0.8
+    },
+    {
+     "tipo": "mascota",
+     "pose": "moneda",
+     "x": 1680,
+     "y": 1015,
+     "h": 500,
+     "mira": "izq",
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "Moeve, primer semestre de 2026 (comunicado del 31/7/2026)"
+  },
+  {
+   "id": "20",
+   "desde": "Aquí, cada semana, abrimos",
+   "fondo": "#F5B301",
+   "capas": [
+    {
+     "tipo": "mascota",
+     "pose": "saluda",
+     "x": 960,
+     "y": 1015,
+     "h": 560,
+     "entra": "abajo",
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "TICKET MEDIO",
+     "x": 960,
+     "y": 170,
+     "tam": 150,
+     "anim": "pop",
+     "t": 0.3
+    },
+    {
+     "tipo": "texto",
+     "texto": "Cada semana, el ticket de algo que pagas todos los días",
+     "x": 960,
+     "y": 300,
+     "tam": 50,
+     "fuente": "mano",
+     "papel": true,
+     "t": 1.0
+    }
+   ],
+   "sin_marca": true
+  }
+ ]
+}

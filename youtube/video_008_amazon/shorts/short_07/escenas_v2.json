@@ -1,0 +1,96 @@
+{
+ "formato": "vertical",
+ "fondos": "../../fondos",
+ "musica": "../../audio/musica.mp3",
+ "musica_db": -26,
+ "cola": 1.5,
+ "salida": "../../output/SHORT_07_ue_prohibe_destruir_ropa.mp4",
+ "escenas": [
+  {
+   "id": "a",
+   "desde": "La Unión Europea tiene",
+   "fondo": "#E3E7EC",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "DESDE EL 19/7/2026",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "LA UE PROHÍBE DESTRUIR\nROPA Y CALZADO\nSIN VENDER",
+     "x": 540,
+     "y": 560,
+     "tam": 58,
+     "color": "#E0521B",
+     "t": 0.4
+    },
+    {
+     "tipo": "texto",
+     "texto": "Reglamento de ecodiseño\n(grandes empresas)",
+     "x": 540,
+     "y": 900,
+     "tam": 44,
+     "fuente": "mano",
+     "en": "Reglamento de ecodiseño"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "riendo",
+     "x": 1040,
+     "y": 1310,
+     "h": 240,
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "b",
+   "desde": "Y deja excepciones",
+   "fondo": "#F4E9D0",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "PERO HAY EXCEPCIONES",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "Daños que no se puedan reparar\nde forma rentable",
+     "x": 540,
+     "y": 520,
+     "tam": 48,
+     "fuente": "mano",
+     "t": 0.3
+    },
+    {
+     "tipo": "texto",
+     "texto": "Incluidos los detectados\ntras una devolución",
+     "x": 540,
+     "y": 780,
+     "tam": 48,
+     "fuente": "mano",
+     "en": "incluidos los detectados"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "encoge_hombros",
+     "x": 960,
+     "y": 1310,
+     "h": 250,
+     "t": 0.2
+    }
+   ]
+  }
+ ]
+}

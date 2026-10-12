@@ -1,27 +1,27 @@
 1
-00:00:00,236 --> 00:00:01,479
-¿Y la destrucción?
+00:00:00,150 --> 00:00:02,307
+¿Destruye Amazon lo que devuelves?
 
 2
-00:00:01,479 --> 00:00:09,630
+00:00:02,206 --> 00:00:10,357
 En dos mil veintiuno, la cadena británica ITV News publicó una investigación en almacenes de Amazon en el Reino Unido.
 
 3
-00:00:09,630 --> 00:00:17,504
+00:00:10,357 --> 00:00:18,231
 Según un exempleado, en una semana de abril el objetivo registrado era destruir ciento veinticuatro mil productos,
 
 4
-00:00:17,504 --> 00:00:19,093
+00:00:18,231 --> 00:00:19,820
 muchos de ellos nuevos.
 
 5
-00:00:19,093 --> 00:00:22,270
+00:00:19,820 --> 00:00:22,997
 Amazon respondió que su prioridad es revender,
 
 6
-00:00:22,270 --> 00:00:29,799
+00:00:22,997 --> 00:00:30,526
 donar o reciclar, que en el Reino Unido no se envían artículos a vertederos y que trabaja para llegar a cero.
 
 7
-00:00:29,799 --> 00:00:35,463
+00:00:30,526 --> 00:00:36,190
 Es una investigación británica y de hace cinco años: no se puede aplicar a España.

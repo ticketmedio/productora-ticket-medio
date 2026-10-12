@@ -1,0 +1,123 @@
+{
+ "formato": "vertical",
+ "fondos": "../../fondos",
+ "musica": "../../audio/musica.mp3",
+ "musica_db": -26,
+ "cola": 1.5,
+ "salida": "../../output/SHORT_01_cepsa_ya_no_es_cepsa.mp4",
+ "escenas": [
+  {
+   "id": "a",
+   "desde": "El treinta de octubre",
+   "fondo": "centro_logistico",
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 60,
+     "y": 360,
+     "w": 960,
+     "h": 640
+    },
+    {
+     "tipo": "texto",
+     "texto": "30/10/2024",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "CEPSA → MOEVE",
+     "x": 540,
+     "y": 560,
+     "tam": 90,
+     "color": "#E0521B",
+     "anim": "pop",
+     "t": 0.4
+    },
+    {
+     "tipo": "sello",
+     "texto": "¿NOS ESTÁN ENGAÑANDO?",
+     "x": 540,
+     "y": 760,
+     "tam": 54,
+     "t": 1.2
+    },
+    {
+     "tipo": "mascota",
+     "pose": "pensativo",
+     "x": 880,
+     "y": 1310,
+     "h": 360,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "b",
+   "desde": "¿Ha cambiado de dueño",
+   "fondo": "#E3E7EC",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "¿HA CAMBIADO DE DUEÑO?",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "No hay ningún dato que lo indique:\nes la misma sociedad",
+     "x": 540,
+     "y": 520,
+     "tam": 50,
+     "fuente": "mano",
+     "en": "No hay ningún dato"
+    },
+    {
+     "tipo": "rect",
+     "x": 110,
+     "y": 760,
+     "w": 800,
+     "h": 100,
+     "color": "#F5B301",
+     "texto": "Mubadala > 61 %",
+     "tam": 40,
+     "en": "Mubadala, con algo más",
+     "dur": 0.8
+    },
+    {
+     "tipo": "rect",
+     "x": 110,
+     "y": 890,
+     "w": 420,
+     "h": 100,
+     "color": "#9CC5E8",
+     "texto": "Carlyle > 38 %",
+     "tam": 38,
+     "en": "el grupo Carlyle",
+     "dur": 0.8
+    },
+    {
+     "tipo": "mascota",
+     "pose": "normal",
+     "x": 920,
+     "y": 1310,
+     "h": 230,
+     "t": 0.2
+    }
+   ]
+  }
+ ]
+}

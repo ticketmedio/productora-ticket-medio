@@ -1,19 +1,19 @@
 1
-00:00:00,256 --> 00:00:02,030
-Lo que sí cambia es la ley.
+00:00:00,150 --> 00:00:03,612
+¿Es legal destruir productos nuevos que no se han vendido?
 
 2
-00:00:02,030 --> 00:00:11,497
+00:00:04,097 --> 00:00:13,564
 En España, la ley de residuos de dos mil veintidós prohíbe destruir o llevar a vertedero los excedentes no vendidos de productos no perecederos,
 
 3
-00:00:11,497 --> 00:00:14,520
+00:00:13,564 --> 00:00:16,587
 como textiles, juguetes o aparatos eléctricos,
 
 4
-00:00:14,520 --> 00:00:18,596
+00:00:16,587 --> 00:00:20,663
 salvo que haya que destruirlos por otra norma o por seguridad.
 
 5
-00:00:18,596 --> 00:00:22,343
+00:00:20,663 --> 00:00:24,410
 Y deben ir primero a reutilización, incluida la donación.

@@ -1,19 +1,19 @@
 1
-00:00:00,244 --> 00:00:04,908
-Según Amazon, en un comunicado publicado en octubre de dos mil veintiuno,
+00:00:00,150 --> 00:00:05,064
+¿Qué hace Amazon con lo que devuelves? Esto dice la propia empresa.
 
 2
-00:00:04,908 --> 00:00:08,550
+00:00:05,622 --> 00:00:09,264
 cada artículo devuelto pasa por una inspección detallada.
 
 3
-00:00:08,550 --> 00:00:13,278
+00:00:09,264 --> 00:00:13,992
 Si está como nuevo, se etiqueta como nuevo y se vuelve a poner a la venta.
 
 4
-00:00:13,278 --> 00:00:18,645
+00:00:13,992 --> 00:00:19,359
 De hecho, dice, la mayoría de los productos devueltos se pueden volver a vender así.
 
 5
-00:00:18,645 --> 00:00:23,118
+00:00:19,359 --> 00:00:23,832
 Es lo que cuenta la empresa; no hay una cifra pública que lo confirme.

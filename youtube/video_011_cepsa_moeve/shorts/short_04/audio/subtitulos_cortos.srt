@@ -1,0 +1,71 @@
+1
+00:00:00,150 --> 00:00:01,181
+Esto es lo que
+
+2
+00:00:01,181 --> 00:00:02,212
+Moeve dice que está
+
+3
+00:00:02,212 --> 00:00:03,243
+construyendo.
+
+4
+00:00:03,213 --> 00:00:04,686
+El Gobierno de España
+
+5
+00:00:04,686 --> 00:00:06,159
+le ha concedido trescientos
+
+6
+00:00:06,159 --> 00:00:07,632
+cuatro millones de euros
+
+7
+00:00:07,632 --> 00:00:09,105
+de fondos europeos para
+
+8
+00:00:09,105 --> 00:00:10,577
+el Valle Andaluz del
+
+9
+00:00:10,577 --> 00:00:12,050
+Hidrógeno Verde.
+
+10
+00:00:12,050 --> 00:00:13,393
+Una planta de biocombustibles
+
+11
+00:00:13,393 --> 00:00:14,736
+de segunda generación en
+
+12
+00:00:14,736 --> 00:00:16,078
+Huelva,
+
+13
+00:00:16,078 --> 00:00:17,150
+ya construida en más
+
+14
+00:00:17,150 --> 00:00:18,222
+de la mitad.
+
+15
+00:00:18,222 --> 00:00:20,074
+Más de doscientos ochenta
+
+16
+00:00:20,074 --> 00:00:21,926
+puntos de recarga ultrarrápida.
+
+17
+00:00:21,926 --> 00:00:23,681
+Y quinientas estaciones renovadas
+
+18
+00:00:23,681 --> 00:00:25,435
+con la nueva imagen.

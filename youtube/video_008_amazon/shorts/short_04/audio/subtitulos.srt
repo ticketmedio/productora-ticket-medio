@@ -1,19 +1,19 @@
 1
-00:00:00,000 --> 00:00:04,955
-Para eso, Amazon les ofrece programas: uno se llama FBA Liquidations,
+00:00:00,150 --> 00:00:07,317
+Los vendedores independientes de Amazon pueden liquidar lo devuelto con un programa llamado FBA Liquidations.
 
 2
-00:00:04,955 --> 00:00:12,816
+00:00:07,593 --> 00:00:15,454
 y permite liquidar el inventario devuelto o no vendido a través del canal de liquidación mayorista de Amazon.
 
 3
-00:00:12,816 --> 00:00:17,648
+00:00:15,454 --> 00:00:20,286
 Y otro, FBA Grade and Resell, para revender lo devuelto como usado.
 
 4
-00:00:17,998 --> 00:00:23,909
+00:00:20,636 --> 00:00:26,547
 Es una de las vías por las que un producto devuelto puede acabar en un lote de liquidación.
 
 5
-00:00:23,909 --> 00:00:30,470
+00:00:26,547 --> 00:00:33,108
 Pero ojo: no podemos decirte de dónde sale cada palé o cada caja de devoluciones que ves en internet.

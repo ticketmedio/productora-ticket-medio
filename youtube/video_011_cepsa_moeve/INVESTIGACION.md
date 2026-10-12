@@ -1,0 +1,29 @@
+# INVESTIGACIÓN — Vídeo 011: CEPSA → MOEVE
+### «¿Nos están engañando? Por qué Cepsa ya no se llama Cepsa»
+
+Fecha: 12/10/2026. **Por qué (informes diarios, `herramientas/briefing.py`):** el outlier «¿Nos están engañando? La verdad sobre el cambio de nombre de CEPSA» (Bruno Peluch, 156 mil visualizaciones con 5,9 mil suscriptores, ≈27×; informes del 10 y 11/10) con la fórmula sospecha + marca conocida; los informes recomiendan «dato verificable como prueba en los primeros 30 s». Enlaza con nuestro vídeo de la gasolina. Es el vídeo donde más cuidado hay que tener: se contrasta lo que la empresa dice con lo que la propia empresa publica, SIN acusar de nada.
+**Leyenda:** **D** = comunicado oficial de la empresa o norma · **P** = prensa · **C** = cálculo propio · **!** = no confirmado.
+
+## 1. EL CAMBIO DE NOMBRE [P/D]
+- Anunciado el **30/10/2024** (Forbes España, 30/10/2024): Cepsa pasa a llamarse **Moeve**, marca de la estrategia «Positive Motion 2030»; el consejero delegado, **Maarten Wetselaar**: «Moeve nos permite afrontar el futuro con más certeza y confianza»; busca «acelerar su descarbonización» y la de sus clientes. Inversión de **hasta 8.000 M€** de la que **más del 60 %** iría a negocios sostenibles (hidrógeno verde, biocombustibles de segunda generación, químicos sostenibles y recarga ultrarrápida). Más de 11.000 empleados (2024). Ventas de activos de exploración y producción en Abu Dabi (2023) y en Colombia y Perú (2024). https://forbes.es/empresas/531147/cepsa-cambia-de-marca-moeve/
+- Accionistas (a 31/12/2024, informe anual citado por Wikipedia/prensa; no verificado en el original): Cepsa Holding LLC, controlada por **Mubadala** (fondo soberano de Abu Dabi), **61,36 %**; Matador Bidco, de **The Carlyle Group**, **38,41 %**. ! Citar como «algo más del 61 % y algo más del 38 %, según el informe de 2024».
+- Es la misma sociedad (Moeve, S.A.) con otra marca; nada indica cambio de dueños.
+
+## 2. EL RESULTADO DE 2025 [D: comunicado de Moeve del 2/3/2026]
+https://www.moeveglobal.com/en/press/moeve-2025-financial-results-energy-transition-saf-hydrogen
+EBITDA CCS ajustado **1.685 M€**; beneficio neto CCS ajustado **686 M€** (la prensa —El Español, 2/3/2026— cifra el neto reportado en **341 M€** y atribuye la diferencia en parte al fin del impuesto a las energéticas); capex **1.151 M€**, con la inversión en transición energética «un **récord del 55 %**» (43 % en 2024); caja de operaciones 1.514 M€; deuda neta 2.362 M€ (1,6× EBITDA). **División de Energía** (parques energéticos, comercial y energías limpias, movilidad y comercio, trading): EBITDA **1.400 M€** (1.453 en 2024), margen de refino 7,9 $/barril, utilización 90 %, **ventas de productos comerciales 18,2 Mt (+6 %)**. Químicos 181 M€; Upstream 259 M€. «Moeve ha vendido el 70 % de su cartera de producción de petróleo desde 2022.» **500** estaciones transformadas a la nueva imagen; más de **280** puntos de recarga ultrarrápida (150 kW, 100 % renovable); **Ballenoil** (red low cost de Moeve): **370** estaciones (65 abiertas en el año). Hidrógeno: **304 M€** del Gobierno (NextGenerationEU) para **400 MW** del Valle Andaluz del Hidrógeno Verde. Planta de biocombustibles 2G de Palos de la Frontera (Huelva) con la JV con Bio-Oils: más del 50 % construida (SAF y HVO). Negociaciones con Galp (acuerdo no vinculante, enero de 2026) para combinar los negocios *downstream*.
+
+## 3. LO ÚLTIMO: PRIMER SEMESTRE DE 2026 [D: comunicado de Moeve del 31/7/2026]
+https://www.moeveglobal.com/en/press/first-half-2026-financial-results
+EBITDA CCS **1.178 M€**; beneficio neto CCS **458 M€** (+41 %); capex **605 M€** (+20 %) con un **récord del 69 %** a proyectos de transición energética; **EBITDA de Energía 945 M€** (564 en H1 2025); Químicos 172; Upstream 145. **Impuestos en España en el semestre: 2.088 M€, de los que 1.269 M€ soportados y 819 M€ recaudados por cuenta de Hacienda.** Lanza «descuentos comerciales adicionales» para clientes de fidelización por los altos precios de la energía. Primera fase (300 MW) del Valle Andaluz del Hidrógeno Verde: acto de primera piedra el 17/9. Galp: se espera firmar el acuerdo definitivo en el segundo semestre de 2026.
+Cálculos propios (C): Energía = 945 / 1.178 = **80 %** del EBITDA del grupo en H1 2026 (83 % en 2025: 1.400 / 1.685); capex de transición energética 2025 ≈ 633 M€ (55 % de 1.151); H1 2026 ≈ 418 M€ (69 % de 605). Impuestos soportados 1.269 / beneficio neto 458 ≈ 2,8 (conceptos distintos: solo orientativo).
+
+## 4. LA NORMA SOBRE AFIRMACIONES «VERDES» [D]
+Directiva (UE) 2024/825 (EUR-Lex): los Estados miembros aplicarán las disposiciones **a partir del 27 de septiembre de 2026** (art. 4). Prohíbe, entre otras, «afirmaciones medioambientales genéricas» («respetuoso con el medio ambiente», «verde», «ecológico», «respetuoso con el clima») sin un comportamiento medioambiental excelente reconocido; «realizar una afirmación medioambiental sobre la totalidad del producto o sobre toda la empresa cuando solo se refiera a un determinado aspecto»; y afirmar, «basándose en la compensación de emisiones», que un producto tiene un impacto neutro, reducido o positivo. Cuando la especificación se da «en términos claros y visibles», no es genérica. ! No se ha comprobado cómo la ha transpuesto España ni se valora ningún anuncio concreto de Moeve.
+
+## 5. LO QUE NO SE PUEDE AFIRMAR (!)
+- NO decir que Moeve hace «greenwashing» ni que engaña: no hay resolución alguna; los hechos se contraponen y se deja que el espectador valore.
+- NO decir que el cambio de nombre cambia los precios: no hay dato.
+- El número total de estaciones de la red no figura en los comunicados leídos: no se da.
+- «Energía» incluye energías limpias comerciales: no se identifica con «solo combustibles fósiles».
+- El neto reportado de 2025 (341 M€) viene de prensa; el comunicado solo da el ajustado (686 M€).

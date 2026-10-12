@@ -1,0 +1,113 @@
+{
+ "n": 8,
+ "nombre": "lo que devuelves a Amazon",
+ "titulo": "Lo que devuelves a Amazon: ¿lo revenden, lo regalan o lo destruyen?",
+ "alternativas": [
+  "¿Qué hace Amazon con tus devoluciones? Lo que dicen la ley y la empresa",
+  "¿Destruye Amazon lo que devuelves? Lo que se sabe (y lo que no)"
+ ],
+ "miniatura": "¿LO DESTRUYEN? TU DEVOLUCIÓN A AMAZON",
+ "etiquetas": "Amazon devoluciones, qué hace Amazon con las devoluciones, devolver compra online, derecho de desistimiento, 14 días devolución, destrucción productos Amazon, ley de residuos, ecodiseño UE, palés de devoluciones, consumo España, Ticket Medio",
+ "descripcion": "Devuelves un paquete a Amazon y te olvidas. ¿Se revende, se regala o se destruye? Abrimos el ticket de una devolución con lo que dicen la ley (derecho de desistimiento de 14 días, Ley 7/2022 de residuos y Reglamento UE 2024/1781), lo que dice la propia Amazon (comunicado de 2021), los programas de liquidación para vendedores independientes y la investigación de ITV News en el Reino Unido.\n\nAmazon no publica cuántos productos devueltos revende, dona o destruye en España: esa cifra no existe públicamente y no la inventamos. La investigación británica es de 2021 y no se aplica a España. Las fuentes, en el comentario fijado.",
+ "capitulos": [
+  [
+   "Qué pasa con tu paquete",
+   "Hoy vamos a abrir el ticket"
+  ],
+  [
+   "Tu derecho a devolver",
+   "Primero, tu derecho"
+  ],
+  [
+   "Tus obligaciones",
+   "Y tú también tienes obligaciones"
+  ],
+  [
+   "Lo que dice Amazon",
+   "Según Amazon"
+  ],
+  [
+   "Vendedores independientes",
+   "Pero hay un detalle"
+  ],
+  [
+   "La investigación de ITV",
+   "¿Y la destrucción"
+  ],
+  [
+   "Lo que dice la ley",
+   "Lo que sí cambia"
+  ],
+  [
+   "Lo que sabemos y lo que no",
+   "Así que, ¿qué sabemos"
+  ]
+ ],
+ "vistos": "Vídeos anteriores: Mercadona, Zara, El Corte Inglés, Lidl, la factura de la luz y Ryanair, con el mismo método.",
+ "hashtags": "#Amazon #Devoluciones #Consumo",
+ "comentario": [
+  "· TRLGDCU (Real Decreto Legislativo 1/2007), arts. 68, 71, 102–108: https://www.boe.es/buscar/act.php?id=BOE-A-2007-20555",
+  "· Ley 7/2022 de residuos y suelos contaminados, art. 18.2: https://www.boe.es/buscar/act.php?id=BOE-A-2022-5809",
+  "· Reglamento (UE) 2024/1781 de ecodiseño, art. 25 y considerando 55: https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32024R1781",
+  "· Amazon, «¿Qué sucede en Amazon con los productos devueltos o no vendidos?» (22/10/2021): https://www.aboutamazon.es/noticias/sostenibilidad/que-sucede-en-amazon-con-los-productos-devueltos-o-no-vendidos",
+  "· ITV News (Reino Unido, 2021), según Xataka (21/6/2021). Es una investigación británica y no se aplica a España."
+ ],
+ "shorts": [
+  {
+   "id": "01",
+   "archivo": "SHORT_01_que_hace_amazon.mp4",
+   "dia": "sábado 14/11",
+   "titulo": "¿Qué hace Amazon con lo que devuelves? Esto dice la propia empresa",
+   "descripcion": "Según un comunicado de Amazon de octubre de 2021, cada artículo devuelto pasa por una inspección detallada y, si está como nuevo, se vuelve a poner a la venta. No hay una cifra pública que lo confirme.",
+   "hashtags": "#Amazon #Devoluciones #Consumo"
+  },
+  {
+   "id": "02",
+   "archivo": "SHORT_02_plazo_devolucion.mp4",
+   "dia": "domingo 15/11",
+   "titulo": "Tienes 14 días para devolver una compra online: lo que dice la ley",
+   "descripcion": "Según la Ley General para la Defensa de los Consumidores, tienes 14 días naturales para desistir de una compra online sin explicar el motivo y sin penalización. La política de cada tienda puede ser más generosa.",
+   "hashtags": "#Consumo #Devoluciones #Derechos"
+  },
+  {
+   "id": "03",
+   "archivo": "SHORT_03_tus_obligaciones.mp4",
+   "dia": "lunes 16/11",
+   "titulo": "Devolver una compra online: tus obligaciones según la ley",
+   "descripcion": "Devolver el producto en un máximo de 14 días, asumir los costes directos salvo excepciones, responder de la pérdida de valor si lo manipulas más de lo necesario y guardar el justificante.",
+   "hashtags": "#Consumo #Devoluciones #Derechos"
+  },
+  {
+   "id": "04",
+   "archivo": "SHORT_04_vendedores_liquidan.mp4",
+   "dia": "martes 17/11",
+   "titulo": "Los vendedores de Amazon pueden liquidar lo que devuelves",
+   "descripcion": "Según Amazon, más de la mitad de lo que se vende es de vendedores independientes, dueños de su inventario. Programas como FBA Liquidations permiten liquidar lo devuelto. No se puede saber de dónde sale cada palé.",
+   "hashtags": "#Amazon #Liquidaciones #Devoluciones"
+  },
+  {
+   "id": "05",
+   "archivo": "SHORT_05_investigacion_itv.mp4",
+   "dia": "miércoles 18/11",
+   "titulo": "124.000 productos en una semana: la investigación de ITV sobre Amazon",
+   "descripcion": "ITV News (Reino Unido, 2021) publicó que el objetivo registrado en una semana de abril era destruir 124.000 productos. Amazon respondió que su prioridad es revender, donar o reciclar. No se puede aplicar a España.",
+   "hashtags": "#Amazon #ITVNews #Consumo"
+  },
+  {
+   "id": "06",
+   "archivo": "SHORT_06_ley_residuos.mp4",
+   "dia": "jueves 19/11",
+   "titulo": "¿Es legal destruir productos nuevos sin vender en España?",
+   "descripcion": "La Ley 7/2022 de residuos prohíbe destruir o llevar a vertedero excedentes no vendidos de productos no perecederos (textiles, juguetes, aparatos eléctricos), salvo excepciones, y obliga a priorizar reutilización y donación.",
+   "hashtags": "#Residuos #Ley #Consumo"
+  },
+  {
+   "id": "07",
+   "archivo": "SHORT_07_ue_prohibe_destruir_ropa.mp4",
+   "dia": "viernes 20/11",
+   "titulo": "La UE prohíbe destruir ropa y calzado sin vender desde julio de 2026",
+   "descripcion": "Desde el 19/7/2026 el Reglamento (UE) 2024/1781 de ecodiseño prohíbe a las grandes empresas destruir ropa, complementos y calzado sin vender, con excepciones como daños no reparables detectados tras una devolución.",
+   "hashtags": "#UE #Ecodiseño #Moda"
+  }
+ ]
+}

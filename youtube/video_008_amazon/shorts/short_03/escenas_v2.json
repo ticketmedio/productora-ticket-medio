@@ -1,0 +1,95 @@
+{
+ "formato": "vertical",
+ "fondos": "../../fondos",
+ "musica": "../../audio/musica.mp3",
+ "musica_db": -26,
+ "cola": 1.5,
+ "salida": "../../output/SHORT_03_tus_obligaciones.mp4",
+ "escenas": [
+  {
+   "id": "a",
+   "desde": "Cuando devuelves una compra online",
+   "fondo": "#FFF3C4",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "TUS OBLIGACIONES",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "Devolver el producto en\nmáximo 14 días",
+     "x": 540,
+     "y": 520,
+     "tam": 50,
+     "fuente": "mano",
+     "en": "catorce días"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Los costes de devolución\nsuelen ser tuyos",
+     "x": 540,
+     "y": 780,
+     "tam": 50,
+     "fuente": "mano",
+     "en": "Los costes directos"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "normal",
+     "x": 940,
+     "y": 1310,
+     "h": 260,
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "b",
+   "desde": "Solo respondes",
+   "fondo": "#E3E7EC",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "TAMBIÉN",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "Respondes de la pérdida de valor\nsi lo manipulas de más",
+     "x": 540,
+     "y": 500,
+     "tam": 46,
+     "fuente": "mano",
+     "en": "Solo respondes"
+    },
+    {
+     "tipo": "sello",
+     "texto": "GUARDA EL JUSTIFICANTE",
+     "x": 540,
+     "y": 820,
+     "tam": 56,
+     "en": "guarda el justificante"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "encoge_hombros",
+     "x": 940,
+     "y": 1310,
+     "h": 250,
+     "t": 0.2
+    }
+   ]
+  }
+ ]
+}

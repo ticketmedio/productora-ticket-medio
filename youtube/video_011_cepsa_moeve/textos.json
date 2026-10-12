@@ -1,0 +1,116 @@
+{
+ "n": 11,
+ "nombre": "Cepsa y Moeve",
+ "titulo": "¿Nos están engañando? Por qué Cepsa ya no se llama Cepsa",
+ "alternativas": [
+  "Moeve invierte en verde, pero ¿de dónde sale su dinero? Lo que dicen sus cifras",
+  "Cepsa es ahora Moeve: lo que ha cambiado y lo que no, con datos oficiales"
+ ],
+ "miniatura": "¿NOS ESTÁN ENGAÑANDO? CEPSA → MOEVE",
+ "etiquetas": "Cepsa, Moeve, Cepsa Moeve, Moeve gasolineras, Ballenoil, cambio de nombre Cepsa, greenwashing, Positive Motion 2030, hidrógeno verde, transición energética, gasolineras España, Ticket Medio",
+ "descripcion": "El 30 de octubre de 2024 Cepsa dejó de llamarse Cepsa y pasó a ser Moeve. ¿Nos están engañando? Lo comprobamos con lo que la propia empresa publica: quién es el dueño, qué dijo al cambiar de nombre, cuánto invierte en transición energética (55 % de la inversión de 2025 y 69 % en el primer semestre de 2026), de dónde sale realmente su beneficio (83 % y 80 % de la división de Energía), qué está construyendo, que Ballenoil también es suya y qué dice la nueva directiva europea sobre afirmaciones medioambientales (UE 2024/825, aplicable desde el 27/9/2026).\n\nNo acusamos a nadie ni hemos revisado ningún anuncio concreto. Las cifras son de comunicados e informes de Moeve; los cálculos propios se indican como tales. Las fuentes, en el comentario fijado.",
+ "capitulos": [
+  [
+   "Cepsa ahora es Moeve",
+   "Empecemos por lo básico"
+  ],
+  [
+   "Qué dijo al cambiar de nombre",
+   "¿Qué dijo la empresa"
+  ],
+  [
+   "Cuánto invierte en verde",
+   "En dos mil veinticinco, Moeve invirtió"
+  ],
+  [
+   "Lo que está construyendo",
+   "Lo que están construyendo"
+  ],
+  [
+   "De dónde sale el dinero",
+   "Ahora, la otra columna"
+  ],
+  [
+   "Ballenoil",
+   "Y otro dato curioso"
+  ],
+  [
+   "La norma europea",
+   "Ahora, una norma"
+  ],
+  [
+   "Lo que no sabemos",
+   "Vamos con lo que no sabemos"
+  ],
+  [
+   "¿Nos están engañando?",
+   "Así que, ¿nos están"
+  ]
+ ],
+ "vistos": "Vídeos anteriores: Mercadona, Zara, El Corte Inglés, Lidl, la factura de la luz, Ryanair, las marcas blancas de Mercadona y el súper más barato, con el mismo método.",
+ "hashtags": "#Moeve #Cepsa #Gasolineras",
+ "comentario": [
+  "· Moeve, informe anual de 2024 y comunicados de resultados de 2025 y del primer semestre de 2026 (inversión, EBITDA por división, impuestos, estaciones y proyectos).",
+  "· Anuncio del cambio de marca de Cepsa a Moeve (30/10/2024) y estrategia Positive Motion 2030, según la propia compañía.",
+  "· Directiva (UE) 2024/825 sobre capacitación de los consumidores para la transición ecológica (EUR-Lex); aplicable desde el 27/9/2026.",
+  "· Los porcentajes y el cálculo de «unos 630 M€» son nuestros, a partir de las cifras de la empresa."
+ ],
+ "shorts": [
+  {
+   "id": "01",
+   "archivo": "SHORT_01_cepsa_ya_no_es_cepsa.mp4",
+   "dia": "sábado 5/12",
+   "titulo": "Cepsa ya no se llama Cepsa: ¿nos están engañando?",
+   "descripcion": "Desde el 30/10/2024 Cepsa es Moeve. No hay ningún dato que indique cambio de dueño: es la misma sociedad, con Mubadala (algo más del 61 %) y Carlyle (algo más del 38 %) como accionistas, según su informe de 2024.",
+   "hashtags": "#Moeve #Cepsa #Gasolineras"
+  },
+  {
+   "id": "02",
+   "archivo": "SHORT_02_inversion_verde.mp4",
+   "dia": "domingo 6/12",
+   "titulo": "Moeve: el 55 % de su inversión es transición energética (récord)",
+   "descripcion": "Según la propia empresa, en 2025 el 55 % de la inversión (1.151 M€) fue a transición energética, frente al 43 % del año anterior; en el primer semestre de 2026, el 69 % de 605 M€.",
+   "hashtags": "#Moeve #Inversión #Energía"
+  },
+  {
+   "id": "03",
+   "archivo": "SHORT_03_de_donde_sale_el_dinero.mp4",
+   "dia": "lunes 7/12",
+   "titulo": "Moeve invierte en verde, pero ¿de dónde sale el dinero?",
+   "descripcion": "EBITDA de 2025: 1.685 M€, de los que 1.400 M€ (83 %) vienen de la división de Energía. Primer semestre de 2026: 945 de 1.178 M€ (80 %). Fuente: comunicados de Moeve.",
+   "hashtags": "#Moeve #Refino #Energía"
+  },
+  {
+   "id": "04",
+   "archivo": "SHORT_04_lo_que_construye.mp4",
+   "dia": "martes 8/12",
+   "titulo": "Lo que Moeve está construyendo (según la propia empresa)",
+   "descripcion": "304 M€ de fondos europeos para el Valle Andaluz del Hidrógeno Verde, planta de biocombustibles en Huelva construida en más de la mitad, más de 280 puntos de recarga ultrarrápida y 500 estaciones renovadas.",
+   "hashtags": "#Moeve #Hidrógeno #Biocombustibles"
+  },
+  {
+   "id": "05",
+   "archivo": "SHORT_05_ballenoil.mp4",
+   "dia": "miércoles 9/12",
+   "titulo": "Ballenoil también es de Moeve: la low cost, de la misma empresa",
+   "descripcion": "Moeve es también la dueña de Ballenoil, la cadena de gasolineras low cost, que ha llegado a 370 estaciones según los datos de la empresa.",
+   "hashtags": "#Ballenoil #Moeve #Gasolina"
+  },
+  {
+   "id": "06",
+   "archivo": "SHORT_06_norma_afirmaciones_verdes.mp4",
+   "dia": "jueves 10/12",
+   "titulo": "Desde el 27/9/2026 no se puede presumir de «verde» sin demostrarlo",
+   "descripcion": "La directiva (UE) 2024/825 prohíbe afirmaciones medioambientales genéricas sin demostrar, presentar toda una empresa como verde por un solo aspecto y la neutralidad basada en compensar emisiones. No decimos que nadie la incumpla.",
+   "hashtags": "#Greenwashing #UE #Consumo"
+  },
+  {
+   "id": "07",
+   "archivo": "SHORT_07_impuestos_2088.mp4",
+   "dia": "viernes 11/12",
+   "titulo": "Moeve: 2.088 millones en impuestos en solo seis meses",
+   "descripcion": "Primer semestre de 2026: 2.088 M€ en impuestos en España; 819 M€ los recauda por cuenta de Hacienda (impuestos que pagan los clientes). Fuente: Moeve.",
+   "hashtags": "#Moeve #Impuestos #Gasolina"
+  }
+ ]
+}

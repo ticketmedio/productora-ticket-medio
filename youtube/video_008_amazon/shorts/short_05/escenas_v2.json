@@ -1,0 +1,116 @@
+{
+ "formato": "vertical",
+ "fondos": "../../fondos",
+ "musica": "../../audio/musica.mp3",
+ "musica_db": -26,
+ "cola": 1.5,
+ "salida": "../../output/SHORT_05_investigacion_itv.mp4",
+ "escenas": [
+  {
+   "id": "a",
+   "desde": "¿Destruye Amazon",
+   "fondo": "almacen_devoluciones",
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 60,
+     "y": 360,
+     "w": 960,
+     "h": 640
+    },
+    {
+     "tipo": "texto",
+     "texto": "¿DESTRUYE AMAZON?",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 124000,
+     "x": 540,
+     "y": 540,
+     "tam": 150,
+     "color": "#E0521B",
+     "en": "ciento veinticuatro mil"
+    },
+    {
+     "tipo": "texto",
+     "texto": "objetivo registrado en una semana\n(Reino Unido, 2021, ITV News)",
+     "x": 540,
+     "y": 720,
+     "tam": 42,
+     "fuente": "mano",
+     "en": "una semana de abril"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "sorprendido",
+     "x": 900,
+     "y": 1310,
+     "h": 330,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "b",
+   "desde": "Amazon respondió",
+   "fondo": "#E3E7EC",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "LA RESPUESTA",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "Prioridad: revender, donar o reciclar",
+     "x": 540,
+     "y": 500,
+     "tam": 46,
+     "fuente": "mano",
+     "en": "su prioridad"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Sin vertederos en el Reino Unido",
+     "x": 540,
+     "y": 660,
+     "tam": 46,
+     "fuente": "mano",
+     "en": "no se envían"
+    },
+    {
+     "tipo": "sello",
+     "texto": "NO SE PUEDE APLICAR A ESPAÑA",
+     "x": 540,
+     "y": 880,
+     "tam": 46,
+     "en": "no se puede aplicar"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "lupa",
+     "x": 1000,
+     "y": 1310,
+     "h": 240,
+     "t": 0.2
+    }
+   ]
+  }
+ ]
+}

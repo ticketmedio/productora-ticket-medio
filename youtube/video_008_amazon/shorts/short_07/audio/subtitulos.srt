@@ -1,0 +1,31 @@
+1
+00:00:00,150 --> 00:00:04,426
+La Unión Europea tiene una nueva norma contra la destrucción de ropa.
+
+2
+00:00:04,487 --> 00:00:07,830
+Desde el diecinueve de julio de dos mil veintiséis,
+
+3
+00:00:07,830 --> 00:00:12,746
+el Reglamento de ecodiseño prohíbe a las grandes empresas destruir la ropa,
+
+4
+00:00:12,746 --> 00:00:15,434
+los complementos y el calzado sin vender.
+
+5
+00:00:15,434 --> 00:00:24,349
+La propia norma reconoce el motivo: la destrucción de productos no vendidos se ha convertido en un problema medioambiental generalizado,
+
+6
+00:00:24,349 --> 00:00:28,806
+debido, en particular, al rápido crecimiento de las ventas en línea.
+
+7
+00:00:28,806 --> 00:00:33,853
+Y deja excepciones, como los daños que no puedan repararse de forma rentable,
+
+8
+00:00:33,853 --> 00:00:36,803
+incluidos los detectados tras una devolución.

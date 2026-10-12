@@ -1,23 +1,23 @@
 1
-00:00:00,249 --> 00:00:01,677
-Primero, tu derecho.
+00:00:00,150 --> 00:00:05,148
+¿Cuánto tiempo tienes para devolver una compra online? Esto dice la ley.
 
 2
-00:00:01,677 --> 00:00:08,747
+00:00:04,870 --> 00:00:11,940
 Cuando compras por internet, la ley te da catorce días naturales para devolver lo que has comprado,
 
 3
-00:00:08,747 --> 00:00:12,318
+00:00:11,940 --> 00:00:15,511
 sin tener que explicar por qué y sin penalización.
 
 4
-00:00:12,318 --> 00:00:18,173
+00:00:15,511 --> 00:00:21,366
 Está en la Ley General para la Defensa de los Consumidores, y es un derecho legal.
 
 5
-00:00:18,173 --> 00:00:23,886
+00:00:21,366 --> 00:00:27,079
 Ojo: no es lo mismo que la política de devoluciones que pueda tener cada tienda,
 
 6
-00:00:23,886 --> 00:00:25,814
+00:00:27,079 --> 00:00:29,007
 que puede ser más generosa.

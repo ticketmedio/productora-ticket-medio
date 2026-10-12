@@ -1,0 +1,160 @@
+{
+ "formato": "vertical",
+ "fondos": "../../fondos",
+ "musica": "../../audio/musica.mp3",
+ "musica_db": -26,
+ "cola": 1.5,
+ "salida": "../../output/SHORT_03_de_donde_sale_el_dinero.mp4",
+ "escenas": [
+  {
+   "id": "a",
+   "desde": "Moeve invierte sobre todo en verde",
+   "fondo": "#FFF3C4",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "¿DE DÓNDE SALE EL DINERO?",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "Invierte en verde…",
+     "x": 540,
+     "y": 560,
+     "tam": 66,
+     "color": "#2E8B57",
+     "t": 0.4
+    },
+    {
+     "tipo": "texto",
+     "texto": "…¿e ingresa con?",
+     "x": 540,
+     "y": 760,
+     "tam": 66,
+     "color": "#E0521B",
+     "en": "¿De dónde sale el dinero"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "pensativo",
+     "x": 900,
+     "y": 1310,
+     "h": 300,
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "b",
+   "desde": "En dos mil veinticinco, la empresa ganó",
+   "fondo": "#E3E7EC",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "EBITDA 2025",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "rect",
+     "x": 110,
+     "y": 460,
+     "w": 860,
+     "h": 100,
+     "color": "#9CC5E8",
+     "texto": "Grupo: 1.685 M€",
+     "tam": 40,
+     "en": "mil seiscientos ochenta",
+     "dur": 0.8
+    },
+    {
+     "tipo": "rect",
+     "x": 110,
+     "y": 590,
+     "w": 700,
+     "h": 100,
+     "color": "#E0521B",
+     "texto": "Energía: 1.400 M€ · 83 %",
+     "tam": 36,
+     "en": "mil cuatrocientos",
+     "dur": 0.8
+    },
+    {
+     "tipo": "texto",
+     "texto": "refino, estaciones, comercio y energías limpias comerciales",
+     "x": 540,
+     "y": 780,
+     "tam": 38,
+     "fuente": "mano",
+     "en": "junto con las energías limpias"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "lupa",
+     "x": 920,
+     "y": 1310,
+     "h": 220,
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "c",
+   "desde": "Y en el primer semestre de dos mil veintiséis",
+   "fondo": "#F4E9D0",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "1.er SEMESTRE 2026",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "rect",
+     "x": 110,
+     "y": 460,
+     "w": 860,
+     "h": 100,
+     "color": "#9CC5E8",
+     "texto": "Grupo: 1.178 M€",
+     "tam": 40,
+     "en": "mil ciento setenta y ocho",
+     "dur": 0.8
+    },
+    {
+     "tipo": "rect",
+     "x": 110,
+     "y": 590,
+     "w": 690,
+     "h": 100,
+     "color": "#E0521B",
+     "texto": "Energía: 945 M€ · 80 %",
+     "tam": 36,
+     "en": "novecientos cuarenta y cinco",
+     "dur": 0.8
+    },
+    {
+     "tipo": "mascota",
+     "pose": "normal",
+     "x": 920,
+     "y": 1310,
+     "h": 240,
+     "t": 0.2
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "shorts": [
+  {
+   "id": "01",
+   "titulo": "Cepsa ya no se llama Cepsa: ¿nos están engañando?",
+   "tramos": [
+    [
+     "Empecemos por lo básico",
+     "treinta y ocho"
+    ]
+   ],
+   "intro": "El treinta de octubre de dos mil veinticuatro, Cepsa dejó de llamarse Cepsa. ¿Nos están engañando?"
+  },
+  {
+   "id": "02",
+   "titulo": "Moeve: el 55 % de su inversión es transición energética (récord)",
+   "tramos": [
+    [
+     "En dos mil veinticinco, Moeve invirtió",
+     "el cuarenta y tres"
+    ],
+    [
+     "Y en el primer semestre",
+     "Otro récord"
+    ]
+   ],
+   "intro": "¿Cuánto invierte Moeve en transición energética?"
+  },
+  {
+   "id": "03",
+   "titulo": "Moeve ingresa un 80 % con energía, pero invierte un 69 % en verde",
+   "tramos": [
+    [
+     "Ahora, la otra columna",
+     "El ochenta por ciento"
+    ]
+   ],
+   "intro": "Moeve invierte sobre todo en verde, pero ¿de dónde sale lo que gana?"
+  },
+  {
+   "id": "04",
+   "titulo": "Lo que construye Moeve: hidrógeno, biocombustibles y recarga",
+   "tramos": [
+    [
+     "Lo que están construyendo",
+     "con la nueva imagen"
+    ]
+   ],
+   "intro": "Esto es lo que Moeve dice que está construyendo."
+  },
+  {
+   "id": "05",
+   "titulo": "Ballenoil, la gasolinera low cost, es de Moeve (antes Cepsa)",
+   "tramos": [
+    [
+     "Y otro dato curioso",
+     "la misma empresa"
+    ]
+   ],
+   "intro": "La gasolinera low cost Ballenoil pertenece a Moeve, la antigua Cepsa."
+  },
+  {
+   "id": "06",
+   "titulo": "Desde el 27/9/2026 la UE prohíbe presumir de «verde» sin demostrarlo",
+   "tramos": [
+    [
+     "los Estados de la Unión Europea deben aplicar",
+     "compensar emisiones"
+    ]
+   ],
+   "intro": "Desde el veintisiete de septiembre de dos mil veintiséis, una directiva europea limita presumir de «verde»."
+  },
+  {
+   "id": "07",
+   "titulo": "Moeve pagó o recaudó 2.088 millones en impuestos en medio año",
+   "tramos": [
+    [
+     "Mil doscientos sesenta y nueve",
+     "ingresa al Estado"
+    ]
+   ],
+   "intro": "Moeve contribuyó con dos mil ochenta y ocho millones en impuestos en España en solo seis meses."
+  }
+ ]
+}

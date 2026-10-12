@@ -1,0 +1,116 @@
+{
+ "formato": "vertical",
+ "fondos": "../../fondos",
+ "musica": "../../audio/musica.mp3",
+ "musica_db": -26,
+ "cola": 1.5,
+ "salida": "../../output/SHORT_01_que_hace_amazon.mp4",
+ "escenas": [
+  {
+   "id": "a",
+   "desde": "¿Qué hace Amazon",
+   "fondo": "almacen_devoluciones",
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 60,
+     "y": 360,
+     "w": 960,
+     "h": 640
+    },
+    {
+     "tipo": "texto",
+     "texto": "TU DEVOLUCIÓN",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "¿QUÉ HACE AMAZON\nCON LO QUE DEVUELVES?",
+     "x": 540,
+     "y": 580,
+     "tam": 62,
+     "color": "#E0521B",
+     "t": 0.4
+    },
+    {
+     "tipo": "texto",
+     "texto": "Esto dice la propia empresa",
+     "x": 540,
+     "y": 800,
+     "tam": 48,
+     "fuente": "mano",
+     "t": 1.2
+    },
+    {
+     "tipo": "mascota",
+     "pose": "pensativo",
+     "x": 900,
+     "y": 1310,
+     "h": 340,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "b",
+   "desde": "Si está como nuevo",
+   "fondo": "#E3E7EC",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "SEGÚN AMAZON",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "Inspección detallada de cada artículo",
+     "x": 540,
+     "y": 480,
+     "tam": 46,
+     "fuente": "mano",
+     "en": "inspección detallada"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Si está como nuevo →\nse vuelve a vender",
+     "x": 540,
+     "y": 680,
+     "tam": 52,
+     "fuente": "mano",
+     "en": "Si está como nuevo"
+    },
+    {
+     "tipo": "sello",
+     "texto": "SIN CIFRA PÚBLICA",
+     "x": 540,
+     "y": 920,
+     "tam": 56,
+     "en": "no hay una cifra pública"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "lupa",
+     "x": 1000,
+     "y": 1310,
+     "h": 240,
+     "t": 0.2
+    }
+   ]
+  }
+ ]
+}

@@ -1,95 +1,99 @@
 1
-00:00:00,236 --> 00:00:01,479
-¿Y la destrucción?
+00:00:00,150 --> 00:00:01,229
+¿Destruye Amazon lo que
 
 2
-00:00:01,479 --> 00:00:03,110
-En dos mil veintiuno,
+00:00:01,229 --> 00:00:02,307
+devuelves?
 
 3
-00:00:03,110 --> 00:00:04,740
-la cadena británica ITV
+00:00:02,206 --> 00:00:03,836
+En dos mil veintiuno,
 
 4
-00:00:04,740 --> 00:00:06,370
-News publicó una investigación
+00:00:03,836 --> 00:00:05,466
+la cadena británica ITV
 
 5
-00:00:06,370 --> 00:00:08,000
-en almacenes de Amazon
+00:00:05,466 --> 00:00:07,096
+News publicó una investigación
 
 6
-00:00:08,000 --> 00:00:09,630
-en el Reino Unido.
+00:00:07,096 --> 00:00:08,726
+en almacenes de Amazon
 
 7
-00:00:09,630 --> 00:00:11,205
-Según un exempleado, en
+00:00:08,726 --> 00:00:10,357
+en el Reino Unido.
 
 8
-00:00:11,205 --> 00:00:12,780
-una semana de abril
+00:00:10,357 --> 00:00:11,931
+Según un exempleado, en
 
 9
-00:00:12,780 --> 00:00:14,355
-el objetivo registrado era
+00:00:11,931 --> 00:00:13,506
+una semana de abril
 
 10
-00:00:14,355 --> 00:00:15,930
-destruir ciento veinticuatro mil
+00:00:13,506 --> 00:00:15,081
+el objetivo registrado era
 
 11
-00:00:15,930 --> 00:00:17,504
-productos,
+00:00:15,081 --> 00:00:16,656
+destruir ciento veinticuatro mil
 
 12
-00:00:17,504 --> 00:00:19,093
-muchos de ellos nuevos.
+00:00:16,656 --> 00:00:18,231
+productos,
 
 13
-00:00:19,093 --> 00:00:20,682
-Amazon respondió que su
+00:00:18,231 --> 00:00:19,820
+muchos de ellos nuevos.
 
 14
-00:00:20,682 --> 00:00:22,270
-prioridad es revender,
+00:00:19,820 --> 00:00:21,408
+Amazon respondió que su
 
 15
-00:00:22,270 --> 00:00:23,525
-donar o reciclar, que
+00:00:21,408 --> 00:00:22,997
+prioridad es revender,
 
 16
-00:00:23,525 --> 00:00:24,780
-en el Reino Unido
+00:00:22,997 --> 00:00:24,251
+donar o reciclar, que
 
 17
-00:00:24,780 --> 00:00:26,035
-no se envían artículos
+00:00:24,251 --> 00:00:25,506
+en el Reino Unido
 
 18
-00:00:26,035 --> 00:00:27,290
-a vertederos y que
+00:00:25,506 --> 00:00:26,761
+no se envían artículos
 
 19
-00:00:27,290 --> 00:00:28,545
-trabaja para llegar a
+00:00:26,761 --> 00:00:28,016
+a vertederos y que
 
 20
-00:00:28,545 --> 00:00:29,799
-cero.
+00:00:28,016 --> 00:00:29,271
+trabaja para llegar a
 
 21
-00:00:29,799 --> 00:00:31,215
-Es una investigación británica
+00:00:29,271 --> 00:00:30,526
+cero.
 
 22
-00:00:31,215 --> 00:00:32,631
-y de hace cinco
+00:00:30,526 --> 00:00:31,942
+Es una investigación británica
 
 23
-00:00:32,631 --> 00:00:34,047
-años: no se puede
+00:00:31,942 --> 00:00:33,358
+y de hace cinco
 
 24
-00:00:34,047 --> 00:00:35,463
+00:00:33,358 --> 00:00:34,774
+años: no se puede
+
+25
+00:00:34,774 --> 00:00:36,190
 aplicar a España.

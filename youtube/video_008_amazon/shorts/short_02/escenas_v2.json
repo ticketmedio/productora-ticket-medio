@@ -1,0 +1,109 @@
+{
+ "formato": "vertical",
+ "fondos": "../../fondos",
+ "musica": "../../audio/musica.mp3",
+ "musica_db": -26,
+ "cola": 1.5,
+ "salida": "../../output/SHORT_02_plazo_devolucion.mp4",
+ "escenas": [
+  {
+   "id": "a",
+   "desde": "¿Cuánto tiempo tienes",
+   "fondo": "puerta_paquete",
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 60,
+     "y": 360,
+     "w": 960,
+     "h": 640
+    },
+    {
+     "tipo": "texto",
+     "texto": "TU DERECHO",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 14,
+     "x": 540,
+     "y": 540,
+     "tam": 200,
+     "sufijo": " días",
+     "color": "#E0521B",
+     "en": "catorce días"
+    },
+    {
+     "tipo": "texto",
+     "texto": "naturales para devolver una compra online",
+     "x": 540,
+     "y": 720,
+     "tam": 44,
+     "fuente": "mano",
+     "en": "catorce días"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "contento",
+     "x": 880,
+     "y": 1310,
+     "h": 340,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "b",
+   "desde": "sin tener que explicar",
+   "fondo": "#F4E9D0",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "SIN EXPLICAR POR QUÉ",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "Sin penalización",
+     "x": 540,
+     "y": 520,
+     "tam": 56,
+     "fuente": "mano",
+     "t": 0.3
+    },
+    {
+     "tipo": "texto",
+     "texto": "Ojo: la política de cada tienda\npuede ser más generosa",
+     "x": 540,
+     "y": 760,
+     "tam": 46,
+     "fuente": "mano",
+     "en": "Ojo"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "senala",
+     "x": 920,
+     "y": 1310,
+     "h": 260,
+     "t": 0.2
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,96 @@
+{
+ "formato": "vertical",
+ "fondos": "../../fondos",
+ "musica": "../../audio/musica.mp3",
+ "musica_db": -26,
+ "cola": 1.5,
+ "salida": "../../output/SHORT_06_norma_afirmaciones_verdes.mp4",
+ "escenas": [
+  {
+   "id": "a",
+   "desde": "Desde el veintisiete de septiembre",
+   "fondo": "#E6E0F5",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "DESDE EL 27/9/2026",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "Directiva (UE) 2024/825",
+     "x": 540,
+     "y": 480,
+     "tam": 50,
+     "fuente": "mano",
+     "t": 0.3
+    },
+    {
+     "tipo": "texto",
+     "texto": "Presumir de «verde»\nsin demostrarlo",
+     "x": 540,
+     "y": 700,
+     "tam": 70,
+     "color": "#E0521B",
+     "en": "entre otras cosas"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "lupa",
+     "x": 900,
+     "y": 1310,
+     "h": 280,
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "b",
+   "desde": "También prohíbe presentar toda una empresa",
+   "fondo": "#FFF3C4",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "TAMBIÉN PROHÍBE",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "Presentar toda una empresa como verde\nsi solo lo es un aspecto",
+     "x": 540,
+     "y": 520,
+     "tam": 46,
+     "fuente": "mano",
+     "t": 0.3
+    },
+    {
+     "tipo": "texto",
+     "texto": "Neutralidad basada en\ncompensar emisiones",
+     "x": 540,
+     "y": 820,
+     "tam": 50,
+     "fuente": "mano",
+     "en": "compensar emisiones"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "encoge_hombros",
+     "x": 920,
+     "y": 1310,
+     "h": 250,
+     "t": 0.2
+    }
+   ]
+  }
+ ]
+}

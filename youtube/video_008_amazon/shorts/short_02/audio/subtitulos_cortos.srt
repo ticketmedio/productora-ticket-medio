@@ -1,75 +1,83 @@
 1
-00:00:00,249 --> 00:00:01,677
-Primero, tu derecho.
+00:00:00,150 --> 00:00:01,816
+¿Cuánto tiempo tienes para
 
 2
-00:00:01,677 --> 00:00:03,091
-Cuando compras por internet,
+00:00:01,816 --> 00:00:03,482
+devolver una compra online?
 
 3
-00:00:03,091 --> 00:00:04,505
-la ley te da
+00:00:03,482 --> 00:00:05,148
+Esto dice la ley.
 
 4
-00:00:04,505 --> 00:00:05,919
-catorce días naturales para
+00:00:04,870 --> 00:00:06,284
+Cuando compras por internet,
 
 5
-00:00:05,919 --> 00:00:07,333
-devolver lo que has
+00:00:06,284 --> 00:00:07,698
+la ley te da
 
 6
-00:00:07,333 --> 00:00:08,747
-comprado,
+00:00:07,698 --> 00:00:09,112
+catorce días naturales para
 
 7
-00:00:08,747 --> 00:00:09,938
-sin tener que explicar
+00:00:09,112 --> 00:00:10,526
+devolver lo que has
 
 8
-00:00:09,938 --> 00:00:11,128
-por qué y sin
+00:00:10,526 --> 00:00:11,940
+comprado,
 
 9
-00:00:11,128 --> 00:00:12,318
-penalización.
+00:00:11,940 --> 00:00:13,130
+sin tener que explicar
 
 10
-00:00:12,318 --> 00:00:13,782
-Está en la Ley
+00:00:13,130 --> 00:00:14,321
+por qué y sin
 
 11
-00:00:13,782 --> 00:00:15,246
-General para la Defensa
+00:00:14,321 --> 00:00:15,511
+penalización.
 
 12
-00:00:15,246 --> 00:00:16,709
-de los Consumidores, y
+00:00:15,511 --> 00:00:16,975
+Está en la Ley
 
 13
-00:00:16,709 --> 00:00:18,173
-es un derecho legal.
+00:00:16,975 --> 00:00:18,438
+General para la Defensa
 
 14
-00:00:18,173 --> 00:00:19,601
-Ojo: no es lo
+00:00:18,438 --> 00:00:19,902
+de los Consumidores, y
 
 15
-00:00:19,601 --> 00:00:21,030
-mismo que la política
+00:00:19,902 --> 00:00:21,366
+es un derecho legal.
 
 16
-00:00:21,030 --> 00:00:22,458
-de devoluciones que pueda
+00:00:21,366 --> 00:00:22,794
+Ojo: no es lo
 
 17
-00:00:22,458 --> 00:00:23,886
-tener cada tienda,
+00:00:22,794 --> 00:00:24,222
+mismo que la política
 
 18
-00:00:23,886 --> 00:00:24,850
-que puede ser más
+00:00:24,222 --> 00:00:25,651
+de devoluciones que pueda
 
 19
-00:00:24,850 --> 00:00:25,814
+00:00:25,651 --> 00:00:27,079
+tener cada tienda,
+
+20
+00:00:27,079 --> 00:00:28,043
+que puede ser más
+
+21
+00:00:28,043 --> 00:00:29,007
 generosa.

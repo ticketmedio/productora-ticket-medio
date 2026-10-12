@@ -1,0 +1,23 @@
+1
+00:00:00,150 --> 00:00:03,243
+Esto es lo que Moeve dice que está construyendo.
+
+2
+00:00:03,213 --> 00:00:12,050
+El Gobierno de España le ha concedido trescientos cuatro millones de euros de fondos europeos para el Valle Andaluz del Hidrógeno Verde.
+
+3
+00:00:12,050 --> 00:00:16,078
+Una planta de biocombustibles de segunda generación en Huelva,
+
+4
+00:00:16,078 --> 00:00:18,222
+ya construida en más de la mitad.
+
+5
+00:00:18,222 --> 00:00:21,926
+Más de doscientos ochenta puntos de recarga ultrarrápida.
+
+6
+00:00:21,926 --> 00:00:25,435
+Y quinientas estaciones renovadas con la nueva imagen.
