@@ -4,3 +4,4 @@
 - «…no olvides dejarlos enfriar antes de introducirlos en el congelador o en el frigorífico, ya que al introducirlos calientes, puedes afectar negativamente a la temperatura de otros.»
 - Verificado el 8/10/2026 leyendo la página.
 - Nota: la AESAN, en «De tu cocina a la oficina», pide calentar a más de 75 ºC; las dos fuentes son oficiales y aquí se cita solo la del Ministerio de Consumo.
+- USDA FSIS (EE. UU.), «Leftovers and Food Safety» (leída el 12/10/2026 en copia del Internet Archive del 08/10/2026): «When reheating leftovers, be sure they reach 165° F as measured with a food thermometer. Reheat sauces, soups and gravies by bringing them to a rolling boil.»

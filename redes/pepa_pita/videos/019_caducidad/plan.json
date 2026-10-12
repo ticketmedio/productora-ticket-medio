@@ -11,56 +11,66 @@
    "imagen": "busto"
   },
   {
-   "desde": 5.19,
+   "desde": 5.04,
    "imagen": "exp_sorprendida"
   },
   {
-   "desde": 11.5,
+   "desde": 11.19,
    "imagen": "pose_senala"
   },
   {
-   "desde": 16.8,
+   "desde": 16.47,
    "imagen": "busto"
   },
   {
-   "desde": 23.05,
+   "desde": 22.7,
    "imagen": "exp_pensativa"
   },
   {
-   "desde": 28.5,
+   "desde": 28.24,
    "imagen": "pose_sartenes"
   },
   {
-   "desde": 34.03,
+   "desde": 33.84,
    "imagen": "busto"
   },
   {
-   "desde": 37.35,
+   "desde": 46.17,
    "imagen": "exp_preocupada"
   },
   {
-   "desde": 40.13,
+   "desde": 54.49,
+   "imagen": "exp_riendo"
+  },
+  {
+   "desde": 58.23,
    "imagen": "exp_guino"
   }
  ],
  "rotulos": [
   {
-   "desde": 11.5,
-   "hasta": 16.8,
+   "desde": 11.19,
+   "hasta": 16.47,
    "texto": "CONSUMO PREFERENTE",
    "sub": "conserva sus propiedades · UE 1169/2011"
   },
   {
-   "desde": 28.5,
-   "hasta": 31.5,
+   "desde": 28.24,
+   "hasta": 31.29,
    "texto": "CADUCIDAD: A LA BASURA",
    "sub": "tras la fecha no es seguro · UE 1169/2011"
+  },
+  {
+   "desde": 54.49,
+   "hasta": 58.23,
+   "texto": "CALIDAD, NO SEGURIDAD",
+   "sub": "«Best if Used By» · USDA (EE. UU.)"
   }
  ],
  "salida": "salida/PEPA_019_caducidad.mp4",
  "gancho": {
   "tipo": "A",
   "texto": "¿FECHA PASADA? ¿A LA BASURA?",
-  "hasta": 3.04
+  "hasta": 2.95
  }
 }

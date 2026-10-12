@@ -1,79 +1,87 @@
 1
-00:00:00,000 --> 00:00:02,421
+00:00:00,000 --> 00:00:02,235
 ¿Preparas la cena de Navidad?
 
 2
-00:00:02,421 --> 00:00:06,429
+00:00:02,235 --> 00:00:05,933
 Estos son los seis pasos que recomienda la EFSA,
 
 3
-00:00:06,429 --> 00:00:10,270
+00:00:05,933 --> 00:00:09,478
 la Autoridad Europea de Seguridad Alimentaria.
 
 4
-00:00:10,620 --> 00:00:12,035
+00:00:09,827 --> 00:00:11,295
 Uno, la limpieza.
 
 5
-00:00:12,035 --> 00:00:18,278
+00:00:11,295 --> 00:00:17,768
 Lávate las manos antes de manipular los alimentos y durante la preparación,
 
 6
-00:00:18,278 --> 00:00:21,525
+00:00:17,768 --> 00:00:21,133
 y limpia bien superficies y utensilios.
 
 7
-00:00:21,875 --> 00:00:24,545
+00:00:21,483 --> 00:00:24,795
 Dos, separa lo crudo de lo cocinado.
 
 8
-00:00:24,545 --> 00:00:30,404
+00:00:24,795 --> 00:00:32,060
 Usa utensilios y tablas diferentes, y guárdalos por separado en el frigorífico.
 
 9
-00:00:30,754 --> 00:00:36,111
+00:00:32,410 --> 00:00:36,650
 Tres, cocina bien la carne, los huevos y los pescados.
 
 10
-00:00:36,111 --> 00:00:42,360
+00:00:36,650 --> 00:00:41,596
 Las sopas y los guisos, a ebullición, hasta los setenta grados.
 
 11
-00:00:42,360 --> 00:00:48,213
+00:00:41,596 --> 00:00:46,228
 En la carne, los jugos tienen que salir claros, no rosados.
 
 12
-00:00:48,213 --> 00:00:54,363
+00:00:46,228 --> 00:00:51,095
 Y en el pescado, la carne se separa fácilmente de las espinas.
 
 13
-00:00:54,713 --> 00:00:56,657
+00:00:51,445 --> 00:00:53,665
 Cuatro, la conservación.
 
 14
-00:00:56,657 --> 00:01:02,001
+00:00:53,665 --> 00:00:59,771
 Nada de dejar lo cocinado a temperatura ambiente más de dos horas.
 
 15
-00:01:02,001 --> 00:01:08,722
+00:00:59,771 --> 00:01:07,449
 Refrigéralo por debajo de cinco grados, o mantenlo caliente, por encima de sesenta.
 
 16
-00:01:09,072 --> 00:01:13,965
+00:01:07,799 --> 00:01:12,932
 Cinco, descongela en el frigorífico: es la forma más segura.
 
 17
-00:01:14,315 --> 00:01:18,010
+00:01:13,282 --> 00:01:17,072
 Y seis, usa agua potable, alimentos frescos,
 
 18
-00:01:18,010 --> 00:01:24,477
+00:01:17,072 --> 00:01:23,705
 lava bien las frutas y verduras y no tomes nada pasada su fecha de caducidad.
 
 19
-00:01:24,827 --> 00:01:27,310
-Sígueme, que aquí aprendemos todos.
+00:01:24,055 --> 00:01:27,946
+Y si celebras la Navidad en pleno verano,
 
 20
-00:01:27,310 --> 00:01:28,161
+00:01:27,946 --> 00:01:37,438
+como en el hemisferio sur, con más de treinta y dos grados el tiempo fuera del frío baja a una hora.
+
+21
+00:01:37,788 --> 00:01:41,415
+Sígueme, que aquí aprendemos todos.
+
+22
+00:01:41,415 --> 00:01:42,658
 ¡Cloc, cloc!

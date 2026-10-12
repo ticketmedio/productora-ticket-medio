@@ -1,47 +1,59 @@
 1
-00:00:00,000 --> 00:00:03,402
+00:00:00,000 --> 00:00:03,307
 ¿Se te ha pasado la fecha de un alimento?
 
 2
-00:00:03,402 --> 00:00:05,808
+00:00:03,307 --> 00:00:05,646
 ¡Espera, no lo tires todavía!
 
 3
-00:00:05,808 --> 00:00:12,529
+00:00:05,646 --> 00:00:12,180
 Que no es lo mismo «consumir preferentemente antes del» que «fecha de caducidad».
 
 4
-00:00:12,879 --> 00:00:18,818
+00:00:12,530 --> 00:00:18,450
 La fecha de consumo preferente es hasta cuándo el alimento conserva sus propiedades,
 
 5
-00:00:18,818 --> 00:00:20,161
+00:00:18,450 --> 00:00:19,790
 si lo guardas bien.
 
 6
-00:00:20,161 --> 00:00:25,464
+00:00:19,790 --> 00:00:25,076
 Pasada, ya no está garantizada su calidad, pero no es lo mismo que caducar.
 
 7
-00:00:25,814 --> 00:00:31,919
+00:00:25,426 --> 00:00:31,625
 La fecha de caducidad es la de los alimentos muy perecederos: pasada,
 
 8
-00:00:31,919 --> 00:00:35,281
+00:00:31,625 --> 00:00:35,039
 el alimento ya no se considera seguro.
 
 9
-00:00:35,281 --> 00:00:37,759
+00:00:35,039 --> 00:00:37,555
 Ahí, a la basura, sin dudar.
 
 10
-00:00:38,109 --> 00:00:41,837
+00:00:37,905 --> 00:00:41,336
 Mira siempre la etiqueta antes de decidir.
 
 11
-00:00:41,837 --> 00:00:44,944
-Sígueme, que aquí aprendemos todos.
+00:00:41,336 --> 00:00:51,712
+Y si me ves desde Latinoamérica, mira qué frase pone tu etiqueta: «consumir preferentemente antes de» o «fecha de vencimiento».
 
 12
-00:00:44,944 --> 00:00:46,010
+00:00:51,712 --> 00:01:01,026
+En Estados Unidos, el Departamento de Agricultura aclara que la fecha de «mejor si se usa antes de» es de calidad,
+
+13
+00:01:01,026 --> 00:01:02,334
+no de seguridad.
+
+14
+00:01:02,684 --> 00:01:05,219
+Sígueme, que aquí aprendemos todos.
+
+15
+00:01:05,219 --> 00:01:06,088
 ¡Cloc, cloc!

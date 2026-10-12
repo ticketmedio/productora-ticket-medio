@@ -4,3 +4,4 @@
 - Por edades (CSV-AEP): 0–3 años, riesgo muy alto, no deben consumir caramelos; 3–5 años, riesgo alto, incluso con supervisión; por encima de los 5 años, el riesgo disminuye, pero no desaparece.
 - La AEP es una sociedad científica (no una administración).
 - Verificado el 8/10/2026 leyendo la página.
+- Academia Americana de Pediatría (healthychildren.org), «Choking Prevention» (leída el 12/10/2026): «Keep high-risk foods from children until 4 years of age or older…»; entre los alimentos a evitar o modificar: «Hard, gooey, or sticky candy».

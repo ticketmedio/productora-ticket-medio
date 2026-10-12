@@ -1,35 +1,47 @@
 1
-00:00:00,000 --> 00:00:02,721
+00:00:00,000 --> 00:00:02,279
 ¿Cada cuánto cambias el paño de cocina?
 
 2
-00:00:02,721 --> 00:00:07,956
+00:00:02,279 --> 00:00:06,662
 El Ministerio de Consumo aconseja una vez al día, y siempre que haga falta.
 
 3
-00:00:07,956 --> 00:00:12,632
+00:00:06,662 --> 00:00:10,578
 El papel de cocina de un solo uso también es una buena alternativa.
 
 4
-00:00:12,945 --> 00:00:19,378
+00:00:10,890 --> 00:00:17,112
 Las manos, con jabón y agua, y sécalas con paños de un solo uso o toallas de papel.
 
 5
-00:00:19,378 --> 00:00:24,261
+00:00:17,112 --> 00:00:21,834
 Uñas cortas, limpias y sin esmalte, que puede ocultar suciedad.
 
 6
-00:00:24,261 --> 00:00:27,206
+00:00:21,834 --> 00:00:24,682
 Y las heridas, cubiertas con apósitos.
 
 7
-00:00:27,519 --> 00:00:30,573
+00:00:24,995 --> 00:00:28,620
 Y si estás malo, mejor no cocines para otros.
 
 8
-00:00:30,886 --> 00:00:34,024
-Sígueme, que aquí aprendemos todos.
+00:00:28,932 --> 00:00:33,916
+La FDA de Estados Unidos añade un truco: lávate las manos con jabón normal,
 
 9
-00:00:34,024 --> 00:00:35,100
+00:00:33,916 --> 00:00:38,302
+no hace falta el antibacteriano, durante al menos veinte segundos.
+
+10
+00:00:38,302 --> 00:00:41,956
+Para medirlos, tararea dos veces el «Cumpleaños feliz».
+
+11
+00:00:42,269 --> 00:00:44,606
+Sígueme, que aquí aprendemos todos.
+
+12
+00:00:44,606 --> 00:00:45,408
 ¡Cloc, cloc!

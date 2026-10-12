@@ -3,3 +3,4 @@
 - «Por lo general, para evitar intoxicaciones alimentarias, es necesario que el alimento alcance, en todas sus partes, los 70ºC. Para la carne, nos daremos cuenta de que se alcanza esa temperatura, cuando la carne vacuna alcance un color grisáceo, y cuando en el pollo desaparezca el color rosa.»
 - «Los huevos han de cocinarse hasta que la yema y la clara estén cuajadas.» «Los pescados que hayan alcanzado una temperatura adecuada de cocinado presentarán una carne firme y blanca, fácilmente separable con el tenedor.»
 - Verificado el 8/10/2026 leyendo la página.
+- FDA (EE. UU.), «Safe Food Handling» (leída el 12/10/2026): tabla de temperaturas mínimas internas: aves (molidas, partes, enteras y relleno) 165 °F; carne molida 160 °F; huevos «cook until yolk & white are firm». (165 °F ≈ 74 °C; 160 °F ≈ 71 °C).

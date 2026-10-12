@@ -11,54 +11,76 @@
    "imagen": "busto"
   },
   {
-   "desde": 7.91,
+   "desde": 3.46,
    "imagen": "exp_sorprendida"
   },
   {
-   "desde": 12.8,
+   "desde": 9.8,
    "imagen": "pose_senala"
   },
   {
-   "desde": 16.8,
+   "desde": 14.58,
    "imagen": "busto"
   },
   {
-   "desde": 22.86,
+   "desde": 18.48,
    "imagen": "exp_pensativa"
   },
   {
-   "desde": 28.0,
+   "desde": 24.41,
    "imagen": "pose_sartenes"
   },
   {
-   "desde": 30.6,
+   "desde": 29.11,
+   "imagen": "busto"
+  },
+  {
+   "desde": 33.36,
+   "imagen": "exp_preocupada"
+  },
+  {
+   "desde": 37.37,
+   "imagen": "exp_riendo"
+  },
+  {
+   "desde": 40.68,
+   "imagen": "busto"
+  },
+  {
+   "desde": 43.53,
    "imagen": "exp_guino"
   }
  ],
  "rotulos": [
   {
-   "desde": 2.77,
-   "hasta": 7.59,
+   "desde": 3.46,
+   "hasta": 9.48,
    "texto": "MÁS SEGURO: EN LA NEVERA",
    "sub": "descongelar · EFSA"
   },
   {
-   "desde": 12.8,
-   "hasta": 16.75,
+   "desde": 14.58,
+   "hasta": 18.43,
    "texto": "VERDURAS, HAMBURGUESAS, PASTELERÍA",
    "sub": "se cocinan congeladas · AESAN"
   },
   {
-   "desde": 16.8,
-   "hasta": 22.54,
+   "desde": 18.48,
+   "hasta": 24.1,
    "texto": "SOLO SI LA ETIQUETA LO DICE",
    "sub": "y con sus instrucciones · AESAN"
+  },
+  {
+   "desde": 37.37,
+   "hasta": 40.37,
+   "texto": "CONGELADO: 1,5 × MÁS TIEMPO",
+   "sub": "Carne, aves y guisos · USDA (EE. UU.)"
   }
  ],
  "salida": "salida/PEPA_049_cocinar_congelado.mp4",
  "gancho": {
   "tipo": "C",
   "texto": "¿SE PUEDE COCINAR SIN DESCONGELAR?",
-  "hasta": 2.25
+  "hasta": 2.8
  }
 }

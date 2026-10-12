@@ -4,3 +4,4 @@
 - «La asfixia es una de las principales causas de mortalidad durante la infancia, especialmente en niños de entre uno y cinco años»; en fiestas, «turrones, frutos secos, peladillas, palomitas de maíz y, sobre todo, uvas y caramelos».
 - La AEP es una sociedad científica (no una administración). Si hay un atragantamiento, llamar al 112.
 - Verificado el 8/10/2026 leyendo la página.
+- Academia Americana de Pediatría (healthychildren.org), «Choking Prevention» (leída el 12/10/2026): «round, firm foods, such as hot dogs or grapes, can be served if completely chopped into tiny pieces»; entre los alimentos a evitar o modificar: «Whole grapes».

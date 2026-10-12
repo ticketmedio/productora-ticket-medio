@@ -11,90 +11,108 @@
    "imagen": "busto"
   },
   {
-   "desde": 7.0,
+   "desde": 6.62,
    "imagen": "exp_sorprendida"
   },
   {
-   "desde": 11.37,
+   "desde": 10.95,
    "imagen": "pose_senala"
   },
   {
-   "desde": 14.66,
+   "desde": 14.22,
    "imagen": "busto"
   },
   {
-   "desde": 18.8,
+   "desde": 18.33,
    "imagen": "exp_pensativa"
   },
   {
-   "desde": 24.55,
+   "desde": 24.04,
    "imagen": "pose_sartenes"
   },
   {
-   "desde": 33.1,
+   "desde": 32.5,
    "imagen": "busto"
   },
   {
-   "desde": 38.51,
+   "desde": 37.85,
    "imagen": "exp_preocupada"
   },
   {
-   "desde": 45.01,
+   "desde": 43.49,
    "imagen": "exp_riendo"
   },
   {
-   "desde": 51.01,
+   "desde": 49.98,
    "imagen": "busto"
   },
   {
-   "desde": 58.14,
+   "desde": 55.96,
    "imagen": "pose_senala"
   },
   {
-   "desde": 64.16,
+   "desde": 61.19,
    "imagen": "exp_contenta"
   },
   {
-   "desde": 70.88,
+   "desde": 65.01,
+   "imagen": "busto"
+  },
+  {
+   "desde": 68.38,
+   "imagen": "exp_sorprendida"
+  },
+  {
+   "desde": 79.96,
+   "imagen": "pose_senala"
+  },
+  {
+   "desde": 82.64,
    "imagen": "exp_guino"
   }
  ],
  "rotulos": [
   {
-   "desde": 27.48,
-   "hasta": 33.05,
+   "desde": 26.94,
+   "hasta": 32.45,
    "texto": "NI UVAS ENTERAS HASTA LOS 4–5",
    "sub": "según la AEP"
   },
   {
-   "desde": 33.1,
-   "hasta": 38.2,
+   "desde": 32.5,
+   "hasta": 37.54,
    "texto": "CUATRO TROZOS A LO LARGO",
    "sub": "no en rodajas · AEP"
   },
   {
-   "desde": 38.51,
-   "hasta": 44.7,
+   "desde": 37.85,
+   "hasta": 43.18,
    "texto": "PELADAS Y SIN SEMILLAS",
    "sub": "la piel es resbaladiza · AEP"
   },
   {
-   "desde": 45.01,
-   "hasta": 50.7,
+   "desde": 43.49,
+   "hasta": 49.67,
    "texto": "SENTADO, TRANQUILO Y CON UN ADULTO",
    "sub": "siempre supervisado · AEP"
   },
   {
-   "desde": 51.01,
-   "hasta": 57.83,
+   "desde": 49.98,
+   "hasta": 55.65,
    "texto": "ALTERNATIVAS: PASAS, GUSANITOS",
    "sub": "más seguras · AEP"
+  },
+  {
+   "desde": 68.38,
+   "hasta": 79.65,
+   "texto": "AAP (EE. UU.): UVAS ENTERAS, NO",
+   "sub": "Solo picadas en trocitos diminutos"
   }
  ],
  "salida": "salida/PEPA_046_uvas_ninos.mp4",
  "gancho": {
   "tipo": "C",
   "texto": "¿UVAS PARA LOS NIÑOS EN NOCHEVIEJA?",
-  "hasta": 2.8
+  "hasta": 2.64
  }
 }

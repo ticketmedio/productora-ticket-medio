@@ -11,58 +11,68 @@
    "imagen": "busto"
   },
   {
-   "desde": 3.49,
+   "desde": 3.22,
    "imagen": "exp_sorprendida"
   },
   {
-   "desde": 8.26,
+   "desde": 7.64,
    "imagen": "pose_senala"
   },
   {
-   "desde": 12.09,
+   "desde": 11.86,
    "imagen": "busto"
   },
   {
-   "desde": 15.51,
+   "desde": 15.81,
    "imagen": "exp_pensativa"
   },
   {
-   "desde": 21.98,
+   "desde": 23.23,
    "imagen": "pose_sartenes"
   },
   {
-   "desde": 30.88,
+   "desde": 32.32,
    "imagen": "busto"
   },
   {
-   "desde": 33.55,
+   "desde": 37.63,
+   "imagen": "exp_preocupada"
+  },
+  {
+   "desde": 45.66,
    "imagen": "exp_guino"
   }
  ],
  "rotulos": [
   {
-   "desde": 8.26,
-   "hasta": 11.77,
+   "desde": 7.64,
+   "hasta": 11.55,
    "texto": "SOLO LO QUE VAYAS A COMER",
    "sub": "menos recalentados, menos riesgo · Consumo"
   },
   {
-   "desde": 15.51,
-   "hasta": 21.67,
+   "desde": 15.81,
+   "hasta": 22.92,
    "texto": "70 °C · 15 SEGUNDOS",
    "sub": "también en el centro · Consumo"
   },
   {
-   "desde": 21.98,
-   "hasta": 30.56,
+   "desde": 23.23,
+   "hasta": 32.01,
    "texto": "ENFRÍALA ANTES DE GUARDAR",
    "sub": "no la metas caliente · Min. de Consumo"
+  },
+  {
+   "desde": 37.63,
+   "hasta": 43.08,
+   "texto": "SOPAS Y SALSAS: A EBULLICIÓN",
+   "sub": "Sobras a 74 °C (165 °F) · USDA"
   }
  ],
  "salida": "salida/PEPA_028_recalentar.mp4",
  "gancho": {
   "tipo": "A",
   "texto": "¿RECALIENTAS LA COMIDA VARIAS VECES?",
-  "hasta": 2.67
+  "hasta": 2.46
  }
 }

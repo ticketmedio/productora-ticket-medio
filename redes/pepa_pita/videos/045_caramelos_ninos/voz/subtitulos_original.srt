@@ -1,35 +1,43 @@
 1
-00:00:00,000 --> 00:00:02,581
+00:00:00,000 --> 00:00:02,551
 ¿Caramelos para los peques en Navidad?
 
 2
-00:00:02,581 --> 00:00:02,853
+00:00:02,551 --> 00:00:02,820
 Ojo.
 
 3
-00:00:02,853 --> 00:00:12,907
+00:00:02,820 --> 00:00:12,756
 Los pediatras avisan de que ningún caramelo es seguro antes de cumplir los cinco años: no se deshacen rápido y encajan con facilidad en la garganta.
 
 4
-00:00:13,257 --> 00:00:20,398
+00:00:13,106 --> 00:00:20,394
 Los caramelos duros y redondos pueden bloquear completamente la vía aérea de un niño en segundos.
 
 5
-00:00:20,748 --> 00:00:25,864
+00:00:20,744 --> 00:00:26,325
 De cero a tres años, el riesgo es muy alto y no deben tomarlos.
 
 6
-00:00:25,864 --> 00:00:30,736
+00:00:26,325 --> 00:00:31,640
 De tres a cinco, el riesgo es alto, incluso con supervisión.
 
 7
-00:00:30,736 --> 00:00:36,257
+00:00:31,640 --> 00:00:37,664
 Y por encima de cinco años, el riesgo disminuye, pero no desaparece.
 
 8
-00:00:36,607 --> 00:00:39,577
-Sígueme, que aquí aprendemos todos.
+00:00:38,014 --> 00:00:43,552
+La Academia Americana de Pediatría coincide: incluye los caramelos duros,
 
 9
-00:00:39,577 --> 00:00:40,595
+00:00:43,552 --> 00:00:51,063
+pegajosos o blandos entre los alimentos de riesgo y aconseja evitarlos hasta los cuatro años o más.
+
+10
+00:00:51,413 --> 00:00:55,193
+Sígueme, que aquí aprendemos todos.
+
+11
+00:00:55,193 --> 00:00:56,489
 ¡Cloc, cloc!

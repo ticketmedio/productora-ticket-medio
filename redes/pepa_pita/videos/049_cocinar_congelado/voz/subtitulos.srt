@@ -1,35 +1,47 @@
 1
-00:00:00,000 --> 00:00:02,245
+00:00:00,000 --> 00:00:02,804
 ¿Se puede cocinar sin descongelar?
 
 2
-00:00:02,245 --> 00:00:02,773
+00:00:02,804 --> 00:00:03,463
 Depende.
 
 3
-00:00:02,773 --> 00:00:07,593
+00:00:03,463 --> 00:00:09,483
 La EFSA dice que la forma más segura de descongelar es en el frigorífico.
 
 4
-00:00:07,905 --> 00:00:12,805
+00:00:09,796 --> 00:00:14,584
 Pero algunos alimentos se pueden cocinar directamente al sacarlos del congelador,
 
 5
-00:00:12,805 --> 00:00:16,797
+00:00:14,584 --> 00:00:18,485
 como las verduras, las hamburguesas o los productos de pastelería.
 
 6
-00:00:16,797 --> 00:00:22,544
+00:00:18,485 --> 00:00:24,101
 Eso sí, solo cuando la etiqueta lo indica y siguiendo siempre las instrucciones de preparación.
 
 7
-00:00:22,856 --> 00:00:27,692
+00:00:24,413 --> 00:00:28,799
 Y recuerda: lo que descongeles, cocínalo rápido.
 
 8
-00:00:28,004 --> 00:00:30,597
-Sígueme, que aquí aprendemos todos.
+00:00:29,112 --> 00:00:33,364
+En Estados Unidos, el Departamento de Agricultura dice que la carne,
 
 9
-00:00:30,597 --> 00:00:31,487
+00:00:33,364 --> 00:00:37,366
+las aves y los guisos se pueden cocinar directamente congelados,
+
+10
+00:00:37,366 --> 00:00:40,367
+pero tardan aproximadamente una vez y media más.
+
+11
+00:00:40,679 --> 00:00:43,531
+Sígueme, que aquí aprendemos todos.
+
+12
+00:00:43,531 --> 00:00:44,509
 ¡Cloc, cloc!

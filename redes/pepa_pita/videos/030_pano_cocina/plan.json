@@ -11,58 +11,68 @@
    "imagen": "busto"
   },
   {
-   "desde": 7.96,
+   "desde": 6.66,
    "imagen": "exp_sorprendida"
   },
   {
-   "desde": 12.95,
+   "desde": 10.89,
    "imagen": "pose_senala"
   },
   {
-   "desde": 19.38,
+   "desde": 17.11,
    "imagen": "busto"
   },
   {
-   "desde": 24.26,
+   "desde": 21.83,
    "imagen": "exp_pensativa"
   },
   {
-   "desde": 27.52,
+   "desde": 28.93,
    "imagen": "pose_sartenes"
   },
   {
-   "desde": 30.89,
+   "desde": 33.92,
    "imagen": "busto"
   },
   {
-   "desde": 34.02,
+   "desde": 38.3,
+   "imagen": "exp_preocupada"
+  },
+  {
+   "desde": 44.61,
    "imagen": "exp_guino"
   }
  ],
  "rotulos": [
   {
-   "desde": 2.72,
-   "hasta": 7.96,
+   "desde": 2.28,
+   "hasta": 6.66,
    "texto": "PAÑO: UNA VEZ AL DÍA",
    "sub": "y siempre que haga falta · Consumo"
   },
   {
-   "desde": 19.38,
-   "hasta": 24.26,
+   "desde": 17.11,
+   "hasta": 21.83,
    "texto": "UÑAS CORTAS Y SIN ESMALTE",
    "sub": "el esmalte oculta suciedad · Consumo"
   },
   {
-   "desde": 27.52,
-   "hasta": 30.57,
+   "desde": 25.0,
+   "hasta": 28.62,
    "texto": "¿ENFERMO? NO COCINES",
    "sub": "para otros · Ministerio de Consumo"
+  },
+  {
+   "desde": 38.3,
+   "hasta": 41.96,
+   "texto": "20 SEGUNDOS: 2 × «CUMPLEAÑOS FELIZ»",
+   "sub": "Jabón normal · FDA (EE. UU.)"
   }
  ],
  "salida": "salida/PEPA_030_pano_cocina.mp4",
  "gancho": {
   "tipo": "C",
   "texto": "¿CADA CUÁNTO CAMBIAS EL PAÑO?",
-  "hasta": 2.72
+  "hasta": 2.28
  }
 }

@@ -1,0 +1,20 @@
+{
+ "salida": "output/_sin_normalizar.mp4",
+ "formato": "vertical",
+ "voz": "audio/voz_cola.mp3",
+ "subtitulos": "audio/subtitulos_cortos.srt",
+ "quemar_subtitulos": true,
+ "musica": "../../audio/musica.mp3",
+ "musica_db": -26,
+ "escenas": [
+  {
+   "archivo": "clips/s_a.mp4",
+   "duracion": 8.578
+  },
+  {
+   "archivo": "clips/s_b.mp4",
+   "duracion": 28.974
+  }
+ ],
+ "salida_final": "../../output/SHORT_01_billete_medio_74_euros.mp4"
+}

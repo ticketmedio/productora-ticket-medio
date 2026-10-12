@@ -10,7 +10,7 @@
   "tipo": "C",
   "texto": "¿SE PUEDE COCINAR SIN DESCONGELAR?"
  },
- "guion": "¿Se puede cocinar sin descongelar? Depende. La EFSA dice que la forma más segura de descongelar es en el frigorífico.\n\nPero algunos alimentos se pueden cocinar directamente al sacarlos del congelador, como las verduras, las hamburguesas o los productos de pastelería. Eso sí, solo cuando la etiqueta lo indica y siguiendo siempre las instrucciones de preparación.\n\nY recuerda: lo que descongeles, cocínalo rápido.\n\nSígueme, que aquí aprendemos todos. ¡Cloc, cloc!",
+ "guion": "¿Se puede cocinar sin descongelar? Depende. La EFSA dice que la forma más segura de descongelar es en el frigorífico.\n\nPero algunos alimentos se pueden cocinar directamente al sacarlos del congelador, como las verduras, las hamburguesas o los productos de pastelería. Eso sí, solo cuando la etiqueta lo indica y siguiendo siempre las instrucciones de preparación.\n\nY recuerda: lo que descongeles, cocínalo rápido.\n\nEn Estados Unidos, el Departamento de Agricultura dice que la carne, las aves y los guisos se pueden cocinar directamente congelados, pero tardan aproximadamente una vez y media más.\n\nSígueme, que aquí aprendemos todos. ¡Cloc, cloc!",
  "rotulos": [
   {
    "clave": "la forma más segura",
@@ -26,12 +26,19 @@
    "clave": "cuando la etiqueta",
    "texto": "SOLO SI LA ETIQUETA LO DICE",
    "sub": "y con sus instrucciones · AESAN"
+  },
+  {
+   "clave": "una vez y media más",
+   "texto": "CONGELADO: 1,5 × MÁS TIEMPO",
+   "sub": "Carne, aves y guisos · USDA (EE. UU.)"
   }
  ],
  "fuentes": [
   "- EFSA (Autoridad Europea de Seguridad Alimentaria), «Manipulación adecuada de los alimentos» (campaña Safe2Eat; última revisión 29/9/2026). https://www.efsa.europa.eu/es/safe2eat/proper-food-handling — «La forma más segura de descongelar alimentos es en el frigorífico. En el caso de algunos alimentos, es seguro cocinarlos directamente tras sacarlos del congelador: comprueba siempre el envase para ver las instrucciones de preparación.»",
   "- AESAN, «¿Congelas y descongelas los alimentos de forma segura en casa?» (NIPO 069-21-012-7). https://www.aesan.gob.es/dam/jcr:38a8f1b3-25dc-40b6-a831-90a04ae3d03f/congelar_descongelar.pdf — «Algunos alimentos pueden cocinarse congelados directamente, como las verduras, hamburguesas y productos de pastelería, entre otros. Este método solo debe utilizarse cuando la etiqueta de los alimentos así lo indica y siguiendo siempre las instrucciones de preparación.» «Tras la descongelación, se debe cocinar y/o consumir los alimentos lo antes posible.»",
-  "- Verificado el 8/10/2026 leyendo la página."
+  "- Verificado el 8/10/2026 leyendo la página.",
+  "- USDA FSIS (EE. UU.), «Freezing and Food Safety» (actualizada 09/08/2024; leída el 12/10/2026 en copia del Internet Archive): «Raw or cooked meat, poultry or casseroles can be cooked or reheated from the frozen state. However, it will take approximately one and a half times as long to cook.» Algunos productos precocinados rellenos DEBEN cocinarse congelados: leer la etiqueta."
  ],
- "texto_pub": "¿Se puede cocinar sin descongelar? 🧊 Depende. La forma más segura de descongelar es en el frigorífico (EFSA), pero algunos alimentos se pueden cocinar directamente congelados, como verduras, hamburguesas y productos de pastelería. Solo cuando la etiqueta lo indica y siguiendo siempre sus instrucciones. Y lo descongelado, cocínalo cuanto antes.\n\n📊 Fuentes: EFSA (Safe2Eat) y AESAN.\nPepa es un personaje animado con IA; los datos, no 😉\n\n#congelados #descongelar #cocina #seguridadalimentaria #pepapita"
+ "texto_pub": "¿Se puede cocinar sin descongelar? 🧊 Depende. La forma más segura de descongelar es en el frigorífico (EFSA), pero algunos alimentos se pueden cocinar directamente congelados, como verduras, hamburguesas y productos de pastelería. Solo cuando la etiqueta lo indica y siguiendo siempre sus instrucciones. Y lo descongelado, cocínalo cuanto antes.\n\n🌎 ¿Me ves desde Latinoamérica? Cuéntame de qué país y cómo le llamáis a esto en tu casa 👇\n\n📊 Fuentes: EFSA (Safe2Eat) y AESAN.\nPepa es un personaje animado con IA; los datos, no 😉\n\n#congelados #descongelar #cocina #seguridadalimentaria #pepapita",
+ "latam": true
 }

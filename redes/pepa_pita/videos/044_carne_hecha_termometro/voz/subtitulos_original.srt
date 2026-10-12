@@ -1,39 +1,51 @@
 1
-00:00:00,000 --> 00:00:05,451
+00:00:00,000 --> 00:00:03,772
 ¿Cómo sabes que el cordero o el cochinillo ya están hechos?
 
 2
-00:00:05,451 --> 00:00:07,114
+00:00:03,772 --> 00:00:04,923
 No lo dejes a ojo.
 
 3
-00:00:07,464 --> 00:00:11,144
+00:00:05,273 --> 00:00:08,619
 La EFSA recomienda cocinar bien la carne,
 
 4
-00:00:11,144 --> 00:00:16,619
+00:00:08,619 --> 00:00:13,598
 los huevos y los pescados, y, idealmente, usar un termómetro.
 
 5
-00:00:16,969 --> 00:00:22,283
+00:00:13,948 --> 00:00:20,296
 En la carne, los jugos tienen que salir claros, no de un tono rosado.
 
 6
-00:00:22,283 --> 00:00:27,213
+00:00:20,296 --> 00:00:26,184
 Y si hace falta, haz pequeños cortes para comprobar el cocinado.
 
 7
-00:00:27,563 --> 00:00:33,277
+00:00:26,534 --> 00:00:30,947
 En el pescado, la carne se separa fácilmente de las espinas.
 
 8
-00:00:33,277 --> 00:00:38,800
+00:00:30,947 --> 00:00:35,212
 Y los huevos, hasta que la yema y la clara estén cuajadas.
 
 9
-00:00:39,150 --> 00:00:41,604
-Sígueme, que aquí aprendemos todos.
+00:00:35,562 --> 00:00:43,470
+Ojo: la FDA de Estados Unidos va más allá y dice que el color y la textura no son indicadores fiables,
 
 10
-00:00:41,604 --> 00:00:42,445
+00:00:43,470 --> 00:00:49,517
+y que solo un termómetro lo asegura: sesenta y tres grados en cordero y cerdo,
+
+11
+00:00:49,517 --> 00:00:54,014
+con tres minutos de reposo; setenta y uno en carne molida.
+
+12
+00:00:54,364 --> 00:00:57,461
+Sígueme, que aquí aprendemos todos.
+
+13
+00:00:57,461 --> 00:00:58,522
 ¡Cloc, cloc!

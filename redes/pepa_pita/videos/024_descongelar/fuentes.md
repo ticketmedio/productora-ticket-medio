@@ -3,3 +3,4 @@
 - Misma ficha: «La mejor opción es descongelar los alimentos en la parte del frigorífico donde la temperatura sea más fría. Es recomendable sacar la comida del congelador con una antelación de al menos 12 horas y dejarla en la nevera sobre una bandeja que recoja el líquido.»
 - Microondas: «la más rápida… pero no es homogénea… potencia más baja, cortar los alimentos en trozos pequeños… girar o remover… conviene cocinar inmediatamente estos alimentos, ya que alguna parte ha podido comenzar a cocerse.»
 - Verificado el 8/10/2026 leyendo el PDF.
+- USDA FSIS (EE. UU.), «Freezing and Food Safety» (actualizada 09/08/2024; leída el 12/10/2026 en copia del Internet Archive): «There are three safe ways to thaw food: in the refrigerator, in cold water, or in the microwave»; en agua fría: bolsa a prueba de fugas y «Change the water every 30 minutes. After thawing, cook immediately».

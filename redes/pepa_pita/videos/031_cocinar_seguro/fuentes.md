@@ -6,3 +6,4 @@
 - Descongelación: «En el estante inferior del frigorífico durante 24 horas»; «En el microondas utilizando la opción defrost o descongelar»; no es seguro hacerlo sobre la encimera o en el fregadero; «Una vez descongelados, los alimentos deben cocinarse rápidamente»; «Nunca se debe congelar de nuevo un alimento que se ha descongelado, a no ser que sufra un cocinado adecuado antes».
 - Cocinado y recalentado: 70 ºC en todas las partes; recalentar «al menos 70ºC, durante como mínimo, 15 segundos»; dejar enfriar antes de refrigerar o congelar.
 - Verificado el 8/10/2026 leyendo la página.
+- FDA (EE. UU.), «Safe Food Handling» (leída el 12/10/2026): «follow these four simple steps: clean, separate, cook, and chill». Cocinar: «Color and texture are unreliable indicators of safety. Using a food thermometer is the only way to ensure the safety of meat, poultry, seafood, and egg products.»

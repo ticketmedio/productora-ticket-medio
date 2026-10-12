@@ -11,58 +11,80 @@
    "imagen": "busto"
   },
   {
-   "desde": 4.87,
+   "desde": 3.37,
    "imagen": "exp_sorprendida"
   },
   {
-   "desde": 9.95,
+   "desde": 7.7,
    "imagen": "pose_senala"
   },
   {
-   "desde": 15.15,
+   "desde": 12.45,
    "imagen": "busto"
   },
   {
-   "desde": 19.9,
+   "desde": 18.12,
    "imagen": "exp_pensativa"
   },
   {
-   "desde": 24.61,
+   "desde": 23.69,
    "imagen": "pose_sartenes"
   },
   {
-   "desde": 29.71,
+   "desde": 27.63,
    "imagen": "busto"
   },
   {
-   "desde": 37.15,
+   "desde": 31.75,
+   "imagen": "exp_preocupada"
+  },
+  {
+   "desde": 38.81,
+   "imagen": "exp_riendo"
+  },
+  {
+   "desde": 44.21,
+   "imagen": "busto"
+  },
+  {
+   "desde": 48.54,
+   "imagen": "pose_senala"
+  },
+  {
+   "desde": 51.3,
    "imagen": "exp_guino"
   }
  ],
  "rotulos": [
   {
-   "desde": 9.95,
-   "hasta": 14.84,
+   "desde": 7.7,
+   "hasta": 12.14,
    "texto": "IDEALMENTE, TERMÓMETRO",
    "sub": "para la carne · EFSA"
   },
   {
-   "desde": 15.15,
-   "hasta": 19.9,
+   "desde": 12.45,
+   "hasta": 18.12,
    "texto": "JUGOS CLAROS, NO ROSADOS",
    "sub": "en la carne · EFSA"
   },
   {
-   "desde": 24.61,
-   "hasta": 29.71,
+   "desde": 23.69,
+   "hasta": 27.63,
    "texto": "PESCADO: SE SEPARA",
    "sub": "fácilmente de las espinas · EFSA"
+  },
+  {
+   "desde": 31.75,
+   "hasta": 38.81,
+   "texto": "EL COLOR NO ES FIABLE",
+   "sub": "Termómetro: 63 °C cortes · 71 °C molida"
   }
  ],
  "salida": "salida/PEPA_044_carne_hecha_termometro.mp4",
  "gancho": {
   "tipo": "A",
   "texto": "¿CÓMO SABES QUE LA CARNE ESTÁ HECHA?",
-  "hasta": 4.87
+  "hasta": 3.37
  }
 }

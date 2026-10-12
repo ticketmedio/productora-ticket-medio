@@ -11,54 +11,72 @@
    "imagen": "busto"
   },
   {
-   "desde": 11.58,
+   "desde": 11.28,
    "imagen": "exp_sorprendida"
   },
   {
-   "desde": 17.74,
+   "desde": 17.14,
    "imagen": "pose_senala"
   },
   {
-   "desde": 22.2,
+   "desde": 21.39,
    "imagen": "busto"
   },
   {
-   "desde": 28.25,
+   "desde": 26.82,
    "imagen": "exp_pensativa"
   },
   {
-   "desde": 31.7,
+   "desde": 34.9,
    "imagen": "pose_sartenes"
   },
   {
-   "desde": 39.48,
+   "desde": 40.53,
+   "imagen": "busto"
+  },
+  {
+   "desde": 46.22,
+   "imagen": "exp_preocupada"
+  },
+  {
+   "desde": 50.49,
+   "imagen": "exp_riendo"
+  },
+  {
+   "desde": 55.01,
    "imagen": "exp_guino"
   }
  ],
  "rotulos": [
   {
-   "desde": 3.19,
-   "hasta": 11.27,
+   "desde": 3.11,
+   "hasta": 10.97,
    "texto": "DE 5 A 65 °C",
    "sub": "se multiplican más rápido · AESAN"
   },
   {
-   "desde": 11.58,
-   "hasta": 17.74,
+   "desde": 11.28,
+   "hasta": 17.14,
    "texto": "12 HORAS ANTES",
    "sub": "en la nevera, sobre una bandeja · AESAN"
   },
   {
-   "desde": 23.24,
-   "hasta": 28.25,
+   "desde": 22.33,
+   "hasta": 26.82,
    "texto": "MICROONDAS: POTENCIA BAJA",
    "sub": "y cocínalo enseguida · AESAN"
+  },
+  {
+   "desde": 46.22,
+   "hasta": 50.49,
+   "texto": "AGUA FRÍA: CAMBIA CADA 30 MIN",
+   "sub": "Bolsa cerrada y cocinar ya · USDA (EE. UU.)"
   }
  ],
  "salida": "salida/PEPA_024_descongelar.mp4",
  "gancho": {
   "tipo": "C",
   "texto": "¿DESCONGELAS EN LA ENCIMERA?",
-  "hasta": 2.57
+  "hasta": 2.5
  }
 }

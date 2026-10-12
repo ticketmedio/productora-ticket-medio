@@ -10,7 +10,7 @@
   "tipo": "C",
   "texto": "¿LA COMIDA, TODA LA TARDE EN LA MESA?"
  },
- "guion": "¿Dejas la comida de Navidad en la mesa toda la tarde? Ojo.\n\nLa EFSA dice que no dejes los alimentos cocinados a temperatura ambiente más de dos horas.\n\nSi se van a comer enseguida, mantenlos calientes, por encima de sesenta grados. Si no, refrigéralos cuanto antes, por debajo de cinco grados.\n\nY evita guardar las sobras demasiado tiempo, incluso en la nevera, porque eso también puede afectar a su seguridad.\n\nSígueme, que aquí aprendemos todos. ¡Cloc, cloc!",
+ "guion": "¿Dejas la comida de Navidad en la mesa toda la tarde? Ojo.\n\nLa EFSA dice que no dejes los alimentos cocinados a temperatura ambiente más de dos horas.\n\nSi se van a comer enseguida, mantenlos calientes, por encima de sesenta grados. Si no, refrigéralos cuanto antes, por debajo de cinco grados.\n\nY evita guardar las sobras demasiado tiempo, incluso en la nevera, porque eso también puede afectar a su seguridad.\n\nY ojo si tu Navidad es en verano, como en el hemisferio sur: con más de treinta y dos grados, el límite baja a una hora.\n\nSígueme, que aquí aprendemos todos. ¡Cloc, cloc!",
  "rotulos": [
   {
    "clave": "más de dos horas",
@@ -26,12 +26,19 @@
    "clave": "cinco grados",
    "texto": "FRÍO: MENOS DE 5 °C",
    "sub": "refrigéralo cuanto antes · EFSA"
+  },
+  {
+   "clave": "baja a una hora",
+   "texto": "CON MÁS DE 32 °C: 1 HORA",
+   "sub": "Navidad en verano · USDA (EE. UU.)"
   }
  ],
  "fuentes": [
   "- EFSA (Autoridad Europea de Seguridad Alimentaria), «Manipulación adecuada de los alimentos» (campaña Safe2Eat; última revisión 29/9/2026). https://www.efsa.europa.eu/es/safe2eat/proper-food-handling",
   "- «No dejes los alimentos cocinados a temperatura ambiente durante más de 2 horas. Refrigera los alimentos cocinados cuanto antes (por debajo de 5 °C) y mantenlos calientes (por encima de 60 °C) si se van a consumir inmediatamente. Evita almacenar las sobras de alimentos durante demasiado tiempo, incluso en la nevera».",
-  "- Verificado el 8/10/2026 leyendo la página."
+  "- Verificado el 8/10/2026 leyendo la página.",
+  "- USDA FSIS (EE. UU.), «Leftovers and Food Safety» (leída el 12/10/2026 en copia del Internet Archive del 08/10/2026): «Throw away all perishable foods that have been left in room temperature for more than 2 hours (1 hour if the temperature is over 90° F …).» (90 °F ≈ 32 °C)."
  ],
- "texto_pub": "¿Dejas la comida de Navidad en la mesa toda la tarde? 🎄 Ojo: la EFSA dice que no dejes los alimentos cocinados a temperatura ambiente más de 2 horas. Si se van a comer ya, mantenlos calientes (más de 60 °C); si no, refrigéralos cuanto antes (menos de 5 °C). Y evita guardar las sobras demasiado tiempo, incluso en la nevera.\n\n📊 Fuente: EFSA, «Manipulación adecuada de los alimentos» (Safe2Eat).\nPepa es un personaje animado con IA; los datos, no 😉\n\n#navidad #sobras #seguridadalimentaria #cocina #pepapita"
+ "texto_pub": "¿Dejas la comida de Navidad en la mesa toda la tarde? 🎄 Ojo: la EFSA dice que no dejes los alimentos cocinados a temperatura ambiente más de 2 horas. Si se van a comer ya, mantenlos calientes (más de 60 °C); si no, refrigéralos cuanto antes (menos de 5 °C). Y evita guardar las sobras demasiado tiempo, incluso en la nevera.\n\n🌎 ¿Me ves desde Latinoamérica? Cuéntame de qué país y cómo le llamáis a esto en tu casa 👇\n\n📊 Fuente: EFSA, «Manipulación adecuada de los alimentos» (Safe2Eat).\nPepa es un personaje animado con IA; los datos, no 😉\n\n#navidad #sobras #seguridadalimentaria #cocina #pepapita",
+ "latam": true
 }

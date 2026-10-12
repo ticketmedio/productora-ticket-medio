@@ -5,6 +5,9 @@ logging.disable(logging.CRITICAL)
 RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 url, claves = sys.argv[1], sys.argv[2:]
 datos = subprocess.run(["curl", "-sL", "--max-time", "90", "-A", "Mozilla/5.0", url], capture_output=True).stdout
+if datos[:4] != b"%PDF" and len(datos) < 4000 and os.path.exists("/Applications/Google Chrome.app"):  # webs que bloquean curl (Akamai, CloudFront): Chrome oculto
+    datos = subprocess.run(["/Applications/Google Chrome.app/Contents/MacOS/Google Chrome", "--headless=new", "--disable-gpu", "--virtual-time-budget=20000", "--dump-dom", url],
+                           capture_output=True, timeout=120).stdout or datos
 if datos[:4] == b"%PDF":
     import pypdf
     texto = "\n".join((p.extract_text() or "") for p in pypdf.PdfReader(io.BytesIO(datos)).pages)

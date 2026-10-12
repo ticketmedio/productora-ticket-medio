@@ -1,35 +1,43 @@
 1
-00:00:00,000 --> 00:00:02,672
+00:00:00,000 --> 00:00:02,465
 ¿Recalientas la comida varias veces?
 
 2
-00:00:02,672 --> 00:00:03,489
+00:00:02,465 --> 00:00:03,219
 ¡Mala idea!
 
 3
-00:00:03,489 --> 00:00:07,943
+00:00:03,219 --> 00:00:07,328
 Cada recalentado aumenta las probabilidades de intoxicación.
 
 4
-00:00:08,255 --> 00:00:11,773
+00:00:07,640 --> 00:00:11,550
 Lo ideal es recalentar solo la cantidad que vas a comer.
 
 5
-00:00:12,086 --> 00:00:15,510
+00:00:11,862 --> 00:00:15,811
 Y cuando la recalientes, todas las partes del alimento,
 
 6
-00:00:15,510 --> 00:00:21,672
+00:00:15,811 --> 00:00:22,918
 también el centro, tienen que llegar al menos a setenta grados durante quince segundos como mínimo.
 
 7
-00:00:21,985 --> 00:00:30,562
+00:00:23,230 --> 00:00:32,006
 Y si vas a guardarla, antes déjala enfriar: meterla caliente en la nevera o en el congelador afecta a la temperatura de los demás alimentos.
 
 8
-00:00:30,875 --> 00:00:33,546
-Sígueme, que aquí aprendemos todos.
+00:00:32,319 --> 00:00:37,628
+En Estados Unidos piden llegar a ciento sesenta y cinco grados Fahrenheit,
 
 9
-00:00:33,546 --> 00:00:34,462
+00:00:37,628 --> 00:00:43,080
+unos setenta y cuatro Celsius, y llevar las sopas y las salsas a ebullición.
+
+10
+00:00:43,393 --> 00:00:45,656
+Sígueme, que aquí aprendemos todos.
+
+11
+00:00:45,656 --> 00:00:46,432
 ¡Cloc, cloc!

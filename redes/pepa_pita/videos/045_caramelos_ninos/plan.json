@@ -11,7 +11,7 @@
    "imagen": "busto"
   },
   {
-   "desde": 11.84,
+   "desde": 11.7,
    "imagen": "exp_sorprendida"
   },
   {
@@ -19,46 +19,60 @@
    "imagen": "pose_senala"
   },
   {
-   "desde": 23.09,
+   "desde": 23.5,
    "imagen": "busto"
   },
   {
-   "desde": 27.44,
+   "desde": 28.25,
    "imagen": "exp_pensativa"
   },
   {
-   "desde": 32.69,
+   "desde": 33.94,
    "imagen": "pose_sartenes"
   },
   {
-   "desde": 35.34,
+   "desde": 38.89,
+   "imagen": "busto"
+  },
+  {
+   "desde": 45.9,
+   "imagen": "exp_preocupada"
+  },
+  {
+   "desde": 49.28,
    "imagen": "exp_guino"
   }
  ],
  "rotulos": [
   {
-   "desde": 2.55,
-   "hasta": 11.52,
+   "desde": 2.52,
+   "hasta": 11.39,
    "texto": "NINGÚN CARAMELO ES SEGURO",
    "sub": "antes de los 5 años · AEP"
   },
   {
    "desde": 18.52,
-   "hasta": 23.09,
+   "hasta": 23.5,
    "texto": "0–3 AÑOS: RIESGO MUY ALTO",
    "sub": "no deben tomarlos · AEP"
   },
   {
-   "desde": 27.44,
-   "hasta": 32.37,
+   "desde": 28.25,
+   "hasta": 33.63,
    "texto": "+5 AÑOS: NO DESAPARECE",
    "sub": "el riesgo disminuye · AEP"
+  },
+  {
+   "desde": 33.94,
+   "hasta": 38.89,
+   "texto": "AAP (EE. UU.): HASTA LOS 4 AÑOS",
+   "sub": "Caramelos duros, blandos o pegajosos"
   }
  ],
  "salida": "salida/PEPA_045_caramelos_ninos.mp4",
  "gancho": {
   "tipo": "B",
   "texto": "¿CARAMELOS PARA LOS NIÑOS? ¡OJO!",
-  "hasta": 2.3
+  "hasta": 2.28
  }
 }

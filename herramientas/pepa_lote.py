@@ -13,7 +13,7 @@ Ficha (todas las rutas son relativas a redes/pepa_pita):
   "fuentes": ["- AESAN, ..."],                    (líneas de fuentes.md)
   "texto_pub": "texto de Instagram/Facebook/TikTok"
 }
-Genera voz (Marta MAI-Voice-2 ×1,12), planos de Pepa que cambian cada 3-6 s, rótulos anclados a la frase que
+Genera voz (por defecto Marta MAI-Voice-2 ×1,12; la ficha puede traer «voz»), planos de Pepa que cambian cada 3-6 s, rótulos anclados a la frase que
 contiene su «clave», plan.json, fuentes.md, TEXTO_PUBLICACION.txt y el MP4 en salida/.
 """
 import json, os, re, subprocess, sys, unicodedata
@@ -59,7 +59,7 @@ def main():
 
     if not os.path.exists(os.path.join(d, "voz", "voz_original.mp3")):
         subprocess.run([sys.executable, os.path.join(HERR, "voz.py"), os.path.join(d, "guion.txt"), os.path.join(d, "voz"),
-                        "--voz", "es-ES-Marta:MAI-Voice-2"], check=True, cwd=HERR, capture_output=True)
+                        "--voz", ficha.get("voz", "es-ES-Marta:MAI-Voice-2")], check=True, cwd=HERR, capture_output=True)
         subprocess.run([sys.executable, os.path.join(HERR, "acelerar_voz.py"), os.path.join(d, "voz"), "1.12"],
                        check=True, cwd=HERR, capture_output=True)
     bl = bloques(os.path.join(d, "voz", "subtitulos.srt"))

@@ -11,50 +11,64 @@
    "imagen": "busto"
   },
   {
-   "desde": 5.77,
+   "desde": 6.36,
    "imagen": "exp_sorprendida"
   },
   {
-   "desde": 12.15,
+   "desde": 13.38,
    "imagen": "pose_senala"
   },
   {
-   "desde": 17.11,
+   "desde": 18.81,
    "imagen": "busto"
   },
   {
-   "desde": 22.84,
+   "desde": 24.31,
    "imagen": "exp_pensativa"
   },
   {
-   "desde": 29.82,
+   "desde": 34.5,
+   "imagen": "pose_sartenes"
+  },
+  {
+   "desde": 40.41,
+   "imagen": "busto"
+  },
+  {
+   "desde": 43.81,
    "imagen": "exp_guino"
   }
  ],
  "rotulos": [
   {
-   "desde": 5.77,
-   "hasta": 12.1,
+   "desde": 6.36,
+   "hasta": 13.33,
    "texto": "YEMA Y CLARA CUAJADAS",
    "sub": "así se recomienda · Min. de Consumo"
   },
   {
-   "desde": 12.15,
-   "hasta": 16.79,
+   "desde": 13.38,
+   "hasta": 18.5,
    "texto": "SIRVE ENSEGUIDA",
    "sub": "los platos con huevo · Min. de Consumo"
   },
   {
-   "desde": 17.11,
-   "hasta": 22.84,
+   "desde": 18.81,
+   "hasta": 24.31,
    "texto": "CRUDOS, APARTE",
    "sub": "y lava manos y superficies · AESAN"
+  },
+  {
+   "desde": 34.5,
+   "hasta": 40.1,
+   "texto": "PLATOS CON HUEVO: 71 °C",
+   "sub": "160 °F · FDA (EE. UU.)"
   }
  ],
  "salida": "salida/PEPA_029_huevo_cuajado.mp4",
  "gancho": {
   "tipo": "B",
   "texto": "¿TORTILLA JUGOSA? ¡OJO!",
-  "hasta": 2.51
+  "hasta": 2.78
  }
 }

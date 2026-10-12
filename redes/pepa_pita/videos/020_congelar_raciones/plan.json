@@ -11,58 +11,72 @@
    "imagen": "busto"
   },
   {
-   "desde": 3.32,
+   "desde": 8.2,
    "imagen": "exp_sorprendida"
   },
   {
-   "desde": 8.55,
+   "desde": 17.89,
    "imagen": "pose_senala"
   },
   {
-   "desde": 19.27,
+   "desde": 21.68,
    "imagen": "busto"
   },
   {
-   "desde": 23.55,
+   "desde": 25.19,
    "imagen": "exp_pensativa"
   },
   {
-   "desde": 27.48,
+   "desde": 28.52,
    "imagen": "pose_sartenes"
   },
   {
-   "desde": 36.14,
+   "desde": 34.51,
    "imagen": "busto"
   },
   {
-   "desde": 39.2,
+   "desde": 42.43,
+   "imagen": "exp_preocupada"
+  },
+  {
+   "desde": 47.08,
+   "imagen": "exp_riendo"
+  },
+  {
+   "desde": 52.34,
    "imagen": "exp_guino"
   }
  ],
  "rotulos": [
   {
-   "desde": 3.32,
-   "hasta": 8.55,
+   "desde": 3.19,
+   "hasta": 8.2,
    "texto": "RACIONES INDIVIDUALES",
    "sub": "se congela antes · AESAN"
   },
   {
-   "desde": 11.2,
-   "hasta": 19.27,
+   "desde": 10.75,
+   "hasta": 17.89,
    "texto": "NO LA METAS CALIENTE",
    "sub": "primero, a la nevera · AESAN"
   },
   {
-   "desde": 30.57,
-   "hasta": 35.83,
+   "desde": 28.52,
+   "hasta": 34.2,
    "texto": "MÁS DE 70 °C, 2 MIN",
    "sub": "para volver a congelar · AESAN"
+  },
+  {
+   "desde": 42.43,
+   "hasta": 47.08,
+   "texto": "−18 °C: SEGURA SIEMPRE",
+   "sub": "Los tiempos son por calidad · USDA"
   }
  ],
  "salida": "salida/PEPA_020_congelar_raciones.mp4",
  "gancho": {
   "tipo": "B",
   "texto": "¿CONGELAS TODO EN UN BLOQUE?",
-  "hasta": 2.69
+  "hasta": 2.58
  }
 }

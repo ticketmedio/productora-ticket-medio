@@ -3,3 +3,4 @@
 - Tabla (leída por posiciones del PDF): frutas y verduras 8–12 meses; carne de vacuno, cordero y cerdo 6–12; carne de pollo 9–12; carne picada y hamburguesas 3–4; fiambres y embutidos 1–2; claras y yemas crudas (sin cáscara) 12; pescado blanco 6–8; pescado azul 2–3; marisco 3–6; sopas y guisos 2–3 meses.
 - «Recuerda que lo primero que entra en el congelador es lo primero que debe salir.» «Se recomienda marcar en el envase de qué alimento se trata y su fecha de congelación.»
 - Verificado el 8/10/2026.
+- USDA FSIS (EE. UU.), «Freezing and Food Safety» (actualizada 09/08/2024; leída el 12/10/2026 en copia del Internet Archive): tabla «Freezer Storage Chart (0 °F)»: carne molida cruda 3 a 4 meses; jamón, perritos y fiambres 1 a 2; aves crudas enteras 12; partes 9; sopas y guisos 2 a 3. «Frozen foods remain safe indefinitely.»

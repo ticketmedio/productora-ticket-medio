@@ -3,3 +3,4 @@
 - Misma ficha: «No es recomendable meter alimentos calientes inmediatamente en el congelador… se deben dejar enfriar en la nevera antes de meterlos en el congelador»; «marcar en el envase de qué alimento se trata y su fecha de congelación»; «lo primero que entra en el congelador es lo primero que debe salir».
 - Misma ficha: «Los alimentos que se han congelado y descongelado no deben volver a congelarse, salvo que se cocinen a más de 70 ºC durante al menos dos minutos.»
 - Verificado el 8/10/2026 leyendo el PDF.
+- USDA FSIS (EE. UU.), «Freezing and Food Safety» (actualizada 09/08/2024; leída el 12/10/2026 en copia del Internet Archive): «Food stored constantly at 0 °F will always be safe. Only the quality suffers with lengthy freezer storage.» (0 °F ≈ −18 °C).

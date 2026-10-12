@@ -8,7 +8,7 @@ Uso:
 - Une los audios con FFmpeg y crea voz.mp3 y subtitulos.srt. Los tiempos del SRT
   salen de la duración real de cada párrafo, repartida por frases según su longitud.
 """
-import argparse, json, os, re, subprocess, sys, time, urllib.request, urllib.error
+import argparse, http.client, json, os, re, subprocess, sys, time, urllib.request, urllib.error
 from xml.sax.saxutils import escape
 from comun import FFMPEG, FFPROBE
 
@@ -52,13 +52,19 @@ def tts(texto, voz, velocidad, clave, region, destino, estilo=None):
     for intento in range(5):
         try:
             with urllib.request.urlopen(req, timeout=60) as r:
-                open(destino, "wb").write(r.read())
+                datos = r.read()
+            if len(datos) < 1000:
+                raise OSError("respuesta vacía")
+            open(destino, "wb").write(datos)
             return
         except urllib.error.HTTPError as e:
             if e.code == 429:  # límite del plan gratuito: esperar y reintentar
                 time.sleep(15 * (intento + 1))
                 continue
             sys.exit(f"Error de Azure {e.code}: {e.read()[:300]!r}")
+        except (OSError, http.client.HTTPException):  # corte de red (IncompleteRead…): reintentar
+            time.sleep(5 * (intento + 1))
+            continue
     sys.exit("Azure sigue rechazando peticiones (límite de uso). Prueba más tarde.")
 
 
