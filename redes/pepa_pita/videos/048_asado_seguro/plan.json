@@ -1,0 +1,92 @@
+{
+ "voz": "voz/voz.mp3",
+ "subtitulos": "voz/subtitulos.srt",
+ "musica": "../../../../musica/pepa_pita/Travelling Light - Blue Deer Studio.mp3",
+ "musica_db": -22,
+ "fondo": "../../fondos/pexels_33640979.jpg",
+ "cabecera": "¡ASADO SEGURO!",
+ "planos": [
+  {
+   "desde": 0,
+   "imagen": "busto"
+  },
+  {
+   "desde": 4.1,
+   "imagen": "exp_sorprendida"
+  },
+  {
+   "desde": 7.98,
+   "imagen": "pose_senala"
+  },
+  {
+   "desde": 13.18,
+   "imagen": "busto"
+  },
+  {
+   "desde": 18.98,
+   "imagen": "exp_pensativa"
+  },
+  {
+   "desde": 22.75,
+   "imagen": "pose_sartenes"
+  },
+  {
+   "desde": 27.12,
+   "imagen": "busto"
+  },
+  {
+   "desde": 31.86,
+   "imagen": "exp_preocupada"
+  },
+  {
+   "desde": 41.18,
+   "imagen": "exp_riendo"
+  },
+  {
+   "desde": 46.72,
+   "imagen": "busto"
+  },
+  {
+   "desde": 52.6,
+   "imagen": "pose_senala"
+  },
+  {
+   "desde": 59.4,
+   "imagen": "exp_contenta"
+  },
+  {
+   "desde": 67.68,
+   "imagen": "busto"
+  },
+  {
+   "desde": 70.28,
+   "imagen": "exp_guino"
+  }
+ ],
+ "rotulos": [
+  {
+   "desde": 13.18,
+   "hasta": 18.98,
+   "texto": "NO MEZCLES CRUDO Y COCIDO",
+   "sub": "plato lavado con agua caliente · FDA"
+  },
+  {
+   "desde": 34.07,
+   "hasta": 41.18,
+   "texto": "63 °C CORTES · 71 °C MOLIDA",
+   "sub": "y 74 °C el pollo · con termómetro · FDA"
+  },
+  {
+   "desde": 59.4,
+   "hasta": 67.37,
+   "texto": "CON MÁS DE 32 °C: 1 HORA",
+   "sub": "si no, 2 horas · FDA (EE. UU.)"
+  }
+ ],
+ "salida": "salida/PEPA_048_asado_seguro.mp4",
+ "gancho": {
+  "tipo": "A",
+  "texto": "¿ASADO? ¡OJO CON EL PLATO!",
+  "hasta": 1.6
+ }
+}

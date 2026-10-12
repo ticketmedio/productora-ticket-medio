@@ -1,0 +1,5 @@
+# Fuentes — Pepa Pita 048 «Asado seguro: el plato y el termómetro»
+- FDA (EE. UU.), «Safe Food Handling» (leída el 12/10/2026): «follow these four simple steps: clean, separate, cook, and chill»; «Never place cooked food on a plate that previously held raw meat, poultry, seafood, or eggs unless the plate has been washed in hot, soapy water»; «Don’t reuse marinades used on raw foods».
+- Misma página: «Color and texture are unreliable indicators of safety. Using a food thermometer is the only way to ensure the safety of meat, poultry, seafood, and egg products». Tabla: carne de vacuno, cerdo, ternera y cordero (chuletas, asados, filetes) 145 °F con 3 minutos de reposo (≈ 63 °C); carne molida 160 °F (≈ 71 °C); aves 165 °F (≈ 74 °C).
+- Misma página: «Refrigerate or freeze meat, poultry, eggs, seafood, and other perishables within 2 hours of cooking or purchasing. Refrigerate within 1 hour if the temperature outside is above 90° F.» (90 °F ≈ 32 °C).
+- Es información general de la FDA; no hay una guía específica para la parrilla en esas fuentes. El «asado» y la «parrilla» se citan solo como contexto: los datos son los de la tabla de temperaturas.
