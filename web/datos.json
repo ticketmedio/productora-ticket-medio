@@ -2730,11 +2730,11 @@
         "Shorts"
       ],
       "date": "2026-10-13",
-      "status": "pendiente",
+      "status": "hecho",
       "title": "Enlazar los 3 Shorts de Mercadona con su vídeo largo (5 min)",
       "createdBy": "claude",
       "createdAt": "2026-10-12T10:44:33.000Z",
-      "updatedAt": "2026-10-12T11:08:12.000Z",
+      "updatedAt": "2026-10-12T11:10:36.616Z",
       "notes": "Por qué: los Shorts de Mercadona llevan 1.724 visualizaciones en 28 días y el vídeo largo solo 8. Sin enlace, nadie pasa del Short al largo.\n\nPASOS (studio.youtube.com, con el logo del ticket amarillo arriba a la derecha):\n1. Menú izquierdo «Contenido» → pestaña «Shorts».\n2. Pulsa el TÍTULO del Short (o el lápiz) para abrir sus detalles.\n3. Baja hasta «Vídeo relacionado» (si no lo ves, pulsa «Mostrar más») → «Seleccionar vídeo» → elige el vídeo largo del mismo tema → «Guardar».\n4. Haz lo mismo con cada Short:\n   · Los 3 de MERCADONA → vídeo «MERCADONA: ¿dónde va cada euro que dejas en la caja?» (los de Mercadona ya están publicados).\n   · Los 3 Shorts de ZARA YA ESTÁN ENLAZADOS (confirmado por ti el 12/10): no hay que tocarlos.\n5. Los 4 Shorts extra de Zara (tarea «pub-yt-3-extra», que se hace el mismo día): al subirlos, en «Vídeo relacionado» elige directamente el de Zara y así ya salen enlazados.\n6. Escribe «enlazados» aquí.\n\nRegla desde ahora: CADA Short nuevo se sube con su «Vídeo relacionado» elegido en el momento de subirlo (también los de El Corte Inglés, Lidl, etc., cuando el largo ya esté publicado).\n\nLISTA DE COMPROBACIÓN (redes/LISTA_COMPROBACION.md):\n  ☐ Cuenta correcta (Ticket Medio)\n  ☐ El Short está en el vídeo largo del MISMO tema\n  ☐ Guardado (aparece el título del largo bajo el Short)",
       "comentarios": [
         {
