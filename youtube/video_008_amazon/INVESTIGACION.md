@@ -1,0 +1,25 @@
+# INVESTIGACIÓN — Vídeo 008: LO QUE DEVUELVES A AMAZON
+### «Lo que devuelves a Amazon: ¿lo revenden, lo regalan o lo destruyen?»
+
+Fecha: 8/10/2026. Tema sin cuentas auditadas: se cuenta lo que dicen la **ley** y **la empresa**, y lo que NO se sabe. Amazon no publica cuántos productos devueltos se revenden, donan o destruyen en España.
+**Leyenda:** **D** = fuente oficial (ley o comunicado de la empresa) · **P** = prensa · **!** = no confirmado.
+
+## 1. LO QUE DICE LA LEY (España y UE) [D]
+- Desistimiento: TRLGDCU (RDL 1/2007), art. 71 y 102: plazo mínimo de **14 días naturales**, «sin indicar el motivo y sin incurrir en ningún coste distinto de…». Art. 68: «sin necesidad de justificar su decisión y sin penalización de ninguna clase». https://www.boe.es/buscar/act.php?id=BOE-A-2007-20555
+- Reembolso: art. 107.1: «sin demoras indebidas y, en cualquier caso, antes de que hayan transcurrido 14 días naturales desde la fecha en que haya sido informado de la decisión de desistimiento»; art. 107.3: el empresario «podrá retener el reembolso hasta haber recibido los bienes, o hasta que el consumidor y usuario haya presentado una prueba de la devolución».
+- Excepciones (art. 103): bienes confeccionados o «claramente personalizados»; bienes que puedan deteriorarse o caducar con rapidez; bienes precintados no aptos para ser devueltos por salud o higiene y desprecintados tras la entrega; grabaciones sonoras o de vídeo y programas precintados desprecintados.
+- Ley 7/2022 de residuos y suelos contaminados (art. 18.2): «Queda prohibida la destrucción o su eliminación mediante depósito en vertedero de excedentes no vendidos de productos no perecederos tales como textiles, juguetes o aparatos eléctricos, entre otros, salvo que dichos productos deban destruirse conforme a otra normativa o por protección del consumidor y seguridad. Dichos excedentes se destinarán en primer lugar a canales de reutilización, incluyendo su donación…». https://www.boe.es/buscar/act.php?id=BOE-A-2022-5809
+- Reglamento (UE) 2024/1781 (ecodiseño), art. 25.1: «Queda prohibida a partir del 19 de julio de 2026 la destrucción de los productos de consumo no vendidos enumerados en el anexo VII» (ropa, complementos y calzado); no se aplica a microempresas ni pequeñas; a medianas, desde el 19/7/2030. Art. 25.5: se podrán fijar excepciones, entre otras, por «daños a los productos provocados por su manipulación, o detectados tras su devolución, que no puedan repararse de manera rentable». Considerando 55: la destrucción «se está convirtiendo en un problema medioambiental generalizado… debido, en particular al rápido crecimiento de las ventas en línea». https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32024R1781
+
+## 2. LO QUE DICE AMAZON [D, comunicado de 22/10/2021 — antiguo]
+https://www.aboutamazon.es/noticias/sostenibilidad/que-sucede-en-amazon-con-los-productos-devueltos-o-no-vendidos
+«Nuestra prioridad es revender estos productos, donarlos a organizaciones benéficas o reciclarlos, por este orden. Solo si no queda otra opción, después de haber reciclado todo lo reciclable, desechamos los materiales sobrantes utilizando métodos como la recuperación energética.» «Cada artículo devuelto pasa por un proceso de inspección detallado»; si está nuevo, se vuelve a poner a la venta como «nuevo»: «la mayoría de los productos devueltos se pueden volver a vender de esta manera». Productos propiedad de Amazon que no se pueden revender como nuevos: devolución al proveedor, reventa como usados (Amazon Segunda Mano) o donación («En España donamos productos a varias ONG, como Cruz Roja»); desechar «solo en los casos en que no exista otra opción» (higiene, motivos legales, dañado). Más de la mitad de los productos vendidos en Amazon provienen de colaboradores comerciales independientes, que «son dueños del inventario y deciden qué hacer con él». Programas para ellos: «FBA Liquidations» (disponible en España; «canal de liquidación mayorista de Amazon») y «FBA Grade and Resell» (a España desde 2022, según el comunicado de 2021).
+
+## 3. LA INVESTIGACIÓN DE ITV NEWS (Reino Unido, 21/6/2021) [P]
+Según Xataka (21/6/2021): ITV News, con un exempleado, documentó en almacenes de Amazon en el Reino Unido productos nuevos etiquetados «Destruir»; cifra: 124.000 productos destruidos en una semana (según el medio, el objetivo registrado en abril). Respuesta de Amazon: su prioridad es «revender, donar a organizaciones benéficas o reciclar»; «no se envían artículos a vertederos en el Reino Unido»; trabaja para llegar a cero.
+
+## 4. LO QUE NO SE PUEDE AFIRMAR (!)
+- No se sabe cuántos productos devueltos se revenden, donan o destruyen en España: Amazon no lo publica (el comunicado es de 2021 y no da cifras).
+- Los palés y «cajas de devoluciones» que se ven en YouTube: Amazon reconoce un canal de liquidación mayorista (FBA Liquidations), pero NO se puede afirmar de dónde sale cada palé concreto.
+- La investigación de ITV es del Reino Unido y de 2021: no se extrapola a España.
+- Consumo: el derecho de desistimiento es una cosa y la política de devolución de 30 días de Amazon u otras tiendas, otra (no verificada aquí): no se mezclan.

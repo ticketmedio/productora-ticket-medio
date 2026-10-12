@@ -1,0 +1,1275 @@
+{
+ "musica": "audio/musica.mp3",
+ "musica_db": -26,
+ "cola": 3,
+ "escenas": [
+  {
+   "id": "01",
+   "desde": "Devuelves un paquete a Amazon",
+   "fondo": "centro_logistico",
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 90,
+     "y": 120,
+     "w": 1230,
+     "h": 870,
+     "t": 0
+    },
+    {
+     "tipo": "texto",
+     "texto": "Devuelves un paquete a Amazon…",
+     "x": 700,
+     "y": 230,
+     "tam": 58,
+     "fuente": "mano",
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "¿Se revende?",
+     "x": 700,
+     "y": 430,
+     "tam": 90,
+     "en": "¿Se revende"
+    },
+    {
+     "tipo": "texto",
+     "texto": "¿Se regala?",
+     "x": 700,
+     "y": 600,
+     "tam": 90,
+     "en": "se regala"
+    },
+    {
+     "tipo": "texto",
+     "texto": "¿Se destruye?",
+     "x": 700,
+     "y": 770,
+     "tam": 90,
+     "color": "#E0521B",
+     "en": "¿Adónde va"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "pensativo",
+     "x": 1620,
+     "y": 1015,
+     "h": 520,
+     "entra": "der",
+     "t": 0.3
+    }
+   ],
+   "zoom": [
+    1.0,
+    1.06
+   ]
+  },
+  {
+   "id": "02",
+   "desde": "Hoy vamos a abrir el ticket",
+   "fondo": "#FFF3C4",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "El ticket de una devolución",
+     "x": 800,
+     "y": 240,
+     "tam": 76,
+     "t": 0.2
+    },
+    {
+     "tipo": "sello",
+     "texto": "NO HAY CIFRAS PÚBLICAS",
+     "x": 800,
+     "y": 440,
+     "tam": 66,
+     "en": "no publica cuántos"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Amazon no publica cuántos productos devueltos\nrevende, dona o destruye en España",
+     "x": 800,
+     "y": 650,
+     "tam": 50,
+     "fuente": "mano",
+     "en": "no publica cuántos"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Sí hay: la ley · la empresa · la prensa",
+     "x": 800,
+     "y": 860,
+     "tam": 54,
+     "fuente": "mano",
+     "papel": true,
+     "en": "lo que dice la ley"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "encoge_hombros",
+     "x": 1620,
+     "y": 1015,
+     "h": 520,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "03",
+   "desde": "Primero, tu derecho",
+   "fondo": "oficina_financiera",
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 90,
+     "y": 120,
+     "w": 1230,
+     "h": 870,
+     "t": 0
+    },
+    {
+     "tipo": "texto",
+     "texto": "TU DERECHO",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 14,
+     "x": 450,
+     "y": 450,
+     "tam": 220,
+     "color": "#E0521B",
+     "en": "catorce días naturales"
+    },
+    {
+     "tipo": "texto",
+     "texto": "días naturales para devolver",
+     "x": 450,
+     "y": 630,
+     "tam": 46,
+     "fuente": "mano",
+     "en": "catorce días naturales"
+    },
+    {
+     "tipo": "texto",
+     "texto": "sin explicar por qué\nsin penalización",
+     "x": 1010,
+     "y": 470,
+     "tam": 56,
+     "en": "sin tener que explicar"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Ley General de Defensa de Consumidores (TRLGDCU)",
+     "x": 700,
+     "y": 850,
+     "tam": 42,
+     "fuente": "mano",
+     "papel": true,
+     "en": "Ley General para la Defensa"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "senala",
+     "x": 1660,
+     "y": 1015,
+     "h": 500,
+     "mira": "izq",
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "fuente": "Real Decreto Legislativo 1/2007 (TRLGDCU), arts. 68, 71, 102–108"
+  },
+  {
+   "id": "04",
+   "desde": "Ojo: no es lo mismo",
+   "fondo": "#E3E7EC",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "Ojo:",
+     "x": 800,
+     "y": 230,
+     "tam": 70,
+     "fuente": "mano",
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "DERECHO LEGAL",
+     "x": 800,
+     "y": 400,
+     "tam": 76,
+     "en": "un derecho legal"
+    },
+    {
+     "tipo": "texto",
+     "texto": "≠",
+     "x": 800,
+     "y": 540,
+     "tam": 90,
+     "color": "#E0521B",
+     "en": "no es lo mismo"
+    },
+    {
+     "tipo": "texto",
+     "texto": "POLÍTICA DE LA TIENDA",
+     "x": 800,
+     "y": 700,
+     "tam": 70,
+     "en": "política de devoluciones"
+    },
+    {
+     "tipo": "texto",
+     "texto": "que puede ser más generosa",
+     "x": 800,
+     "y": 830,
+     "tam": 52,
+     "fuente": "mano",
+     "en": "no es lo mismo que la política"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "lupa",
+     "x": 1620,
+     "y": 1015,
+     "h": 520,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "05",
+   "desde": "Y la tienda tiene que devolverte",
+   "fondo": "#F4E9D0",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "EL REEMBOLSO",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "Sin demoras indebidas y, en todo caso,",
+     "x": 700,
+     "y": 380,
+     "tam": 54,
+     "fuente": "mano",
+     "en": "sin demoras indebidas"
+    },
+    {
+     "tipo": "texto",
+     "texto": "en menos de 14 días",
+     "x": 700,
+     "y": 520,
+     "tam": 90,
+     "color": "#E0521B",
+     "anim": "pop",
+     "en": "en menos de catorce días"
+    },
+    {
+     "tipo": "texto",
+     "texto": "desde que le comunicas que desistes",
+     "x": 700,
+     "y": 650,
+     "tam": 52,
+     "fuente": "mano",
+     "en": "que desistes"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Puede esperar a recibir el producto\no a que le enseñes la prueba de envío",
+     "x": 700,
+     "y": 830,
+     "tam": 50,
+     "fuente": "mano",
+     "papel": true,
+     "en": "puede esperar a recibir"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "normal",
+     "x": 1640,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "Real Decreto Legislativo 1/2007 (TRLGDCU), arts. 68, 71, 102–108 (art. 107)"
+  },
+  {
+   "id": "06",
+   "desde": "Hay excepciones",
+   "fondo": "#FFF3C4",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "NO SE PUEDEN DEVOLVER, POR ESTA VÍA…",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "· hechos a medida o personalizados",
+     "x": 700,
+     "y": 380,
+     "tam": 50,
+     "en": "hechos a medida"
+    },
+    {
+     "tipo": "texto",
+     "texto": "· los que se estropean o caducan rápido",
+     "x": 700,
+     "y": 500,
+     "tam": 50,
+     "en": "se estropean o caducan"
+    },
+    {
+     "tipo": "texto",
+     "texto": "· precintados por higiene, ya abiertos",
+     "x": 700,
+     "y": 620,
+     "tam": 50,
+     "en": "los precintados"
+    },
+    {
+     "tipo": "texto",
+     "texto": "· discos o programas desprecintados",
+     "x": 700,
+     "y": 740,
+     "tam": 50,
+     "en": "ni los discos"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "encoge_hombros",
+     "x": 1640,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "Real Decreto Legislativo 1/2007 (TRLGDCU), arts. 68, 71, 102–108 (art. 103)"
+  },
+  {
+   "id": "07",
+   "desde": "Y tú también tienes obligaciones",
+   "fondo": "#E6E0F5",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "TUS OBLIGACIONES",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "· Devolver en 14 días desde que comunicas",
+     "x": 700,
+     "y": 360,
+     "tam": 46,
+     "en": "catorce días desde que comunicas"
+    },
+    {
+     "tipo": "texto",
+     "texto": "· Los costes directos de devolución son tuyos…",
+     "x": 700,
+     "y": 480,
+     "tam": 46,
+     "en": "costes directos"
+    },
+    {
+     "tipo": "texto",
+     "texto": "salvo que la tienda los asuma o no te informe",
+     "x": 700,
+     "y": 560,
+     "tam": 40,
+     "fuente": "mano",
+     "en": "no te haya informado"
+    },
+    {
+     "tipo": "texto",
+     "texto": "· Solo respondes si manipulas de más",
+     "x": 700,
+     "y": 690,
+     "tam": 46,
+     "en": "pérdida de valor"
+    },
+    {
+     "tipo": "texto",
+     "texto": "· La prueba del desistimiento es tuya",
+     "x": 700,
+     "y": 810,
+     "tam": 46,
+     "color": "#E0521B",
+     "en": "carga de la prueba"
+    },
+    {
+     "tipo": "texto",
+     "texto": "guarda el justificante",
+     "x": 700,
+     "y": 890,
+     "tam": 42,
+     "fuente": "mano",
+     "en": "guarda el justificante"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "senala",
+     "x": 1660,
+     "y": 1015,
+     "h": 500,
+     "mira": "izq",
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "Real Decreto Legislativo 1/2007 (TRLGDCU), arts. 68, 71, 102–108 (arts. 106 y 108)"
+  },
+  {
+   "id": "08",
+   "desde": "Ahora, la pregunta",
+   "fondo": "#FFF3C4",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "¿Qué pasa con tu paquete?",
+     "x": 800,
+     "y": 320,
+     "tam": 90,
+     "t": 0.3
+    },
+    {
+     "tipo": "mascota",
+     "pose": "pensativo",
+     "x": 1620,
+     "y": 1015,
+     "h": 520,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "09",
+   "desde": "Según Amazon, en un comunicado",
+   "fondo": "centro_logistico",
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 90,
+     "y": 120,
+     "w": 1230,
+     "h": 870,
+     "t": 0
+    },
+    {
+     "tipo": "texto",
+     "texto": "SEGÚN AMAZON (oct. 2021)",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "Cada artículo devuelto pasa por\nuna inspección detallada",
+     "x": 700,
+     "y": 400,
+     "tam": 52,
+     "fuente": "mano",
+     "en": "una inspección detallada"
+    },
+    {
+     "tipo": "texto",
+     "texto": "¿Como nuevo? → se vende como NUEVO",
+     "x": 700,
+     "y": 590,
+     "tam": 56,
+     "en": "se etiqueta como nuevo"
+    },
+    {
+     "tipo": "texto",
+     "texto": "«La mayoría de los productos devueltos se pueden volver a vender así»",
+     "x": 700,
+     "y": 740,
+     "tam": 44,
+     "fuente": "mano",
+     "papel": true,
+     "en": "la mayoría de los productos"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Es lo que cuenta la empresa; no hay cifra pública",
+     "x": 700,
+     "y": 880,
+     "tam": 42,
+     "fuente": "mano",
+     "en": "no hay una cifra pública"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "lupa",
+     "x": 1660,
+     "y": 1015,
+     "h": 500,
+     "mira": "izq",
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "fuente": "Amazon, «¿Qué sucede en Amazon con los productos devueltos o no vendidos?» (22/10/2021)"
+  },
+  {
+   "id": "10",
+   "desde": "Si no se puede vender como nuevo",
+   "fondo": "#F4E9D0",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "SI NO SE PUEDE COMO NUEVO",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "Si el producto es de Amazon:",
+     "x": 700,
+     "y": 340,
+     "tam": 52,
+     "fuente": "mano",
+     "en": "Si es de Amazon"
+    },
+    {
+     "tipo": "rect",
+     "x": 120,
+     "y": 400,
+     "w": 540,
+     "h": 90,
+     "color": "#9CC5E8",
+     "texto": "Devolver al proveedor",
+     "tam": 36,
+     "en": "devolverlo al proveedor",
+     "dur": 0.7
+    },
+    {
+     "tipo": "rect",
+     "x": 120,
+     "y": 520,
+     "w": 540,
+     "h": 90,
+     "color": "#F5B301",
+     "texto": "Venta como usado (Segunda Mano)",
+     "tam": 32,
+     "en": "Amazon Segunda Mano",
+     "dur": 0.7
+    },
+    {
+     "tipo": "rect",
+     "x": 120,
+     "y": 640,
+     "w": 540,
+     "h": 90,
+     "color": "#8FD18F",
+     "texto": "Donación (p. ej. Cruz Roja)",
+     "tam": 34,
+     "en": "Cruz Roja",
+     "dur": 0.7
+    },
+    {
+     "tipo": "rect",
+     "x": 120,
+     "y": 790,
+     "w": 540,
+     "h": 90,
+     "color": "#D9D2C0",
+     "texto": "Solo sin otra opción: desechar",
+     "tam": 32,
+     "en": "Y solo si no queda otra opción",
+     "dur": 0.7
+    },
+    {
+     "tipo": "texto",
+     "texto": "(higiene, motivos legales o dañado)",
+     "x": 960,
+     "y": 840,
+     "tam": 42,
+     "fuente": "mano",
+     "en": "por motivos legales"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "normal",
+     "x": 1680,
+     "y": 1015,
+     "h": 480,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "Amazon, «¿Qué sucede en Amazon con los productos devueltos o no vendidos?» (22/10/2021)"
+  },
+  {
+   "id": "11",
+   "desde": "Pero hay un detalle importante",
+   "fondo": "#E3E7EC",
+   "capas": [
+    {
+     "tipo": "cifra",
+     "hasta": 50,
+     "x": 700,
+     "y": 330,
+     "tam": 200,
+     "prefijo": ">",
+     "sufijo": " %",
+     "color": "#E0521B",
+     "en": "más de la mitad"
+    },
+    {
+     "tipo": "texto",
+     "texto": "de lo que se vende en Amazon (en todo el mundo)\nes de vendedores independientes",
+     "x": 700,
+     "y": 520,
+     "tam": 52,
+     "fuente": "mano",
+     "en": "vendedores independientes"
+    },
+    {
+     "tipo": "sello",
+     "texto": "ELLOS DECIDEN QUÉ HACER",
+     "x": 700,
+     "y": 760,
+     "tam": 60,
+     "en": "vendedores independientes"
+    },
+    {
+     "tipo": "texto",
+     "texto": "con lo que devuelves",
+     "x": 700,
+     "y": 880,
+     "tam": 48,
+     "fuente": "mano",
+     "en": "vendedores independientes",
+     "t": 1.2
+    },
+    {
+     "tipo": "mascota",
+     "pose": "senala",
+     "x": 1640,
+     "y": 1015,
+     "h": 500,
+     "mira": "izq",
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "Amazon, «¿Qué sucede en Amazon con los productos devueltos o no vendidos?» (22/10/2021)"
+  },
+  {
+   "id": "12",
+   "desde": "Para eso, Amazon les ofrece",
+   "fondo": "#FFF3C4",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "LOS PROGRAMAS PARA VENDEDORES",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "FBA Liquidations",
+     "x": 700,
+     "y": 380,
+     "tam": 76,
+     "en": "FBA Liquidations"
+    },
+    {
+     "tipo": "texto",
+     "texto": "liquidar lo devuelto o no vendido\npor el canal mayorista de Amazon",
+     "x": 700,
+     "y": 510,
+     "tam": 46,
+     "fuente": "mano",
+     "en": "canal de liquidación mayorista"
+    },
+    {
+     "tipo": "texto",
+     "texto": "FBA Grade and Resell",
+     "x": 700,
+     "y": 660,
+     "tam": 70,
+     "en": "FBA Grade and Resell"
+    },
+    {
+     "tipo": "texto",
+     "texto": "revender lo devuelto como usado",
+     "x": 700,
+     "y": 750,
+     "tam": 46,
+     "fuente": "mano",
+     "en": "FBA Grade and Resell",
+     "t": 1.0
+    },
+    {
+     "tipo": "texto",
+     "texto": "→ Una vía por la que un producto devuelto\npuede acabar en un lote de liquidación",
+     "x": 700,
+     "y": 880,
+     "tam": 44,
+     "fuente": "mano",
+     "papel": true,
+     "en": "Es una de las vías"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "lupa",
+     "x": 1660,
+     "y": 1015,
+     "h": 500,
+     "mira": "izq",
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "Amazon, «¿Qué sucede en Amazon con los productos devueltos o no vendidos?» (22/10/2021)"
+  },
+  {
+   "id": "13",
+   "desde": "Pero ojo: no podemos decirte",
+   "fondo": "#E6E0F5",
+   "capas": [
+    {
+     "tipo": "sello",
+     "texto": "PERO NO PODEMOS DECIR",
+     "x": 800,
+     "y": 360,
+     "tam": 66,
+     "t": 0.3
+    },
+    {
+     "tipo": "texto",
+     "texto": "de dónde sale cada palé o caja de devoluciones\nque ves en internet",
+     "x": 800,
+     "y": 760,
+     "tam": 50,
+     "fuente": "mano",
+     "en": "cada palé"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "encoge_hombros",
+     "x": 1620,
+     "y": 1015,
+     "h": 520,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "14",
+   "desde": "¿Y la destrucción?",
+   "fondo": "#FFF3C4",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "ITV NEWS · REINO UNIDO · 2021",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "Según un exempleado, en una semana de abril\nel objetivo registrado era destruir…",
+     "x": 700,
+     "y": 380,
+     "tam": 50,
+     "fuente": "mano",
+     "en": "el objetivo registrado"
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 124000,
+     "x": 700,
+     "y": 610,
+     "tam": 170,
+     "color": "#E0521B",
+     "en": "ciento veinticuatro mil"
+    },
+    {
+     "tipo": "texto",
+     "texto": "productos, muchos de ellos nuevos",
+     "x": 700,
+     "y": 770,
+     "tam": 50,
+     "fuente": "mano",
+     "en": "ciento veinticuatro mil",
+     "t": 1.5
+    },
+    {
+     "tipo": "mascota",
+     "pose": "preocupado",
+     "x": 1660,
+     "y": 1015,
+     "h": 500,
+     "mira": "izq",
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "ITV News (21/6/2021), según Xataka"
+  },
+  {
+   "id": "15",
+   "desde": "Amazon respondió",
+   "fondo": "#E3E7EC",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "Amazon respondió:",
+     "x": 800,
+     "y": 220,
+     "tam": 60,
+     "fuente": "mano",
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "«Prioridad: revender, donar o reciclar»",
+     "x": 800,
+     "y": 380,
+     "tam": 54,
+     "en": "su prioridad es revender"
+    },
+    {
+     "tipo": "texto",
+     "texto": "«En el Reino Unido no se envían\nartículos a vertederos»",
+     "x": 800,
+     "y": 540,
+     "tam": 54,
+     "en": "no se envían artículos"
+    },
+    {
+     "tipo": "texto",
+     "texto": "«Trabajamos para llegar a cero»",
+     "x": 800,
+     "y": 730,
+     "tam": 54,
+     "en": "trabaja para llegar"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Investigación británica y de hace 5 años:\nno se puede aplicar a España",
+     "x": 800,
+     "y": 890,
+     "tam": 44,
+     "fuente": "mano",
+     "papel": true,
+     "en": "no se puede aplicar"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "normal",
+     "x": 1660,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "Amazon, respuesta a ITV News (2021)"
+  },
+  {
+   "id": "16",
+   "desde": "Lo que sí cambia es la ley",
+   "fondo": "oficina_financiera",
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 90,
+     "y": 120,
+     "w": 1230,
+     "h": 870,
+     "t": 0
+    },
+    {
+     "tipo": "texto",
+     "texto": "ESPAÑA · LEY 7/2022",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "Prohibido destruir o llevar a vertedero\nlos excedentes no vendidos de productos\nno perecederos",
+     "x": 700,
+     "y": 400,
+     "tam": 48,
+     "fuente": "mano",
+     "en": "prohíbe destruir"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Textiles · juguetes · aparatos eléctricos",
+     "x": 700,
+     "y": 640,
+     "tam": 50,
+     "en": "textiles, juguetes"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Primero, a reutilización: incluida la donación",
+     "x": 700,
+     "y": 820,
+     "tam": 46,
+     "fuente": "mano",
+     "papel": true,
+     "en": "deben ir primero"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "senala",
+     "x": 1660,
+     "y": 1015,
+     "h": 500,
+     "mira": "izq",
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "fuente": "Ley 7/2022, de residuos y suelos contaminados, art. 18.2"
+  },
+  {
+   "id": "17",
+   "desde": "Y la Unión Europea va más lejos",
+   "fondo": "#F4E9D0",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "UE · DESDE EL 19/7/2026",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "El Reglamento de ecodiseño prohíbe a las\ngrandes empresas destruir…",
+     "x": 700,
+     "y": 380,
+     "tam": 50,
+     "fuente": "mano",
+     "en": "prohíbe a las grandes empresas"
+    },
+    {
+     "tipo": "texto",
+     "texto": "ropa · complementos · calzado\nsin vender",
+     "x": 700,
+     "y": 580,
+     "tam": 66,
+     "color": "#E0521B",
+     "en": "destruir la ropa"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Medianas empresas: desde 2030",
+     "x": 700,
+     "y": 820,
+     "tam": 46,
+     "fuente": "mano",
+     "papel": true,
+     "t": 2.5
+    },
+    {
+     "tipo": "mascota",
+     "pose": "lupa",
+     "x": 1660,
+     "y": 1015,
+     "h": 500,
+     "mira": "izq",
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "Reglamento (UE) 2024/1781, art. 25 y anexo VII"
+  },
+  {
+   "id": "18",
+   "desde": "La propia norma reconoce el motivo",
+   "fondo": "#E3E7EC",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "La propia norma reconoce el motivo:",
+     "x": 800,
+     "y": 230,
+     "tam": 52,
+     "fuente": "mano",
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "«…debido, en particular, al rápido\ncrecimiento de las ventas en línea»",
+     "x": 800,
+     "y": 470,
+     "tam": 56,
+     "en": "rápido crecimiento"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Excepciones: daños que no puedan repararse\nde forma rentable (también tras una devolución)",
+     "x": 800,
+     "y": 780,
+     "tam": 46,
+     "fuente": "mano",
+     "papel": true,
+     "en": "deja excepciones"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "pensativo",
+     "x": 1650,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "Reglamento (UE) 2024/1781, considerando 55 y art. 25.5"
+  },
+  {
+   "id": "19",
+   "desde": "Así que, ¿qué sabemos?",
+   "fondo": "#FFF3C4",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "¿QUÉ SABEMOS?",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "✓ Tienes derecho a devolver",
+     "x": 700,
+     "y": 380,
+     "tam": 50,
+     "en": "derecho a devolver"
+    },
+    {
+     "tipo": "texto",
+     "texto": "✓ La ley obliga a reembolsarte",
+     "x": 700,
+     "y": 500,
+     "tam": 50,
+     "en": "obliga a reembolsarte"
+    },
+    {
+     "tipo": "texto",
+     "texto": "✓ La UE prohíbe destruir ropa y calzado\n   nuevos sin vender",
+     "x": 700,
+     "y": 640,
+     "tam": 48,
+     "en": "prohíbe destruir ropa"
+    },
+    {
+     "tipo": "texto",
+     "texto": "✓ Amazon dice: revender, donar, reciclar",
+     "x": 700,
+     "y": 800,
+     "tam": 48,
+     "en": "prioridad es revender"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "contento",
+     "x": 1660,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "20",
+   "desde": "Y lo que no sabemos",
+   "fondo": "#E3E7EC",
+   "capas": [
+    {
+     "tipo": "sello",
+     "texto": "LO QUE NO SABEMOS",
+     "x": 800,
+     "y": 270,
+     "tam": 80,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "Cuántos productos devueltos acaban\nen cada camino",
+     "x": 800,
+     "y": 520,
+     "tam": 60,
+     "fuente": "mano",
+     "en": "cuántos productos devueltos"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Esa cifra no es pública",
+     "x": 800,
+     "y": 740,
+     "tam": 64,
+     "fuente": "mano",
+     "papel": true,
+     "en": "no es pública"
+    },
+    {
+     "tipo": "texto",
+     "texto": "La respuesta honesta: depende",
+     "x": 800,
+     "y": 900,
+     "tam": 56,
+     "color": "#E0521B",
+     "en": "la más honesta posible"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "encoge_hombros",
+     "x": 1640,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "21",
+   "desde": "Lo que devuelves a Amazon no tiene",
+   "fondo": "#FFF3C4",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "Varios caminos",
+     "x": 800,
+     "y": 270,
+     "tam": 86,
+     "t": 0.3,
+     "en": "varios caminos"
+    },
+    {
+     "tipo": "texto",
+     "texto": "y la ley está cerrando uno",
+     "x": 800,
+     "y": 440,
+     "tam": 66,
+     "color": "#E0521B",
+     "en": "cerrando uno de ellos"
+    },
+    {
+     "tipo": "texto",
+     "texto": "¿Cuánto de lo que cuentan\nse puede comprobar?",
+     "x": 800,
+     "y": 700,
+     "tam": 60,
+     "fuente": "mano",
+     "papel": true,
+     "en": "la pregunta ya no es"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "pensativo",
+     "x": 1650,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "22",
+   "desde": "Aquí, cada semana, abrimos",
+   "fondo": "#F5B301",
+   "capas": [
+    {
+     "tipo": "mascota",
+     "pose": "saluda",
+     "x": 960,
+     "y": 1015,
+     "h": 560,
+     "entra": "abajo",
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "TICKET MEDIO",
+     "x": 960,
+     "y": 170,
+     "tam": 150,
+     "anim": "pop",
+     "t": 0.3
+    },
+    {
+     "tipo": "texto",
+     "texto": "Cada semana, el ticket de algo que pagas todos los días",
+     "x": 960,
+     "y": 300,
+     "tam": 50,
+     "fuente": "mano",
+     "papel": true,
+     "t": 1.0
+    }
+   ],
+   "sin_marca": true
+  }
+ ]
+}

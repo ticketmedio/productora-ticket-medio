@@ -1,0 +1,23 @@
+{"shorts": [
+ {"id": "01", "titulo": "¿Qué hace Amazon con lo que devuelves? Lo que dice la propia empresa",
+  "tramos": [["Según Amazon, en un comunicado", "no hay una cifra pública que lo confirme"]],
+  "intro": "¿Qué hace Amazon con lo que devuelves? Esto dice la propia empresa."},
+ {"id": "02", "titulo": "Tienes 14 días para devolver una compra online: lo que dice la ley",
+  "tramos": [["Primero, tu derecho", "que puede ser más generosa"]],
+  "intro": "¿Cuánto tiempo tienes para devolver una compra online? Esto dice la ley."},
+ {"id": "03", "titulo": "Devolver una compra online: tus obligaciones según la ley",
+  "tramos": [["Y tú también tienes obligaciones", "guarda el justificante"]],
+  "intro": "Cuando devuelves una compra online, la ley también te pide algo a ti."},
+ {"id": "04", "titulo": "Los vendedores de Amazon pueden liquidar lo que devuelves",
+  "tramos": [["Para eso, Amazon les ofrece", "cada caja de devoluciones que ves en internet"]],
+  "intro": "Los vendedores independientes de Amazon pueden liquidar lo devuelto con un programa llamado FBA Liquidations."},
+ {"id": "05", "titulo": "124.000 productos en una semana: la investigación de ITV sobre Amazon",
+  "tramos": [["¿Y la destrucción?", "no se puede aplicar a España"]],
+  "intro": "¿Destruye Amazon lo que devuelves?"},
+ {"id": "06", "titulo": "¿Es legal destruir productos nuevos sin vender en España?",
+  "tramos": [["Lo que sí cambia es la ley", "incluida la donación"]],
+  "intro": "¿Es legal destruir productos nuevos que no se han vendido?"},
+ {"id": "07", "titulo": "La UE prohíbe destruir ropa y calzado sin vender desde julio de 2026",
+  "tramos": [["Y la Unión Europea va más lejos", "incluidos los detectados tras una devolución"]],
+  "intro": "La Unión Europea tiene una nueva norma contra la destrucción de ropa."}
+]}
