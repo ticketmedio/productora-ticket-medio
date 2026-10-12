@@ -1,0 +1,131 @@
+{
+ "formato": "vertical",
+ "fondos": "../../fondos",
+ "musica": "../../audio/musica.mp3",
+ "musica_db": -26,
+ "cola": 1.5,
+ "salida": "../../output/SHORT_04_40000_exentos.mp4",
+ "escenas": [
+  {
+   "id": "a",
+   "desde": "¿Paga impuestos",
+   "fondo": "oficina_financiera",
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 60,
+     "y": 360,
+     "w": 960,
+     "h": 640
+    },
+    {
+     "tipo": "texto",
+     "texto": "LEY 16/2012",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "rect",
+     "x": 110,
+     "y": 460,
+     "w": 860,
+     "h": 110,
+     "color": "#8FD18F",
+     "texto": "Hasta 40.000 €: exento",
+     "tam": 44,
+     "en": "cuarenta mil euros de cada décimo"
+    },
+    {
+     "tipo": "rect",
+     "x": 110,
+     "y": 600,
+     "w": 860,
+     "h": 110,
+     "color": "#E0521B",
+     "texto": "El exceso: retención 20 %",
+     "tam": 42,
+     "en": "retención del veinte por ciento"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "senala",
+     "x": 900,
+     "y": 1310,
+     "h": 330,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "b",
+   "desde": "Lo dice la Agencia Tributaria",
+   "fondo": "#E3E7EC",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "EJEMPLO OFICIAL",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "Premio de 100.000 €",
+     "x": 540,
+     "y": 480,
+     "tam": 52,
+     "fuente": "mano",
+     "en": "cien mil euros"
+    },
+    {
+     "tipo": "texto",
+     "texto": "20 % de 60.000 =",
+     "x": 540,
+     "y": 640,
+     "tam": 48,
+     "fuente": "mano",
+     "en": "veinte por ciento de sesenta mil"
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 12000,
+     "x": 540,
+     "y": 800,
+     "tam": 130,
+     "sufijo": " € retención",
+     "color": "#E0521B",
+     "en": "doce mil euros"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Cobras 88.000 €",
+     "x": 540,
+     "y": 960,
+     "tam": 52,
+     "fuente": "mano",
+     "en": "ochenta y ocho mil"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "normal",
+     "x": 1060,
+     "y": 1310,
+     "h": 220,
+     "t": 0.2
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,95 @@
+{
+ "formato": "vertical",
+ "fondos": "../../fondos",
+ "musica": "../../audio/musica.mp3",
+ "musica_db": -26,
+ "cola": 1.5,
+ "salida": "../../output/SHORT_06_decimo_compartido.mp4",
+ "escenas": [
+  {
+   "id": "a",
+   "desde": "Si compartes un décimo",
+   "fondo": "#FFF3C4",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "DÉCIMO COMPARTIDO",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "¿PAGAS MÁS\nSI TOCA?",
+     "x": 540,
+     "y": 560,
+     "tam": 80,
+     "color": "#E0521B",
+     "t": 0.4
+    },
+    {
+     "tipo": "texto",
+     "texto": "La retención es por décimo",
+     "x": 540,
+     "y": 820,
+     "tam": 46,
+     "fuente": "mano",
+     "en": "por separado"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "pensativo",
+     "x": 960,
+     "y": 1310,
+     "h": 280,
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "b",
+   "desde": "Si un décimo es compartido",
+   "fondo": "#E3E7EC",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "LOS 40.000 € EXENTOS",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "se reparten entre los dueños",
+     "x": 540,
+     "y": 520,
+     "tam": 50,
+     "fuente": "mano",
+     "en": "se reparten entre los dueños"
+    },
+    {
+     "tipo": "sello",
+     "texto": "COMPARTIR NO TE HACE PAGAR MÁS",
+     "x": 540,
+     "y": 800,
+     "tam": 48,
+     "en": "compartir no te hace pagar más"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "contento",
+     "x": 960,
+     "y": 1310,
+     "h": 260,
+     "t": 0.2
+    }
+   ]
+  }
+ ]
+}

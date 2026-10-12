@@ -1,0 +1,105 @@
+{
+ "formato": "vertical",
+ "fondos": "../../fondos",
+ "musica": "../../audio/musica.mp3",
+ "musica_db": -26,
+ "cola": 1.5,
+ "salida": "../../output/SHORT_03_14_de_20.mp4",
+ "escenas": [
+  {
+   "id": "a",
+   "desde": "¿Cuánto devuelve",
+   "fondo": "#FFF3C4",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "UN DÉCIMO DE 20 €",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 14,
+     "x": 540,
+     "y": 560,
+     "tam": 220,
+     "sufijo": " €",
+     "color": "#2E8B57",
+     "en": "catorce euros por décimo"
+    },
+    {
+     "tipo": "texto",
+     "texto": "vuelven de media en premios",
+     "x": 540,
+     "y": 740,
+     "tam": 46,
+     "fuente": "mano",
+     "t": 0.8
+    },
+    {
+     "tipo": "mascota",
+     "pose": "pensativo",
+     "x": 920,
+     "y": 1310,
+     "h": 320,
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "b",
+   "desde": "Ojo: es la media",
+   "fondo": "#E3E7EC",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "OJO",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "Media de todos,\nantes de impuestos",
+     "x": 540,
+     "y": 520,
+     "tam": 52,
+     "fuente": "mano",
+     "en": "antes de impuestos"
+    },
+    {
+     "tipo": "sello",
+     "texto": "CASI NADIE RECIBE 14 €",
+     "x": 540,
+     "y": 800,
+     "tam": 52,
+     "en": "Casi nadie recibe catorce"
+    },
+    {
+     "tipo": "texto",
+     "texto": "pocos premios enormes + muchos pequeños",
+     "x": 540,
+     "y": 960,
+     "tam": 38,
+     "fuente": "mano",
+     "en": "pocos premios enormes"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "encoge_hombros",
+     "x": 1060,
+     "y": 1310,
+     "h": 230,
+     "t": 0.2
+    }
+   ]
+  }
+ ]
+}

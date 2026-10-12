@@ -1,0 +1,27 @@
+1
+00:00:00,150 --> 00:00:05,103
+¿Cuánto te queda si te toca el Gordo? Son cuatrocientos mil euros por décimo.
+
+2
+00:00:05,580 --> 00:00:09,793
+Restas los cuarenta mil exentos: trescientos sesenta mil.
+
+3
+00:00:09,793 --> 00:00:13,414
+El veinte por ciento son setenta y dos mil euros.
+
+4
+00:00:13,414 --> 00:00:15,927
+Cobras trescientos veintiocho mil.
+
+5
+00:00:15,927 --> 00:00:19,105
+Es un cálculo nuestro con la regla oficial.
+
+6
+00:00:19,105 --> 00:00:24,574
+El segundo premio, ciento veinticinco mil por décimo, paga diecisiete mil.
+
+7
+00:00:24,574 --> 00:00:27,530
+El tercero, cincuenta mil, paga dos mil.

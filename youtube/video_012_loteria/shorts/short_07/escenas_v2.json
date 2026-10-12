@@ -1,0 +1,112 @@
+{
+ "formato": "vertical",
+ "fondos": "../../fondos",
+ "musica": "../../audio/musica.mp3",
+ "musica_db": -26,
+ "cola": 1.5,
+ "salida": "../../output/SHORT_07_quien_gana_siempre.mp4",
+ "escenas": [
+  {
+   "id": "a",
+   "desde": "Lotería de Navidad: ¿quién gana",
+   "fondo": "administracion_loteria",
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 60,
+     "y": 360,
+     "w": 960,
+     "h": 640
+    },
+    {
+     "tipo": "texto",
+     "texto": "LOTERÍA DE NAVIDAD",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "¿QUIÉN GANA\nSIEMPRE?",
+     "x": 540,
+     "y": 580,
+     "tam": 90,
+     "color": "#E0521B",
+     "t": 0.4
+    },
+    {
+     "tipo": "mascota",
+     "pose": "pensativo",
+     "x": 880,
+     "y": 1310,
+     "h": 340,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "b",
+   "desde": "De cada veinte euros",
+   "fondo": "#F4E9D0",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "DE CADA 20 €",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "rect",
+     "x": 110,
+     "y": 460,
+     "w": 860,
+     "h": 110,
+     "color": "#8FD18F",
+     "texto": "14 € → premios",
+     "tam": 48,
+     "en": "catorce van a premios"
+    },
+    {
+     "tipo": "rect",
+     "x": 110,
+     "y": 600,
+     "w": 860,
+     "h": 110,
+     "color": "#D9D2C0",
+     "texto": "6 € → no son premios",
+     "tam": 46,
+     "en": "seis no"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Y si toca algo grande,\nHacienda retiene su parte",
+     "x": 540,
+     "y": 860,
+     "tam": 44,
+     "fuente": "mano",
+     "en": "Hacienda le retiene"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "encoge_hombros",
+     "x": 1060,
+     "y": 1310,
+     "h": 220,
+     "t": 0.2
+    }
+   ]
+  }
+ ]
+}

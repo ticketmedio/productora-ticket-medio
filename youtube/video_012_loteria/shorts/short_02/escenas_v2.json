@@ -1,0 +1,156 @@
+{
+ "formato": "vertical",
+ "fondos": "../../fondos",
+ "musica": "../../audio/musica.mp3",
+ "musica_db": -26,
+ "cola": 1.5,
+ "salida": "../../output/SHORT_02_70_por_ciento_premios.mp4",
+ "escenas": [
+  {
+   "id": "a",
+   "desde": "¿Cuánto dinero reparte",
+   "fondo": "administracion_loteria",
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 60,
+     "y": 360,
+     "w": 960,
+     "h": 640
+    },
+    {
+     "tipo": "texto",
+     "texto": "SORTEO DE 2025",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 198,
+     "x": 540,
+     "y": 540,
+     "tam": 170,
+     "sufijo": " series",
+     "en": "ciento noventa y ocho series"
+    },
+    {
+     "tipo": "texto",
+     "texto": "de 100.000 números cada una",
+     "x": 540,
+     "y": 700,
+     "tam": 46,
+     "fuente": "mano",
+     "en": "cien mil números"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "normal",
+     "x": 880,
+     "y": 1310,
+     "h": 340,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "b",
+   "desde": "Cada décimo cuesta",
+   "fondo": "#FFF3C4",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "LA EMISIÓN",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "rect",
+     "x": 110,
+     "y": 460,
+     "w": 760,
+     "h": 100,
+     "color": "#F5B301",
+     "texto": "Décimo: 20 €",
+     "tam": 44,
+     "en": "Cada décimo cuesta"
+    },
+    {
+     "tipo": "rect",
+     "x": 110,
+     "y": 590,
+     "w": 860,
+     "h": 100,
+     "color": "#E0521B",
+     "texto": "Total: 3.960 M€",
+     "tam": 44,
+     "en": "tres mil novecientos sesenta"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "lupa",
+     "x": 920,
+     "y": 1310,
+     "h": 240,
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "c",
+   "desde": "Según los datos publicados",
+   "fondo": "#E3E7EC",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "70 % A PREMIOS",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 2772,
+     "x": 540,
+     "y": 560,
+     "tam": 170,
+     "sufijo": " M€",
+     "color": "#2E8B57",
+     "en": "dos mil setecientos setenta y dos"
+    },
+    {
+     "tipo": "texto",
+     "texto": "según datos publicados del sorteo",
+     "x": 540,
+     "y": 740,
+     "tam": 42,
+     "fuente": "mano",
+     "t": 0.6
+    },
+    {
+     "tipo": "mascota",
+     "pose": "contento",
+     "x": 920,
+     "y": 1310,
+     "h": 240,
+     "t": 0.2
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1011 @@
+{
+ "musica": "audio/musica.mp3",
+ "musica_db": -26,
+ "cola": 3,
+ "escenas": [
+  {
+   "id": "01",
+   "desde": "Cada veintidós de diciembre",
+   "fondo": "administracion_loteria",
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 90,
+     "y": 120,
+     "w": 1230,
+     "h": 870,
+     "t": 0
+    },
+    {
+     "tipo": "texto",
+     "texto": "22 de diciembre",
+     "x": 700,
+     "y": 230,
+     "tam": 58,
+     "fuente": "mano",
+     "t": 0.2
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 20,
+     "x": 700,
+     "y": 460,
+     "tam": 200,
+     "sufijo": " €",
+     "color": "#E0521B",
+     "en": "Cuesta veinte euros"
+    },
+    {
+     "tipo": "texto",
+     "texto": "un décimo de Lotería de Navidad",
+     "x": 700,
+     "y": 640,
+     "tam": 52,
+     "fuente": "mano",
+     "en": "un décimo"
+    },
+    {
+     "tipo": "sello",
+     "texto": "¿QUIÉN GANA DE VERDAD?",
+     "x": 700,
+     "y": 820,
+     "tam": 64,
+     "en": "quién gana de verdad"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "pensativo",
+     "x": 1630,
+     "y": 1015,
+     "h": 520,
+     "entra": "der",
+     "t": 0.3
+    }
+   ],
+   "zoom": [
+    1.0,
+    1.06
+   ]
+  },
+  {
+   "id": "02",
+   "desde": "Hoy abrimos el ticket",
+   "fondo": "#FFF3C4",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "Solo los números",
+     "x": 800,
+     "y": 350,
+     "tam": 90,
+     "t": 0.2
+    },
+    {
+     "tipo": "sello",
+     "texto": "SIN ACONSEJAR JUGAR NI NO JUGAR",
+     "x": 800,
+     "y": 640,
+     "tam": 56,
+     "en": "Sin aconsejar"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "lupa",
+     "x": 1620,
+     "y": 1015,
+     "h": 520,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "03",
+   "desde": "Primero, el tamaño",
+   "fondo": "administracion_loteria",
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 90,
+     "y": 120,
+     "w": 1230,
+     "h": 870,
+     "t": 0
+    },
+    {
+     "tipo": "texto",
+     "texto": "EL SORTEO DE 2025",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 198,
+     "x": 500,
+     "y": 400,
+     "tam": 150,
+     "sufijo": " series",
+     "en": "ciento noventa y ocho series"
+    },
+    {
+     "tipo": "texto",
+     "texto": "de 100.000 números cada una",
+     "x": 700,
+     "y": 560,
+     "tam": 50,
+     "fuente": "mano",
+     "en": "cien mil números"
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 650,
+     "w": 700,
+     "h": 100,
+     "color": "#F5B301",
+     "texto": "Décimo: 20 €",
+     "tam": 44,
+     "en": "Cada décimo cuesta"
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 780,
+     "w": 880,
+     "h": 100,
+     "color": "#E0521B",
+     "texto": "Emisión: 3.960 M€",
+     "tam": 44,
+     "en": "tres mil novecientos sesenta"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "normal",
+     "x": 1680,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "Prensa con datos de SELAE (sorteo 2025)"
+  },
+  {
+   "id": "04",
+   "desde": "Según los datos publicados del sorteo, el setenta",
+   "fondo": "#E3E7EC",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "70 % A PREMIOS",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 2772,
+     "x": 700,
+     "y": 400,
+     "tam": 170,
+     "sufijo": " M€",
+     "en": "dos mil setecientos setenta y dos"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Ventas del sorteo: 3.554 M€ (+1,4 %)",
+     "x": 700,
+     "y": 600,
+     "tam": 50,
+     "fuente": "mano",
+     "en": "tres mil quinientos cincuenta y cuatro"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "normal",
+     "x": 1680,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "Prensa con datos de SELAE (sorteo 2025)"
+  },
+  {
+   "id": "05",
+   "desde": "Ahora, una cuenta propia",
+   "fondo": "#F4E9D0",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "CUENTA PROPIA",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "De cada 20 €, 70 % son premios",
+     "x": 700,
+     "y": 330,
+     "tam": 56,
+     "fuente": "mano",
+     "en": "el setenta por ciento son premios"
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 14,
+     "x": 700,
+     "y": 520,
+     "tam": 220,
+     "sufijo": " €",
+     "color": "#2E8B57",
+     "en": "catorce euros por décimo"
+    },
+    {
+     "tipo": "texto",
+     "texto": "de media por décimo, antes de impuestos",
+     "x": 700,
+     "y": 700,
+     "tam": 48,
+     "fuente": "mano",
+     "en": "antes de impuestos"
+    },
+    {
+     "tipo": "sello",
+     "texto": "ES UN PROMEDIO",
+     "x": 700,
+     "y": 860,
+     "tam": 60,
+     "en": "Casi nadie recibe catorce"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "encoge_hombros",
+     "x": 1640,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "06",
+   "desde": "Mira cómo se reparte",
+   "fondo": "administracion_loteria",
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 90,
+     "y": 120,
+     "w": 1230,
+     "h": 870,
+     "t": 0
+    },
+    {
+     "tipo": "texto",
+     "texto": "EL GORDO",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 400000,
+     "x": 600,
+     "y": 400,
+     "tam": 150,
+     "sufijo": " €",
+     "en": "cuatrocientos mil euros por décimo"
+    },
+    {
+     "tipo": "texto",
+     "texto": "por décimo (4 M€ por serie)",
+     "x": 700,
+     "y": 560,
+     "tam": 50,
+     "fuente": "mano",
+     "en": "cuatro millones de euros por serie"
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 650,
+     "w": 880,
+     "h": 100,
+     "color": "#9CC5E8",
+     "texto": "Probabilidad: 1 entre 100.000",
+     "tam": 40,
+     "en": "una entre cien mil",
+     "dur": 0.8
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 780,
+     "w": 880,
+     "h": 100,
+     "color": "#F5B301",
+     "texto": "Aporta 4 € de esos 14",
+     "tam": 42,
+     "en": "cuatro de esos catorce",
+     "dur": 0.8
+    },
+    {
+     "tipo": "mascota",
+     "pose": "moneda",
+     "x": 1680,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "Prensa con datos de SELAE (sorteo 2025)"
+  },
+  {
+   "id": "07",
+   "desde": "El segundo premio",
+   "fondo": "#FFF3C4",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "LOS TRES GRANDES",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "2.º: 1.250.000 € por serie",
+     "x": 700,
+     "y": 330,
+     "tam": 52,
+     "fuente": "mano",
+     "en": "un millón doscientos cincuenta mil"
+    },
+    {
+     "tipo": "texto",
+     "texto": "3.º: 500.000 € por serie",
+     "x": 700,
+     "y": 450,
+     "tam": 52,
+     "fuente": "mano",
+     "en": "quinientos mil"
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 41,
+     "x": 700,
+     "y": 640,
+     "tam": 190,
+     "sufijo": " %",
+     "color": "#E0521B",
+     "en": "cuarenta y uno por ciento"
+    },
+    {
+     "tipo": "texto",
+     "texto": "de todo el dinero en premios (cálculo propio)",
+     "x": 700,
+     "y": 810,
+     "tam": 46,
+     "fuente": "mano",
+     "en": "cálculo nuestro"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "lupa",
+     "x": 1640,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "08",
+   "desde": "Y ahora, Hacienda",
+   "fondo": "oficina_financiera",
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 90,
+     "y": 120,
+     "w": 1230,
+     "h": 870,
+     "t": 0
+    },
+    {
+     "tipo": "texto",
+     "texto": "HACIENDA",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "Ley 16/2012",
+     "x": 700,
+     "y": 330,
+     "tam": 54,
+     "fuente": "mano",
+     "en": "Ley dieciséis"
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 440,
+     "w": 880,
+     "h": 110,
+     "color": "#8FD18F",
+     "texto": "Hasta 40.000 €: exento",
+     "tam": 44,
+     "en": "cuarenta mil euros de cada décimo"
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 580,
+     "w": 880,
+     "h": 110,
+     "color": "#E0521B",
+     "texto": "El exceso: retención del 20 %",
+     "tam": 42,
+     "en": "retención del veinte por ciento"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Lo dice la Agencia Tributaria",
+     "x": 700,
+     "y": 800,
+     "tam": 48,
+     "fuente": "mano",
+     "en": "Lo dice la Agencia Tributaria"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "senala",
+     "x": 1680,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "Agencia Tributaria, premios Lotería de Navidad (17/12/2024)"
+  },
+  {
+   "id": "09",
+   "desde": "El ejemplo oficial",
+   "fondo": "#E3E7EC",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "EJEMPLO OFICIAL",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "Premio de 100.000 €",
+     "x": 700,
+     "y": 330,
+     "tam": 56,
+     "fuente": "mano",
+     "en": "cien mil euros"
+    },
+    {
+     "tipo": "texto",
+     "texto": "(100.000 − 40.000) × 20 % =",
+     "x": 700,
+     "y": 470,
+     "tam": 50,
+     "fuente": "mano",
+     "en": "veinte por ciento de sesenta mil"
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 12000,
+     "x": 700,
+     "y": 640,
+     "tam": 150,
+     "sufijo": " € de retención",
+     "en": "doce mil euros"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Cobras 88.000 €",
+     "x": 700,
+     "y": 830,
+     "tam": 56,
+     "fuente": "mano",
+     "en": "ochenta y ocho mil"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "normal",
+     "x": 1680,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "Agencia Tributaria, premios Lotería de Navidad (17/12/2024)"
+  },
+  {
+   "id": "10",
+   "desde": "Aplicado al Gordo",
+   "fondo": "administracion_loteria",
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 90,
+     "y": 120,
+     "w": 1230,
+     "h": 870,
+     "t": 0
+    },
+    {
+     "tipo": "texto",
+     "texto": "EL GORDO, NETO",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "400.000 − 40.000 = 360.000",
+     "x": 700,
+     "y": 330,
+     "tam": 50,
+     "fuente": "mano",
+     "en": "trescientos sesenta mil"
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 440,
+     "w": 880,
+     "h": 100,
+     "color": "#E0521B",
+     "texto": "Retención: 72.000 €",
+     "tam": 44,
+     "en": "setenta y dos mil euros"
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 570,
+     "w": 880,
+     "h": 100,
+     "color": "#8FD18F",
+     "texto": "Cobras: 328.000 €",
+     "tam": 44,
+     "en": "trescientos veintiocho mil"
+    },
+    {
+     "tipo": "texto",
+     "texto": "2.º (125.000 €): retención 17.000 €",
+     "x": 700,
+     "y": 770,
+     "tam": 42,
+     "fuente": "mano",
+     "en": "diecisiete mil"
+    },
+    {
+     "tipo": "texto",
+     "texto": "3.º (50.000 €): retención 2.000 €",
+     "x": 700,
+     "y": 860,
+     "tam": 42,
+     "fuente": "mano",
+     "en": "paga dos mil"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "moneda",
+     "x": 1680,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "Cálculo propio con la regla de la Agencia Tributaria, premios Lotería de Navidad (17/12/2024)"
+  },
+  {
+   "id": "11",
+   "desde": "La retención se aplica",
+   "fondo": "#FFF3C4",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "CADA DÉCIMO, POR SEPARADO",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "SELAE retiene al cobrar",
+     "x": 700,
+     "y": 340,
+     "tam": 56,
+     "fuente": "mano",
+     "en": "en el momento del cobro"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Décimo compartido:\nlos 40.000 € exentos se reparten",
+     "x": 700,
+     "y": 520,
+     "tam": 52,
+     "fuente": "mano",
+     "en": "Si un décimo es compartido"
+    },
+    {
+     "tipo": "sello",
+     "texto": "COMPARTIR NO TE HACE PAGAR MÁS",
+     "x": 700,
+     "y": 820,
+     "tam": 52,
+     "en": "compartir no te hace pagar más"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "contento",
+     "x": 1640,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "12",
+   "desde": "Quedan dos preguntas",
+   "fondo": "#E6E0F5",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "¿QUIÉN SE QUEDA EL 30 %?",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 30,
+     "x": 700,
+     "y": 400,
+     "tam": 200,
+     "sufijo": " %",
+     "color": "#E0521B",
+     "en": "treinta por ciento que no es premio"
+    },
+    {
+     "tipo": "sello",
+     "texto": "SELAE NO LO DESGLOSA\n(que hayamos podido consultar)",
+     "x": 700,
+     "y": 700,
+     "tam": 50,
+     "en": "no desglosa"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "encoge_hombros",
+     "x": 1640,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "13",
+   "desde": "Lo que sí es público",
+   "fondo": "oficina_financiera",
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 90,
+     "y": 120,
+     "w": 1230,
+     "h": 870,
+     "t": 0
+    },
+    {
+     "tipo": "texto",
+     "texto": "SELAE EN 2024",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "Ventas, todos sus juegos",
+     "x": 700,
+     "y": 330,
+     "tam": 46,
+     "fuente": "mano",
+     "en": "diez mil trescientos noventa y seis"
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 10396,
+     "x": 700,
+     "y": 440,
+     "tam": 130,
+     "sufijo": " M€",
+     "en": "diez mil trescientos noventa y seis"
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 600,
+     "w": 880,
+     "h": 100,
+     "color": "#8FD18F",
+     "texto": "Beneficio: 2.437 M€ (23 %)",
+     "tam": 42,
+     "en": "dos mil cuatrocientos treinta y siete"
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 730,
+     "w": 880,
+     "h": 100,
+     "color": "#D9D2C0",
+     "texto": "Impuesto de sociedades: 812 M€",
+     "tam": 38,
+     "en": "ochocientos doce millones"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Es el negocio entero, no solo Navidad",
+     "x": 700,
+     "y": 900,
+     "tam": 44,
+     "fuente": "mano",
+     "en": "Es el negocio entero"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "lupa",
+     "x": 1680,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "Cuentas de SELAE 2024, según El Economista y Sector del Juego"
+  },
+  {
+   "id": "14",
+   "desde": "La segunda pregunta",
+   "fondo": "#F4E9D0",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "¿QUIÉN GANA SIEMPRE?",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "No gana siempre el mismo",
+     "x": 700,
+     "y": 340,
+     "tam": 56,
+     "fuente": "mano",
+     "en": "no gana siempre el mismo"
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 450,
+     "w": 880,
+     "h": 110,
+     "color": "#8FD18F",
+     "texto": "14 € → premios",
+     "tam": 48,
+     "en": "catorce van a premios"
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 590,
+     "w": 880,
+     "h": 110,
+     "color": "#D9D2C0",
+     "texto": "6 € → no son premios",
+     "tam": 48,
+     "en": "seis no"
+    },
+    {
+     "tipo": "texto",
+     "texto": "De media, un décimo devuelve menos de lo que cuesta",
+     "x": 700,
+     "y": 800,
+     "tam": 44,
+     "fuente": "mano",
+     "en": "devuelve menos de lo que cuesta"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "pensativo",
+     "x": 1640,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "15",
+   "desde": "Eso no significa",
+   "fondo": "#FFF3C4",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "Un juego de azar con un\nprecio y un reparto conocidos",
+     "x": 800,
+     "y": 330,
+     "tam": 66,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "Se compra por ilusión, tradición,\npor compartirlo con quien quieres",
+     "x": 800,
+     "y": 640,
+     "tam": 52,
+     "fuente": "mano",
+     "en": "la ilusión"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "contento",
+     "x": 1620,
+     "y": 1015,
+     "h": 520,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "16",
+   "desde": "Así que, la próxima vez",
+   "fondo": "administracion_loteria",
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 90,
+     "y": 120,
+     "w": 1230,
+     "h": 870,
+     "t": 0
+    },
+    {
+     "tipo": "texto",
+     "texto": "EL VIAJE DE TU DÉCIMO",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 20,
+     "x": 500,
+     "y": 380,
+     "tam": 160,
+     "sufijo": " € cuesta",
+     "en": "Veinte euros."
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 14,
+     "x": 500,
+     "y": 560,
+     "tam": 160,
+     "sufijo": " € vuelven (media)",
+     "color": "#2E8B57",
+     "en": "Catorce, de media"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Y si te toca algo grande,\nHacienda retiene su parte",
+     "x": 700,
+     "y": 800,
+     "tam": 50,
+     "fuente": "mano",
+     "en": "Hacienda retiene su parte"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "moneda",
+     "x": 1680,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "17",
+   "desde": "Aquí, cada semana, abrimos",
+   "fondo": "#F5B301",
+   "capas": [
+    {
+     "tipo": "mascota",
+     "pose": "saluda",
+     "x": 960,
+     "y": 1015,
+     "h": 560,
+     "entra": "abajo",
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "TICKET MEDIO",
+     "x": 960,
+     "y": 170,
+     "tam": 150,
+     "anim": "pop",
+     "t": 0.3
+    },
+    {
+     "tipo": "texto",
+     "texto": "Cada semana, el ticket de algo que pagas todos los días",
+     "x": 960,
+     "y": 300,
+     "tam": 50,
+     "fuente": "mano",
+     "papel": true,
+     "t": 1.0
+    }
+   ],
+   "sin_marca": true
+  }
+ ]
+}

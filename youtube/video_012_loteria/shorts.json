@@ -1,0 +1,85 @@
+{
+ "shorts": [
+  {
+   "id": "01",
+   "titulo": "¿Cuánto te queda del Gordo? 400.000 € → 328.000 €",
+   "tramos": [
+    [
+     "Aplicado al Gordo",
+     "paga dos mil"
+    ]
+   ],
+   "intro": "¿Cuánto te queda si te toca el Gordo? Son cuatrocientos mil euros por décimo."
+  },
+  {
+   "id": "02",
+   "titulo": "Lotería de Navidad: el 70 % va a premios, 2.772 millones",
+   "tramos": [
+    [
+     "En dos mil veinticinco se emitieron",
+     "Son dos mil setecientos setenta y dos millones de euros"
+    ]
+   ],
+   "intro": "¿Cuánto dinero reparte la Lotería de Navidad? Se emitieron ciento noventa y ocho series de cien mil números."
+  },
+  {
+   "id": "03",
+   "titulo": "Un décimo de 20 €: de media vuelven 14 €",
+   "tramos": [
+    [
+     "Ahora, una cuenta propia",
+     "muchos pequeños"
+    ]
+   ],
+   "intro": "¿Cuánto devuelve de media un décimo de veinte euros?"
+  },
+  {
+   "id": "04",
+   "titulo": "Premios de lotería: los primeros 40.000 € no pagan impuestos",
+   "tramos": [
+    [
+     "Y ahora, Hacienda",
+     "Cobras ochenta y ocho mil"
+    ]
+   ],
+   "intro": "¿Paga impuestos un premio de la Lotería de Navidad?"
+  },
+  {
+   "id": "05",
+   "titulo": "Los 3 premios grandes se llevan el 41 % del dinero",
+   "tramos": [
+    [
+     "La probabilidad de que",
+     "La probabilidad de que"
+    ],
+    [
+     "El segundo premio",
+     "premios más pequeños"
+    ]
+   ],
+   "intro": "¿Cómo se reparte el dinero de la Lotería de Navidad? El Gordo da cuatrocientos mil euros por décimo, con una probabilidad de una entre cien mil."
+  },
+  {
+   "id": "06",
+   "titulo": "Décimo compartido: ¿pagas más impuestos?",
+   "tramos": [
+    [
+     "La retención se aplica",
+     "no te hace pagar más"
+    ]
+   ],
+   "intro": "Si compartes un décimo, ¿pagas más si toca? La retención se aplica a cada décimo por separado,"
+  },
+  {
+   "id": "07",
+   "titulo": "Lotería de Navidad: ¿quién gana siempre?",
+   "tramos": [
+    [
+     "La segunda pregunta",
+     "Hacienda le retiene una parte"
+    ]
+   ],
+   "intro": "Lotería de Navidad: ¿quién gana siempre?"
+  }
+ ]
+}

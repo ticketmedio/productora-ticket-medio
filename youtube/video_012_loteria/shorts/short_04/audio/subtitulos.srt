@@ -1,0 +1,35 @@
+1
+00:00:00,150 --> 00:00:03,152
+¿Paga impuestos un premio de la Lotería de Navidad?
+
+2
+00:00:04,004 --> 00:00:09,507
+Desde dos mil trece, los premios de la lotería del Estado pagan impuestos.
+
+3
+00:00:09,507 --> 00:00:11,738
+Ley dieciséis de dos mil doce.
+
+4
+00:00:11,738 --> 00:00:18,060
+Y hay una parte exenta: los primeros cuarenta mil euros de cada décimo no pagan nada.
+
+5
+00:00:18,060 --> 00:00:22,968
+Lo que supera esa cifra tiene una retención del veinte por ciento.
+
+6
+00:00:22,968 --> 00:00:25,199
+Lo dice la Agencia Tributaria.
+
+7
+00:00:25,199 --> 00:00:31,595
+El ejemplo oficial: un premio de cien mil euros paga veinte por ciento de sesenta mil,
+
+8
+00:00:31,595 --> 00:00:32,711
+doce mil euros.
+
+9
+00:00:32,711 --> 00:00:34,645
+Cobras ochenta y ocho mil.

@@ -1,0 +1,167 @@
+{
+ "formato": "vertical",
+ "fondos": "../../fondos",
+ "musica": "../../audio/musica.mp3",
+ "musica_db": -26,
+ "cola": 1.5,
+ "salida": "../../output/SHORT_01_cuanto_queda_del_gordo.mp4",
+ "escenas": [
+  {
+   "id": "a",
+   "desde": "¿Cuánto te queda",
+   "fondo": "administracion_loteria",
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 60,
+     "y": 360,
+     "w": 960,
+     "h": 640
+    },
+    {
+     "tipo": "texto",
+     "texto": "EL GORDO",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 400000,
+     "x": 540,
+     "y": 540,
+     "tam": 150,
+     "sufijo": " €",
+     "color": "#E0521B",
+     "en": "cuatrocientos mil euros"
+    },
+    {
+     "tipo": "texto",
+     "texto": "por décimo (4 M€ por serie)",
+     "x": 540,
+     "y": 700,
+     "tam": 46,
+     "fuente": "mano",
+     "en": "por décimo"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "pensativo",
+     "x": 880,
+     "y": 1310,
+     "h": 340,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "b",
+   "desde": "Restas los cuarenta mil",
+   "fondo": "#E3E7EC",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "HACIENDA RETIENE",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "400.000 − 40.000 = 360.000",
+     "x": 540,
+     "y": 480,
+     "tam": 48,
+     "fuente": "mano",
+     "en": "trescientos sesenta mil"
+    },
+    {
+     "tipo": "rect",
+     "x": 110,
+     "y": 600,
+     "w": 860,
+     "h": 100,
+     "color": "#E0521B",
+     "texto": "Retención 20 %: 72.000 €",
+     "tam": 40,
+     "en": "setenta y dos mil",
+     "dur": 0.8
+    },
+    {
+     "tipo": "rect",
+     "x": 110,
+     "y": 730,
+     "w": 860,
+     "h": 100,
+     "color": "#8FD18F",
+     "texto": "Cobras: 328.000 €",
+     "tam": 44,
+     "en": "Cobras trescientos veintiocho",
+     "dur": 0.8
+    },
+    {
+     "tipo": "mascota",
+     "pose": "moneda",
+     "x": 960,
+     "y": 1310,
+     "h": 240,
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "c",
+   "desde": "El segundo premio, ciento veinticinco",
+   "fondo": "#F4E9D0",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "2.º Y 3.º PREMIO",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "125.000 € por décimo →\nretención 17.000 €",
+     "x": 540,
+     "y": 520,
+     "tam": 48,
+     "fuente": "mano",
+     "en": "paga diecisiete mil"
+    },
+    {
+     "tipo": "texto",
+     "texto": "50.000 € por décimo →\nretención 2.000 €",
+     "x": 540,
+     "y": 800,
+     "tam": 48,
+     "fuente": "mano",
+     "en": "paga dos mil"
+    },
+    {
+     "tipo": "sello",
+     "texto": "CÁLCULO PROPIO",
+     "x": 540,
+     "y": 1000,
+     "tam": 50,
+     "en": "cálculo nuestro"
+    }
+   ]
+  }
+ ]
+}

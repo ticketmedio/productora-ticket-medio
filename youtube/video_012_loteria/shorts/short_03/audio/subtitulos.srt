@@ -1,0 +1,23 @@
+1
+00:00:00,150 --> 00:00:03,308
+¿Cuánto devuelve de media un décimo de veinte euros?
+
+2
+00:00:03,424 --> 00:00:07,613
+Si de cada veinte euros que valen los décimos emitidos,
+
+3
+00:00:07,613 --> 00:00:13,478
+el setenta por ciento son premios, de media vuelven catorce euros por décimo.
+
+4
+00:00:13,478 --> 00:00:14,849
+Catorce de veinte.
+
+5
+00:00:14,849 --> 00:00:18,353
+Ojo: es la media de todos, antes de impuestos.
+
+6
+00:00:18,353 --> 00:00:25,056
+Casi nadie recibe catorce: es un promedio entre pocos premios enormes y muchos pequeños.

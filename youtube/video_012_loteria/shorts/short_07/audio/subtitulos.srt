@@ -1,0 +1,23 @@
+1
+00:00:00,150 --> 00:00:04,069
+Lotería de Navidad: ¿quién gana siempre?
+
+2
+00:00:04,019 --> 00:00:07,877
+Con los números en la mano: no gana siempre el mismo.
+
+3
+00:00:07,877 --> 00:00:10,279
+Pero la estructura sí está clara.
+
+4
+00:00:10,279 --> 00:00:14,210
+De cada veinte euros, catorce van a premios y seis no.
+
+5
+00:00:14,210 --> 00:00:18,068
+Un décimo, de media, devuelve menos de lo que cuesta.
+
+6
+00:00:18,068 --> 00:00:23,236
+Y a quien toca un premio grande, además, Hacienda le retiene una parte.

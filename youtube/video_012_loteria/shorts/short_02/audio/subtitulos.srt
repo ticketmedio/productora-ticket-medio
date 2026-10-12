@@ -1,0 +1,19 @@
+1
+00:00:00,150 --> 00:00:07,176
+¿Cuánto dinero reparte la Lotería de Navidad? Se emitieron ciento noventa y ocho series de cien mil números.
+
+2
+00:00:08,191 --> 00:00:10,836
+Cada décimo cuesta veinte euros.
+
+3
+00:00:10,836 --> 00:00:15,546
+En total, tres mil novecientos sesenta millones de euros.
+
+4
+00:00:15,896 --> 00:00:21,644
+Según los datos publicados del sorteo, el setenta por ciento se destina a premios.
+
+5
+00:00:21,644 --> 00:00:25,569
+Son dos mil setecientos setenta y dos millones de euros.

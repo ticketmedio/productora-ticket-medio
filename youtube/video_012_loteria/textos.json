@@ -1,0 +1,112 @@
+{
+ "n": 12,
+ "nombre": "Lotería de Navidad",
+ "titulo": "Lotería de Navidad: ¿quién gana siempre? Lo que dicen los números",
+ "alternativas": [
+  "Un décimo de 20 €: cuánto vuelve de media y cuánto se queda Hacienda",
+  "Si te toca el Gordo, ¿cuánto cobras de verdad? La cuenta oficial"
+ ],
+ "miniatura": "¿QUIÉN GANA SIEMPRE? 20 € → 14 €",
+ "etiquetas": "Lotería de Navidad, Lotería de Navidad 2026, quién gana siempre, cuánto se queda Hacienda, impuestos lotería, El Gordo neto, premios Lotería de Navidad, décimo 20 euros, SELAE, retención 20 %, Ticket Medio",
+ "descripcion": "Cada 22 de diciembre millones de españoles compran un décimo de 20 €. ¿Quién gana de verdad? Abrimos el ticket con lo que se puede comprobar: cuánto dinero se emite (3.960 M€ en 2025), qué parte va a premios (70 %), cuánto devuelve de media un décimo (14 € de 20, antes de impuestos, cálculo propio), cómo se reparte el dinero entre los premios grandes y los pequeños, y cuánto retiene Hacienda según la Agencia Tributaria (exentos los primeros 40.000 € por décimo y 20 % sobre el exceso).\n\nNo aconsejamos jugar ni dejar de jugar. Las cifras del sorteo proceden de prensa que cita datos de SELAE; los cálculos propios se indican como tales. No hemos podido verificar cuánto del 30 % no destinado a premios va a la red de ventas y cuánto al Estado, y no lo afirmamos. Las fuentes, en el comentario fijado.",
+ "capitulos": [
+  [
+   "Cuánto cuesta un décimo",
+   "Cada veintidós de diciembre"
+  ],
+  [
+   "El tamaño del sorteo",
+   "Primero, el tamaño"
+  ],
+  [
+   "Cuánto devuelve de media",
+   "Ahora, una cuenta propia"
+  ],
+  [
+   "Cómo se reparten los premios",
+   "Mira cómo se reparte"
+  ],
+  [
+   "Hacienda",
+   "Y ahora, Hacienda"
+  ],
+  [
+   "Cuánto cobras del Gordo",
+   "Aplicado al Gordo"
+  ],
+  [
+   "Quién se queda el 30 %",
+   "Quedan dos preguntas"
+  ],
+  [
+   "¿Quién gana siempre?",
+   "La segunda pregunta"
+  ]
+ ],
+ "vistos": "Vídeos anteriores: Mercadona, Zara, El Corte Inglés, Lidl, la factura de la luz, Ryanair, las marcas blancas, el súper más barato y Cepsa/Moeve, con el mismo método.",
+ "hashtags": "#LoteríaDeNavidad #Hacienda #Ahorro",
+ "comentario": [
+  "· Agencia Tributaria, «Premios sorteo Lotería de Navidad» (17/12/2024; Ley 16/2012: exentos 40.000 €, retención del 20 % sobre el exceso, ejemplo de 100.000 €): https://sede.agenciatributaria.gob.es/Sede/ca_es/todas-noticias/2024/diciembre/17/premios-sorteo-loteria-navidad.html",
+  "· Emisión de 2025 (198 series, décimo de 20 €, 3.960 M€, 70 % a premios = 2.772 M€; Gordo 400.000 € por décimo) y ventas del sorteo (3.554 M€, +1,4 %): prensa con datos de SELAE (The Objective, Público, Europa Press). No hemos podido abrir los documentos de SELAE.",
+  "· Cuentas de SELAE de 2024 (ventas 10.396 M€, beneficio 2.437 M€, impuesto de sociedades 812 M€): El Economista y Sector del Juego.",
+  "· Cálculos propios: 14 € de media por décimo, el 41 % de los tres premios grandes, el 23 % de beneficio y las retenciones del Gordo, el segundo y el tercero con la regla oficial."
+ ],
+ "shorts": [
+  {
+   "id": "01",
+   "archivo": "SHORT_01_cuanto_queda_del_gordo.mp4",
+   "dia": "sábado 12/12",
+   "titulo": "¿Cuánto te queda si te toca el Gordo? 400.000 € → 328.000 €",
+   "descripcion": "Según la Agencia Tributaria, los primeros 40.000 € de cada décimo están exentos y el exceso tiene una retención del 20 %. Con esa regla, un décimo de 400.000 € cobra 328.000 € (cálculo propio).",
+   "hashtags": "#LoteríaDeNavidad #ElGordo #Hacienda"
+  },
+  {
+   "id": "02",
+   "archivo": "SHORT_02_70_por_ciento_premios.mp4",
+   "dia": "domingo 13/12",
+   "titulo": "Lotería de Navidad: el 70 % va a premios (2.772 millones)",
+   "descripcion": "Sorteo de 2025: 198 series de 100.000 números, décimo de 20 € y 3.960 M€ de emisión; el 70 % a premios son 2.772 M€, según los datos publicados del sorteo.",
+   "hashtags": "#LoteríaDeNavidad #Premios #SELAE"
+  },
+  {
+   "id": "03",
+   "archivo": "SHORT_03_14_de_20.mp4",
+   "dia": "lunes 14/12",
+   "titulo": "Un décimo de 20 €: de media vuelven 14 € en premios",
+   "descripcion": "Cálculo propio: si el 70 % de lo emitido son premios, de media vuelven 14 € por cada décimo de 20 €, antes de impuestos. Es un promedio: casi nadie recibe 14 €.",
+   "hashtags": "#LoteríaDeNavidad #Décimo #Cuentas"
+  },
+  {
+   "id": "04",
+   "archivo": "SHORT_04_40000_exentos.mp4",
+   "dia": "martes 15/12",
+   "titulo": "Premios de lotería: los primeros 40.000 € no pagan impuestos",
+   "descripcion": "Ley 16/2012: exentos los primeros 40.000 € de cada décimo; el exceso, retención del 20 %. Ejemplo oficial de la Agencia Tributaria: un premio de 100.000 € paga 12.000 € y cobra 88.000 €.",
+   "hashtags": "#Hacienda #Lotería #Impuestos"
+  },
+  {
+   "id": "05",
+   "archivo": "SHORT_05_reparto_premios.mp4",
+   "dia": "miércoles 16/12",
+   "titulo": "Los tres premios grandes se llevan el 41 % del dinero en premios",
+   "descripcion": "Gordo (4 M€ por serie), segundo (1,25 M€) y tercero (0,5 M€) en 198 series suman 1.138,5 M€, el 41 % de los 2.772 M€ en premios. Cálculo propio con cifras publicadas.",
+   "hashtags": "#LoteríaDeNavidad #ElGordo #Cuentas"
+  },
+  {
+   "id": "06",
+   "archivo": "SHORT_06_decimo_compartido.mp4",
+   "dia": "jueves 17/12",
+   "titulo": "Décimo compartido: ¿pagas más impuestos si toca?",
+   "descripcion": "La retención se aplica por décimo y los 40.000 € exentos se reparten entre los titulares, según la Agencia Tributaria. Compartir no te hace pagar más por ese motivo.",
+   "hashtags": "#LoteríaDeNavidad #Hacienda #Décimo"
+  },
+  {
+   "id": "07",
+   "archivo": "SHORT_07_quien_gana_siempre.mp4",
+   "dia": "viernes 18/12",
+   "titulo": "Lotería de Navidad: ¿quién gana siempre?",
+   "descripcion": "De cada 20 € de décimo, 14 € van a premios de media (70 % de la emisión) y 6 no. Explicamos la estructura, sin aconsejar jugar ni dejar de jugar.",
+   "hashtags": "#LoteríaDeNavidad #Lotería #Ahorro"
+  }
+ ]
+}

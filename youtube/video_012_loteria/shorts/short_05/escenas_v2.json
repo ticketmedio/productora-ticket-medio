@@ -1,0 +1,162 @@
+{
+ "formato": "vertical",
+ "fondos": "../../fondos",
+ "musica": "../../audio/musica.mp3",
+ "musica_db": -26,
+ "cola": 1.5,
+ "salida": "../../output/SHORT_05_reparto_premios.mp4",
+ "escenas": [
+  {
+   "id": "a",
+   "desde": "¿Cómo se reparte",
+   "fondo": "administracion_loteria",
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 60,
+     "y": 360,
+     "w": 960,
+     "h": 640
+    },
+    {
+     "tipo": "texto",
+     "texto": "EL GORDO",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 400000,
+     "x": 540,
+     "y": 540,
+     "tam": 150,
+     "sufijo": " €",
+     "color": "#E0521B",
+     "en": "cuatrocientos mil euros"
+    },
+    {
+     "tipo": "texto",
+     "texto": "probabilidad: 1 entre 100.000",
+     "x": 540,
+     "y": 700,
+     "tam": 46,
+     "fuente": "mano",
+     "en": "una entre cien mil"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "moneda",
+     "x": 880,
+     "y": 1310,
+     "h": 340,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "b",
+   "desde": "El segundo premio",
+   "fondo": "#FFF3C4",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "LOS TRES GRANDES",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "2.º: 1.250.000 € por serie",
+     "x": 540,
+     "y": 480,
+     "tam": 46,
+     "fuente": "mano",
+     "en": "un millón doscientos cincuenta mil"
+    },
+    {
+     "tipo": "texto",
+     "texto": "3.º: 500.000 € por serie",
+     "x": 540,
+     "y": 600,
+     "tam": 46,
+     "fuente": "mano",
+     "en": "quinientos mil"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Suman 1.138,5 M€",
+     "x": 540,
+     "y": 760,
+     "tam": 50,
+     "fuente": "mano",
+     "en": "mil ciento treinta y ocho"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "lupa",
+     "x": 960,
+     "y": 1310,
+     "h": 230,
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "c",
+   "desde": "Es el cuarenta y uno",
+   "fondo": "#E3E7EC",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "DEL DINERO EN PREMIOS",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 41,
+     "x": 540,
+     "y": 560,
+     "tam": 220,
+     "sufijo": " %",
+     "color": "#E0521B",
+     "en": "cuarenta y uno por ciento"
+    },
+    {
+     "tipo": "texto",
+     "texto": "cálculo propio con cifras publicadas",
+     "x": 540,
+     "y": 760,
+     "tam": 42,
+     "fuente": "mano",
+     "en": "cálculo nuestro"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "normal",
+     "x": 960,
+     "y": 1310,
+     "h": 240,
+     "t": 0.2
+    }
+   ]
+  }
+ ]
+}
