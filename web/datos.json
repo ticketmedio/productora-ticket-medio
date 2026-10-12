@@ -2742,6 +2742,12 @@
           "author": "claude",
           "text": "12/10: el usuario confirma que los 3 Shorts de Zara ya están enlazados con el vídeo principal. Quito Zara de esta tarea. Queda solo comprobar los 3 de Mercadona (si también están enlazados, marca la tarea como hecha). Los 4 Shorts extra de Zara se enlazan al subirlos.",
           "createdAt": "2026-10-12T11:08:12.000Z"
+        },
+        {
+          "id": "c-131037563359",
+          "author": "claude",
+          "text": "12/10: el usuario confirma que los 3 Shorts de Mercadona y los 3 de Zara ya están enlazados con su vídeo largo. Tarea cerrada. Pendiente solo: los 4 Shorts extra de Zara se enlazan al subirlos (tarea pub-yt-3-extra).",
+          "createdAt": "2026-10-12T11:10:37.563Z"
         }
       ]
     }
