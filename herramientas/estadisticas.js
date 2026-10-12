@@ -13,7 +13,7 @@ const path = require('path');
 const puppeteer = require('puppeteer-core');
 
 const RAIZ = path.resolve(__dirname, '..');
-const PERFIL = path.join(RAIZ, 'privado', 'perfil_navegador');
+const PERFIL = path.join(RAIZ, 'privado', process.platform === 'darwin' ? 'perfil_navegador_mac' : 'perfil_navegador');
 const EDGE = ['/Applications/Google Chrome.app/Contents/MacOS/Google Chrome', 'C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe'].find((p) => fs.existsSync(p)) || 'C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe';
 const hoy = new Date().toISOString().slice(0, 10);
 const SALIDA = path.join(RAIZ, 'privado', 'estadisticas', hoy);
@@ -87,7 +87,7 @@ async function capturar(pagina, nombre, url) {
     headless: !ver,
     defaultViewport: { width: 1600, height: 1000 },
     args: ['--no-first-run', '--no-default-browser-check', '--lang=es-ES'],
-    ignoreDefaultArgs: ['--enable-automation'],
+    ignoreDefaultArgs: ['--enable-automation', '--use-mock-keychain', '--password-store=basic'],
   });
   const pagina = await navegador.newPage();
   await pagina.setUserAgent((await navegador.userAgent()).replace('HeadlessChrome', 'Chrome'));
