@@ -1,0 +1,15 @@
+1
+00:00:00,150 --> 00:00:03,400
+¿En qué ciudades españolas es más caro el supermercado?
+
+2
+00:00:03,354 --> 00:00:09,344
+La localidad con precios más bajos es Torrent, en Valencia, con índice cien.
+
+3
+00:00:09,344 --> 00:00:15,255
+Las más caras, Getxo, Pozuelo de Alarcón y Majadahonda, con ciento catorce.
+
+4
+00:00:15,255 --> 00:00:22,032
+Entre capitales, Barcelona, con ciento diez; Bilbao y San Sebastián, con ciento nueve.

@@ -1,0 +1,31 @@
+1
+00:00:00,150 --> 00:00:04,259
+¿Cómo se comparan los precios de seiscientos noventa supermercados?
+
+2
+00:00:03,848 --> 00:00:09,671
+La OCU visitó seiscientos noventa establecimientos en treinta y ocho ciudades,
+
+3
+00:00:09,671 --> 00:00:14,150
+además de supermercados online, en abril y mayo de este año.
+
+4
+00:00:14,150 --> 00:00:21,764
+Y apuntó los precios de doscientos cuarenta y cuatro productos: marcas de fabricante y marcas blancas,
+
+5
+00:00:21,764 --> 00:00:26,169
+frescos, envasados, bebidas, limpieza, droguería e higiene.
+
+6
+00:00:26,169 --> 00:00:30,648
+Con eso construye un índice: la tienda más barata vale cien,
+
+7
+00:00:30,648 --> 00:00:34,381
+y cada punto de más es un uno por ciento más caro.
+
+8
+00:00:34,381 --> 00:00:39,233
+Una tienda con índice ciento diez es un diez por ciento más cara.

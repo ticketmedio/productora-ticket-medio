@@ -1,0 +1,23 @@
+1
+00:00:00,150 --> 00:00:05,661
+Desde dos mil veintiuno, la cesta de la compra ha subido casi un cuarenta por ciento.
+
+2
+00:00:06,592 --> 00:00:10,210
+la cesta OCU ha subido casi un cuarenta por ciento.
+
+3
+00:00:10,210 --> 00:00:13,828
+El café molido económico, un ciento cuarenta y dos.
+
+4
+00:00:13,828 --> 00:00:16,665
+Los huevos M, un ciento treinta y cinco.
+
+5
+00:00:16,665 --> 00:00:21,773
+Solo tres productos de los comparables cuestan hoy menos: el detergente,
+
+6
+00:00:21,773 --> 00:00:24,469
+el yogur natural y la bebida de arroz.

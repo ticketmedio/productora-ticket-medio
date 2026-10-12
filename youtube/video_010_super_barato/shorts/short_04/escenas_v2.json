@@ -1,0 +1,116 @@
+{
+ "formato": "vertical",
+ "fondos": "../../fondos",
+ "musica": "../../audio/musica.mp3",
+ "musica_db": -26,
+ "cola": 1.5,
+ "salida": "../../output/SHORT_04_marca_propia_baja.mp4",
+ "escenas": [
+  {
+   "id": "a",
+   "desde": "¿Dónde han bajado precios",
+   "fondo": "#E6E0F5",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "CESTA ECONÓMICA",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "Mercadona −5,6 %",
+     "x": 540,
+     "y": 520,
+     "tam": 80,
+     "color": "#2E8B57",
+     "en": "Mercadona baja un cinco coma seis"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Lidl −4,7 %",
+     "x": 540,
+     "y": 700,
+     "tam": 80,
+     "color": "#2E8B57",
+     "en": "Mercadona baja un cinco coma seis",
+     "t": 1.0
+    },
+    {
+     "tipo": "texto",
+     "texto": "(los productos más baratos de cada tienda)",
+     "x": 540,
+     "y": 880,
+     "tam": 42,
+     "fuente": "mano",
+     "t": 1.5
+    },
+    {
+     "tipo": "mascota",
+     "pose": "riendo",
+     "x": 920,
+     "y": 1310,
+     "h": 250,
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "b",
+   "desde": "En la cesta de marcas de fabricante",
+   "fondo": "#FFF3C4",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "CESTA DE MARCAS",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "+2,5 %",
+     "x": 540,
+     "y": 560,
+     "tam": 170,
+     "color": "#E0521B",
+     "anim": "pop",
+     "en": "dos coma cinco"
+    },
+    {
+     "tipo": "texto",
+     "texto": "de media: la marca de fabricante sube",
+     "x": 540,
+     "y": 800,
+     "tam": 48,
+     "fuente": "mano",
+     "en": "La marca de fabricante"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Las cadenas compiten con productos\neconómicos y de marca propia",
+     "x": 540,
+     "y": 980,
+     "tam": 42,
+     "fuente": "mano",
+     "en": "Es decir"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "pensativo",
+     "x": 920,
+     "y": 1310,
+     "h": 230,
+     "t": 0.2
+    }
+   ]
+  }
+ ]
+}

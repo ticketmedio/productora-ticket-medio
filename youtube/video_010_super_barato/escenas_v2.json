@@ -1,0 +1,1336 @@
+{
+ "musica": "audio/musica.mp3",
+ "musica_db": -26,
+ "cola": 3,
+ "escenas": [
+  {
+   "id": "01",
+   "desde": "Entre el supermercado más barato",
+   "fondo": "pasillo_marca_blanca",
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 90,
+     "y": 120,
+     "w": 1230,
+     "h": 870,
+     "t": 0
+    },
+    {
+     "tipo": "texto",
+     "texto": "Entre el súper más barato y el más caro de tu ciudad…",
+     "x": 700,
+     "y": 220,
+     "tam": 48,
+     "fuente": "mano",
+     "t": 0.2
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 1310,
+     "x": 700,
+     "y": 400,
+     "tam": 190,
+     "sufijo": " €",
+     "color": "#2E8B57",
+     "en": "mil trescientos diez euros"
+    },
+    {
+     "tipo": "texto",
+     "texto": "de ahorro medio al año",
+     "x": 700,
+     "y": 540,
+     "tam": 52,
+     "fuente": "mano",
+     "en": "un hogar medio ahorra"
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 4381,
+     "x": 700,
+     "y": 730,
+     "tam": 150,
+     "sufijo": " €",
+     "color": "#E0521B",
+     "en": "cuatro mil trescientos ochenta y uno"
+    },
+    {
+     "tipo": "texto",
+     "texto": "en Madrid capital",
+     "x": 700,
+     "y": 860,
+     "tam": 52,
+     "fuente": "mano",
+     "en": "En Madrid"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "sorprendido",
+     "x": 1630,
+     "y": 1015,
+     "h": 520,
+     "entra": "der",
+     "t": 0.3
+    }
+   ],
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "fuente": "OCU, estudio de supermercados 2026 (25/9/2026)"
+  },
+  {
+   "id": "02",
+   "desde": "¿Y cuál es el más barato",
+   "fondo": "#FFF3C4",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "¿Cuál es el más barato?",
+     "x": 800,
+     "y": 280,
+     "tam": 86,
+     "t": 0.3
+    },
+    {
+     "tipo": "texto",
+     "texto": "Depende de dónde vivas",
+     "x": 800,
+     "y": 480,
+     "tam": 70,
+     "color": "#E0521B",
+     "en": "Depende de dónde vivas"
+    },
+    {
+     "tipo": "texto",
+     "texto": "690 supermercados · el mayor estudio que existe",
+     "x": 800,
+     "y": 720,
+     "tam": 54,
+     "fuente": "mano",
+     "papel": true,
+     "en": "el mayor estudio"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "pensativo",
+     "x": 1620,
+     "y": 1015,
+     "h": 520,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "03",
+   "desde": "Abrimos el ticket del súper",
+   "fondo": "#E3E7EC",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "El ticket del súper",
+     "x": 800,
+     "y": 260,
+     "tam": 80,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "No hemos comprado una cesta:\nusamos el estudio de la OCU 2026",
+     "x": 800,
+     "y": 480,
+     "tam": 56,
+     "fuente": "mano",
+     "en": "usamos el estudio"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Publicado el 25 de septiembre",
+     "x": 800,
+     "y": 720,
+     "tam": 52,
+     "fuente": "mano",
+     "papel": true,
+     "en": "veinticinco de septiembre"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "lupa",
+     "x": 1620,
+     "y": 1015,
+     "h": 520,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "OCU, estudio de supermercados 2026 (25/9/2026)"
+  },
+  {
+   "id": "04",
+   "desde": "Primero, cómo se hizo",
+   "fondo": "calle_comercial",
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 90,
+     "y": 120,
+     "w": 1230,
+     "h": 870,
+     "t": 0
+    },
+    {
+     "tipo": "texto",
+     "texto": "CÓMO SE HIZO",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 690,
+     "x": 400,
+     "y": 440,
+     "tam": 150,
+     "en": "seiscientos noventa establecimientos"
+    },
+    {
+     "tipo": "texto",
+     "texto": "establecimientos",
+     "x": 400,
+     "y": 560,
+     "tam": 42,
+     "fuente": "mano",
+     "en": "seiscientos noventa establecimientos"
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 38,
+     "x": 820,
+     "y": 440,
+     "tam": 150,
+     "en": "treinta y ocho ciudades"
+    },
+    {
+     "tipo": "texto",
+     "texto": "ciudades",
+     "x": 820,
+     "y": 560,
+     "tam": 42,
+     "fuente": "mano",
+     "en": "treinta y ocho ciudades"
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 244,
+     "x": 1200,
+     "y": 440,
+     "tam": 150,
+     "en": "doscientos cuarenta y cuatro productos"
+    },
+    {
+     "tipo": "texto",
+     "texto": "productos",
+     "x": 1200,
+     "y": 560,
+     "tam": 42,
+     "fuente": "mano",
+     "en": "doscientos cuarenta y cuatro productos"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Abril y mayo de 2026 · marcas y marcas blancas",
+     "x": 700,
+     "y": 800,
+     "tam": 46,
+     "fuente": "mano",
+     "papel": true,
+     "en": "abril y mayo"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "saluda",
+     "x": 1670,
+     "y": 1015,
+     "h": 500,
+     "mira": "izq",
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "fuente": "OCU, estudio de supermercados 2026 (25/9/2026)"
+  },
+  {
+   "id": "05",
+   "desde": "Con eso construye un índice",
+   "fondo": "#F4E9D0",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "EL ÍNDICE",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "La más barata = 100",
+     "x": 700,
+     "y": 380,
+     "tam": 70,
+     "en": "la tienda más barata vale cien"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Índice 110 = un 10 % más cara",
+     "x": 700,
+     "y": 560,
+     "tam": 66,
+     "color": "#E0521B",
+     "en": "una tienda con índice ciento diez"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Cada punto de más = un 1 % más caro",
+     "x": 700,
+     "y": 760,
+     "tam": 52,
+     "fuente": "mano",
+     "en": "cada punto de más"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "normal",
+     "x": 1660,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "OCU, estudio de supermercados 2026 (25/9/2026)"
+  },
+  {
+   "id": "06",
+   "desde": "Vamos con el ranking de cadenas",
+   "fondo": "#FFF3C4",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "Ranking de cadenas (índice OCU)",
+     "x": 800,
+     "y": 190,
+     "tam": 56,
+     "fuente": "mano",
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 290,
+     "w": 480,
+     "h": 100,
+     "color": "#8FD18F",
+     "texto": "Dani 100",
+     "tam": 44,
+     "en": "Dani, con índice cien",
+     "dur": 0.7
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 410,
+     "w": 560,
+     "h": 100,
+     "color": "#8FD18F",
+     "texto": "Family Cash · Tifer 102",
+     "tam": 40,
+     "en": "Family Cash y Tifer",
+     "dur": 0.7
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 530,
+     "w": 620,
+     "h": 100,
+     "color": "#F5B301",
+     "texto": "Alcampo · Supeco 103",
+     "tam": 40,
+     "en": "Alcampo y Supeco",
+     "dur": 0.7
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 700,
+     "w": 1050,
+     "h": 100,
+     "color": "#E0521B",
+     "texto": "Sánchez Romero 176",
+     "tam": 44,
+     "en": "Sánchez Romero",
+     "dur": 0.8
+    },
+    {
+     "tipo": "mascota",
+     "pose": "senala",
+     "x": 1660,
+     "y": 1015,
+     "h": 500,
+     "mira": "izq",
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "OCU, estudio de supermercados 2026 (25/9/2026)"
+  },
+  {
+   "id": "07",
+   "desde": "Y aquí viene lo curioso",
+   "fondo": "centro_comercial",
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 90,
+     "y": 120,
+     "w": 1230,
+     "h": 870,
+     "t": 0
+    },
+    {
+     "tipo": "texto",
+     "texto": "EL MÁS BARATO VISITADO",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "Un Alcampo en un centro comercial\nde Aldaia (Valencia)",
+     "x": 700,
+     "y": 460,
+     "tam": 62,
+     "en": "un Alcampo"
+    },
+    {
+     "tipo": "texto",
+     "texto": "No es de una cadena pequeña",
+     "x": 700,
+     "y": 740,
+     "tam": 54,
+     "fuente": "mano",
+     "papel": true,
+     "en": "no es de una cadena"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "sorprendido",
+     "x": 1660,
+     "y": 1015,
+     "h": 500,
+     "mira": "izq",
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "fuente": "OCU, estudio de supermercados 2026 (25/9/2026)"
+  },
+  {
+   "id": "08",
+   "desde": "Pero la gran noticia",
+   "fondo": "supermercado",
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 90,
+     "y": 120,
+     "w": 1230,
+     "h": 870,
+     "t": 0
+    },
+    {
+     "tipo": "texto",
+     "texto": "LIDL GANA TERRENO",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 18,
+     "x": 450,
+     "y": 450,
+     "tam": 190,
+     "color": "#9A9A9A",
+     "en": "El año pasado eran dieciocho"
+    },
+    {
+     "tipo": "texto",
+     "texto": "localidades el año anterior",
+     "x": 450,
+     "y": 620,
+     "tam": 42,
+     "fuente": "mano",
+     "en": "El año pasado eran dieciocho"
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 60,
+     "x": 1050,
+     "y": 450,
+     "tam": 210,
+     "color": "#E0521B",
+     "en": "sesenta de las localidades"
+    },
+    {
+     "tipo": "texto",
+     "texto": "localidades donde es la más barata",
+     "x": 1050,
+     "y": 640,
+     "tam": 42,
+     "fuente": "mano",
+     "en": "sesenta de las localidades"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Mercadona duplica las suyas · Supeco 18 → 28",
+     "x": 700,
+     "y": 850,
+     "tam": 46,
+     "fuente": "mano",
+     "papel": true,
+     "en": "Mercadona también duplica"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "riendo",
+     "x": 1670,
+     "y": 1015,
+     "h": 500,
+     "mira": "izq",
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "fuente": "OCU, estudio de supermercados 2026 (25/9/2026)"
+  },
+  {
+   "id": "09",
+   "desde": "Porque las grandes cadenas",
+   "fondo": "#E6E0F5",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "Cesta OCU: variación en el año",
+     "x": 800,
+     "y": 190,
+     "tam": 54,
+     "fuente": "mano",
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 290,
+     "w": 760,
+     "h": 90,
+     "color": "#8FD18F",
+     "texto": "Carrefour Market −2,7 %",
+     "tam": 40,
+     "en": "Carrefour Market",
+     "dur": 0.7
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 400,
+     "w": 600,
+     "h": 90,
+     "color": "#8FD18F",
+     "texto": "Lidl −1,9 %",
+     "tam": 40,
+     "en": "Lidl, un uno coma nueve",
+     "dur": 0.7
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 510,
+     "w": 580,
+     "h": 90,
+     "color": "#8FD18F",
+     "texto": "Mercadona −1,8 %",
+     "tam": 40,
+     "en": "Mercadona, un uno coma ocho",
+     "dur": 0.7
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 620,
+     "w": 520,
+     "h": 90,
+     "color": "#8FD18F",
+     "texto": "Aldi −1,4 %",
+     "tam": 40,
+     "en": "Aldi, un uno coma cuatro",
+     "dur": 0.7
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 760,
+     "w": 640,
+     "h": 90,
+     "color": "#E0521B",
+     "texto": "BM Urban +5,1 % · Ahorramás +4,4 %",
+     "tam": 34,
+     "en": "BM Urban sube",
+     "dur": 0.8
+    },
+    {
+     "tipo": "mascota",
+     "pose": "lupa",
+     "x": 1670,
+     "y": 1015,
+     "h": 500,
+     "mira": "izq",
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "OCU, estudio de supermercados 2026 (25/9/2026)"
+  },
+  {
+   "id": "10",
+   "desde": "Y fíjate dónde se baja",
+   "fondo": "#FFF3C4",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "DÓNDE SE BAJA",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "Cesta económica",
+     "x": 450,
+     "y": 360,
+     "tam": 52,
+     "fuente": "mano",
+     "en": "la cesta económica"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Mercadona −5,6 %\nLidl −4,7 %",
+     "x": 450,
+     "y": 520,
+     "tam": 60,
+     "color": "#2E8B57",
+     "en": "Mercadona baja un cinco coma seis"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Cesta de marcas de fabricante",
+     "x": 1030,
+     "y": 360,
+     "tam": 46,
+     "fuente": "mano",
+     "en": "cesta de marcas"
+    },
+    {
+     "tipo": "texto",
+     "texto": "+2,5 %\nde media",
+     "x": 1030,
+     "y": 520,
+     "tam": 76,
+     "color": "#E0521B",
+     "en": "suben de media"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "encoge_hombros",
+     "x": 1680,
+     "y": 1015,
+     "h": 500,
+     "mira": "izq",
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "OCU, estudio de supermercados 2026 (25/9/2026)"
+  },
+  {
+   "id": "11",
+   "desde": "Es decir: las grandes cadenas",
+   "fondo": "#E3E7EC",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "Las grandes cadenas compiten con…",
+     "x": 800,
+     "y": 250,
+     "tam": 56,
+     "fuente": "mano",
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "productos económicos\ny de marca propia",
+     "x": 800,
+     "y": 460,
+     "tam": 72,
+     "en": "productos económicos"
+    },
+    {
+     "tipo": "texto",
+     "texto": "La marca de fabricante, mientras tanto, sube",
+     "x": 800,
+     "y": 760,
+     "tam": 54,
+     "fuente": "mano",
+     "papel": true,
+     "en": "La marca de fabricante"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "pensativo",
+     "x": 1650,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "OCU, estudio de supermercados 2026 (25/9/2026)"
+  },
+  {
+   "id": "12",
+   "desde": "Eso sí, no todo baja",
+   "fondo": "pasillo_marca_blanca",
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 90,
+     "y": 120,
+     "w": 1230,
+     "h": 870,
+     "t": 0
+    },
+    {
+     "tipo": "texto",
+     "texto": "NO TODO BAJA",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 1.8,
+     "x": 450,
+     "y": 440,
+     "tam": 170,
+     "sufijo": " %",
+     "dec": 1,
+     "en": "un uno coma ocho"
+    },
+    {
+     "tipo": "texto",
+     "texto": "sube la Cesta OCU",
+     "x": 450,
+     "y": 590,
+     "tam": 42,
+     "fuente": "mano",
+     "en": "un uno coma ocho"
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 149,
+     "x": 960,
+     "y": 440,
+     "tam": 150,
+     "color": "#E0521B",
+     "en": "ciento cuarenta y nueve"
+    },
+    {
+     "tipo": "texto",
+     "texto": "productos más caros",
+     "x": 960,
+     "y": 580,
+     "tam": 42,
+     "fuente": "mano",
+     "en": "ciento cuarenta y nueve"
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 92,
+     "x": 1240,
+     "y": 440,
+     "tam": 150,
+     "color": "#2E8B57",
+     "en": "noventa y dos"
+    },
+    {
+     "tipo": "texto",
+     "texto": "más baratos",
+     "x": 1240,
+     "y": 580,
+     "tam": 42,
+     "fuente": "mano",
+     "en": "noventa y dos"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "normal",
+     "x": 1680,
+     "y": 1015,
+     "h": 500,
+     "mira": "izq",
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "fuente": "OCU, estudio de supermercados 2026 (25/9/2026)"
+  },
+  {
+   "id": "13",
+   "desde": "Los frescos suben un cuatro",
+   "fondo": "#F4E9D0",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "LOS FRESCOS: +4,7 %",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 300,
+     "w": 1000,
+     "h": 100,
+     "color": "#E0521B",
+     "texto": "Pescado +8,6 %",
+     "tam": 46,
+     "en": "un ocho coma seis",
+     "dur": 0.8
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 430,
+     "w": 560,
+     "h": 100,
+     "color": "#F5B301",
+     "texto": "Carne +3,7 %",
+     "tam": 46,
+     "en": "la carne, un tres coma siete",
+     "dur": 0.8
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 560,
+     "w": 540,
+     "h": 100,
+     "color": "#9CC5E8",
+     "texto": "Frutas y verduras +3,5 %",
+     "tam": 40,
+     "en": "un tres coma cinco",
+     "dur": 0.8
+    },
+    {
+     "tipo": "mascota",
+     "pose": "preocupado",
+     "x": 1670,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "OCU, estudio de supermercados 2026 (25/9/2026)"
+  },
+  {
+   "id": "14",
+   "desde": "Y si miramos más atrás",
+   "fondo": "#FFF3C4",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "DESDE 2021",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 40,
+     "x": 450,
+     "y": 450,
+     "tam": 190,
+     "prefijo": "≈ ",
+     "sufijo": " %",
+     "color": "#E0521B",
+     "en": "casi un cuarenta por ciento"
+    },
+    {
+     "tipo": "texto",
+     "texto": "sube la Cesta OCU",
+     "x": 450,
+     "y": 620,
+     "tam": 44,
+     "fuente": "mano",
+     "en": "casi un cuarenta por ciento"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Café molido económico +142 %\nHuevos M +135 %",
+     "x": 1030,
+     "y": 480,
+     "tam": 50,
+     "en": "El café molido económico"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Solo cuestan menos: detergente,\nyogur natural y bebida de arroz",
+     "x": 1030,
+     "y": 740,
+     "tam": 40,
+     "fuente": "mano",
+     "en": "Solo tres productos"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "sorprendido",
+     "x": 1690,
+     "y": 1015,
+     "h": 500,
+     "mira": "izq",
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "OCU, estudio de supermercados 2026 (25/9/2026)"
+  },
+  {
+   "id": "15",
+   "desde": "Ahora, las ciudades",
+   "fondo": "#E3E7EC",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "Nivel de precios por localidad (índice OCU)",
+     "x": 800,
+     "y": 190,
+     "tam": 50,
+     "fuente": "mano",
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 290,
+     "w": 450,
+     "h": 90,
+     "color": "#8FD18F",
+     "texto": "Torrent 100",
+     "tam": 40,
+     "en": "Torrent, en Valencia",
+     "dur": 0.7
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 400,
+     "w": 1000,
+     "h": 90,
+     "color": "#E0521B",
+     "texto": "Getxo · Pozuelo · Majadahonda 114",
+     "tam": 38,
+     "en": "Getxo, Pozuelo",
+     "dur": 0.8
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 540,
+     "w": 780,
+     "h": 90,
+     "color": "#F5B301",
+     "texto": "Barcelona 110",
+     "tam": 40,
+     "en": "Barcelona, con ciento diez",
+     "dur": 0.7
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 650,
+     "w": 740,
+     "h": 90,
+     "color": "#F5B301",
+     "texto": "Bilbao · San Sebastián 109",
+     "tam": 38,
+     "en": "Bilbao y San Sebastián",
+     "dur": 0.8
+    },
+    {
+     "tipo": "mascota",
+     "pose": "senala",
+     "x": 1670,
+     "y": 1015,
+     "h": 500,
+     "mira": "izq",
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "OCU, estudio de supermercados 2026 (25/9/2026)"
+  },
+  {
+   "id": "16",
+   "desde": "Y la diferencia en euros",
+   "fondo": "oficina_financiera",
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 90,
+     "y": 120,
+     "w": 1230,
+     "h": 870,
+     "t": 0
+    },
+    {
+     "tipo": "texto",
+     "texto": "EL AHORRO POSIBLE AL AÑO",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 300,
+     "w": 1000,
+     "h": 90,
+     "color": "#E0521B",
+     "texto": "Madrid 4.381 €",
+     "tam": 44,
+     "en": "cuatro mil trescientos ochenta",
+     "dur": 0.8
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 410,
+     "w": 520,
+     "h": 90,
+     "color": "#F5B301",
+     "texto": "Barcelona ≈ 1.823 €",
+     "tam": 40,
+     "en": "mil ochocientos veintitrés",
+     "dur": 0.8
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 520,
+     "w": 480,
+     "h": 90,
+     "color": "#9CC5E8",
+     "texto": "Zaragoza · Vigo ≈ 1.950–2.150 €",
+     "tam": 36,
+     "en": "entre mil novecientos",
+     "dur": 0.8
+    },
+    {
+     "tipo": "rect",
+     "x": 150,
+     "y": 630,
+     "w": 160,
+     "h": 90,
+     "color": "#8FD18F",
+     "texto": "Mieres 381 €",
+     "tam": 34,
+     "en": "trescientos ochenta y uno",
+     "dur": 0.8
+    },
+    {
+     "tipo": "texto",
+     "texto": "«Incluso allí, comparar sale a cuenta»",
+     "x": 700,
+     "y": 850,
+     "tam": 46,
+     "fuente": "mano",
+     "papel": true,
+     "en": "comparar sale a cuenta"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "moneda",
+     "x": 1680,
+     "y": 1015,
+     "h": 500,
+     "mira": "izq",
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "fuente": "OCU, estudio de supermercados 2026 (25/9/2026)"
+  },
+  {
+   "id": "17",
+   "desde": "Ahora, lo que hay que tener",
+   "fondo": "#FFF3C4",
+   "capas": [
+    {
+     "tipo": "sello",
+     "texto": "A TENER EN CUENTA",
+     "x": 800,
+     "y": 230,
+     "tam": 70,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "· Depende de las cadenas que tengas cerca",
+     "x": 800,
+     "y": 400,
+     "tam": 46,
+     "fuente": "mano",
+     "en": "depende de las cadenas"
+    },
+    {
+     "tipo": "texto",
+     "texto": "· Es una media de abril y mayo",
+     "x": 800,
+     "y": 520,
+     "tam": 46,
+     "fuente": "mano",
+     "en": "media de abril y mayo"
+    },
+    {
+     "tipo": "texto",
+     "texto": "· No recoge los efectos de la guerra de Irán",
+     "x": 800,
+     "y": 640,
+     "tam": 46,
+     "fuente": "mano",
+     "en": "guerra de Irán"
+    },
+    {
+     "tipo": "texto",
+     "texto": "· El ranking completo es de pago",
+     "x": 800,
+     "y": 760,
+     "tam": 46,
+     "fuente": "mano",
+     "en": "es de pago"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "encoge_hombros",
+     "x": 1650,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "fuente": "OCU, estudio de supermercados 2026 (25/9/2026)"
+  },
+  {
+   "id": "18",
+   "desde": "Así que, la próxima vez que vayas",
+   "fondo": "supermercado",
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 90,
+     "y": 120,
+     "w": 1230,
+     "h": 870,
+     "t": 0
+    },
+    {
+     "tipo": "texto",
+     "texto": "EL VIAJE DE TU COMPRA",
+     "x": 1010,
+     "y": 200,
+     "tam": 76,
+     "papel": true,
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "Tienda barata vs cara de tu ciudad:",
+     "x": 700,
+     "y": 400,
+     "tam": 52,
+     "fuente": "mano",
+     "en": "la tienda más barata y la más cara"
+    },
+    {
+     "tipo": "texto",
+     "texto": "≈ 1.300 € al año de media",
+     "x": 700,
+     "y": 540,
+     "tam": 72,
+     "color": "#2E8B57",
+     "en": "mil trescientos euros"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Bajan: productos económicos y marca propia",
+     "x": 700,
+     "y": 730,
+     "tam": 48,
+     "fuente": "mano",
+     "en": "bajan precios en productos"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Suben: marcas de fabricante",
+     "x": 700,
+     "y": 840,
+     "tam": 48,
+     "fuente": "mano",
+     "color": "#E0521B",
+     "en": "de fabricante suben"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "saluda",
+     "x": 1660,
+     "y": 1015,
+     "h": 500,
+     "mira": "izq",
+     "entra": "der",
+     "t": 0.2
+    }
+   ],
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "fuente": "OCU, estudio de supermercados 2026 (25/9/2026)"
+  },
+  {
+   "id": "19",
+   "desde": "No hay un supermercado más barato",
+   "fondo": "#FFF3C4",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "No hay un súper más barato\npara todo el mundo",
+     "x": 800,
+     "y": 320,
+     "tam": 76,
+     "t": 0.3
+    },
+    {
+     "tipo": "texto",
+     "texto": "¿Cuál es el más barato\ndonde tú vives?",
+     "x": 800,
+     "y": 640,
+     "tam": 70,
+     "color": "#E0521B",
+     "anim": "pop",
+     "rot": -2,
+     "en": "la pregunta ya no es"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "pensativo",
+     "x": 1650,
+     "y": 1015,
+     "h": 500,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "20",
+   "desde": "Aquí, cada semana, abrimos",
+   "fondo": "#F5B301",
+   "capas": [
+    {
+     "tipo": "mascota",
+     "pose": "saluda",
+     "x": 960,
+     "y": 1015,
+     "h": 560,
+     "entra": "abajo",
+     "t": 0.2
+    },
+    {
+     "tipo": "texto",
+     "texto": "TICKET MEDIO",
+     "x": 960,
+     "y": 170,
+     "tam": 150,
+     "anim": "pop",
+     "t": 0.3
+    },
+    {
+     "tipo": "texto",
+     "texto": "Cada semana, el ticket de algo que pagas todos los días",
+     "x": 960,
+     "y": 300,
+     "tam": 50,
+     "fuente": "mano",
+     "papel": true,
+     "t": 1.0
+    }
+   ],
+   "sin_marca": true
+  }
+ ]
+}

@@ -1,0 +1,129 @@
+{
+ "formato": "vertical",
+ "fondos": "../../fondos",
+ "musica": "../../audio/musica.mp3",
+ "musica_db": -26,
+ "cola": 1.5,
+ "salida": "../../output/SHORT_01_1310_euros.mp4",
+ "escenas": [
+  {
+   "id": "a",
+   "desde": "Entre el supermercado más barato",
+   "fondo": "pasillo_marca_blanca",
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 60,
+     "y": 360,
+     "w": 960,
+     "h": 700
+    },
+    {
+     "tipo": "texto",
+     "texto": "AHORRO AL AÑO",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 1310,
+     "x": 540,
+     "y": 560,
+     "tam": 190,
+     "sufijo": " €",
+     "color": "#2E8B57",
+     "t": 0.3
+    },
+    {
+     "tipo": "texto",
+     "texto": "de media entre el súper más barato\ny el más caro de tu ciudad",
+     "x": 540,
+     "y": 700,
+     "tam": 44,
+     "fuente": "mano",
+     "t": 0.6
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 4381,
+     "x": 540,
+     "y": 880,
+     "tam": 150,
+     "sufijo": " €",
+     "color": "#E0521B",
+     "en": "cuatro mil trescientos ochenta y uno"
+    },
+    {
+     "tipo": "texto",
+     "texto": "en Madrid",
+     "x": 540,
+     "y": 1000,
+     "tam": 50,
+     "fuente": "mano",
+     "en": "en Madrid"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "sorprendido",
+     "x": 880,
+     "y": 1310,
+     "h": 330,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "b",
+   "desde": "¿Y cuál es el más barato",
+   "fondo": "#FFF3C4",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "¿CUÁL ES EL MÁS BARATO?",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "Depende de\ndónde vivas",
+     "x": 540,
+     "y": 560,
+     "tam": 90,
+     "color": "#E0521B",
+     "anim": "pop",
+     "en": "Depende de dónde vivas"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Estudio OCU 2026 · 690 supermercados",
+     "x": 540,
+     "y": 900,
+     "tam": 44,
+     "fuente": "mano",
+     "t": 1.0
+    },
+    {
+     "tipo": "mascota",
+     "pose": "pensativo",
+     "x": 900,
+     "y": 1310,
+     "h": 300,
+     "t": 0.2
+    }
+   ]
+  }
+ ]
+}

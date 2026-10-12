@@ -1,0 +1,116 @@
+{
+ "n": 10,
+ "nombre": "el súper más barato (OCU 2026)",
+ "titulo": "¿Cuál es el súper más barato de España? Los datos de 690 supermercados",
+ "alternativas": [
+  "Entre el súper más barato y el más caro hay 1.310 € al año: los datos de la OCU",
+  "Lidl pasa de 18 a 60 ciudades como el más barato: el estudio de la OCU 2026"
+ ],
+ "miniatura": "¿EL SÚPER MÁS BARATO? 1.310 €",
+ "etiquetas": "súper más barato, supermercados más baratos 2026, OCU supermercados, Lidl Mercadona Aldi Dani, comparativa supermercados, cesta de la compra, precios supermercados, ahorrar en la compra, dónde comprar más barato, economía España, Ticket Medio",
+ "descripcion": "Entre el supermercado más barato y el más caro de tu ciudad, un hogar medio ahorra 1.310 € al año (hasta 4.381 € en Madrid). Abrimos el ticket del súper con el estudio de la OCU de 2026: 690 establecimientos en 38 ciudades y 244 productos, con los precios de abril y mayo. Qué cadenas son las más baratas, por qué Lidl pasa de 18 a 60 localidades, dónde bajan los precios (productos económicos y marca propia) y dónde suben (marcas de fabricante y frescos), y cuánto ahorras según tu ciudad.\n\nSolo usamos la parte pública del estudio de la OCU (el ranking completo por ciudades es de pago). Es una media de abril y mayo de 2026, no el precio de hoy ni de tu tienda, y la OCU avisa de que no recoge los efectos de la guerra de Irán. El supermercado más barato depende de las cadenas que tengas cerca. Las fuentes, en el comentario fijado.",
+ "capitulos": [
+  [
+   "Cuánto ahorras según dónde compres",
+   "Entre el supermercado más barato"
+  ],
+  [
+   "Cómo se hizo el estudio",
+   "Primero, cómo se hizo"
+  ],
+  [
+   "Ranking de cadenas",
+   "Vamos con el ranking de cadenas"
+  ],
+  [
+   "Lidl gana terreno",
+   "Pero la gran noticia"
+  ],
+  [
+   "Dónde se baja y dónde se sube",
+   "Y fíjate dónde se baja"
+  ],
+  [
+   "Frescos y los últimos cinco años",
+   "Eso sí, no todo baja"
+  ],
+  [
+   "Las ciudades",
+   "Ahora, las ciudades"
+  ],
+  [
+   "Lo que hay que tener en cuenta",
+   "Ahora, lo que hay que tener"
+  ],
+  [
+   "El ticket completo",
+   "Así que, la próxima vez que vayas"
+  ]
+ ],
+ "vistos": "Vídeos anteriores: Mercadona, Zara, El Corte Inglés, Lidl, la factura de la luz, Ryanair y las marcas blancas de Mercadona, con el mismo método.",
+ "hashtags": "#Supermercados #OCU #Ahorro",
+ "comentario": [
+  "· OCU, «Los supermercados más baratos de 2026» (25/9/2026; 690 establecimientos en 38 ciudades, 244 productos, abril y mayo de 2026): https://www.ocu.org/consumo-familia/supermercados/noticias/supermercados-mas-baratos-2026",
+  "· Índices por cadena, localidades, variaciones de la cesta, ahorros por ciudad y comparación desde 2021: parte pública del mismo estudio de la OCU. El ranking completo es de pago (socios).",
+  "· Lidl, la más barata en 60 localidades (18 el año anterior) y Mercadona duplicando las suyas: OCU y Directo al Paladar (30/9/2026).",
+  "· Los precios del estudio son una media de abril y mayo de 2026 y, según la OCU, no recogen los efectos de la guerra de Irán."
+ ],
+ "shorts": [
+  {
+   "id": "01",
+   "archivo": "SHORT_01_1310_euros.mp4",
+   "dia": "sábado 28/11",
+   "titulo": "Entre el súper más barato y el más caro: 1.310 € al año (4.381 en Madrid)",
+   "descripcion": "Según el estudio de la OCU de 2026 (690 establecimientos, 38 ciudades, 244 productos), el ahorro medio entre supermercados es de 1.310 € al año y puede superar los 4.200 € en algunas ciudades; en Madrid capital llega a 4.381 €.",
+   "hashtags": "#OCU #Supermercados #Ahorro"
+  },
+  {
+   "id": "02",
+   "archivo": "SHORT_02_ranking_cadenas.mp4",
+   "dia": "lunes 30/11",
+   "titulo": "El súper más barato que visitó la OCU no es lo que crees",
+   "descripcion": "Índices OCU 2026: Dani 100, Family Cash y Tifer 102, Alcampo y Supeco 103, Sánchez Romero 176. El establecimiento más barato visitado fue un Alcampo en un centro comercial de Aldaia (Valencia).",
+   "hashtags": "#OCU #Alcampo #Supermercados"
+  },
+  {
+   "id": "03",
+   "archivo": "SHORT_03_frescos_47.mp4",
+   "dia": "miércoles 2/12",
+   "titulo": "Los frescos suben un 4,7 %: el pescado, un 8,6 %",
+   "descripcion": "Según la OCU (abril de 2025 a mayo de 2026), los productos frescos suben un 4,7 % de media: pescados +8,6 %, carnes +3,7 %, frutas y verduras +3,5 %.",
+   "hashtags": "#OCU #CestaDeLaCompra #Precios"
+  },
+  {
+   "id": "04",
+   "archivo": "SHORT_04_marca_propia_baja.mp4",
+   "dia": "domingo 29/11",
+   "titulo": "Mercadona y Lidl bajan precios; las marcas de fabricante suben",
+   "descripcion": "Cesta económica: Mercadona −5,6 %, Lidl −4,7 %, Aldi −1,7 %. Cesta de marcas de fabricante: +2,5 % de media. Las grandes cadenas compiten con productos económicos y de marca propia. Fuente: OCU 2026.",
+   "hashtags": "#Mercadona #Lidl #OCU"
+  },
+  {
+   "id": "05",
+   "archivo": "SHORT_05_desde_2021.mp4",
+   "dia": "martes 1/12",
+   "titulo": "Desde 2021 la compra sube casi un 40 %: café +142 %, huevos +135 %",
+   "descripcion": "Desde 2021, los productos de la Cesta OCU han subido un 39,5 % de media; el café molido económico un 142 % y los huevos M un 135 %. Solo cuestan menos el detergente, el yogur natural y la bebida de arroz. Fuente: OCU 2026.",
+   "hashtags": "#OCU #Inflación #CestaDeLaCompra"
+  },
+  {
+   "id": "06",
+   "archivo": "SHORT_06_ciudades.mp4",
+   "dia": "jueves 3/12",
+   "titulo": "Las ciudades con el súper más caro y más barato de España (OCU)",
+   "descripcion": "Índice OCU de precios por localidad: Torrent 100 (la más barata), Villarreal y Santa Pola 101; las más caras, Getxo, Pozuelo de Alarcón y Majadahonda (114). Capitales: Barcelona 110, Bilbao y San Sebastián 109.",
+   "hashtags": "#OCU #Supermercados #Precios"
+  },
+  {
+   "id": "07",
+   "archivo": "SHORT_07_indice_ocu.mp4",
+   "dia": "viernes 4/12",
+   "titulo": "Cómo se compara el precio de 690 supermercados (el índice OCU)",
+   "descripcion": "La OCU visitó 690 establecimientos en 38 ciudades y registró 244 productos; la tienda más barata vale 100 y un índice 110 significa un 10 % más caro. Abril y mayo de 2026.",
+   "hashtags": "#OCU #Supermercados #Ahorro"
+  }
+ ]
+}

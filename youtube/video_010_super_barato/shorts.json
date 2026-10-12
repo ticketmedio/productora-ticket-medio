@@ -1,0 +1,81 @@
+{
+ "shorts": [
+  {
+   "id": "01",
+   "titulo": "Entre el súper más barato y el más caro: 1.310 € al año (4.381 en Madrid)",
+   "tramos": [
+    [
+     "Entre el supermercado más barato",
+     "Depende de dónde vivas"
+    ]
+   ],
+   "intro": null
+  },
+  {
+   "id": "02",
+   "titulo": "El supermercado más barato que visitó la OCU no es lo que crees",
+   "tramos": [
+    [
+     "Vamos con el ranking de cadenas",
+     "en Valencia"
+    ]
+   ],
+   "intro": null
+  },
+  {
+   "id": "03",
+   "titulo": "Los frescos suben un 4,7 %: el pescado, un 8,6 %",
+   "tramos": [
+    [
+     "Eso sí, no todo baja",
+     "un tres coma cinco"
+    ]
+   ],
+   "intro": "Según la OCU, los productos frescos han subido un cuatro coma siete por ciento en un año."
+  },
+  {
+   "id": "04",
+   "titulo": "Mercadona y Lidl bajan precios; las marcas de fabricante suben",
+   "tramos": [
+    [
+     "Y fíjate dónde se baja",
+     "La marca de fabricante, mientras tanto, sube"
+    ]
+   ],
+   "intro": "¿Dónde han bajado precios las grandes cadenas y dónde no?"
+  },
+  {
+   "id": "05",
+   "titulo": "Desde 2021 la compra sube casi un 40 %: café +142 %, huevos +135 %",
+   "tramos": [
+    [
+     "Y si miramos más atrás",
+     "la bebida de arroz"
+    ]
+   ],
+   "intro": "Desde dos mil veintiuno, la cesta de la compra ha subido casi un cuarenta por ciento."
+  },
+  {
+   "id": "06",
+   "titulo": "Las ciudades con el súper más caro y más barato de España (OCU)",
+   "tramos": [
+    [
+     "Ahora, las ciudades",
+     "Bilbao y San Sebastián"
+    ]
+   ],
+   "intro": "¿En qué ciudades españolas es más caro el supermercado?"
+  },
+  {
+   "id": "07",
+   "titulo": "Cómo se compara el precio de 690 supermercados (el índice OCU)",
+   "tramos": [
+    [
+     "Primero, cómo se hizo",
+     "es un diez por ciento más cara"
+    ]
+   ],
+   "intro": "¿Cómo se comparan los precios de seiscientos noventa supermercados?"
+  }
+ ]
+}

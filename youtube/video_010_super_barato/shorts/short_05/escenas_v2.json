@@ -1,0 +1,117 @@
+{
+ "formato": "vertical",
+ "fondos": "../../fondos",
+ "musica": "../../audio/musica.mp3",
+ "musica_db": -26,
+ "cola": 1.5,
+ "salida": "../../output/SHORT_05_desde_2021.mp4",
+ "escenas": [
+  {
+   "id": "a",
+   "desde": "Desde dos mil veintiuno",
+   "fondo": "pasillo_marca_blanca",
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 60,
+     "y": 360,
+     "w": 960,
+     "h": 640
+    },
+    {
+     "tipo": "texto",
+     "texto": "DESDE 2021",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 40,
+     "x": 540,
+     "y": 560,
+     "tam": 190,
+     "prefijo": "≈ +",
+     "sufijo": " %",
+     "color": "#E0521B",
+     "t": 0.4
+    },
+    {
+     "tipo": "texto",
+     "texto": "sube la compra (Cesta OCU)",
+     "x": 540,
+     "y": 700,
+     "tam": 48,
+     "fuente": "mano",
+     "t": 0.6
+    },
+    {
+     "tipo": "mascota",
+     "pose": "sorprendido",
+     "x": 880,
+     "y": 1310,
+     "h": 360,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "b",
+   "desde": "El café molido económico",
+   "fondo": "#F4E9D0",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "LO QUE MÁS HA SUBIDO",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "Café molido +142 %",
+     "x": 540,
+     "y": 520,
+     "tam": 66,
+     "en": "El café molido económico"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Huevos M +135 %",
+     "x": 540,
+     "y": 700,
+     "tam": 66,
+     "en": "Los huevos M"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Solo bajan: detergente, yogur natural\ny bebida de arroz",
+     "x": 540,
+     "y": 900,
+     "tam": 44,
+     "fuente": "mano",
+     "en": "Solo tres productos"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "preocupado",
+     "x": 920,
+     "y": 1310,
+     "h": 220,
+     "t": 0.2
+    }
+   ]
+  }
+ ]
+}

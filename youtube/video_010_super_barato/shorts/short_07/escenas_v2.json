@@ -1,0 +1,123 @@
+{
+ "formato": "vertical",
+ "fondos": "../../fondos",
+ "musica": "../../audio/musica.mp3",
+ "musica_db": -26,
+ "cola": 1.5,
+ "salida": "../../output/SHORT_07_indice_ocu.mp4",
+ "escenas": [
+  {
+   "id": "a",
+   "desde": "¿Cómo se comparan los precios",
+   "fondo": "calle_comercial",
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "capas": [
+    {
+     "tipo": "panel",
+     "x": 60,
+     "y": 360,
+     "w": 960,
+     "h": 700
+    },
+    {
+     "tipo": "texto",
+     "texto": "ASÍ SE MIDIÓ",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 690,
+     "x": 540,
+     "y": 520,
+     "tam": 130,
+     "t": 0.3
+    },
+    {
+     "tipo": "texto",
+     "texto": "establecimientos · 38 ciudades",
+     "x": 540,
+     "y": 630,
+     "tam": 42,
+     "fuente": "mano",
+     "t": 0.5
+    },
+    {
+     "tipo": "cifra",
+     "hasta": 244,
+     "x": 540,
+     "y": 800,
+     "tam": 130,
+     "en": "doscientos cuarenta y cuatro"
+    },
+    {
+     "tipo": "texto",
+     "texto": "productos (marcas y marcas blancas)",
+     "x": 540,
+     "y": 910,
+     "tam": 42,
+     "fuente": "mano",
+     "en": "doscientos cuarenta y cuatro"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "lupa",
+     "x": 900,
+     "y": 1310,
+     "h": 320,
+     "entra": "der",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "id": "b",
+   "desde": "Con eso construye un índice",
+   "fondo": "#F4E9D0",
+   "capas": [
+    {
+     "tipo": "texto",
+     "texto": "EL ÍNDICE",
+     "x": 540,
+     "y": 220,
+     "tam": 72,
+     "papel": true,
+     "t": -1,
+     "dur": 0.01
+    },
+    {
+     "tipo": "texto",
+     "texto": "La más barata = 100",
+     "x": 540,
+     "y": 520,
+     "tam": 66,
+     "en": "la tienda más barata vale cien"
+    },
+    {
+     "tipo": "texto",
+     "texto": "Índice 110 =\n10 % más cara",
+     "x": 540,
+     "y": 760,
+     "tam": 76,
+     "color": "#E0521B",
+     "en": "índice ciento diez"
+    },
+    {
+     "tipo": "mascota",
+     "pose": "normal",
+     "x": 900,
+     "y": 1310,
+     "h": 250,
+     "t": 0.2
+    }
+   ]
+  }
+ ]
+}
