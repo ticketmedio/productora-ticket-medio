@@ -2346,12 +2346,12 @@
       "who": "claude",
       "kind": "material",
       "project": "redes",
-      "status": "pendiente",
+      "status": "hecho",
       "platforms": [
         "Instagram",
         "Facebook"
       ],
-      "notes": "Con datos verificados y fuente, sobre los temas de los Reels de esas semanas. Se programan en pub-pepa-lote-3.",
+      "notes": "Con datos verificados y fuente, sobre los temas de los Reels de esas semanas. Se programan en pub-pepa-lote-3. HECHO 12/10: carruseles 007–015 creados (26/10 → 14/12) en redes/pepa_pita/carruseles/. Se programan en pub-carruseles-2 y -3.",
       "createdAt": "2026-09-30T10:22:32",
       "createdBy": "claude",
       "updatedAt": "2026-09-30T12:55:22.000Z",
@@ -2364,12 +2364,12 @@
       "who": "claude",
       "kind": "material",
       "project": "redes",
-      "status": "pendiente",
+      "status": "hecho",
       "platforms": [
         "Instagram",
         "Facebook"
       ],
-      "notes": "Desde noviembre, 1 a la semana (decisión del 30/09), salvo que los datos de octubre demuestren que traen seguidores: mirarlo antes de hacerlos. Se programan en pub-pepa-lote-4.",
+      "notes": "Desde noviembre, 1 a la semana (decisión del 30/09), salvo que los datos de octubre demuestren que traen seguidores: mirarlo antes de hacerlos. Se programan en pub-pepa-lote-4. HECHO 12/10: carruseles 007–015 creados (26/10 → 14/12) en redes/pepa_pita/carruseles/. Se programan en pub-carruseles-2 y -3.",
       "createdAt": "2026-09-30T10:22:32",
       "createdBy": "claude",
       "updatedAt": "2026-09-30T12:55:22.000Z",
@@ -2382,12 +2382,12 @@
       "who": "claude",
       "kind": "material",
       "project": "redes",
-      "status": "pendiente",
+      "status": "hecho",
       "platforms": [
         "Instagram",
         "Facebook"
       ],
-      "notes": "1 a la semana. Se programan en pub-pepa-lote-5.",
+      "notes": "1 a la semana. Se programan en pub-pepa-lote-5. HECHO 12/10: carruseles 007–015 creados (26/10 → 14/12) en redes/pepa_pita/carruseles/. Se programan en pub-carruseles-2 y -3.",
       "createdAt": "2026-09-30T10:22:32",
       "createdBy": "claude",
       "updatedAt": "2026-09-30T12:55:22.000Z",
@@ -2846,6 +2846,42 @@
           "createdAt": "2026-10-12T12:56:18.363Z"
         }
       ]
+    },
+    {
+      "id": "pub-carruseles-2",
+      "title": "Programar 4 carruseles de Pepa (26/10, 28/10, 2/11 y 9/11) en Meta Business Suite (20 min)",
+      "date": "2026-10-21",
+      "who": "tu",
+      "kind": "publicacion",
+      "project": "redes",
+      "status": "pendiente",
+      "platforms": [
+        "Instagram",
+        "Facebook"
+      ],
+      "notes": "Carpetas en Descargas › faceless › redes › pepa_pita › carruseles: 007_otono_castanas_calabaza → lun 26/10 · 008_setas_mitos → mié 28/10 · 009_pan_duro_legumbres → lun 2/11 · 010_etiquetas_huevos_suelo → lun 9/11.\nAntes de dar cada una por hecha, lista de comprobación de redes/LISTA_COMPROBACION.md (texto pegado entero, 5 hashtags como máximo, fecha/mes/hora, cuenta y archivo correctos). Paso a paso en COMO_PUBLICAR_UN_CARRUSEL.txt (misma carpeta). «Crear publicación» (no «Crear reel»), marcando Facebook e Instagram, subiendo todas las imágenes de la carpeta y pegando el TEXTO_PUBLICACION.txt. Todos a las 13:00.",
+      "createdAt": "2026-10-12T16:05:53",
+      "createdBy": "claude",
+      "updatedAt": "2026-10-12T16:05:53",
+      "comentarios": []
+    },
+    {
+      "id": "pub-carruseles-3",
+      "title": "Programar 5 carruseles de Pepa (16/11, 23/11, 30/11, 7/12 y 14/12) en Meta Business Suite (25 min)",
+      "date": "2026-11-12",
+      "who": "tu",
+      "kind": "publicacion",
+      "project": "redes",
+      "status": "pendiente",
+      "platforms": [
+        "Instagram",
+        "Facebook"
+      ],
+      "notes": "Carpetas: 011_congelar_bien → lun 16/11 · 012_sobras_taper → lun 23/11 · 013_embarazo_pescado_navidad → lun 30/11 · 014_mesa_navidad → lun 7/12 (festivo-puente: se programa hoy, no ese día) · 015_ninos_atragantamiento → lun 14/12.\nAntes de dar cada una por hecha, lista de comprobación de redes/LISTA_COMPROBACION.md (texto pegado entero, 5 hashtags como máximo, fecha/mes/hora, cuenta y archivo correctos). Paso a paso en COMO_PUBLICAR_UN_CARRUSEL.txt (misma carpeta). «Crear publicación» (no «Crear reel»), marcando Facebook e Instagram, subiendo todas las imágenes de la carpeta y pegando el TEXTO_PUBLICACION.txt. Todos a las 13:00.",
+      "createdAt": "2026-10-12T16:05:53",
+      "createdBy": "claude",
+      "updatedAt": "2026-10-12T16:05:53",
+      "comentarios": []
     }
   ],
   "mensajes": [
