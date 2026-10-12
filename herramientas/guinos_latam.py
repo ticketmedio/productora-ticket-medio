@@ -15,13 +15,13 @@ G = {
 "019": ("Y si me ves desde Latinoamérica, mira qué frase pone tu etiqueta: «consumir preferentemente antes de» o «fecha de vencimiento». En Estados Unidos, el Departamento de Agricultura aclara que la fecha de «mejor si se usa antes de» es de calidad, no de seguridad.",
         ("no de seguridad", "CALIDAD, NO SEGURIDAD", "«Best if Used By» · USDA (EE. UU.)"),
         USDA_LEFT.replace("Leftovers and Food Safety", "Food Product Dating") + "«\"Best if Used By/Before\" … is not a purchase or safety date»; solo en la leche de fórmula infantil la fecha es de seguridad. Fecha de publicación del documento no indicada en la copia."),
-"020": ("Y si en tu casa le dices freezer o congelador, da igual: el Departamento de Agricultura de Estados Unidos dice que, a menos dieciocho grados, la comida es segura casi indefinidamente. Los tiempos son solo por calidad.",
+"020": ("Y si me ves desde Argentina, Paraguay o Colombia, freezer o congelador, da igual: el Departamento de Agricultura de Estados Unidos dice que, a menos dieciocho grados, la comida es segura casi indefinidamente. Los tiempos son solo por calidad.",
         ("segura casi indefinidamente", "−18 °C: SEGURA SIEMPRE", "Los tiempos son por calidad · USDA"),
         USDA_CONG + "«Food stored constantly at 0 °F will always be safe. Only the quality suffers with lengthy freezer storage.» (0 °F ≈ −18 °C)."),
-"021": ("Y si en tu país lo llamas lonchera, fiambrera o vianda, da igual. Con más de treinta y dos grados, como en un día de verano, el Departamento de Agricultura de Estados Unidos baja el límite a una hora.",
+"021": ("Y si me ves desde Argentina, Paraguay o Colombia, vianda, lonchera o fiambrera, da igual. Con más de treinta y dos grados, como en un día de verano, el Departamento de Agricultura de Estados Unidos baja el límite a una hora.",
         ("baja el límite a una hora", "CON CALOR: 1 HORA", "Más de 32 °C (90 °F) · USDA (EE. UU.)"),
         USDA_LEFT + "«Throw away all perishable foods that have been left in room temperature for more than 2 hours (1 hour if the temperature is over 90° F, such as at an outdoor picnic during summer).» (90 °F ≈ 32 °C)."),
-"024": ("Y si me ves desde Latinoamérica, da igual que le digas refrigerador, nevera o heladera. El Departamento de Agricultura de Estados Unidos añade otra opción segura: en agua fría, en una bolsa bien cerrada, cambiando el agua cada treinta minutos, y cocinándolo enseguida.",
+"024": ("Y si me ves desde Argentina o Paraguay, heladera; desde Colombia, nevera. Da igual. El Departamento de Agricultura de Estados Unidos añade otra opción segura: en agua fría, en una bolsa bien cerrada, cambiando el agua cada treinta minutos, y cocinándolo enseguida.",
         ("cada treinta minutos", "AGUA FRÍA: CAMBIA CADA 30 MIN", "Bolsa cerrada y cocinar ya · USDA (EE. UU.)"),
         USDA_CONG + "«There are three safe ways to thaw food: in the refrigerator, in cold water, or in the microwave»; en agua fría: bolsa a prueba de fugas y «Change the water every 30 minutes. After thawing, cook immediately»."),
 "026": ("Y el Departamento de Agricultura de Estados Unidos da tiempos muy parecidos: carne molida de tres a cuatro meses, y fiambres, de uno a dos.",
@@ -39,13 +39,13 @@ G = {
 "030": ("La FDA de Estados Unidos añade un truco: lávate las manos con jabón normal, no hace falta el antibacteriano, durante al menos veinte segundos. Para medirlos, tararea dos veces el «Cumpleaños feliz».",
         ("tararea dos veces", "20 SEGUNDOS: 2 × «CUMPLEAÑOS FELIZ»", "Jabón normal · FDA (EE. UU.)"),
         FDA_4 + "«Use plain soap and water—skip the antibacterial soap—and scrub … for at least 20 seconds. Need a timer? Hum the “Happy Birthday” song from beginning to end twice.» Y la FDA (Safe Food Handling): si usas paños de tela, lávalos a menudo en el ciclo caliente."),
-"031": ("La FDA de Estados Unidos lo resume en cuatro verbos: limpiar, separar, cocinar y enfriar. Si me ves desde Latinoamérica, dime de qué país.",
+"031": ("La FDA de Estados Unidos lo resume en cuatro verbos: limpiar, separar, cocinar y enfriar. Si me ves desde Argentina, Colombia o Paraguay, cuéntame de qué ciudad.",
         ("cuatro verbos", "LIMPIAR · SEPARAR · COCINAR · ENFRIAR", "Los 4 pasos · FDA (EE. UU.)"),
         FDA_SH + "«follow these four simple steps: clean, separate, cook, and chill». Cocinar: «Color and texture are unreliable indicators of safety. Using a food thermometer is the only way to ensure the safety of meat, poultry, seafood, and egg products.»"),
-"040": ("Y ojo si tu Navidad es en verano, como en el hemisferio sur: con más de treinta y dos grados, el límite baja a una hora.",
+"040": ("Y ojo si me ves desde Argentina o Paraguay: tu Navidad es en pleno verano. Con más de treinta y dos grados, el límite baja a una hora.",
         ("baja a una hora", "CON MÁS DE 32 °C: 1 HORA", "Navidad en verano · USDA (EE. UU.)"),
         USDA_LEFT + "«Throw away all perishable foods that have been left in room temperature for more than 2 hours (1 hour if the temperature is over 90° F …).» (90 °F ≈ 32 °C)."),
-"041": ("Y si celebras la Navidad en pleno verano, como en el hemisferio sur, con más de treinta y dos grados el tiempo fuera del frío baja a una hora.",
+"041": ("Y si me ves desde Argentina o Paraguay, tu Navidad es en pleno verano: con más de treinta y dos grados, el tiempo fuera del frío baja a una hora.",
         ("baja a una hora", "NAVIDAD EN VERANO: 1 HORA", "Más de 32 °C (90 °F) · USDA (EE. UU.)"),
         USDA_LEFT + "«… (1 hour if the temperature is over 90° F, such as at an outdoor picnic during summer).» FDA (Safe Food Handling): «Refrigerate within 1 hour if the temperature outside is above 90° F.»"),
 "044": ("Ojo: la FDA de Estados Unidos va más allá y dice que el color y la textura no son indicadores fiables, y que solo un termómetro lo asegura: sesenta y tres grados en cordero y cerdo, con tres minutos de reposo; setenta y uno en carne molida.",
@@ -62,7 +62,7 @@ G = {
         USDA_CONG + "«Raw or cooked meat, poultry or casseroles can be cooked or reheated from the frozen state. However, it will take approximately one and a half times as long to cook.» Algunos productos precocinados rellenos DEBEN cocinarse congelados: leer la etiqueta."),
 }
 CIERRE = "Sígueme, que aquí aprendemos todos."
-LATAM_PUB = "🌎 ¿Me ves desde Latinoamérica? Cuéntame de qué país y cómo le llamáis a esto en tu casa 👇\n\n"
+LATAM_PUB = "🌎 ¿Me ves desde Argentina, Paraguay, Colombia u otro país? Cuéntame cómo le llamáis a esto en tu casa 👇\n\n"
 ids = sys.argv[1:] or sorted(G)
 for n in ids:
     f = glob.glob(os.path.join(LOTE, f"{n}_*.json"))[0]
