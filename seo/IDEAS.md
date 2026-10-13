@@ -2,6 +2,20 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 13/10/2026 (mañana)
+
+**Ejemplos que funcionan (datos públicos, 13/10/2026)**
+- VETERINARIO GRATIS (2,07 M suscriptores): «20 productos Hacendado: ¿quién los fabrica realmente?», 193.751 (11:03).
+- Emilio Salazar: «17 engaños del supermercado que nunca notaste», 576.470 (23:13).
+- Bruno Peluch (5,91 mil suscriptores): «El sistema que hace imposible repetir HAWKERS», 11 mil; «Por qué los bancos crearon Bizum», 2,9 mil en 1 día.
+
+**Ideas**
+1. **Vídeo largo — «¿Quién fabrica de verdad las marcas blancas de Mercadona?»** (sigue vigente).
+2. **Short — misma cesta, dos supermercados** con el resultado primero (RTVE: cesta +40 % en cinco años).
+3. **Carrusel de Pepa — castañas y sobras de otoño** (fuente AESAN); Instagram penaliza ya también carruseles reciclados: contenido propio.
+
+**Mejora aplicable:** título de revelación con dato fuerte al inicio. (`yt_video.py` sigue con 403.)
+
 ## 12/10/2026 (tarde)
 
 **Ejemplos que funcionan (datos públicos, 12/10/2026)**
