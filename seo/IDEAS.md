@@ -2,6 +2,20 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 14/10/2026 (mañana)
+
+**Ejemplos que funcionan (datos públicos, 14/10/2026)**
+- Bruno Peluch (≈5,9 mil suscriptores): «El sistema que hace imposible copiar a Zara», 301.628 (10:49).
+- VETERINARIO GRATIS (2,06 M): «¿Quién fabrica las marcas blancas de Lidl, Carrefour y Dia?», 163.964 (12:10).
+- La Despensa Prohibida: «La MENTIRA de la marca blanca: quién fabrica los productos de Lidl», 43.776.
+
+**Ideas**
+1. **Vídeo largo — «¿Quién fabrica de verdad las marcas blancas de Mercadona?»** (sigue vigente).
+2. **Short — misma cesta, dos supermercados**, resultado primero.
+3. **Vídeo largo — «Por qué tu banco te cobra comisiones aunque no uses nada»**: solo hay contenido de hace años (≤19 mil visualizaciones).
+
+**Mejora aplicable:** dato fuerte en título y primeros segundos; los clones sin dato propio se quedan en 4–172. (`yt_video.py` sigue con 403.)
+
 ## 13/10/2026 (tarde)
 
 **Ejemplos que funcionan (datos públicos, 13/10/2026)**
