@@ -2,6 +2,19 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 14/10/2026 (tarde)
+
+**Ejemplos que funcionan (datos públicos, 14/10/2026)**
+- Bruno Peluch (≈5,9 mil suscriptores): «El sistema que hace imposible copiar a Zara», 301.827 (10:49); «¿Nos están engañando? La verdad sobre el cambio de nombre de CEPSA», 163 mil; «La DISCOTECA más famosa del MUNDO», 154 mil.
+- CompraSExpuestas: «Mercadona baja un 5,6 % lo barato; las marcas suben 2,5 %», 171 (tema OCU sin explotar).
+
+**Ideas**
+1. **Vídeo largo — «¿Quién fabrica de verdad las marcas blancas de Mercadona?»** (sigue vigente).
+2. **Short — misma cesta, dos supermercados**, resultado primero.
+3. **Vídeo largo — «¿Nos están engañando con [cambio de nombre/marca española]?»**: título de sospecha con dato propio verificable.
+
+**Mejora aplicable:** título de sospecha con dato fuerte al inicio. (`yt_video.py` falla por red.)
+
 ## 14/10/2026 (mañana)
 
 **Ejemplos que funcionan (datos públicos, 14/10/2026)**
