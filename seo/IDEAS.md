@@ -2,6 +2,19 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 15/10/2026 (tarde)
+
+**Ejemplos que funcionan (datos públicos, 15/10/2026)**
+- VETERINARIO GRATIS (2,06 M): «¿Quién fabrica las marcas blancas de Lidl, Carrefour y Dia?», 165.744 (12:10).
+- Bruno Peluch (≈5,94 mil suscriptores): «¿Nos están engañando? La verdad sobre el cambio de nombre de CEPSA», 165 mil; «Por qué los bancos crearon Bizum (y no fue por ti)», 8,6 mil en 4 días.
+
+**Ideas**
+1. **Vídeo largo — «¿Quién fabrica de verdad las marcas blancas de Mercadona?»** (sigue vigente).
+2. **Vídeo largo — «¿Nos están engañando con [cambio de marca española]?»**.
+3. **Short — misma cesta, dos supermercados**, resultado primero.
+
+**Mejora aplicable:** título de paradoja o sospecha con dato fuerte al inicio. (`yt_video.py` sigue con 403.)
+
 ## 15/10/2026 (mañana)
 
 **Ejemplos que funcionan (datos públicos, 15/10/2026)**
