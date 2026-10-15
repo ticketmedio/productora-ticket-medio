@@ -2,6 +2,20 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 15/10/2026 (mañana)
+
+**Ejemplos que funcionan (datos públicos, 15/10/2026)**
+- Bruno Peluch (≈5,9 mil suscriptores): «El sistema que hace imposible copiar a Zara», 301.954 (10:49); clon sin dato propio: 173.
+- Demand Lab (≈2,45 mil suscriptores): «¿Cuánto le queda a El Corte Inglés?», 203 mil; «¿Qué pasó con Telepizza?», 90 mil.
+- Marc Vidal: «Lo que están haciendo los supermercados con tus datos es una locura», 701.701 (19:28).
+
+**Ideas**
+1. **Vídeo largo — «¿Quién fabrica de verdad las marcas blancas de Mercadona?»** (sigue vigente).
+2. **Vídeo largo — «¿Cuánto le queda a [empresa española conocida]?»**: pregunta con dato central.
+3. **Short — misma cesta, dos supermercados**, resultado primero.
+
+**Mejora aplicable:** «El sistema que…» o sospecha, con el dato fuerte en título y primeros segundos. (`yt_video.py` sigue con 403.)
+
 ## 14/10/2026 (tarde)
 
 **Ejemplos que funcionan (datos públicos, 14/10/2026)**
