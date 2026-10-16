@@ -2,6 +2,21 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 16/10/2026 (mañana)
+
+**Ejemplos que funcionan (datos públicos, 16/10/2026)**
+- Bruno Peluch (≈5,9 mil suscriptores): «El sistema que hace imposible copiar a Zara», 302.146 (10:49).
+- Demand Lab (≈2,45 mil suscriptores): «¿Cuánto le queda a El Corte Inglés?», 203 mil; «¿Qué pasó con Telepizza?», 90 mil.
+- Finanzas para todos: «15 ENGAÑOS DE LOS SUPERMERCADOS», 633.028 (18:11).
+- VETERINARIO GRATIS (2,06 M): «¿Quién fabrica las marcas blancas de Lidl, Carrefour y Dia?», 166.142.
+
+**Ideas**
+1. **Vídeo largo — «¿Quién fabrica de verdad las marcas blancas de Mercadona?»** (sigue vigente).
+2. **Vídeo largo — «El sistema que hace que tu banco te cobre aunque no uses nada»**: solo hay contenido antiguo.
+3. **Short — misma cesta, dos supermercados**, resultado primero.
+
+**Mejora aplicable:** título de sospecha o «el sistema que…» con dato fuerte al inicio. (`yt_video.py` falla con 403 desde la nube.)
+
 ## 15/10/2026 (tarde)
 
 **Ejemplos que funcionan (datos públicos, 15/10/2026)**
