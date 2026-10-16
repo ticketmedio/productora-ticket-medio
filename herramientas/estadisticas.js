@@ -43,6 +43,15 @@ const PAGINAS = {
 
 const PISTAS_LOGIN = /(iniciar sesi[oó]n|log in|sign in|inicia sesi[oó]n|accounts\.google\.com|\/login)/i;
 
+async function evaluar(pagina, fn) {  // las páginas que redirigen destruyen el contexto: reintentar
+  for (let i = 0; i < 4; i++) {
+    try { return await pagina.evaluate(fn); } catch (e) {
+      if (!/context was destroyed|Target closed|navigation/i.test(e.message) || i === 3) throw e;
+      await new Promise(r => setTimeout(r, 4000));
+    }
+  }
+}
+
 async function capturar(pagina, nombre, url) {
   try {
     await pagina.goto(url, { waitUntil: 'networkidle2', timeout: 60000 });
@@ -50,7 +59,7 @@ async function capturar(pagina, nombre, url) {
   await new Promise(r => setTimeout(r, 6000)); // gráficos y tablas cargan tarde
   // las listas largas (TikTok, Meta) cargan más filas al bajar: bajamos hasta el final
   for (let i = 0; i < 15; i++) {
-    const alto = await pagina.evaluate(() => {
+    const alto = await evaluar(pagina, () => {
       const caja = [...document.querySelectorAll('*')].filter(e => e.scrollHeight > e.clientHeight + 50 &&
         /(auto|scroll)/.test(getComputedStyle(e).overflowY)).sort((a, b) => b.scrollHeight - a.scrollHeight)[0];
       (caja || document.scrollingElement).scrollTop = 1e9;
@@ -58,12 +67,12 @@ async function capturar(pagina, nombre, url) {
       return (caja || document.scrollingElement).scrollHeight;
     });
     await new Promise(r => setTimeout(r, 1500));
-    const nuevo = await pagina.evaluate(() => document.body.innerText.length);
+    const nuevo = await evaluar(pagina, () => document.body.innerText.length);
     if (i > 0 && nuevo === capturar._ultimo && alto === capturar._alto) break;
     capturar._ultimo = nuevo; capturar._alto = alto;
   }
   const final = pagina.url();
-  const texto = await pagina.evaluate(() => document.body ? document.body.innerText : '');
+  const texto = await evaluar(pagina, () => document.body ? document.body.innerText : '');
   fs.writeFileSync(path.join(SALIDA, nombre + '.txt'), `URL: ${final}\n\n${texto}`);
   await pagina.screenshot({ path: path.join(SALIDA, nombre + '.png'), fullPage: true });
   const sinSesion = PISTAS_LOGIN.test(final) || (texto.length < 1500 && PISTAS_LOGIN.test(texto));
