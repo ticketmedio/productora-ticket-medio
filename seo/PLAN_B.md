@@ -10,3 +10,6 @@ Solo datos públicos desde la nube; el orden es provisional hasta tener estadís
 ## Señales para cambiar
 - Pepa: alcance y porcentaje visto de Reels, envíos por mensaje, seguidores nuevos por semana.
 - Economía: porcentaje visto de Shorts y clics a vídeo largo.
+
+## Revisión 16/10/2026 (viernes, tarde)
+Sin estadísticas privadas de Pepa el orden no cambia: 1) Shorts/Reels de economía de Ticket Medio (hueco público en Mercadona: 17–175 visualizaciones en vídeos del tema); 2) subnicho de cocina de temporada; 3) otro personaje. Lo nuestro: canal en 4 suscriptores, largo nuevo en 0 visualizaciones; el Short sigue siendo lo mejor.

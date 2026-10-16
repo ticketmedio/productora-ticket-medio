@@ -2,6 +2,20 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 16/10/2026 (tarde)
+
+**Ejemplos que funcionan (datos públicos, 16/10/2026)**
+- Finanzas para todos: «15 ENGAÑOS DE LOS SUPERMERCADOS», 633.039 (18:11).
+- Clon sin dato propio: «17 ENGAÑOS del SUPERMERCADO que NUNCA NOTASTE», 1 visualización.
+- «Cómo gana dinero Mercadona» (varios canales): 17–175; tema sin resolver.
+
+**Ideas**
+1. **Vídeo largo — «¿Quién fabrica de verdad las marcas blancas de Mercadona?»** (sigue vigente).
+2. **Short — misma cesta, dos supermercados**, resultado primero.
+3. **Carrusel de Pepa — castañas y dulces de Todos los Santos** (fuente oficial, guiño latino).
+
+**Mejora aplicable:** dato propio y fuerte en título y primeros segundos. (`yt_video.py` sigue con 403.)
+
 ## 16/10/2026 (mañana)
 
 **Ejemplos que funcionan (datos públicos, 16/10/2026)**
