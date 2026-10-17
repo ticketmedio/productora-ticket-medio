@@ -2,6 +2,20 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 17/10/2026 (mañana)
+
+**Ejemplos que funcionan (datos públicos, 17/10/2026)**
+- Bruno Peluch (≈5,95 mil suscriptores): «El sistema que hace imposible copiar a Zara», 302 mil; «¿Nos están engañando? … CEPSA», 167 mil.
+- VETERINARIO GRATIS (2,06 M): «¿Quién fabrica las marcas blancas de Lidl, Carrefour y Dia?», 166.605 (12:10).
+- «Cómo gana dinero un supermercado» (Empire Decoded y otro): 254 y 46; tema sin resolver.
+
+**Ideas**
+1. **Vídeo largo — «¿Quién fabrica de verdad las marcas blancas de Mercadona?»** (sigue vigente).
+2. **Short — misma cesta, dos supermercados**, resultado primero.
+3. **Carrusel de Pepa — castañas y dulces de Todos los Santos** (fuente oficial, guiño latino).
+
+**Mejora aplicable:** título de sospecha o «el sistema que…» con el dato fuerte al inicio. (`yt_video.py`: sin momentos más vistos por pocas visitas.)
+
 ## 16/10/2026 (tarde)
 
 **Ejemplos que funcionan (datos públicos, 16/10/2026)**
