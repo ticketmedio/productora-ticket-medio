@@ -11,74 +11,62 @@
    "imagen": "busto"
   },
   {
-   "desde": 4.1,
+   "desde": 3.72,
    "imagen": "exp_sorprendida"
   },
   {
-   "desde": 7.98,
+   "desde": 7.95,
    "imagen": "pose_senala"
   },
   {
-   "desde": 13.18,
+   "desde": 11.35,
    "imagen": "busto"
   },
   {
-   "desde": 18.98,
+   "desde": 15.05,
    "imagen": "exp_pensativa"
   },
   {
-   "desde": 22.75,
+   "desde": 19.04,
    "imagen": "pose_sartenes"
   },
   {
-   "desde": 27.12,
+   "desde": 24.12,
    "imagen": "busto"
   },
   {
-   "desde": 31.86,
+   "desde": 32.41,
    "imagen": "exp_preocupada"
   },
   {
-   "desde": 41.18,
+   "desde": 36.41,
    "imagen": "exp_riendo"
   },
   {
-   "desde": 46.72,
+   "desde": 41.72,
    "imagen": "busto"
   },
   {
-   "desde": 52.6,
-   "imagen": "pose_senala"
-  },
-  {
-   "desde": 59.4,
-   "imagen": "exp_contenta"
-  },
-  {
-   "desde": 67.68,
-   "imagen": "busto"
-  },
-  {
-   "desde": 70.28,
+   "desde": 45.74,
    "imagen": "exp_guino"
   }
  ],
  "rotulos": [
   {
-   "desde": 13.18,
-   "hasta": 18.98,
+   "desde": 3.72,
+   "hasta": 7.95,
    "texto": "NO MEZCLES CRUDO Y COCIDO",
    "sub": "plato lavado con agua caliente · FDA"
   },
   {
-   "desde": 34.07,
-   "hasta": 41.18,
+   "desde": 19.04,
+   "hasta": 24.12,
    "texto": "63 °C CORTES · 71 °C MOLIDA",
    "sub": "y 74 °C el pollo · con termómetro · FDA"
   },
   {
-   "desde": 59.4,
-   "hasta": 67.37,
+   "desde": 41.72,
+   "hasta": 45.74,
    "texto": "CON MÁS DE 32 °C: 1 HORA",
    "sub": "si no, 2 horas · FDA (EE. UU.)"
   }
@@ -87,6 +75,6 @@
  "gancho": {
   "tipo": "A",
   "texto": "¿ASADO? ¡OJO CON EL PLATO!",
-  "hasta": 1.6
+  "hasta": 3.41
  }
 }

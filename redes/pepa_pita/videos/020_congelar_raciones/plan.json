@@ -11,64 +11,64 @@
    "imagen": "busto"
   },
   {
-   "desde": 8.2,
+   "desde": 7.67,
    "imagen": "exp_sorprendida"
   },
   {
-   "desde": 17.89,
+   "desde": 17.13,
    "imagen": "pose_senala"
   },
   {
-   "desde": 21.68,
+   "desde": 20.88,
    "imagen": "busto"
   },
   {
-   "desde": 25.19,
+   "desde": 24.36,
    "imagen": "exp_pensativa"
   },
   {
-   "desde": 28.52,
+   "desde": 33.27,
    "imagen": "pose_sartenes"
   },
   {
-   "desde": 34.51,
+   "desde": 36.54,
    "imagen": "busto"
   },
   {
-   "desde": 42.43,
+   "desde": 42.56,
    "imagen": "exp_preocupada"
   },
   {
-   "desde": 47.08,
+   "desde": 47.03,
    "imagen": "exp_riendo"
   },
   {
-   "desde": 52.34,
+   "desde": 52.08,
    "imagen": "exp_guino"
   }
  ],
  "rotulos": [
   {
-   "desde": 3.19,
-   "hasta": 8.2,
+   "desde": 2.98,
+   "hasta": 7.67,
    "texto": "RACIONES INDIVIDUALES",
    "sub": "se congela antes · AESAN"
   },
   {
-   "desde": 10.75,
-   "hasta": 17.89,
+   "desde": 10.08,
+   "hasta": 17.13,
    "texto": "NO LA METAS CALIENTE",
    "sub": "primero, a la nevera · AESAN"
   },
   {
-   "desde": 28.52,
-   "hasta": 34.2,
+   "desde": 27.54,
+   "hasta": 32.95,
    "texto": "MÁS DE 70 °C, 2 MIN",
    "sub": "para volver a congelar · AESAN"
   },
   {
-   "desde": 42.43,
-   "hasta": 47.08,
+   "desde": 42.56,
+   "hasta": 47.03,
    "texto": "−18 °C: SEGURA SIEMPRE",
    "sub": "Los tiempos son por calidad · USDA"
   }
@@ -77,6 +77,6 @@
  "gancho": {
   "tipo": "B",
   "texto": "¿CONGELAS TODO EN UN BLOQUE?",
-  "hasta": 2.58
+  "hasta": 2.41
  }
 }

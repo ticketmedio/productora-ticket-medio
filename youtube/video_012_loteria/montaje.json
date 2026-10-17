@@ -1,0 +1,80 @@
+{
+ "salida": "output/_sin_normalizar.mp4",
+ "formato": "horizontal",
+ "voz": "audio/voz_cola.mp3",
+ "subtitulos": "06_SUBTITULOS.srt",
+ "quemar_subtitulos": false,
+ "musica": "audio/musica.mp3",
+ "musica_db": -26,
+ "escenas": [
+  {
+   "archivo": "clips/s_01.mp4",
+   "duracion": 12.044
+  },
+  {
+   "archivo": "clips/s_02.mp4",
+   "duracion": 8.907
+  },
+  {
+   "archivo": "clips/s_03.mp4",
+   "duracion": 17.207
+  },
+  {
+   "archivo": "clips/s_04.mp4",
+   "duracion": 21.729
+  },
+  {
+   "archivo": "clips/s_05.mp4",
+   "duracion": 24.617
+  },
+  {
+   "archivo": "clips/s_06.mp4",
+   "duracion": 19.664
+  },
+  {
+   "archivo": "clips/s_07.mp4",
+   "duracion": 27.286
+  },
+  {
+   "archivo": "clips/s_08.mp4",
+   "duracion": 22.534
+  },
+  {
+   "archivo": "clips/s_09.mp4",
+   "duracion": 9.796
+  },
+  {
+   "archivo": "clips/s_10.mp4",
+   "duracion": 26.29
+  },
+  {
+   "archivo": "clips/s_11.mp4",
+   "duracion": 15.219
+  },
+  {
+   "archivo": "clips/s_12.mp4",
+   "duracion": 20.044
+  },
+  {
+   "archivo": "clips/s_13.mp4",
+   "duracion": 25.183
+  },
+  {
+   "archivo": "clips/s_14.mp4",
+   "duracion": 23.28
+  },
+  {
+   "archivo": "clips/s_15.mp4",
+   "duracion": 19.938
+  },
+  {
+   "archivo": "clips/s_16.mp4",
+   "duracion": 13.185
+  },
+  {
+   "archivo": "clips/s_17.mp4",
+   "duracion": 12.074
+  }
+ ],
+ "salida_final": "output/FINAL_YOUTUBE_1080P.mp4"
+}

@@ -11,102 +11,102 @@
    "imagen": "busto"
   },
   {
-   "desde": 5.07,
+   "desde": 3.78,
    "imagen": "exp_sorprendida"
   },
   {
-   "desde": 11.86,
+   "desde": 9.93,
    "imagen": "pose_senala"
   },
   {
-   "desde": 17.59,
+   "desde": 15.15,
    "imagen": "busto"
   },
   {
-   "desde": 22.0,
+   "desde": 19.45,
    "imagen": "exp_pensativa"
   },
   {
-   "desde": 29.89,
+   "desde": 27.15,
    "imagen": "pose_sartenes"
   },
   {
-   "desde": 33.47,
+   "desde": 31.13,
    "imagen": "busto"
   },
   {
-   "desde": 39.53,
+   "desde": 37.8,
    "imagen": "exp_preocupada"
   },
   {
-   "desde": 47.45,
+   "desde": 44.67,
    "imagen": "exp_riendo"
   },
   {
-   "desde": 54.41,
+   "desde": 50.75,
    "imagen": "busto"
   },
   {
-   "desde": 60.9,
+   "desde": 55.87,
    "imagen": "pose_senala"
   },
   {
-   "desde": 67.55,
+   "desde": 61.19,
    "imagen": "exp_contenta"
   },
   {
-   "desde": 71.63,
+   "desde": 68.53,
    "imagen": "busto"
   },
   {
-   "desde": 75.28,
+   "desde": 73.32,
    "imagen": "exp_sorprendida"
   },
   {
-   "desde": 82.77,
+   "desde": 82.25,
    "imagen": "exp_guino"
   }
  ],
  "rotulos": [
   {
-   "desde": 11.86,
-   "hasta": 17.28,
+   "desde": 9.93,
+   "hasta": 14.84,
    "texto": "MANOS: 20 SEGUNDOS",
    "sub": "jabón y agua caliente · AESAN"
   },
   {
-   "desde": 19.08,
-   "hasta": 24.91,
+   "desde": 16.61,
+   "hasta": 22.29,
    "texto": "COPA Y TENEDOR",
    "sub": "recipiente apto · AESAN"
   },
   {
-   "desde": 31.54,
-   "hasta": 39.21,
+   "desde": 28.98,
+   "hasta": 37.49,
    "texto": "BOLSA ISOTÉRMICA",
    "sub": "sin golpes ni cambios bruscos · AESAN"
   },
   {
-   "desde": 41.51,
-   "hasta": 47.45,
+   "desde": 39.52,
+   "hasta": 44.67,
    "texto": "MÁS DE 75 °C",
    "sub": "no la comas fría · AESAN"
   },
   {
-   "desde": 56.03,
-   "hasta": 60.9,
+   "desde": 52.03,
+   "hasta": 55.87,
    "texto": "MÁX. 2 HORAS FUERA",
    "sub": "1 hora si hace más de 30 °C · AESAN"
   },
   {
-   "desde": 64.06,
-   "hasta": 67.23,
+   "desde": 58.37,
+   "hasta": 68.53,
    "texto": "3 DÍAS EN LA NEVERA",
    "sub": "como máximo · AESAN"
   },
   {
-   "desde": 75.28,
-   "hasta": 80.0,
+   "desde": 73.32,
+   "hasta": 79.51,
    "texto": "CON CALOR: 1 HORA",
    "sub": "Más de 32 °C (90 °F) · USDA (EE. UU.)"
   }
@@ -115,6 +115,6 @@
  "gancho": {
   "tipo": "C",
   "texto": "¿TU TÁPER AGUANTA HASTA LAS DOS?",
-  "hasta": 2.14
+  "hasta": 1.56
  }
 }

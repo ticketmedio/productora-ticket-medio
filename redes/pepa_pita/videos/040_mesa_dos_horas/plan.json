@@ -11,56 +11,60 @@
    "imagen": "busto"
   },
   {
-   "desde": 3.94,
+   "desde": 3.37,
    "imagen": "exp_sorprendida"
   },
   {
-   "desde": 12.16,
+   "desde": 10.21,
    "imagen": "pose_senala"
   },
   {
-   "desde": 17.66,
+   "desde": 15.85,
    "imagen": "busto"
   },
   {
-   "desde": 22.23,
+   "desde": 20.52,
    "imagen": "exp_pensativa"
   },
   {
-   "desde": 29.77,
+   "desde": 27.5,
    "imagen": "pose_sartenes"
   },
   {
-   "desde": 36.34,
+   "desde": 32.94,
    "imagen": "busto"
   },
   {
-   "desde": 41.69,
+   "desde": 37.6,
+   "imagen": "exp_preocupada"
+  },
+  {
+   "desde": 40.35,
    "imagen": "exp_guino"
   }
  ],
  "rotulos": [
   {
-   "desde": 4.55,
-   "hasta": 11.85,
+   "desde": 3.93,
+   "hasta": 9.89,
    "texto": "MÁXIMO 2 HORAS FUERA",
    "sub": "a temperatura ambiente · EFSA"
   },
   {
-   "desde": 12.16,
-   "hasta": 17.61,
+   "desde": 10.21,
+   "hasta": 15.8,
    "texto": "CALIENTE: MÁS DE 60 °C",
    "sub": "si se va a comer enseguida · EFSA"
   },
   {
-   "desde": 17.66,
-   "hasta": 21.91,
+   "desde": 15.85,
+   "hasta": 20.21,
    "texto": "FRÍO: MENOS DE 5 °C",
    "sub": "refrigéralo cuanto antes · EFSA"
   },
   {
-   "desde": 36.34,
-   "hasta": 41.69,
+   "desde": 32.94,
+   "hasta": 37.29,
    "texto": "CON MÁS DE 32 °C: 1 HORA",
    "sub": "Navidad en verano · USDA (EE. UU.)"
   }
@@ -69,6 +73,6 @@
  "gancho": {
   "tipo": "C",
   "texto": "¿LA COMIDA, TODA LA TARDE EN LA MESA?",
-  "hasta": 3.94
+  "hasta": 3.37
  }
 }

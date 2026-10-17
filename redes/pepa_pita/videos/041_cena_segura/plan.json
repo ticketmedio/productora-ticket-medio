@@ -11,114 +11,114 @@
    "imagen": "busto"
   },
   {
-   "desde": 5.3,
+   "desde": 5.65,
    "imagen": "exp_sorprendida"
   },
   {
-   "desde": 8.77,
+   "desde": 9.34,
    "imagen": "pose_senala"
   },
   {
-   "desde": 15.86,
+   "desde": 16.5,
    "imagen": "busto"
   },
   {
-   "desde": 19.18,
+   "desde": 19.84,
    "imagen": "exp_pensativa"
   },
   {
-   "desde": 28.94,
+   "desde": 27.77,
    "imagen": "pose_sartenes"
   },
   {
-   "desde": 32.72,
+   "desde": 32.16,
    "imagen": "busto"
   },
   {
-   "desde": 37.14,
+   "desde": 37.28,
    "imagen": "exp_preocupada"
   },
   {
-   "desde": 41.27,
+   "desde": 42.08,
    "imagen": "exp_riendo"
   },
   {
-   "desde": 45.93,
+   "desde": 47.43,
    "imagen": "busto"
   },
   {
-   "desde": 53.37,
+   "desde": 53.81,
    "imagen": "pose_senala"
   },
   {
-   "desde": 60.53,
+   "desde": 60.01,
    "imagen": "exp_contenta"
   },
   {
-   "desde": 65.43,
+   "desde": 63.97,
    "imagen": "busto"
   },
   {
-   "desde": 68.81,
+   "desde": 67.37,
    "imagen": "exp_sorprendida"
   },
   {
-   "desde": 75.05,
+   "desde": 73.63,
    "imagen": "pose_senala"
   },
   {
-   "desde": 78.52,
+   "desde": 81.12,
    "imagen": "busto"
   },
   {
-   "desde": 87.31,
+   "desde": 84.41,
    "imagen": "exp_pensativa"
   },
   {
-   "desde": 90.55,
+   "desde": 87.24,
    "imagen": "exp_guino"
   }
  ],
  "rotulos": [
   {
-   "desde": 8.77,
-   "hasta": 15.86,
+   "desde": 9.34,
+   "hasta": 16.5,
    "texto": "1 · LIMPIEZA",
    "sub": "manos, superficies y utensilios · EFSA"
   },
   {
-   "desde": 19.18,
-   "hasta": 28.62,
+   "desde": 19.84,
+   "hasta": 27.46,
    "texto": "2 · CRUDO APARTE",
    "sub": "utensilios y tablas distintos · EFSA"
   },
   {
-   "desde": 32.72,
-   "hasta": 37.14,
+   "desde": 32.16,
+   "hasta": 37.28,
    "texto": "3 · COCINA BIEN: 70 °C",
    "sub": "jugos claros, no rosados · EFSA"
   },
   {
-   "desde": 47.91,
-   "hasta": 53.37,
+   "desde": 49.13,
+   "hasta": 53.81,
    "texto": "4 · MÁX. 2 HORAS FUERA",
    "sub": "frío < 5 °C · caliente > 60 °C · EFSA"
   },
   {
-   "desde": 60.53,
-   "hasta": 65.12,
+   "desde": 60.01,
+   "hasta": 63.66,
    "texto": "5 · DESCONGELA EN LA NEVERA",
    "sub": "la forma más segura · EFSA"
   },
   {
-   "desde": 65.43,
-   "hasta": 68.81,
+   "desde": 63.97,
+   "hasta": 67.37,
    "texto": "6 · AGUA POTABLE Y FRESCOS",
    "sub": "y nada caducado · EFSA"
   },
   {
-   "desde": 78.52,
-   "hasta": 87.0,
+   "desde": 81.12,
+   "hasta": 87.24,
    "texto": "NAVIDAD EN VERANO: 1 HORA",
    "sub": "Más de 32 °C (90 °F) · USDA (EE. UU.)"
   }
@@ -127,6 +127,6 @@
  "gancho": {
   "tipo": "A",
   "texto": "¿CENA DE NAVIDAD SEGURA? 6 PASOS",
-  "hasta": 2.0
+  "hasta": 2.13
  }
 }

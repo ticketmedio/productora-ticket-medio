@@ -9,7 +9,7 @@
  "escenas": [
   {
    "archivo": "clips/s_a.mp4",
-   "duracion": 6.12
+   "duracion": 6.334
   },
   {
    "archivo": "clips/s_b.mp4",
@@ -17,7 +17,7 @@
   },
   {
    "archivo": "clips/s_c.mp4",
-   "duracion": 22.451
+   "duracion": 11.92
   }
  ],
  "salida_final": "../../output/SHORT_05_3_6_centimos.mp4"

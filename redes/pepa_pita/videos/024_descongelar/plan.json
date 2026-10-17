@@ -11,64 +11,64 @@
    "imagen": "busto"
   },
   {
-   "desde": 11.28,
+   "desde": 9.86,
    "imagen": "exp_sorprendida"
   },
   {
-   "desde": 17.14,
+   "desde": 16.91,
    "imagen": "pose_senala"
   },
   {
-   "desde": 21.39,
+   "desde": 21.98,
    "imagen": "busto"
   },
   {
-   "desde": 26.82,
+   "desde": 26.89,
    "imagen": "exp_pensativa"
   },
   {
-   "desde": 34.9,
+   "desde": 34.24,
    "imagen": "pose_sartenes"
   },
   {
-   "desde": 40.53,
+   "desde": 40.04,
    "imagen": "busto"
   },
   {
-   "desde": 46.22,
+   "desde": 47.74,
    "imagen": "exp_preocupada"
   },
   {
-   "desde": 50.49,
+   "desde": 52.98,
    "imagen": "exp_riendo"
   },
   {
-   "desde": 55.01,
+   "desde": 57.23,
    "imagen": "exp_guino"
   }
  ],
  "rotulos": [
   {
-   "desde": 3.11,
-   "hasta": 10.97,
+   "desde": 2.71,
+   "hasta": 9.55,
    "texto": "DE 5 A 65 °C",
    "sub": "se multiplican más rápido · AESAN"
   },
   {
-   "desde": 11.28,
-   "hasta": 17.14,
+   "desde": 9.86,
+   "hasta": 16.91,
    "texto": "12 HORAS ANTES",
    "sub": "en la nevera, sobre una bandeja · AESAN"
   },
   {
-   "desde": 22.33,
-   "hasta": 26.82,
+   "desde": 22.82,
+   "hasta": 26.89,
    "texto": "MICROONDAS: POTENCIA BAJA",
    "sub": "y cocínalo enseguida · AESAN"
   },
   {
-   "desde": 46.22,
-   "hasta": 50.49,
+   "desde": 47.74,
+   "hasta": 52.98,
    "texto": "AGUA FRÍA: CAMBIA CADA 30 MIN",
    "sub": "Bolsa cerrada y cocinar ya · USDA (EE. UU.)"
   }
@@ -77,6 +77,6 @@
  "gancho": {
   "tipo": "C",
   "texto": "¿DESCONGELAS EN LA ENCIMERA?",
-  "hasta": 2.5
+  "hasta": 2.17
  }
 }
