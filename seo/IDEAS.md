@@ -2,6 +2,20 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 17/10/2026 (tarde)
+
+**Ejemplos que funcionan (datos públicos, 17/10/2026)**
+- Finanzas para todos: «15 ENGAÑOS DE LOS SUPERMERCADOS», 633.051 (18:11, hace 1 año).
+- «El GRAN COLAPSO de la COMIDA en España: ¿Por qué TODO es tan CARO?», 48.899 (canal sin identificar en la búsqueda).
+- Cuánto gana Mercadona (Soy Cero, Analizando Empresas): 5 y 50 visitas; tema sin resolver.
+
+**Ideas**
+1. **Vídeo largo — «¿Quién fabrica de verdad las marcas blancas de Mercadona?»** (sigue vigente).
+2. **Short — misma cesta, dos supermercados**, resultado primero.
+3. **Carrusel de Pepa — castañas y dulces de Todos los Santos** (fuente oficial, guiño latino).
+
+**Mejora aplicable:** título de paradoja («por qué todo es tan caro») con el dato fuerte al inicio. (`yt_video.py` solo dio fotogramas, sin momentos más vistos fiables.)
+
 ## 17/10/2026 (mañana)
 
 **Ejemplos que funcionan (datos públicos, 17/10/2026)**
