@@ -1851,8 +1851,8 @@
       "project": "youtube",
       "platforms": [],
       "notes": "Elegido a partir de los informes diarios (herramientas/briefing.py, 12/10): La comparativa de cesta es el outlier de los informes del 9/10 (68 mil visualizaciones con 2 mil suscriptores); base: estudio de la OCU de 2026 (690 establecimientos, 244 productos), resultado en los primeros 30 s.",
-      "updatedAt": "2026-10-12T12:58:27.000Z",
-      "status": "pendiente",
+      "updatedAt": "2026-10-17T11:01:18.987Z",
+      "status": "hecho",
       "comentarios": [
         {
           "id": "c-tema-10",
