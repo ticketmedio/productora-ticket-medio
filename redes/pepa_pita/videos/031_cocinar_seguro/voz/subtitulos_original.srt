@@ -1,75 +1,71 @@
 1
-00:00:00,000 --> 00:00:01,262
+00:00:00,000 --> 00:00:01,331
 ¿Cocinas seguro?
 
 2
-00:00:01,262 --> 00:00:08,516
+00:00:01,331 --> 00:00:08,984
 Hoy te cuento, paso a paso, lo que dice el Ministerio de Consumo para evitar intoxicaciones.
 
 3
-00:00:08,866 --> 00:00:15,949
+00:00:09,334 --> 00:00:15,454
 Primero, las manos: lávalas con jabón y agua antes y después de tocar la comida,
 
 4
-00:00:15,949 --> 00:00:17,720
+00:00:15,454 --> 00:00:16,984
 y sécalas con papel.
 
 5
-00:00:17,720 --> 00:00:25,069
+00:00:16,984 --> 00:00:23,334
 Después de manipular alimentos crudos, limpia bien superficies, cuchillos y tablas.
 
 6
-00:00:25,419 --> 00:00:31,601
+00:00:23,684 --> 00:00:30,167
 Segundo, el paño de cocina: cámbialo una vez al día, y siempre que haga falta.
 
 7
-00:00:31,951 --> 00:00:38,355
+00:00:30,517 --> 00:00:37,093
 Tercero, las frutas y verduras: lávalas bajo el chorro de agua antes de comerlas,
 
 8
-00:00:38,355 --> 00:00:41,439
+00:00:37,093 --> 00:00:40,259
 cortarlas o cocinarlas, y sécalas bien.
 
 9
-00:00:41,789 --> 00:00:43,516
+00:00:40,609 --> 00:00:42,512
 Cuarto, la descongelación.
 
 10
-00:00:43,516 --> 00:00:50,027
+00:00:42,512 --> 00:00:49,686
 Nada de dejarlo sobre la encimera: en el estante inferior de la nevera durante veinticuatro horas,
 
 11
-00:00:50,027 --> 00:00:53,083
+00:00:49,686 --> 00:00:53,053
 o en el microondas, con la opción descongelar.
 
 12
-00:00:53,083 --> 00:00:55,807
+00:00:53,053 --> 00:00:56,054
 Y una vez descongelado, se cocina rápido.
 
 13
-00:00:56,157 --> 00:01:03,504
+00:00:56,404 --> 00:01:03,261
 Quinto, el cocinado: el alimento tiene que llegar a setenta grados en todas sus partes.
 
 14
-00:01:03,854 --> 00:01:07,965
+00:01:03,611 --> 00:01:08,357
 Sexto, las sobras: déjalas enfriar y guárdalas en frío.
 
 15
-00:01:07,965 --> 00:01:14,168
+00:01:08,357 --> 00:01:15,520
 Y si las recalientas, setenta grados en el centro durante al menos quince segundos.
 
 16
-00:01:14,518 --> 00:01:22,619
+00:01:15,870 --> 00:01:25,397
 La FDA de Estados Unidos lo resume en cuatro verbos: limpiar, separar, cocinar y enfriar.
 
 17
-00:01:22,619 --> 00:01:29,082
-Si me ves desde Argentina, Colombia o Paraguay, cuéntame de qué ciudad.
-
-18
-00:01:29,432 --> 00:01:32,462
+00:01:25,747 --> 00:01:28,448
 Sígueme, que aquí aprendemos todos.
 
-19
-00:01:32,462 --> 00:01:33,501
+18
+00:01:28,448 --> 00:01:29,375
 ¡Cloc, cloc!

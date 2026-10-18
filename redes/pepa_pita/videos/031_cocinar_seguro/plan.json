@@ -11,102 +11,94 @@
    "imagen": "busto"
   },
   {
-   "desde": 7.92,
+   "desde": 8.33,
    "imagen": "exp_sorprendida"
   },
   {
-   "desde": 14.24,
+   "desde": 13.8,
    "imagen": "pose_senala"
   },
   {
-   "desde": 22.7,
+   "desde": 21.15,
    "imagen": "busto"
   },
   {
-   "desde": 28.53,
+   "desde": 27.25,
    "imagen": "exp_pensativa"
   },
   {
-   "desde": 34.25,
+   "desde": 33.12,
    "imagen": "pose_sartenes"
   },
   {
-   "desde": 38.85,
+   "desde": 37.96,
    "imagen": "busto"
   },
   {
-   "desde": 44.67,
+   "desde": 44.36,
    "imagen": "exp_preocupada"
   },
   {
-   "desde": 50.14,
+   "desde": 50.36,
    "imagen": "exp_riendo"
   },
   {
-   "desde": 57.01,
+   "desde": 56.8,
    "imagen": "busto"
   },
   {
-   "desde": 60.68,
+   "desde": 61.03,
    "imagen": "pose_senala"
   },
   {
-   "desde": 66.53,
+   "desde": 67.74,
    "imagen": "exp_contenta"
   },
   {
-   "desde": 73.77,
-   "imagen": "busto"
-  },
-  {
-   "desde": 79.85,
-   "imagen": "exp_sorprendida"
-  },
-  {
-   "desde": 82.56,
+   "desde": 78.97,
    "imagen": "exp_guino"
   }
  ],
  "rotulos": [
   {
-   "desde": 7.92,
-   "hasta": 14.24,
+   "desde": 8.33,
+   "hasta": 13.8,
    "texto": "MANOS: JABÓN Y PAPEL",
    "sub": "antes y después de tocar comida · Consumo"
   },
   {
-   "desde": 22.7,
-   "hasta": 28.21,
+   "desde": 21.15,
+   "hasta": 26.93,
    "texto": "PAÑO: UNA VEZ AL DÍA",
    "sub": "y siempre que haga falta · Consumo"
   },
   {
-   "desde": 28.53,
-   "hasta": 34.25,
+   "desde": 27.25,
+   "hasta": 33.12,
    "texto": "FRUTA Y VERDURA: AL CHORRO",
    "sub": "y sécalas bien · Min. de Consumo"
   },
   {
-   "desde": 38.85,
-   "hasta": 44.67,
+   "desde": 37.96,
+   "hasta": 44.36,
    "texto": "NEVERA, 24 HORAS",
    "sub": "o microondas en «descongelar» · Consumo"
   },
   {
-   "desde": 50.14,
-   "hasta": 56.7,
+   "desde": 50.36,
+   "hasta": 56.48,
    "texto": "70 °C EN TODAS PARTES",
    "sub": "también por dentro · Min. de Consumo"
   },
   {
-   "desde": 60.68,
-   "hasta": 66.22,
+   "desde": 61.03,
+   "hasta": 67.43,
    "texto": "RECALENTAR: 70 °C, 15 S",
    "sub": "en el centro · Min. de Consumo"
   },
   {
-   "desde": 66.53,
-   "hasta": 73.77,
+   "desde": 67.74,
+   "hasta": 76.25,
    "texto": "LIMPIAR · SEPARAR · COCINAR · ENFRIAR",
    "sub": "Los 4 pasos · FDA (EE. UU.)"
   }
@@ -115,6 +107,6 @@
  "gancho": {
   "tipo": "A",
   "texto": "¿COCINAS SEGURO? TE LO CUENTO",
-  "hasta": 7.6
+  "hasta": 8.02
  }
 }

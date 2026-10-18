@@ -39,7 +39,7 @@ G = {
 "030": ("La FDA de Estados Unidos añade un truco: lávate las manos con jabón normal, no hace falta el antibacteriano, durante al menos veinte segundos. Para medirlos, tararea dos veces el «Cumpleaños feliz».",
         ("tararea dos veces", "20 SEGUNDOS: 2 × «CUMPLEAÑOS FELIZ»", "Jabón normal · FDA (EE. UU.)"),
         FDA_4 + "«Use plain soap and water—skip the antibacterial soap—and scrub … for at least 20 seconds. Need a timer? Hum the “Happy Birthday” song from beginning to end twice.» Y la FDA (Safe Food Handling): si usas paños de tela, lávalos a menudo en el ciclo caliente."),
-"031": ("La FDA de Estados Unidos lo resume en cuatro verbos: limpiar, separar, cocinar y enfriar. Si me ves desde Argentina, Colombia o Paraguay, cuéntame de qué ciudad.",
+"031": ("La FDA de Estados Unidos lo resume en cuatro verbos: limpiar, separar, cocinar y enfriar.",
         ("cuatro verbos", "LIMPIAR · SEPARAR · COCINAR · ENFRIAR", "Los 4 pasos · FDA (EE. UU.)"),
         FDA_SH + "«follow these four simple steps: clean, separate, cook, and chill». Cocinar: «Color and texture are unreliable indicators of safety. Using a food thermometer is the only way to ensure the safety of meat, poultry, seafood, and egg products.»"),
 "040": ("Y ojo si me ves desde Argentina o Paraguay: tu Navidad es en pleno verano. Con más de treinta y dos grados, el límite baja a una hora.",
@@ -62,7 +62,7 @@ G = {
         USDA_CONG + "«Raw or cooked meat, poultry or casseroles can be cooked or reheated from the frozen state. However, it will take approximately one and a half times as long to cook.» Algunos productos precocinados rellenos DEBEN cocinarse congelados: leer la etiqueta."),
 }
 CIERRE = "Sígueme, que aquí aprendemos todos."
-LATAM_PUB = "🌎 ¿Me ves desde Argentina, Paraguay, Colombia u otro país? Cuéntame cómo le llamáis a esto en tu casa 👇\n\n"
+LATAM_PUB = "🌎 Para quien me ve desde España, Argentina, Colombia, Paraguay y toda Latinoamérica 💛\n\n"
 ids = sys.argv[1:] or sorted(G)
 for n in ids:
     f = glob.glob(os.path.join(LOTE, f"{n}_*.json"))[0]
