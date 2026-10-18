@@ -2,6 +2,20 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 18/10/2026 (tarde)
+
+**Ejemplos que funcionan (datos públicos, 18/10/2026)**
+- Bruno Peluch (≈5,95 mil suscriptores): «Por qué los bancos crearon Bizum (y no fue por ti)», 10 mil en 7 d; «El sistema que hace imposible repetir HAWKERS», 14 mil.
+- Marc Vidal: «Lo que están haciendo los supermercados con tus datos es una locura», 702.300 (19:28).
+- Memorias de Tiburón: «¿Por qué los PRECIOS no pueden ser ESTABLES y tienen que SUBIR?», 47.739 (8:19).
+
+**Ideas**
+1. **Vídeo largo — «El sistema que te cobra comisiones aunque no uses el banco»** (hueco: lo mejor reciente ronda 8–9 mil).
+2. **Short — misma cesta, dos supermercados**, resultado primero.
+3. **Carrusel de Pepa — castañas y dulces de Todos los Santos** (fuente oficial, guiño latino).
+
+**Mejora aplicable:** título de sospecha hacia el banco/supermercado («no fue por ti») con el dato fuerte al inicio. (`yt_video.py`: 403.)
+
 ## 18/10/2026 (mañana)
 
 **Ejemplos que funcionan (datos públicos, 18/10/2026)**
