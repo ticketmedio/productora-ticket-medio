@@ -1615,11 +1615,11 @@
         "Shorts"
       ],
       "date": "2026-10-29",
-      "status": "pendiente",
+      "status": "hecho",
       "title": "Ver, subir y programar el vídeo 6 y sus 7 Shorts (50 min)",
       "createdBy": "claude",
       "createdAt": "2026-09-28T13:02:28.000Z",
-      "updatedAt": "2026-10-17T11:01:13.000Z",
+      "updatedAt": "2026-10-18T18:14:18.531Z",
       "notes": "Vídeo 6: «La factura de la luz: ¿dónde va cada euro?». Sale el viernes 30 de octubre a las 18:00, con un Short cada día a las 13:00 durante la semana siguiente. Unos 50 minutos. Puedes hacerlo ANTES de esta fecha: si el vídeo ya está listo (te lo aviso en un comentario), no hay que esperar al día.\nTodo estará en:  Descargas › faceless › youtube › video_006_luz › output\n\n1. VER (10 min): abre FINAL_YOUTUBE_1080P.mp4 y los SHORT_…mp4. Si algo se ve o se oye raro, dime el minuto aquí.\n\n2. SUBIR EL VÍDEO LARGO (studio.youtube.com; comprueba el logo del ticket amarillo arriba a la derecha): «CREAR» → «Subir vídeos» → FINAL_YOUTUBE_1080P.mp4\n   · Título: el marcado como ELEGIDO en 07_TITULOS.md · Descripción: todo 08_DESCRIPCION.txt · Miniatura: MINIATURA_1280x720.png · No es contenido para niños.\n   · «Mostrar más» (en este orden): Contenido alterado o sintético «No» · Etiquetas (al final de 07_TITULOS.md) · Idioma Español (España) · Subtítulos: «Subir archivo» → «Con sincronización» → 06_SUBTITULOS.srt · Categoría Educación.\n   · Elementos: pantalla final «1 vídeo, 1 suscripción» (vídeo más reciente). Visibilidad: «Programar» → viernes 30 de octubre, 18:00.\n\n3. LOS 7 SHORTS («CREAR» → «Subir vídeos», uno a uno; títulos y descripciones en SHORTS_TEXTOS.txt): no son para niños · Contenido alterado «No» · Idioma Español (España) · Categoría Educación · sin archivo de subtítulos. Todos a las 13:00:\n   Los 3 del vídeo: SHORT_01 → sábado 31 de octubre · SHORT_02 → lunes 2 de noviembre · SHORT_03 → miércoles 4 de noviembre\n   Los 4 de ángulos nuevos: SHORT_04 → domingo 1 de noviembre · SHORT_05 → martes 3 de noviembre · SHORT_06 → jueves 5 de noviembre · SHORT_07 → viernes 6 de noviembre\n\n4. ENLAZAR LOS SHORTS AL VÍDEO LARGO (cuando ya esté publicado, viernes a partir de las 18:00): studio.youtube.com → Contenido → Shorts → lápiz de «Editar» de cada Short → «Vídeo relacionado» → elige el vídeo 6 → Guardar.\n\n5. Escribe «programado» aquí.\n\nLISTA DE COMPROBACIÓN (redes/LISTA_COMPROBACION.md), en CADA publicación antes de pasar a la siguiente:\n  ☐ Texto pegado entero (no vacío ni cortado)\n  ☐ Hashtags: 5 como máximo\n  ☐ Fecha y hora correctas (ojo al MES; que la hora no se quede en la actual)\n  ☐ Cuenta y archivo correctos (Pepa Pita o Ticket Medio; en TikTok, el archivo con TIKTOK en el nombre, si lo hay)",
       "comentarios": []
     },
