@@ -111,6 +111,13 @@
    "fecha": "2026-10-18T17:20:41Z",
    "tarea": "pub-yt-4-comentario",
    "texto": "fijado"
+  },
+  {
+   "id": "w-28",
+   "accion": "estado",
+   "fecha": "2026-10-18T17:20:58Z",
+   "tarea": "u-fondos-v5",
+   "estado": "hecho"
   }
  ]
 }
