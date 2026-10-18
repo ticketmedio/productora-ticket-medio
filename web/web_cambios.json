@@ -118,6 +118,13 @@
    "fecha": "2026-10-18T17:20:58Z",
    "tarea": "u-fondos-v5",
    "estado": "hecho"
+  },
+  {
+   "id": "w-29",
+   "accion": "estado",
+   "fecha": "2026-10-18T18:14:10Z",
+   "tarea": "pub-yt-4-comentario",
+   "estado": "hecho"
   }
  ]
 }
