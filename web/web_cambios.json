@@ -125,6 +125,13 @@
    "fecha": "2026-10-18T18:14:10Z",
    "tarea": "pub-yt-4-comentario",
    "estado": "hecho"
+  },
+  {
+   "id": "w-31",
+   "accion": "estado",
+   "fecha": "2026-10-18T18:14:25Z",
+   "tarea": "u-hito-ig-regalos",
+   "estado": "en_curso"
   }
  ]
 }
