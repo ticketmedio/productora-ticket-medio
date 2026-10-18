@@ -104,6 +104,13 @@
    "fecha": "2026-10-12T11:41:17Z",
    "tarea": "pub-yt-3-comentario",
    "estado": "hecho"
+  },
+  {
+   "id": "w-25",
+   "accion": "comentario",
+   "fecha": "2026-10-18T17:20:41Z",
+   "tarea": "pub-yt-4-comentario",
+   "texto": "fijado"
   }
  ]
 }
