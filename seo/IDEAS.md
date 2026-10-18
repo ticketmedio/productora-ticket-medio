@@ -2,6 +2,20 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 18/10/2026 (mañana)
+
+**Ejemplos que funcionan (datos públicos, 18/10/2026)**
+- Talent Match: «El GRAN COLAPSO de la COMIDA en España: ¿Por qué TODO es tan CARO?», 53.147 (hace 2 d).
+- Bruno Peluch (≈5,95 mil suscriptores): «El sistema que hace imposible repetir HAWKERS», 14 mil.
+- Demand Lab (≈2,45 mil): «¿Qué pasó con Telepizza?», 90 mil.
+
+**Ideas**
+1. **Vídeo largo — «¿Quién fabrica de verdad las marcas blancas de Mercadona?»** (sigue vigente).
+2. **Vídeo largo — «El sistema que te cobra comisiones aunque no uses el banco»**: solo hay contenido de hace 9–11 años.
+3. **Short — misma cesta, dos supermercados**, resultado primero.
+
+**Mejora aplicable:** abrir con el dato de la subida de la compra (como el vídeo de Talent Match) y título de paradoja.
+
 ## 17/10/2026 (tarde)
 
 **Ejemplos que funcionan (datos públicos, 17/10/2026)**
