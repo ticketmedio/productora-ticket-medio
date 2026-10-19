@@ -2,6 +2,20 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 19/10/2026 (mañana)
+
+**Ejemplos que funcionan (datos públicos, 19/10/2026)**
+- Bruno Peluch (≈5,96 mil suscriptores): «Por qué los bancos crearon Bizum (y no fue por ti)», 10 mil en 7 d.
+- Demand Lab (≈2,45 mil): «¿Qué pasó con Telepizza?», 90 mil; «¿Cómo gana 300M al año sin clientes?», 41 mil.
+- Marc Vidal: «Lo que están haciendo los supermercados con tus datos es una locura», 702.439 (19:28).
+
+**Ideas**
+1. **Vídeo largo — «El sistema que te cobra comisiones aunque no uses el banco»** (sigue vigente; lo reciente no existe).
+2. **Short — misma cesta, dos supermercados**, resultado primero.
+3. **Carrusel de Pepa — castañas y dulces de Todos los Santos** (fuente oficial, guiño latino, pensado para guardar).
+
+**Mejora aplicable:** título de sospecha («y no fue por ti») con el dato fuerte al inicio. (`yt_video.py`: 403.)
+
 ## 18/10/2026 (tarde)
 
 **Ejemplos que funcionan (datos públicos, 18/10/2026)**

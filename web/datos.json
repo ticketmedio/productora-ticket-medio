@@ -1483,8 +1483,8 @@
         "YouTube"
       ],
       "notes": "Abre el vídeo ya publicado (studio.youtube.com → «Contenido» → título → «Ver en YouTube»), pega como comentario el texto de Descargas › faceless › archivo › video_004_corte_ingles › COMENTARIO_FIJADO.txt, publícalo y en sus tres puntos → «Fijar».\n\nLISTA DE COMPROBACIÓN (redes/LISTA_COMPROBACION.md), en CADA publicación antes de pasar a la siguiente:\n  ☐ Texto pegado entero (no vacío ni cortado)\n  ☐ Hashtags: 5 como máximo\n  ☐ Fecha y hora correctas (ojo al MES en Meta; que la hora no se quede en la actual)\n  ☐ Cuenta y archivo correctos (Pepa Pita o Ticket Medio; en TikTok, el archivo con TIKTOK en el nombre si lo hay)",
-      "updatedAt": "2026-09-30T12:55:22.000Z",
-      "status": "pendiente",
+      "updatedAt": "2026-10-19T05:06:18.195Z",
+      "status": "hecho",
       "comentarios": [
         {
           "id": "c-w-25",
@@ -2903,7 +2903,7 @@
       "who": "tu",
       "kind": "tarea",
       "project": "redes",
-      "status": "pendiente",
+      "status": "en_curso",
       "platforms": [
         "Instagram",
         "Facebook"
@@ -2911,7 +2911,7 @@
       "notes": "🎯 Instagram de Pepa ya pasa de 500 seguidores. 18/10: tu pantalla de Monetización dice «conocer las políticas»: NO es una infracción, es un paso informativo. Pasos en la app: perfil de @soypepapita → Panel profesional → Herramientas de monetización. 1) Abre y lee «Políticas de monetización para socios» (pulsa «Entendido»/«Continuar» si sale). 2) Abre y lee «Políticas de monetización de contenido». 3) Vuelve atrás: deben salir con check. 4) Entra en «Regalos»: acepta las condiciones y configura la cuenta de pagos. Suscripciones e insignias piden 10.000 seguidores: no te tocan todavía. Si algo no se marca, mándame una captura. NO te des de alta todavía en Amazon Afiliados: piden seguidores orgánicos y una página consolidada, y parte de estos seguidores vienen de seguir a seguir.\n\n18/10 (tarde) · Claude ha mirado con tu sesión, solo lectura: Estado de la cuenta de Instagram = sin restricciones, sin límites de alcance y todas las funciones disponibles; la página de Facebook pone «No Monetization Violations». La cuenta es de tipo Creador (categoría Bloguero) y lleva la etiqueta de perfil generado con IA. O sea: NO hay infracción visible. El «Respeta nuestras políticas» de Regalos se ve solo en la app. Paso para ti: en la pantalla de Regalos, toca justo esa fila (la que sale sin check) y hazme una captura de lo que se abre; si no se abre nada, espera 24–72 h (Instagram revisa las cuentas por su cuenta y la tuya acaba de crecer mucho) y vuelve a mirar.",
       "createdAt": "2026-10-17T00:02:32",
       "createdBy": "claude",
-      "updatedAt": "2026-10-18T19:57:01",
+      "updatedAt": "2026-10-19T05:06:18.195Z",
       "comentarios": []
     }
   ],
@@ -3333,9 +3333,18 @@
     "w-22",
     "w-24",
     "w-25",
-    "w-28"
+    "w-28",
+    "w-29",
+    "w-31"
   ],
   "informes": [
+    {
+      "fecha": "2026-10-19",
+      "clave": "mercado-manana",
+      "titulo": "Mercado 19/10 mañana: títulos de sospecha en canales pequeños y hueco en comisiones bancarias",
+      "texto": "## Lo más importante\n- **El patrón que se repite:** títulos de sospecha o «el sistema que…» en canales pequeños. Bruno Peluch (**≈5,96 mil suscriptores**): «Por qué los bancos crearon Bizum (y no fue por ti)», **10 mil**; «El sistema que hace imposible repetir HAWKERS», **15 mil**.\n- **Hueco claro:** «cómo ganan dinero los bancos / comisiones» solo tiene vídeos viejos (Memorias de Tiburón, hace 1 año, **136.810**; el resto con menos de 7 mil o con 31 visitas). Nadie lo ha contado con enfoque «sistema».\n- **Supermercados y datos siguen tirando:** Marc Vidal, «Lo que están haciendo los supermercados con tus datos es una locura», **702.439** (19:28, hace 4 m).\n\n## YouTube: lo que está funcionando\n- Demand Lab (**≈2,45 mil** suscriptores, 6 vídeos): «¿Qué pasó con Telepizza?», **90 mil**; «¿Cómo gana 300M al año sin clientes?», **41 mil**; «Mercadona: NADIE entiende cómo lo hace», **12 mil**. Canal diminuto con picos de 15–35 veces sus suscriptores.\n- Bruno Peluch: lo último, «La verdadera historia de TOUS», **1,8 mil** en 13 h.\n- JF Calero: «Bizum Pay está en marcha» **24.809** (9:51, hace 4 m).\n- Factura de la luz explicada: solo vídeos de hace 5–7 años (**≈11–18 mil**). Tema sin vídeo reciente.\n- `yt_video.py` falló hoy (403 del proxy): no hay «momentos más vistos» de este turno.\n\n## Instagram y Facebook\n- Metricool (estudio de 24 millones de publicaciones): los **Reels** son los que más alcance dan a quien no te sigue; los **carruseles se guardan 9 veces más**. Encaja con la regla de usar carruseles para guardar/compartir.\n- Duración: según un análisis citado, los Reels de **7–15 s** tienen las mayores tasas de finalización. Las fuentes son de herramientas que venden servicios, no hay ranking oficial.\n- Formato «titular en mayúsculas + dos voces» para noticias: reconocible en medio segundo. Fuente en inglés.\n\n## TikTok\n- Halloween cae en **sábado 31/10** (fin de semana largo de contenido). Tendencias internacionales: «Ramalama Costume Walk», «Pumpkin Head Illusion», nostalgia y giros dramáticos.\n- En España pesa más Todos los Santos: castañas, boniatos asados y dulces (Jerez lo programa en 2026). No he encontrado datos de TikTok específicos de España; hay que mirarlos en Creative Center.\n\n## Lo nuestro hoy (cifras públicas)\n- @TicketMedio: **5 suscriptores**, 14 vídeos.\n- «El Corte Inglés gana 3 céntimos por euro. ¿Cómo sigue vivo?» **3** visitas (hace 2 d); «ZARA: ¿quién se queda el dinero de tu camiseta?» **6** (hace 9 d); «MERCADONA: ¿dónde va cada euro…?» **11** (hace 2 sem.); «Por qué la gasolina sube en un día…» **13** (hace 3 sem.).\n- Siguen sin tracción: los rivales de tamaño parecido consiguen 10–90 mil con títulos de sospecha.\n\n## Ideas para nosotros\n- **Vídeo largo:** «El sistema que te cobra comisiones aunque no uses el banco» (hueco sin contenido reciente).\n- **Short:** misma cesta, dos supermercados, resultado primero.\n- **Carrusel de Pepa:** castañas y dulces de Todos los Santos con fuente oficial y guiño latino (heladera/nevera según país).\n- **Mejora aplicable:** título de sospecha hacia el banco o supermercado («no fue por ti») con el dato fuerte en los primeros segundos.\n\n## Para ti\n- Nada urgente. Aviso de herramienta: `yt_video.py` devuelve 403 desde la nube, así que no se pueden ver los picos de ritmo de los ejemplos.",
+      "createdAt": "2026-10-19T05:06:18.204Z"
+    },
     {
       "fecha": "2026-10-18",
       "clave": "mercado-manana",
