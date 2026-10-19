@@ -2,6 +2,20 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 19/10/2026 (tarde)
+
+**Ejemplos que funcionan (datos públicos, 19/10/2026)**
+- Veterinario Gratis (≈2,06 M suscriptores): «¿Quién fabrica las marcas blancas de Lidl, Carrefour y Dia?», 166.958 en 3 sem.
+- La Despensa Prohibida: «La MENTIRA de la marca blanca…», 43.990 (4 m).
+- Comisiones bancarias: lo mejor tiene 9–11 años (18.957); lo reciente, menos de 500.
+
+**Ideas**
+1. **Vídeo largo — «¿Quién fabrica de verdad las marcas blancas de Mercadona?»**.
+2. **Vídeo largo — «El sistema que te cobra comisiones aunque no uses el banco»**.
+3. **Short — misma cesta, dos supermercados**, resultado primero.
+
+**Mejora aplicable:** título de sospecha («la mentira de…») con el dato fuerte al inicio. (`yt_video.py`: sin momentos más vistos.)
+
 ## 19/10/2026 (mañana)
 
 **Ejemplos que funcionan (datos públicos, 19/10/2026)**
