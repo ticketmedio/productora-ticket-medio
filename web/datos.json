@@ -2717,7 +2717,14 @@
       "createdAt": "2026-10-08T18:29:27.000Z",
       "updatedAt": "2026-10-20T18:04:34.438Z",
       "notes": "Un Reel de Pepa cada día laborable a las 19:00. Puedes hacerlo ANTES de esta fecha: los vídeos ya estarán listos y no hay que esperar a nadie.\nCarpetas: Descargas › faceless › redes › pepa_pita › videos › 0XX_… › salida (vídeo .mp4 + TEXTO_PUBLICACION.txt).\n\nFechas (hora de España):\n   · 023_cinco_segundos → lunes 9 de noviembre, 19:00 — Instagram + Facebook  [La regla de los cinco segundos]\n   · 024_descongelar → martes 10 de noviembre, 19:00 — Instagram + Facebook  [Descongelar sin riesgos]\n   · 025_no_congelar → miércoles 11 de noviembre, 19:00 — Instagram + Facebook  [Qué no se congela]\n   · 026_cuanto_aguanta → jueves 12 de noviembre, 19:00 — Facebook + TikTok  [Cuánto aguanta en el congelador]\n   · 027_pollo_hecho → viernes 13 de noviembre, 19:00 — Instagram + Facebook  [¿Cuándo está hecho el pollo?]\n\nA) INSTAGRAM + FACEBOOK (lunes, martes, miércoles y viernes; https://business.facebook.com/latest/home con TU Facebook personal; arriba a la izquierda «Pepa Pita»): «Crear reel» → marca Instagram y Facebook → vídeo → texto (Ctrl+E, Ctrl+C, Ctrl+V) → portada con Pepa de frente → «Siguiente» hasta «Share» → «Scheduling options» → «Schedule» → fecha y 07:00 PM → «Schedule». Si se queda en «Scheduling your post…», mira https://business.facebook.com/latest/content_calendar antes de repetir.\nB) FACEBOOK + TIKTOK (jueves, el vídeo largo de 61–75 s): en Meta, marca solo Facebook (no Instagram). En TikTok (https://www.tiktok.com/tiktokstudio/upload, cuenta de Pepa): vídeo → mismo texto → portada → «Mostrar más» → «Contenido generado por IA» → «Programar» → fecha, 19:00.\nAl terminar, escribe «Pepa programada» (y si alguno no se dejó programar, cuál).\n\nLISTA DE COMPROBACIÓN (redes/LISTA_COMPROBACION.md), en CADA publicación antes de pasar a la siguiente:\n  ☐ Texto pegado entero (no vacío ni cortado)\n  ☐ Hashtags: 5 como máximo\n  ☐ Fecha y hora correctas (ojo al MES; que la hora no se quede en la actual)\n  ☐ Cuenta y archivo correctos (Pepa Pita o Ticket Medio; en TikTok, el archivo con TIKTOK en el nombre, si lo hay)",
-      "comentarios": []
+      "comentarios": [
+        {
+          "id": "c-200437058705",
+          "author": "claude",
+          "text": "20/10 · Revisado: Reels 018–027 programados en Instagram y Facebook (2–13/11, 19:00) con su texto; carruseles 007–010 a las 13:00 (26/10, 28/10, 2/11, 9/11). Lo de TikTok se hace por trozos: ver tarea nueva.",
+          "createdAt": "2026-10-20T18:04:37.058Z"
+        }
+      ]
     },
     {
       "id": "pub-pepa-sem-4",
