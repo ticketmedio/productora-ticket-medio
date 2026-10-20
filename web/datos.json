@@ -2934,6 +2934,23 @@
           "createdAt": "2026-10-20T06:33:20.262Z"
         }
       ]
+    },
+    {
+      "id": "pub-tiktok-resto-1",
+      "title": "TikTok de Pepa: programar los Reels 020–027 (4 al 13/11) (20 min)",
+      "date": "2026-10-30",
+      "who": "tu",
+      "kind": "publicacion",
+      "project": "redes",
+      "status": "pendiente",
+      "platforms": [
+        "TikTok"
+      ],
+      "notes": "TikTok solo deja programar con unas 2 semanas de antelación: hoy (20/10) llega hasta el 3/11. Cuando llegue el viernes 30/10 ya puedes programar hasta el 13/11. Reels 020 (4/11), 021 (5/11), 022 (6/11), 023 (9/11), 024 (10/11), 025 (11/11), 026 (12/11) y 027 (13/11), siempre a las 19:00. Archivos: redes/pepa_pita/videos/NNN_nombre/salida (vídeo + TEXTO_PUBLICACION.txt). Mira el orden en redes/pepa_pita/FECHAS_PUBLICACION.txt. En TikTok: «Contenido generado por IA» activado.",
+      "createdAt": "2026-10-20T20:04:37",
+      "createdBy": "claude",
+      "updatedAt": "2026-10-20T20:04:37",
+      "comentarios": []
     }
   ],
   "mensajes": [
