@@ -2958,6 +2958,24 @@
           "createdAt": "2026-10-20T18:42:17.562Z"
         }
       ]
+    },
+    {
+      "id": "u-quitar-hashtag-cocina",
+      "title": "Instagram: quitar #cocina de los 6 Reels programados 013–018 (15 min)",
+      "date": "2026-10-21",
+      "who": "tu",
+      "kind": "tarea",
+      "project": "redes",
+      "status": "pendiente",
+      "platforms": [
+        "Instagram",
+        "Facebook"
+      ],
+      "notes": "Instagram admite 5 hashtags como máximo y estos 6 Reels llevan 6. Hay que quitar SOLO «#cocina» del texto de cada uno. Dónde: Meta Business Suite (business.facebook.com/latest) → Contenido → Publicaciones programadas → abre la publicación → «Editar» → borra «#cocina» del texto → «Guardar». Hazlo en las 6 (cada una sale en Instagram y en Facebook; al editarla desde Meta se cambia en las dos):\n  · 26/10, 19:00 · Reel 013 «¿Castañas asadas en casa y te explotan en el horno?»\n  · 27/10, 19:00 · Reel 014 «¿Vas a vaciar una calabaza para Halloween?»\n  · 28/10, 19:00 · Reel 015 «¿Te vas al monte a por setas?»\n  · 29/10, 19:00 · Reel 016 «¿Comer bien y barato en otoño?»\n  · 30/10, 19:00 · Reel 017 «¿Alubias poco hechas?»\n  · 2/11, 19:00 · Reel 018 «¿Tiras el pan de ayer?»\nLos hashtags que deben quedar (5): 013 #castañas #otoño #trucosdecocina #recetasdeotoño #pepapita · 014 #calabaza #halloween #otoño #trucosdecocina #pepapita · 015 #setas #otoño #micologia #seguridadalimentaria #pepapita · 016 #menusemanal #comerbarato #otoño #recetasfaciles #pepapita · 017 #legumbres #lentejas #alubias #trucosdecocina #pepapita · 018 #pan #nodesperdicies #torrijas #trucosdecocina #pepapita. En TikTok no hace falta tocarlos. Al terminar, avísame con «hashtags quitados».",
+      "createdAt": "2026-10-20T21:03:23",
+      "createdBy": "claude",
+      "updatedAt": "2026-10-20T21:03:23",
+      "comentarios": []
     }
   ],
   "mensajes": [
