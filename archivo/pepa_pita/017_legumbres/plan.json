@@ -1,0 +1,84 @@
+{
+ "voz": "voz/voz.mp3",
+ "subtitulos": "voz/subtitulos.srt",
+ "musica": "../../../../musica/pepa_pita/Travelling Light - Blue Deer Studio.mp3",
+ "musica_db": -22,
+ "fondo": "../../fondos/pexels_29148450.jpg",
+ "cabecera": "¿LEGUMBRES?",
+ "planos": [
+  {
+   "desde": 0,
+   "imagen": "busto"
+  },
+  {
+   "desde": 1.9,
+   "imagen": "exp_preocupada"
+  },
+  {
+   "desde": 4.4,
+   "imagen": "busto"
+  },
+  {
+   "desde": 10.3,
+   "imagen": "pose_senala"
+  },
+  {
+   "desde": 21.5,
+   "imagen": "exp_pensativa"
+  },
+  {
+   "desde": 25.5,
+   "imagen": "exp_riendo"
+  },
+  {
+   "desde": 27.6,
+   "imagen": "busto"
+  },
+  {
+   "desde": 30.1,
+   "imagen": "pose_sartenes"
+  },
+  {
+   "desde": 33.3,
+   "imagen": "exp_guino"
+  }
+ ],
+ "rotulos": [
+  {
+   "desde": 4.5,
+   "hasta": 10.2,
+   "texto": "LECTINAS",
+   "sub": "si no se cocinan bien, sientan mal · EFSA"
+  },
+  {
+   "desde": 10.3,
+   "hasta": 15.0,
+   "texto": "REMOJO 6–12 H",
+   "sub": "y tira esa agua · EFSA 2026"
+  },
+  {
+   "desde": 15.1,
+   "hasta": 21.4,
+   "texto": "HERVIR 30 MIN O MÁS",
+   "sub": "hasta que estén blandas · EFSA 2026"
+  },
+  {
+   "desde": 21.5,
+   "hasta": 25.4,
+   "texto": "VAPOR O MICRO: MENOS",
+   "sub": "quitan menos lectinas · EFSA"
+  },
+  {
+   "desde": 27.6,
+   "hasta": 33.2,
+   "texto": "4 VECES POR SEMANA",
+   "sub": "al menos · AESAN"
+  }
+ ],
+ "salida": "salida/PEPA_017_legumbres.mp4",
+ "gancho": {
+  "tipo": "B",
+  "texto": "¿ALUBIAS POCO HECHAS?",
+  "hasta": 2.0
+ }
+}

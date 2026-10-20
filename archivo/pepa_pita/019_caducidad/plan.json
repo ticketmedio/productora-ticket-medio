@@ -1,0 +1,76 @@
+{
+ "voz": "voz/voz.mp3",
+ "subtitulos": "voz/subtitulos.srt",
+ "musica": "../../../../musica/pepa_pita/Travelling Light - Blue Deer Studio.mp3",
+ "musica_db": -22,
+ "fondo": "../../fondos/pexels_5451503.jpg",
+ "cabecera": "¿FECHA PASADA?",
+ "planos": [
+  {
+   "desde": 0,
+   "imagen": "busto"
+  },
+  {
+   "desde": 4.96,
+   "imagen": "exp_sorprendida"
+  },
+  {
+   "desde": 11.0,
+   "imagen": "pose_senala"
+  },
+  {
+   "desde": 16.55,
+   "imagen": "busto"
+  },
+  {
+   "desde": 23.07,
+   "imagen": "exp_pensativa"
+  },
+  {
+   "desde": 27.73,
+   "imagen": "pose_sartenes"
+  },
+  {
+   "desde": 32.49,
+   "imagen": "busto"
+  },
+  {
+   "desde": 38.71,
+   "imagen": "exp_preocupada"
+  },
+  {
+   "desde": 45.59,
+   "imagen": "exp_riendo"
+  },
+  {
+   "desde": 50.13,
+   "imagen": "exp_guino"
+  }
+ ],
+ "rotulos": [
+  {
+   "desde": 11.0,
+   "hasta": 16.55,
+   "texto": "CONSUMO PREFERENTE",
+   "sub": "conserva sus propiedades · UE 1169/2011"
+  },
+  {
+   "desde": 27.73,
+   "hasta": 32.18,
+   "texto": "CADUCIDAD: A LA BASURA",
+   "sub": "tras la fecha no es seguro · UE 1169/2011"
+  },
+  {
+   "desde": 45.59,
+   "hasta": 50.13,
+   "texto": "CALIDAD, NO SEGURIDAD",
+   "sub": "«Best if Used By» · USDA (EE. UU.)"
+  }
+ ],
+ "salida": "salida/PEPA_019_caducidad.mp4",
+ "gancho": {
+  "tipo": "A",
+  "texto": "¿FECHA PASADA? ¿A LA BASURA?",
+  "hasta": 2.9
+ }
+}

@@ -1,0 +1,84 @@
+{
+ "voz": "voz/voz.mp3",
+ "subtitulos": "voz/subtitulos.srt",
+ "musica": "../../../../musica/pepa_pita/Travelling Light - Blue Deer Studio.mp3",
+ "musica_db": -22,
+ "fondo": "../../fondos/pexels_33640979.jpg",
+ "cabecera": "¿PAN DURO?",
+ "planos": [
+  {
+   "desde": 0,
+   "imagen": "busto"
+  },
+  {
+   "desde": 1.5,
+   "imagen": "exp_preocupada"
+  },
+  {
+   "desde": 3.8,
+   "imagen": "busto"
+  },
+  {
+   "desde": 10.6,
+   "imagen": "exp_sorprendida"
+  },
+  {
+   "desde": 14.8,
+   "imagen": "exp_pensativa"
+  },
+  {
+   "desde": 15.8,
+   "imagen": "pose_sartenes"
+  },
+  {
+   "desde": 20.2,
+   "imagen": "pose_senala"
+  },
+  {
+   "desde": 27.4,
+   "imagen": "exp_preocupada"
+  },
+  {
+   "desde": 31.1,
+   "imagen": "exp_guino"
+  }
+ ],
+ "rotulos": [
+  {
+   "desde": 3.9,
+   "hasta": 10.5,
+   "texto": "23 KG POR PERSONA",
+   "sub": "de comida tirada en casa en 2025 · MAPA"
+  },
+  {
+   "desde": 10.6,
+   "hasta": 14.7,
+   "texto": "EL PAN, 5.º",
+   "sub": "de lo que se tira sin tocar · MAPA"
+  },
+  {
+   "desde": 15.8,
+   "hasta": 20.1,
+   "texto": "TORRIJAS · MIGAS · SOPA",
+   "sub": "o pan rallado"
+  },
+  {
+   "desde": 20.2,
+   "hasta": 27.3,
+   "texto": "SE CONGELA",
+   "sub": "en rebanadas · AESAN"
+  },
+  {
+   "desde": 27.4,
+   "hasta": 31.0,
+   "texto": "¿MOHO? ENTERO FUERA",
+   "sub": "AESAN"
+  }
+ ],
+ "salida": "salida/PEPA_018_pan_duro.mp4",
+ "gancho": {
+  "tipo": "C",
+  "texto": "¿TIRAS EL PAN DE AYER?",
+  "hasta": 2.0
+ }
+}
