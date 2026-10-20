@@ -2672,7 +2672,14 @@
       "createdAt": "2026-10-08T18:29:27.000Z",
       "updatedAt": "2026-10-20T18:04:32.999Z",
       "notes": "Un Reel de Pepa cada día laborable a las 19:00. Puedes hacerlo ANTES de esta fecha: los vídeos ya estarán listos y no hay que esperar a nadie.\nCarpetas: Descargas › faceless › redes › pepa_pita › videos › 0XX_… › salida (vídeo .mp4 + TEXTO_PUBLICACION.txt).\n\nFechas (hora de España):\n   · 013_castanas → lunes 26 de octubre, 19:00 — Instagram + Facebook  [Castanas]\n   · 014_calabaza → martes 27 de octubre, 19:00 — Instagram + Facebook  [Calabaza]\n   · 015_setas → miércoles 28 de octubre, 19:00 — Instagram + Facebook  [Setas]\n   · 016_menu_otono → jueves 29 de octubre, 19:00 — Facebook + TikTok  [Menu otono]\n   · 017_legumbres → viernes 30 de octubre, 19:00 — Instagram + Facebook  [Legumbres]\n\nA) INSTAGRAM + FACEBOOK (lunes, martes, miércoles y viernes; https://business.facebook.com/latest/home con TU Facebook personal; arriba a la izquierda «Pepa Pita»): «Crear reel» → marca Instagram y Facebook → vídeo → texto (Ctrl+E, Ctrl+C, Ctrl+V) → portada con Pepa de frente → «Siguiente» hasta «Share» → «Scheduling options» → «Schedule» → fecha y 07:00 PM → «Schedule». Si se queda en «Scheduling your post…», mira https://business.facebook.com/latest/content_calendar antes de repetir.\nB) FACEBOOK + TIKTOK (jueves, el vídeo largo de 61–75 s): en Meta, marca solo Facebook (no Instagram). En TikTok (https://www.tiktok.com/tiktokstudio/upload, cuenta de Pepa): vídeo → mismo texto → portada → «Mostrar más» → «Contenido generado por IA» → «Programar» → fecha, 19:00.\nAl terminar, escribe «Pepa programada» (y si alguno no se dejó programar, cuál).\n\nLISTA DE COMPROBACIÓN (redes/LISTA_COMPROBACION.md), en CADA publicación antes de pasar a la siguiente:\n  ☐ Texto pegado entero (no vacío ni cortado)\n  ☐ Hashtags: 5 como máximo\n  ☐ Fecha y hora correctas (ojo al MES; que la hora no se quede en la actual)\n  ☐ Cuenta y archivo correctos (Pepa Pita o Ticket Medio; en TikTok, el archivo con TIKTOK en el nombre, si lo hay)",
-      "comentarios": []
+      "comentarios": [
+        {
+          "id": "c-200436044936",
+          "author": "claude",
+          "text": "20/10 · Claude lo ha revisado en Meta: Reels 013–017 programados en Instagram y Facebook en su día y hora (26–30/10, 19:00), con el texto correcto. En TikTok también están (hasta el 3/11 que permite hoy). Aviso: los textos de 013–018 llevan 6 hashtags y Instagram admite 5; si quieres, quita #cocina de esas 6 publicaciones en Instagram.",
+          "createdAt": "2026-10-20T18:04:36.045Z"
+        }
+      ]
     },
     {
       "id": "pub-pepa-sem-2",
@@ -2867,7 +2874,7 @@
       "who": "tu",
       "kind": "publicacion",
       "project": "redes",
-      "status": "pendiente",
+      "status": "hecho",
       "platforms": [
         "Instagram",
         "Facebook"
@@ -2875,7 +2882,7 @@
       "notes": "Carpetas en Descargas › faceless › redes › pepa_pita › carruseles: 007_otono_castanas_calabaza → lun 26/10 · 008_setas_mitos → mié 28/10 · 009_pan_duro_legumbres → lun 2/11 · 010_etiquetas_huevos_suelo → lun 9/11.\nAntes de dar cada una por hecha, lista de comprobación de redes/LISTA_COMPROBACION.md (texto pegado entero, 5 hashtags como máximo, fecha/mes/hora, cuenta y archivo correctos). Paso a paso en COMO_PUBLICAR_UN_CARRUSEL.txt (misma carpeta). «Crear publicación» (no «Crear reel»), marcando Facebook e Instagram, subiendo todas las imágenes de la carpeta y pegando el TEXTO_PUBLICACION.txt. Todos a las 13:00.",
       "createdAt": "2026-10-12T16:05:53",
       "createdBy": "claude",
-      "updatedAt": "2026-10-12T16:05:53",
+      "updatedAt": "2026-10-20T18:04:35.232Z",
       "comentarios": []
     },
     {
