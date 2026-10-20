@@ -1,0 +1,66 @@
+{
+ "voz": "voz/voz.mp3",
+ "subtitulos": "voz/subtitulos.srt",
+ "musica": "../../../../musica/pepa_pita/Travelling Light - Blue Deer Studio.mp3",
+ "musica_db": -22,
+ "fondo": "../../fondos/pexels_5451503.jpg",
+ "cabecera": "¿CÓDIGO DEL HUEVO?",
+ "planos": [
+  {
+   "desde": 0,
+   "imagen": "busto"
+  },
+  {
+   "desde": 3.29,
+   "imagen": "exp_sorprendida"
+  },
+  {
+   "desde": 8.46,
+   "imagen": "pose_senala"
+  },
+  {
+   "desde": 14.98,
+   "imagen": "busto"
+  },
+  {
+   "desde": 18.6,
+   "imagen": "exp_pensativa"
+  },
+  {
+   "desde": 23.48,
+   "imagen": "pose_sartenes"
+  },
+  {
+   "desde": 28.63,
+   "imagen": "busto"
+  },
+  {
+   "desde": 33.27,
+   "imagen": "exp_preocupada"
+  },
+  {
+   "desde": 35.83,
+   "imagen": "exp_guino"
+  }
+ ],
+ "rotulos": [
+  {
+   "desde": 4.56,
+   "hasta": 8.46,
+   "texto": "1 · 2 · 3",
+   "sub": "campera · suelo · jaula · UE 2023/2465"
+  },
+  {
+   "desde": 23.48,
+   "hasta": 28.63,
+   "texto": "L: 63 A 73 GRAMOS",
+   "sub": "M: 53 a 63 g · UE 2023/2465"
+  }
+ ],
+ "salida": "salida/PEPA_022_huevos_codigo.mp4",
+ "gancho": {
+  "tipo": "A",
+  "texto": "¿QUÉ DICE TU HUEVO?",
+  "hasta": 3.29
+ }
+}

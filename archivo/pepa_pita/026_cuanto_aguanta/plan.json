@@ -1,0 +1,114 @@
+{
+ "voz": "voz/voz.mp3",
+ "subtitulos": "voz/subtitulos.srt",
+ "musica": "../../../../musica/pepa_pita/Travelling Light - Blue Deer Studio.mp3",
+ "musica_db": -22,
+ "fondo": "../../fondos/pexels_29148450.jpg",
+ "cabecera": "¿CUÁNTO AGUANTA?",
+ "planos": [
+  {
+   "desde": 0,
+   "imagen": "busto"
+  },
+  {
+   "desde": 5.74,
+   "imagen": "exp_sorprendida"
+  },
+  {
+   "desde": 10.97,
+   "imagen": "pose_senala"
+  },
+  {
+   "desde": 18.45,
+   "imagen": "busto"
+  },
+  {
+   "desde": 22.03,
+   "imagen": "exp_pensativa"
+  },
+  {
+   "desde": 26.74,
+   "imagen": "pose_sartenes"
+  },
+  {
+   "desde": 33.4,
+   "imagen": "busto"
+  },
+  {
+   "desde": 41.37,
+   "imagen": "exp_preocupada"
+  },
+  {
+   "desde": 45.97,
+   "imagen": "exp_riendo"
+  },
+  {
+   "desde": 50.23,
+   "imagen": "busto"
+  },
+  {
+   "desde": 53.88,
+   "imagen": "pose_senala"
+  },
+  {
+   "desde": 57.52,
+   "imagen": "exp_contenta"
+  },
+  {
+   "desde": 61.9,
+   "imagen": "busto"
+  },
+  {
+   "desde": 72.02,
+   "imagen": "exp_sorprendida"
+  },
+  {
+   "desde": 76.23,
+   "imagen": "exp_guino"
+  }
+ ],
+ "rotulos": [
+  {
+   "desde": 10.97,
+   "hasta": 18.14,
+   "texto": "SEGURO CASI SIEMPRE",
+   "sub": "los tiempos son de calidad · AESAN"
+  },
+  {
+   "desde": 18.45,
+   "hasta": 22.03,
+   "texto": "FRUTA Y VERDURA: 8–12 MESES",
+   "sub": "vacuno, cordero, cerdo: 6–12 · AESAN"
+  },
+  {
+   "desde": 29.65,
+   "hasta": 33.4,
+   "texto": "CARNE PICADA: 3–4 MESES",
+   "sub": "fiambres y embutidos: 1–2 · AESAN"
+  },
+  {
+   "desde": 41.37,
+   "hasta": 45.97,
+   "texto": "PESCADO BLANCO: 6–8 MESES",
+   "sub": "azul: 2–3 · marisco: 3–6 · AESAN"
+  },
+  {
+   "desde": 53.88,
+   "hasta": 57.2,
+   "texto": "SOPAS Y GUISOS: 2–3 MESES",
+   "sub": "apunta la fecha en el envase · AESAN"
+  },
+  {
+   "desde": 65.09,
+   "hasta": 72.02,
+   "texto": "USDA (EE. UU.): MUY PARECIDO",
+   "sub": "Molida 3–4 meses · fiambres 1–2"
+  }
+ ],
+ "salida": "salida/PEPA_026_cuanto_aguanta.mp4",
+ "gancho": {
+  "tipo": "B",
+  "texto": "¿CUÁNTO AGUANTA EN EL CONGELADOR?",
+  "hasta": 2.61
+ }
+}

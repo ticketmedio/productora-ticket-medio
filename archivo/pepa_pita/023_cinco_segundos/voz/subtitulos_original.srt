@@ -1,0 +1,43 @@
+1
+00:00:00,000 --> 00:00:05,372
+¿Se te cae una galleta al suelo y la recoges en cinco segundos?
+
+2
+00:00:05,372 --> 00:00:07,589
+A ver qué dice la ciencia.
+
+3
+00:00:07,939 --> 00:00:12,457
+Investigadores de la Universidad de Rutgers lo probaron con una bacteria,
+
+4
+00:00:12,457 --> 00:00:17,160
+cuatro superficies y cuatro alimentos, con contactos de menos de un segundo,
+
+5
+00:00:17,160 --> 00:00:19,512
+cinco, treinta y trescientos segundos.
+
+6
+00:00:19,862 --> 00:00:24,465
+Resultado: cuanto más tiempo, más bacterias pasan.
+
+7
+00:00:24,465 --> 00:00:32,106
+Pero algo se transfiere ya en algo se transfiere de los cinco segundos no funciona.
+
+8
+00:00:32,456 --> 00:00:39,109
+Y también importa qué alimento y qué suelo: la sandía recogió más bacterias que un caramelo de goma.
+
+9
+00:00:39,459 --> 00:00:42,942
+Así que si se cae, mejor no arriesgar.
+
+10
+00:00:42,942 --> 00:00:46,150
+Sígueme, que aquí aprendemos todos.
+
+11
+00:00:46,150 --> 00:00:47,250
+¡Cloc, cloc!

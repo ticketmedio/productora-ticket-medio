@@ -1,0 +1,82 @@
+{
+ "voz": "voz/voz.mp3",
+ "subtitulos": "voz/subtitulos.srt",
+ "musica": "../../../../musica/pepa_pita/Travelling Light - Blue Deer Studio.mp3",
+ "musica_db": -22,
+ "fondo": "../../fondos/pexels_5451503.jpg",
+ "cabecera": "¿POLLO HECHO?",
+ "planos": [
+  {
+   "desde": 0,
+   "imagen": "busto"
+  },
+  {
+   "desde": 3.34,
+   "imagen": "exp_sorprendida"
+  },
+  {
+   "desde": 11.62,
+   "imagen": "pose_senala"
+  },
+  {
+   "desde": 15.26,
+   "imagen": "busto"
+  },
+  {
+   "desde": 18.56,
+   "imagen": "exp_pensativa"
+  },
+  {
+   "desde": 24.63,
+   "imagen": "pose_sartenes"
+  },
+  {
+   "desde": 29.88,
+   "imagen": "busto"
+  },
+  {
+   "desde": 37.2,
+   "imagen": "exp_preocupada"
+  },
+  {
+   "desde": 40.91,
+   "imagen": "exp_riendo"
+  },
+  {
+   "desde": 43.88,
+   "imagen": "exp_guino"
+  }
+ ],
+ "rotulos": [
+  {
+   "desde": 5.99,
+   "hasta": 11.3,
+   "texto": "70 °C EN TODAS PARTES",
+   "sub": "también por dentro · Min. de Consumo"
+  },
+  {
+   "desde": 11.62,
+   "hasta": 15.26,
+   "texto": "POLLO: SIN ROSA",
+   "sub": "vacuno: grisáceo · Min. de Consumo"
+  },
+  {
+   "desde": 18.56,
+   "hasta": 24.32,
+   "texto": "PESCADO: FIRME Y BLANCO",
+   "sub": "se separa con el tenedor · Consumo"
+  },
+  {
+   "desde": 29.88,
+   "hasta": 37.2,
+   "texto": "AVES: 74 °C (165 °F)",
+   "sub": "Con termómetro · USDA y FDA (EE. UU.)"
+  }
+ ],
+ "salida": "salida/PEPA_027_pollo_hecho.mp4",
+ "gancho": {
+  "tipo": "C",
+  "texto": "¿CÓMO SABES SI EL POLLO ESTÁ HECHO?",
+  "hasta": 2.16
+ }
+}

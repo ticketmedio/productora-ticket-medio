@@ -1,0 +1,120 @@
+{
+ "voz": "voz/voz.mp3",
+ "subtitulos": "voz/subtitulos.srt",
+ "musica": "../../../../musica/pepa_pita/Travelling Light - Blue Deer Studio.mp3",
+ "musica_db": -22,
+ "fondo": "../../fondos/pexels_33640979.jpg",
+ "cabecera": "¿TÁPER AL TRABAJO?",
+ "planos": [
+  {
+   "desde": 0,
+   "imagen": "busto"
+  },
+  {
+   "desde": 3.78,
+   "imagen": "exp_sorprendida"
+  },
+  {
+   "desde": 9.93,
+   "imagen": "pose_senala"
+  },
+  {
+   "desde": 15.15,
+   "imagen": "busto"
+  },
+  {
+   "desde": 19.45,
+   "imagen": "exp_pensativa"
+  },
+  {
+   "desde": 27.15,
+   "imagen": "pose_sartenes"
+  },
+  {
+   "desde": 31.13,
+   "imagen": "busto"
+  },
+  {
+   "desde": 37.8,
+   "imagen": "exp_preocupada"
+  },
+  {
+   "desde": 44.67,
+   "imagen": "exp_riendo"
+  },
+  {
+   "desde": 50.75,
+   "imagen": "busto"
+  },
+  {
+   "desde": 55.87,
+   "imagen": "pose_senala"
+  },
+  {
+   "desde": 61.19,
+   "imagen": "exp_contenta"
+  },
+  {
+   "desde": 68.53,
+   "imagen": "busto"
+  },
+  {
+   "desde": 73.32,
+   "imagen": "exp_sorprendida"
+  },
+  {
+   "desde": 82.25,
+   "imagen": "exp_guino"
+  }
+ ],
+ "rotulos": [
+  {
+   "desde": 9.93,
+   "hasta": 14.84,
+   "texto": "MANOS: 20 SEGUNDOS",
+   "sub": "jabón y agua caliente · AESAN"
+  },
+  {
+   "desde": 16.61,
+   "hasta": 22.29,
+   "texto": "COPA Y TENEDOR",
+   "sub": "recipiente apto · AESAN"
+  },
+  {
+   "desde": 28.98,
+   "hasta": 37.49,
+   "texto": "BOLSA ISOTÉRMICA",
+   "sub": "sin golpes ni cambios bruscos · AESAN"
+  },
+  {
+   "desde": 39.52,
+   "hasta": 44.67,
+   "texto": "MÁS DE 75 °C",
+   "sub": "no la comas fría · AESAN"
+  },
+  {
+   "desde": 52.03,
+   "hasta": 55.87,
+   "texto": "MÁX. 2 HORAS FUERA",
+   "sub": "1 hora si hace más de 30 °C · AESAN"
+  },
+  {
+   "desde": 58.37,
+   "hasta": 68.53,
+   "texto": "3 DÍAS EN LA NEVERA",
+   "sub": "como máximo · AESAN"
+  },
+  {
+   "desde": 73.32,
+   "hasta": 79.51,
+   "texto": "CON CALOR: 1 HORA",
+   "sub": "Más de 32 °C (90 °F) · USDA (EE. UU.)"
+  }
+ ],
+ "salida": "salida/PEPA_021_taper_trabajo.mp4",
+ "gancho": {
+  "tipo": "C",
+  "texto": "¿TU TÁPER AGUANTA HASTA LAS DOS?",
+  "hasta": 1.56
+ }
+}

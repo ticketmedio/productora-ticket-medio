@@ -1,0 +1,62 @@
+{
+ "voz": "voz/voz.mp3",
+ "subtitulos": "voz/subtitulos.srt",
+ "musica": "../../../../musica/pepa_pita/Travelling Light - Blue Deer Studio.mp3",
+ "musica_db": -22,
+ "fondo": "../../fondos/pexels_29148450.jpg",
+ "cabecera": "¿5 SEGUNDOS?",
+ "planos": [
+  {
+   "desde": 0,
+   "imagen": "busto"
+  },
+  {
+   "desde": 4.8,
+   "imagen": "exp_sorprendida"
+  },
+  {
+   "desde": 11.12,
+   "imagen": "pose_senala"
+  },
+  {
+   "desde": 15.32,
+   "imagen": "busto"
+  },
+  {
+   "desde": 21.84,
+   "imagen": "exp_pensativa"
+  },
+  {
+   "desde": 28.98,
+   "imagen": "pose_sartenes"
+  },
+  {
+   "desde": 35.23,
+   "imagen": "busto"
+  },
+  {
+   "desde": 41.2,
+   "imagen": "exp_guino"
+  }
+ ],
+ "rotulos": [
+  {
+   "desde": 21.84,
+   "hasta": 28.67,
+   "texto": "YA PASAN EN <1 SEGUNDO",
+   "sub": "Rutgers · Appl. Environ. Microbiol. 2016"
+  },
+  {
+   "desde": 28.98,
+   "hasta": 34.92,
+   "texto": "SANDÍA > CARAMELO",
+   "sub": "el alimento también importa · Rutgers"
+  }
+ ],
+ "salida": "salida/PEPA_023_cinco_segundos.mp4",
+ "gancho": {
+  "tipo": "B",
+  "texto": "¿LA REGLA DE LOS 5 SEGUNDOS?",
+  "hasta": 4.8
+ }
+}

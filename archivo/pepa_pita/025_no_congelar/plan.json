@@ -1,0 +1,68 @@
+{
+ "voz": "voz/voz.mp3",
+ "subtitulos": "voz/subtitulos.srt",
+ "musica": "../../../../musica/pepa_pita/Travelling Light - Blue Deer Studio.mp3",
+ "musica_db": -22,
+ "fondo": "../../fondos/pexels_5451503.jpg",
+ "cabecera": "¿NO SE CONGELA?",
+ "planos": [
+  {
+   "desde": 0,
+   "imagen": "busto"
+  },
+  {
+   "desde": 6.13,
+   "imagen": "exp_sorprendida"
+  },
+  {
+   "desde": 13.08,
+   "imagen": "pose_senala"
+  },
+  {
+   "desde": 16.33,
+   "imagen": "busto"
+  },
+  {
+   "desde": 20.22,
+   "imagen": "exp_pensativa"
+  },
+  {
+   "desde": 25.84,
+   "imagen": "pose_sartenes"
+  },
+  {
+   "desde": 32.3,
+   "imagen": "busto"
+  },
+  {
+   "desde": 38.46,
+   "imagen": "exp_guino"
+  }
+ ],
+ "rotulos": [
+  {
+   "desde": 19.11,
+   "hasta": 22.35,
+   "texto": "NO: CRUDOS, PATATAS, MAYONESA",
+   "sub": "pierden sabor o textura · AESAN"
+  },
+  {
+   "desde": 25.84,
+   "hasta": 31.98,
+   "texto": "SÍ: CARNE, PESCADO, PAN…",
+   "sub": "y huevos batidos · AESAN"
+  },
+  {
+   "desde": 32.3,
+   "hasta": 38.46,
+   "texto": "-18 °C O MENOS",
+   "sub": "congelador de 4 estrellas · AESAN"
+  }
+ ],
+ "salida": "salida/PEPA_025_no_congelar.mp4",
+ "gancho": {
+  "tipo": "A",
+  "texto": "¿QUÉ NO SE CONGELA?",
+  "hasta": 1.84
+ }
+}

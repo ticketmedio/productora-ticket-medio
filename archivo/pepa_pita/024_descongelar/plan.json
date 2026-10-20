@@ -1,0 +1,82 @@
+{
+ "voz": "voz/voz.mp3",
+ "subtitulos": "voz/subtitulos.srt",
+ "musica": "../../../../musica/pepa_pita/Travelling Light - Blue Deer Studio.mp3",
+ "musica_db": -22,
+ "fondo": "../../fondos/pexels_33640979.jpg",
+ "cabecera": "¿DESCONGELAR?",
+ "planos": [
+  {
+   "desde": 0,
+   "imagen": "busto"
+  },
+  {
+   "desde": 9.86,
+   "imagen": "exp_sorprendida"
+  },
+  {
+   "desde": 16.91,
+   "imagen": "pose_senala"
+  },
+  {
+   "desde": 21.98,
+   "imagen": "busto"
+  },
+  {
+   "desde": 26.89,
+   "imagen": "exp_pensativa"
+  },
+  {
+   "desde": 34.24,
+   "imagen": "pose_sartenes"
+  },
+  {
+   "desde": 40.04,
+   "imagen": "busto"
+  },
+  {
+   "desde": 47.74,
+   "imagen": "exp_preocupada"
+  },
+  {
+   "desde": 52.98,
+   "imagen": "exp_riendo"
+  },
+  {
+   "desde": 57.23,
+   "imagen": "exp_guino"
+  }
+ ],
+ "rotulos": [
+  {
+   "desde": 2.71,
+   "hasta": 9.55,
+   "texto": "DE 5 A 65 °C",
+   "sub": "se multiplican más rápido · AESAN"
+  },
+  {
+   "desde": 9.86,
+   "hasta": 16.91,
+   "texto": "12 HORAS ANTES",
+   "sub": "en la nevera, sobre una bandeja · AESAN"
+  },
+  {
+   "desde": 22.82,
+   "hasta": 26.89,
+   "texto": "MICROONDAS: POTENCIA BAJA",
+   "sub": "y cocínalo enseguida · AESAN"
+  },
+  {
+   "desde": 47.74,
+   "hasta": 52.98,
+   "texto": "AGUA FRÍA: CAMBIA CADA 30 MIN",
+   "sub": "Bolsa cerrada y cocinar ya · USDA (EE. UU.)"
+  }
+ ],
+ "salida": "salida/PEPA_024_descongelar.mp4",
+ "gancho": {
+  "tipo": "C",
+  "texto": "¿DESCONGELAS EN LA ENCIMERA?",
+  "hasta": 2.17
+ }
+}

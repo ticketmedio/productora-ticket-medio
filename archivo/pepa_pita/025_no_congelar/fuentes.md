@@ -1,0 +1,4 @@
+# Fuentes — Pepa Pita 025 «Qué no se congela»
+- AESAN, «¿Congelas y descongelas los alimentos de forma segura en casa?»: «NO se deben congelar porque, aunque sean seguros, pierden sus cualidades de sabor o textura: verduras y frutas que se van a comer en crudo (lechuga, tomates, etc.); patatas; huevos con cáscara; alimentos con alto contenido en grasa; mayonesa; alimentos fritos». https://www.aesan.gob.es/dam/jcr:38a8f1b3-25dc-40b6-a831-90a04ae3d03f/congelar_descongelar.pdf
+- Misma ficha: «SÍ se pueden congelar: carnes, pescados, fiambres, verduras, legumbres, embutidos, frutas, huevos batidos, pan». «Se recomienda que los alimentos se congelen a temperaturas inferiores a -18 ºC, para lo que se necesita un congelador de 4 estrellas.»
+- Verificado el 8/10/2026 con el PDF (lectura por posiciones, columnas SÍ y NO comprobadas).

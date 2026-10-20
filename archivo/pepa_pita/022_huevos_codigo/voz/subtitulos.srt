@@ -1,0 +1,39 @@
+1
+00:00:00,000 --> 00:00:03,293
+¿Has visto ese código que llevan los huevos?
+
+2
+00:00:03,293 --> 00:00:04,564
+¡No es un adorno!
+
+3
+00:00:04,564 --> 00:00:08,456
+El primer número dice cómo vivió la gallina: el uno,
+
+4
+00:00:08,456 --> 00:00:14,667
+campera, con acceso al aire libre; el dos, criada en el suelo; y el tres, en jaula.
+
+5
+00:00:14,979 --> 00:00:18,291
+Después van las letras del país y el número de la granja.
+
+6
+00:00:18,604 --> 00:00:23,480
+Y las letras del estuche, S, M, L y XL, son por peso.
+
+7
+00:00:23,480 --> 00:00:28,633
+Una L pesa entre sesenta y tres y setenta y tres gramos.
+
+8
+00:00:28,633 --> 00:00:32,958
+Una M, entre cincuenta y tres y sesenta y tres.
+
+9
+00:00:33,271 --> 00:00:35,826
+Sígueme, que aquí aprendemos todos.
+
+10
+00:00:35,826 --> 00:00:36,702
+¡Cloc, cloc!
