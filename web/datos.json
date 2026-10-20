@@ -2903,7 +2903,7 @@
       "who": "tu",
       "kind": "tarea",
       "project": "redes",
-      "status": "en_curso",
+      "status": "hecho",
       "platforms": [
         "Instagram",
         "Facebook"
@@ -2911,8 +2911,15 @@
       "notes": "🎯 Instagram de Pepa ya pasa de 500 seguidores. 18/10: tu pantalla de Monetización dice «conocer las políticas»: NO es una infracción, es un paso informativo. Pasos en la app: perfil de @soypepapita → Panel profesional → Herramientas de monetización. 1) Abre y lee «Políticas de monetización para socios» (pulsa «Entendido»/«Continuar» si sale). 2) Abre y lee «Políticas de monetización de contenido». 3) Vuelve atrás: deben salir con check. 4) Entra en «Regalos»: acepta las condiciones y configura la cuenta de pagos. Suscripciones e insignias piden 10.000 seguidores: no te tocan todavía. Si algo no se marca, mándame una captura. NO te des de alta todavía en Amazon Afiliados: piden seguidores orgánicos y una página consolidada, y parte de estos seguidores vienen de seguir a seguir.\n\n18/10 (tarde) · Claude ha mirado con tu sesión, solo lectura: Estado de la cuenta de Instagram = sin restricciones, sin límites de alcance y todas las funciones disponibles; la página de Facebook pone «No Monetization Violations». La cuenta es de tipo Creador (categoría Bloguero) y lleva la etiqueta de perfil generado con IA. O sea: NO hay infracción visible. El «Respeta nuestras políticas» de Regalos se ve solo en la app. Paso para ti: en la pantalla de Regalos, toca justo esa fila (la que sale sin check) y hazme una captura de lo que se abre; si no se abre nada, espera 24–72 h (Instagram revisa las cuentas por su cuenta y la tuya acaba de crecer mucho) y vuelve a mirar.",
       "createdAt": "2026-10-17T00:02:32",
       "createdBy": "claude",
-      "updatedAt": "2026-10-19T05:06:18.195Z",
-      "comentarios": []
+      "updatedAt": "2026-10-20T06:33:20.262Z",
+      "comentarios": [
+        {
+          "id": "c-w-33",
+          "author": "tu",
+          "text": "No me salen para hacer nada",
+          "createdAt": "2026-10-20T06:33:20.262Z"
+        }
+      ]
     }
   ],
   "mensajes": [
@@ -3341,7 +3348,9 @@
     "w-25",
     "w-28",
     "w-29",
-    "w-31"
+    "w-31",
+    "w-33",
+    "w-35"
   ],
   "informes": [
     {
@@ -3350,6 +3359,13 @@
       "titulo": "Marcas blancas sigue tirando (166.986) y las comisiones bancarias siguen vacías",
       "texto": "## Lo más importante\n- **Marcas blancas sigue siendo el tema con tirón**: «¿Quién fabrica las marcas blancas de Lidl, Carrefour y Dia?» (Veterinario Gratis, ≈2,07 M suscriptores) lleva **166.986** visualizaciones en 3 semanas. Los que han copiado el tema después («quién fabrica Hacendado») están en **589–904**: hay hueco para una versión con datos propios.\n- **Bancos y comisiones**: lo reciente tiene entre **5 y 113** visualizaciones; solo despega lo inmobiliario (**19.208**, 20:42, «Burbuja inmobiliaria… ¿o todo lo contrario?», El Club de Inversión, hace 1 d). Nadie ha ocupado «el sistema que te cobra comisiones».\n- **Black Friday (27/11, cálculo propio, sin confirmar con fuente oficial)**: los vídeos de «la trampa del precio tachado» tienen **7–260** visualizaciones. Tema de temporada sin competidor fuerte, pero con poco volumen por ahora.\n\n## YouTube: lo que está funcionando\n- **Veterinario Gratis**: «¿Quién fabrica las marcas blancas de Lidl, Carrefour y Dia?», 12:10, **166.986**, hace 3 sem. Título de pregunta + «¡Te sorprenderá!».\n- **Supermercado, «cómo gana dinero»**: Con Razón (7:34, **20**), El Negocio Detrás de… (13:15, **68**), Economía para Ti (**34**): el tema está poco visto, lo grande son las comparativas de cesta (La Blue Kombi, 31:48, **75.625**, hace 6 m; Crisbe Soto, 20:35, **5.207**, hace 1 m).\n- **Detrás del Tique** (canal pequeño): «Hacendado… lo he comprobado» (8:47, **593**) y «el precio tachado casi nunca es verdad (con datos)» (8:39, **7**): el formato «lo he comprobado» existe pero sin tracción.\n- `yt_video.py` ha devuelto 403 desde la nube: no hay «momentos más vistos» hoy.\n\n## Instagram y Facebook\n- Solo búsqueda pública. Las fuentes (blogs de marketing, sin cifras oficiales) coinciden en que pesan la **retención pasados los 3 primeros segundos**, los **envíos por mensaje** y las repeticiones. Hay Reels de prueba para no seguidores.\n- Reels de hasta 90 s (algunas cuentas, 3 min en beta): mejor uno corto con alta finalización que uno largo flojo. Una «puntuación de originalidad» aparece en un solo blog: sin confirmar.\n- No hay un cambio de algoritmo fechado en octubre de 2026 en los resultados.\n- Temporada próxima: **Todos los Santos (1/11)**: castañas, huesos de santo, buñuelos, panellets; Tosantos en Cádiz/Rota/Jerez (31/10–2/11) y Castanyada en Cataluña.\n\n## TikTok\n- Sin datos de esta semana para España. Solo contexto: #cookinghacks en el informe Next 2026 (≈803.000 publicaciones, global) y un artículo argentino que dice que el 71 % usa TikTok para buscar recetas (útil para la audiencia de Pepa en Argentina).\n\n## Lo nuestro hoy (cifras públicas)\n- Ticket Medio: **7 suscriptores**, 15 vídeos.\n- «El Corte Inglés gana 3 céntimos por euro. ¿Cómo sigue vivo?» **4** (hace 3 d); «ZARA: ¿quién se queda el dinero de tu camiseta?» **6** (10 d); «MERCADONA: ¿dónde va cada euro…?» **12** (2 sem.); «Por qué la gasolina sube en un día…» **13** (3 sem.).\n- Sin crecimiento orgánico todavía; no hay cifras de Pepa públicas desde la nube.\n\n## Ideas para nosotros\n- **Vídeo largo**: «¿Quién fabrica de verdad las marcas blancas de Mercadona?» (ejemplo: Veterinario Gratis, 166.986 con 2,07 M suscriptores; los imitadores quedan por debajo de 1.000).\n- **Short**: misma cesta, dos supermercados, resultado primero (ejemplo: La Blue Kombi, 75.625).\n- **Carrusel de Pepa**: castañas y dulces de Todos los Santos, pensado para guardar (fuente oficial y guiño latino).\n- **Mejora aplicable**: pregunta de sospecha en el título («¿quién fabrica…?») y el dato fuerte en los primeros segundos.\n\n## Para ti\n- Nada. Aviso técnico: `yt_video.py` falla con 403 en la nube, así que no he podido sacar los picos de retención.",
       "createdAt": "2026-10-20T05:06:43.016Z"
+    },
+    {
+      "fecha": "2026-10-20",
+      "clave": "seo",
+      "titulo": "YouTube: 3.264 visualizaciones en 28 días, pero los largos siguen en 0,28 h válidas",
+      "texto": "## Lo más importante\n- **Horas válidas siguen casi a cero:** los vídeos largos suman **37 visualizaciones y 0,28 h** en 28 días (de 8.000); en 7 días, **11 visualizaciones y 0,13 h**.\n- **Los Shorts sostienen el canal:** **3.227 visualizaciones y 9,78 h** en 28 días (no cuentan para el Programa de Socios). En 7 días, 902 visualizaciones; un solo Short (`vO79lJDvoZU`) aporta **615**.\n- **Suscriptores:** el canal público muestra **7** (ayer 5); la API da +5 en 28 días y +1 en los últimos 7. Muy lejos de 1.000.\n\n## YouTube (Ticket Medio)\n- **28 días (API):** **3.264** visualizaciones, **10,07 h**, 29 s de duración media, 35 «me gusta», 3 comentarios, 5 compartidos.\n- **7 días (API):** **913** visualizaciones, **1,88 h**, 1 suscriptor nuevo.\n- **Largos (horas válidas):** 37 visualizaciones y **0,28 h** en 28 días; 11 visualizaciones y 0,13 h en 7 días (media 74 s).\n- **Shorts (aparte):** 3.227 visualizaciones y 9,78 h en 28 días. Más vistos: `12LjhOzELJo` (**705**, 87 % visto), `vpBDYjjepIQ` (**615**), `vO79lJDvoZU` (**615**, 64 % visto, el mejor de la semana) y `BmJ0zzkJy40` (**461**).\n- **Canal público:** 7 suscriptores y 15 vídeos. Último largo (El Corte Inglés): 4 visualizaciones en 3 días; Zara, 6; Mercadona, 12; gasolina, 13.\n- **Retención:** no he sacado curva de ningún largo (visualizaciones demasiado bajas para que signifique algo).\n- Los títulos de la API no se pueden leer (YouTube Data API v3 desactivada en el proyecto de Google Cloud); uso los ID.\n\n## Facebook, Instagram y TikTok (Pepa Pita)\nCifras del último informe del PC (**17/10**, no son de hoy):\n- **Instagram:** 1.548 seguidores; 4.160 visualizaciones en 30 días.\n- **TikTok:** 2 seguidores; 750 visualizaciones en 7 días.\n- **Facebook:** 8 seguidores; las fotos de comunidad rinden más que los Reels.\n\n## Comparación con el día anterior\n- **YouTube 28 días:** 2.711 → **3.264** visualizaciones; 9,03 → **10,07 h**. Largos: 36 → 37 visualizaciones, 0,28 h sin cambio.\n- **7 días:** 818 → **913** visualizaciones.\n- **Suscriptores:** +4 → **+5** en 28 días (canal público 5 → 7).\n- Meta y TikTok: sin dato nuevo.\n\n## Qué funciona y qué no\n- **Funciona:** los Shorts que se ven casi enteros (87 % de visionado en dos de ellos) y el Short de la semana con 64 % visto.\n- **No funciona:** el salto del Short al largo (3.227 visualizaciones de Shorts frente a 37 de largos) y la conversión a suscriptores (5 por cada 3.264 visualizaciones).\n\n## Recomendación del día\n- Cada Short de esta semana debe cerrar con el gancho al largo («el dato que falta está en el vídeo completo») y llevar el largo fijado en el primer comentario. Título de paradoja para el largo: «Gana 3 céntimos por euro y no quiebra: el sistema que lo sostiene».\n\n## Para ti\n- Hoy el informe SEO lo ha hecho la nube con la API de YouTube; las cifras de Meta y TikTok son del último informe del PC.\n- Para que los informes digan los títulos y no los ID, habilita «YouTube Data API v3» en el proyecto de Google Cloud 773557972583.",
+      "createdAt": "2026-10-20T06:33:20.280Z"
     },
     {
       "fecha": "2026-10-19",
