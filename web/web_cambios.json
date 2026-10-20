@@ -139,6 +139,13 @@
    "fecha": "2026-10-20T05:45:29Z",
    "tarea": "u-hito-ig-regalos",
    "texto": "No me salen para hacer nada"
+  },
+  {
+   "id": "w-35",
+   "accion": "estado",
+   "fecha": "2026-10-20T05:57:59Z",
+   "tarea": "u-hito-ig-regalos",
+   "estado": "hecho"
   }
  ]
 }
