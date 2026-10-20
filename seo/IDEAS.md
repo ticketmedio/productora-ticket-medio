@@ -2,6 +2,20 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 20/10/2026 (mañana)
+
+**Ejemplos que funcionan (datos públicos, 20/10/2026)**
+- Veterinario Gratis (≈2,07 M suscriptores): «¿Quién fabrica las marcas blancas de Lidl, Carrefour y Dia?», 166.986 en 3 sem.; imitadores sobre Hacendado: 589–904.
+- La Blue Kombi: «¿Cuánto cuesta hacer mercado en España en 2026?», 75.625 (31:48, 6 m).
+- Bancos: lo reciente, de 5 a 113 visualizaciones.
+
+**Ideas**
+1. **Vídeo largo — «¿Quién fabrica de verdad las marcas blancas de Mercadona?»** (sigue vigente).
+2. **Short — misma cesta, dos supermercados**, resultado primero.
+3. **Carrusel de Pepa — castañas y dulces de Todos los Santos** (fuente oficial, guiño latino).
+
+**Mejora aplicable:** título en pregunta de sospecha con el dato fuerte al inicio. (`yt_video.py`: 403.)
+
 ## 19/10/2026 (tarde)
 
 **Ejemplos que funcionan (datos públicos, 19/10/2026)**
