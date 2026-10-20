@@ -2950,7 +2950,14 @@
       "createdAt": "2026-10-20T20:04:37",
       "createdBy": "claude",
       "updatedAt": "2026-10-20T18:42:16.764Z",
-      "comentarios": []
+      "comentarios": [
+        {
+          "id": "c-204217562132",
+          "author": "claude",
+          "text": "20/10 · Anulada: Claude lo ha vuelto a comprobar en TikTok Studio y los Reels de Pepa ya están programados hasta el 13/11 (20, 22, 24, 26–30/10 y 2–6 y 9–13/11, 19:00) con su texto. Mi primera lectura se quedó corta y me equivoqué.",
+          "createdAt": "2026-10-20T18:42:17.562Z"
+        }
+      ]
     }
   ],
   "mensajes": [
