@@ -234,3 +234,10 @@ En 2026 no habrá ingresos significativos por visualizaciones. Los primeros euro
 **Riesgos que se aceptan con los ojos abiertos:**
 - Contenido no auténtico: voz sintética + imágenes generadas + guion con IA es el perfil que YouTube revisa. Mitigación: aportación propia documentada, mascota y ticket como sello, fuentes. Cada vídeo mediocre resta: no se baja la calidad por cumplir calendario.
 - Repositorio público: cualquiera puede copiar el sistema. Decisión del usuario; se recordará cuando el canal crezca.
+
+
+## 14. Lo que dicen los datos a 20/10/2026 (análisis completo en seo/ANALISIS_20-10-2026.md)
+- YouTube: 5.717 visualizaciones y 18,3 h en 28 días, 7 suscriptores; los largos suman 0,28 h válidas de 8.000. Los Shorts son el 94 % de lo que se ve y el paso al largo es inferior al 1 %. Con el sistema actual, la monetización de julio de 2027 no es realista; las decisiones se toman el 9/11 y a final de noviembre (puntos de control del apartado 8).
+- Instagram (Pepa): 1.822 seguidores (5 el 8/10); las visualizaciones por seguidor son bajas (2,9 en 30 días) y los guardados y envíos, casi nulos. Regalos: la cuenta cumple 500 seguidores y país, pero falta que Instagram marque «respeta nuestras políticas»; riesgos: seguir a seguir y formato de imágenes fijas.
+- Facebook (Pepa): 9 seguidores y 3.651 espectadores; reparte pero no crea comunidad. Funcionan las fotos de comunidad y los carruseles.
+- TikTok (Pepa): desde el 13/10 reparte 350–380 visualizaciones por Reel; 2 seguidores. Falta convertir en el perfil.

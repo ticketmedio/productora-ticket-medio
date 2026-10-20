@@ -34,3 +34,9 @@ Las apunta la rutina diaria (`seo/RUTINA_DIARIA.md`). No se aplican a los vídeo
 ## 05/10/2026 (rutina SEO) — Los Shorts abren, el largo no retiene
 - Dato: Short de Mercadona del 3/10: 644 visualizaciones, 90 % visto, 96,5 % desde el feed de Shorts. Vídeo largo de Mercadona (2/10): 6 visualizaciones y 9 % de retención media. Suscriptores 1 → 3.
 - Qué hacer (Zara, Lidl y Shorts aún sin publicar): abrir cada Short con un «truco» de una cifra, y comprobar que tiene elegido el vídeo largo en «Vídeo relacionado». Para el viernes 9/10: el criterio de Mercadona (más de 100 visualizaciones y más del 25 % de retención en el largo) casi seguro no se cumple; antes del vídeo 5 revisar título, miniatura, primeros 30 s y cómo llevar al espectador del Short al largo (pantalla final, comentario fijado, descripción del Short).
+
+## 20/10/2026 (análisis completo con datos de las 4 redes: ver seo/ANALISIS_20-10-2026.md)
+- Dato: el Short «El Corte Inglés casi no paga alquiler: es su propio casero» lleva 1.853 visualizaciones (70 % visto) y los largos, menos de 13 cada uno: el paso Short→largo es <1 %.
+- Qué hacer: en los Shorts aún sin subir (vídeos 8–12) añadir al final un pie hablado y en pantalla «el vídeo completo, en el canal» y abrir con «lo que crees, al revés». Medir a 7 días cuánto sube el largo del Corte Inglés y el de Lidl (23/10).
+- Dato: los Reels 013–018 de Pepa llevan 6 hashtags (regla: 5). Qué hacer: el usuario puede quitar #cocina en Instagram; del 019 en adelante ya son 5.
+- Dato: Facebook reparte (3.651 espectadores/28 días) pero solo 9 seguidores; TikTok reparte 350–380 visualizaciones por Reel y 2 seguidores. Qué hacer: revisar el perfil de TikTok (nombre, foto, biografía) y usar carruseles y fotos de comunidad en Facebook.
