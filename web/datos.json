@@ -2666,11 +2666,11 @@
         "TikTok"
       ],
       "date": "2026-10-21",
-      "status": "pendiente",
+      "status": "hecho",
       "title": "Programar los Reels de Pepa 013–017 (semana del 26/10) en Instagram, Facebook y TikTok (45 min)",
       "createdBy": "claude",
       "createdAt": "2026-10-08T18:29:27.000Z",
-      "updatedAt": "2026-10-20T17:00:38.000Z",
+      "updatedAt": "2026-10-20T18:04:32.999Z",
       "notes": "Un Reel de Pepa cada día laborable a las 19:00. Puedes hacerlo ANTES de esta fecha: los vídeos ya estarán listos y no hay que esperar a nadie.\nCarpetas: Descargas › faceless › redes › pepa_pita › videos › 0XX_… › salida (vídeo .mp4 + TEXTO_PUBLICACION.txt).\n\nFechas (hora de España):\n   · 013_castanas → lunes 26 de octubre, 19:00 — Instagram + Facebook  [Castanas]\n   · 014_calabaza → martes 27 de octubre, 19:00 — Instagram + Facebook  [Calabaza]\n   · 015_setas → miércoles 28 de octubre, 19:00 — Instagram + Facebook  [Setas]\n   · 016_menu_otono → jueves 29 de octubre, 19:00 — Facebook + TikTok  [Menu otono]\n   · 017_legumbres → viernes 30 de octubre, 19:00 — Instagram + Facebook  [Legumbres]\n\nA) INSTAGRAM + FACEBOOK (lunes, martes, miércoles y viernes; https://business.facebook.com/latest/home con TU Facebook personal; arriba a la izquierda «Pepa Pita»): «Crear reel» → marca Instagram y Facebook → vídeo → texto (Ctrl+E, Ctrl+C, Ctrl+V) → portada con Pepa de frente → «Siguiente» hasta «Share» → «Scheduling options» → «Schedule» → fecha y 07:00 PM → «Schedule». Si se queda en «Scheduling your post…», mira https://business.facebook.com/latest/content_calendar antes de repetir.\nB) FACEBOOK + TIKTOK (jueves, el vídeo largo de 61–75 s): en Meta, marca solo Facebook (no Instagram). En TikTok (https://www.tiktok.com/tiktokstudio/upload, cuenta de Pepa): vídeo → mismo texto → portada → «Mostrar más» → «Contenido generado por IA» → «Programar» → fecha, 19:00.\nAl terminar, escribe «Pepa programada» (y si alguno no se dejó programar, cuál).\n\nLISTA DE COMPROBACIÓN (redes/LISTA_COMPROBACION.md), en CADA publicación antes de pasar a la siguiente:\n  ☐ Texto pegado entero (no vacío ni cortado)\n  ☐ Hashtags: 5 como máximo\n  ☐ Fecha y hora correctas (ojo al MES; que la hora no se quede en la actual)\n  ☐ Cuenta y archivo correctos (Pepa Pita o Ticket Medio; en TikTok, el archivo con TIKTOK en el nombre, si lo hay)",
       "comentarios": []
     },
