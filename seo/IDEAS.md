@@ -2,6 +2,20 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 20/10/2026 (tarde)
+
+**Ejemplos que funcionan (datos públicos, 20/10/2026)**
+- Demand Lab (≈2,45 mil suscriptores): «¿Cuánto le queda a El Corte Inglés?», 203.760 (9:42, 2 m); Telepizza, 90 mil.
+- Raíz Española (≈17,8 mil): caída de El Corte Inglés, 230.034 (22:16, 6 m).
+- Finanzas Emocionales: «CUIDADO! La TRAMPA de los Bancos…», 144.282 (5 m).
+
+**Ideas**
+1. **Vídeo largo — «¿Cuánto le queda a…?» sobre otra gran empresa española**, resultado en los primeros segundos.
+2. **Vídeo largo — «¿Quién fabrica de verdad las marcas blancas de Mercadona?»** (sigue vigente).
+3. **Carrusel de Pepa — dulces de Todos los Santos** (pendiente de fuente oficial AESAN).
+
+**Mejora aplicable:** título de pregunta corta con la empresa conocida y el dato fuerte al inicio. (`yt_video.py`: sin datos.)
+
 ## 20/10/2026 (mañana)
 
 **Ejemplos que funcionan (datos públicos, 20/10/2026)**
