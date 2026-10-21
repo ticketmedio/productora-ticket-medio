@@ -2,6 +2,20 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 21/10/2026 (mañana)
+
+**Ejemplos que funcionan (datos públicos, 21/10/2026)**
+- Javier Ledesma (≈430 mil suscriptores): «La gran crisis de DIA: ¿se queda solo en España?», 741.469 (21:19, 1 m); su serie de caídas (Shein 457 mil, Tres Arroyos 313 mil, EKI 221 mil).
+- Elias Sweet: «¿Cuánto cuesta hacer mercado en España este 2026?», 7.994 (18:31).
+- Negocios TV: crisis de Ormuz e inflación alimentaria, 6.290 en 6 h.
+
+**Ideas**
+1. **Vídeo largo — «¿Cuánto le queda a DIA?»**, dato fuerte en los primeros 10 s.
+2. **Short — misma cesta, dos supermercados**, resultado primero.
+3. **Carrusel de Pepa — dulces de Todos los Santos** (pendiente de fuente oficial AESAN).
+
+**Mejora aplicable:** abrir con el dato: en el vídeo de DIA la intensidad cae de 0,51 al inicio a 0,16 a los 12 s (`yt_video.py`).
+
 ## 20/10/2026 (tarde)
 
 **Ejemplos que funcionan (datos públicos, 20/10/2026)**
