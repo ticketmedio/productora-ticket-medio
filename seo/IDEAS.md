@@ -2,6 +2,20 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 21/10/2026 (tarde)
+
+**Ejemplos que funcionan (datos públicos, 21/10/2026)**
+- Javier Ledesma (≈430 mil suscriptores): «La gran crisis de DIA: ¿se queda solo en España?», 741.836 (21:19, 1 m); 13.215 «me gusta», 963 comentarios.
+- Demand Lab (≈2,45 mil): «¿Cuánto le queda a El Corte Inglés?», 203.817 (2 m); Rimembah: «¿Qué LE HA PASADO a El Corte Inglés?», 518.792 (1 m).
+- Veterinario Gratis: marcas blancas de Hacendado, 194.347 (1 m).
+
+**Ideas**
+1. **Vídeo largo — «¿Cuánto le queda a…?» sobre otra gran empresa española** (DIA y El Corte Inglés ya funcionan; ángulo propio: dónde va cada euro).
+2. **Short — misma cesta, dos supermercados**, resultado primero (RTVE: la cesta cuesta un 40 % más que hace cinco años, 10.592).
+3. **Carrusel de Pepa — dulces de Todos los Santos** (pendiente de fuente oficial AESAN; los carruseles se guardan 9 veces más según Metricool).
+
+**Mejora aplicable:** abrir con el dato: en el vídeo de DIA la intensidad cae de 0,51 al inicio a 0,16 a los 12 s y a 0,06 a los 38 s (`yt_video.py`).
+
 ## 21/10/2026 (mañana)
 
 **Ejemplos que funcionan (datos públicos, 21/10/2026)**
