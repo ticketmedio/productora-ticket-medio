@@ -2,6 +2,20 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 22/10/2026 (mañana)
+
+**Ejemplos que funcionan (datos públicos, 22/10/2026)**
+- Bruno Peluch (≈6,15 mil suscriptores): «La Verdadera Historia de TOUS (y Su Mayor Escándalo)», 57 mil en 3 d; HAWKERS, 16 mil.
+- CienciaX: «El aeropuerto de 1.000 millones que cerró a los 3 años», 102.938 (21:57, 2 d).
+- Demand Lab (≈2,45 mil): Telepizza 91 mil.
+
+**Ideas**
+1. **Vídeo largo — «El sistema que hace imposible copiar a…» sobre otra marca española** (Desigual, Freixenet...).
+2. **Short — misma cesta, dos supermercados**, resultado primero.
+3. **Carrusel de Pepa — dulces de Todos los Santos** (pendiente de fuente AESAN).
+
+**Mejora aplicable:** título de «sistema»/escándalo con empresa concreta y cifra; evitar «cómo gana dinero Mercadona» (saturado). (`yt_video.py`: 403.)
+
 ## 21/10/2026 (tarde)
 
 **Ejemplos que funcionan (datos públicos, 21/10/2026)**
