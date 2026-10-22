@@ -2,6 +2,19 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 22/10/2026 (tarde)
+
+**Ejemplos que funcionan (datos públicos, 22/10/2026)**
+- Bruno Peluch (≈6,17 mil suscriptores): «La Verdadera Historia de TOUS (y Su Mayor Escándalo)», 66 mil en 4 d; «El sistema que hace imposible copiar a Zara», 303.152 (10:49, 3 m).
+- Javier Ledesma: DIA, 742.497 (21:19). Demand Lab (≈2,46 mil): Telepizza 91 mil.
+
+**Ideas**
+1. **Vídeo largo — «El sistema que…» sobre otra marca española** (Desigual, Freixenet), dato fuerte en los 10 primeros segundos.
+2. **Short — misma cesta, dos supermercados**, resultado primero y enlazado al largo (OCU: ahorro de hasta 1.310 € al año).
+3. **Carrusel de Pepa — dulces de Todos los Santos** (pendiente de fuente AESAN).
+
+**Mejora aplicable:** el título «sistema» ya lo copian canales pequeños con 14–183 visualizaciones: añadir empresa concreta y cifra. (`yt_video.py`: falla por red.)
+
 ## 22/10/2026 (mañana)
 
 **Ejemplos que funcionan (datos públicos, 22/10/2026)**
