@@ -2,6 +2,20 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 23/10/2026 (mañana)
+
+**Ejemplos que funcionan (datos públicos, 23/10/2026)**
+- Bruno Peluch (≈6,19 mil suscriptores): «Así es cómo un OSO convirtió a TOUS en un imperio», 73 mil en 4 d.
+- Demand Lab (≈2,46 mil): «¿Cómo gana 300M al año sin clientes?», 41 mil.
+- Edu Saz: crisis de vivienda hace 100 años, 24.182 en 13 h (27:19).
+
+**Ideas**
+1. **Vídeo largo — historia de una marca española con giro** (Desigual, Freixenet), cifra en el título.
+2. **Short — misma cesta, dos supermercados**, resultado primero.
+3. **Carrusel de Pepa — dulces de Todos los Santos** (pendiente de fuente AESAN).
+
+**Mejora aplicable:** título con giro + cifra, no solo pregunta. (`yt_video.py`: 403 por red.)
+
 ## 22/10/2026 (tarde)
 
 **Ejemplos que funcionan (datos públicos, 22/10/2026)**
