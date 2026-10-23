@@ -2,6 +2,19 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 23/10/2026 (tarde)
+
+**Ejemplos que funcionan (datos públicos, 23/10/2026)**
+- Bruno Peluch (≈6,21 mil suscriptores): «¿Nos están engañando? La verdad sobre el cambio de nombre de CEPSA», 173 mil (1 m); TOUS, 81 mil en 5 d.
+- Elias Sweet: «15 EUROS en Mercadona vs Lidl», 45.876 (10:12, 8 m).
+
+**Ideas**
+1. **Vídeo largo — «¿Nos están engañando?» sobre un cambio de marca o precio** (empresa concreta y cifra).
+2. **Short — 15 € de cesta, Mercadona vs Lidl**, resultado primero y enlazado al largo.
+3. **Carrusel de Pepa — dulces de Todos los Santos** (sigue pendiente de fuente AESAN).
+
+**Mejora aplicable:** título con sospecha + empresa; quitar asteriscos literales del título del Lidl. (`yt_video.py`: 403 por red.)
+
 ## 23/10/2026 (mañana)
 
 **Ejemplos que funcionan (datos públicos, 23/10/2026)**
