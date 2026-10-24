@@ -3466,6 +3466,13 @@
       "createdAt": "2026-10-24T06:32:50.338Z"
     },
     {
+      "fecha": "2026-10-24",
+      "clave": "mercado-tarde",
+      "titulo": "Mercado tarde: el súper adelanta la Navidad y el aceite no baja en tienda",
+      "texto": "## Lo más importante\n- **Los supermercados siguen siendo noticia:** RTVE «Los supermercados adelantan la Navidad a octubre…» (**18.119** visualizaciones en 1 d, 1:44) y El Confidencial sobre el aceite que baja en origen y no en el súper (**21.229** en 1 d, 1:12). Ángulo de sospecha + cifra.\n- **Las comparativas de cesta se mantienen:** «15 EUROS en Mercadona vs Lidl» sigue en **45.937** (10:12, hace 8 m).\n- **Lo nuestro no despega aún:** 7 suscriptores y 21 vídeos; los dos últimos largos tienen **2** y **5** visualizaciones.\n\n## YouTube: lo que está funcionando\n- El Confidencial: aceite cae en origen y no en el súper, **21.229** (1:12, hace 1 d).\n- RTVE Noticias: Navidad en octubre en los súper, **18.119** (1:44, hace 1 d).\n- Elias Sweet: Mercadona vs Lidl con 15 €, **45.937** (10:12).\n- No he podido abrir `yt_video.py` (error de red en la nube), así que no hay picos de ritmo de ese vídeo.\n\n## Instagram y Facebook\n- Búsqueda pública sin novedades de octubre de 2026. Metricool (24 M de publicaciones): los Reels lideran en alcance e interacción; los carruseles se guardan **9 veces** más que la imagen única.\n- La retención tras los 3 primeros segundos se cita como señal principal (fuente secundaria, sin verificar en Meta).\n\n## TikTok\n- Nada específico de España esta semana en la búsqueda; solo recopilaciones de Halloween de años anteriores. Temporada: Halloween (31/10) y Todos los Santos (1/11, domingo).\n\n## Lo nuestro hoy (cifras públicas)\n- **7** suscriptores, 21 vídeos.\n- Lidl: **2** (hace 1 d); El Corte Inglés: **5** (8 d); Zara: **11** (2 sem.); Mercadona: **14** (3 sem.); gasolina: **14** (4 sem.).\n- Los títulos de Lidl y El Corte Inglés siguen con asteriscos literales.\n\n## Ideas para nosotros\n- **Largo:** la verdad detrás de «adelantan la Navidad»: qué gana el súper con ello, con una cifra.\n- **Short:** el aceite baja en origen pero no en el súper, resultado primero y enlazado al largo.\n- **Carrusel de Pepa:** dulces de Todos los Santos (sigue pendiente de fuente AESAN).\n- **Mejora:** quitar los asteriscos de los títulos.\n\n## Para ti\n- Falló `yt_video.py` por la red de la nube. Quita los asteriscos de los títulos de Lidl y El Corte Inglés en YouTube Studio.",
+      "createdAt": "2026-10-24T18:09:58.586Z"
+    },
+    {
       "fecha": "2026-10-23",
       "clave": "mercado-manana",
       "titulo": "Mercado mañana: TOUS 73 mil con 6 mil suscriptores; los nuestros siguen en 4–14",
