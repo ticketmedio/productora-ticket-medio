@@ -2,6 +2,19 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 24/10/2026 (tarde)
+
+**Ejemplos que funcionan (datos públicos, 24/10/2026)**
+- El Confidencial: aceite cae en origen y no en el súper, 21.229 (1:12, 1 d). RTVE Noticias: súper adelantan la Navidad, 18.119 (1:44, 1 d).
+- Elias Sweet: «15 EUROS en Mercadona vs Lidl», 45.937 (10:12, 8 m).
+
+**Ideas**
+1. **Vídeo largo — qué gana el súper adelantando la Navidad**, con cifra.
+2. **Short — el aceite baja en origen y no en tienda**, resultado primero y enlazado al largo.
+3. **Carrusel de Pepa — dulces de Todos los Santos** (pendiente de fuente AESAN).
+
+**Mejora aplicable:** quitar asteriscos de los títulos de Lidl y El Corte Inglés. (`yt_video.py`: error de red.)
+
 ## 24/10/2026 (mañana)
 
 **Ejemplos que funcionan (datos públicos, 24/10/2026)**
