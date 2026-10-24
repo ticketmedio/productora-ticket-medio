@@ -2,6 +2,19 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 24/10/2026 (mañana)
+
+**Ejemplos que funcionan (datos públicos, 24/10/2026)**
+- Marc Vidal: «Lo que están haciendo los supermercados con tus datos es una locura», 703.473 (hace 5 m).
+- RTVE Noticias: «El menú del día sube de precio…», 20.778 en 21 h.
+
+**Ideas**
+1. **Vídeo largo — qué hace un supermercado con tu cesta/datos**, con cifra y sospecha, atado a la noticia de precios.
+2. **Short — misma cesta, dos súper**, resultado primero y enlazado al largo.
+3. **Carrusel de Pepa — dulces de Todos los Santos** (pendiente de fuente AESAN).
+
+**Mejora aplicable:** quitar asteriscos literales de los títulos de Lidl y El Corte Inglés. (`yt_video.py` sin datos útiles.)
+
 ## 23/10/2026 (tarde)
 
 **Ejemplos que funcionan (datos públicos, 23/10/2026)**
