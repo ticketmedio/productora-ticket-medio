@@ -2,6 +2,20 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 25/10/2026 (tarde)
+
+**Ejemplos que funcionan (datos públicos, 25/10/2026)**
+- Bruno Peluch (≈6,31 mil suscriptores): TOUS, 131 mil en 7 d; Bizum, 10 mil.
+- Demand Lab (≈2,46 mil): El Corte Inglés, 204 mil; Telepizza, 91 mil.
+- RTVE Noticias: supermercados adelantan la Navidad, 27.103 (1:44, 2 d).
+
+**Ideas**
+1. **Vídeo largo — qué gana el súper adelantando la Navidad**, con cifra y sospecha.
+2. **Short — mismo carro, dos súper**, resultado primero y enlazado al largo.
+3. **Carrusel de Pepa — castañas y dulces de Todos los Santos** (falta fuente AESAN).
+
+**Mejora aplicable:** «el sistema que…» + empresa conocida; sin asteriscos. (`yt_video.py`: 403 por red.)
+
 ## 25/10/2026 (mañana)
 
 **Ejemplos que funcionan (datos públicos, 25/10/2026)**
