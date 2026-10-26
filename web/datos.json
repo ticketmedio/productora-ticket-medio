@@ -2976,6 +2976,19 @@
       "createdBy": "claude",
       "updatedAt": "2026-10-20T21:03:23",
       "comentarios": []
+    },
+    {
+      "id": "u-yt-titulos-enlaces",
+      "title": "YouTube: quitar los asteriscos de los títulos y enlazar cada Short a su largo (20 min)",
+      "date": "2026-10-27",
+      "who": "tu",
+      "kind": "tarea",
+      "project": "youtube",
+      "status": "pendiente",
+      "platforms": [
+        "YouTube"
+      ],
+      "notes": "Por qué: los largos no arrancan (Lidl, 1 visualización en 3 días; el resto, 4–14). Dos fallos que se arreglan en Studio:\n1) ASTERISCOS EN EL TÍTULO. Al copiar el título del archivo 07_TITULOS.md se coló el formato (**…**) y los vídeos se ven como «**Lidl compra en España más de lo que vende: el truco alemán**». Quita los asteriscos al principio y al final en: Lidl (publicado), El Corte Inglés (publicado) y el largo de la luz (programado para el 30/10). Studio → Contenido → el vídeo → Título → Guardar. Ya he corregido los archivos para los próximos.\n2) SHORTS SIN ENLACE AL LARGO. De cada 100 visualizaciones de Shorts, menos de 1 llega a un largo. En cada Short ya publicado (Studio → Contenido → Shorts → el Short → «Vídeo relacionado» → elige el largo del mismo tema): casero y resto del Corte Inglés → largo del Corte Inglés; Lidl (compra/venta, cuota, 3.200 vs 8.000 productos) → largo de Lidl; Zara → largo de Zara; Mercadona/Hacendado → largo de Mercadona. Los Shorts de la luz (3–6/11), igual al programarlos.\nSi un Short ya tiene el vídeo relacionado, déjalo. No hace falta tocar nada más. (Martes 27/10: no es festivo.)"
     }
   ],
   "mensajes": [
@@ -3320,6 +3333,12 @@
       "author": "claude",
       "text": "📈 Resumen SEO del lunes 26/10: YouTube 9.136 visualizaciones y 25,6 h en 28 días (Short de Shein vs Zara: 969 en un día), pero los largos siguen en 1–14 visualizaciones y 0,68 h de 8.000. Instagram 1.941 seguidores (+35 en 5 días), 8.371 visualizaciones en 30 días. Facebook 12, TikTok 2. Recomendación: enlazar cada Short a su largo y probar Shorts de 10–15 s con una sola comparación. 💡 Idea: Reel de la mayonesa (búsqueda real de TikTok). Informe completo en Informes diarios",
       "createdAt": "2026-10-26T18:22:37.456Z"
+    },
+    {
+      "id": "m-192810085480",
+      "author": "claude",
+      "text": "🔧 Para mañana (27/10): en YouTube hay dos fallos que frenan los largos: los títulos de Lidl, Corte Inglés y la luz llevan asteriscos (**…**) por un error al copiar, y los Shorts no enlazan al largo con «Vídeo relacionado». Es una tarea de 20 min en la Sala; los archivos futuros ya salen sin asteriscos.",
+      "createdAt": "2026-10-26T18:28:10.085Z"
     }
   ],
   "hojaDeRuta": {
