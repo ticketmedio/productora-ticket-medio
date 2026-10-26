@@ -2,7 +2,7 @@
 
 Decididos ANTES del guion (ver `00_PACKAGING.md`).
 
-1. Lo que devuelves a Amazon: ¿lo revenden, lo regalan o lo destruyen? ← ELEGIDO (67 caracteres).
+1. ¿Qué hace Amazon con lo que devuelves? ¿Lo destruye, lo revende o lo regala? ← ELEGIDO (copiar SIN asteriscos) (76 caracteres).
 2. ¿Qué hace Amazon con tus devoluciones? Lo que dicen la ley y la empresa (prueba A/B).
 3. ¿Destruye Amazon lo que devuelves? Lo que se sabe (y lo que no).
 

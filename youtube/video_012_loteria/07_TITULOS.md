@@ -2,7 +2,7 @@
 
 Decididos ANTES del guion (ver `00_PACKAGING.md`).
 
-1. Lotería de Navidad: ¿quién gana siempre? Lo que dicen los números ← ELEGIDO (65 caracteres).
+1. Lotería de Navidad 2026: ¿quién gana siempre? Lo que dicen los números ← ELEGIDO (copiar SIN asteriscos) (70 caracteres).
 2. Un décimo de 20 €: cuánto vuelve de media y cuánto se queda Hacienda (prueba A/B).
 3. Si te toca el Gordo, ¿cuánto cobras de verdad? La cuenta oficial.
 

@@ -2,7 +2,7 @@
 
 Decididos ANTES del guion (ver `00_PACKAGING.md`).
 
-1. ¿Cuál es el súper más barato de España? Los datos de 690 supermercados ← ELEGIDO (70 caracteres).
+1. ¿Cuál es el súper más barato de España en 2026? Datos de 690 supermercados ← ELEGIDO (copiar SIN asteriscos) (74 caracteres).
 2. Entre el súper más barato y el más caro hay 1.310 € al año: los datos de la OCU (prueba A/B).
 3. Lidl pasa de 18 a 60 ciudades como el más barato: el estudio de la OCU 2026.
 
