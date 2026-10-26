@@ -53,7 +53,7 @@ n = cfg["n"]
 alts = "\n".join(f"{i + 2}. {a}" + (" (prueba A/B)." if i == 0 else ".") for i, a in enumerate(cfg["alternativas"]))
 open(os.path.join(V, "07_TITULOS.md"), "w", encoding="utf-8").write(
     f"# 07 · TÍTULOS — Vídeo {n:03d} ({cfg['nombre']})\n\nDecididos ANTES del guion (ver `00_PACKAGING.md`).\n\n"
-    f"1. **{cfg['titulo']}** ← ELEGIDO ({len(cfg['titulo'])} caracteres).\n{alts}\n\n"
+    f"1. {cfg['titulo']} ← ELEGIDO (copiar SIN asteriscos) ({len(cfg['titulo'])} caracteres).\n{alts}\n\n"
     f"Miniatura: output/MINIATURA_1280x720.png («{cfg['miniatura']}»).\n\n## Etiquetas (copiar tal cual en «Etiquetas»)\n{cfg['etiquetas']}\n")
 open(os.path.join(V, "08_DESCRIPCION.txt"), "w", encoding="utf-8").write(
     cfg["descripcion"].strip() + "\n\nCAPÍTULOS\n" + caps +

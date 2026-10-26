@@ -2,7 +2,7 @@
 
 Decididos ANTES del guion (ver `00_PACKAGING.md`).
 
-1. **El billete medio de Ryanair no cuesta 10 €: cuesta 75** ← ELEGIDO (53 caracteres).
+1. El billete medio de Ryanair no cuesta 10 €: cuesta 75 ← ELEGIDO (53 caracteres).
 2. ¿Cómo gana dinero Ryanair? Adónde va cada euro de tu billete (prueba A/B).
 3. Ryanair gana 10,84 € por pasajero: así se reparte tu billete.
 

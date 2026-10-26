@@ -2,7 +2,7 @@
 
 Decididos ANTES del guion (ver `00_PACKAGING.md`).
 
-1. **Por qué tu factura de la luz sube aunque la energía baja** ← ELEGIDO (56 caracteres).
+1. Por qué tu factura de la luz sube aunque la energía baja ← ELEGIDO (56 caracteres).
 2. Los impuestos de tu factura de la luz se han multiplicado por 2,7 (prueba A/B).
 3. ¿Dónde va cada euro de tu factura de la luz? Los datos de Eurostat.
 

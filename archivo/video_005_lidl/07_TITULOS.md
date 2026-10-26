@@ -2,7 +2,7 @@
 
 Decididos ANTES del guion (ver `00_PACKAGING.md`).
 
-1. **Lidl compra en España más de lo que vende: el truco alemán** ← ELEGIDO.
+1. Lidl compra en España más de lo que vende: el truco alemán ← ELEGIDO.
 2. ¿Por qué Lidl compra en España más de lo que vende? (prueba A/B).
 3. Lidl vende 3.200 productos; Mercadona, 8.000. ¿Quién gana más por euro?
 
