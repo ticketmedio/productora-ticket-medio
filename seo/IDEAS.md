@@ -2,6 +2,20 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 26/10/2026 (tarde)
+
+**Ejemplos que funcionan (datos públicos, 26/10/2026)**
+- Bruno Peluch (≈6,37 mil suscriptores): TOUS, 155 mil en 8 d; Hawkers, 18 mil.
+- Demand Lab (≈2,46 mil): El Corte Inglés, 204 mil; Telepizza, 91 mil.
+- Lluís Lairón: misma cesta en Mercadona, Lidl, Aldi y Carrefour, 68.246 en 1 m (8:36).
+
+**Ideas**
+1. **Vídeo largo — marca española conocida con giro o escándalo** (estilo TOUS/Telepizza), con cifra.
+2. **Short — misma cesta, dos súper**, resultado primero y enlazado al largo.
+3. **Carrusel de Pepa — castañas y dulces de Todos los Santos / Castanyada** (falta fuente AESAN).
+
+**Mejora aplicable:** empresa conocida + sospecha + cifra en las primeras palabras; sin asteriscos. (`yt_video.py`: error de red.)
+
 ## 26/10/2026 (mañana)
 
 **Ejemplos que funcionan (datos públicos, 26/10/2026)**
