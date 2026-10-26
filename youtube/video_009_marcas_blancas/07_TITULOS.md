@@ -2,7 +2,7 @@
 
 Decididos ANTES del guion (ver `00_PACKAGING.md`).
 
-1. ¿Quién fabrica Hacendado? Las marcas blancas de Mercadona (y lo que la ley no te dice) ← ELEGIDO (copiar SIN asteriscos) (86 caracteres).
+1. ¿Quién fabrica Hacendado? Lo que la ley no te dice ← ELEGIDO (copiar SIN asteriscos) (50 caracteres).
 2. El sistema de proveedores de Mercadona: 4 de ellos facturan más de 1.000 millones (prueba A/B).
 3. ¿Quién fabrica tu marca blanca? Cómo buscarlo en el registro de la AESAN.
 

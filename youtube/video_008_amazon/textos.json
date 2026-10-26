@@ -1,8 +1,9 @@
 {
  "n": 8,
  "nombre": "lo que devuelves a Amazon",
- "titulo": "¿Qué hace Amazon con lo que devuelves? ¿Lo destruye, lo revende o lo regala?",
+ "titulo": "¿Qué hace Amazon con lo que devuelves? ¿Lo destruye?",
  "alternativas": [
+  "¿Qué hace Amazon con lo que devuelves? ¿Lo destruye, lo revende o lo regala?",
   "Lo que devuelves a Amazon: ¿lo revenden, lo regalan o lo destruyen?",
   "¿Qué hace Amazon con tus devoluciones? Lo que dicen la ley y la empresa",
   "¿Destruye Amazon lo que devuelves? Lo que se sabe (y lo que no)"
