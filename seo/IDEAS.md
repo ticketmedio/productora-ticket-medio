@@ -2,6 +2,20 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 26/10/2026 (mañana)
+
+**Ejemplos que funcionan (datos públicos, 26/10/2026)**
+- Bruno Peluch (≈6,33 mil suscriptores): TOUS, 144 mil en 7 d (18:02); Hawkers, 18 mil.
+- Dinastía del Dinero Antiguo: Martinsa-Fadesa, 40.998 en 11 d (29:48).
+- Hecho en España: Madelman, 7.240 en 4 d (22:40).
+
+**Ideas**
+1. **Vídeo largo — el sistema que hizo caer a una marca española conocida**, con cifra en el título.
+2. **Short — misma cesta, dos súper**, resultado primero y enlazado al largo.
+3. **Carrusel de Pepa — castañas y dulces de Todos los Santos** (falta fuente AESAN).
+
+**Mejora aplicable:** cifra y empresa conocida en las primeras palabras; sin asteriscos. (`yt_video.py`: 403 por red.)
+
 ## 25/10/2026 (tarde)
 
 **Ejemplos que funcionan (datos públicos, 25/10/2026)**
