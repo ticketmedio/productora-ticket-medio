@@ -40,3 +40,8 @@ Las apunta la rutina diaria (`seo/RUTINA_DIARIA.md`). No se aplican a los vídeo
 - Qué hacer: en los Shorts aún sin subir (vídeos 8–12) añadir al final un pie hablado y en pantalla «el vídeo completo, en el canal» y abrir con «lo que crees, al revés». Medir a 7 días cuánto sube el largo del Corte Inglés y el de Lidl (23/10).
 - Dato: los Reels 013–018 de Pepa llevan 6 hashtags (regla: 5). Qué hacer: el usuario puede quitar #cocina en Instagram; del 019 en adelante ya son 5.
 - Dato: Facebook reparte (3.651 espectadores/28 días) pero solo 9 seguidores; TikTok reparte 350–380 visualizaciones por Reel y 2 seguidores. Qué hacer: revisar el perfil de TikTok (nombre, foto, biografía) y usar carruseles y fotos de comunidad en Facebook.
+
+## 26/10/2026 (SEO local)
+- Short de 10 s «Shein vende casi lo mismo que Zara…»: 969 en 24 h. Probar más Shorts de 10–15 s con una sola comparación de cifras (Lidl vs Mercadona).
+- Enlazar cada Short con su largo (descripción + comentario fijado) en Lidl y luz (Shorts 3–6/11, largo 30/10).
+- Búsquedas reales de TikTok: mayonesa (por qué no se cocina), enfriar la olla, apagar la tetera/hornilla, comer tras quitar moho → ideas de Reels con vocabulario latino.
