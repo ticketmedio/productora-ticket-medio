@@ -45,3 +45,8 @@ Las apunta la rutina diaria (`seo/RUTINA_DIARIA.md`). No se aplican a los vídeo
 - Short de 10 s «Shein vende casi lo mismo que Zara…»: 969 en 24 h. Probar más Shorts de 10–15 s con una sola comparación de cifras (Lidl vs Mercadona).
 - Enlazar cada Short con su largo (descripción + comentario fijado) en Lidl y luz (Shorts 3–6/11, largo 30/10).
 - Búsquedas reales de TikTok: mayonesa (por qué no se cocina), enfriar la olla, apagar la tetera/hornilla, comer tras quitar moho → ideas de Reels con vocabulario latino.
+
+## 26/10/2026 (dato clave: alcance de los largos)
+- Largo de Lidl (23/10, 3 días): **26 impresiones, 3,9 % de clics, 2 visualizaciones** (captura del usuario en Studio). El problema NO es el clic sino que YouTube casi no lo enseña. Con tan pocas impresiones, la miniatura y el título no son lo que frena.
+- Palancas para conseguir impresiones: (1) tráfico desde Shorts con «Vídeo relacionado»; (2) títulos que respondan a búsquedas reales («cómo gana dinero Lidl», «quién fabrica…») y no solo curiosidad; (3) lista de reproducción de la serie; (4) comentario fijado + enlace en descripción de cada Short; (5) tráfico externo (Pepa, Sala) solo si es orgánico y sin pedir interacciones falsas.
+- Medir a los 7 días el largo de Lidl y el de la luz: impresiones y % de clics.
