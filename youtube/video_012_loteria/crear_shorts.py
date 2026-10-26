@@ -2,7 +2,7 @@
 import json, os
 V = os.path.dirname(os.path.abspath(__file__))
 BASE = {"formato": "vertical", "fondos": "../../fondos", "musica": "../../audio/musica.mp3", "musica_db": -26, "cola": 1.5}
-def cab(t): return {"tipo": "texto", "texto": t, "x": 540, "y": 220, "tam": 72, "papel": True, "t": -1, "dur": 0.01}
+def cab(t): return {"tipo": "texto", "texto": t, "x": 540, "y": 220, "tam": min(72, int(72 * 20 / max(len(t), 1))), "papel": True, "t": -1, "dur": 0.01}
 def panel(h=700): return {"tipo": "panel", "x": 60, "y": 360, "w": 960, "h": h}
 def txt(c, y, tam=64, x=540, **k): return {"tipo": "texto", "texto": c, "x": x, "y": y, "tam": tam, **k}
 def mano(c, y, tam=58, x=540, **k): return txt(c, y, tam, x, fuente="mano", **k)

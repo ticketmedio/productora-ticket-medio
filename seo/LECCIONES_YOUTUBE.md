@@ -16,3 +16,5 @@ Se actualiza cada vez que los datos enseñen algo nuevo. Fecha de la primera ver
 
 ## Retoques ya aplicados (26/10/2026) a lo no publicado
 - Títulos de los vídeos 7, 8, 9, 10 y 12 pasados a versión buscable (los antiguos quedan como alternativa A/B en 07_TITULOS.md). El 11 (Cepsa) se queda: «¿Nos están engañando?» sigue la fórmula de Peluch.
+- Los 42 Shorts de los vídeos 7–12 llevan al final (últimos 2,6 s) el rótulo «VÍDEO COMPLETO EN EL CANAL» (`python3 herramientas/cierre_shorts.py CARPETA_VIDEO`, se añade sobre el MP4 ya renderizado y no se repite). Hacerlo con todo Short nuevo, después de `render_shorts.py`.
+- Corregido un fallo visual: los rótulos de cabecera largos (más de 20 letras) se cortaban por los lados; `cab()` de los `crear_shorts.py` ahora reduce el tamaño. 14 Shorts se volvieron a renderizar.
