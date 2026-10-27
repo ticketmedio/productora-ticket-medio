@@ -2,6 +2,20 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 27/10/2026 (mañana)
+
+**Ejemplos que funcionan (datos públicos, 27/10/2026)**
+- Bruno Peluch (≈6,41 mil suscriptores): TOUS, 172 mil en 8 d; Fagor, 3,2 mil en 1 d.
+- Demand Lab (≈2,4 mil): Telepizza, 91.216 (10:21).
+- Imperios y Caídas: El Corte Inglés, 42.734 (14:33).
+
+**Ideas**
+1. **Vídeo largo — el sistema detrás de una marca española con giro** (Telepizza/Fagor), con cifra.
+2. **Short — misma cesta, dos súper**, enlazado al largo.
+3. **Carrusel de Pepa — castañas y panellets** (sigue sin fuente AESAN; buscar en aesan.gob.es).
+
+**Mejora aplicable:** marca + sospecha en las primeras palabras. (`yt_video.py`: sin datos.)
+
 ## 26/10/2026 (tarde)
 
 **Ejemplos que funcionan (datos públicos, 26/10/2026)**
