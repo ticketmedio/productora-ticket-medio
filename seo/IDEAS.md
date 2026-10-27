@@ -2,6 +2,20 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 27/10/2026 (tarde)
+
+**Ejemplos que funcionan (datos públicos, 27/10/2026)**
+- Bruno Peluch (≈6,43 mil suscriptores): TOUS, 181 mil en 9 d; CEPSA, 176 mil; Fagor, 3,6 mil.
+- Demand Lab (≈2,4 mil): Telepizza, 91.219 (10:21). Rimembah: Telepizza, 578.014 (33:57).
+- Metricool: los carruseles superan a las imágenes en guardados.
+
+**Ideas**
+1. **Vídeo largo — marca española conocida con giro y cifra** (sin repetir Telepizza tal cual).
+2. **Short — misma cesta, dos súper**, enlazado al largo.
+3. **Carrusel de Pepa — castañas y panellets** (falta fuente AESAN).
+
+**Mejora aplicable:** marca + sospecha + cifra en las primeras palabras. (`yt_video.py`: sin picos de ritmo.)
+
 ## 27/10/2026 (mañana)
 
 **Ejemplos que funcionan (datos públicos, 27/10/2026)**
