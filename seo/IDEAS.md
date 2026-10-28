@@ -2,6 +2,20 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 28/10/2026 (tarde)
+
+**Ejemplos que funcionan (datos públicos, 28/10/2026)**
+- Bruno Peluch (≈6,47 mil suscriptores): TOUS, 199 mil en 10 d; Hawkers, 18 mil; Bizum, 10 mil.
+- Lluís Lairón: misma cesta en Mercadona, Lidl, Aldi y Carrefour, 68.257 en 1 m (8:36).
+- Elias Sweet: 15 euros en Mercadona vs Lidl, 46.117 (10:12).
+
+**Ideas**
+1. **Vídeo largo — «el sistema» de una marca española con giro**, con cifra (sin repetir TOUS/Telepizza).
+2. **Short — misma cesta, dos súper**, resultado primero y enlazado al largo.
+3. **Carrusel de Pepa — castañas y panellets** (falta fuente AESAN).
+
+**Mejora aplicable:** marca + sospecha + cifra en las primeras palabras del título.
+
 ## 28/10/2026 (mañana)
 
 **Ejemplos que funcionan (datos públicos, 28/10/2026)**
