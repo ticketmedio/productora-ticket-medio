@@ -2,6 +2,20 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 28/10/2026 (mañana)
+
+**Ejemplos que funcionan (datos públicos, 28/10/2026)**
+- Bruno Peluch (≈6,45 mil suscriptores): TOUS, 193 mil en 9 d (18:02); Fagor, 3,8 mil en 2 d.
+- Demand Lab (≈2,45 mil): El Corte Inglés, 204 mil; Telepizza, 91 mil.
+- Dinero En Tinta: «Cómo Gana Dinero Mercadona De Verdad», 7.306 en 4 d (10:38).
+
+**Ideas**
+1. **Vídeo largo — marca española conocida con giro o escándalo**, cifra en el título (sin repetir Telepizza/TOUS tal cual).
+2. **Short — misma cesta, dos súper**, enlazado al largo.
+3. **Carrusel de Pepa — castañas y panellets** (sigue sin fuente AESAN).
+
+**Mejora aplicable:** marca + sospecha en las primeras palabras. (`yt_video.py`: 403 por red.)
+
 ## 27/10/2026 (tarde)
 
 **Ejemplos que funcionan (datos públicos, 27/10/2026)**
