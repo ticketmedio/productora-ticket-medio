@@ -1,0 +1,95 @@
+[Script Info]
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: P,Archivo Black,86,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,7,3,2,60,60,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.12,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}¿QUÉ{\r} NO DEBERÍAS
+Dialogue: 0,0:00:00.12,0:00:00.24,P,,0,0,0,,¿QUÉ {\c&H00D4FF&\fscx112\fscy112}NO{\r} DEBERÍAS
+Dialogue: 0,0:00:00.24,0:00:00.66,P,,0,0,0,,¿QUÉ NO {\c&H00D4FF&\fscx112\fscy112}DEBERÍAS{\r}
+Dialogue: 0,0:00:00.66,0:00:01.58,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}CONGELAR?{\r}
+Dialogue: 0,0:00:01.58,0:00:02.00,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}OJO,{\r}
+Dialogue: 0,0:00:02.00,0:00:02.06,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}QUE{\r} NO ES
+Dialogue: 0,0:00:02.06,0:00:02.16,P,,0,0,0,,QUE {\c&H00D4FF&\fscx112\fscy112}NO{\r} ES
+Dialogue: 0,0:00:02.16,0:00:02.26,P,,0,0,0,,QUE NO {\c&H00D4FF&\fscx112\fscy112}ES{\r}
+Dialogue: 0,0:00:02.26,0:00:02.98,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}PELIGROSO:{\r}
+Dialogue: 0,0:00:02.98,0:00:03.14,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}ES{\r} QUE PIERDE
+Dialogue: 0,0:00:03.14,0:00:03.26,P,,0,0,0,,ES {\c&H00D4FF&\fscx112\fscy112}QUE{\r} PIERDE
+Dialogue: 0,0:00:03.26,0:00:03.62,P,,0,0,0,,ES QUE {\c&H00D4FF&\fscx112\fscy112}PIERDE{\r}
+Dialogue: 0,0:00:03.62,0:00:03.94,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}SABOR{\r} O TEXTURA.
+Dialogue: 0,0:00:03.94,0:00:04.10,P,,0,0,0,,SABOR {\c&H00D4FF&\fscx112\fscy112}O{\r} TEXTURA.
+Dialogue: 0,0:00:04.10,0:00:04.96,P,,0,0,0,,SABOR O {\c&H00D4FF&\fscx112\fscy112}TEXTURA.{\r}
+Dialogue: 0,0:00:04.96,0:00:05.22,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}LAS{\r} VERDURAS Y
+Dialogue: 0,0:00:05.22,0:00:05.66,P,,0,0,0,,LAS {\c&H00D4FF&\fscx112\fscy112}VERDURAS{\r} Y
+Dialogue: 0,0:00:05.66,0:00:05.82,P,,0,0,0,,LAS VERDURAS {\c&H00D4FF&\fscx112\fscy112}Y{\r}
+Dialogue: 0,0:00:05.82,0:00:06.16,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}FRUTAS{\r} QUE SE
+Dialogue: 0,0:00:06.16,0:00:06.30,P,,0,0,0,,FRUTAS {\c&H00D4FF&\fscx112\fscy112}QUE{\r} SE
+Dialogue: 0,0:00:06.30,0:00:06.44,P,,0,0,0,,FRUTAS QUE {\c&H00D4FF&\fscx112\fscy112}SE{\r}
+Dialogue: 0,0:00:06.44,0:00:06.62,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}COMEN{\r} EN CRUDO,
+Dialogue: 0,0:00:06.62,0:00:06.82,P,,0,0,0,,COMEN {\c&H00D4FF&\fscx112\fscy112}EN{\r} CRUDO,
+Dialogue: 0,0:00:06.82,0:00:07.34,P,,0,0,0,,COMEN EN {\c&H00D4FF&\fscx112\fscy112}CRUDO,{\r}
+Dialogue: 0,0:00:07.34,0:00:07.52,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}COMO{\r} LA LECHUGA
+Dialogue: 0,0:00:07.52,0:00:07.66,P,,0,0,0,,COMO {\c&H00D4FF&\fscx112\fscy112}LA{\r} LECHUGA
+Dialogue: 0,0:00:07.66,0:00:08.06,P,,0,0,0,,COMO LA {\c&H00D4FF&\fscx112\fscy112}LECHUGA{\r}
+Dialogue: 0,0:00:08.06,0:00:08.22,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}O{\r} LOS TOMATES.
+Dialogue: 0,0:00:08.22,0:00:08.36,P,,0,0,0,,O {\c&H00D4FF&\fscx112\fscy112}LOS{\r} TOMATES.
+Dialogue: 0,0:00:08.36,0:00:09.20,P,,0,0,0,,O LOS {\c&H00D4FF&\fscx112\fscy112}TOMATES.{\r}
+Dialogue: 0,0:00:09.20,0:00:09.44,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}LAS{\r} PATATAS.
+Dialogue: 0,0:00:09.44,0:00:10.46,P,,0,0,0,,LAS {\c&H00D4FF&\fscx112\fscy112}PATATAS.{\r}
+Dialogue: 0,0:00:10.46,0:00:10.60,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}LOS{\r} HUEVOS CON
+Dialogue: 0,0:00:10.60,0:00:10.92,P,,0,0,0,,LOS {\c&H00D4FF&\fscx112\fscy112}HUEVOS{\r} CON
+Dialogue: 0,0:00:10.92,0:00:11.12,P,,0,0,0,,LOS HUEVOS {\c&H00D4FF&\fscx112\fscy112}CON{\r}
+Dialogue: 0,0:00:11.12,0:00:12.08,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}CÁSCARA.{\r}
+Dialogue: 0,0:00:12.08,0:00:12.16,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}LOS{\r} ALIMENTOS CON
+Dialogue: 0,0:00:12.16,0:00:12.52,P,,0,0,0,,LOS {\c&H00D4FF&\fscx112\fscy112}ALIMENTOS{\r} CON
+Dialogue: 0,0:00:12.52,0:00:12.88,P,,0,0,0,,LOS ALIMENTOS {\c&H00D4FF&\fscx112\fscy112}CON{\r}
+Dialogue: 0,0:00:12.88,0:00:13.16,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}MUCHA{\r} GRASA.
+Dialogue: 0,0:00:13.16,0:00:13.92,P,,0,0,0,,MUCHA {\c&H00D4FF&\fscx112\fscy112}GRASA.{\r}
+Dialogue: 0,0:00:13.92,0:00:14.10,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}LA{\r} MAYONESA.
+Dialogue: 0,0:00:14.10,0:00:14.68,P,,0,0,0,,LA {\c&H00D4FF&\fscx112\fscy112}MAYONESA.{\r}
+Dialogue: 0,0:00:14.68,0:00:15.00,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}Y{\r} LOS ALIMENTOS
+Dialogue: 0,0:00:15.00,0:00:15.16,P,,0,0,0,,Y {\c&H00D4FF&\fscx112\fscy112}LOS{\r} ALIMENTOS
+Dialogue: 0,0:00:15.16,0:00:15.54,P,,0,0,0,,Y LOS {\c&H00D4FF&\fscx112\fscy112}ALIMENTOS{\r}
+Dialogue: 0,0:00:15.54,0:00:16.60,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}FRITOS.{\r}
+Dialogue: 0,0:00:16.60,0:00:16.86,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}EN{\r} CAMBIO,
+Dialogue: 0,0:00:16.86,0:00:17.44,P,,0,0,0,,EN {\c&H00D4FF&\fscx112\fscy112}CAMBIO,{\r}
+Dialogue: 0,0:00:17.44,0:00:17.54,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}SÍ{\r} SE PUEDEN
+Dialogue: 0,0:00:17.54,0:00:17.68,P,,0,0,0,,SÍ {\c&H00D4FF&\fscx112\fscy112}SE{\r} PUEDEN
+Dialogue: 0,0:00:17.68,0:00:17.90,P,,0,0,0,,SÍ SE {\c&H00D4FF&\fscx112\fscy112}PUEDEN{\r}
+Dialogue: 0,0:00:17.90,0:00:18.50,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}CONGELAR{\r} LAS CARNES,
+Dialogue: 0,0:00:18.50,0:00:18.68,P,,0,0,0,,CONGELAR {\c&H00D4FF&\fscx112\fscy112}LAS{\r} CARNES,
+Dialogue: 0,0:00:18.68,0:00:19.38,P,,0,0,0,,CONGELAR LAS {\c&H00D4FF&\fscx112\fscy112}CARNES,{\r}
+Dialogue: 0,0:00:19.38,0:00:19.48,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}LOS{\r} PESCADOS,
+Dialogue: 0,0:00:19.48,0:00:20.32,P,,0,0,0,,LOS {\c&H00D4FF&\fscx112\fscy112}PESCADOS,{\r}
+Dialogue: 0,0:00:20.32,0:00:20.40,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}LOS{\r} FIAMBRES,
+Dialogue: 0,0:00:20.40,0:00:21.24,P,,0,0,0,,LOS {\c&H00D4FF&\fscx112\fscy112}FIAMBRES,{\r}
+Dialogue: 0,0:00:21.24,0:00:21.36,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}LAS{\r} LEGUMBRES,
+Dialogue: 0,0:00:21.36,0:00:22.20,P,,0,0,0,,LAS {\c&H00D4FF&\fscx112\fscy112}LEGUMBRES,{\r}
+Dialogue: 0,0:00:22.20,0:00:22.34,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}EL{\r} PAN,
+Dialogue: 0,0:00:22.34,0:00:22.98,P,,0,0,0,,EL {\c&H00D4FF&\fscx112\fscy112}PAN,{\r}
+Dialogue: 0,0:00:22.98,0:00:23.10,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}LAS{\r} VERDURAS Y
+Dialogue: 0,0:00:23.10,0:00:23.54,P,,0,0,0,,LAS {\c&H00D4FF&\fscx112\fscy112}VERDURAS{\r} Y
+Dialogue: 0,0:00:23.54,0:00:23.88,P,,0,0,0,,LAS VERDURAS {\c&H00D4FF&\fscx112\fscy112}Y{\r}
+Dialogue: 0,0:00:23.88,0:00:24.02,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}LOS{\r} HUEVOS BATIDOS.
+Dialogue: 0,0:00:24.02,0:00:24.30,P,,0,0,0,,LOS {\c&H00D4FF&\fscx112\fscy112}HUEVOS{\r} BATIDOS.
+Dialogue: 0,0:00:24.30,0:00:25.28,P,,0,0,0,,LOS HUEVOS {\c&H00D4FF&\fscx112\fscy112}BATIDOS.{\r}
+Dialogue: 0,0:00:25.28,0:00:25.60,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}ESO{\r} SÍ,
+Dialogue: 0,0:00:25.60,0:00:26.12,P,,0,0,0,,ESO {\c&H00D4FF&\fscx112\fscy112}SÍ,{\r}
+Dialogue: 0,0:00:26.12,0:00:26.20,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}A{\r} MENOS DIECIOCHO
+Dialogue: 0,0:00:26.20,0:00:26.38,P,,0,0,0,,A {\c&H00D4FF&\fscx112\fscy112}MENOS{\r} DIECIOCHO
+Dialogue: 0,0:00:26.38,0:00:26.86,P,,0,0,0,,A MENOS {\c&H00D4FF&\fscx112\fscy112}DIECIOCHO{\r}
+Dialogue: 0,0:00:26.86,0:00:27.38,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}GRADOS{\r} O MENOS.
+Dialogue: 0,0:00:27.38,0:00:27.52,P,,0,0,0,,GRADOS {\c&H00D4FF&\fscx112\fscy112}O{\r} MENOS.
+Dialogue: 0,0:00:27.52,0:00:27.70,P,,0,0,0,,GRADOS O {\c&H00D4FF&\fscx112\fscy112}MENOS.{\r}
+Dialogue: 0,0:00:27.70,0:00:28.56,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}SÍGUEME,{\r}
+Dialogue: 0,0:00:28.56,0:00:28.92,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}QUE{\r} AQUÍ APRENDEMOS
+Dialogue: 0,0:00:28.92,0:00:29.20,P,,0,0,0,,QUE {\c&H00D4FF&\fscx112\fscy112}AQUÍ{\r} APRENDEMOS
+Dialogue: 0,0:00:29.20,0:00:29.70,P,,0,0,0,,QUE AQUÍ {\c&H00D4FF&\fscx112\fscy112}APRENDEMOS{\r}
+Dialogue: 0,0:00:29.70,0:00:29.98,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}TODOS.{\r}
+Dialogue: 0,0:00:29.98,0:00:30.03,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}¡CLOC,{\r}
+Dialogue: 0,0:00:29.98,0:00:30.38,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}CLOC!{\r}

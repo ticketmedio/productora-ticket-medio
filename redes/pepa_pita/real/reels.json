@@ -488,9 +488,10 @@
    },
    {
     "desde": "Pero algo pasa",
-    "buscar": "picking food from floor",
+    "buscar": "cookie on floor",
     "alt": [
-     "food on floor"
+     "food on floor",
+     "dropped cookie"
     ]
    },
    {
@@ -790,9 +791,10 @@
    },
    {
     "desde": "Y el pescado,",
-    "buscar": "flaking fish fork",
+    "buscar": "cooked fish fillet",
     "alt": [
-     "cooked fish"
+     "baked fish",
+     "fish fork"
     ]
    },
    {
@@ -806,6 +808,7 @@
     "desde": "En Estados Unidos,",
     "buscar": "meat thermometer",
     "alt": [
+     "thermometer chicken",
      "food thermometer"
     ]
    },
