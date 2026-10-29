@@ -2,6 +2,20 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 29/10/2026 (mañana)
+
+**Ejemplos que funcionan (datos públicos, 29/10/2026)**
+- Bruno Peluch (≈6,48 mil suscriptores): TOUS, 208 mil en 10 d; Hawkers, 18 mil; Fagor, 5,1 mil en 3 d.
+- Lluís Lairón: misma cesta en 4 súper, 68.259 (8:36).
+- Demand Lab (≈2,4 mil): truco psicológico de Mercadona, 21.932 (10:06).
+
+**Ideas**
+1. **Vídeo largo — Black Friday: el sistema del falso descuento**, con cifra (hueco: los vídeos del tema tienen <8 mil).
+2. **Short — misma cesta, dos súper**, enlazado al largo.
+3. **Carrusel de Pepa — castañas** (fuente AESAN aún sin encontrar; solo prensa).
+
+**Mejora aplicable:** marca + sospecha + cifra en las primeras palabras. (`yt_video.py`: 403 por red.)
+
 ## 28/10/2026 (tarde)
 
 **Ejemplos que funcionan (datos públicos, 28/10/2026)**
