@@ -451,5 +451,1673 @@
     ]
    }
   ]
+ },
+ "023_cinco_segundos": {
+  "largo": false,
+  "guion": "¿Se te cae una galleta al suelo y la recoges en cinco segundos? A ver qué dice la ciencia.\n\nInvestigadores de la Universidad de Rutgers lo probaron con una bacteria, cuatro superficies y cuatro alimentos, con contactos de menos de un segundo, cinco, treinta y trescientos segundos.\n\nResultado: cuanto más tiempo, más bacterias pasan. Pero algo pasa ya en menos de un segundo: la regla de los cinco segundos no funciona.\n\nY también importa qué alimento y qué suelo: la sandía recogió más bacterias que un caramelo de goma.\n\nAsí que si se cae, mejor no arriesgar. Sígueme, que aquí aprendemos todos. ¡Cloc, cloc!",
+  "terminos": "",
+  "escenas": [
+   {
+    "desde": "¿Se te cae",
+    "buscar": "cookie falling on floor",
+    "alt": [
+     "food dropped on floor",
+     "dropping food"
+    ]
+   },
+   {
+    "desde": "A ver qué",
+    "buscar": "scientist laboratory",
+    "alt": [
+     "laboratory research"
+    ]
+   },
+   {
+    "desde": "Investigadores de la",
+    "buscar": "petri dish bacteria laboratory",
+    "alt": [
+     "microscope laboratory"
+    ]
+   },
+   {
+    "desde": "Resultado: cuanto más",
+    "buscar": "stopwatch timer",
+    "alt": [
+     "clock ticking"
+    ]
+   },
+   {
+    "desde": "Pero algo pasa",
+    "buscar": "picking food from floor",
+    "alt": [
+     "food on floor"
+    ]
+   },
+   {
+    "desde": "Y también importa",
+    "buscar": "watermelon slices",
+    "alt": [
+     "watermelon"
+    ]
+   },
+   {
+    "desde": "Así que si",
+    "buscar": "throwing food in trash",
+    "alt": [
+     "trash bin kitchen"
+    ]
+   },
+   {
+    "desde": "Sígueme, que aquí",
+    "buscar": "woman laughing kitchen",
+    "alt": [
+     "happy woman kitchen"
+    ]
+   }
+  ]
+ },
+ "024_descongelar": {
+  "largo": false,
+  "guion": "¿Descongelas la comida sobre la encimera? ¡Alto ahí! Entre cinco y sesenta y cinco grados, los microorganismos se reproducen más rápido y se pone en riesgo la seguridad del alimento.\n\nLo mejor: sácala del congelador con al menos doce horas de antelación y déjala en la nevera, en la parte más fría, sobre una bandeja que recoja el líquido.\n\n¿Tienes prisa? El microondas es lo más rápido, pero no es uniforme: potencia baja, trozos pequeños, y remuévelo o dale la vuelta. Y cocínalo enseguida, que alguna parte puede haber empezado a cocerse.\n\nY si me ves desde Argentina o Paraguay, heladera; desde Colombia, nevera. Da igual. El Departamento de Agricultura de Estados Unidos añade otra opción segura: en agua fría, en una bolsa bien cerrada, cambiando el agua cada treinta minutos, y cocinándolo enseguida.\n\nSígueme, que aquí aprendemos todos. ¡Cloc, cloc!",
+  "terminos": "",
+  "escenas": [
+   {
+    "desde": "¿Descongelas la comida",
+    "buscar": "frozen meat on kitchen counter",
+    "alt": [
+     "frozen meat",
+     "frozen food"
+    ]
+   },
+   {
+    "desde": "¡Alto ahí! Entre",
+    "buscar": "bacteria microscope",
+    "alt": [
+     "microscope laboratory"
+    ]
+   },
+   {
+    "desde": "Lo mejor: sácala",
+    "buscar": "taking food out of freezer",
+    "alt": [
+     "opening freezer"
+    ]
+   },
+   {
+    "desde": "y déjala en",
+    "buscar": "putting meat in refrigerator",
+    "alt": [
+     "refrigerator food"
+    ]
+   },
+   {
+    "desde": "¿Tienes prisa? El",
+    "buscar": "microwave heating food",
+    "alt": [
+     "microwave"
+    ]
+   },
+   {
+    "desde": "Y cocínalo enseguida,",
+    "buscar": "cooking meat frying pan",
+    "alt": [
+     "frying meat"
+    ]
+   },
+   {
+    "desde": "Y si me ves",
+    "buscar": "buenos aires street",
+    "alt": [
+     "latin america city"
+    ]
+   },
+   {
+    "desde": "El Departamento de",
+    "buscar": "meat in bowl of water",
+    "alt": [
+     "cold water bowl"
+    ]
+   },
+   {
+    "desde": "Sígueme, que aquí",
+    "buscar": "woman smiling kitchen",
+    "alt": [
+     "happy cook kitchen"
+    ]
+   }
+  ]
+ },
+ "025_no_congelar": {
+  "largo": false,
+  "guion": "¿Qué no deberías congelar? Ojo, que no es peligroso: es que pierde sabor o textura.\n\nLas verduras y frutas que se comen en crudo, como la lechuga o los tomates. Las patatas. Los huevos con cáscara. Los alimentos con mucha grasa. La mayonesa. Y los alimentos fritos.\n\nEn cambio, sí se pueden congelar las carnes, los pescados, los fiambres, las legumbres, el pan, las verduras y los huevos batidos.\n\nEso sí, a menos dieciocho grados o menos.\n\nSígueme, que aquí aprendemos todos. ¡Cloc, cloc!",
+  "terminos": "",
+  "escenas": [
+   {
+    "desde": "¿Qué no deberías",
+    "buscar": "opening freezer",
+    "alt": [
+     "freezer"
+    ]
+   },
+   {
+    "desde": "Ojo, que no",
+    "buscar": "woman thinking kitchen",
+    "alt": [
+     "woman thinking"
+    ]
+   },
+   {
+    "desde": "Las verduras y",
+    "buscar": "lettuce tomatoes salad",
+    "alt": [
+     "fresh salad vegetables"
+    ]
+   },
+   {
+    "desde": "Las patatas. Los",
+    "buscar": "potatoes eggs",
+    "alt": [
+     "raw potatoes"
+    ]
+   },
+   {
+    "desde": "Los alimentos con",
+    "buscar": "mayonnaise jar",
+    "alt": [
+     "fried food"
+    ]
+   },
+   {
+    "desde": "En cambio, sí",
+    "buscar": "frozen meat fish freezer",
+    "alt": [
+     "frozen food"
+    ]
+   },
+   {
+    "desde": "Eso sí, a",
+    "buscar": "freezer frost",
+    "alt": [
+     "frozen vegetables freezer"
+    ]
+   },
+   {
+    "desde": "Sígueme, que aquí",
+    "buscar": "woman laughing kitchen",
+    "alt": [
+     "happy cook kitchen"
+    ]
+   }
+  ]
+ },
+ "026_cuanto_aguanta": {
+  "largo": true,
+  "guion": "¿Cuánto tiempo aguanta la comida en el congelador? Aquí va la tabla de la AESAN, que te la cuento entera.\n\nPrimero, un detalle importante. Si el congelador mantiene los menos dieciocho grados, la comida es segura casi indefinidamente. Estos tiempos son solo por calidad: con el tiempo, pierde sabor y textura.\n\nLas frutas y verduras, de ocho a doce meses. La carne de vacuno, cordero y cerdo, de seis a doce meses. El pollo, de nueve a doce meses.\n\nLa carne picada y las hamburguesas, de tres a cuatro meses. Los fiambres y embutidos, de uno a dos meses.\n\nLas claras y yemas de huevo crudas, sin cáscara, doce meses.\n\nEl pescado blanco, de seis a ocho meses. El pescado azul, de dos a tres meses. Y el marisco, de tres a seis.\n\nLas sopas y los guisos, de dos a tres meses.\n\nY recuerda: lo primero que entra en el congelador es lo primero que debe salir. Apunta la fecha en el envase y no se te olvida nada.\n\nY el Departamento de Agricultura de Estados Unidos da tiempos muy parecidos: carne molida de tres a cuatro meses, y fiambres, de uno a dos.\n\nSígueme, que aquí aprendemos todos. ¡Cloc, cloc!",
+  "terminos": "",
+  "escenas": [
+   {
+    "desde": "¿Cuánto tiempo aguanta",
+    "buscar": "freezer full of food",
+    "alt": [
+     "opening freezer"
+    ]
+   },
+   {
+    "desde": "Primero, un detalle",
+    "buscar": "thermometer freezer",
+    "alt": [
+     "freezer frost"
+    ]
+   },
+   {
+    "desde": "Estos tiempos son",
+    "buscar": "frozen food bags",
+    "alt": [
+     "frozen food"
+    ]
+   },
+   {
+    "desde": "Las frutas y",
+    "buscar": "frozen berries vegetables",
+    "alt": [
+     "frozen fruit"
+    ]
+   },
+   {
+    "desde": "La carne de",
+    "buscar": "raw beef pork",
+    "alt": [
+     "raw meat"
+    ]
+   },
+   {
+    "desde": "El pollo, de",
+    "buscar": "raw chicken",
+    "alt": [
+     "chicken breast"
+    ]
+   },
+   {
+    "desde": "La carne picada",
+    "buscar": "ground meat burger",
+    "alt": [
+     "minced meat"
+    ]
+   },
+   {
+    "desde": "Las claras y",
+    "buscar": "egg whites yolks bowl",
+    "alt": [
+     "separating egg"
+    ]
+   },
+   {
+    "desde": "El pescado blanco,",
+    "buscar": "fresh fish",
+    "alt": [
+     "fish market"
+    ]
+   },
+   {
+    "desde": "Y el marisco,",
+    "buscar": "shrimp seafood",
+    "alt": [
+     "seafood"
+    ]
+   },
+   {
+    "desde": "Las sopas y",
+    "buscar": "soup pot stew",
+    "alt": [
+     "stew"
+    ]
+   },
+   {
+    "desde": "Y recuerda: lo",
+    "buscar": "labeling food container",
+    "alt": [
+     "writing label jar"
+    ]
+   },
+   {
+    "desde": "Y el Departamento",
+    "buscar": "american supermarket",
+    "alt": [
+     "supermarket aisle"
+    ]
+   },
+   {
+    "desde": "Sígueme, que aquí",
+    "buscar": "woman smiling kitchen",
+    "alt": [
+     "happy cook kitchen"
+    ]
+   }
+  ]
+ },
+ "027_pollo_hecho": {
+  "largo": false,
+  "guion": "¿Cómo sabes si el pollo está hecho? ¡Ojo con el centro! Por lo general, para evitar intoxicaciones, el alimento tiene que llegar a setenta grados en todas sus partes, también por dentro.\n\nEn el pollo se nota cuando desaparece el color rosa. En la carne de vacuno, cuando se pone grisácea. Y el pescado, cuando la carne está firme, blanca y se separa fácil con el tenedor.\n\nY los huevos, hasta que la yema y la clara estén cuajadas.\n\nEn Estados Unidos, el Departamento de Agricultura da la cifra exacta: ciento sesenta y cinco grados Fahrenheit en las aves, unos setenta y cuatro Celsius, medidos con un termómetro.\n\nSígueme, que aquí aprendemos todos. ¡Cloc, cloc!",
+  "terminos": "",
+  "escenas": [
+   {
+    "desde": "¿Cómo sabes si",
+    "buscar": "roast chicken oven",
+    "alt": [
+     "roasted chicken"
+    ]
+   },
+   {
+    "desde": "¡Ojo con el",
+    "buscar": "cutting chicken knife",
+    "alt": [
+     "chicken breast cut"
+    ]
+   },
+   {
+    "desde": "En el pollo",
+    "buscar": "cooked chicken breast",
+    "alt": [
+     "grilled chicken"
+    ]
+   },
+   {
+    "desde": "En la carne",
+    "buscar": "cooked beef steak",
+    "alt": [
+     "steak pan"
+    ]
+   },
+   {
+    "desde": "Y el pescado,",
+    "buscar": "flaking fish fork",
+    "alt": [
+     "cooked fish"
+    ]
+   },
+   {
+    "desde": "Y los huevos,",
+    "buscar": "fried egg pan",
+    "alt": [
+     "cooking eggs"
+    ]
+   },
+   {
+    "desde": "En Estados Unidos,",
+    "buscar": "meat thermometer",
+    "alt": [
+     "food thermometer"
+    ]
+   },
+   {
+    "desde": "Sígueme, que aquí",
+    "buscar": "woman laughing kitchen",
+    "alt": [
+     "happy cook kitchen"
+    ]
+   }
+  ]
+ },
+ "028_recalentar": {
+  "largo": false,
+  "guion": "¿Recalientas la comida varias veces? ¡Mala idea! Cada recalentado aumenta las probabilidades de intoxicación.\n\nLo ideal es recalentar solo la cantidad que vas a comer.\n\nY cuando la recalientes, todas las partes del alimento, también el centro, tienen que llegar al menos a setenta grados durante quince segundos como mínimo.\n\nY si vas a guardarla, antes déjala enfriar: meterla caliente en la nevera o en el congelador afecta a la temperatura de los demás alimentos.\n\nEn Estados Unidos piden llegar a ciento sesenta y cinco grados Fahrenheit, unos setenta y cuatro Celsius, y llevar las sopas y las salsas a ebullición.\n\nSígueme, que aquí aprendemos todos. ¡Cloc, cloc!",
+  "terminos": "",
+  "escenas": [
+   {
+    "desde": "¿Recalientas la comida",
+    "buscar": "microwave heating food",
+    "alt": [
+     "reheating food"
+    ]
+   },
+   {
+    "desde": "¡Mala idea! Cada",
+    "buscar": "woman worried kitchen",
+    "alt": [
+     "worried face"
+    ]
+   },
+   {
+    "desde": "Lo ideal es",
+    "buscar": "serving food plate portion",
+    "alt": [
+     "serving food"
+    ]
+   },
+   {
+    "desde": "Y cuando la",
+    "buscar": "stirring hot soup steam",
+    "alt": [
+     "boiling soup"
+    ]
+   },
+   {
+    "desde": "Y si vas",
+    "buscar": "leftovers containers refrigerator",
+    "alt": [
+     "fridge food containers"
+    ]
+   },
+   {
+    "desde": "En Estados Unidos",
+    "buscar": "boiling sauce pot",
+    "alt": [
+     "boiling soup"
+    ]
+   },
+   {
+    "desde": "Sígueme, que aquí",
+    "buscar": "woman laughing kitchen",
+    "alt": [
+     "happy cook kitchen"
+    ]
+   }
+  ]
+ },
+ "029_huevo_cuajado": {
+  "largo": false,
+  "guion": "¿Te gusta la tortilla jugosa? ¡Ojo con el huevo a medio cocinar!\n\nEl Ministerio de Consumo recomienda cocinar los huevos hasta que la yema y la clara estén cuajadas. Y los alimentos que lleven huevo, servirlos justo después de cocinarlos.\n\nY cuando manipules huevos crudos, sepáralos del resto de alimentos y lava bien manos, superficies y utensilios después.\n\nLa FDA de Estados Unidos dice lo mismo: cocinar los huevos hasta que la yema y la clara estén firmes, y los platos con huevo, a setenta y un grados, ciento sesenta Fahrenheit.\n\nSígueme, que aquí aprendemos todos. ¡Cloc, cloc!",
+  "terminos": "",
+  "escenas": [
+   {
+    "desde": "¿Te gusta la",
+    "buscar": "spanish omelette",
+    "alt": [
+     "omelette pan"
+    ]
+   },
+   {
+    "desde": "¡Ojo con el",
+    "buscar": "runny egg",
+    "alt": [
+     "cracking egg"
+    ]
+   },
+   {
+    "desde": "El Ministerio de",
+    "buscar": "fried eggs pan",
+    "alt": [
+     "cooking eggs"
+    ]
+   },
+   {
+    "desde": "Y cuando manipules",
+    "buscar": "washing hands soap kitchen",
+    "alt": [
+     "washing hands"
+    ]
+   },
+   {
+    "desde": "La FDA de",
+    "buscar": "scrambled eggs pan",
+    "alt": [
+     "cooked eggs"
+    ]
+   },
+   {
+    "desde": "Sígueme, que aquí",
+    "buscar": "woman laughing kitchen",
+    "alt": [
+     "happy cook kitchen"
+    ]
+   }
+  ]
+ },
+ "030_pano_cocina": {
+  "largo": false,
+  "guion": "¿Cada cuánto cambias el paño de cocina? El Ministerio de Consumo aconseja una vez al día, y siempre que haga falta. El papel de cocina de un solo uso también es una buena alternativa.\n\nLas manos, con jabón y agua, y sécalas con paños de un solo uso o toallas de papel. Uñas cortas, limpias y sin esmalte, que puede ocultar suciedad. Y las heridas, cubiertas con apósitos.\n\nY si estás malo, mejor no cocines para otros.\n\nLa FDA de Estados Unidos añade un truco: lávate las manos con jabón normal, no hace falta el antibacteriano, durante al menos veinte segundos. Para medirlos, tararea dos veces el «Cumpleaños feliz».\n\nSígueme, que aquí aprendemos todos. ¡Cloc, cloc!",
+  "terminos": "",
+  "escenas": [
+   {
+    "desde": "¿Cada cuánto cambias",
+    "buscar": "kitchen towel",
+    "alt": [
+     "dish towel"
+    ]
+   },
+   {
+    "desde": "El papel de",
+    "buscar": "paper towel kitchen",
+    "alt": [
+     "paper towel"
+    ]
+   },
+   {
+    "desde": "Las manos, con",
+    "buscar": "washing hands soap",
+    "alt": [
+     "hand washing"
+    ]
+   },
+   {
+    "desde": "Uñas cortas, limpias",
+    "buscar": "hands nails close up",
+    "alt": [
+     "clean hands"
+    ]
+   },
+   {
+    "desde": "Y si estás",
+    "buscar": "sick woman blowing nose",
+    "alt": [
+     "sick person"
+    ]
+   },
+   {
+    "desde": "La FDA de",
+    "buscar": "washing hands soap water",
+    "alt": [
+     "hand washing sink"
+    ]
+   },
+   {
+    "desde": "Para medirlos, tararea",
+    "buscar": "woman singing kitchen",
+    "alt": [
+     "woman singing"
+    ]
+   },
+   {
+    "desde": "Sígueme, que aquí",
+    "buscar": "woman laughing kitchen",
+    "alt": [
+     "happy cook kitchen"
+    ]
+   }
+  ]
+ },
+ "031_cocinar_seguro": {
+  "largo": true,
+  "guion": "¿Cocinas seguro? Hoy te cuento, paso a paso, lo que dice el Ministerio de Consumo para evitar intoxicaciones.\n\nPrimero, las manos: lávalas con jabón y agua antes y después de tocar la comida, y sécalas con papel. Después de manipular alimentos crudos, limpia bien superficies, cuchillos y tablas.\n\nSegundo, el paño de cocina: cámbialo una vez al día, y siempre que haga falta.\n\nTercero, las frutas y verduras: lávalas bajo el chorro de agua antes de comerlas, cortarlas o cocinarlas, y sécalas bien.\n\nCuarto, la descongelación. Nada de dejarlo sobre la encimera: en el estante inferior de la nevera durante veinticuatro horas, o en el microondas, con la opción descongelar. Y una vez descongelado, se cocina rápido.\n\nQuinto, el cocinado: el alimento tiene que llegar a setenta grados en todas sus partes.\n\nSexto, las sobras: déjalas enfriar y guárdalas en frío. Y si las recalientas, setenta grados en el centro durante al menos quince segundos.\n\nLa FDA de Estados Unidos lo resume en cuatro verbos: limpiar, separar, cocinar y enfriar.\n\nSígueme, que aquí aprendemos todos. ¡Cloc, cloc!",
+  "terminos": "",
+  "escenas": [
+   {
+    "desde": "¿Cocinas seguro? Hoy",
+    "buscar": "woman cooking kitchen",
+    "alt": [
+     "cooking kitchen"
+    ]
+   },
+   {
+    "desde": "Primero, las manos:",
+    "buscar": "washing hands soap",
+    "alt": [
+     "hand washing"
+    ]
+   },
+   {
+    "desde": "Después de manipular",
+    "buscar": "cleaning kitchen counter",
+    "alt": [
+     "wiping kitchen counter"
+    ]
+   },
+   {
+    "desde": "Segundo, el paño",
+    "buscar": "kitchen towel",
+    "alt": [
+     "dish towel"
+    ]
+   },
+   {
+    "desde": "Tercero, las frutas",
+    "buscar": "washing vegetables sink",
+    "alt": [
+     "washing fruit"
+    ]
+   },
+   {
+    "desde": "Cuarto, la descongelación.",
+    "buscar": "frozen meat",
+    "alt": [
+     "frozen food"
+    ]
+   },
+   {
+    "desde": "en el estante",
+    "buscar": "refrigerator food shelves",
+    "alt": [
+     "refrigerator"
+    ]
+   },
+   {
+    "desde": "Quinto, el cocinado:",
+    "buscar": "meat thermometer",
+    "alt": [
+     "cooking meat pan"
+    ]
+   },
+   {
+    "desde": "Sexto, las sobras:",
+    "buscar": "leftovers containers refrigerator",
+    "alt": [
+     "food containers fridge"
+    ]
+   },
+   {
+    "desde": "La FDA de",
+    "buscar": "chef cooking kitchen",
+    "alt": [
+     "cooking food"
+    ]
+   },
+   {
+    "desde": "Sígueme, que aquí",
+    "buscar": "woman laughing kitchen",
+    "alt": [
+     "happy cook kitchen"
+    ]
+   }
+  ]
+ },
+ "032_pez_mantequilla": {
+  "largo": false,
+  "guion": "¿Has oído hablar del pez mantequilla? Es el escolar, y el escolar negro.\n\nTiene un veinte por ciento de grasa, formada por ceras que no digerimos, y puede dar diarrea unas dos horas después de comerlo. No es que sea tóxico: es que no se digiere.\n\nPor eso solo puede venderse envasado y con una etiqueta que avise del riesgo. Y a veces se ha encontrado con otros nombres, como mero.\n\nSi lo cocinas, quita la piel y la grasa visible, y nunca aproveches el caldo ni el sobrante de la sartén. Y si te sienta mal, no repitas.\n\nSígueme, que aquí aprendemos todos. ¡Cloc, cloc!",
+  "terminos": "",
+  "escenas": [
+   {
+    "desde": "¿Has oído hablar",
+    "buscar": "fish fillet",
+    "alt": [
+     "white fish fillet"
+    ]
+   },
+   {
+    "desde": "Tiene un veinte",
+    "buscar": "fish market",
+    "alt": [
+     "fresh fish"
+    ]
+   },
+   {
+    "desde": "No es que",
+    "buscar": "stomach ache",
+    "alt": [
+     "woman stomach pain"
+    ]
+   },
+   {
+    "desde": "Por eso solo",
+    "buscar": "packaged fish supermarket",
+    "alt": [
+     "fish package"
+    ]
+   },
+   {
+    "desde": "Y a veces",
+    "buscar": "fish counter supermarket",
+    "alt": [
+     "fish market"
+    ]
+   },
+   {
+    "desde": "Si lo cocinas,",
+    "buscar": "frying fish pan",
+    "alt": [
+     "cooking fish"
+    ]
+   },
+   {
+    "desde": "Y si te",
+    "buscar": "woman stomach pain",
+    "alt": [
+     "stomach ache"
+    ]
+   },
+   {
+    "desde": "Sígueme, que aquí",
+    "buscar": "woman laughing kitchen",
+    "alt": [
+     "happy cook kitchen"
+    ]
+   }
+  ]
+ },
+ "033_huevo_crudo_embarazo": {
+  "largo": false,
+  "guion": "¿Estás embarazada y se acercan las fiestas? Ojo con el huevo crudo.\n\nEl Ministerio de Consumo recomienda evitar los huevos crudos y todo lo que se prepare con huevo crudo: salsas y mayonesas caseras, mousses, merengues y pasteles caseros, tiramisú, helados caseros y ponches de huevo.\n\nY también la carne cruda o poco hecha, como el carpaccio.\n\nLa carne, bien cocinada, hasta los setenta y un grados. Y ante cualquier duda, pregunta a tu médico.\n\nSígueme, que aquí aprendemos todos. ¡Cloc, cloc!",
+  "terminos": "",
+  "escenas": [
+   {
+    "desde": "¿Estás embarazada y",
+    "buscar": "pregnant woman kitchen",
+    "alt": [
+     "pregnant woman"
+    ]
+   },
+   {
+    "desde": "Ojo con el",
+    "buscar": "raw egg",
+    "alt": [
+     "cracking egg"
+    ]
+   },
+   {
+    "desde": "El Ministerio de",
+    "buscar": "homemade mayonnaise",
+    "alt": [
+     "mayonnaise"
+    ]
+   },
+   {
+    "desde": "mousses, merengues y",
+    "buscar": "tiramisu dessert",
+    "alt": [
+     "meringue dessert"
+    ]
+   },
+   {
+    "desde": "Y también la",
+    "buscar": "beef carpaccio",
+    "alt": [
+     "raw meat"
+    ]
+   },
+   {
+    "desde": "La carne, bien",
+    "buscar": "meat thermometer",
+    "alt": [
+     "cooked meat"
+    ]
+   },
+   {
+    "desde": "Y ante cualquier",
+    "buscar": "doctor pregnant woman",
+    "alt": [
+     "doctor consultation"
+    ]
+   },
+   {
+    "desde": "Sígueme, que aquí",
+    "buscar": "woman laughing kitchen",
+    "alt": [
+     "happy cook kitchen"
+    ]
+   }
+  ]
+ },
+ "034_mercurio_pescado": {
+  "largo": false,
+  "guion": "¿Pez espada, tiburón, atún rojo o lucio? Ojo con el mercurio.\n\nSon peces grandes y depredadores: acumulan mercurio a lo largo de su vida. La Agencia de Seguridad Alimentaria recomienda evitarlos a las mujeres embarazadas o que puedan estarlo, a las que dan el pecho y a los niños menores de tres años.\n\nLos niños de tres a doce años, como mucho cincuenta gramos a la semana, o cien cada dos semanas, y ningún otro de estos pescados esa semana.\n\nPero el pescado, en general, es muy sano: lo que se recomienda es comer variedad.\n\nSígueme, que aquí aprendemos todos. ¡Cloc, cloc!",
+  "terminos": "",
+  "escenas": [
+   {
+    "desde": "¿Pez espada, tiburón,",
+    "buscar": "swordfish",
+    "alt": [
+     "tuna fish market"
+    ]
+   },
+   {
+    "desde": "Ojo con el",
+    "buscar": "shark underwater",
+    "alt": [
+     "big fish underwater"
+    ]
+   },
+   {
+    "desde": "Son peces grandes",
+    "buscar": "shark swimming",
+    "alt": [
+     "tuna swimming"
+    ]
+   },
+   {
+    "desde": "La Agencia de",
+    "buscar": "pregnant woman",
+    "alt": [
+     "mother baby"
+    ]
+   },
+   {
+    "desde": "Los niños de",
+    "buscar": "child eating fish",
+    "alt": [
+     "kids eating"
+    ]
+   },
+   {
+    "desde": "Pero el pescado,",
+    "buscar": "grilled fish plate",
+    "alt": [
+     "fish dish"
+    ]
+   },
+   {
+    "desde": "Sígueme, que aquí",
+    "buscar": "woman laughing kitchen",
+    "alt": [
+     "happy cook kitchen"
+    ]
+   }
+  ]
+ },
+ "035_cabezas_gambas": {
+  "largo": false,
+  "guion": "¿Chupas la cabeza de las gambas? Ojo, que la AESAN recomienda limitar, en la medida de lo posible, la carne oscura de la cabeza de los crustáceos.\n\nLa razón es el cadmio. Es un metal pesado que se acumula en una parte del aparato digestivo que está en la cabeza: el hepatopáncreas.\n\nCon las gambas, los datos apuntan a que, si te comes la cabeza, tomas cuatro veces más cadmio que si solo te comes el abdomen. Y el cadmio se acumula en el hígado y en el riñón durante diez a treinta años.\n\nSobre todo, si lo haces a menudo.\n\nSígueme, que aquí aprendemos todos. ¡Cloc, cloc!",
+  "terminos": "",
+  "escenas": [
+   {
+    "desde": "¿Chupas la cabeza",
+    "buscar": "eating shrimp",
+    "alt": [
+     "shrimp"
+    ]
+   },
+   {
+    "desde": "La razón es",
+    "buscar": "cooked prawns",
+    "alt": [
+     "prawns plate"
+    ]
+   },
+   {
+    "desde": "Con las gambas,",
+    "buscar": "peeling shrimp",
+    "alt": [
+     "shrimp"
+    ]
+   },
+   {
+    "desde": "Y el cadmio",
+    "buscar": "laboratory scientist",
+    "alt": [
+     "laboratory"
+    ]
+   },
+   {
+    "desde": "Sobre todo, si",
+    "buscar": "seafood platter",
+    "alt": [
+     "seafood"
+    ]
+   },
+   {
+    "desde": "Sígueme, que aquí",
+    "buscar": "woman laughing kitchen",
+    "alt": [
+     "happy cook kitchen"
+    ]
+   }
+  ]
+ },
+ "036_embarazo_navidad": {
+  "largo": true,
+  "guion": "¿Estás embarazada y se acercan las fiestas? Esto dice el Ministerio de Consumo. Y ante cualquier duda, pregunta a tu médico.\n\nPrimero, la higiene: manos con jabón y agua caliente, al menos veinte segundos. Y la carne, bien cocinada, hasta los setenta y un grados.\n\nSegundo, lo que debes evitar. Los grandes peces, como el pez espada, el tiburón, el atún rojo o el lucio. El huevo crudo y lo que lo lleve: mayonesas caseras, mousses, merengues, tiramisú. La carne cruda o poco hecha. El pescado crudo y las ostras, almejas o mejillones crudos. Y los patés refrigerados.\n\nOjo con los quesos frescos o de pasta blanda, como el Brie o el Camembert, si no dicen que están hechos con leche pasteurizada.\n\nY si no estás inmunizada frente a la toxoplasmosis, evita también el jamón curado, el chorizo o el salchichón crudos.\n\nY, claro, nada de alcohol.\n\nSígueme, que aquí aprendemos todos. ¡Cloc, cloc!",
+  "terminos": "",
+  "escenas": [
+   {
+    "desde": "¿Estás embarazada y",
+    "buscar": "pregnant woman christmas",
+    "alt": [
+     "pregnant woman"
+    ]
+   },
+   {
+    "desde": "Primero, la higiene:",
+    "buscar": "washing hands soap",
+    "alt": [
+     "hand washing"
+    ]
+   },
+   {
+    "desde": "Y la carne,",
+    "buscar": "meat thermometer",
+    "alt": [
+     "roast meat"
+    ]
+   },
+   {
+    "desde": "Segundo, lo que",
+    "buscar": "swordfish",
+    "alt": [
+     "fish market"
+    ]
+   },
+   {
+    "desde": "El huevo crudo",
+    "buscar": "raw egg",
+    "alt": [
+     "mayonnaise"
+    ]
+   },
+   {
+    "desde": "El pescado crudo",
+    "buscar": "oysters",
+    "alt": [
+     "mussels"
+    ]
+   },
+   {
+    "desde": "Ojo con los",
+    "buscar": "brie cheese",
+    "alt": [
+     "soft cheese"
+    ]
+   },
+   {
+    "desde": "Y si no",
+    "buscar": "cured ham slices",
+    "alt": [
+     "chorizo"
+    ]
+   },
+   {
+    "desde": "Y, claro, nada",
+    "buscar": "glass of wine",
+    "alt": [
+     "alcohol drinks"
+    ]
+   },
+   {
+    "desde": "Sígueme, que aquí",
+    "buscar": "woman laughing kitchen",
+    "alt": [
+     "happy cook kitchen"
+    ]
+   }
+  ]
+ },
+ "037_acrilamida_dorado": {
+  "largo": false,
+  "guion": "¿Te gusta la tostada bien oscura? Mejor, dorada.\n\nAl tostar, hornear o freír alimentos con almidón, como el pan o las patatas, se forma acrilamida. Y cuanto más oscuros, más acrilamida. La agencia de cáncer de la OMS la clasifica como probable cancerígeno para los humanos, aunque en ensayos con animales.\n\nLa regla de la AESAN es sencilla: elige dorado, no marrón oscuro. Tuesta el pan hasta que quede dorado y, si se quema algo, no te comas las partes más oscuras.\n\nY las patatas, guárdalas fuera de la nevera.\n\nSígueme, que aquí aprendemos todos. ¡Cloc, cloc!",
+  "terminos": "",
+  "escenas": [
+   {
+    "desde": "¿Te gusta la",
+    "buscar": "burnt toast",
+    "alt": [
+     "toast"
+    ]
+   },
+   {
+    "desde": "Mejor, dorada.",
+    "buscar": "golden toast",
+    "alt": [
+     "toasting bread"
+    ]
+   },
+   {
+    "desde": "Al tostar, hornear",
+    "buscar": "french fries frying",
+    "alt": [
+     "fried potatoes"
+    ]
+   },
+   {
+    "desde": "La agencia de",
+    "buscar": "scientist laboratory",
+    "alt": [
+     "laboratory"
+    ]
+   },
+   {
+    "desde": "La regla de",
+    "buscar": "toaster bread",
+    "alt": [
+     "toast"
+    ]
+   },
+   {
+    "desde": "Y las patatas,",
+    "buscar": "potatoes pantry",
+    "alt": [
+     "raw potatoes"
+    ]
+   },
+   {
+    "desde": "Sígueme, que aquí",
+    "buscar": "woman laughing kitchen",
+    "alt": [
+     "happy cook kitchen"
+    ]
+   }
+  ]
+ },
+ "038_alergenos_14": {
+  "largo": false,
+  "guion": "¿Compras turrón, mazapán o canapés para Navidad? Mira la etiqueta: la ley obliga a destacar catorce alérgenos.\n\nCereales con gluten, crustáceos, huevos, pescado, cacahuetes, soja, leche, frutos de cáscara como las almendras o las avellanas, apio, mostaza, sésamo, sulfitos, altramuces y moluscos.\n\nTienen que aparecer destacados en la lista de ingredientes, con un tipo de letra, un estilo o un color de fondo distintos al del resto.\n\nSi tienes alergia, no te fíes de la memoria: lee siempre la etiqueta.\n\nSígueme, que aquí aprendemos todos. ¡Cloc, cloc!",
+  "terminos": "",
+  "escenas": [
+   {
+    "desde": "¿Compras turrón, mazapán",
+    "buscar": "christmas sweets",
+    "alt": [
+     "nougat"
+    ]
+   },
+   {
+    "desde": "Mira la etiqueta:",
+    "buscar": "reading food label",
+    "alt": [
+     "food label"
+    ]
+   },
+   {
+    "desde": "Cereales con gluten,",
+    "buscar": "wheat bread",
+    "alt": [
+     "shrimp"
+    ]
+   },
+   {
+    "desde": "frutos de cáscara",
+    "buscar": "almonds hazelnuts",
+    "alt": [
+     "nuts"
+    ]
+   },
+   {
+    "desde": "Tienen que aparecer",
+    "buscar": "food package label close up",
+    "alt": [
+     "ingredients label"
+    ]
+   },
+   {
+    "desde": "Si tienes alergia,",
+    "buscar": "woman reading label supermarket",
+    "alt": [
+     "reading label"
+    ]
+   },
+   {
+    "desde": "Sígueme, que aquí",
+    "buscar": "woman laughing kitchen",
+    "alt": [
+     "happy cook kitchen"
+    ]
+   }
+  ]
+ },
+ "039_guisos_70": {
+  "largo": false,
+  "guion": "¿Cómo sabes si el caldo de Navidad está bien caliente? La EFSA, la Autoridad Europea de Seguridad Alimentaria, dice que lleves las sopas y los guisos a ebullición para asegurarte de que alcanzan los setenta grados. Y que, idealmente, uses un termómetro.\n\nY lo que ya estaba cocinado y guardado en la nevera o en el congelador, recaliéntalo bien, para destruir las bacterias que hayan podido contaminarlo durante el almacenamiento.\n\nSígueme, que aquí aprendemos todos. ¡Cloc, cloc!",
+  "terminos": "",
+  "escenas": [
+   {
+    "desde": "¿Cómo sabes si",
+    "buscar": "christmas soup",
+    "alt": [
+     "soup bowl"
+    ]
+   },
+   {
+    "desde": "La EFSA, la",
+    "buscar": "boiling soup pot",
+    "alt": [
+     "boiling pot"
+    ]
+   },
+   {
+    "desde": "Y que, idealmente,",
+    "buscar": "food thermometer",
+    "alt": [
+     "meat thermometer"
+    ]
+   },
+   {
+    "desde": "Y lo que",
+    "buscar": "leftovers refrigerator",
+    "alt": [
+     "food containers fridge"
+    ]
+   },
+   {
+    "desde": "Sígueme, que aquí",
+    "buscar": "woman laughing kitchen",
+    "alt": [
+     "happy cook kitchen"
+    ]
+   }
+  ]
+ },
+ "040_mesa_dos_horas": {
+  "largo": false,
+  "guion": "¿Dejas la comida de Navidad en la mesa toda la tarde? Ojo.\n\nLa EFSA dice que no dejes los alimentos cocinados a temperatura ambiente más de dos horas.\n\nSi se van a comer enseguida, mantenlos calientes, por encima de sesenta grados. Si no, refrigéralos cuanto antes, por debajo de cinco grados.\n\nY evita guardar las sobras demasiado tiempo, incluso en la nevera, porque eso también puede afectar a su seguridad.\n\nY ojo si me ves desde Argentina o Paraguay: tu Navidad es en pleno verano. Con más de treinta y dos grados, el límite baja a una hora.\n\nSígueme, que aquí aprendemos todos. ¡Cloc, cloc!",
+  "terminos": "",
+  "escenas": [
+   {
+    "desde": "¿Dejas la comida",
+    "buscar": "christmas dinner table",
+    "alt": [
+     "dinner table food"
+    ]
+   },
+   {
+    "desde": "Ojo. La EFSA",
+    "buscar": "clock",
+    "alt": [
+     "clock ticking"
+    ]
+   },
+   {
+    "desde": "Si se van",
+    "buscar": "hot food buffet",
+    "alt": [
+     "serving hot food"
+    ]
+   },
+   {
+    "desde": "Si no, refrigéralos",
+    "buscar": "putting food refrigerator",
+    "alt": [
+     "refrigerator"
+    ]
+   },
+   {
+    "desde": "Y evita guardar",
+    "buscar": "leftovers containers",
+    "alt": [
+     "food containers"
+    ]
+   },
+   {
+    "desde": "Y ojo si",
+    "buscar": "summer barbecue",
+    "alt": [
+     "beach summer"
+    ]
+   },
+   {
+    "desde": "Sígueme, que aquí",
+    "buscar": "woman laughing kitchen",
+    "alt": [
+     "happy cook kitchen"
+    ]
+   }
+  ]
+ },
+ "041_cena_segura": {
+  "largo": true,
+  "guion": "¿Preparas la cena de Navidad? Estos son los seis pasos que recomienda la EFSA, la Autoridad Europea de Seguridad Alimentaria.\n\nUno, la limpieza. Lávate las manos antes de manipular los alimentos y durante la preparación, y limpia bien superficies y utensilios.\n\nDos, separa lo crudo de lo cocinado. Usa utensilios y tablas diferentes, y guárdalos por separado en el frigorífico.\n\nTres, cocina bien la carne, los huevos y los pescados. Las sopas y los guisos, a ebullición, hasta los setenta grados. En la carne, los jugos tienen que salir claros, no rosados. Y en el pescado, la carne se separa fácilmente de las espinas.\n\nCuatro, la conservación. Nada de dejar lo cocinado a temperatura ambiente más de dos horas. Refrigéralo por debajo de cinco grados, o mantenlo caliente, por encima de sesenta.\n\nCinco, descongela en el frigorífico: es la forma más segura.\n\nY seis, usa agua potable, alimentos frescos, lava bien las frutas y verduras y no tomes nada pasada su fecha de caducidad.\n\nY si me ves desde Argentina o Paraguay, tu Navidad es en pleno verano: con más de treinta y dos grados, el tiempo fuera del frío baja a una hora.\n\nSígueme, que aquí aprendemos todos. ¡Cloc, cloc!",
+  "terminos": "",
+  "escenas": [
+   {
+    "desde": "¿Preparas la cena",
+    "buscar": "christmas dinner cooking",
+    "alt": [
+     "cooking dinner"
+    ]
+   },
+   {
+    "desde": "Uno, la limpieza.",
+    "buscar": "washing hands soap",
+    "alt": [
+     "hand washing"
+    ]
+   },
+   {
+    "desde": "Dos, separa lo",
+    "buscar": "cutting boards",
+    "alt": [
+     "cutting raw meat"
+    ]
+   },
+   {
+    "desde": "Tres, cocina bien",
+    "buscar": "roast meat oven",
+    "alt": [
+     "roasting meat"
+    ]
+   },
+   {
+    "desde": "En la carne,",
+    "buscar": "cutting roast meat",
+    "alt": [
+     "roast beef"
+    ]
+   },
+   {
+    "desde": "Cuatro, la conservación.",
+    "buscar": "putting food refrigerator",
+    "alt": [
+     "refrigerator"
+    ]
+   },
+   {
+    "desde": "Cinco, descongela en",
+    "buscar": "refrigerator food",
+    "alt": [
+     "fridge"
+    ]
+   },
+   {
+    "desde": "Y seis, usa",
+    "buscar": "washing vegetables",
+    "alt": [
+     "washing fruit"
+    ]
+   },
+   {
+    "desde": "Y si me",
+    "buscar": "summer barbecue",
+    "alt": [
+     "beach summer"
+    ]
+   },
+   {
+    "desde": "Sígueme, que aquí",
+    "buscar": "woman laughing kitchen",
+    "alt": [
+     "happy cook kitchen"
+    ]
+   }
+  ]
+ },
+ "042_congelar_embutidos": {
+  "largo": false,
+  "guion": "¿Te sobran fiambres y embutidos de Navidad? Sí se pueden congelar. Aguantan de uno a dos meses en el congelador, y ese tiempo es por calidad.\n\nCongélalos antes de que llegue su fecha de caducidad o de consumo preferente. Una vez congelados, se detiene el crecimiento bacteriano y se puede sobrepasar esa fecha.\n\nMejor en raciones, bien protegidos en bolsas o recipientes herméticos, y apuntando la fecha. Y a menos dieciocho grados.\n\nSígueme, que aquí aprendemos todos. ¡Cloc, cloc!",
+  "terminos": "",
+  "escenas": [
+   {
+    "desde": "¿Te sobran fiambres",
+    "buscar": "charcuterie board",
+    "alt": [
+     "cured meat"
+    ]
+   },
+   {
+    "desde": "Congélalos antes de",
+    "buscar": "sliced ham",
+    "alt": [
+     "ham slices"
+    ]
+   },
+   {
+    "desde": "Una vez congelados,",
+    "buscar": "freezer",
+    "alt": [
+     "opening freezer"
+    ]
+   },
+   {
+    "desde": "Mejor en raciones,",
+    "buscar": "vacuum sealed food",
+    "alt": [
+     "food storage bags"
+    ]
+   },
+   {
+    "desde": "Y a menos",
+    "buscar": "frozen food freezer",
+    "alt": [
+     "freezer frost"
+    ]
+   },
+   {
+    "desde": "Sígueme, que aquí",
+    "buscar": "woman laughing kitchen",
+    "alt": [
+     "happy cook kitchen"
+    ]
+   }
+  ]
+ },
+ "043_marisco_congelado": {
+  "largo": false,
+  "guion": "¿Te sobra marisco de Navidad? Se puede congelar, y la AESAN dice cuánto aguanta por calidad.\n\nEl marisco, de tres a seis meses. El pescado blanco, de seis a ocho. Y el pescado azul, de dos a tres.\n\nCongélalo cuanto antes, y siempre antes de la fecha de caducidad. Divídelo en raciones, que se congelan antes, y apunta la fecha.\n\nPara descongelarlo, a la nevera, con unas doce horas de antelación como mínimo, y sobre una bandeja.\n\nSígueme, que aquí aprendemos todos. ¡Cloc, cloc!",
+  "terminos": "",
+  "escenas": [
+   {
+    "desde": "¿Te sobra marisco",
+    "buscar": "seafood platter",
+    "alt": [
+     "shrimp"
+    ]
+   },
+   {
+    "desde": "El marisco, de",
+    "buscar": "prawns",
+    "alt": [
+     "shrimp"
+    ]
+   },
+   {
+    "desde": "El pescado blanco,",
+    "buscar": "white fish fillet",
+    "alt": [
+     "fish fillet"
+    ]
+   },
+   {
+    "desde": "Y el pescado",
+    "buscar": "sardines",
+    "alt": [
+     "salmon"
+    ]
+   },
+   {
+    "desde": "Congélalo cuanto antes,",
+    "buscar": "freezer bags food",
+    "alt": [
+     "freezer"
+    ]
+   },
+   {
+    "desde": "Para descongelarlo, a",
+    "buscar": "refrigerator food",
+    "alt": [
+     "fridge"
+    ]
+   },
+   {
+    "desde": "Sígueme, que aquí",
+    "buscar": "woman laughing kitchen",
+    "alt": [
+     "happy cook kitchen"
+    ]
+   }
+  ]
+ },
+ "044_carne_hecha_termometro": {
+  "largo": false,
+  "guion": "¿Cómo sabes que el cordero o el cochinillo ya están hechos? No lo dejes a ojo.\n\nLa EFSA recomienda cocinar bien la carne, los huevos y los pescados, y, idealmente, usar un termómetro.\n\nEn la carne, los jugos tienen que salir claros, no de un tono rosado. Y si hace falta, haz pequeños cortes para comprobar el cocinado.\n\nEn el pescado, la carne se separa fácilmente de las espinas. Y los huevos, hasta que la yema y la clara estén cuajadas.\n\nOjo: la FDA de Estados Unidos va más allá y dice que el color y la textura no son indicadores fiables, y que solo un termómetro lo asegura: sesenta y tres grados en cordero y cerdo, con tres minutos de reposo; setenta y uno en carne molida.\n\nSígueme, que aquí aprendemos todos. ¡Cloc, cloc!",
+  "terminos": "",
+  "escenas": [
+   {
+    "desde": "¿Cómo sabes que",
+    "buscar": "roast lamb",
+    "alt": [
+     "roast pork"
+    ]
+   },
+   {
+    "desde": "No lo dejes",
+    "buscar": "roast meat oven",
+    "alt": [
+     "oven"
+    ]
+   },
+   {
+    "desde": "La EFSA recomienda",
+    "buscar": "meat thermometer",
+    "alt": [
+     "food thermometer"
+    ]
+   },
+   {
+    "desde": "En la carne,",
+    "buscar": "cutting roast meat",
+    "alt": [
+     "slicing meat"
+    ]
+   },
+   {
+    "desde": "En el pescado,",
+    "buscar": "baked fish",
+    "alt": [
+     "cooked fish"
+    ]
+   },
+   {
+    "desde": "Ojo: la FDA",
+    "buscar": "meat thermometer steak",
+    "alt": [
+     "thermometer"
+    ]
+   },
+   {
+    "desde": "Sígueme, que aquí",
+    "buscar": "woman laughing kitchen",
+    "alt": [
+     "happy cook kitchen"
+    ]
+   }
+  ]
+ },
+ "045_caramelos_ninos": {
+  "largo": false,
+  "guion": "¿Caramelos para los peques en Navidad? Ojo. Los pediatras avisan de que ningún caramelo es seguro antes de cumplir los cinco años: no se deshacen rápido y encajan con facilidad en la garganta.\n\nLos caramelos duros y redondos pueden bloquear completamente la vía aérea de un niño en segundos.\n\nDe cero a tres años, el riesgo es muy alto y no deben tomarlos. De tres a cinco, el riesgo es alto, incluso con supervisión. Y por encima de cinco años, el riesgo disminuye, pero no desaparece.\n\nLa Academia Americana de Pediatría coincide: incluye los caramelos duros, pegajosos o blandos entre los alimentos de riesgo y aconseja evitarlos hasta los cuatro años o más.\n\nSígueme, que aquí aprendemos todos. ¡Cloc, cloc!",
+  "terminos": "",
+  "escenas": [
+   {
+    "desde": "¿Caramelos para los",
+    "buscar": "candy",
+    "alt": [
+     "sweets"
+    ]
+   },
+   {
+    "desde": "Ojo. Los pediatras",
+    "buscar": "pediatrician child",
+    "alt": [
+     "doctor child"
+    ]
+   },
+   {
+    "desde": "Los caramelos duros",
+    "buscar": "hard candy",
+    "alt": [
+     "lollipop"
+    ]
+   },
+   {
+    "desde": "De cero a",
+    "buscar": "toddler playing",
+    "alt": [
+     "baby"
+    ]
+   },
+   {
+    "desde": "La Academia Americana",
+    "buscar": "child eating",
+    "alt": [
+     "kids eating"
+    ]
+   },
+   {
+    "desde": "Sígueme, que aquí",
+    "buscar": "woman laughing kitchen",
+    "alt": [
+     "happy cook kitchen"
+    ]
+   }
+  ]
+ },
+ "046_uvas_ninos": {
+  "largo": true,
+  "guion": "¿Van a tomar las uvas los niños en Nochevieja? Esto dicen los pediatras de la Asociación Española de Pediatría.\n\nDurante las fiestas aumenta el riesgo de atragantamiento, porque se toman más turrones, frutos secos, peladillas, palomitas y, sobre todo, uvas y caramelos. Y la asfixia es una de las principales causas de mortalidad en la infancia, sobre todo entre uno y cinco años.\n\nPrimero: no ofrezcas uvas enteras hasta, al menos, los cuatro o cinco años. Hasta entonces, pártelas en cuatro trozos a lo largo, no en rodajas.\n\nSegundo: que estén peladas y sin semillas, porque la piel es resbaladiza.\n\nTercero: que el niño esté sentado y tranquilo, y siempre con un adulto al lado.\n\nY cuarto: los gusanitos de sémola de maíz o las pasas pueden ser alternativas seguras.\n\nY ojo con los caramelos: según los pediatras, ninguno es seguro antes de los cinco años. Si un niño se atraganta, pide ayuda o llama al ciento doce.\n\nSi en tu país también se toman uvas en Nochevieja, ojo: la Academia Americana de Pediatría coincide y dice que las uvas enteras son un riesgo; solo se pueden servir si están completamente picadas en trocitos diminutos.\n\nSígueme, que aquí aprendemos todos. ¡Cloc, cloc!",
+  "terminos": "",
+  "escenas": [
+   {
+    "desde": "¿Van a tomar",
+    "buscar": "grapes",
+    "alt": [
+     "new year party"
+    ]
+   },
+   {
+    "desde": "Durante las fiestas",
+    "buscar": "christmas sweets",
+    "alt": [
+     "popcorn"
+    ]
+   },
+   {
+    "desde": "Y la asfixia",
+    "buscar": "child eating",
+    "alt": [
+     "toddler eating"
+    ]
+   },
+   {
+    "desde": "Primero: no ofrezcas",
+    "buscar": "cutting grapes",
+    "alt": [
+     "grapes knife"
+    ]
+   },
+   {
+    "desde": "Segundo: que estén",
+    "buscar": "peeling grapes",
+    "alt": [
+     "grapes"
+    ]
+   },
+   {
+    "desde": "Tercero: que el",
+    "buscar": "family dinner children",
+    "alt": [
+     "child eating table"
+    ]
+   },
+   {
+    "desde": "Y cuarto: los",
+    "buscar": "corn snacks",
+    "alt": [
+     "snacks bowl"
+    ]
+   },
+   {
+    "desde": "Y ojo con",
+    "buscar": "candy",
+    "alt": [
+     "sweets"
+    ]
+   },
+   {
+    "desde": "Si en tu",
+    "buscar": "new year celebration",
+    "alt": [
+     "fireworks"
+    ]
+   },
+   {
+    "desde": "Sígueme, que aquí",
+    "buscar": "woman laughing kitchen",
+    "alt": [
+     "happy cook kitchen"
+    ]
+   }
+  ]
+ },
+ "047_atragantamiento_actuar": {
+  "largo": false,
+  "guion": "¿Qué haces si un niño se atraganta? Dos mitos que hay que olvidar, según los pediatras.\n\nMeter el dedo en la boca para sacar el objeto es falso: puede empujarlo más profundo. Y levantarlo por los pies, tampoco.\n\nSi tose con fuerza, no intervengas: la tos es la forma natural de expulsarlo. Si no puede toser o le cuesta respirar, pide ayuda o llama al ciento doce, mira la boca y extrae el objeto solo si está accesible, y da cinco golpes en la espalda, seguidos de cinco compresiones.\n\nY apúntate a un curso de primeros auxilios.\n\nSígueme, que aquí aprendemos todos. ¡Cloc, cloc!",
+  "terminos": "",
+  "escenas": [
+   {
+    "desde": "¿Qué haces si",
+    "buscar": "child coughing",
+    "alt": [
+     "child eating"
+    ]
+   },
+   {
+    "desde": "Meter el dedo",
+    "buscar": "child mouth",
+    "alt": [
+     "toddler"
+    ]
+   },
+   {
+    "desde": "Si tose con",
+    "buscar": "child coughing",
+    "alt": [
+     "coughing"
+    ]
+   },
+   {
+    "desde": "Si no puede",
+    "buscar": "calling emergency phone",
+    "alt": [
+     "phone call"
+    ]
+   },
+   {
+    "desde": "y da cinco",
+    "buscar": "first aid training",
+    "alt": [
+     "first aid"
+    ]
+   },
+   {
+    "desde": "Y apúntate a",
+    "buscar": "first aid course",
+    "alt": [
+     "cpr training"
+    ]
+   },
+   {
+    "desde": "Sígueme, que aquí",
+    "buscar": "woman laughing kitchen",
+    "alt": [
+     "happy cook kitchen"
+    ]
+   }
+  ]
+ },
+ "048_asado_seguro": {
+  "largo": false,
+  "guion": "¿Vas a hacer un asado? ¡Ojo con el plato de la carne!\n\nNunca pongas la carne ya cocinada en el mismo plato donde estuvo la cruda, a menos que lo hayas lavado con agua caliente y jabón.\n\nY el color y la textura no son indicadores fiables, dice la FDA, la agencia de alimentos de Estados Unidos. Lo seguro es un termómetro: sesenta y tres grados en cortes de vacuno, cerdo o cordero, con tres minutos de reposo; setenta y uno en la carne molida; y setenta y cuatro en el pollo.\n\nY lo que sobre, a la heladera o la nevera antes de dos horas. Y si hace más de treinta y dos grados, como en un verano de Argentina o Paraguay, antes de una hora.\n\nSígueme, que aquí aprendemos todos. ¡Cloc, cloc!",
+  "terminos": "",
+  "escenas": [
+   {
+    "desde": "¿Vas a hacer",
+    "buscar": "barbecue grill meat",
+    "alt": [
+     "asado grill"
+    ]
+   },
+   {
+    "desde": "¡Ojo con el",
+    "buscar": "raw meat plate",
+    "alt": [
+     "raw meat"
+    ]
+   },
+   {
+    "desde": "Nunca pongas la",
+    "buscar": "grilled meat plate",
+    "alt": [
+     "barbecue"
+    ]
+   },
+   {
+    "desde": "Y el color",
+    "buscar": "grilled steak",
+    "alt": [
+     "steak"
+    ]
+   },
+   {
+    "desde": "Lo seguro es",
+    "buscar": "meat thermometer",
+    "alt": [
+     "thermometer grill"
+    ]
+   },
+   {
+    "desde": "Y lo que",
+    "buscar": "summer barbecue",
+    "alt": [
+     "refrigerator"
+    ]
+   },
+   {
+    "desde": "Sígueme, que aquí",
+    "buscar": "woman laughing kitchen",
+    "alt": [
+     "happy cook kitchen"
+    ]
+   }
+  ]
+ },
+ "049_cocinar_congelado": {
+  "largo": false,
+  "guion": "¿Se puede cocinar sin descongelar? Depende. La EFSA dice que la forma más segura de descongelar es en el frigorífico.\n\nPero algunos alimentos se pueden cocinar directamente al sacarlos del congelador, como las verduras, las hamburguesas o los productos de pastelería. Eso sí, solo cuando la etiqueta lo indica y siguiendo siempre las instrucciones de preparación.\n\nY recuerda: lo que descongeles, cocínalo rápido.\n\nEn Estados Unidos, el Departamento de Agricultura dice que la carne, las aves y los guisos se pueden cocinar directamente congelados, pero tardan aproximadamente una vez y media más.\n\nSígueme, que aquí aprendemos todos. ¡Cloc, cloc!",
+  "terminos": "",
+  "escenas": [
+   {
+    "desde": "¿Se puede cocinar",
+    "buscar": "frozen vegetables",
+    "alt": [
+     "frozen food"
+    ]
+   },
+   {
+    "desde": "La EFSA dice",
+    "buscar": "refrigerator food",
+    "alt": [
+     "fridge"
+    ]
+   },
+   {
+    "desde": "Pero algunos alimentos",
+    "buscar": "frozen burgers",
+    "alt": [
+     "cooking frozen vegetables"
+    ]
+   },
+   {
+    "desde": "Eso sí, solo",
+    "buscar": "food package label",
+    "alt": [
+     "reading label"
+    ]
+   },
+   {
+    "desde": "Y recuerda: lo",
+    "buscar": "cooking pan",
+    "alt": [
+     "frying pan"
+    ]
+   },
+   {
+    "desde": "En Estados Unidos,",
+    "buscar": "oven roast",
+    "alt": [
+     "cooking meat"
+    ]
+   },
+   {
+    "desde": "Sígueme, que aquí",
+    "buscar": "woman laughing kitchen",
+    "alt": [
+     "happy cook kitchen"
+    ]
+   }
+  ]
  }
 }

@@ -47,6 +47,8 @@ def voz():
         except urllib.error.HTTPError as e:
             if e.code == 429 and len(modelos) > 1:
                 print("voz:", modelo, "sin cupo hoy, paso a", modelos[1], flush=True); modelos.pop(0); continue
+            if e.code == 429:
+                print("SIN_CUPO: los tres modelos de voz gratuitos están agotados hasta mañana (9:00)", flush=True); sys.exit(75)
             print("voz: reintento", e.code, flush=True); time.sleep(10 * (intento + 1)); continue
         except Exception as e:
             print("voz: reintento", type(e).__name__, flush=True); time.sleep(10 * (intento + 1)); continue
@@ -252,3 +254,4 @@ subprocess.run([FFMPEG, "-v", "error", "-y", "-f", "concat", "-safe", "0", "-i",
                 "-map", "[v]", "-map", "[a]", "-c:v", "libx264", "-crf", "19", "-preset", "medium", "-c:a", "aac", "-b:a", "192k",
                 "-movflags", "+faststart", "-t", f"{TOTAL:.2f}", final], check=True)
 print("OK", final, f"{dur(final):.1f} s", flush=True)
+open(os.path.join(D, "hecho"), "w").write(final + "\n")

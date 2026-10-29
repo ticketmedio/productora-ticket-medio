@@ -1,0 +1,8 @@
+file '/Users/antoniofuster/Downloads/faceless/redes/pepa_pita/real/023_cinco_segundos/esc_00.mp4'
+file '/Users/antoniofuster/Downloads/faceless/redes/pepa_pita/real/023_cinco_segundos/esc_01.mp4'
+file '/Users/antoniofuster/Downloads/faceless/redes/pepa_pita/real/023_cinco_segundos/esc_02.mp4'
+file '/Users/antoniofuster/Downloads/faceless/redes/pepa_pita/real/023_cinco_segundos/esc_03.mp4'
+file '/Users/antoniofuster/Downloads/faceless/redes/pepa_pita/real/023_cinco_segundos/esc_04.mp4'
+file '/Users/antoniofuster/Downloads/faceless/redes/pepa_pita/real/023_cinco_segundos/esc_05.mp4'
+file '/Users/antoniofuster/Downloads/faceless/redes/pepa_pita/real/023_cinco_segundos/esc_06.mp4'
+file '/Users/antoniofuster/Downloads/faceless/redes/pepa_pita/real/023_cinco_segundos/esc_07.mp4'

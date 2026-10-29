@@ -1,0 +1,115 @@
+[Script Info]
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: P,Archivo Black,86,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,7,3,2,60,60,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.46,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}¿SE{\r} TE CAE
+Dialogue: 0,0:00:00.46,0:00:00.58,P,,0,0,0,,¿SE {\c&H00D4FF&\fscx112\fscy112}TE{\r} CAE
+Dialogue: 0,0:00:00.58,0:00:00.84,P,,0,0,0,,¿SE TE {\c&H00D4FF&\fscx112\fscy112}CAE{\r}
+Dialogue: 0,0:00:00.84,0:00:01.00,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}UNA{\r} GALLETA AL
+Dialogue: 0,0:00:01.00,0:00:01.40,P,,0,0,0,,UNA {\c&H00D4FF&\fscx112\fscy112}GALLETA{\r} AL
+Dialogue: 0,0:00:01.40,0:00:01.56,P,,0,0,0,,UNA GALLETA {\c&H00D4FF&\fscx112\fscy112}AL{\r}
+Dialogue: 0,0:00:01.56,0:00:01.82,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}SUELO{\r} Y LA
+Dialogue: 0,0:00:01.82,0:00:02.20,P,,0,0,0,,SUELO {\c&H00D4FF&\fscx112\fscy112}Y{\r} LA
+Dialogue: 0,0:00:02.20,0:00:02.34,P,,0,0,0,,SUELO Y {\c&H00D4FF&\fscx112\fscy112}LA{\r}
+Dialogue: 0,0:00:02.34,0:00:02.80,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}RECOGES{\r} EN CINCO
+Dialogue: 0,0:00:02.80,0:00:02.96,P,,0,0,0,,RECOGES {\c&H00D4FF&\fscx112\fscy112}EN{\r} CINCO
+Dialogue: 0,0:00:02.96,0:00:03.26,P,,0,0,0,,RECOGES EN {\c&H00D4FF&\fscx112\fscy112}CINCO{\r}
+Dialogue: 0,0:00:03.26,0:00:04.24,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}SEGUNDOS?{\r}
+Dialogue: 0,0:00:04.24,0:00:04.48,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}A{\r} VER QUÉ
+Dialogue: 0,0:00:04.48,0:00:04.64,P,,0,0,0,,A {\c&H00D4FF&\fscx112\fscy112}VER{\r} QUÉ
+Dialogue: 0,0:00:04.64,0:00:04.78,P,,0,0,0,,A VER {\c&H00D4FF&\fscx112\fscy112}QUÉ{\r}
+Dialogue: 0,0:00:04.78,0:00:05.00,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}DICE{\r} LA CIENCIA.
+Dialogue: 0,0:00:05.00,0:00:05.16,P,,0,0,0,,DICE {\c&H00D4FF&\fscx112\fscy112}LA{\r} CIENCIA.
+Dialogue: 0,0:00:05.16,0:00:06.08,P,,0,0,0,,DICE LA {\c&H00D4FF&\fscx112\fscy112}CIENCIA.{\r}
+Dialogue: 0,0:00:06.08,0:00:06.76,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}INVESTIGADORES{\r} DE LA
+Dialogue: 0,0:00:06.76,0:00:06.94,P,,0,0,0,,INVESTIGADORES {\c&H00D4FF&\fscx112\fscy112}DE{\r} LA
+Dialogue: 0,0:00:06.94,0:00:07.02,P,,0,0,0,,INVESTIGADORES DE {\c&H00D4FF&\fscx112\fscy112}LA{\r}
+Dialogue: 0,0:00:07.02,0:00:07.58,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}UNIVERSIDAD{\r} DE RUTGERS
+Dialogue: 0,0:00:07.58,0:00:07.72,P,,0,0,0,,UNIVERSIDAD {\c&H00D4FF&\fscx112\fscy112}DE{\r} RUTGERS
+Dialogue: 0,0:00:07.72,0:00:08.14,P,,0,0,0,,UNIVERSIDAD DE {\c&H00D4FF&\fscx112\fscy112}RUTGERS{\r}
+Dialogue: 0,0:00:08.14,0:00:08.54,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}LO{\r} PROBARON CON
+Dialogue: 0,0:00:08.54,0:00:08.90,P,,0,0,0,,LO {\c&H00D4FF&\fscx112\fscy112}PROBARON{\r} CON
+Dialogue: 0,0:00:08.90,0:00:09.10,P,,0,0,0,,LO PROBARON {\c&H00D4FF&\fscx112\fscy112}CON{\r}
+Dialogue: 0,0:00:09.10,0:00:09.32,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}UNA{\r} BACTERIA,
+Dialogue: 0,0:00:09.32,0:00:10.10,P,,0,0,0,,UNA {\c&H00D4FF&\fscx112\fscy112}BACTERIA,{\r}
+Dialogue: 0,0:00:10.10,0:00:10.46,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}CUATRO{\r} SUPERFICIES Y
+Dialogue: 0,0:00:10.46,0:00:11.20,P,,0,0,0,,CUATRO {\c&H00D4FF&\fscx112\fscy112}SUPERFICIES{\r} Y
+Dialogue: 0,0:00:11.20,0:00:11.46,P,,0,0,0,,CUATRO SUPERFICIES {\c&H00D4FF&\fscx112\fscy112}Y{\r}
+Dialogue: 0,0:00:11.46,0:00:11.88,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}CUATRO{\r} ALIMENTOS,
+Dialogue: 0,0:00:11.88,0:00:12.74,P,,0,0,0,,CUATRO {\c&H00D4FF&\fscx112\fscy112}ALIMENTOS,{\r}
+Dialogue: 0,0:00:12.74,0:00:13.02,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}CON{\r} CONTACTOS DE
+Dialogue: 0,0:00:13.02,0:00:13.50,P,,0,0,0,,CON {\c&H00D4FF&\fscx112\fscy112}CONTACTOS{\r} DE
+Dialogue: 0,0:00:13.50,0:00:13.64,P,,0,0,0,,CON CONTACTOS {\c&H00D4FF&\fscx112\fscy112}DE{\r}
+Dialogue: 0,0:00:13.64,0:00:13.84,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}MENOS{\r} DE UN
+Dialogue: 0,0:00:13.84,0:00:14.02,P,,0,0,0,,MENOS {\c&H00D4FF&\fscx112\fscy112}DE{\r} UN
+Dialogue: 0,0:00:14.02,0:00:14.12,P,,0,0,0,,MENOS DE {\c&H00D4FF&\fscx112\fscy112}UN{\r}
+Dialogue: 0,0:00:14.12,0:00:14.78,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}SEGUNDO,{\r}
+Dialogue: 0,0:00:14.78,0:00:15.52,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}CINCO,{\r}
+Dialogue: 0,0:00:15.52,0:00:15.96,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}TREINTA{\r} Y TRESCIENTOS
+Dialogue: 0,0:00:15.96,0:00:16.26,P,,0,0,0,,TREINTA {\c&H00D4FF&\fscx112\fscy112}Y{\r} TRESCIENTOS
+Dialogue: 0,0:00:16.26,0:00:16.96,P,,0,0,0,,TREINTA Y {\c&H00D4FF&\fscx112\fscy112}TRESCIENTOS{\r}
+Dialogue: 0,0:00:16.96,0:00:17.88,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}SEGUNDOS.{\r}
+Dialogue: 0,0:00:17.88,0:00:19.06,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}RESULTADO:{\r}
+Dialogue: 0,0:00:19.06,0:00:19.26,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}CUANTO{\r} MÁS TIEMPO,
+Dialogue: 0,0:00:19.26,0:00:19.52,P,,0,0,0,,CUANTO {\c&H00D4FF&\fscx112\fscy112}MÁS{\r} TIEMPO,
+Dialogue: 0,0:00:19.52,0:00:20.26,P,,0,0,0,,CUANTO MÁS {\c&H00D4FF&\fscx112\fscy112}TIEMPO,{\r}
+Dialogue: 0,0:00:20.26,0:00:20.44,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}MÁS{\r} BACTERIAS PASAN.
+Dialogue: 0,0:00:20.44,0:00:21.06,P,,0,0,0,,MÁS {\c&H00D4FF&\fscx112\fscy112}BACTERIAS{\r} PASAN.
+Dialogue: 0,0:00:21.06,0:00:21.88,P,,0,0,0,,MÁS BACTERIAS {\c&H00D4FF&\fscx112\fscy112}PASAN.{\r}
+Dialogue: 0,0:00:21.88,0:00:22.22,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}PERO{\r} ALGO PASA
+Dialogue: 0,0:00:22.22,0:00:22.48,P,,0,0,0,,PERO {\c&H00D4FF&\fscx112\fscy112}ALGO{\r} PASA
+Dialogue: 0,0:00:22.48,0:00:22.76,P,,0,0,0,,PERO ALGO {\c&H00D4FF&\fscx112\fscy112}PASA{\r}
+Dialogue: 0,0:00:22.76,0:00:22.98,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}YA{\r} EN MENOS
+Dialogue: 0,0:00:22.98,0:00:23.14,P,,0,0,0,,YA {\c&H00D4FF&\fscx112\fscy112}EN{\r} MENOS
+Dialogue: 0,0:00:23.14,0:00:23.40,P,,0,0,0,,YA EN {\c&H00D4FF&\fscx112\fscy112}MENOS{\r}
+Dialogue: 0,0:00:23.40,0:00:23.62,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}DE{\r} UN SEGUNDO:
+Dialogue: 0,0:00:23.62,0:00:23.74,P,,0,0,0,,DE {\c&H00D4FF&\fscx112\fscy112}UN{\r} SEGUNDO:
+Dialogue: 0,0:00:23.74,0:00:24.50,P,,0,0,0,,DE UN {\c&H00D4FF&\fscx112\fscy112}SEGUNDO:{\r}
+Dialogue: 0,0:00:24.50,0:00:24.76,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}LA{\r} REGLA DE
+Dialogue: 0,0:00:24.76,0:00:25.12,P,,0,0,0,,LA {\c&H00D4FF&\fscx112\fscy112}REGLA{\r} DE
+Dialogue: 0,0:00:25.12,0:00:25.24,P,,0,0,0,,LA REGLA {\c&H00D4FF&\fscx112\fscy112}DE{\r}
+Dialogue: 0,0:00:25.24,0:00:25.36,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}LOS{\r} CINCO SEGUNDOS
+Dialogue: 0,0:00:25.36,0:00:25.64,P,,0,0,0,,LOS {\c&H00D4FF&\fscx112\fscy112}CINCO{\r} SEGUNDOS
+Dialogue: 0,0:00:25.64,0:00:26.14,P,,0,0,0,,LOS CINCO {\c&H00D4FF&\fscx112\fscy112}SEGUNDOS{\r}
+Dialogue: 0,0:00:26.14,0:00:26.60,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}NO{\r} FUNCIONA.
+Dialogue: 0,0:00:26.60,0:00:27.04,P,,0,0,0,,NO {\c&H00D4FF&\fscx112\fscy112}FUNCIONA.{\r}
+Dialogue: 0,0:00:27.04,0:00:27.82,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}Y{\r} TAMBIÉN IMPORTA
+Dialogue: 0,0:00:27.82,0:00:28.06,P,,0,0,0,,Y {\c&H00D4FF&\fscx112\fscy112}TAMBIÉN{\r} IMPORTA
+Dialogue: 0,0:00:28.06,0:00:28.48,P,,0,0,0,,Y TAMBIÉN {\c&H00D4FF&\fscx112\fscy112}IMPORTA{\r}
+Dialogue: 0,0:00:28.48,0:00:28.76,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}QUÉ{\r} ALIMENTO Y
+Dialogue: 0,0:00:28.76,0:00:29.24,P,,0,0,0,,QUÉ {\c&H00D4FF&\fscx112\fscy112}ALIMENTO{\r} Y
+Dialogue: 0,0:00:29.24,0:00:29.40,P,,0,0,0,,QUÉ ALIMENTO {\c&H00D4FF&\fscx112\fscy112}Y{\r}
+Dialogue: 0,0:00:29.40,0:00:29.56,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}QUÉ{\r} SUELO:
+Dialogue: 0,0:00:29.56,0:00:30.44,P,,0,0,0,,QUÉ {\c&H00D4FF&\fscx112\fscy112}SUELO:{\r}
+Dialogue: 0,0:00:30.44,0:00:30.64,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}LA{\r} SANDÍA RECOGIÓ
+Dialogue: 0,0:00:30.64,0:00:31.06,P,,0,0,0,,LA {\c&H00D4FF&\fscx112\fscy112}SANDÍA{\r} RECOGIÓ
+Dialogue: 0,0:00:31.06,0:00:31.60,P,,0,0,0,,LA SANDÍA {\c&H00D4FF&\fscx112\fscy112}RECOGIÓ{\r}
+Dialogue: 0,0:00:31.60,0:00:31.88,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}MÁS{\r} BACTERIAS QUE
+Dialogue: 0,0:00:31.88,0:00:32.50,P,,0,0,0,,MÁS {\c&H00D4FF&\fscx112\fscy112}BACTERIAS{\r} QUE
+Dialogue: 0,0:00:32.50,0:00:32.70,P,,0,0,0,,MÁS BACTERIAS {\c&H00D4FF&\fscx112\fscy112}QUE{\r}
+Dialogue: 0,0:00:32.70,0:00:32.90,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}UN{\r} CARAMELO DE
+Dialogue: 0,0:00:32.90,0:00:33.36,P,,0,0,0,,UN {\c&H00D4FF&\fscx112\fscy112}CARAMELO{\r} DE
+Dialogue: 0,0:00:33.36,0:00:33.50,P,,0,0,0,,UN CARAMELO {\c&H00D4FF&\fscx112\fscy112}DE{\r}
+Dialogue: 0,0:00:33.50,0:00:34.16,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}GOMA.{\r}
+Dialogue: 0,0:00:34.16,0:00:34.46,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}ASÍ{\r} QUE SI
+Dialogue: 0,0:00:34.46,0:00:34.64,P,,0,0,0,,ASÍ {\c&H00D4FF&\fscx112\fscy112}QUE{\r} SI
+Dialogue: 0,0:00:34.64,0:00:34.76,P,,0,0,0,,ASÍ QUE {\c&H00D4FF&\fscx112\fscy112}SI{\r}
+Dialogue: 0,0:00:34.76,0:00:34.90,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}SE{\r} CAE,
+Dialogue: 0,0:00:34.90,0:00:35.46,P,,0,0,0,,SE {\c&H00D4FF&\fscx112\fscy112}CAE,{\r}
+Dialogue: 0,0:00:35.46,0:00:35.82,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}MEJOR{\r} NO ARRIESGAR.
+Dialogue: 0,0:00:35.82,0:00:36.20,P,,0,0,0,,MEJOR {\c&H00D4FF&\fscx112\fscy112}NO{\r} ARRIESGAR.
+Dialogue: 0,0:00:36.20,0:00:37.20,P,,0,0,0,,MEJOR NO {\c&H00D4FF&\fscx112\fscy112}ARRIESGAR.{\r}
+Dialogue: 0,0:00:37.20,0:00:37.94,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}SÍGUEME,{\r}
+Dialogue: 0,0:00:37.94,0:00:38.02,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}QUE{\r} AQUÍ APRENDEMOS
+Dialogue: 0,0:00:38.02,0:00:38.22,P,,0,0,0,,QUE {\c&H00D4FF&\fscx112\fscy112}AQUÍ{\r} APRENDEMOS
+Dialogue: 0,0:00:38.22,0:00:38.82,P,,0,0,0,,QUE AQUÍ {\c&H00D4FF&\fscx112\fscy112}APRENDEMOS{\r}
+Dialogue: 0,0:00:38.82,0:00:39.04,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}TODOS.{\r}
+Dialogue: 0,0:00:39.04,0:00:39.09,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}¡CLOC,{\r}
+Dialogue: 0,0:00:39.04,0:00:39.44,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}CLOC!{\r}
