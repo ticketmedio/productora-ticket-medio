@@ -1,0 +1,455 @@
+{
+ "018_pan_duro": {
+  "largo": false,
+  "terminos": "bread loaf on table,stale bread,slicing bread,french toast cooking,bread crumbs,frozen bread slices,moldy bread,throwing bread in trash",
+  "guion": "¿Tiras el pan de ayer? ¡Ay, que se me cae la cresta!\n\nEn España, cada persona tiró en casa unos veintitrés kilos de comida en 2025. Y el pan es de lo que más tiramos sin tocar.\n\n¿Pan duro? Torrijas, migas, sopa de ajo o pan rallado. Y el pan se congela: en rebanadas, y sacas solo lo que vayas a usar.\n\nEso sí: si tiene moho, a la basura entero.\n\nSígueme, que aquí aprendemos todos. ¡Cloc, cloc!\n",
+  "escenas": [
+   {
+    "desde": "¿Tiras el pan de ayer?",
+    "buscar": "throwing bread in trash bin",
+    "alt": [
+     "bread in garbage"
+    ]
+   },
+   {
+    "desde": "¡Ay, que se me cae",
+    "buscar": "shocked woman kitchen",
+    "alt": [
+     "surprised woman",
+     "shocked face"
+    ]
+   },
+   {
+    "desde": "En España, cada persona",
+    "buscar": "food waste garbage bin kitchen",
+    "alt": [
+     "food waste"
+    ]
+   },
+   {
+    "desde": "Y el pan es",
+    "buscar": "loaf of bread close up",
+    "alt": [
+     "bread bakery"
+    ]
+   },
+   {
+    "desde": "¿Pan duro? Torrijas,",
+    "buscar": "french toast",
+    "alt": [
+     "toast frying pan",
+     "bread frying pan"
+    ]
+   },
+   {
+    "desde": "migas, sopa de ajo",
+    "buscar": "garlic soup bowl",
+    "alt": [
+     "soup bowl bread"
+    ]
+   },
+   {
+    "desde": "o pan rallado",
+    "buscar": "grating bread crumbs",
+    "alt": [
+     "breadcrumbs"
+    ]
+   },
+   {
+    "desde": "Y el pan se",
+    "buscar": "slicing bread knife",
+    "alt": [
+     "sliced bread"
+    ]
+   },
+   {
+    "desde": "en rebanadas, y sacas",
+    "buscar": "bread slices freezer bag",
+    "alt": [
+     "frozen bread",
+     "freezer food bag",
+     "opening freezer"
+    ]
+   },
+   {
+    "desde": "Eso sí: si tiene",
+    "buscar": "moldy bread",
+    "alt": [
+     "moldy",
+     "rotten fruit",
+     "rotten food",
+     "spoiled food"
+    ]
+   },
+   {
+    "desde": "Sígueme, que aquí",
+    "buscar": "woman laughing kitchen",
+    "alt": [
+     "happy cook kitchen"
+    ]
+   }
+  ]
+ },
+ "019_caducidad": {
+  "largo": false,
+  "terminos": "expiration date label,food package label close up,supermarket shelf,open fridge food,woman reading food label,yogurt in fridge,throwing food in trash,grocery shopping cart",
+  "guion": "¿Se te ha pasado la fecha de un alimento? ¡Espera, no lo tires todavía! Que no es lo mismo «consumir preferentemente antes del» que «fecha de caducidad».\n\nLa fecha de consumo preferente es hasta cuándo el alimento conserva sus propiedades, si lo guardas bien. Pasada, ya no está garantizada su calidad, pero no es lo mismo que caducar.\n\nLa fecha de caducidad es la de los alimentos muy perecederos: pasada, el alimento ya no se considera seguro. Ahí, a la basura, sin dudar.\n\nMira siempre la etiqueta antes de decidir. Y si me ves desde Latinoamérica, mira qué frase pone la tuya. En Estados Unidos, el Departamento de Agricultura aclara que la fecha de «mejor si se usa antes de» es de calidad, no de seguridad.\n\nSígueme, que aquí aprendemos todos. ¡Cloc, cloc!",
+  "escenas": [
+   {
+    "desde": "¿Se te ha pasado",
+    "buscar": "woman looking food package kitchen",
+    "alt": [
+     "reading food label",
+     "woman fridge food"
+    ]
+   },
+   {
+    "desde": "¡Espera, no lo",
+    "buscar": "hand stopping throwing food in trash",
+    "alt": [
+     "throwing food in trash"
+    ]
+   },
+   {
+    "desde": "Que no es lo",
+    "buscar": "food packages label close up",
+    "alt": [
+     "food label"
+    ]
+   },
+   {
+    "desde": "La fecha de consumo",
+    "buscar": "pantry jars pasta rice",
+    "alt": [
+     "pantry shelves"
+    ]
+   },
+   {
+    "desde": "Pasada, ya no",
+    "buscar": "cereal box breakfast",
+    "alt": [
+     "cookies package"
+    ]
+   },
+   {
+    "desde": "La fecha de caducidad",
+    "buscar": "raw meat package supermarket",
+    "alt": [
+     "fresh fish supermarket"
+    ]
+   },
+   {
+    "desde": "Ahí, a la basura",
+    "buscar": "throwing food in garbage",
+    "alt": [
+     "food in trash"
+    ]
+   },
+   {
+    "desde": "Mira siempre la",
+    "buscar": "woman reading label supermarket",
+    "alt": [
+     "shopping reading label"
+    ]
+   },
+   {
+    "desde": "Y si me ves",
+    "buscar": "buenos aires street",
+    "alt": [
+     "latin america city"
+    ]
+   },
+   {
+    "desde": "En Estados Unidos,",
+    "buscar": "american supermarket aisle",
+    "alt": [
+     "supermarket aisle"
+    ]
+   },
+   {
+    "desde": "Sígueme, que aquí",
+    "buscar": "woman smiling kitchen",
+    "alt": [
+     "happy cook kitchen"
+    ]
+   }
+  ]
+ },
+ "020_congelar_raciones": {
+  "largo": false,
+  "terminos": "freezer food containers,portioning food into containers,labeling food container,opening freezer,frozen food,cooling soup pot,defrosting food,family dinner",
+  "guion": "¿Congelas la comida en un solo bloque? ¡Cuidado! Divídela en raciones, según las personas que seáis en casa: se congela antes y no tiras nada. Si está cocinada, que se enfríe primero en la nevera, y luego al congelador, con lo que es y la fecha apuntados. Y ojo: lo descongelado no se vuelve a congelar, salvo que lo cocines antes a más de setenta grados durante al menos dos minutos. Y si me ves desde Argentina, Paraguay o Colombia: freezer o congelador, da igual. A menos dieciocho grados, la comida es segura casi indefinidamente; los tiempos son solo por calidad, según el Departamento de Agricultura de Estados Unidos. Sígueme, que aquí aprendemos todos. ¡Cloc, cloc!",
+  "escenas": [
+   {
+    "desde": "¿Congelas la comida",
+    "buscar": "opening freezer drawer",
+    "alt": [
+     "freezer"
+    ]
+   },
+   {
+    "desde": "¡Cuidado! Divídela en",
+    "buscar": "portioning food into containers",
+    "alt": [
+     "meal prep containers"
+    ]
+   },
+   {
+    "desde": "se congela antes",
+    "buscar": "meal prep containers stack",
+    "alt": [
+     "food containers"
+    ]
+   },
+   {
+    "desde": "Si está cocinada,",
+    "buscar": "pot of soup cooling on stove",
+    "alt": [
+     "soup pot"
+    ]
+   },
+   {
+    "desde": "y luego al congelador,",
+    "buscar": "writing label on food container",
+    "alt": [
+     "labeling jar"
+    ]
+   },
+   {
+    "desde": "Y ojo: lo descongelado",
+    "buscar": "frozen meat",
+    "alt": [
+     "frozen food",
+     "thawing meat"
+    ]
+   },
+   {
+    "desde": "salvo que lo",
+    "buscar": "cooking stew pot boiling",
+    "alt": [
+     "boiling pot"
+    ]
+   },
+   {
+    "desde": "Y si me ves",
+    "buscar": "colombia city street",
+    "alt": [
+     "latin america city"
+    ]
+   },
+   {
+    "desde": "A menos dieciocho",
+    "buscar": "frozen vegetables freezer",
+    "alt": [
+     "freezer frost",
+     "frozen food freezer"
+    ]
+   },
+   {
+    "desde": "Sígueme, que aquí",
+    "buscar": "woman smiling kitchen",
+    "alt": [
+     "happy cook kitchen"
+    ]
+   }
+  ]
+ },
+ "021_taper_trabajo": {
+  "largo": true,
+  "terminos": "lunch box office,packing lunch container,washing hands soap,microwave heating food,insulated lunch bag,office worker eating lunch,food container,office refrigerator",
+  "guion": "¿Te llevas el táper al trabajo? Pues escucha, que aquí hay mucha tela. Primero, en casa: raciones individuales, que se enfrían antes, y manos lavadas con jabón, al menos veinte segundos. Segundo, el recipiente: busca el símbolo de la copa y el tenedor, y si va al microondas, que lleve su dibujito. Tercero, el transporte: bolsa isotérmica y, en cuanto llegues, a la nevera. Cuarto, la hora de comer: caliéntala a más de setenta y cinco grados, tapada, removiendo y dándole la vuelta. Y ojo con los tiempos: cocinada, no más de dos horas fuera de la nevera, o una si hace más de treinta grados; y en la nevera, tres días como mucho. Y si me ves desde Argentina, Paraguay o Colombia, vianda o lonchera, da igual: con más de treinta y dos grados, el Departamento de Agricultura de Estados Unidos baja el límite a una hora. Sígueme, que aquí aprendemos todos. ¡Cloc, cloc!",
+  "escenas": [
+   {
+    "desde": "¿Te llevas el",
+    "buscar": "woman packing lunch box",
+    "alt": [
+     "lunch box"
+    ]
+   },
+   {
+    "desde": "Pues escucha, que",
+    "buscar": "woman talking kitchen",
+    "alt": [
+     "woman kitchen"
+    ]
+   },
+   {
+    "desde": "Primero, en casa:",
+    "buscar": "meal prep portions containers",
+    "alt": [
+     "meal prep"
+    ]
+   },
+   {
+    "desde": "y manos lavadas",
+    "buscar": "washing hands with soap",
+    "alt": [
+     "hand washing"
+    ]
+   },
+   {
+    "desde": "Segundo, el recipiente:",
+    "buscar": "glass food container lid",
+    "alt": [
+     "food container"
+    ]
+   },
+   {
+    "desde": "y si va",
+    "buscar": "putting container in microwave",
+    "alt": [
+     "microwave"
+    ]
+   },
+   {
+    "desde": "Tercero, el transporte:",
+    "buscar": "lunch bag commute",
+    "alt": [
+     "woman walking to work with bag"
+    ]
+   },
+   {
+    "desde": "y, en cuanto",
+    "buscar": "office kitchen fridge",
+    "alt": [
+     "refrigerator"
+    ]
+   },
+   {
+    "desde": "Cuarto, la hora",
+    "buscar": "microwave heating food",
+    "alt": [
+     "microwave food"
+    ]
+   },
+   {
+    "desde": "tapada, removiendo y",
+    "buscar": "stirring food bowl",
+    "alt": [
+     "stirring food"
+    ]
+   },
+   {
+    "desde": "Y ojo con",
+    "buscar": "clock time kitchen",
+    "alt": [
+     "clock"
+    ]
+   },
+   {
+    "desde": "y en la",
+    "buscar": "refrigerator leftovers containers",
+    "alt": [
+     "fridge food"
+    ]
+   },
+   {
+    "desde": "Y si me ves",
+    "buscar": "argentina street",
+    "alt": [
+     "latin america city"
+    ]
+   },
+   {
+    "desde": "con más de",
+    "buscar": "hot summer sun heat",
+    "alt": [
+     "summer heat"
+    ]
+   },
+   {
+    "desde": "Sígueme, que aquí",
+    "buscar": "office workers eating lunch",
+    "alt": [
+     "people eating lunch"
+    ]
+   }
+  ]
+ },
+ "022_huevos_codigo": {
+  "largo": false,
+  "terminos": "eggs carton,egg close up,free range chickens,hens farm,cracking egg,eggs on kitchen scale,chicken barn,supermarket eggs shelf",
+  "guion": "¿Has visto ese código que llevan los huevos? ¡No es un adorno! El primer número dice cómo vivió la gallina: el cero, ecológica; el uno, campera, con acceso al aire libre; el dos, criada en el suelo; y el tres, en jaula. Después van las letras del país y el número de la granja. Y las letras del estuche, S, M, L y XL, son por peso. Una L pesa entre sesenta y tres y setenta y tres gramos. Una M, entre cincuenta y tres y sesenta y tres. Sígueme, que aquí aprendemos todos. ¡Cloc, cloc!",
+  "escenas": [
+   {
+    "desde": "¿Has visto ese",
+    "buscar": "eggs in carton close up",
+    "alt": [
+     "eggs carton"
+    ]
+   },
+   {
+    "desde": "¡No es un",
+    "buscar": "egg close up hand",
+    "alt": [
+     "holding egg"
+    ]
+   },
+   {
+    "desde": "El primer número",
+    "buscar": "hens farm",
+    "alt": [
+     "chickens farm"
+    ]
+   },
+   {
+    "desde": "el cero, ecológica;",
+    "buscar": "organic farm chickens grass",
+    "alt": [
+     "chickens grass"
+    ]
+   },
+   {
+    "desde": "el uno, campera,",
+    "buscar": "free range chickens outdoors",
+    "alt": [
+     "chickens outdoor"
+    ]
+   },
+   {
+    "desde": "el dos, criada",
+    "buscar": "chickens inside barn",
+    "alt": [
+     "poultry barn"
+    ]
+   },
+   {
+    "desde": "y el tres,",
+    "buscar": "chicken cage",
+    "alt": [
+     "poultry farm cages"
+    ]
+   },
+   {
+    "desde": "Después van las",
+    "buscar": "eggs stamp",
+    "alt": [
+     "brown eggs"
+    ]
+   },
+   {
+    "desde": "Y las letras",
+    "buscar": "eggs supermarket shelf",
+    "alt": [
+     "buying eggs supermarket",
+     "eggs grocery"
+    ]
+   },
+   {
+    "desde": "Una L pesa",
+    "buscar": "weighing egg scale",
+    "alt": [
+     "kitchen scale",
+     "eggs different sizes"
+    ]
+   },
+   {
+    "desde": "Sígueme, que aquí",
+    "buscar": "cracking egg into bowl",
+    "alt": [
+     "cooking eggs"
+    ]
+   }
+  ]
+ }
+}

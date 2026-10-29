@@ -1,0 +1,14 @@
+voz: 32.4 s → 32.4 s (×1.00)
+  escena 1: 0.0–2.9 s · eggs in carton close up → person-opening-an-egg-carton-7048632
+  escena 2: 2.9–4.5 s · egg close up hand → hands-washing-white-eggs-6288845
+  escena 3: clip mother-hen-and-chicks-in-rustic-farm-coop-36090003 no se puede convertir, pruebo otro
+  escena 3: 4.5–7.2 s · hens farm → chickens-in-a-farm-enclosure-visible-through-wire-35307262
+  escena 4: 7.2–8.8 s · organic farm chickens grass → free-range-chickens-foraging-on-grass-39540273
+  escena 5: 8.8–11.5 s · free range chickens outdoors → free-range-chickens-pecking-outdoors-39463296
+  escena 6: 11.5–13.1 s · chickens inside barn → a-woman-is-feeding-chickens-in-a-barn-4911874
+  escena 7: 13.1–15.0 s · chicken cage → a-chicken-farm-with-many-chickens-in-cages-4911917
+  escena 8: 15.0–18.2 s · eggs stamp → brown-eggs-6811592
+  escena 9: 18.2–22.7 s · egg carton supermarket → a-carton-of-egg-shell-candles-7048635
+  escena 10: 22.7–29.0 s · egg on kitchen scale → frying-pan-with-egg-being-placed-over-the-table-6288809
+  escena 11: 29.0–33.0 s · cracking egg into bowl → person-breaking-eggs-into-metal-bowl-11131971
+OK /Users/antoniofuster/Downloads/faceless/redes/pepa_pita/videos/022_huevos_codigo/salida/PEPA_022_huevos_codigo.mp4 33.0 s
