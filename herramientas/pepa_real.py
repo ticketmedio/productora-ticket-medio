@@ -129,6 +129,11 @@ for n, e in enumerate(cfg["escenas"]):
     k, t = momento(e["desde"], k) if n else (0, 0.0)
     cortes.append(t)
 cortes.append(TOTAL)
+# Pepa en primer plano (2–5 s, sin vídeo detrás) al empezar la última escena de al menos 2 s: el consejo final lo da ella a cámara
+k_pp = next((n for n in range(len(cfg["escenas"]) - 1, -1, -1) if cortes[n + 1] - cortes[n] >= 2), len(cfg["escenas"]) - 1)
+pp_a = cortes[k_pp]; pp_b = pp_a + min(4.5, cortes[k_pp + 1] - pp_a)
+if cortes[k_pp + 1] - pp_b < 1.0 and cortes[k_pp + 1] - pp_a <= 5.5:   # si el resto del clip sería un parpadeo, toda la escena es de Pepa
+    pp_b = cortes[k_pp + 1]
 
 # 2) un clip de Pexels por escena (vertical si hay; si no, horizontal recortado), sin repetir
 usados = set()
@@ -166,9 +171,24 @@ def buscar(q, minimo, exigir=2):
 
 import urllib.parse
 trozos, creditos = [], []
+fondo = os.path.join(D, "fondo_pepa.png")
+from PIL import Image, ImageDraw, ImageFilter
+im = Image.new("RGB", (1080, 1920), (24, 46, 52)); dr = ImageDraw.Draw(im)
+for r in range(1100, 0, -20):                       # degradado radial: el azul petróleo de Pepa, más claro detrás de ella
+    c = int(24 + 40 * (1 - r / 1100)); dr.ellipse((540 - r, 1250 - r, 540 + r, 1250 + r), fill=(c, c * 46 // 24 + 8, c * 52 // 24 + 8))
+im.filter(ImageFilter.GaussianBlur(40)).save(fondo)
 for n, e in enumerate(cfg["escenas"]):
     d_esc = cortes[n + 1] - cortes[n]
     tr = os.path.join(D, f"esc_{n:02d}.mp4")
+    if n == k_pp:
+        pp = os.path.join(D, "esc_pepa.mp4")
+        subprocess.run([FFMPEG, "-v", "error", "-y", "-loop", "1", "-i", fondo, "-t", f"{pp_b - pp_a:.3f}", "-vf", "fps=30,setsar=1,format=yuv420p",
+                        "-c:v", "libx264", "-preset", "veryfast", "-crf", "20", pp], check=True)
+        trozos.append(pp)
+        print(f"  escena {n + 1}: {pp_a:.1f}–{pp_b:.1f} s · Pepa en primer plano", flush=True)
+        d_esc = cortes[n + 1] - pp_b
+        if d_esc < 0.05:
+            continue
     for _ in range(4):                # si un clip no se puede convertir (formato raro), se prueba el siguiente
         r = None
         for exigir in (2, 1, 0):      # primero clips cuya descripción encaja del todo; si no hay, se relaja
@@ -193,7 +213,7 @@ for n, e in enumerate(cfg["escenas"]):
     else:
         raise SystemExit(f"No consigo un clip válido para «{e['buscar']}»")
     creditos.append(enlace); trozos.append(tr)
-    print(f"  escena {n + 1}: {cortes[n]:.1f}–{cortes[n + 1]:.1f} s · {e['buscar']} → {enlace.rstrip('/').split('/')[-1]}", flush=True)
+    print(f"  escena {n + 1}: {cortes[n + 1] - d_esc:.1f}–{cortes[n + 1]:.1f} s · {e['buscar']} → {enlace.rstrip('/').split('/')[-1]}", flush=True)
 with open(os.path.join(D, "escenas.txt"), "w") as f:
     f.writelines(f"file '{t}'\n" for t in trozos)
 open(os.path.join(D, "creditos_pexels.txt"), "w").write("\n".join(creditos) + "\n")
@@ -212,14 +232,16 @@ if g:
     grupos.append(g)
 ass = ["[Script Info]", "PlayResX: 1080", "PlayResY: 1920", "ScaledBorderAndShadow: yes", "", "[V4+ Styles]",
        "Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding",
-       "Style: P,Archivo Black,86,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,7,3,2,60,60,560,1", "",
+       "Style: P,Archivo Black,86,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,7,3,2,60,60,560,1",
+       "Style: PT,Archivo Black,86,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,7,3,8,60,60,330,1", "",
        "[Events]", "Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text"]
 for gi, gr in enumerate(grupos):
     fin_g = grupos[gi + 1][0][1] if gi + 1 < len(grupos) else gr[-1][2] + 0.4
     for wi, w in enumerate(gr):
         a = w[1]; b = gr[wi + 1][1] if wi + 1 < len(gr) else fin_g
         txt = " ".join(("{\\c&H00D4FF&\\fscx112\\fscy112}" + x[0].upper() + "{\\r}") if j == wi else x[0].upper() for j, x in enumerate(gr))
-        ass.append(f"Dialogue: 0,{ts(a)},{ts(max(b, a + 0.05))},P,,0,0,0,,{txt}")
+        estilo = "PT" if pp_a - 0.05 <= gr[0][1] < pp_b else "P"   # con Pepa en primer plano, los subtítulos suben arriba
+        ass.append(f"Dialogue: 0,{ts(a)},{ts(max(b, a + 0.05))},{estilo},,0,0,0,,{txt}")
 open(os.path.join(D, "subs.ass"), "w", encoding="utf-8").write("\n".join(ass) + "\n")
 
 # 4) Pepa hablando en la esquina: pico abierto cuando hay voz (ventanas de 1/12 s)
@@ -230,7 +252,7 @@ niveles = [sum(abs(x) for x in mu[i:i + paso]) / max(1, len(mu[i:i + paso])) for
 umbral = sorted(niveles)[len(niveles) // 2] * 0.9
 from PIL import Image
 for nom in ("abierto", "cerrado"):
-    im = Image.open(os.path.join(REC, f"busto_{nom}.png")).convert("RGBA"); im.thumbnail((300, 330)); im.save(os.path.join(D, f"b_{nom}.png"))
+    Image.open(os.path.join(REC, f"busto_{nom}.png")).convert("RGBA").save(os.path.join(D, f"b_{nom}.png"))   # tamaño completo: se escala en el montaje
 # con voz, el pico alterna abierto/cerrado cada 1/12 s; en silencio, cerrado
 estados = ["abierto" if v > umbral and i % 2 == 0 else "cerrado" for i, v in enumerate(niveles)]
 lista, t0 = [], 0
@@ -243,12 +265,23 @@ with open(os.path.join(D, "boca.txt"), "w") as f:
     f.write(f"file 'b_cerrado.png'\n")
 salida = os.path.join(RAIZ, "redes", "pepa_pita", "videos", slug, "salida"); os.makedirs(salida, exist_ok=True)
 final = os.path.join(salida, f"PEPA_{slug}.mp4")
+# en la esquina, Pepa cambia de lado en cada escena (izquierda, derecha…); durante el primer plano no sale
+def lado(n):
+    return "30" if n % 2 == 0 else "W-w-30"
+
+
+x_esq = lado(len(cfg["escenas"]) - 1)
+for n in range(len(cfg["escenas"]) - 2, -1, -1):
+    x_esq = f"if(lt(t,{cortes[n + 1]:.2f}),{lado(n)},{x_esq})"
+pp_t = f"between(t,{pp_a:.2f},{pp_b:.2f})"
 musica = os.path.join(RAIZ, "musica", "pepa_pita", "Travelling Light - Blue Deer Studio.mp3")
 fuentes = os.path.join(RAIZ, "herramientas", "fuentes")
 subprocess.run([FFMPEG, "-v", "error", "-y", "-f", "concat", "-safe", "0", "-i", os.path.join(D, "escenas.txt"),
                 "-f", "concat", "-safe", "0", "-i", os.path.join(D, "boca.txt"), "-i", VOZ, "-stream_loop", "-1", "-i", musica,
                 "-filter_complex",
-                "[1:v]format=rgba,setpts=PTS-STARTPTS[p];[0:v][p]overlay=x=30:y='120+6*sin(2*PI*t*1.3)':eof_action=pass,"
+                f"[1:v]format=rgba,setpts=PTS-STARTPTS,split[pa][pb];[pa]scale=300:-1[p];[pb]scale=1000:-1[pg];"
+                f"[0:v][p]overlay=x='{x_esq}':y='120+6*sin(2*PI*t*1.3)':eof_action=pass:enable='not({pp_t})'[v1];"
+                f"[v1][pg]overlay=x=(W-w)/2:y='830+8*sin(2*PI*t*1.1)':eof_action=pass:enable='{pp_t}',"
                 f"ass={os.path.join(D, 'subs.ass')}:fontsdir={fuentes},format=yuv420p[v];"
                 "[3:a]volume=0.10[m];[2:a][m]amix=inputs=2:duration=first:dropout_transition=0,apad=pad_dur=0.6[a]",
                 "-map", "[v]", "-map", "[a]", "-c:v", "libx264", "-crf", "19", "-preset", "medium", "-c:a", "aac", "-b:a", "192k",
