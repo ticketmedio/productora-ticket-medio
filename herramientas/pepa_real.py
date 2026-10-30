@@ -281,7 +281,7 @@ fuentes = os.path.join(RAIZ, "herramientas", "fuentes")
 subprocess.run([FFMPEG, "-v", "error", "-y", "-f", "concat", "-safe", "0", "-i", os.path.join(D, "escenas.txt"),
                 "-f", "concat", "-safe", "0", "-i", os.path.join(D, "boca.txt"), "-i", VOZ, "-stream_loop", "-1", "-i", musica,
                 "-filter_complex",
-                f"[1:v]format=rgba,setpts=PTS-STARTPTS,split[pa][pb];[pa]scale=300:-1[p];[pb]scale=1000:-1[pg];"
+                f"[1:v]format=rgba,split[pa][pb];[pa]scale=300:-1[p];[pb]scale=1000:-1[pg];"
                 f"[0:v][p]overlay=x='{x_esq}':y='120+6*sin(2*PI*t*1.3)':eof_action=pass:enable='not({pp_t})'[v1];"
                 f"[v1][pg]overlay=x=(W-w)/2:y='830+8*sin(2*PI*t*1.1)':eof_action=pass:enable='{pp_t}',"
                 f"ass={os.path.join(D, 'subs.ass')}:fontsdir={fuentes},format=yuv420p[v];"
