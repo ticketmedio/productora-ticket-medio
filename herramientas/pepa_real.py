@@ -255,16 +255,16 @@ umbral = sorted(niveles)[len(niveles) // 2] * 0.9
 from PIL import Image
 for nom in ("abierto", "cerrado"):
     Image.open(os.path.join(REC, f"busto_{nom}.png")).convert("RGBA").save(os.path.join(D, f"b_{nom}.png"))   # tamaño completo: se escala en el montaje
-# con voz, el pico alterna abierto/cerrado cada 1/12 s; en silencio, cerrado
-estados = ["abierto" if v > umbral and i % 2 == 0 else "cerrado" for i, v in enumerate(niveles)]
-lista, t0 = [], 0
-for i in range(1, len(estados) + 1):
-    if i == len(estados) or estados[i] != estados[t0]:
-        lista.append((estados[t0], (i - t0) / 12 / vel)); t0 = i
-with open(os.path.join(D, "boca.txt"), "w") as f:
-    for est, s in lista:
-        f.write(f"file 'b_{est}.png'\nduration {s:.3f}\n")
-    f.write(f"file 'b_cerrado.png'\n")
+# con voz, el pico alterna abierto/cerrado cada 1/12 s; en silencio, cerrado. Las dos imágenes entran fijas (-loop 1) y se elige
+# cuál se ve con una expresión de tiempo: con una lista concat de PNG, ffmpeg perdía imágenes en los silencios largos y Pepa desaparecía
+tramos, t0 = [], None
+for i, v in enumerate(niveles + [0]):
+    if v > umbral and t0 is None:
+        t0 = i
+    elif v <= umbral and t0 is not None:
+        tramos.append((t0 / 12 / vel, i / 12 / vel)); t0 = None
+habla = "+".join(f"between(t,{x:.3f},{y:.3f})" for x, y in tramos) or "0"
+abierto = f"gt({habla},0)*eq(mod(floor(t*{12 * vel:.4f}),2),0)"
 salida = os.path.join(RAIZ, "redes", "pepa_pita", "videos", slug, "salida"); os.makedirs(salida, exist_ok=True)
 final = os.path.join(salida, f"PEPA_{slug}.mp4")
 # en la esquina, Pepa cambia de lado en cada escena (izquierda, derecha…); durante el primer plano no sale
@@ -279,13 +279,17 @@ pp_t = f"between(t,{pp_a:.2f},{pp_b:.2f})"
 musica = os.path.join(RAIZ, "musica", "pepa_pita", "Travelling Light - Blue Deer Studio.mp3")
 fuentes = os.path.join(RAIZ, "herramientas", "fuentes")
 subprocess.run([FFMPEG, "-v", "error", "-y", "-f", "concat", "-safe", "0", "-i", os.path.join(D, "escenas.txt"),
-                "-f", "concat", "-safe", "0", "-i", os.path.join(D, "boca.txt"), "-i", VOZ, "-stream_loop", "-1", "-i", musica,
+                "-loop", "1", "-framerate", "30", "-i", os.path.join(D, "b_cerrado.png"),
+                "-loop", "1", "-framerate", "30", "-i", os.path.join(D, "b_abierto.png"), "-i", VOZ, "-stream_loop", "-1", "-i", musica,
                 "-filter_complex",
-                f"[1:v]format=rgba,split[pa][pb];[pa]scale=300:-1[p];[pb]scale=1000:-1[pg];"
-                f"[0:v][p]overlay=x='{x_esq}':y='120+6*sin(2*PI*t*1.3)':eof_action=pass:enable='not({pp_t})'[v1];"
-                f"[v1][pg]overlay=x=(W-w)/2:y='830+8*sin(2*PI*t*1.1)':eof_action=pass:enable='{pp_t}',"
+                f"[1:v]format=rgba,split[ca][cb];[ca]scale=300:-1[pc];[cb]scale=1000:-1[gc];"
+                f"[2:v]format=rgba,split[aa][ab];[aa]scale=300:-1[pa];[ab]scale=1000:-1[ga];"
+                f"[0:v][pc]overlay=x='{x_esq}':y='120+6*sin(2*PI*t*1.3)':shortest=1:enable='not({pp_t})*not({abierto})'[v1];"
+                f"[v1][pa]overlay=x='{x_esq}':y='120+6*sin(2*PI*t*1.3)':shortest=1:enable='not({pp_t})*{abierto}'[v2];"
+                f"[v2][gc]overlay=x=(W-w)/2:y='830+8*sin(2*PI*t*1.1)':shortest=1:enable='{pp_t}*not({abierto})'[v3];"
+                f"[v3][ga]overlay=x=(W-w)/2:y='830+8*sin(2*PI*t*1.1)':shortest=1:enable='{pp_t}*{abierto}',"
                 f"ass={os.path.join(D, 'subs.ass')}:fontsdir={fuentes},format=yuv420p[v];"
-                "[3:a]volume=0.10[m];[2:a][m]amix=inputs=2:duration=first:dropout_transition=0,apad=pad_dur=0.6[a]",
+                "[4:a]volume=0.10[m];[3:a][m]amix=inputs=2:duration=first:dropout_transition=0,apad=pad_dur=0.6[a]",
                 "-map", "[v]", "-map", "[a]", "-c:v", "libx264", "-crf", "19", "-preset", "medium", "-c:a", "aac", "-b:a", "192k",
                 "-movflags", "+faststart", "-t", f"{TOTAL:.2f}", final], check=True)
 print("OK", final, f"{dur(final):.1f} s", flush=True)
