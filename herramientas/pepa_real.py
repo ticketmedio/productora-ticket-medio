@@ -10,10 +10,10 @@ from comun import FFMPEG, FFPROBE
 RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 MPT = os.path.expanduser("~/herramientas_externas/MoneyPrinterTurbo")
 REC = os.path.join(RAIZ, "redes", "pepa_pita", "recortes")
-DIRECCION = ("Perform this as Pepa, a hilarious, warm and very expressive Spanish hen who gives kitchen tips on Instagram. "
-             "Native Spanish accent from Spain (Castilian, peninsular). Lots of emotion and variety: start with surprise and alarm, "
-             "explain with a cheeky, friendly complicity, raise the energy on the warnings, and end laughing on the final «cloc, cloc». "
-             "Fast, punchy Reel rhythm. Read only the Spanish text after the colon: ")
+# Formato de la guía de Google (perfil + notas + TRANSCRIPT): con «lee solo lo que va tras los dos puntos», 3.8 leía las notas en voz alta
+DIRECCION = ("# AUDIO PROFILE: Pepa\n### DIRECTOR'S NOTES\n"
+             'Perform this as Pepa, a hilarious, warm and very expressive Spanish hen who gives kitchen tips on Instagram. Native Spanish accent from Spain (Castilian, peninsular). Lots of emotion and variety: start with surprise and alarm, explain with a cheeky, friendly complicity, raise the energy on the warnings, and end laughing on the final «cloc, cloc». Fast, punchy Reel rhythm.'
+             "\nDo not read these notes aloud.\n#### TRANSCRIPT\n")
 
 slug = sys.argv[1]
 cfg = json.load(open(os.path.join(RAIZ, "redes", "pepa_pita", "real", "reels.json"), encoding="utf-8"))[slug]

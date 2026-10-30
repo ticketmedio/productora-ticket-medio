@@ -19,10 +19,10 @@ CACHE = os.path.join(RAIZ, "privado", "pexels_cache"); os.makedirs(CACHE, exist_
 FUENTES = os.path.join(RAIZ, "herramientas", "fuentes")
 MUSICA = os.path.join(RAIZ, "musica", "ticket_medio", "Cutscene Crush - Blue Deer Studio.mp3")
 VOZ_NOMBRE = "Fenrir"
-DIRECCION = ("Narrate this like a gripping Spanish true-story documentary on YouTube: a male narrator from Spain (Castilian, peninsular accent), "
-             "warm but intense, full of emotion and suspense. Hook hard at the start, build tension, use dramatic pauses before key numbers, "
-             "sound genuinely surprised or indignant at the revelations, and keep a confident, punchy rhythm. "
-             "Read only the Spanish text after the colon: ")
+# Formato de la guía de Google (perfil + notas + TRANSCRIPT): con «lee solo lo que va tras los dos puntos», 3.8 leía las notas en voz alta
+DIRECCION = ("# AUDIO PROFILE: Narrator\n### DIRECTOR'S NOTES\n"
+             'Narrate this like a gripping Spanish true-story documentary on YouTube: a male narrator from Spain (Castilian, peninsular accent), warm but intense, full of emotion and suspense. Hook hard at the start, build tension, use dramatic pauses before key numbers, sound genuinely surprised or indignant at the revelations, and keep a confident, punchy rhythm.'
+             "\nDo not read these notes aloud.\n#### TRANSCRIPT\n")
 guion_txt = open(os.path.join(V, "05_VOICEOVER_V2.txt" if os.path.exists(os.path.join(V, "05_VOICEOVER_V2.txt")) else "05_VOICEOVER.txt"),
                  encoding="utf-8").read().strip()
 guion = " ".join(guion_txt.split())
