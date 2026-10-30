@@ -52,15 +52,17 @@ def voz():
             print("voz: reintento", e.code, flush=True); time.sleep(10 * (intento + 1)); continue
         except Exception as e:
             print("voz: reintento", type(e).__name__, flush=True); time.sleep(10 * (intento + 1)); continue
-        w = wave.open(os.path.join(D, "voz.wav"), "wb"); w.setnchannels(1); w.setsampwidth(2); w.setframerate(24000); w.writeframes(pcm); w.close()
+        tmp = os.path.join(D, "voz_prueba.wav")   # solo pasa a voz.wav si supera la comprobación (si no, se reutilizaría una voz mala)
+        w = wave.open(tmp, "wb"); w.setnchannels(1); w.setsampwidth(2); w.setframerate(24000); w.writeframes(pcm); w.close()
         # comprobar que no ha leído las instrucciones: las primeras palabras deben ser las del guion
         t = subprocess.run([os.path.join(MPT, ".venv", "bin", "python"), "-c",
                             "from faster_whisper import WhisperModel;m=WhisperModel('base',device='cpu',compute_type='int8');"
-                            f"s,_=m.transcribe({os.path.join(D, 'voz.wav')!r},language='es');print(' '.join(x.text for x in s))"],
+                            f"s,_=m.transcribe({tmp!r},language='es');print(' '.join(x.text for x in s))"],
                            capture_output=True, text=True).stdout
         ini, oido = norm(guion)[:6], norm(t)[:12]
         if sum(p in oido for p in ini) >= 3:
-            return
+            os.replace(tmp, os.path.join(D, "voz.wav")); return
+        os.remove(tmp)
         print("voz: ha leído algo que no es el guion, repito →", t[:80], flush=True)
     raise SystemExit("No consigo una voz limpia")
 
