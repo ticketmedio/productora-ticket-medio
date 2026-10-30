@@ -147,7 +147,7 @@ def escenas(palabras):
               "charts on laptop, busy airport...). Never use brand names or people's names in queries. "
               "Answer ONLY JSON: [{\"n\":1,\"q\":[\"...\",\"...\",\"...\"]}, ...]\n\n" +
               "\n".join(f"{k + 1}. {f['texto']}" for k, f in enumerate(frases)))
-    for modelo in ("gemini-2.5-flash", "gemini-2.5-flash-lite"):
+    for modelo in ("gemini-3-flash-preview", "gemini-flash-latest", "gemini-2.5-flash"):   # los 2.5 ya no se dan a cuentas nuevas
         try:
             d = api_gemini(modelo, {"contents": [{"parts": [{"text": prompt}]}], "generationConfig": {"responseMimeType": "application/json"}}, 300)
             qs = {x["n"]: x["q"] for x in json.loads(d["candidates"][0]["content"]["parts"][0]["text"])}
