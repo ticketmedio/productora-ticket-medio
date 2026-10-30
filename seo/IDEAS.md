@@ -2,6 +2,20 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 30/10/2026 (tarde)
+
+**Ejemplos que funcionan (datos públicos, 30/10/2026)**
+- Bruno Peluch (≈6,51 mil suscriptores): TOUS, 223 mil en 12 d; Hawkers, 18 mil; Fagor, 6,2 mil.
+- Lluís Lairón: misma cesta en 4 súper, 68.264. Elias Sweet: 15 euros Mercadona vs Lidl, 46.183.
+- Black Friday «falso descuento»: recientes con 339 y 360 visualizaciones (hueco).
+
+**Ideas**
+1. **Vídeo largo — Black Friday: el sistema del falso descuento**, con la multa de Consumo (350.000 € a 7 empresas, 2023).
+2. **Short — misma cesta, dos súper**, enlazado al largo.
+3. **Carrusel de Pepa — castañas / Todos los Santos** (falta fuente AESAN).
+
+**Mejora aplicable:** marca + sospecha + cifra en las primeras palabras del título. (`yt_video.py` no ejecutado en este turno.)
+
 ## 30/10/2026 (mañana)
 
 **Ejemplos que funcionan (datos públicos, 30/10/2026)**

@@ -13,3 +13,6 @@ Solo datos públicos desde la nube; el orden es provisional hasta tener estadís
 
 ## Revisión 16/10/2026 (viernes, tarde)
 Sin estadísticas privadas de Pepa el orden no cambia: 1) Shorts/Reels de economía de Ticket Medio (hueco público en Mercadona: 17–175 visualizaciones en vídeos del tema); 2) subnicho de cocina de temporada; 3) otro personaje. Lo nuestro: canal en 4 suscriptores, largo nuevo en 0 visualizaciones; el Short sigue siendo lo mejor.
+
+## Revisión 30/10/2026 (viernes, tarde)
+Sin estadísticas privadas de Pepa el orden no cambia. Canal de Ticket Medio: 7 suscriptores, largo nuevo en 0 visualizaciones. Los ejemplos públicos de economía con «sistema» y comparativas de cesta siguen siendo la opción 1.
