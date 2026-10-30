@@ -1,0 +1,128 @@
+[Script Info]
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: P,Archivo Black,86,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,7,3,2,60,60,560,1
+Style: PT,Archivo Black,86,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,7,3,8,60,60,330,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.46,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}¿CADA{\r} CUÁNTO CAMBIAS
+Dialogue: 0,0:00:00.46,0:00:01.00,P,,0,0,0,,¿CADA {\c&H00D4FF&\fscx112\fscy112}CUÁNTO{\r} CAMBIAS
+Dialogue: 0,0:00:01.00,0:00:01.44,P,,0,0,0,,¿CADA CUÁNTO {\c&H00D4FF&\fscx112\fscy112}CAMBIAS{\r}
+Dialogue: 0,0:00:01.44,0:00:01.64,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}EL{\r} PAÑO DE
+Dialogue: 0,0:00:01.64,0:00:01.94,P,,0,0,0,,EL {\c&H00D4FF&\fscx112\fscy112}PAÑO{\r} DE
+Dialogue: 0,0:00:01.94,0:00:02.08,P,,0,0,0,,EL PAÑO {\c&H00D4FF&\fscx112\fscy112}DE{\r}
+Dialogue: 0,0:00:02.08,0:00:02.86,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}COCINA?{\r}
+Dialogue: 0,0:00:02.86,0:00:03.16,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}EL{\r} MINISTERIO DE
+Dialogue: 0,0:00:03.16,0:00:03.70,P,,0,0,0,,EL {\c&H00D4FF&\fscx112\fscy112}MINISTERIO{\r} DE
+Dialogue: 0,0:00:03.70,0:00:03.88,P,,0,0,0,,EL MINISTERIO {\c&H00D4FF&\fscx112\fscy112}DE{\r}
+Dialogue: 0,0:00:03.88,0:00:04.24,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}CONSUMO{\r} ACONSEJA UNA
+Dialogue: 0,0:00:04.24,0:00:04.84,P,,0,0,0,,CONSUMO {\c&H00D4FF&\fscx112\fscy112}ACONSEJA{\r} UNA
+Dialogue: 0,0:00:04.84,0:00:05.28,P,,0,0,0,,CONSUMO ACONSEJA {\c&H00D4FF&\fscx112\fscy112}UNA{\r}
+Dialogue: 0,0:00:05.28,0:00:05.58,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}VEZ{\r} AL DÍA,
+Dialogue: 0,0:00:05.58,0:00:05.76,P,,0,0,0,,VEZ {\c&H00D4FF&\fscx112\fscy112}AL{\r} DÍA,
+Dialogue: 0,0:00:05.76,0:00:06.02,P,,0,0,0,,VEZ AL {\c&H00D4FF&\fscx112\fscy112}DÍA,{\r}
+Dialogue: 0,0:00:06.02,0:00:06.42,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}Y{\r} SIEMPRE QUE
+Dialogue: 0,0:00:06.42,0:00:06.82,P,,0,0,0,,Y {\c&H00D4FF&\fscx112\fscy112}SIEMPRE{\r} QUE
+Dialogue: 0,0:00:06.82,0:00:07.04,P,,0,0,0,,Y SIEMPRE {\c&H00D4FF&\fscx112\fscy112}QUE{\r}
+Dialogue: 0,0:00:07.04,0:00:07.22,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}HAGA{\r} FALTA.
+Dialogue: 0,0:00:07.22,0:00:08.04,P,,0,0,0,,HAGA {\c&H00D4FF&\fscx112\fscy112}FALTA.{\r}
+Dialogue: 0,0:00:08.04,0:00:08.22,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}EL{\r} PAPEL DE
+Dialogue: 0,0:00:08.22,0:00:08.44,P,,0,0,0,,EL {\c&H00D4FF&\fscx112\fscy112}PAPEL{\r} DE
+Dialogue: 0,0:00:08.44,0:00:08.60,P,,0,0,0,,EL PAPEL {\c&H00D4FF&\fscx112\fscy112}DE{\r}
+Dialogue: 0,0:00:08.60,0:00:08.94,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}COCINA{\r} DE UN
+Dialogue: 0,0:00:08.94,0:00:09.10,P,,0,0,0,,COCINA {\c&H00D4FF&\fscx112\fscy112}DE{\r} UN
+Dialogue: 0,0:00:09.10,0:00:09.26,P,,0,0,0,,COCINA DE {\c&H00D4FF&\fscx112\fscy112}UN{\r}
+Dialogue: 0,0:00:09.26,0:00:09.48,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}SOLO{\r} USO TAMBIÉN
+Dialogue: 0,0:00:09.48,0:00:09.78,P,,0,0,0,,SOLO {\c&H00D4FF&\fscx112\fscy112}USO{\r} TAMBIÉN
+Dialogue: 0,0:00:09.78,0:00:10.38,P,,0,0,0,,SOLO USO {\c&H00D4FF&\fscx112\fscy112}TAMBIÉN{\r}
+Dialogue: 0,0:00:10.38,0:00:10.64,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}ES{\r} UNA BUENA
+Dialogue: 0,0:00:10.64,0:00:10.80,P,,0,0,0,,ES {\c&H00D4FF&\fscx112\fscy112}UNA{\r} BUENA
+Dialogue: 0,0:00:10.80,0:00:10.98,P,,0,0,0,,ES UNA {\c&H00D4FF&\fscx112\fscy112}BUENA{\r}
+Dialogue: 0,0:00:10.98,0:00:12.26,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}ALTERNATIVA.{\r}
+Dialogue: 0,0:00:12.26,0:00:12.56,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}LAS{\r} MANOS,
+Dialogue: 0,0:00:12.56,0:00:12.90,P,,0,0,0,,LAS {\c&H00D4FF&\fscx112\fscy112}MANOS,{\r}
+Dialogue: 0,0:00:12.90,0:00:13.36,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}CON{\r} JABÓN Y
+Dialogue: 0,0:00:13.36,0:00:13.88,P,,0,0,0,,CON {\c&H00D4FF&\fscx112\fscy112}JABÓN{\r} Y
+Dialogue: 0,0:00:13.88,0:00:14.20,P,,0,0,0,,CON JABÓN {\c&H00D4FF&\fscx112\fscy112}Y{\r}
+Dialogue: 0,0:00:14.20,0:00:14.48,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}AGUA,{\r}
+Dialogue: 0,0:00:14.48,0:00:14.94,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}Y{\r} SÉCALAS CON
+Dialogue: 0,0:00:14.94,0:00:15.20,P,,0,0,0,,Y {\c&H00D4FF&\fscx112\fscy112}SÉCALAS{\r} CON
+Dialogue: 0,0:00:15.20,0:00:15.46,P,,0,0,0,,Y SÉCALAS {\c&H00D4FF&\fscx112\fscy112}CON{\r}
+Dialogue: 0,0:00:15.46,0:00:15.98,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}PAÑOS{\r} DE UN
+Dialogue: 0,0:00:15.98,0:00:16.06,P,,0,0,0,,PAÑOS {\c&H00D4FF&\fscx112\fscy112}DE{\r} UN
+Dialogue: 0,0:00:16.06,0:00:16.22,P,,0,0,0,,PAÑOS DE {\c&H00D4FF&\fscx112\fscy112}UN{\r}
+Dialogue: 0,0:00:16.22,0:00:16.42,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}SOLO{\r} USO O
+Dialogue: 0,0:00:16.42,0:00:16.70,P,,0,0,0,,SOLO {\c&H00D4FF&\fscx112\fscy112}USO{\r} O
+Dialogue: 0,0:00:16.70,0:00:17.02,P,,0,0,0,,SOLO USO {\c&H00D4FF&\fscx112\fscy112}O{\r}
+Dialogue: 0,0:00:17.02,0:00:17.28,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}TOALLAS{\r} DE PAPEL.
+Dialogue: 0,0:00:17.28,0:00:17.44,P,,0,0,0,,TOALLAS {\c&H00D4FF&\fscx112\fscy112}DE{\r} PAPEL.
+Dialogue: 0,0:00:17.44,0:00:18.34,P,,0,0,0,,TOALLAS DE {\c&H00D4FF&\fscx112\fscy112}PAPEL.{\r}
+Dialogue: 0,0:00:18.34,0:00:18.64,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}UÑAS{\r} CORTAS,
+Dialogue: 0,0:00:18.64,0:00:19.58,P,,0,0,0,,UÑAS {\c&H00D4FF&\fscx112\fscy112}CORTAS,{\r}
+Dialogue: 0,0:00:19.58,0:00:20.08,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}LIMPIAS{\r} Y SIN
+Dialogue: 0,0:00:20.08,0:00:20.34,P,,0,0,0,,LIMPIAS {\c&H00D4FF&\fscx112\fscy112}Y{\r} SIN
+Dialogue: 0,0:00:20.34,0:00:20.52,P,,0,0,0,,LIMPIAS Y {\c&H00D4FF&\fscx112\fscy112}SIN{\r}
+Dialogue: 0,0:00:20.52,0:00:21.28,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}ESMALTE,{\r}
+Dialogue: 0,0:00:21.28,0:00:21.34,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}QUE{\r} PUEDE OCULTAR
+Dialogue: 0,0:00:21.34,0:00:21.58,P,,0,0,0,,QUE {\c&H00D4FF&\fscx112\fscy112}PUEDE{\r} OCULTAR
+Dialogue: 0,0:00:21.58,0:00:21.98,P,,0,0,0,,QUE PUEDE {\c&H00D4FF&\fscx112\fscy112}OCULTAR{\r}
+Dialogue: 0,0:00:21.98,0:00:22.90,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}SUCIEDAD.{\r}
+Dialogue: 0,0:00:22.90,0:00:23.12,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}Y{\r} LAS HERIDAS,
+Dialogue: 0,0:00:23.12,0:00:23.28,P,,0,0,0,,Y {\c&H00D4FF&\fscx112\fscy112}LAS{\r} HERIDAS,
+Dialogue: 0,0:00:23.28,0:00:23.60,P,,0,0,0,,Y LAS {\c&H00D4FF&\fscx112\fscy112}HERIDAS,{\r}
+Dialogue: 0,0:00:23.60,0:00:24.40,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}CUBIERTAS{\r} CON APÓSITOS.
+Dialogue: 0,0:00:24.40,0:00:24.60,P,,0,0,0,,CUBIERTAS {\c&H00D4FF&\fscx112\fscy112}CON{\r} APÓSITOS.
+Dialogue: 0,0:00:24.60,0:00:25.54,P,,0,0,0,,CUBIERTAS CON {\c&H00D4FF&\fscx112\fscy112}APÓSITOS.{\r}
+Dialogue: 0,0:00:25.54,0:00:25.76,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}Y{\r} SI ESTÁS
+Dialogue: 0,0:00:25.76,0:00:25.88,P,,0,0,0,,Y {\c&H00D4FF&\fscx112\fscy112}SI{\r} ESTÁS
+Dialogue: 0,0:00:25.88,0:00:26.14,P,,0,0,0,,Y SI {\c&H00D4FF&\fscx112\fscy112}ESTÁS{\r}
+Dialogue: 0,0:00:26.14,0:00:26.80,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}MALO,{\r}
+Dialogue: 0,0:00:26.80,0:00:27.12,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}MEJOR{\r} NO COCINES
+Dialogue: 0,0:00:27.12,0:00:27.34,P,,0,0,0,,MEJOR {\c&H00D4FF&\fscx112\fscy112}NO{\r} COCINES
+Dialogue: 0,0:00:27.34,0:00:27.74,P,,0,0,0,,MEJOR NO {\c&H00D4FF&\fscx112\fscy112}COCINES{\r}
+Dialogue: 0,0:00:27.74,0:00:27.94,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}PARA{\r} OTROS.
+Dialogue: 0,0:00:27.94,0:00:28.90,P,,0,0,0,,PARA {\c&H00D4FF&\fscx112\fscy112}OTROS.{\r}
+Dialogue: 0,0:00:28.90,0:00:29.20,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}LA{\r} FDA DE
+Dialogue: 0,0:00:29.20,0:00:29.62,P,,0,0,0,,LA {\c&H00D4FF&\fscx112\fscy112}FDA{\r} DE
+Dialogue: 0,0:00:29.62,0:00:29.88,P,,0,0,0,,LA FDA {\c&H00D4FF&\fscx112\fscy112}DE{\r}
+Dialogue: 0,0:00:29.88,0:00:30.14,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}ESTADOS{\r} UNIDOS AÑADE
+Dialogue: 0,0:00:30.14,0:00:30.58,P,,0,0,0,,ESTADOS {\c&H00D4FF&\fscx112\fscy112}UNIDOS{\r} AÑADE
+Dialogue: 0,0:00:30.58,0:00:31.20,P,,0,0,0,,ESTADOS UNIDOS {\c&H00D4FF&\fscx112\fscy112}AÑADE{\r}
+Dialogue: 0,0:00:31.20,0:00:31.34,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}UN{\r} TRUCO:
+Dialogue: 0,0:00:31.34,0:00:32.28,P,,0,0,0,,UN {\c&H00D4FF&\fscx112\fscy112}TRUCO:{\r}
+Dialogue: 0,0:00:32.28,0:00:32.66,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}LÁVATE{\r} LAS MANOS
+Dialogue: 0,0:00:32.66,0:00:32.82,P,,0,0,0,,LÁVATE {\c&H00D4FF&\fscx112\fscy112}LAS{\r} MANOS
+Dialogue: 0,0:00:32.82,0:00:33.10,P,,0,0,0,,LÁVATE LAS {\c&H00D4FF&\fscx112\fscy112}MANOS{\r}
+Dialogue: 0,0:00:33.10,0:00:33.34,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}CON{\r} JABÓN NORMAL,
+Dialogue: 0,0:00:33.34,0:00:33.70,P,,0,0,0,,CON {\c&H00D4FF&\fscx112\fscy112}JABÓN{\r} NORMAL,
+Dialogue: 0,0:00:33.70,0:00:34.42,P,,0,0,0,,CON JABÓN {\c&H00D4FF&\fscx112\fscy112}NORMAL,{\r}
+Dialogue: 0,0:00:34.42,0:00:34.56,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}NO{\r} HACE FALTA
+Dialogue: 0,0:00:34.56,0:00:34.70,P,,0,0,0,,NO {\c&H00D4FF&\fscx112\fscy112}HACE{\r} FALTA
+Dialogue: 0,0:00:34.70,0:00:34.92,P,,0,0,0,,NO HACE {\c&H00D4FF&\fscx112\fscy112}FALTA{\r}
+Dialogue: 0,0:00:34.92,0:00:35.04,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}EL{\r} ANTIBACTERIANO,
+Dialogue: 0,0:00:35.04,0:00:36.02,P,,0,0,0,,EL {\c&H00D4FF&\fscx112\fscy112}ANTIBACTERIANO,{\r}
+Dialogue: 0,0:00:36.02,0:00:36.30,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}DURANTE{\r} AL MENOS
+Dialogue: 0,0:00:36.30,0:00:36.66,P,,0,0,0,,DURANTE {\c&H00D4FF&\fscx112\fscy112}AL{\r} MENOS
+Dialogue: 0,0:00:36.66,0:00:36.90,P,,0,0,0,,DURANTE AL {\c&H00D4FF&\fscx112\fscy112}MENOS{\r}
+Dialogue: 0,0:00:36.90,0:00:37.48,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}VEINTE{\r} SEGUNDOS.
+Dialogue: 0,0:00:37.48,0:00:38.66,P,,0,0,0,,VEINTE {\c&H00D4FF&\fscx112\fscy112}SEGUNDOS.{\r}
+Dialogue: 0,0:00:38.66,0:00:38.88,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}PARA{\r} MEDIRLOS,
+Dialogue: 0,0:00:38.88,0:00:39.42,P,,0,0,0,,PARA {\c&H00D4FF&\fscx112\fscy112}MEDIRLOS,{\r}
+Dialogue: 0,0:00:39.42,0:00:40.10,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}TARAREA{\r} DOS VECES
+Dialogue: 0,0:00:40.10,0:00:40.24,P,,0,0,0,,TARAREA {\c&H00D4FF&\fscx112\fscy112}DOS{\r} VECES
+Dialogue: 0,0:00:40.24,0:00:40.60,P,,0,0,0,,TARAREA DOS {\c&H00D4FF&\fscx112\fscy112}VECES{\r}
+Dialogue: 0,0:00:40.60,0:00:40.80,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}EL{\r} «CUMPLEAÑOS FELIZ».
+Dialogue: 0,0:00:40.80,0:00:41.82,P,,0,0,0,,EL {\c&H00D4FF&\fscx112\fscy112}«CUMPLEAÑOS{\r} FELIZ».
+Dialogue: 0,0:00:41.82,0:00:42.74,P,,0,0,0,,EL «CUMPLEAÑOS {\c&H00D4FF&\fscx112\fscy112}FELIZ».{\r}
+Dialogue: 0,0:00:42.74,0:00:43.56,PT,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}SÍGUEME,{\r}
+Dialogue: 0,0:00:43.56,0:00:43.64,PT,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}QUE{\r} AQUÍ APRENDEMOS
+Dialogue: 0,0:00:43.64,0:00:43.88,PT,,0,0,0,,QUE {\c&H00D4FF&\fscx112\fscy112}AQUÍ{\r} APRENDEMOS
+Dialogue: 0,0:00:43.88,0:00:44.50,PT,,0,0,0,,QUE AQUÍ {\c&H00D4FF&\fscx112\fscy112}APRENDEMOS{\r}
+Dialogue: 0,0:00:44.50,0:00:44.82,PT,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}TODOS.{\r}
+Dialogue: 0,0:00:44.82,0:00:45.16,PT,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}¡CLOC,{\r}
+Dialogue: 0,0:00:45.16,0:00:45.90,PT,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}CLOC!{\r}

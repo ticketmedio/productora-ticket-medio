@@ -6,6 +6,7 @@ ScaledBorderAndShadow: yes
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: P,Archivo Black,86,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,7,3,2,60,60,560,1
+Style: PT,Archivo Black,86,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,7,3,8,60,60,330,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -204,10 +205,10 @@ Dialogue: 0,0:01:00.96,0:01:01.16,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}DE{\r} 
 Dialogue: 0,0:01:01.16,0:01:01.40,P,,0,0,0,,DE {\c&H00D4FF&\fscx112\fscy112}UNO{\r} A
 Dialogue: 0,0:01:01.40,0:01:01.52,P,,0,0,0,,DE UNO {\c&H00D4FF&\fscx112\fscy112}A{\r}
 Dialogue: 0,0:01:01.52,0:01:02.06,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}DOS.{\r}
-Dialogue: 0,0:01:02.06,0:01:02.54,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}SÍGUEME,{\r}
-Dialogue: 0,0:01:02.54,0:01:02.82,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}QUE{\r} AQUÍ APRENDEMOS
-Dialogue: 0,0:01:02.82,0:01:03.04,P,,0,0,0,,QUE {\c&H00D4FF&\fscx112\fscy112}AQUÍ{\r} APRENDEMOS
-Dialogue: 0,0:01:03.04,0:01:03.64,P,,0,0,0,,QUE AQUÍ {\c&H00D4FF&\fscx112\fscy112}APRENDEMOS{\r}
-Dialogue: 0,0:01:03.64,0:01:03.86,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}TODOS.{\r}
-Dialogue: 0,0:01:03.86,0:01:03.91,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}¡CLOC,{\r}
-Dialogue: 0,0:01:03.86,0:01:04.26,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}CLOC!{\r}
+Dialogue: 0,0:01:02.06,0:01:02.54,PT,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}SÍGUEME,{\r}
+Dialogue: 0,0:01:02.54,0:01:02.82,PT,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}QUE{\r} AQUÍ APRENDEMOS
+Dialogue: 0,0:01:02.82,0:01:03.04,PT,,0,0,0,,QUE {\c&H00D4FF&\fscx112\fscy112}AQUÍ{\r} APRENDEMOS
+Dialogue: 0,0:01:03.04,0:01:03.64,PT,,0,0,0,,QUE AQUÍ {\c&H00D4FF&\fscx112\fscy112}APRENDEMOS{\r}
+Dialogue: 0,0:01:03.64,0:01:03.86,PT,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}TODOS.{\r}
+Dialogue: 0,0:01:03.86,0:01:03.91,PT,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}¡CLOC,{\r}
+Dialogue: 0,0:01:03.86,0:01:04.26,PT,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}CLOC!{\r}

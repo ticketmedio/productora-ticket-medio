@@ -1,0 +1,110 @@
+[Script Info]
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: P,Archivo Black,86,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,7,3,2,60,60,560,1
+Style: PT,Archivo Black,86,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,7,3,8,60,60,330,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.34,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}¿TE{\r} GUSTA LA
+Dialogue: 0,0:00:00.34,0:00:00.68,P,,0,0,0,,¿TE {\c&H00D4FF&\fscx112\fscy112}GUSTA{\r} LA
+Dialogue: 0,0:00:00.68,0:00:00.90,P,,0,0,0,,¿TE GUSTA {\c&H00D4FF&\fscx112\fscy112}LA{\r}
+Dialogue: 0,0:00:00.90,0:00:01.18,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}TORTILLA{\r} JUGOSA?
+Dialogue: 0,0:00:01.18,0:00:02.12,P,,0,0,0,,TORTILLA {\c&H00D4FF&\fscx112\fscy112}JUGOSA?{\r}
+Dialogue: 0,0:00:02.12,0:00:02.60,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}¡OJO{\r} CON EL
+Dialogue: 0,0:00:02.60,0:00:02.84,P,,0,0,0,,¡OJO {\c&H00D4FF&\fscx112\fscy112}CON{\r} EL
+Dialogue: 0,0:00:02.84,0:00:02.96,P,,0,0,0,,¡OJO CON {\c&H00D4FF&\fscx112\fscy112}EL{\r}
+Dialogue: 0,0:00:02.96,0:00:03.28,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}HUEVO{\r} A MEDIO
+Dialogue: 0,0:00:03.28,0:00:03.38,P,,0,0,0,,HUEVO {\c&H00D4FF&\fscx112\fscy112}A{\r} MEDIO
+Dialogue: 0,0:00:03.38,0:00:03.64,P,,0,0,0,,HUEVO A {\c&H00D4FF&\fscx112\fscy112}MEDIO{\r}
+Dialogue: 0,0:00:03.64,0:00:04.62,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}COCINAR!{\r}
+Dialogue: 0,0:00:04.62,0:00:04.82,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}EL{\r} MINISTERIO DE
+Dialogue: 0,0:00:04.82,0:00:05.32,P,,0,0,0,,EL {\c&H00D4FF&\fscx112\fscy112}MINISTERIO{\r} DE
+Dialogue: 0,0:00:05.32,0:00:05.42,P,,0,0,0,,EL MINISTERIO {\c&H00D4FF&\fscx112\fscy112}DE{\r}
+Dialogue: 0,0:00:05.42,0:00:05.76,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}CONSUMO{\r} RECOMIENDA COCINAR
+Dialogue: 0,0:00:05.76,0:00:06.36,P,,0,0,0,,CONSUMO {\c&H00D4FF&\fscx112\fscy112}RECOMIENDA{\r} COCINAR
+Dialogue: 0,0:00:06.36,0:00:06.78,P,,0,0,0,,CONSUMO RECOMIENDA {\c&H00D4FF&\fscx112\fscy112}COCINAR{\r}
+Dialogue: 0,0:00:06.78,0:00:07.00,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}LOS{\r} HUEVOS HASTA
+Dialogue: 0,0:00:07.00,0:00:07.34,P,,0,0,0,,LOS {\c&H00D4FF&\fscx112\fscy112}HUEVOS{\r} HASTA
+Dialogue: 0,0:00:07.34,0:00:07.76,P,,0,0,0,,LOS HUEVOS {\c&H00D4FF&\fscx112\fscy112}HASTA{\r}
+Dialogue: 0,0:00:07.76,0:00:07.90,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}QUE{\r} LA YEMA
+Dialogue: 0,0:00:07.90,0:00:08.02,P,,0,0,0,,QUE {\c&H00D4FF&\fscx112\fscy112}LA{\r} YEMA
+Dialogue: 0,0:00:08.02,0:00:08.30,P,,0,0,0,,QUE LA {\c&H00D4FF&\fscx112\fscy112}YEMA{\r}
+Dialogue: 0,0:00:08.30,0:00:08.44,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}Y{\r} LA CLARA
+Dialogue: 0,0:00:08.44,0:00:08.52,P,,0,0,0,,Y {\c&H00D4FF&\fscx112\fscy112}LA{\r} CLARA
+Dialogue: 0,0:00:08.52,0:00:08.78,P,,0,0,0,,Y LA {\c&H00D4FF&\fscx112\fscy112}CLARA{\r}
+Dialogue: 0,0:00:08.78,0:00:09.12,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}ESTÉN{\r} CUAJADAS.
+Dialogue: 0,0:00:09.12,0:00:10.22,P,,0,0,0,,ESTÉN {\c&H00D4FF&\fscx112\fscy112}CUAJADAS.{\r}
+Dialogue: 0,0:00:10.22,0:00:10.44,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}Y{\r} LOS ALIMENTOS
+Dialogue: 0,0:00:10.44,0:00:10.58,P,,0,0,0,,Y {\c&H00D4FF&\fscx112\fscy112}LOS{\r} ALIMENTOS
+Dialogue: 0,0:00:10.58,0:00:10.92,P,,0,0,0,,Y LOS {\c&H00D4FF&\fscx112\fscy112}ALIMENTOS{\r}
+Dialogue: 0,0:00:10.92,0:00:11.18,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}QUE{\r} LLEVEN HUEVO,
+Dialogue: 0,0:00:11.18,0:00:11.40,P,,0,0,0,,QUE {\c&H00D4FF&\fscx112\fscy112}LLEVEN{\r} HUEVO,
+Dialogue: 0,0:00:11.40,0:00:11.74,P,,0,0,0,,QUE LLEVEN {\c&H00D4FF&\fscx112\fscy112}HUEVO,{\r}
+Dialogue: 0,0:00:11.74,0:00:12.50,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}SERVIRLOS{\r} JUSTO DESPUÉS
+Dialogue: 0,0:00:12.50,0:00:12.90,P,,0,0,0,,SERVIRLOS {\c&H00D4FF&\fscx112\fscy112}JUSTO{\r} DESPUÉS
+Dialogue: 0,0:00:12.90,0:00:13.40,P,,0,0,0,,SERVIRLOS JUSTO {\c&H00D4FF&\fscx112\fscy112}DESPUÉS{\r}
+Dialogue: 0,0:00:13.40,0:00:13.56,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}DE{\r} COCINARLOS.
+Dialogue: 0,0:00:13.56,0:00:14.52,P,,0,0,0,,DE {\c&H00D4FF&\fscx112\fscy112}COCINARLOS.{\r}
+Dialogue: 0,0:00:14.52,0:00:14.72,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}Y{\r} CUANDO MANIPULES
+Dialogue: 0,0:00:14.72,0:00:14.88,P,,0,0,0,,Y {\c&H00D4FF&\fscx112\fscy112}CUANDO{\r} MANIPULES
+Dialogue: 0,0:00:14.88,0:00:15.40,P,,0,0,0,,Y CUANDO {\c&H00D4FF&\fscx112\fscy112}MANIPULES{\r}
+Dialogue: 0,0:00:15.40,0:00:15.74,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}HUEVOS{\r} CRUDOS,
+Dialogue: 0,0:00:15.74,0:00:16.10,P,,0,0,0,,HUEVOS {\c&H00D4FF&\fscx112\fscy112}CRUDOS,{\r}
+Dialogue: 0,0:00:16.10,0:00:16.98,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}SEPÁRALOS{\r} DEL RESTO
+Dialogue: 0,0:00:16.98,0:00:17.22,P,,0,0,0,,SEPÁRALOS {\c&H00D4FF&\fscx112\fscy112}DEL{\r} RESTO
+Dialogue: 0,0:00:17.22,0:00:17.50,P,,0,0,0,,SEPÁRALOS DEL {\c&H00D4FF&\fscx112\fscy112}RESTO{\r}
+Dialogue: 0,0:00:17.50,0:00:17.68,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}DE{\r} ALIMENTOS Y
+Dialogue: 0,0:00:17.68,0:00:18.06,P,,0,0,0,,DE {\c&H00D4FF&\fscx112\fscy112}ALIMENTOS{\r} Y
+Dialogue: 0,0:00:18.06,0:00:18.46,P,,0,0,0,,DE ALIMENTOS {\c&H00D4FF&\fscx112\fscy112}Y{\r}
+Dialogue: 0,0:00:18.46,0:00:18.66,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}LAVA{\r} BIEN MANOS,
+Dialogue: 0,0:00:18.66,0:00:18.90,P,,0,0,0,,LAVA {\c&H00D4FF&\fscx112\fscy112}BIEN{\r} MANOS,
+Dialogue: 0,0:00:18.90,0:00:19.60,P,,0,0,0,,LAVA BIEN {\c&H00D4FF&\fscx112\fscy112}MANOS,{\r}
+Dialogue: 0,0:00:19.60,0:00:20.18,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}SUPERFICIES{\r} Y UTENSILIOS
+Dialogue: 0,0:00:20.18,0:00:20.34,P,,0,0,0,,SUPERFICIES {\c&H00D4FF&\fscx112\fscy112}Y{\r} UTENSILIOS
+Dialogue: 0,0:00:20.34,0:00:21.02,P,,0,0,0,,SUPERFICIES Y {\c&H00D4FF&\fscx112\fscy112}UTENSILIOS{\r}
+Dialogue: 0,0:00:21.02,0:00:21.98,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}DESPUÉS.{\r}
+Dialogue: 0,0:00:21.98,0:00:22.18,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}LA{\r} FDA DE
+Dialogue: 0,0:00:22.18,0:00:22.52,P,,0,0,0,,LA {\c&H00D4FF&\fscx112\fscy112}FDA{\r} DE
+Dialogue: 0,0:00:22.52,0:00:22.76,P,,0,0,0,,LA FDA {\c&H00D4FF&\fscx112\fscy112}DE{\r}
+Dialogue: 0,0:00:22.76,0:00:22.98,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}ESTADOS{\r} UNIDOS DICE
+Dialogue: 0,0:00:22.98,0:00:23.40,P,,0,0,0,,ESTADOS {\c&H00D4FF&\fscx112\fscy112}UNIDOS{\r} DICE
+Dialogue: 0,0:00:23.40,0:00:23.78,P,,0,0,0,,ESTADOS UNIDOS {\c&H00D4FF&\fscx112\fscy112}DICE{\r}
+Dialogue: 0,0:00:23.78,0:00:23.96,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}LO{\r} MISMO:
+Dialogue: 0,0:00:23.96,0:00:24.56,P,,0,0,0,,LO {\c&H00D4FF&\fscx112\fscy112}MISMO:{\r}
+Dialogue: 0,0:00:24.56,0:00:24.90,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}COCINAR{\r} LOS HUEVOS
+Dialogue: 0,0:00:24.90,0:00:25.14,P,,0,0,0,,COCINAR {\c&H00D4FF&\fscx112\fscy112}LOS{\r} HUEVOS
+Dialogue: 0,0:00:25.14,0:00:25.46,P,,0,0,0,,COCINAR LOS {\c&H00D4FF&\fscx112\fscy112}HUEVOS{\r}
+Dialogue: 0,0:00:25.46,0:00:25.72,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}HASTA{\r} QUE LA
+Dialogue: 0,0:00:25.72,0:00:25.88,P,,0,0,0,,HASTA {\c&H00D4FF&\fscx112\fscy112}QUE{\r} LA
+Dialogue: 0,0:00:25.88,0:00:26.00,P,,0,0,0,,HASTA QUE {\c&H00D4FF&\fscx112\fscy112}LA{\r}
+Dialogue: 0,0:00:26.00,0:00:26.26,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}YEMA{\r} Y LA
+Dialogue: 0,0:00:26.26,0:00:26.40,P,,0,0,0,,YEMA {\c&H00D4FF&\fscx112\fscy112}Y{\r} LA
+Dialogue: 0,0:00:26.40,0:00:26.50,P,,0,0,0,,YEMA Y {\c&H00D4FF&\fscx112\fscy112}LA{\r}
+Dialogue: 0,0:00:26.50,0:00:26.78,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}CLARA{\r} ESTÉN FIRMES,
+Dialogue: 0,0:00:26.78,0:00:27.16,P,,0,0,0,,CLARA {\c&H00D4FF&\fscx112\fscy112}ESTÉN{\r} FIRMES,
+Dialogue: 0,0:00:27.16,0:00:28.06,P,,0,0,0,,CLARA ESTÉN {\c&H00D4FF&\fscx112\fscy112}FIRMES,{\r}
+Dialogue: 0,0:00:28.06,0:00:28.18,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}Y{\r} LOS PLATOS
+Dialogue: 0,0:00:28.18,0:00:28.32,P,,0,0,0,,Y {\c&H00D4FF&\fscx112\fscy112}LOS{\r} PLATOS
+Dialogue: 0,0:00:28.32,0:00:28.66,P,,0,0,0,,Y LOS {\c&H00D4FF&\fscx112\fscy112}PLATOS{\r}
+Dialogue: 0,0:00:28.66,0:00:28.76,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}CON{\r} HUEVO,
+Dialogue: 0,0:00:28.76,0:00:29.20,P,,0,0,0,,CON {\c&H00D4FF&\fscx112\fscy112}HUEVO,{\r}
+Dialogue: 0,0:00:29.20,0:00:29.36,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}A{\r} SETENTA Y
+Dialogue: 0,0:00:29.36,0:00:29.48,P,,0,0,0,,A {\c&H00D4FF&\fscx112\fscy112}SETENTA{\r} Y
+Dialogue: 0,0:00:29.48,0:00:29.61,P,,0,0,0,,A SETENTA {\c&H00D4FF&\fscx112\fscy112}Y{\r}
+Dialogue: 0,0:00:29.61,0:00:29.86,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}UN{\r} GRADOS,
+Dialogue: 0,0:00:29.86,0:00:30.48,P,,0,0,0,,UN {\c&H00D4FF&\fscx112\fscy112}GRADOS,{\r}
+Dialogue: 0,0:00:30.48,0:00:30.72,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}CIENTO{\r} SESENTA FAHRENHEIT.
+Dialogue: 0,0:00:30.72,0:00:31.20,P,,0,0,0,,CIENTO {\c&H00D4FF&\fscx112\fscy112}SESENTA{\r} FAHRENHEIT.
+Dialogue: 0,0:00:31.20,0:00:32.58,P,,0,0,0,,CIENTO SESENTA {\c&H00D4FF&\fscx112\fscy112}FAHRENHEIT.{\r}
+Dialogue: 0,0:00:32.58,0:00:33.12,PT,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}SÍGUEME,{\r}
+Dialogue: 0,0:00:33.12,0:00:33.36,PT,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}QUE{\r} AQUÍ APRENDEMOS
+Dialogue: 0,0:00:33.36,0:00:33.62,PT,,0,0,0,,QUE {\c&H00D4FF&\fscx112\fscy112}AQUÍ{\r} APRENDEMOS
+Dialogue: 0,0:00:33.62,0:00:34.24,PT,,0,0,0,,QUE AQUÍ {\c&H00D4FF&\fscx112\fscy112}APRENDEMOS{\r}
+Dialogue: 0,0:00:34.24,0:00:34.60,PT,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}TODOS.{\r}
+Dialogue: 0,0:00:34.60,0:00:34.99,PT,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}¡CLOC,{\r}
+Dialogue: 0,0:00:34.99,0:00:35.77,PT,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}CLOC!{\r}

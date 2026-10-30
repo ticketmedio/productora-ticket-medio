@@ -1,0 +1,722 @@
+[
+ {
+  "i0": 0,
+  "i1": 13,
+  "texto": "Diez euros. Un vuelo de Madrid a Roma… por lo que cuesta una pizza.",
+  "q": [
+   "ten euro bill",
+   "airplane taking off",
+   "pizza on table"
+  ]
+ },
+ {
+  "i0": 14,
+  "i1": 25,
+  "texto": "Parece imposible, ¿verdad? Pues agárrate, porque la realidad es todavía más sorprendente.",
+  "q": [
+   "man looking surprised",
+   "scratching head thinking",
+   "fast clouds timelapse"
+  ]
+ },
+ {
+  "i0": 26,
+  "i1": 42,
+  "texto": "El billete medio de Ryanair no cuesta diez euros. Cuesta setenta y cuatro con cincuenta y siete.",
+  "q": [
+   "counting paper money",
+   "stack of euros",
+   "airplane cabin interior"
+  ]
+ },
+ {
+  "i0": 43,
+  "i1": 58,
+  "texto": "Y de cada billete, la aerolínea se queda diez euros con ochenta y cuatro de beneficio.",
+  "q": [
+   "coins in palm",
+   "finance graph laptop",
+   "calculator on desk"
+  ]
+ },
+ {
+  "i0": 59,
+  "i1": 69,
+  "texto": "Limpios. ¿Cómo se gana tanto dinero… vendiendo vuelos que parecen regalados?",
+  "q": [
+   "stack of bills",
+   "airport departure board",
+   "boarding pass hand"
+  ]
+ },
+ {
+  "i0": 70,
+  "i1": 94,
+  "texto": "Hoy vamos a seguir el viaje de un solo billete de Ryanair, euro a euro, con las cuentas que acaba de publicar la propia aerolínea.",
+  "q": [
+   "magnifying glass paper",
+   "spreadsheets on screen",
+   "euro coins falling"
+  ]
+ },
+ {
+  "i0": 95,
+  "i1": 108,
+  "texto": "Y te aviso: el destino final de tu dinero no es el que imaginas.",
+  "q": [
+   "finger pointing map",
+   "safe box opening",
+   "bank building exterior"
+  ]
+ },
+ {
+  "i0": 109,
+  "i1": 121,
+  "texto": "Primero, las presentaciones. Ryanair cerró su último ejercicio en marzo de este año.",
+  "q": [
+   "calendar page flip",
+   "office meeting room",
+   "shaking hands business"
+  ]
+ },
+ {
+  "i0": 122,
+  "i1": 129,
+  "texto": "Transportó doscientos ocho millones y cuatrocientos mil pasajeros.",
+  "q": [
+   "crowded airport terminal",
+   "people walking street",
+   "busy subway station"
+  ]
+ },
+ {
+  "i0": 130,
+  "i1": 142,
+  "texto": "Tiene seiscientos cuarenta y siete aviones, y casi todos son del mismo modelo:",
+  "q": [
+   "airplane hangar wide",
+   "planes parked airport",
+   "commercial jet flying"
+  ]
+ },
+ {
+  "i0": 143,
+  "i1": 157,
+  "texto": "seiscientos veintiuno son Boeing setecientos treinta y siete. Y trabajan en ella treinta mil personas.",
+  "q": [
+   "airplane engine detail",
+   "flight crew walking",
+   "mechanic repairing plane"
+  ]
+ },
+ {
+  "i0": 158,
+  "i1": 170,
+  "texto": "Sus aviones iban llenos al noventa y cuatro por ciento. Dicho al revés:",
+  "q": [
+   "full airplane cabin",
+   "passengers in seats",
+   "crowded bus interior"
+  ]
+ },
+ {
+  "i0": 171,
+  "i1": 186,
+  "texto": "de cada cien asientos, solo seis volaron vacíos. Para que te hagas una idea del tamaño:",
+  "q": [
+   "empty airplane seat",
+   "waiting room chairs",
+   "counting people queue"
+  ]
+ },
+ {
+  "i0": 187,
+  "i1": 207,
+  "texto": "Ryanair ingresa unos quince mil quinientos millones al año; Mercadona, casi cuarenta y dos mil; Lidl en España, siete mil seiscientos.",
+  "q": [
+   "supermarket aisle wide",
+   "grocery store exterior",
+   "large office building"
+  ]
+ },
+ {
+  "i0": 208,
+  "i1": 224,
+  "texto": "Eso sí, son ejercicios y sectores distintos. Con eso, ingresó quince mil quinientos cuarenta millones de euros.",
+  "q": [
+   "digital numbers scrolling",
+   "cargo ship port",
+   "factory production line"
+  ]
+ },
+ {
+  "i0": 225,
+  "i1": 245,
+  "texto": "Un once por ciento más que el año anterior. Y ganó dos mil doscientos sesenta millones, un cuarenta por ciento más.",
+  "q": [
+   "stock market arrow",
+   "growing plant soil",
+   "stacking gold coins"
+  ]
+ },
+ {
+  "i0": 246,
+  "i1": 281,
+  "texto": "Hagamos primero unas cuentas rápidas con sus cifras. Cada avión de la flota, de media, transportó unos trescientos veintidós mil pasajeros, ingresó unos veinticuatro millones de euros y dejó unos tres millones y medio de beneficio.",
+  "q": [
+   "airplane landing sunset",
+   "money transition animation",
+   "bank vault door"
+  ]
+ },
+ {
+  "i0": 282,
+  "i1": 302,
+  "texto": "Y cada empleado, de media, supuso unos quinientos dieciocho mil euros de ingresos y unos setenta y cinco mil de beneficio.",
+  "q": [
+   "office worker typing",
+   "group of professionals",
+   "flight attendant smiling"
+  ]
+ },
+ {
+  "i0": 303,
+  "i1": 319,
+  "texto": "Son medias de todo el grupo. Y mira lo que pasó con los costes y los ingresos.",
+  "q": [
+   "person analyzing charts",
+   "financial report pages",
+   "bar graph animation"
+  ]
+ },
+ {
+  "i0": 320,
+  "i1": 330,
+  "texto": "Los costes subieron un seis por ciento. Los ingresos, un once.",
+  "q": [
+   "upward arrow graph",
+   "calculator close up",
+   "paying with card"
+  ]
+ },
+ {
+  "i0": 331,
+  "i1": 348,
+  "texto": "Esa diferencia es lo que hace que el beneficio de explotación subiera un cincuenta y dos por ciento.",
+  "q": [
+   "celebration office party",
+   "fountain of coins",
+   "growing bar chart"
+  ]
+ },
+ {
+  "i0": 349,
+  "i1": 366,
+  "texto": "Ahora, pongamos todo eso en un solo billete. Dividimos cada cifra entre los doscientos ocho millones de pasajeros.",
+  "q": [
+   "cutting paper bill",
+   "hand holding ticket",
+   "close up calculator"
+  ]
+ },
+ {
+  "i0": 367,
+  "i1": 380,
+  "texto": "Es un cálculo nuestro, una media, no el precio de ningún vuelo en concreto.",
+  "q": [
+   "writing on whiteboard",
+   "pen on notebook",
+   "person thinking desk"
+  ]
+ },
+ {
+  "i0": 381,
+  "i1": 394,
+  "texto": "Cada pasajero le deja a Ryanair setenta y cuatro euros con cincuenta y siete.",
+  "q": [
+   "wallet with euros",
+   "passenger walking terminal",
+   "receiving change money"
+  ]
+ },
+ {
+  "i0": 395,
+  "i1": 406,
+  "texto": "¿De dónde salen? De la tarifa, cincuenta euros con sesenta y siete:",
+  "q": [
+   "buying online laptop",
+   "credit card payment",
+   "boarding gate scan"
+  ]
+ },
+ {
+  "i0": 407,
+  "i1": 427,
+  "texto": "el sesenta y ocho por ciento. Es la media de todos los billetes, los de diez euros y los de doscientos.",
+  "q": [
+   "pie chart screen",
+   "cheap price tag",
+   "expensive luxury item"
+  ]
+ },
+ {
+  "i0": 428,
+  "i1": 449,
+  "texto": "Ryanair dice que la tarifa media fue de unos cincuenta y un euros, un diez por ciento más que el año anterior.",
+  "q": [
+   "stack of fifties",
+   "airplane window view",
+   "digital price display"
+  ]
+ },
+ {
+  "i0": 450,
+  "i1": 461,
+  "texto": "Y de los extras, veinticuatro euros: el treinta y dos por ciento.",
+  "q": [
+   "luggage on scale",
+   "ordering food plane",
+   "seat selection screen"
+  ]
+ },
+ {
+  "i0": 462,
+  "i1": 471,
+  "texto": "Es todo lo que el pasajero paga aparte del asiento.",
+  "q": [
+   "carry on bag",
+   "priority boarding sign",
+   "hand holding passport"
+  ]
+ },
+ {
+  "i0": 472,
+  "i1": 486,
+  "texto": "Ryanair no lo desglosa; solo da el total. Y fíjate en cómo crece cada parte:",
+  "q": [
+   "blurred data screen",
+   "locked chest box",
+   "counting large sum"
+  ]
+ },
+ {
+  "i0": 487,
+  "i1": 505,
+  "texto": "en el último año, los ingresos por tarifas subieron un catorce por ciento; los de los extras, un seis.",
+  "q": [
+   "comparing two graphs",
+   "climbing stairs legs",
+   "speedometer needle rising"
+  ]
+ },
+ {
+  "i0": 506,
+  "i1": 515,
+  "texto": "Es decir: la tarifa crece más deprisa que los extras.",
+  "q": [
+   "two runners racing",
+   "fast forward traffic",
+   "growing tree timelapse"
+  ]
+ },
+ {
+  "i0": 516,
+  "i1": 535,
+  "texto": "Fíjate en algo: casi un tercio del dinero viene de los extras, pero los dos tercios vienen de la tarifa.",
+  "q": [
+   "dividing pizza slices",
+   "three coins table",
+   "measuring tape length"
+  ]
+ },
+ {
+  "i0": 536,
+  "i1": 547,
+  "texto": "Así que no, el negocio no es solo cobrar por la maleta.",
+  "q": [
+   "shaking head no",
+   "suitcase rolling floor",
+   "wide office view"
+  ]
+ },
+ {
+  "i0": 548,
+  "i1": 557,
+  "texto": "Y ahora viene lo bueno. La otra mitad del ticket:",
+  "q": [
+   "tearing ticket half",
+   "magnifying glass money",
+   "person smiling camera"
+  ]
+ },
+ {
+  "i0": 558,
+  "i1": 568,
+  "texto": "¿adónde va todo ese dinero? Vamos a seguirlo, parada a parada.",
+  "q": [
+   "flowing river water",
+   "cash moving conveyor",
+   "road trip map"
+  ]
+ },
+ {
+  "i0": 569,
+  "i1": 576,
+  "texto": "Primera parada, y la más grande: el combustible.",
+  "q": [
+   "fueling airplane wing",
+   "gas pump nozzle",
+   "oil refinery sunset"
+  ]
+ },
+ {
+  "i0": 577,
+  "i1": 588,
+  "texto": "Veintiséis euros por pasajero. El treinta y cinco por ciento del billete.",
+  "q": [
+   "jet fuel truck",
+   "pouring liquid glass",
+   "airplane taking off"
+  ]
+ },
+ {
+  "i0": 589,
+  "i1": 611,
+  "texto": "Ryanair dice que ya tiene cubierto el ochenta por ciento del combustible del próximo año, a unos sesenta y siete dólares el barril.",
+  "q": [
+   "oil barrel stack",
+   "contract signature pen",
+   "price chart crude"
+  ]
+ },
+ {
+  "i0": 612,
+  "i1": 624,
+  "texto": "Segunda parada: el personal. Casi nueve euros por pasajero, el doce por ciento.",
+  "q": [
+   "pilots in cockpit",
+   "ground crew airport",
+   "staff meeting room"
+  ]
+ },
+ {
+  "i0": 625,
+  "i1": 634,
+  "texto": "Tercera parada: los aeropuertos. Ocho euros con cuarenta y cinco.",
+  "q": [
+   "airport tower exterior",
+   "runway lights night",
+   "terminal building glass"
+  ]
+ },
+ {
+  "i0": 635,
+  "i1": 647,
+  "texto": "El once por ciento. Mil setecientos sesenta millones al año en tasas aeroportuarias.",
+  "q": [
+   "tax forms paper",
+   "stamping official document",
+   "money bag icon"
+  ]
+ },
+ {
+  "i0": 648,
+  "i1": 658,
+  "texto": "Y el resto de costes, mantenimiento, rutas y todo lo demás:",
+  "q": [
+   "mechanic tools workshop",
+   "airplane tail logo",
+   "computer server room"
+  ]
+ },
+ {
+  "i0": 659,
+  "i1": 669,
+  "texto": "unos diecinueve euros con cuarenta y tres. El veintiséis por ciento.",
+  "q": [
+   "counting euro coins",
+   "office supply storage",
+   "delivery truck driving"
+  ]
+ },
+ {
+  "i0": 670,
+  "i1": 679,
+  "texto": "Lo que queda, antes de impuestos, es el beneficio operativo:",
+  "q": [
+   "gold bars stack",
+   "successful businessman smiling",
+   "harvesting wheat field"
+  ]
+ },
+ {
+  "i0": 680,
+  "i1": 697,
+  "texto": "once euros con treinta y siete. Y, tras impuestos e intereses, el beneficio neto antes de partidas excepcionales:",
+  "q": [
+   "government building exterior",
+   "handing over cash",
+   "ledger book entry"
+  ]
+ },
+ {
+  "i0": 698,
+  "i1": 712,
+  "texto": "diez euros con ochenta y cuatro. Un catorce y medio por ciento de los ingresos.",
+  "q": [
+   "piggy bank coins",
+   "small plant growing",
+   "cleaning coins cloth"
+  ]
+ },
+ {
+  "i0": 713,
+  "i1": 728,
+  "texto": "Para ponerlo en perspectiva: Ryanair gana unos catorce céntimos y medio de cada euro que ingresa.",
+  "q": [
+   "copper coins hand",
+   "splitting one euro",
+   "zoom in cent"
+  ]
+ },
+ {
+  "i0": 729,
+  "i1": 735,
+  "texto": "Mercadona, unos cuatro. Lidl, tres y medio.",
+  "q": [
+   "supermarket checkout counter",
+   "shopping cart wheels",
+   "retail store interior"
+  ]
+ },
+ {
+  "i0": 736,
+  "i1": 745,
+  "texto": "Son sectores muy distintos, pero la comparación da que pensar.",
+  "q": [
+   "man thinking deeply",
+   "puzzled face expression",
+   "looking through window"
+  ]
+ },
+ {
+  "i0": 746,
+  "i1": 779,
+  "texto": "Y esto no se detiene: para el próximo ejercicio, Ryanair prevé transportar doscientos dieciséis millones de pasajeros, un cuatro por ciento más, y tiene encargados trescientos aviones Boeing setecientos treinta y siete MAX diez.",
+  "q": [
+   "new airplane factory",
+   "construction crane site",
+   "delivery of fleet"
+  ]
+ },
+ {
+  "i0": 780,
+  "i1": 793,
+  "texto": "El último año invirtió mil novecientos millones de euros. Entonces, ¿cuál es el truco?",
+  "q": [
+   "magician hat trick",
+   "shuffling cards hand",
+   "investing money app"
+  ]
+ },
+ {
+  "i0": 794,
+  "i1": 803,
+  "texto": "Con sus propias cifras, son tres. Uno: llenar el avión.",
+  "q": [
+   "boarding plane stairs",
+   "crowded waiting area",
+   "stuffing bag full"
+  ]
+ },
+ {
+  "i0": 804,
+  "i1": 819,
+  "texto": "Un noventa y cuatro por ciento de ocupación significa que casi no vuela ningún asiento vacío.",
+  "q": [
+   "packed theater seats",
+   "busy restaurant tables",
+   "bus full people"
+  ]
+ },
+ {
+  "i0": 820,
+  "i1": 832,
+  "texto": "Dos: un solo modelo de avión, que simplifica el mantenimiento y la formación.",
+  "q": [
+   "identical items row",
+   "standardized parts tray",
+   "mechanic reading manual"
+  ]
+ },
+ {
+  "i0": 833,
+  "i1": 851,
+  "texto": "Y tres: cobrar aparte lo que no es el asiento, que ya es casi un tercio de sus ingresos.",
+  "q": [
+   "vending machine snack",
+   "paying extra cash",
+   "add to cart button"
+  ]
+ },
+ {
+  "i0": 852,
+  "i1": 880,
+  "texto": "Y aquí entra la ley europea. El Reglamento mil ocho de dos mil ocho dice que el precio final tiene que mostrarse siempre, con tarifa, impuestos y tasas obligatorias.",
+  "q": [
+   "law book library",
+   "european union flag",
+   "legal document gavel"
+  ]
+ },
+ {
+  "i0": 881,
+  "i1": 902,
+  "texto": "Y que los suplementos opcionales se comunican con claridad al principio de la reserva, y el pasajero los acepta de forma expresa.",
+  "q": [
+   "clicking checkbox mouse",
+   "transparent glass water",
+   "reading fine print"
+  ]
+ },
+ {
+  "i0": 903,
+  "i1": 911,
+  "texto": "Pero ojo, porque hay cosas que Ryanair no cuenta.",
+  "q": [
+   "whispering in ear",
+   "hidden door opening",
+   "shushing finger lips"
+  ]
+ },
+ {
+  "i0": 912,
+  "i1": 926,
+  "texto": "Ryanair no dice cuántos billetes vende a diez euros, ni cuánto gana en cada uno.",
+  "q": [
+   "confused man laptop",
+   "missing puzzle piece",
+   "blurring text document"
+  ]
+ },
+ {
+  "i0": 927,
+  "i1": 948,
+  "texto": "La tarifa de cincuenta y un euros es una media. Y estas cuentas son de todo el grupo, no solo de España.",
+  "q": [
+   "global map world",
+   "large office complex",
+   "data processing center"
+  ]
+ },
+ {
+  "i0": 949,
+  "i1": 965,
+  "texto": "Así que cualquiera que te diga que Ryanair pierde dinero con cada billete, no tiene el dato.",
+  "q": [
+   "spread hands shrug",
+   "detective looking clues",
+   "empty notebook pages"
+  ]
+ },
+ {
+  "i0": 966,
+  "i1": 980,
+  "texto": "Así que, la próxima vez que pagues un billete de Ryanair, acuérdate de este viaje.",
+  "q": [
+   "person daydreaming bus",
+   "looking at receipt",
+   "nostalgic film look"
+  ]
+ },
+ {
+  "i0": 981,
+  "i1": 995,
+  "texto": "De cada setenta y cuatro euros con cincuenta y siete: veintiséis se van en combustible.",
+  "q": [
+   "gasoline meter running",
+   "fuel tanker truck",
+   "airplane engine spin"
+  ]
+ },
+ {
+  "i0": 996,
+  "i1": 1004,
+  "texto": "Nueve, al personal. Ocho y medio, a los aeropuertos.",
+  "q": [
+   "walking through gate",
+   "uniformed worker smile",
+   "airport hallway walk"
+  ]
+ },
+ {
+  "i0": 1005,
+  "i1": 1014,
+  "texto": "Diecinueve, al resto. Y once… once se quedan en casa.",
+  "q": [
+   "closing wallet slowly",
+   "safe deposit box",
+   "home living room"
+  ]
+ },
+ {
+  "i0": 1015,
+  "i1": 1022,
+  "texto": "De beneficio. Ryanair no gana dinero regalando vuelos.",
+  "q": [
+   "businessman holding cash",
+   "no free lunch",
+   "selling product store"
+  ]
+ },
+ {
+  "i0": 1023,
+  "i1": 1041,
+  "texto": "Gana llenando aviones, gastando lo mínimo en cada uno y cobrando aparte todo lo que no es el asiento.",
+  "q": [
+   "tightening bolt wrench",
+   "squeezing orange juice",
+   "crowd entering gate"
+  ]
+ },
+ {
+  "i0": 1042,
+  "i1": 1056,
+  "texto": "Y la pregunta ya no es cómo puede ser tan barato. La pregunta es otra:",
+  "q": [
+   "looking at watch",
+   "question mark drawing",
+   "curious child face"
+  ]
+ },
+ {
+  "i0": 1057,
+  "i1": 1067,
+  "texto": "cuánto de lo que pagas es tarifa… y cuánto son extras.",
+  "q": [
+   "scales balancing money",
+   "comparing two items",
+   "receipt breakdown view"
+  ]
+ },
+ {
+  "i0": 1068,
+  "i1": 1079,
+  "texto": "Cada semana abrimos el ticket de algo que pagas todos los días.",
+  "q": [
+   "tearing grocery receipt",
+   "calendar weekly view",
+   "envelope opening hand"
+  ]
+ },
+ {
+  "i0": 1080,
+  "i1": 1088,
+  "texto": "Y el próximo… te va a sorprender todavía más.",
+  "q": [
+   "shocked woman face",
+   "coming soon sign",
+   "gift box unwrapping"
+  ]
+ }
+]
