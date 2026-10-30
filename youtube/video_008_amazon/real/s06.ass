@@ -1,0 +1,68 @@
+[Script Info]
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: P,Archivo Black,82,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,6,3,2,60,60,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.15,0:00:00.37,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LO{\r} QUE SÍ CAMBIA
+Dialogue: 0,0:00:00.37,0:00:00.49,P,,0,0,0,,LO {\c&H00D4FF&\fscx110\fscy110}QUE{\r} SÍ CAMBIA
+Dialogue: 0,0:00:00.49,0:00:00.65,P,,0,0,0,,LO QUE {\c&H00D4FF&\fscx110\fscy110}SÍ{\r} CAMBIA
+Dialogue: 0,0:00:00.65,0:00:01.01,P,,0,0,0,,LO QUE SÍ {\c&H00D4FF&\fscx110\fscy110}CAMBIA{\r}
+Dialogue: 0,0:00:01.01,0:00:01.37,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ES{\r} LA LEY.
+Dialogue: 0,0:00:01.37,0:00:01.53,P,,0,0,0,,ES {\c&H00D4FF&\fscx110\fscy110}LA{\r} LEY.
+Dialogue: 0,0:00:01.53,0:00:02.33,P,,0,0,0,,ES LA {\c&H00D4FF&\fscx110\fscy110}LEY.{\r}
+Dialogue: 0,0:00:02.33,0:00:02.45,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EN{\r} ESPAÑA,
+Dialogue: 0,0:00:02.45,0:00:03.27,P,,0,0,0,,EN {\c&H00D4FF&\fscx110\fscy110}ESPAÑA,{\r}
+Dialogue: 0,0:00:03.27,0:00:03.37,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LA{\r} LEY DE RESIDUOS
+Dialogue: 0,0:00:03.37,0:00:03.53,P,,0,0,0,,LA {\c&H00D4FF&\fscx110\fscy110}LEY{\r} DE RESIDUOS
+Dialogue: 0,0:00:03.53,0:00:03.67,P,,0,0,0,,LA LEY {\c&H00D4FF&\fscx110\fscy110}DE{\r} RESIDUOS
+Dialogue: 0,0:00:03.67,0:00:04.13,P,,0,0,0,,LA LEY DE {\c&H00D4FF&\fscx110\fscy110}RESIDUOS{\r}
+Dialogue: 0,0:00:04.13,0:00:04.21,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DE{\r} DOS MIL VEINTIDÓS
+Dialogue: 0,0:00:04.21,0:00:04.38,P,,0,0,0,,DE {\c&H00D4FF&\fscx110\fscy110}DOS{\r} MIL VEINTIDÓS
+Dialogue: 0,0:00:04.38,0:00:04.54,P,,0,0,0,,DE DOS {\c&H00D4FF&\fscx110\fscy110}MIL{\r} VEINTIDÓS
+Dialogue: 0,0:00:04.54,0:00:04.87,P,,0,0,0,,DE DOS MIL {\c&H00D4FF&\fscx110\fscy110}VEINTIDÓS{\r}
+Dialogue: 0,0:00:04.87,0:00:05.63,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}PROHÍBE{\r} DESTRUIR O LLEVAR
+Dialogue: 0,0:00:05.63,0:00:06.17,P,,0,0,0,,PROHÍBE {\c&H00D4FF&\fscx110\fscy110}DESTRUIR{\r} O LLEVAR
+Dialogue: 0,0:00:06.17,0:00:06.39,P,,0,0,0,,PROHÍBE DESTRUIR {\c&H00D4FF&\fscx110\fscy110}O{\r} LLEVAR
+Dialogue: 0,0:00:06.39,0:00:06.59,P,,0,0,0,,PROHÍBE DESTRUIR O {\c&H00D4FF&\fscx110\fscy110}LLEVAR{\r}
+Dialogue: 0,0:00:06.59,0:00:06.69,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}A{\r} VERTEDERO LOS EXCEDENTES
+Dialogue: 0,0:00:06.69,0:00:07.15,P,,0,0,0,,A {\c&H00D4FF&\fscx110\fscy110}VERTEDERO{\r} LOS EXCEDENTES
+Dialogue: 0,0:00:07.15,0:00:07.33,P,,0,0,0,,A VERTEDERO {\c&H00D4FF&\fscx110\fscy110}LOS{\r} EXCEDENTES
+Dialogue: 0,0:00:07.33,0:00:07.91,P,,0,0,0,,A VERTEDERO LOS {\c&H00D4FF&\fscx110\fscy110}EXCEDENTES{\r}
+Dialogue: 0,0:00:07.91,0:00:08.13,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}NO{\r} VENDIDOS DE PRODUCTOS
+Dialogue: 0,0:00:08.13,0:00:08.53,P,,0,0,0,,NO {\c&H00D4FF&\fscx110\fscy110}VENDIDOS{\r} DE PRODUCTOS
+Dialogue: 0,0:00:08.53,0:00:08.71,P,,0,0,0,,NO VENDIDOS {\c&H00D4FF&\fscx110\fscy110}DE{\r} PRODUCTOS
+Dialogue: 0,0:00:08.71,0:00:09.07,P,,0,0,0,,NO VENDIDOS DE {\c&H00D4FF&\fscx110\fscy110}PRODUCTOS{\r}
+Dialogue: 0,0:00:09.07,0:00:09.31,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}NO{\r} PERECEDEROS,
+Dialogue: 0,0:00:09.31,0:00:10.21,P,,0,0,0,,NO {\c&H00D4FF&\fscx110\fscy110}PERECEDEROS,{\r}
+Dialogue: 0,0:00:10.21,0:00:10.41,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}COMO{\r} TEXTILES,
+Dialogue: 0,0:00:10.41,0:00:11.23,P,,0,0,0,,COMO {\c&H00D4FF&\fscx110\fscy110}TEXTILES,{\r}
+Dialogue: 0,0:00:11.23,0:00:11.71,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}JUGUETES{\r} O APARATOS ELÉCTRICOS,
+Dialogue: 0,0:00:11.71,0:00:11.93,P,,0,0,0,,JUGUETES {\c&H00D4FF&\fscx110\fscy110}O{\r} APARATOS ELÉCTRICOS,
+Dialogue: 0,0:00:11.93,0:00:12.33,P,,0,0,0,,JUGUETES O {\c&H00D4FF&\fscx110\fscy110}APARATOS{\r} ELÉCTRICOS,
+Dialogue: 0,0:00:12.33,0:00:13.25,P,,0,0,0,,JUGUETES O APARATOS {\c&H00D4FF&\fscx110\fscy110}ELÉCTRICOS,{\r}
+Dialogue: 0,0:00:13.25,0:00:13.67,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SALVO{\r} QUE HAYA QUE
+Dialogue: 0,0:00:13.67,0:00:13.79,P,,0,0,0,,SALVO {\c&H00D4FF&\fscx110\fscy110}QUE{\r} HAYA QUE
+Dialogue: 0,0:00:13.79,0:00:13.95,P,,0,0,0,,SALVO QUE {\c&H00D4FF&\fscx110\fscy110}HAYA{\r} QUE
+Dialogue: 0,0:00:13.95,0:00:14.09,P,,0,0,0,,SALVO QUE HAYA {\c&H00D4FF&\fscx110\fscy110}QUE{\r}
+Dialogue: 0,0:00:14.09,0:00:14.67,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DESTRUIRLOS{\r} POR OTRA NORMA
+Dialogue: 0,0:00:14.67,0:00:14.87,P,,0,0,0,,DESTRUIRLOS {\c&H00D4FF&\fscx110\fscy110}POR{\r} OTRA NORMA
+Dialogue: 0,0:00:14.87,0:00:15.05,P,,0,0,0,,DESTRUIRLOS POR {\c&H00D4FF&\fscx110\fscy110}OTRA{\r} NORMA
+Dialogue: 0,0:00:15.05,0:00:15.51,P,,0,0,0,,DESTRUIRLOS POR OTRA {\c&H00D4FF&\fscx110\fscy110}NORMA{\r}
+Dialogue: 0,0:00:15.51,0:00:15.65,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}O{\r} POR SEGURIDAD.
+Dialogue: 0,0:00:15.65,0:00:15.81,P,,0,0,0,,O {\c&H00D4FF&\fscx110\fscy110}POR{\r} SEGURIDAD.
+Dialogue: 0,0:00:15.81,0:00:16.89,P,,0,0,0,,O POR {\c&H00D4FF&\fscx110\fscy110}SEGURIDAD.{\r}
+Dialogue: 0,0:00:16.89,0:00:17.13,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} DEBEN IR PRIMERO
+Dialogue: 0,0:00:17.13,0:00:17.25,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}DEBEN{\r} IR PRIMERO
+Dialogue: 0,0:00:17.25,0:00:17.49,P,,0,0,0,,Y DEBEN {\c&H00D4FF&\fscx110\fscy110}IR{\r} PRIMERO
+Dialogue: 0,0:00:17.49,0:00:17.83,P,,0,0,0,,Y DEBEN IR {\c&H00D4FF&\fscx110\fscy110}PRIMERO{\r}
+Dialogue: 0,0:00:17.83,0:00:17.97,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}A{\r} REUTILIZACIÓN,
+Dialogue: 0,0:00:17.97,0:00:18.99,P,,0,0,0,,A {\c&H00D4FF&\fscx110\fscy110}REUTILIZACIÓN,{\r}
+Dialogue: 0,0:00:18.99,0:00:19.47,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}INCLUIDA{\r} LA DONACIÓN.
+Dialogue: 0,0:00:19.47,0:00:19.57,P,,0,0,0,,INCLUIDA {\c&H00D4FF&\fscx110\fscy110}LA{\r} DONACIÓN.
+Dialogue: 0,0:00:19.57,0:00:20.35,P,,0,0,0,,INCLUIDA LA {\c&H00D4FF&\fscx110\fscy110}DONACIÓN.{\r}

@@ -1,0 +1,1003 @@
+[Script Info]
+PlayResX: 1920
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: P,Archivo Black,62,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,5,3,2,60,60,70,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.58,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DEVUELVES{\r} UN PAQUETE A
+Dialogue: 0,0:00:00.58,0:00:00.78,P,,0,0,0,,DEVUELVES {\c&H00D4FF&\fscx110\fscy110}UN{\r} PAQUETE A
+Dialogue: 0,0:00:00.78,0:00:01.18,P,,0,0,0,,DEVUELVES UN {\c&H00D4FF&\fscx110\fscy110}PAQUETE{\r} A
+Dialogue: 0,0:00:01.18,0:00:01.34,P,,0,0,0,,DEVUELVES UN PAQUETE {\c&H00D4FF&\fscx110\fscy110}A{\r}
+Dialogue: 0,0:00:01.34,0:00:02.28,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}AMAZON.{\r}
+Dialogue: 0,0:00:02.28,0:00:02.42,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LO{\r} DEJAS EN EL
+Dialogue: 0,0:00:02.42,0:00:02.74,P,,0,0,0,,LO {\c&H00D4FF&\fscx110\fscy110}DEJAS{\r} EN EL
+Dialogue: 0,0:00:02.74,0:00:02.94,P,,0,0,0,,LO DEJAS {\c&H00D4FF&\fscx110\fscy110}EN{\r} EL
+Dialogue: 0,0:00:02.94,0:00:03.04,P,,0,0,0,,LO DEJAS EN {\c&H00D4FF&\fscx110\fscy110}EL{\r}
+Dialogue: 0,0:00:03.04,0:00:03.24,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}PUNTO{\r} DE RECOGIDA…
+Dialogue: 0,0:00:03.24,0:00:03.44,P,,0,0,0,,PUNTO {\c&H00D4FF&\fscx110\fscy110}DE{\r} RECOGIDA…
+Dialogue: 0,0:00:03.44,0:00:03.94,P,,0,0,0,,PUNTO DE {\c&H00D4FF&\fscx110\fscy110}RECOGIDA…{\r}
+Dialogue: 0,0:00:03.94,0:00:04.52,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} TE OLVIDAS.
+Dialogue: 0,0:00:04.52,0:00:04.64,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}TE{\r} OLVIDAS.
+Dialogue: 0,0:00:04.64,0:00:05.68,P,,0,0,0,,Y TE {\c&H00D4FF&\fscx110\fscy110}OLVIDAS.{\r}
+Dialogue: 0,0:00:05.68,0:00:05.90,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}PERO{\r} TU PAQUETE NO
+Dialogue: 0,0:00:05.90,0:00:06.06,P,,0,0,0,,PERO {\c&H00D4FF&\fscx110\fscy110}TU{\r} PAQUETE NO
+Dialogue: 0,0:00:06.06,0:00:06.44,P,,0,0,0,,PERO TU {\c&H00D4FF&\fscx110\fscy110}PAQUETE{\r} NO
+Dialogue: 0,0:00:06.44,0:00:06.96,P,,0,0,0,,PERO TU PAQUETE {\c&H00D4FF&\fscx110\fscy110}NO{\r}
+Dialogue: 0,0:00:06.96,0:00:07.16,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SE{\r} OLVIDA DE NADA.
+Dialogue: 0,0:00:07.16,0:00:07.48,P,,0,0,0,,SE {\c&H00D4FF&\fscx110\fscy110}OLVIDA{\r} DE NADA.
+Dialogue: 0,0:00:07.48,0:00:07.66,P,,0,0,0,,SE OLVIDA {\c&H00D4FF&\fscx110\fscy110}DE{\r} NADA.
+Dialogue: 0,0:00:07.66,0:00:08.48,P,,0,0,0,,SE OLVIDA DE {\c&H00D4FF&\fscx110\fscy110}NADA.{\r}
+Dialogue: 0,0:00:08.48,0:00:08.98,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EMPIEZA{\r} UN VIAJE QUE
+Dialogue: 0,0:00:08.98,0:00:09.14,P,,0,0,0,,EMPIEZA {\c&H00D4FF&\fscx110\fscy110}UN{\r} VIAJE QUE
+Dialogue: 0,0:00:09.14,0:00:09.36,P,,0,0,0,,EMPIEZA UN {\c&H00D4FF&\fscx110\fscy110}VIAJE{\r} QUE
+Dialogue: 0,0:00:09.36,0:00:09.78,P,,0,0,0,,EMPIEZA UN VIAJE {\c&H00D4FF&\fscx110\fscy110}QUE{\r}
+Dialogue: 0,0:00:09.78,0:00:10.10,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CASI{\r} NADIE CONOCE.
+Dialogue: 0,0:00:10.10,0:00:10.48,P,,0,0,0,,CASI {\c&H00D4FF&\fscx110\fscy110}NADIE{\r} CONOCE.
+Dialogue: 0,0:00:10.48,0:00:11.60,P,,0,0,0,,CASI NADIE {\c&H00D4FF&\fscx110\fscy110}CONOCE.{\r}
+Dialogue: 0,0:00:11.60,0:00:11.72,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}¿SE{\r} REVENDE?
+Dialogue: 0,0:00:11.72,0:00:12.64,P,,0,0,0,,¿SE {\c&H00D4FF&\fscx110\fscy110}REVENDE?{\r}
+Dialogue: 0,0:00:12.64,0:00:12.82,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}¿SE{\r} REGALA?
+Dialogue: 0,0:00:12.82,0:00:13.16,P,,0,0,0,,¿SE {\c&H00D4FF&\fscx110\fscy110}REGALA?{\r}
+Dialogue: 0,0:00:13.16,0:00:13.94,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}¿O{\r} ACABA…
+Dialogue: 0,0:00:13.94,0:00:14.32,P,,0,0,0,,¿O {\c&H00D4FF&\fscx110\fscy110}ACABA…{\r}
+Dialogue: 0,0:00:14.32,0:00:16.00,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DESTRUIDO?{\r}
+Dialogue: 0,0:00:16.00,0:00:16.24,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EN{\r} DOS MIL VEINTIUNO,
+Dialogue: 0,0:00:16.24,0:00:16.52,P,,0,0,0,,EN {\c&H00D4FF&\fscx110\fscy110}DOS{\r} MIL VEINTIUNO,
+Dialogue: 0,0:00:16.52,0:00:16.80,P,,0,0,0,,EN DOS {\c&H00D4FF&\fscx110\fscy110}MIL{\r} VEINTIUNO,
+Dialogue: 0,0:00:16.80,0:00:17.36,P,,0,0,0,,EN DOS MIL {\c&H00D4FF&\fscx110\fscy110}VEINTIUNO,{\r}
+Dialogue: 0,0:00:17.36,0:00:17.54,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}UNA{\r} INVESTIGACIÓN DE TELEVISIÓN
+Dialogue: 0,0:00:17.54,0:00:17.98,P,,0,0,0,,UNA {\c&H00D4FF&\fscx110\fscy110}INVESTIGACIÓN{\r} DE TELEVISIÓN
+Dialogue: 0,0:00:17.98,0:00:18.32,P,,0,0,0,,UNA INVESTIGACIÓN {\c&H00D4FF&\fscx110\fscy110}DE{\r} TELEVISIÓN
+Dialogue: 0,0:00:18.32,0:00:18.92,P,,0,0,0,,UNA INVESTIGACIÓN DE {\c&H00D4FF&\fscx110\fscy110}TELEVISIÓN{\r}
+Dialogue: 0,0:00:18.92,0:00:19.04,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EN{\r} EL REINO UNIDO
+Dialogue: 0,0:00:19.04,0:00:19.16,P,,0,0,0,,EN {\c&H00D4FF&\fscx110\fscy110}EL{\r} REINO UNIDO
+Dialogue: 0,0:00:19.16,0:00:19.40,P,,0,0,0,,EN EL {\c&H00D4FF&\fscx110\fscy110}REINO{\r} UNIDO
+Dialogue: 0,0:00:19.40,0:00:19.70,P,,0,0,0,,EN EL REINO {\c&H00D4FF&\fscx110\fscy110}UNIDO{\r}
+Dialogue: 0,0:00:19.70,0:00:20.42,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}GRABÓ{\r} LO QUE PASABA
+Dialogue: 0,0:00:20.42,0:00:20.52,P,,0,0,0,,GRABÓ {\c&H00D4FF&\fscx110\fscy110}LO{\r} QUE PASABA
+Dialogue: 0,0:00:20.52,0:00:20.64,P,,0,0,0,,GRABÓ LO {\c&H00D4FF&\fscx110\fscy110}QUE{\r} PASABA
+Dialogue: 0,0:00:20.64,0:00:21.02,P,,0,0,0,,GRABÓ LO QUE {\c&H00D4FF&\fscx110\fscy110}PASABA{\r}
+Dialogue: 0,0:00:21.02,0:00:21.38,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DENTRO{\r} DE UN ALMACÉN.
+Dialogue: 0,0:00:21.38,0:00:21.60,P,,0,0,0,,DENTRO {\c&H00D4FF&\fscx110\fscy110}DE{\r} UN ALMACÉN.
+Dialogue: 0,0:00:21.60,0:00:21.76,P,,0,0,0,,DENTRO DE {\c&H00D4FF&\fscx110\fscy110}UN{\r} ALMACÉN.
+Dialogue: 0,0:00:21.76,0:00:22.70,P,,0,0,0,,DENTRO DE UN {\c&H00D4FF&\fscx110\fscy110}ALMACÉN.{\r}
+Dialogue: 0,0:00:22.70,0:00:22.96,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} LO QUE VIERON
+Dialogue: 0,0:00:22.96,0:00:23.06,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}LO{\r} QUE VIERON
+Dialogue: 0,0:00:23.06,0:00:23.18,P,,0,0,0,,Y LO {\c&H00D4FF&\fscx110\fscy110}QUE{\r} VIERON
+Dialogue: 0,0:00:23.18,0:00:23.48,P,,0,0,0,,Y LO QUE {\c&H00D4FF&\fscx110\fscy110}VIERON{\r}
+Dialogue: 0,0:00:23.48,0:00:24.04,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DIO{\r} LA VUELTA AL
+Dialogue: 0,0:00:24.04,0:00:24.20,P,,0,0,0,,DIO {\c&H00D4FF&\fscx110\fscy110}LA{\r} VUELTA AL
+Dialogue: 0,0:00:24.20,0:00:24.48,P,,0,0,0,,DIO LA {\c&H00D4FF&\fscx110\fscy110}VUELTA{\r} AL
+Dialogue: 0,0:00:24.48,0:00:24.68,P,,0,0,0,,DIO LA VUELTA {\c&H00D4FF&\fscx110\fscy110}AL{\r}
+Dialogue: 0,0:00:24.68,0:00:24.92,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MUNDO.{\r}
+Dialogue: 0,0:00:24.92,0:00:25.84,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}HOY{\r} VAMOS A SEGUIR
+Dialogue: 0,0:00:25.84,0:00:26.46,P,,0,0,0,,HOY {\c&H00D4FF&\fscx110\fscy110}VAMOS{\r} A SEGUIR
+Dialogue: 0,0:00:26.46,0:00:26.64,P,,0,0,0,,HOY VAMOS {\c&H00D4FF&\fscx110\fscy110}A{\r} SEGUIR
+Dialogue: 0,0:00:26.64,0:00:26.84,P,,0,0,0,,HOY VAMOS A {\c&H00D4FF&\fscx110\fscy110}SEGUIR{\r}
+Dialogue: 0,0:00:26.84,0:00:27.04,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LA{\r} PISTA DE TU
+Dialogue: 0,0:00:27.04,0:00:27.28,P,,0,0,0,,LA {\c&H00D4FF&\fscx110\fscy110}PISTA{\r} DE TU
+Dialogue: 0,0:00:27.28,0:00:27.46,P,,0,0,0,,LA PISTA {\c&H00D4FF&\fscx110\fscy110}DE{\r} TU
+Dialogue: 0,0:00:27.46,0:00:27.56,P,,0,0,0,,LA PISTA DE {\c&H00D4FF&\fscx110\fscy110}TU{\r}
+Dialogue: 0,0:00:27.56,0:00:28.52,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DEVOLUCIÓN.{\r}
+Dialogue: 0,0:00:28.52,0:00:28.78,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CON{\r} LO QUE DICE
+Dialogue: 0,0:00:28.78,0:00:28.88,P,,0,0,0,,CON {\c&H00D4FF&\fscx110\fscy110}LO{\r} QUE DICE
+Dialogue: 0,0:00:28.88,0:00:28.98,P,,0,0,0,,CON LO {\c&H00D4FF&\fscx110\fscy110}QUE{\r} DICE
+Dialogue: 0,0:00:28.98,0:00:29.18,P,,0,0,0,,CON LO QUE {\c&H00D4FF&\fscx110\fscy110}DICE{\r}
+Dialogue: 0,0:00:29.18,0:00:29.34,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LA{\r} LEY,
+Dialogue: 0,0:00:29.34,0:00:29.94,P,,0,0,0,,LA {\c&H00D4FF&\fscx110\fscy110}LEY,{\r}
+Dialogue: 0,0:00:29.94,0:00:30.12,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LO{\r} QUE DICE LA
+Dialogue: 0,0:00:30.12,0:00:30.22,P,,0,0,0,,LO {\c&H00D4FF&\fscx110\fscy110}QUE{\r} DICE LA
+Dialogue: 0,0:00:30.22,0:00:30.44,P,,0,0,0,,LO QUE {\c&H00D4FF&\fscx110\fscy110}DICE{\r} LA
+Dialogue: 0,0:00:30.44,0:00:30.60,P,,0,0,0,,LO QUE DICE {\c&H00D4FF&\fscx110\fscy110}LA{\r}
+Dialogue: 0,0:00:30.60,0:00:30.80,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}PROPIA{\r} EMPRESA…
+Dialogue: 0,0:00:30.80,0:00:31.20,P,,0,0,0,,PROPIA {\c&H00D4FF&\fscx110\fscy110}EMPRESA…{\r}
+Dialogue: 0,0:00:31.20,0:00:31.74,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} LO QUE NADIE
+Dialogue: 0,0:00:31.74,0:00:31.88,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}LO{\r} QUE NADIE
+Dialogue: 0,0:00:31.88,0:00:32.00,P,,0,0,0,,Y LO {\c&H00D4FF&\fscx110\fscy110}QUE{\r} NADIE
+Dialogue: 0,0:00:32.00,0:00:32.24,P,,0,0,0,,Y LO QUE {\c&H00D4FF&\fscx110\fscy110}NADIE{\r}
+Dialogue: 0,0:00:32.24,0:00:32.56,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}PUEDE{\r} COMPROBAR.
+Dialogue: 0,0:00:32.56,0:00:33.80,P,,0,0,0,,PUEDE {\c&H00D4FF&\fscx110\fscy110}COMPROBAR.{\r}
+Dialogue: 0,0:00:33.80,0:00:34.06,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}PORQUE{\r} AMAZON NO PUBLICA
+Dialogue: 0,0:00:34.06,0:00:34.40,P,,0,0,0,,PORQUE {\c&H00D4FF&\fscx110\fscy110}AMAZON{\r} NO PUBLICA
+Dialogue: 0,0:00:34.40,0:00:34.88,P,,0,0,0,,PORQUE AMAZON {\c&H00D4FF&\fscx110\fscy110}NO{\r} PUBLICA
+Dialogue: 0,0:00:34.88,0:00:35.34,P,,0,0,0,,PORQUE AMAZON NO {\c&H00D4FF&\fscx110\fscy110}PUBLICA{\r}
+Dialogue: 0,0:00:35.34,0:00:35.80,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CUÁNTOS{\r} PRODUCTOS DEVUELTOS REVENDE,
+Dialogue: 0,0:00:35.80,0:00:36.18,P,,0,0,0,,CUÁNTOS {\c&H00D4FF&\fscx110\fscy110}PRODUCTOS{\r} DEVUELTOS REVENDE,
+Dialogue: 0,0:00:36.18,0:00:36.80,P,,0,0,0,,CUÁNTOS PRODUCTOS {\c&H00D4FF&\fscx110\fscy110}DEVUELTOS{\r} REVENDE,
+Dialogue: 0,0:00:36.80,0:00:37.70,P,,0,0,0,,CUÁNTOS PRODUCTOS DEVUELTOS {\c&H00D4FF&\fscx110\fscy110}REVENDE,{\r}
+Dialogue: 0,0:00:37.70,0:00:37.90,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DONA{\r} O DESTRUYE EN
+Dialogue: 0,0:00:37.90,0:00:38.08,P,,0,0,0,,DONA {\c&H00D4FF&\fscx110\fscy110}O{\r} DESTRUYE EN
+Dialogue: 0,0:00:38.08,0:00:38.58,P,,0,0,0,,DONA O {\c&H00D4FF&\fscx110\fscy110}DESTRUYE{\r} EN
+Dialogue: 0,0:00:38.58,0:00:38.72,P,,0,0,0,,DONA O DESTRUYE {\c&H00D4FF&\fscx110\fscy110}EN{\r}
+Dialogue: 0,0:00:38.72,0:00:39.76,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ESPAÑA.{\r}
+Dialogue: 0,0:00:39.76,0:00:40.10,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}VAMOS{\r} CON ELLO.
+Dialogue: 0,0:00:40.10,0:00:40.38,P,,0,0,0,,VAMOS {\c&H00D4FF&\fscx110\fscy110}CON{\r} ELLO.
+Dialogue: 0,0:00:40.38,0:00:41.30,P,,0,0,0,,VAMOS CON {\c&H00D4FF&\fscx110\fscy110}ELLO.{\r}
+Dialogue: 0,0:00:41.30,0:00:42.06,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}PRIMERO,{\r}
+Dialogue: 0,0:00:42.06,0:00:42.14,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}TU{\r} DERECHO.
+Dialogue: 0,0:00:42.14,0:00:43.18,P,,0,0,0,,TU {\c&H00D4FF&\fscx110\fscy110}DERECHO.{\r}
+Dialogue: 0,0:00:43.18,0:00:43.42,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CUANDO{\r} COMPRAS POR INTERNET,
+Dialogue: 0,0:00:43.42,0:00:43.80,P,,0,0,0,,CUANDO {\c&H00D4FF&\fscx110\fscy110}COMPRAS{\r} POR INTERNET,
+Dialogue: 0,0:00:43.80,0:00:43.96,P,,0,0,0,,CUANDO COMPRAS {\c&H00D4FF&\fscx110\fscy110}POR{\r} INTERNET,
+Dialogue: 0,0:00:43.96,0:00:44.74,P,,0,0,0,,CUANDO COMPRAS POR {\c&H00D4FF&\fscx110\fscy110}INTERNET,{\r}
+Dialogue: 0,0:00:44.74,0:00:44.92,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LA{\r} LEY TE DA
+Dialogue: 0,0:00:44.92,0:00:45.08,P,,0,0,0,,LA {\c&H00D4FF&\fscx110\fscy110}LEY{\r} TE DA
+Dialogue: 0,0:00:45.08,0:00:45.22,P,,0,0,0,,LA LEY {\c&H00D4FF&\fscx110\fscy110}TE{\r} DA
+Dialogue: 0,0:00:45.22,0:00:45.32,P,,0,0,0,,LA LEY TE {\c&H00D4FF&\fscx110\fscy110}DA{\r}
+Dialogue: 0,0:00:45.32,0:00:45.70,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CATORCE{\r} DÍAS NATURALES PARA
+Dialogue: 0,0:00:45.70,0:00:46.08,P,,0,0,0,,CATORCE {\c&H00D4FF&\fscx110\fscy110}DÍAS{\r} NATURALES PARA
+Dialogue: 0,0:00:46.08,0:00:46.70,P,,0,0,0,,CATORCE DÍAS {\c&H00D4FF&\fscx110\fscy110}NATURALES{\r} PARA
+Dialogue: 0,0:00:46.70,0:00:46.88,P,,0,0,0,,CATORCE DÍAS NATURALES {\c&H00D4FF&\fscx110\fscy110}PARA{\r}
+Dialogue: 0,0:00:46.88,0:00:47.30,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DEVOLVER{\r} LO QUE HAS
+Dialogue: 0,0:00:47.30,0:00:47.46,P,,0,0,0,,DEVOLVER {\c&H00D4FF&\fscx110\fscy110}LO{\r} QUE HAS
+Dialogue: 0,0:00:47.46,0:00:47.56,P,,0,0,0,,DEVOLVER LO {\c&H00D4FF&\fscx110\fscy110}QUE{\r} HAS
+Dialogue: 0,0:00:47.56,0:00:47.68,P,,0,0,0,,DEVOLVER LO QUE {\c&H00D4FF&\fscx110\fscy110}HAS{\r}
+Dialogue: 0,0:00:47.68,0:00:48.10,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}COMPRADO,{\r}
+Dialogue: 0,0:00:48.10,0:00:48.64,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SIN{\r} TENER QUE EXPLICAR
+Dialogue: 0,0:00:48.64,0:00:48.92,P,,0,0,0,,SIN {\c&H00D4FF&\fscx110\fscy110}TENER{\r} QUE EXPLICAR
+Dialogue: 0,0:00:48.92,0:00:49.06,P,,0,0,0,,SIN TENER {\c&H00D4FF&\fscx110\fscy110}QUE{\r} EXPLICAR
+Dialogue: 0,0:00:49.06,0:00:49.42,P,,0,0,0,,SIN TENER QUE {\c&H00D4FF&\fscx110\fscy110}EXPLICAR{\r}
+Dialogue: 0,0:00:49.42,0:00:49.74,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}POR{\r} QUÉ Y SIN
+Dialogue: 0,0:00:49.74,0:00:49.94,P,,0,0,0,,POR {\c&H00D4FF&\fscx110\fscy110}QUÉ{\r} Y SIN
+Dialogue: 0,0:00:49.94,0:00:50.30,P,,0,0,0,,POR QUÉ {\c&H00D4FF&\fscx110\fscy110}Y{\r} SIN
+Dialogue: 0,0:00:50.30,0:00:50.50,P,,0,0,0,,POR QUÉ Y {\c&H00D4FF&\fscx110\fscy110}SIN{\r}
+Dialogue: 0,0:00:50.50,0:00:51.66,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}PENALIZACIÓN.{\r}
+Dialogue: 0,0:00:51.66,0:00:52.04,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ESTÁ{\r} EN LA LEY
+Dialogue: 0,0:00:52.04,0:00:52.20,P,,0,0,0,,ESTÁ {\c&H00D4FF&\fscx110\fscy110}EN{\r} LA LEY
+Dialogue: 0,0:00:52.20,0:00:52.28,P,,0,0,0,,ESTÁ EN {\c&H00D4FF&\fscx110\fscy110}LA{\r} LEY
+Dialogue: 0,0:00:52.28,0:00:52.44,P,,0,0,0,,ESTÁ EN LA {\c&H00D4FF&\fscx110\fscy110}LEY{\r}
+Dialogue: 0,0:00:52.44,0:00:52.76,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}GENERAL{\r} PARA LA DEFENSA
+Dialogue: 0,0:00:52.76,0:00:52.98,P,,0,0,0,,GENERAL {\c&H00D4FF&\fscx110\fscy110}PARA{\r} LA DEFENSA
+Dialogue: 0,0:00:52.98,0:00:53.12,P,,0,0,0,,GENERAL PARA {\c&H00D4FF&\fscx110\fscy110}LA{\r} DEFENSA
+Dialogue: 0,0:00:53.12,0:00:53.48,P,,0,0,0,,GENERAL PARA LA {\c&H00D4FF&\fscx110\fscy110}DEFENSA{\r}
+Dialogue: 0,0:00:53.48,0:00:53.62,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DE{\r} LOS CONSUMIDORES,
+Dialogue: 0,0:00:53.62,0:00:53.72,P,,0,0,0,,DE {\c&H00D4FF&\fscx110\fscy110}LOS{\r} CONSUMIDORES,
+Dialogue: 0,0:00:53.72,0:00:54.26,P,,0,0,0,,DE LOS {\c&H00D4FF&\fscx110\fscy110}CONSUMIDORES,{\r}
+Dialogue: 0,0:00:54.26,0:00:54.92,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} ES UN DERECHO
+Dialogue: 0,0:00:54.92,0:00:55.10,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}ES{\r} UN DERECHO
+Dialogue: 0,0:00:55.10,0:00:55.22,P,,0,0,0,,Y ES {\c&H00D4FF&\fscx110\fscy110}UN{\r} DERECHO
+Dialogue: 0,0:00:55.22,0:00:55.44,P,,0,0,0,,Y ES UN {\c&H00D4FF&\fscx110\fscy110}DERECHO{\r}
+Dialogue: 0,0:00:55.44,0:00:56.50,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LEGAL.{\r}
+Dialogue: 0,0:00:56.50,0:00:57.28,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}OJO:{\r}
+Dialogue: 0,0:00:57.28,0:00:57.42,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}NO{\r} ES LO MISMO
+Dialogue: 0,0:00:57.42,0:00:57.54,P,,0,0,0,,NO {\c&H00D4FF&\fscx110\fscy110}ES{\r} LO MISMO
+Dialogue: 0,0:00:57.54,0:00:57.66,P,,0,0,0,,NO ES {\c&H00D4FF&\fscx110\fscy110}LO{\r} MISMO
+Dialogue: 0,0:00:57.66,0:00:57.86,P,,0,0,0,,NO ES LO {\c&H00D4FF&\fscx110\fscy110}MISMO{\r}
+Dialogue: 0,0:00:57.86,0:00:58.06,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}QUE{\r} LA POLÍTICA DE
+Dialogue: 0,0:00:58.06,0:00:58.16,P,,0,0,0,,QUE {\c&H00D4FF&\fscx110\fscy110}LA{\r} POLÍTICA DE
+Dialogue: 0,0:00:58.16,0:00:58.50,P,,0,0,0,,QUE LA {\c&H00D4FF&\fscx110\fscy110}POLÍTICA{\r} DE
+Dialogue: 0,0:00:58.50,0:00:58.72,P,,0,0,0,,QUE LA POLÍTICA {\c&H00D4FF&\fscx110\fscy110}DE{\r}
+Dialogue: 0,0:00:58.72,0:00:59.20,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DEVOLUCIONES{\r} QUE PUEDA TENER
+Dialogue: 0,0:00:59.20,0:00:59.50,P,,0,0,0,,DEVOLUCIONES {\c&H00D4FF&\fscx110\fscy110}QUE{\r} PUEDA TENER
+Dialogue: 0,0:00:59.50,0:00:59.72,P,,0,0,0,,DEVOLUCIONES QUE {\c&H00D4FF&\fscx110\fscy110}PUEDA{\r} TENER
+Dialogue: 0,0:00:59.72,0:00:59.98,P,,0,0,0,,DEVOLUCIONES QUE PUEDA {\c&H00D4FF&\fscx110\fscy110}TENER{\r}
+Dialogue: 0,0:00:59.98,0:01:00.18,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CADA{\r} TIENDA,
+Dialogue: 0,0:01:00.18,0:01:00.98,P,,0,0,0,,CADA {\c&H00D4FF&\fscx110\fscy110}TIENDA,{\r}
+Dialogue: 0,0:01:00.98,0:01:01.10,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}QUE{\r} PUEDE SER MÁS
+Dialogue: 0,0:01:01.10,0:01:01.28,P,,0,0,0,,QUE {\c&H00D4FF&\fscx110\fscy110}PUEDE{\r} SER MÁS
+Dialogue: 0,0:01:01.28,0:01:01.54,P,,0,0,0,,QUE PUEDE {\c&H00D4FF&\fscx110\fscy110}SER{\r} MÁS
+Dialogue: 0,0:01:01.54,0:01:01.78,P,,0,0,0,,QUE PUEDE SER {\c&H00D4FF&\fscx110\fscy110}MÁS{\r}
+Dialogue: 0,0:01:01.78,0:01:02.90,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}GENEROSA.{\r}
+Dialogue: 0,0:01:02.90,0:01:03.04,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} LA TIENDA TIENE
+Dialogue: 0,0:01:03.04,0:01:03.16,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}LA{\r} TIENDA TIENE
+Dialogue: 0,0:01:03.16,0:01:03.40,P,,0,0,0,,Y LA {\c&H00D4FF&\fscx110\fscy110}TIENDA{\r} TIENE
+Dialogue: 0,0:01:03.40,0:01:03.68,P,,0,0,0,,Y LA TIENDA {\c&H00D4FF&\fscx110\fscy110}TIENE{\r}
+Dialogue: 0,0:01:03.68,0:01:03.82,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}QUE{\r} DEVOLVERTE EL DINERO
+Dialogue: 0,0:01:03.82,0:01:04.34,P,,0,0,0,,QUE {\c&H00D4FF&\fscx110\fscy110}DEVOLVERTE{\r} EL DINERO
+Dialogue: 0,0:01:04.34,0:01:04.44,P,,0,0,0,,QUE DEVOLVERTE {\c&H00D4FF&\fscx110\fscy110}EL{\r} DINERO
+Dialogue: 0,0:01:04.44,0:01:04.68,P,,0,0,0,,QUE DEVOLVERTE EL {\c&H00D4FF&\fscx110\fscy110}DINERO{\r}
+Dialogue: 0,0:01:04.68,0:01:05.04,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SIN{\r} DEMORAS INDEBIDAS Y,
+Dialogue: 0,0:01:05.04,0:01:05.32,P,,0,0,0,,SIN {\c&H00D4FF&\fscx110\fscy110}DEMORAS{\r} INDEBIDAS Y,
+Dialogue: 0,0:01:05.32,0:01:05.88,P,,0,0,0,,SIN DEMORAS {\c&H00D4FF&\fscx110\fscy110}INDEBIDAS{\r} Y,
+Dialogue: 0,0:01:05.88,0:01:06.44,P,,0,0,0,,SIN DEMORAS INDEBIDAS {\c&H00D4FF&\fscx110\fscy110}Y,{\r}
+Dialogue: 0,0:01:06.44,0:01:06.58,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EN{\r} TODO CASO,
+Dialogue: 0,0:01:06.58,0:01:06.72,P,,0,0,0,,EN {\c&H00D4FF&\fscx110\fscy110}TODO{\r} CASO,
+Dialogue: 0,0:01:06.72,0:01:07.06,P,,0,0,0,,EN TODO {\c&H00D4FF&\fscx110\fscy110}CASO,{\r}
+Dialogue: 0,0:01:07.06,0:01:07.60,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EN{\r} MENOS DE CATORCE
+Dialogue: 0,0:01:07.60,0:01:07.84,P,,0,0,0,,EN {\c&H00D4FF&\fscx110\fscy110}MENOS{\r} DE CATORCE
+Dialogue: 0,0:01:07.84,0:01:08.06,P,,0,0,0,,EN MENOS {\c&H00D4FF&\fscx110\fscy110}DE{\r} CATORCE
+Dialogue: 0,0:01:08.06,0:01:08.42,P,,0,0,0,,EN MENOS DE {\c&H00D4FF&\fscx110\fscy110}CATORCE{\r}
+Dialogue: 0,0:01:08.42,0:01:09.12,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DÍAS{\r} DESDE QUE LE
+Dialogue: 0,0:01:09.12,0:01:09.36,P,,0,0,0,,DÍAS {\c&H00D4FF&\fscx110\fscy110}DESDE{\r} QUE LE
+Dialogue: 0,0:01:09.36,0:01:09.58,P,,0,0,0,,DÍAS DESDE {\c&H00D4FF&\fscx110\fscy110}QUE{\r} LE
+Dialogue: 0,0:01:09.58,0:01:09.66,P,,0,0,0,,DÍAS DESDE QUE {\c&H00D4FF&\fscx110\fscy110}LE{\r}
+Dialogue: 0,0:01:09.66,0:01:10.16,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}COMUNICAS{\r} QUE DESISTES.
+Dialogue: 0,0:01:10.16,0:01:10.32,P,,0,0,0,,COMUNICAS {\c&H00D4FF&\fscx110\fscy110}QUE{\r} DESISTES.
+Dialogue: 0,0:01:10.32,0:01:11.46,P,,0,0,0,,COMUNICAS QUE {\c&H00D4FF&\fscx110\fscy110}DESISTES.{\r}
+Dialogue: 0,0:01:11.46,0:01:11.68,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ESO{\r} SÍ:
+Dialogue: 0,0:01:11.68,0:01:12.34,P,,0,0,0,,ESO {\c&H00D4FF&\fscx110\fscy110}SÍ:{\r}
+Dialogue: 0,0:01:12.34,0:01:12.56,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}PUEDE{\r} ESPERAR A RECIBIR
+Dialogue: 0,0:01:12.56,0:01:12.92,P,,0,0,0,,PUEDE {\c&H00D4FF&\fscx110\fscy110}ESPERAR{\r} A RECIBIR
+Dialogue: 0,0:01:12.92,0:01:13.04,P,,0,0,0,,PUEDE ESPERAR {\c&H00D4FF&\fscx110\fscy110}A{\r} RECIBIR
+Dialogue: 0,0:01:13.04,0:01:13.26,P,,0,0,0,,PUEDE ESPERAR A {\c&H00D4FF&\fscx110\fscy110}RECIBIR{\r}
+Dialogue: 0,0:01:13.26,0:01:13.52,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EL{\r} PRODUCTO,
+Dialogue: 0,0:01:13.52,0:01:13.86,P,,0,0,0,,EL {\c&H00D4FF&\fscx110\fscy110}PRODUCTO,{\r}
+Dialogue: 0,0:01:13.86,0:01:14.44,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}O{\r} A QUE LE
+Dialogue: 0,0:01:14.44,0:01:14.54,P,,0,0,0,,O {\c&H00D4FF&\fscx110\fscy110}A{\r} QUE LE
+Dialogue: 0,0:01:14.54,0:01:14.60,P,,0,0,0,,O A {\c&H00D4FF&\fscx110\fscy110}QUE{\r} LE
+Dialogue: 0,0:01:14.60,0:01:14.70,P,,0,0,0,,O A QUE {\c&H00D4FF&\fscx110\fscy110}LE{\r}
+Dialogue: 0,0:01:14.70,0:01:15.16,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ENSEÑES{\r} UNA PRUEBA DE
+Dialogue: 0,0:01:15.16,0:01:15.36,P,,0,0,0,,ENSEÑES {\c&H00D4FF&\fscx110\fscy110}UNA{\r} PRUEBA DE
+Dialogue: 0,0:01:15.36,0:01:15.62,P,,0,0,0,,ENSEÑES UNA {\c&H00D4FF&\fscx110\fscy110}PRUEBA{\r} DE
+Dialogue: 0,0:01:15.62,0:01:15.82,P,,0,0,0,,ENSEÑES UNA PRUEBA {\c&H00D4FF&\fscx110\fscy110}DE{\r}
+Dialogue: 0,0:01:15.82,0:01:15.90,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}QUE{\r} LO HAS ENVIADO.
+Dialogue: 0,0:01:15.90,0:01:16.04,P,,0,0,0,,QUE {\c&H00D4FF&\fscx110\fscy110}LO{\r} HAS ENVIADO.
+Dialogue: 0,0:01:16.04,0:01:16.18,P,,0,0,0,,QUE LO {\c&H00D4FF&\fscx110\fscy110}HAS{\r} ENVIADO.
+Dialogue: 0,0:01:16.18,0:01:17.24,P,,0,0,0,,QUE LO HAS {\c&H00D4FF&\fscx110\fscy110}ENVIADO.{\r}
+Dialogue: 0,0:01:17.24,0:01:17.44,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}HAY{\r} EXCEPCIONES.
+Dialogue: 0,0:01:17.44,0:01:18.60,P,,0,0,0,,HAY {\c&H00D4FF&\fscx110\fscy110}EXCEPCIONES.{\r}
+Dialogue: 0,0:01:18.60,0:01:18.78,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}NO{\r} SE PUEDEN DEVOLVER,
+Dialogue: 0,0:01:18.78,0:01:18.92,P,,0,0,0,,NO {\c&H00D4FF&\fscx110\fscy110}SE{\r} PUEDEN DEVOLVER,
+Dialogue: 0,0:01:18.92,0:01:19.16,P,,0,0,0,,NO SE {\c&H00D4FF&\fscx110\fscy110}PUEDEN{\r} DEVOLVER,
+Dialogue: 0,0:01:19.16,0:01:19.86,P,,0,0,0,,NO SE PUEDEN {\c&H00D4FF&\fscx110\fscy110}DEVOLVER,{\r}
+Dialogue: 0,0:01:19.86,0:01:20.00,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}POR{\r} ESTA VÍA,
+Dialogue: 0,0:01:20.00,0:01:20.18,P,,0,0,0,,POR {\c&H00D4FF&\fscx110\fscy110}ESTA{\r} VÍA,
+Dialogue: 0,0:01:20.18,0:01:20.86,P,,0,0,0,,POR ESTA {\c&H00D4FF&\fscx110\fscy110}VÍA,{\r}
+Dialogue: 0,0:01:20.86,0:01:21.00,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LOS{\r} PRODUCTOS HECHOS A
+Dialogue: 0,0:01:21.00,0:01:21.36,P,,0,0,0,,LOS {\c&H00D4FF&\fscx110\fscy110}PRODUCTOS{\r} HECHOS A
+Dialogue: 0,0:01:21.36,0:01:21.72,P,,0,0,0,,LOS PRODUCTOS {\c&H00D4FF&\fscx110\fscy110}HECHOS{\r} A
+Dialogue: 0,0:01:21.72,0:01:21.86,P,,0,0,0,,LOS PRODUCTOS HECHOS {\c&H00D4FF&\fscx110\fscy110}A{\r}
+Dialogue: 0,0:01:21.86,0:01:22.10,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MEDIDA{\r} O CLARAMENTE PERSONALIZADOS,
+Dialogue: 0,0:01:22.10,0:01:22.50,P,,0,0,0,,MEDIDA {\c&H00D4FF&\fscx110\fscy110}O{\r} CLARAMENTE PERSONALIZADOS,
+Dialogue: 0,0:01:22.50,0:01:22.94,P,,0,0,0,,MEDIDA O {\c&H00D4FF&\fscx110\fscy110}CLARAMENTE{\r} PERSONALIZADOS,
+Dialogue: 0,0:01:22.94,0:01:24.16,P,,0,0,0,,MEDIDA O CLARAMENTE {\c&H00D4FF&\fscx110\fscy110}PERSONALIZADOS,{\r}
+Dialogue: 0,0:01:24.16,0:01:24.44,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LOS{\r} QUE SE ESTROPEAN
+Dialogue: 0,0:01:24.44,0:01:24.58,P,,0,0,0,,LOS {\c&H00D4FF&\fscx110\fscy110}QUE{\r} SE ESTROPEAN
+Dialogue: 0,0:01:24.58,0:01:24.72,P,,0,0,0,,LOS QUE {\c&H00D4FF&\fscx110\fscy110}SE{\r} ESTROPEAN
+Dialogue: 0,0:01:24.72,0:01:25.24,P,,0,0,0,,LOS QUE SE {\c&H00D4FF&\fscx110\fscy110}ESTROPEAN{\r}
+Dialogue: 0,0:01:25.24,0:01:25.32,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}O{\r} CADUCAN RÁPIDO,
+Dialogue: 0,0:01:25.32,0:01:25.68,P,,0,0,0,,O {\c&H00D4FF&\fscx110\fscy110}CADUCAN{\r} RÁPIDO,
+Dialogue: 0,0:01:25.68,0:01:26.52,P,,0,0,0,,O CADUCAN {\c&H00D4FF&\fscx110\fscy110}RÁPIDO,{\r}
+Dialogue: 0,0:01:26.52,0:01:26.70,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LOS{\r} PRECINTADOS QUE NO
+Dialogue: 0,0:01:26.70,0:01:27.28,P,,0,0,0,,LOS {\c&H00D4FF&\fscx110\fscy110}PRECINTADOS{\r} QUE NO
+Dialogue: 0,0:01:27.28,0:01:27.50,P,,0,0,0,,LOS PRECINTADOS {\c&H00D4FF&\fscx110\fscy110}QUE{\r} NO
+Dialogue: 0,0:01:27.50,0:01:27.64,P,,0,0,0,,LOS PRECINTADOS QUE {\c&H00D4FF&\fscx110\fscy110}NO{\r}
+Dialogue: 0,0:01:27.64,0:01:27.76,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SE{\r} PUEDEN DEVOLVER POR
+Dialogue: 0,0:01:27.76,0:01:27.98,P,,0,0,0,,SE {\c&H00D4FF&\fscx110\fscy110}PUEDEN{\r} DEVOLVER POR
+Dialogue: 0,0:01:27.98,0:01:28.40,P,,0,0,0,,SE PUEDEN {\c&H00D4FF&\fscx110\fscy110}DEVOLVER{\r} POR
+Dialogue: 0,0:01:28.40,0:01:28.60,P,,0,0,0,,SE PUEDEN DEVOLVER {\c&H00D4FF&\fscx110\fscy110}POR{\r}
+Dialogue: 0,0:01:28.60,0:01:28.92,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}RAZONES{\r} DE HIGIENE O
+Dialogue: 0,0:01:28.92,0:01:29.12,P,,0,0,0,,RAZONES {\c&H00D4FF&\fscx110\fscy110}DE{\r} HIGIENE O
+Dialogue: 0,0:01:29.12,0:01:29.44,P,,0,0,0,,RAZONES DE {\c&H00D4FF&\fscx110\fscy110}HIGIENE{\r} O
+Dialogue: 0,0:01:29.44,0:01:29.58,P,,0,0,0,,RAZONES DE HIGIENE {\c&H00D4FF&\fscx110\fscy110}O{\r}
+Dialogue: 0,0:01:29.58,0:01:29.86,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SALUD{\r} Y QUE YA
+Dialogue: 0,0:01:29.86,0:01:30.14,P,,0,0,0,,SALUD {\c&H00D4FF&\fscx110\fscy110}Y{\r} QUE YA
+Dialogue: 0,0:01:30.14,0:01:30.26,P,,0,0,0,,SALUD Y {\c&H00D4FF&\fscx110\fscy110}QUE{\r} YA
+Dialogue: 0,0:01:30.26,0:01:30.42,P,,0,0,0,,SALUD Y QUE {\c&H00D4FF&\fscx110\fscy110}YA{\r}
+Dialogue: 0,0:01:30.42,0:01:30.54,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}HAS{\r} ABIERTO,
+Dialogue: 0,0:01:30.54,0:01:31.42,P,,0,0,0,,HAS {\c&H00D4FF&\fscx110\fscy110}ABIERTO,{\r}
+Dialogue: 0,0:01:31.42,0:01:31.60,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}NI{\r} LOS DISCOS O
+Dialogue: 0,0:01:31.60,0:01:31.78,P,,0,0,0,,NI {\c&H00D4FF&\fscx110\fscy110}LOS{\r} DISCOS O
+Dialogue: 0,0:01:31.78,0:01:31.93,P,,0,0,0,,NI LOS {\c&H00D4FF&\fscx110\fscy110}DISCOS{\r} O
+Dialogue: 0,0:01:31.93,0:01:32.22,P,,0,0,0,,NI LOS DISCOS {\c&H00D4FF&\fscx110\fscy110}O{\r}
+Dialogue: 0,0:01:32.22,0:01:32.70,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}PROGRAMAS{\r} PRECINTADOS QUE HAS
+Dialogue: 0,0:01:32.70,0:01:33.24,P,,0,0,0,,PROGRAMAS {\c&H00D4FF&\fscx110\fscy110}PRECINTADOS{\r} QUE HAS
+Dialogue: 0,0:01:33.24,0:01:33.50,P,,0,0,0,,PROGRAMAS PRECINTADOS {\c&H00D4FF&\fscx110\fscy110}QUE{\r} HAS
+Dialogue: 0,0:01:33.50,0:01:33.66,P,,0,0,0,,PROGRAMAS PRECINTADOS QUE {\c&H00D4FF&\fscx110\fscy110}HAS{\r}
+Dialogue: 0,0:01:33.66,0:01:34.92,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DESPRECINTADO.{\r}
+Dialogue: 0,0:01:34.92,0:01:35.10,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} TÚ TAMBIÉN TIENES
+Dialogue: 0,0:01:35.10,0:01:35.22,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}TÚ{\r} TAMBIÉN TIENES
+Dialogue: 0,0:01:35.22,0:01:35.52,P,,0,0,0,,Y TÚ {\c&H00D4FF&\fscx110\fscy110}TAMBIÉN{\r} TIENES
+Dialogue: 0,0:01:35.52,0:01:35.86,P,,0,0,0,,Y TÚ TAMBIÉN {\c&H00D4FF&\fscx110\fscy110}TIENES{\r}
+Dialogue: 0,0:01:35.86,0:01:37.20,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}OBLIGACIONES.{\r}
+Dialogue: 0,0:01:37.20,0:01:37.52,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}TIENES{\r} QUE DEVOLVER EL
+Dialogue: 0,0:01:37.52,0:01:37.62,P,,0,0,0,,TIENES {\c&H00D4FF&\fscx110\fscy110}QUE{\r} DEVOLVER EL
+Dialogue: 0,0:01:37.62,0:01:37.96,P,,0,0,0,,TIENES QUE {\c&H00D4FF&\fscx110\fscy110}DEVOLVER{\r} EL
+Dialogue: 0,0:01:37.96,0:01:38.10,P,,0,0,0,,TIENES QUE DEVOLVER {\c&H00D4FF&\fscx110\fscy110}EL{\r}
+Dialogue: 0,0:01:38.10,0:01:38.44,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}PRODUCTO{\r} A MÁS TARDAR
+Dialogue: 0,0:01:38.44,0:01:38.76,P,,0,0,0,,PRODUCTO {\c&H00D4FF&\fscx110\fscy110}A{\r} MÁS TARDAR
+Dialogue: 0,0:01:38.76,0:01:38.96,P,,0,0,0,,PRODUCTO A {\c&H00D4FF&\fscx110\fscy110}MÁS{\r} TARDAR
+Dialogue: 0,0:01:38.96,0:01:39.30,P,,0,0,0,,PRODUCTO A MÁS {\c&H00D4FF&\fscx110\fscy110}TARDAR{\r}
+Dialogue: 0,0:01:39.30,0:01:39.40,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EN{\r} CATORCE DÍAS DESDE
+Dialogue: 0,0:01:39.40,0:01:39.68,P,,0,0,0,,EN {\c&H00D4FF&\fscx110\fscy110}CATORCE{\r} DÍAS DESDE
+Dialogue: 0,0:01:39.68,0:01:40.10,P,,0,0,0,,EN CATORCE {\c&H00D4FF&\fscx110\fscy110}DÍAS{\r} DESDE
+Dialogue: 0,0:01:40.10,0:01:40.34,P,,0,0,0,,EN CATORCE DÍAS {\c&H00D4FF&\fscx110\fscy110}DESDE{\r}
+Dialogue: 0,0:01:40.34,0:01:40.56,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}QUE{\r} COMUNICAS QUE DESISTES.
+Dialogue: 0,0:01:40.56,0:01:41.02,P,,0,0,0,,QUE {\c&H00D4FF&\fscx110\fscy110}COMUNICAS{\r} QUE DESISTES.
+Dialogue: 0,0:01:41.02,0:01:41.18,P,,0,0,0,,QUE COMUNICAS {\c&H00D4FF&\fscx110\fscy110}QUE{\r} DESISTES.
+Dialogue: 0,0:01:41.18,0:01:42.28,P,,0,0,0,,QUE COMUNICAS QUE {\c&H00D4FF&\fscx110\fscy110}DESISTES.{\r}
+Dialogue: 0,0:01:42.28,0:01:42.48,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LOS{\r} COSTES DIRECTOS DE
+Dialogue: 0,0:01:42.48,0:01:42.84,P,,0,0,0,,LOS {\c&H00D4FF&\fscx110\fscy110}COSTES{\r} DIRECTOS DE
+Dialogue: 0,0:01:42.84,0:01:43.26,P,,0,0,0,,LOS COSTES {\c&H00D4FF&\fscx110\fscy110}DIRECTOS{\r} DE
+Dialogue: 0,0:01:43.26,0:01:43.36,P,,0,0,0,,LOS COSTES DIRECTOS {\c&H00D4FF&\fscx110\fscy110}DE{\r}
+Dialogue: 0,0:01:43.36,0:01:43.44,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LA{\r} DEVOLUCIÓN CORREN DE
+Dialogue: 0,0:01:43.44,0:01:43.88,P,,0,0,0,,LA {\c&H00D4FF&\fscx110\fscy110}DEVOLUCIÓN{\r} CORREN DE
+Dialogue: 0,0:01:43.88,0:01:44.58,P,,0,0,0,,LA DEVOLUCIÓN {\c&H00D4FF&\fscx110\fscy110}CORREN{\r} DE
+Dialogue: 0,0:01:44.58,0:01:44.70,P,,0,0,0,,LA DEVOLUCIÓN CORREN {\c&H00D4FF&\fscx110\fscy110}DE{\r}
+Dialogue: 0,0:01:44.70,0:01:44.80,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}TU{\r} CUENTA,
+Dialogue: 0,0:01:44.80,0:01:45.40,P,,0,0,0,,TU {\c&H00D4FF&\fscx110\fscy110}CUENTA,{\r}
+Dialogue: 0,0:01:45.40,0:01:45.80,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SALVO{\r} QUE LA TIENDA
+Dialogue: 0,0:01:45.80,0:01:45.90,P,,0,0,0,,SALVO {\c&H00D4FF&\fscx110\fscy110}QUE{\r} LA TIENDA
+Dialogue: 0,0:01:45.90,0:01:46.02,P,,0,0,0,,SALVO QUE {\c&H00D4FF&\fscx110\fscy110}LA{\r} TIENDA
+Dialogue: 0,0:01:46.02,0:01:46.24,P,,0,0,0,,SALVO QUE LA {\c&H00D4FF&\fscx110\fscy110}TIENDA{\r}
+Dialogue: 0,0:01:46.24,0:01:46.46,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SE{\r} HAYA OFRECIDO A
+Dialogue: 0,0:01:46.46,0:01:46.58,P,,0,0,0,,SE {\c&H00D4FF&\fscx110\fscy110}HAYA{\r} OFRECIDO A
+Dialogue: 0,0:01:46.58,0:01:46.98,P,,0,0,0,,SE HAYA {\c&H00D4FF&\fscx110\fscy110}OFRECIDO{\r} A
+Dialogue: 0,0:01:46.98,0:01:47.14,P,,0,0,0,,SE HAYA OFRECIDO {\c&H00D4FF&\fscx110\fscy110}A{\r}
+Dialogue: 0,0:01:47.14,0:01:47.64,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ASUMIRLOS{\r} O NO TE
+Dialogue: 0,0:01:47.64,0:01:48.02,P,,0,0,0,,ASUMIRLOS {\c&H00D4FF&\fscx110\fscy110}O{\r} NO TE
+Dialogue: 0,0:01:48.02,0:01:48.12,P,,0,0,0,,ASUMIRLOS O {\c&H00D4FF&\fscx110\fscy110}NO{\r} TE
+Dialogue: 0,0:01:48.12,0:01:48.26,P,,0,0,0,,ASUMIRLOS O NO {\c&H00D4FF&\fscx110\fscy110}TE{\r}
+Dialogue: 0,0:01:48.26,0:01:48.38,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}HAYA{\r} INFORMADO DE QUE
+Dialogue: 0,0:01:48.38,0:01:48.86,P,,0,0,0,,HAYA {\c&H00D4FF&\fscx110\fscy110}INFORMADO{\r} DE QUE
+Dialogue: 0,0:01:48.86,0:01:49.02,P,,0,0,0,,HAYA INFORMADO {\c&H00D4FF&\fscx110\fscy110}DE{\r} QUE
+Dialogue: 0,0:01:49.02,0:01:49.10,P,,0,0,0,,HAYA INFORMADO DE {\c&H00D4FF&\fscx110\fscy110}QUE{\r}
+Dialogue: 0,0:01:49.10,0:01:49.24,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}TE{\r} TOCABAN A TI.
+Dialogue: 0,0:01:49.24,0:01:49.58,P,,0,0,0,,TE {\c&H00D4FF&\fscx110\fscy110}TOCABAN{\r} A TI.
+Dialogue: 0,0:01:49.58,0:01:49.70,P,,0,0,0,,TE TOCABAN {\c&H00D4FF&\fscx110\fscy110}A{\r} TI.
+Dialogue: 0,0:01:49.70,0:01:50.36,P,,0,0,0,,TE TOCABAN A {\c&H00D4FF&\fscx110\fscy110}TI.{\r}
+Dialogue: 0,0:01:50.36,0:01:50.70,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SOLO{\r} RESPONDES DE LA
+Dialogue: 0,0:01:50.70,0:01:51.26,P,,0,0,0,,SOLO {\c&H00D4FF&\fscx110\fscy110}RESPONDES{\r} DE LA
+Dialogue: 0,0:01:51.26,0:01:51.38,P,,0,0,0,,SOLO RESPONDES {\c&H00D4FF&\fscx110\fscy110}DE{\r} LA
+Dialogue: 0,0:01:51.38,0:01:51.48,P,,0,0,0,,SOLO RESPONDES DE {\c&H00D4FF&\fscx110\fscy110}LA{\r}
+Dialogue: 0,0:01:51.48,0:01:51.82,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}PÉRDIDA{\r} DE VALOR SI
+Dialogue: 0,0:01:51.82,0:01:51.94,P,,0,0,0,,PÉRDIDA {\c&H00D4FF&\fscx110\fscy110}DE{\r} VALOR SI
+Dialogue: 0,0:01:51.94,0:01:52.18,P,,0,0,0,,PÉRDIDA DE {\c&H00D4FF&\fscx110\fscy110}VALOR{\r} SI
+Dialogue: 0,0:01:52.18,0:01:52.70,P,,0,0,0,,PÉRDIDA DE VALOR {\c&H00D4FF&\fscx110\fscy110}SI{\r}
+Dialogue: 0,0:01:52.70,0:01:52.82,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}HAS{\r} MANIPULADO EL PRODUCTO
+Dialogue: 0,0:01:52.82,0:01:53.28,P,,0,0,0,,HAS {\c&H00D4FF&\fscx110\fscy110}MANIPULADO{\r} EL PRODUCTO
+Dialogue: 0,0:01:53.28,0:01:53.44,P,,0,0,0,,HAS MANIPULADO {\c&H00D4FF&\fscx110\fscy110}EL{\r} PRODUCTO
+Dialogue: 0,0:01:53.44,0:01:53.74,P,,0,0,0,,HAS MANIPULADO EL {\c&H00D4FF&\fscx110\fscy110}PRODUCTO{\r}
+Dialogue: 0,0:01:53.74,0:01:54.20,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MÁS{\r} DE LO NECESARIO
+Dialogue: 0,0:01:54.20,0:01:54.34,P,,0,0,0,,MÁS {\c&H00D4FF&\fscx110\fscy110}DE{\r} LO NECESARIO
+Dialogue: 0,0:01:54.34,0:01:54.42,P,,0,0,0,,MÁS DE {\c&H00D4FF&\fscx110\fscy110}LO{\r} NECESARIO
+Dialogue: 0,0:01:54.42,0:01:54.80,P,,0,0,0,,MÁS DE LO {\c&H00D4FF&\fscx110\fscy110}NECESARIO{\r}
+Dialogue: 0,0:01:54.80,0:01:55.12,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}PARA{\r} COMPROBAR CÓMO ES
+Dialogue: 0,0:01:55.12,0:01:55.58,P,,0,0,0,,PARA {\c&H00D4FF&\fscx110\fscy110}COMPROBAR{\r} CÓMO ES
+Dialogue: 0,0:01:55.58,0:01:55.86,P,,0,0,0,,PARA COMPROBAR {\c&H00D4FF&\fscx110\fscy110}CÓMO{\r} ES
+Dialogue: 0,0:01:55.86,0:01:56.14,P,,0,0,0,,PARA COMPROBAR CÓMO {\c&H00D4FF&\fscx110\fscy110}ES{\r}
+Dialogue: 0,0:01:56.14,0:01:56.34,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} CÓMO FUNCIONA.
+Dialogue: 0,0:01:56.34,0:01:56.58,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}CÓMO{\r} FUNCIONA.
+Dialogue: 0,0:01:56.58,0:01:57.76,P,,0,0,0,,Y CÓMO {\c&H00D4FF&\fscx110\fscy110}FUNCIONA.{\r}
+Dialogue: 0,0:01:57.76,0:01:57.88,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} LA CARGA DE
+Dialogue: 0,0:01:57.88,0:01:57.98,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}LA{\r} CARGA DE
+Dialogue: 0,0:01:57.98,0:01:58.18,P,,0,0,0,,Y LA {\c&H00D4FF&\fscx110\fscy110}CARGA{\r} DE
+Dialogue: 0,0:01:58.18,0:01:58.36,P,,0,0,0,,Y LA CARGA {\c&H00D4FF&\fscx110\fscy110}DE{\r}
+Dialogue: 0,0:01:58.36,0:01:58.46,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LA{\r} PRUEBA DE QUE
+Dialogue: 0,0:01:58.46,0:01:58.68,P,,0,0,0,,LA {\c&H00D4FF&\fscx110\fscy110}PRUEBA{\r} DE QUE
+Dialogue: 0,0:01:58.68,0:01:58.86,P,,0,0,0,,LA PRUEBA {\c&H00D4FF&\fscx110\fscy110}DE{\r} QUE
+Dialogue: 0,0:01:58.86,0:01:58.96,P,,0,0,0,,LA PRUEBA DE {\c&H00D4FF&\fscx110\fscy110}QUE{\r}
+Dialogue: 0,0:01:58.96,0:01:59.10,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}HAS{\r} DESISTIDO ES TUYA:
+Dialogue: 0,0:01:59.10,0:01:59.60,P,,0,0,0,,HAS {\c&H00D4FF&\fscx110\fscy110}DESISTIDO{\r} ES TUYA:
+Dialogue: 0,0:01:59.60,0:02:00.12,P,,0,0,0,,HAS DESISTIDO {\c&H00D4FF&\fscx110\fscy110}ES{\r} TUYA:
+Dialogue: 0,0:02:00.12,0:02:00.86,P,,0,0,0,,HAS DESISTIDO ES {\c&H00D4FF&\fscx110\fscy110}TUYA:{\r}
+Dialogue: 0,0:02:00.86,0:02:01.18,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}GUARDA{\r} EL JUSTIFICANTE.
+Dialogue: 0,0:02:01.18,0:02:01.24,P,,0,0,0,,GUARDA {\c&H00D4FF&\fscx110\fscy110}EL{\r} JUSTIFICANTE.
+Dialogue: 0,0:02:01.24,0:02:02.56,P,,0,0,0,,GUARDA EL {\c&H00D4FF&\fscx110\fscy110}JUSTIFICANTE.{\r}
+Dialogue: 0,0:02:02.56,0:02:02.90,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}AHORA,{\r}
+Dialogue: 0,0:02:02.90,0:02:03.10,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LA{\r} PREGUNTA:
+Dialogue: 0,0:02:03.10,0:02:04.12,P,,0,0,0,,LA {\c&H00D4FF&\fscx110\fscy110}PREGUNTA:{\r}
+Dialogue: 0,0:02:04.12,0:02:04.24,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}¿QUÉ{\r} PASA CON TU
+Dialogue: 0,0:02:04.24,0:02:04.54,P,,0,0,0,,¿QUÉ {\c&H00D4FF&\fscx110\fscy110}PASA{\r} CON TU
+Dialogue: 0,0:02:04.54,0:02:04.74,P,,0,0,0,,¿QUÉ PASA {\c&H00D4FF&\fscx110\fscy110}CON{\r} TU
+Dialogue: 0,0:02:04.74,0:02:04.84,P,,0,0,0,,¿QUÉ PASA CON {\c&H00D4FF&\fscx110\fscy110}TU{\r}
+Dialogue: 0,0:02:04.84,0:02:05.82,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}PAQUETE?{\r}
+Dialogue: 0,0:02:05.82,0:02:06.18,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SEGÚN{\r} AMAZON,
+Dialogue: 0,0:02:06.18,0:02:06.98,P,,0,0,0,,SEGÚN {\c&H00D4FF&\fscx110\fscy110}AMAZON,{\r}
+Dialogue: 0,0:02:06.98,0:02:07.08,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EN{\r} UN COMUNICADO PUBLICADO
+Dialogue: 0,0:02:07.08,0:02:07.20,P,,0,0,0,,EN {\c&H00D4FF&\fscx110\fscy110}UN{\r} COMUNICADO PUBLICADO
+Dialogue: 0,0:02:07.20,0:02:07.70,P,,0,0,0,,EN UN {\c&H00D4FF&\fscx110\fscy110}COMUNICADO{\r} PUBLICADO
+Dialogue: 0,0:02:07.70,0:02:08.20,P,,0,0,0,,EN UN COMUNICADO {\c&H00D4FF&\fscx110\fscy110}PUBLICADO{\r}
+Dialogue: 0,0:02:08.20,0:02:08.30,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EN{\r} OCTUBRE DE DOS
+Dialogue: 0,0:02:08.30,0:02:08.66,P,,0,0,0,,EN {\c&H00D4FF&\fscx110\fscy110}OCTUBRE{\r} DE DOS
+Dialogue: 0,0:02:08.66,0:02:08.78,P,,0,0,0,,EN OCTUBRE {\c&H00D4FF&\fscx110\fscy110}DE{\r} DOS
+Dialogue: 0,0:02:08.78,0:02:09.09,P,,0,0,0,,EN OCTUBRE DE {\c&H00D4FF&\fscx110\fscy110}DOS{\r}
+Dialogue: 0,0:02:09.09,0:02:09.39,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MIL{\r} VEINTIUNO,
+Dialogue: 0,0:02:09.39,0:02:10.00,P,,0,0,0,,MIL {\c&H00D4FF&\fscx110\fscy110}VEINTIUNO,{\r}
+Dialogue: 0,0:02:10.00,0:02:10.18,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CADA{\r} ARTÍCULO DEVUELTO PASA
+Dialogue: 0,0:02:10.18,0:02:10.62,P,,0,0,0,,CADA {\c&H00D4FF&\fscx110\fscy110}ARTÍCULO{\r} DEVUELTO PASA
+Dialogue: 0,0:02:10.62,0:02:11.10,P,,0,0,0,,CADA ARTÍCULO {\c&H00D4FF&\fscx110\fscy110}DEVUELTO{\r} PASA
+Dialogue: 0,0:02:11.10,0:02:11.46,P,,0,0,0,,CADA ARTÍCULO DEVUELTO {\c&H00D4FF&\fscx110\fscy110}PASA{\r}
+Dialogue: 0,0:02:11.46,0:02:11.72,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}POR{\r} UNA INSPECCIÓN DETALLADA.
+Dialogue: 0,0:02:11.72,0:02:11.84,P,,0,0,0,,POR {\c&H00D4FF&\fscx110\fscy110}UNA{\r} INSPECCIÓN DETALLADA.
+Dialogue: 0,0:02:11.84,0:02:12.32,P,,0,0,0,,POR UNA {\c&H00D4FF&\fscx110\fscy110}INSPECCIÓN{\r} DETALLADA.
+Dialogue: 0,0:02:12.32,0:02:13.38,P,,0,0,0,,POR UNA INSPECCIÓN {\c&H00D4FF&\fscx110\fscy110}DETALLADA.{\r}
+Dialogue: 0,0:02:13.38,0:02:13.64,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SI{\r} ESTÁ COMO NUEVO,
+Dialogue: 0,0:02:13.64,0:02:13.84,P,,0,0,0,,SI {\c&H00D4FF&\fscx110\fscy110}ESTÁ{\r} COMO NUEVO,
+Dialogue: 0,0:02:13.84,0:02:14.04,P,,0,0,0,,SI ESTÁ {\c&H00D4FF&\fscx110\fscy110}COMO{\r} NUEVO,
+Dialogue: 0,0:02:14.04,0:02:14.64,P,,0,0,0,,SI ESTÁ COMO {\c&H00D4FF&\fscx110\fscy110}NUEVO,{\r}
+Dialogue: 0,0:02:14.64,0:02:14.84,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SE{\r} ETIQUETA COMO NUEVO
+Dialogue: 0,0:02:14.84,0:02:15.22,P,,0,0,0,,SE {\c&H00D4FF&\fscx110\fscy110}ETIQUETA{\r} COMO NUEVO
+Dialogue: 0,0:02:15.22,0:02:15.42,P,,0,0,0,,SE ETIQUETA {\c&H00D4FF&\fscx110\fscy110}COMO{\r} NUEVO
+Dialogue: 0,0:02:15.42,0:02:15.68,P,,0,0,0,,SE ETIQUETA COMO {\c&H00D4FF&\fscx110\fscy110}NUEVO{\r}
+Dialogue: 0,0:02:15.68,0:02:16.04,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} SE VUELVE A
+Dialogue: 0,0:02:16.04,0:02:16.18,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}SE{\r} VUELVE A
+Dialogue: 0,0:02:16.18,0:02:16.46,P,,0,0,0,,Y SE {\c&H00D4FF&\fscx110\fscy110}VUELVE{\r} A
+Dialogue: 0,0:02:16.46,0:02:16.54,P,,0,0,0,,Y SE VUELVE {\c&H00D4FF&\fscx110\fscy110}A{\r}
+Dialogue: 0,0:02:16.54,0:02:16.74,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}PONER{\r} A LA VENTA.
+Dialogue: 0,0:02:16.74,0:02:16.84,P,,0,0,0,,PONER {\c&H00D4FF&\fscx110\fscy110}A{\r} LA VENTA.
+Dialogue: 0,0:02:16.84,0:02:16.92,P,,0,0,0,,PONER A {\c&H00D4FF&\fscx110\fscy110}LA{\r} VENTA.
+Dialogue: 0,0:02:16.92,0:02:17.78,P,,0,0,0,,PONER A LA {\c&H00D4FF&\fscx110\fscy110}VENTA.{\r}
+Dialogue: 0,0:02:17.78,0:02:18.04,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DE{\r} HECHO,
+Dialogue: 0,0:02:18.04,0:02:18.28,P,,0,0,0,,DE {\c&H00D4FF&\fscx110\fscy110}HECHO,{\r}
+Dialogue: 0,0:02:18.28,0:02:19.22,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DICE,{\r}
+Dialogue: 0,0:02:19.22,0:02:19.38,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LA{\r} MAYORÍA DE LOS
+Dialogue: 0,0:02:19.38,0:02:19.66,P,,0,0,0,,LA {\c&H00D4FF&\fscx110\fscy110}MAYORÍA{\r} DE LOS
+Dialogue: 0,0:02:19.66,0:02:19.88,P,,0,0,0,,LA MAYORÍA {\c&H00D4FF&\fscx110\fscy110}DE{\r} LOS
+Dialogue: 0,0:02:19.88,0:02:20.00,P,,0,0,0,,LA MAYORÍA DE {\c&H00D4FF&\fscx110\fscy110}LOS{\r}
+Dialogue: 0,0:02:20.00,0:02:20.36,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}PRODUCTOS{\r} DEVUELTOS SE PUEDEN
+Dialogue: 0,0:02:20.36,0:02:20.92,P,,0,0,0,,PRODUCTOS {\c&H00D4FF&\fscx110\fscy110}DEVUELTOS{\r} SE PUEDEN
+Dialogue: 0,0:02:20.92,0:02:21.24,P,,0,0,0,,PRODUCTOS DEVUELTOS {\c&H00D4FF&\fscx110\fscy110}SE{\r} PUEDEN
+Dialogue: 0,0:02:21.24,0:02:21.48,P,,0,0,0,,PRODUCTOS DEVUELTOS SE {\c&H00D4FF&\fscx110\fscy110}PUEDEN{\r}
+Dialogue: 0,0:02:21.48,0:02:21.74,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}VOLVER{\r} A VENDER ASÍ.
+Dialogue: 0,0:02:21.74,0:02:21.94,P,,0,0,0,,VOLVER {\c&H00D4FF&\fscx110\fscy110}A{\r} VENDER ASÍ.
+Dialogue: 0,0:02:21.94,0:02:22.12,P,,0,0,0,,VOLVER A {\c&H00D4FF&\fscx110\fscy110}VENDER{\r} ASÍ.
+Dialogue: 0,0:02:22.12,0:02:23.06,P,,0,0,0,,VOLVER A VENDER {\c&H00D4FF&\fscx110\fscy110}ASÍ.{\r}
+Dialogue: 0,0:02:23.06,0:02:23.34,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ES{\r} LO QUE CUENTA
+Dialogue: 0,0:02:23.34,0:02:23.50,P,,0,0,0,,ES {\c&H00D4FF&\fscx110\fscy110}LO{\r} QUE CUENTA
+Dialogue: 0,0:02:23.50,0:02:23.62,P,,0,0,0,,ES LO {\c&H00D4FF&\fscx110\fscy110}QUE{\r} CUENTA
+Dialogue: 0,0:02:23.62,0:02:23.84,P,,0,0,0,,ES LO QUE {\c&H00D4FF&\fscx110\fscy110}CUENTA{\r}
+Dialogue: 0,0:02:23.84,0:02:23.98,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LA{\r} EMPRESA;
+Dialogue: 0,0:02:23.98,0:02:24.80,P,,0,0,0,,LA {\c&H00D4FF&\fscx110\fscy110}EMPRESA;{\r}
+Dialogue: 0,0:02:24.80,0:02:25.00,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}NO{\r} HAY UNA CIFRA
+Dialogue: 0,0:02:25.00,0:02:25.14,P,,0,0,0,,NO {\c&H00D4FF&\fscx110\fscy110}HAY{\r} UNA CIFRA
+Dialogue: 0,0:02:25.14,0:02:25.26,P,,0,0,0,,NO HAY {\c&H00D4FF&\fscx110\fscy110}UNA{\r} CIFRA
+Dialogue: 0,0:02:25.26,0:02:25.56,P,,0,0,0,,NO HAY UNA {\c&H00D4FF&\fscx110\fscy110}CIFRA{\r}
+Dialogue: 0,0:02:25.56,0:02:25.88,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}PÚBLICA{\r} QUE LO CONFIRME.
+Dialogue: 0,0:02:25.88,0:02:26.04,P,,0,0,0,,PÚBLICA {\c&H00D4FF&\fscx110\fscy110}QUE{\r} LO CONFIRME.
+Dialogue: 0,0:02:26.04,0:02:26.16,P,,0,0,0,,PÚBLICA QUE {\c&H00D4FF&\fscx110\fscy110}LO{\r} CONFIRME.
+Dialogue: 0,0:02:26.16,0:02:27.08,P,,0,0,0,,PÚBLICA QUE LO {\c&H00D4FF&\fscx110\fscy110}CONFIRME.{\r}
+Dialogue: 0,0:02:27.08,0:02:27.40,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SI{\r} NO SE PUEDE
+Dialogue: 0,0:02:27.40,0:02:27.58,P,,0,0,0,,SI {\c&H00D4FF&\fscx110\fscy110}NO{\r} SE PUEDE
+Dialogue: 0,0:02:27.58,0:02:27.76,P,,0,0,0,,SI NO {\c&H00D4FF&\fscx110\fscy110}SE{\r} PUEDE
+Dialogue: 0,0:02:27.76,0:02:27.94,P,,0,0,0,,SI NO SE {\c&H00D4FF&\fscx110\fscy110}PUEDE{\r}
+Dialogue: 0,0:02:27.94,0:02:28.24,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}VENDER{\r} COMO NUEVO,
+Dialogue: 0,0:02:28.24,0:02:28.48,P,,0,0,0,,VENDER {\c&H00D4FF&\fscx110\fscy110}COMO{\r} NUEVO,
+Dialogue: 0,0:02:28.48,0:02:29.12,P,,0,0,0,,VENDER COMO {\c&H00D4FF&\fscx110\fscy110}NUEVO,{\r}
+Dialogue: 0,0:02:29.12,0:02:29.58,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DEPENDE{\r} DE QUIÉN SEA
+Dialogue: 0,0:02:29.58,0:02:29.86,P,,0,0,0,,DEPENDE {\c&H00D4FF&\fscx110\fscy110}DE{\r} QUIÉN SEA
+Dialogue: 0,0:02:29.86,0:02:30.14,P,,0,0,0,,DEPENDE DE {\c&H00D4FF&\fscx110\fscy110}QUIÉN{\r} SEA
+Dialogue: 0,0:02:30.14,0:02:30.48,P,,0,0,0,,DEPENDE DE QUIÉN {\c&H00D4FF&\fscx110\fscy110}SEA{\r}
+Dialogue: 0,0:02:30.48,0:02:30.64,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EL{\r} DUEÑO.
+Dialogue: 0,0:02:30.64,0:02:31.58,P,,0,0,0,,EL {\c&H00D4FF&\fscx110\fscy110}DUEÑO.{\r}
+Dialogue: 0,0:02:31.58,0:02:31.86,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SI{\r} ES DE AMAZON,
+Dialogue: 0,0:02:31.86,0:02:32.00,P,,0,0,0,,SI {\c&H00D4FF&\fscx110\fscy110}ES{\r} DE AMAZON,
+Dialogue: 0,0:02:32.00,0:02:32.08,P,,0,0,0,,SI ES {\c&H00D4FF&\fscx110\fscy110}DE{\r} AMAZON,
+Dialogue: 0,0:02:32.08,0:02:32.78,P,,0,0,0,,SI ES DE {\c&H00D4FF&\fscx110\fscy110}AMAZON,{\r}
+Dialogue: 0,0:02:32.78,0:02:32.88,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LAS{\r} OPCIONES SON DEVOLVERLO
+Dialogue: 0,0:02:32.88,0:02:33.26,P,,0,0,0,,LAS {\c&H00D4FF&\fscx110\fscy110}OPCIONES{\r} SON DEVOLVERLO
+Dialogue: 0,0:02:33.26,0:02:33.56,P,,0,0,0,,LAS OPCIONES {\c&H00D4FF&\fscx110\fscy110}SON{\r} DEVOLVERLO
+Dialogue: 0,0:02:33.56,0:02:34.56,P,,0,0,0,,LAS OPCIONES SON {\c&H00D4FF&\fscx110\fscy110}DEVOLVERLO{\r}
+Dialogue: 0,0:02:34.56,0:02:34.64,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}AL{\r} PROVEEDOR,
+Dialogue: 0,0:02:34.64,0:02:35.56,P,,0,0,0,,AL {\c&H00D4FF&\fscx110\fscy110}PROVEEDOR,{\r}
+Dialogue: 0,0:02:35.56,0:02:36.04,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}VENDERLO{\r} COMO USADO EN
+Dialogue: 0,0:02:36.04,0:02:36.22,P,,0,0,0,,VENDERLO {\c&H00D4FF&\fscx110\fscy110}COMO{\r} USADO EN
+Dialogue: 0,0:02:36.22,0:02:36.58,P,,0,0,0,,VENDERLO COMO {\c&H00D4FF&\fscx110\fscy110}USADO{\r} EN
+Dialogue: 0,0:02:36.58,0:02:36.70,P,,0,0,0,,VENDERLO COMO USADO {\c&H00D4FF&\fscx110\fscy110}EN{\r}
+Dialogue: 0,0:02:36.70,0:02:36.90,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}AMAZON{\r} SEGUNDA MANO,
+Dialogue: 0,0:02:36.90,0:02:37.40,P,,0,0,0,,AMAZON {\c&H00D4FF&\fscx110\fscy110}SEGUNDA{\r} MANO,
+Dialogue: 0,0:02:37.40,0:02:37.76,P,,0,0,0,,AMAZON SEGUNDA {\c&H00D4FF&\fscx110\fscy110}MANO,{\r}
+Dialogue: 0,0:02:37.76,0:02:38.14,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}O{\r} DONARLO.
+Dialogue: 0,0:02:38.14,0:02:39.22,P,,0,0,0,,O {\c&H00D4FF&\fscx110\fscy110}DONARLO.{\r}
+Dialogue: 0,0:02:39.22,0:02:39.54,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EN{\r} ESPAÑA,
+Dialogue: 0,0:02:39.54,0:02:39.86,P,,0,0,0,,EN {\c&H00D4FF&\fscx110\fscy110}ESPAÑA,{\r}
+Dialogue: 0,0:02:39.86,0:02:40.56,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DICE{\r} QUE DONA A
+Dialogue: 0,0:02:40.56,0:02:40.76,P,,0,0,0,,DICE {\c&H00D4FF&\fscx110\fscy110}QUE{\r} DONA A
+Dialogue: 0,0:02:40.76,0:02:40.96,P,,0,0,0,,DICE QUE {\c&H00D4FF&\fscx110\fscy110}DONA{\r} A
+Dialogue: 0,0:02:40.96,0:02:41.14,P,,0,0,0,,DICE QUE DONA {\c&H00D4FF&\fscx110\fscy110}A{\r}
+Dialogue: 0,0:02:41.14,0:02:41.32,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}VARIAS{\r} ONG,
+Dialogue: 0,0:02:41.32,0:02:42.20,P,,0,0,0,,VARIAS {\c&H00D4FF&\fscx110\fscy110}ONG,{\r}
+Dialogue: 0,0:02:42.20,0:02:42.40,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}COMO{\r} CRUZ ROJA.
+Dialogue: 0,0:02:42.40,0:02:42.70,P,,0,0,0,,COMO {\c&H00D4FF&\fscx110\fscy110}CRUZ{\r} ROJA.
+Dialogue: 0,0:02:42.70,0:02:43.02,P,,0,0,0,,COMO CRUZ {\c&H00D4FF&\fscx110\fscy110}ROJA.{\r}
+Dialogue: 0,0:02:43.02,0:02:43.80,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} SOLO SI NO
+Dialogue: 0,0:02:43.80,0:02:44.02,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}SOLO{\r} SI NO
+Dialogue: 0,0:02:44.02,0:02:44.30,P,,0,0,0,,Y SOLO {\c&H00D4FF&\fscx110\fscy110}SI{\r} NO
+Dialogue: 0,0:02:44.30,0:02:44.46,P,,0,0,0,,Y SOLO SI {\c&H00D4FF&\fscx110\fscy110}NO{\r}
+Dialogue: 0,0:02:44.46,0:02:44.66,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}QUEDA{\r} OTRA OPCIÓN,
+Dialogue: 0,0:02:44.66,0:02:44.92,P,,0,0,0,,QUEDA {\c&H00D4FF&\fscx110\fscy110}OTRA{\r} OPCIÓN,
+Dialogue: 0,0:02:44.92,0:02:45.66,P,,0,0,0,,QUEDA OTRA {\c&H00D4FF&\fscx110\fscy110}OPCIÓN,{\r}
+Dialogue: 0,0:02:45.66,0:02:45.78,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}POR{\r} EJEMPLO POR HIGIENE,
+Dialogue: 0,0:02:45.78,0:02:46.28,P,,0,0,0,,POR {\c&H00D4FF&\fscx110\fscy110}EJEMPLO{\r} POR HIGIENE,
+Dialogue: 0,0:02:46.28,0:02:46.33,P,,0,0,0,,POR EJEMPLO {\c&H00D4FF&\fscx110\fscy110}POR{\r} HIGIENE,
+Dialogue: 0,0:02:46.30,0:02:47.02,P,,0,0,0,,POR EJEMPLO POR {\c&H00D4FF&\fscx110\fscy110}HIGIENE,{\r}
+Dialogue: 0,0:02:47.02,0:02:47.08,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}POR{\r} MOTIVOS LEGALES O
+Dialogue: 0,0:02:47.08,0:02:47.48,P,,0,0,0,,POR {\c&H00D4FF&\fscx110\fscy110}MOTIVOS{\r} LEGALES O
+Dialogue: 0,0:02:47.48,0:02:47.86,P,,0,0,0,,POR MOTIVOS {\c&H00D4FF&\fscx110\fscy110}LEGALES{\r} O
+Dialogue: 0,0:02:47.86,0:02:48.24,P,,0,0,0,,POR MOTIVOS LEGALES {\c&H00D4FF&\fscx110\fscy110}O{\r}
+Dialogue: 0,0:02:48.24,0:02:48.48,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}PORQUE{\r} ESTÁ DAÑADO,
+Dialogue: 0,0:02:48.48,0:02:48.70,P,,0,0,0,,PORQUE {\c&H00D4FF&\fscx110\fscy110}ESTÁ{\r} DAÑADO,
+Dialogue: 0,0:02:48.70,0:02:49.44,P,,0,0,0,,PORQUE ESTÁ {\c&H00D4FF&\fscx110\fscy110}DAÑADO,{\r}
+Dialogue: 0,0:02:49.44,0:02:49.64,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SE{\r} DESECHA,
+Dialogue: 0,0:02:49.64,0:02:50.48,P,,0,0,0,,SE {\c&H00D4FF&\fscx110\fscy110}DESECHA,{\r}
+Dialogue: 0,0:02:50.48,0:02:50.94,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DESPUÉS{\r} DE RECICLAR TODO
+Dialogue: 0,0:02:50.94,0:02:51.08,P,,0,0,0,,DESPUÉS {\c&H00D4FF&\fscx110\fscy110}DE{\r} RECICLAR TODO
+Dialogue: 0,0:02:51.08,0:02:51.52,P,,0,0,0,,DESPUÉS DE {\c&H00D4FF&\fscx110\fscy110}RECICLAR{\r} TODO
+Dialogue: 0,0:02:51.52,0:02:51.86,P,,0,0,0,,DESPUÉS DE RECICLAR {\c&H00D4FF&\fscx110\fscy110}TODO{\r}
+Dialogue: 0,0:02:51.86,0:02:52.04,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LO{\r} RECICLABLE.
+Dialogue: 0,0:02:52.04,0:02:53.10,P,,0,0,0,,LO {\c&H00D4FF&\fscx110\fscy110}RECICLABLE.{\r}
+Dialogue: 0,0:02:53.10,0:02:53.58,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}PERO{\r} HAY UN DETALLE
+Dialogue: 0,0:02:53.58,0:02:53.78,P,,0,0,0,,PERO {\c&H00D4FF&\fscx110\fscy110}HAY{\r} UN DETALLE
+Dialogue: 0,0:02:53.78,0:02:53.90,P,,0,0,0,,PERO HAY {\c&H00D4FF&\fscx110\fscy110}UN{\r} DETALLE
+Dialogue: 0,0:02:53.90,0:02:54.26,P,,0,0,0,,PERO HAY UN {\c&H00D4FF&\fscx110\fscy110}DETALLE{\r}
+Dialogue: 0,0:02:54.26,0:02:55.48,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}IMPORTANTE.{\r}
+Dialogue: 0,0:02:55.48,0:02:55.96,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SEGÚN{\r} LA PROPIA AMAZON,
+Dialogue: 0,0:02:55.96,0:02:56.12,P,,0,0,0,,SEGÚN {\c&H00D4FF&\fscx110\fscy110}LA{\r} PROPIA AMAZON,
+Dialogue: 0,0:02:56.12,0:02:56.40,P,,0,0,0,,SEGÚN LA {\c&H00D4FF&\fscx110\fscy110}PROPIA{\r} AMAZON,
+Dialogue: 0,0:02:56.40,0:02:57.38,P,,0,0,0,,SEGÚN LA PROPIA {\c&H00D4FF&\fscx110\fscy110}AMAZON,{\r}
+Dialogue: 0,0:02:57.38,0:02:57.52,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MÁS{\r} DE LA MITAD
+Dialogue: 0,0:02:57.52,0:02:57.68,P,,0,0,0,,MÁS {\c&H00D4FF&\fscx110\fscy110}DE{\r} LA MITAD
+Dialogue: 0,0:02:57.68,0:02:57.78,P,,0,0,0,,MÁS DE {\c&H00D4FF&\fscx110\fscy110}LA{\r} MITAD
+Dialogue: 0,0:02:57.78,0:02:57.98,P,,0,0,0,,MÁS DE LA {\c&H00D4FF&\fscx110\fscy110}MITAD{\r}
+Dialogue: 0,0:02:57.98,0:02:58.16,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DE{\r} LOS PRODUCTOS QUE
+Dialogue: 0,0:02:58.16,0:02:58.26,P,,0,0,0,,DE {\c&H00D4FF&\fscx110\fscy110}LOS{\r} PRODUCTOS QUE
+Dialogue: 0,0:02:58.26,0:02:58.62,P,,0,0,0,,DE LOS {\c&H00D4FF&\fscx110\fscy110}PRODUCTOS{\r} QUE
+Dialogue: 0,0:02:58.62,0:02:58.86,P,,0,0,0,,DE LOS PRODUCTOS {\c&H00D4FF&\fscx110\fscy110}QUE{\r}
+Dialogue: 0,0:02:58.86,0:02:58.98,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SE{\r} VENDEN EN SU
+Dialogue: 0,0:02:58.98,0:02:59.20,P,,0,0,0,,SE {\c&H00D4FF&\fscx110\fscy110}VENDEN{\r} EN SU
+Dialogue: 0,0:02:59.20,0:02:59.38,P,,0,0,0,,SE VENDEN {\c&H00D4FF&\fscx110\fscy110}EN{\r} SU
+Dialogue: 0,0:02:59.38,0:02:59.48,P,,0,0,0,,SE VENDEN EN {\c&H00D4FF&\fscx110\fscy110}SU{\r}
+Dialogue: 0,0:02:59.48,0:02:59.96,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}PLATAFORMA{\r} EN TODO EL
+Dialogue: 0,0:02:59.96,0:03:00.16,P,,0,0,0,,PLATAFORMA {\c&H00D4FF&\fscx110\fscy110}EN{\r} TODO EL
+Dialogue: 0,0:03:00.16,0:03:00.32,P,,0,0,0,,PLATAFORMA EN {\c&H00D4FF&\fscx110\fscy110}TODO{\r} EL
+Dialogue: 0,0:03:00.32,0:03:00.46,P,,0,0,0,,PLATAFORMA EN TODO {\c&H00D4FF&\fscx110\fscy110}EL{\r}
+Dialogue: 0,0:03:00.46,0:03:00.70,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MUNDO{\r} SON DE VENDEDORES
+Dialogue: 0,0:03:00.70,0:03:01.26,P,,0,0,0,,MUNDO {\c&H00D4FF&\fscx110\fscy110}SON{\r} DE VENDEDORES
+Dialogue: 0,0:03:01.26,0:03:01.46,P,,0,0,0,,MUNDO SON {\c&H00D4FF&\fscx110\fscy110}DE{\r} VENDEDORES
+Dialogue: 0,0:03:01.46,0:03:01.92,P,,0,0,0,,MUNDO SON DE {\c&H00D4FF&\fscx110\fscy110}VENDEDORES{\r}
+Dialogue: 0,0:03:01.92,0:03:02.64,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}INDEPENDIENTES,{\r}
+Dialogue: 0,0:03:02.64,0:03:03.34,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} SON ELLOS LOS
+Dialogue: 0,0:03:03.34,0:03:03.56,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}SON{\r} ELLOS LOS
+Dialogue: 0,0:03:03.56,0:03:03.84,P,,0,0,0,,Y SON {\c&H00D4FF&\fscx110\fscy110}ELLOS{\r} LOS
+Dialogue: 0,0:03:03.84,0:03:04.08,P,,0,0,0,,Y SON ELLOS {\c&H00D4FF&\fscx110\fscy110}LOS{\r}
+Dialogue: 0,0:03:04.08,0:03:04.40,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DUEÑOS{\r} DEL INVENTARIO Y
+Dialogue: 0,0:03:04.40,0:03:04.54,P,,0,0,0,,DUEÑOS {\c&H00D4FF&\fscx110\fscy110}DEL{\r} INVENTARIO Y
+Dialogue: 0,0:03:04.54,0:03:05.02,P,,0,0,0,,DUEÑOS DEL {\c&H00D4FF&\fscx110\fscy110}INVENTARIO{\r} Y
+Dialogue: 0,0:03:05.02,0:03:05.54,P,,0,0,0,,DUEÑOS DEL INVENTARIO {\c&H00D4FF&\fscx110\fscy110}Y{\r}
+Dialogue: 0,0:03:05.54,0:03:05.66,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LOS{\r} QUE DECIDEN QUÉ
+Dialogue: 0,0:03:05.66,0:03:05.82,P,,0,0,0,,LOS {\c&H00D4FF&\fscx110\fscy110}QUE{\r} DECIDEN QUÉ
+Dialogue: 0,0:03:05.82,0:03:06.24,P,,0,0,0,,LOS QUE {\c&H00D4FF&\fscx110\fscy110}DECIDEN{\r} QUÉ
+Dialogue: 0,0:03:06.24,0:03:06.52,P,,0,0,0,,LOS QUE DECIDEN {\c&H00D4FF&\fscx110\fscy110}QUÉ{\r}
+Dialogue: 0,0:03:06.52,0:03:06.78,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}HACER{\r} CON LO QUE
+Dialogue: 0,0:03:06.78,0:03:07.00,P,,0,0,0,,HACER {\c&H00D4FF&\fscx110\fscy110}CON{\r} LO QUE
+Dialogue: 0,0:03:07.00,0:03:07.10,P,,0,0,0,,HACER CON {\c&H00D4FF&\fscx110\fscy110}LO{\r} QUE
+Dialogue: 0,0:03:07.10,0:03:07.18,P,,0,0,0,,HACER CON LO {\c&H00D4FF&\fscx110\fscy110}QUE{\r}
+Dialogue: 0,0:03:07.18,0:03:08.42,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DEVUELVES.{\r}
+Dialogue: 0,0:03:08.42,0:03:08.72,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}PARA{\r} ESO,
+Dialogue: 0,0:03:08.72,0:03:09.50,P,,0,0,0,,PARA {\c&H00D4FF&\fscx110\fscy110}ESO,{\r}
+Dialogue: 0,0:03:09.50,0:03:09.68,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}AMAZON{\r} LES OFRECE PROGRAMAS:
+Dialogue: 0,0:03:09.68,0:03:09.92,P,,0,0,0,,AMAZON {\c&H00D4FF&\fscx110\fscy110}LES{\r} OFRECE PROGRAMAS:
+Dialogue: 0,0:03:09.92,0:03:10.22,P,,0,0,0,,AMAZON LES {\c&H00D4FF&\fscx110\fscy110}OFRECE{\r} PROGRAMAS:
+Dialogue: 0,0:03:10.22,0:03:11.26,P,,0,0,0,,AMAZON LES OFRECE {\c&H00D4FF&\fscx110\fscy110}PROGRAMAS:{\r}
+Dialogue: 0,0:03:11.26,0:03:11.44,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}UNO{\r} SE LLAMA FBA
+Dialogue: 0,0:03:11.44,0:03:11.60,P,,0,0,0,,UNO {\c&H00D4FF&\fscx110\fscy110}SE{\r} LLAMA FBA
+Dialogue: 0,0:03:11.60,0:03:11.82,P,,0,0,0,,UNO SE {\c&H00D4FF&\fscx110\fscy110}LLAMA{\r} FBA
+Dialogue: 0,0:03:11.82,0:03:12.56,P,,0,0,0,,UNO SE LLAMA {\c&H00D4FF&\fscx110\fscy110}FBA{\r}
+Dialogue: 0,0:03:12.56,0:03:13.24,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LIQUIDATIONS,{\r}
+Dialogue: 0,0:03:13.24,0:03:13.78,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} PERMITE LIQUIDAR EL
+Dialogue: 0,0:03:13.78,0:03:14.10,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}PERMITE{\r} LIQUIDAR EL
+Dialogue: 0,0:03:14.10,0:03:14.58,P,,0,0,0,,Y PERMITE {\c&H00D4FF&\fscx110\fscy110}LIQUIDAR{\r} EL
+Dialogue: 0,0:03:14.58,0:03:14.70,P,,0,0,0,,Y PERMITE LIQUIDAR {\c&H00D4FF&\fscx110\fscy110}EL{\r}
+Dialogue: 0,0:03:14.70,0:03:15.18,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}INVENTARIO{\r} DEVUELTO O NO
+Dialogue: 0,0:03:15.18,0:03:15.64,P,,0,0,0,,INVENTARIO {\c&H00D4FF&\fscx110\fscy110}DEVUELTO{\r} O NO
+Dialogue: 0,0:03:15.64,0:03:15.92,P,,0,0,0,,INVENTARIO DEVUELTO {\c&H00D4FF&\fscx110\fscy110}O{\r} NO
+Dialogue: 0,0:03:15.92,0:03:16.04,P,,0,0,0,,INVENTARIO DEVUELTO O {\c&H00D4FF&\fscx110\fscy110}NO{\r}
+Dialogue: 0,0:03:16.04,0:03:16.48,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}VENDIDO{\r} A TRAVÉS DEL
+Dialogue: 0,0:03:16.48,0:03:16.94,P,,0,0,0,,VENDIDO {\c&H00D4FF&\fscx110\fscy110}A{\r} TRAVÉS DEL
+Dialogue: 0,0:03:16.94,0:03:17.20,P,,0,0,0,,VENDIDO A {\c&H00D4FF&\fscx110\fscy110}TRAVÉS{\r} DEL
+Dialogue: 0,0:03:17.20,0:03:17.42,P,,0,0,0,,VENDIDO A TRAVÉS {\c&H00D4FF&\fscx110\fscy110}DEL{\r}
+Dialogue: 0,0:03:17.42,0:03:17.66,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CANAL{\r} DE LIQUIDACIÓN MAYORISTA
+Dialogue: 0,0:03:17.66,0:03:17.82,P,,0,0,0,,CANAL {\c&H00D4FF&\fscx110\fscy110}DE{\r} LIQUIDACIÓN MAYORISTA
+Dialogue: 0,0:03:17.82,0:03:18.28,P,,0,0,0,,CANAL DE {\c&H00D4FF&\fscx110\fscy110}LIQUIDACIÓN{\r} MAYORISTA
+Dialogue: 0,0:03:18.28,0:03:18.82,P,,0,0,0,,CANAL DE LIQUIDACIÓN {\c&H00D4FF&\fscx110\fscy110}MAYORISTA{\r}
+Dialogue: 0,0:03:18.82,0:03:18.94,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DE{\r} AMAZON.
+Dialogue: 0,0:03:18.94,0:03:19.86,P,,0,0,0,,DE {\c&H00D4FF&\fscx110\fscy110}AMAZON.{\r}
+Dialogue: 0,0:03:19.86,0:03:20.20,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} OTRO,
+Dialogue: 0,0:03:20.20,0:03:20.82,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}OTRO,{\r}
+Dialogue: 0,0:03:20.82,0:03:21.34,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}FBA{\r} GRADE AND RESELL,
+Dialogue: 0,0:03:21.34,0:03:21.74,P,,0,0,0,,FBA {\c&H00D4FF&\fscx110\fscy110}GRADE{\r} AND RESELL,
+Dialogue: 0,0:03:21.74,0:03:21.92,P,,0,0,0,,FBA GRADE {\c&H00D4FF&\fscx110\fscy110}AND{\r} RESELL,
+Dialogue: 0,0:03:21.92,0:03:22.54,P,,0,0,0,,FBA GRADE AND {\c&H00D4FF&\fscx110\fscy110}RESELL,{\r}
+Dialogue: 0,0:03:22.54,0:03:22.80,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}PARA{\r} REVENDER LO DEVUELTO
+Dialogue: 0,0:03:22.80,0:03:23.06,P,,0,0,0,,PARA {\c&H00D4FF&\fscx110\fscy110}REVENDER{\r} LO DEVUELTO
+Dialogue: 0,0:03:23.06,0:03:23.33,P,,0,0,0,,PARA REVENDER {\c&H00D4FF&\fscx110\fscy110}LO{\r} DEVUELTO
+Dialogue: 0,0:03:23.33,0:03:23.86,P,,0,0,0,,PARA REVENDER LO {\c&H00D4FF&\fscx110\fscy110}DEVUELTO{\r}
+Dialogue: 0,0:03:23.86,0:03:24.06,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}COMO{\r} USADO.
+Dialogue: 0,0:03:24.06,0:03:25.12,P,,0,0,0,,COMO {\c&H00D4FF&\fscx110\fscy110}USADO.{\r}
+Dialogue: 0,0:03:25.12,0:03:25.46,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ES{\r} UNA DE LAS
+Dialogue: 0,0:03:25.46,0:03:25.66,P,,0,0,0,,ES {\c&H00D4FF&\fscx110\fscy110}UNA{\r} DE LAS
+Dialogue: 0,0:03:25.66,0:03:25.78,P,,0,0,0,,ES UNA {\c&H00D4FF&\fscx110\fscy110}DE{\r} LAS
+Dialogue: 0,0:03:25.78,0:03:25.92,P,,0,0,0,,ES UNA DE {\c&H00D4FF&\fscx110\fscy110}LAS{\r}
+Dialogue: 0,0:03:25.92,0:03:26.20,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}VÍAS{\r} POR LAS QUE
+Dialogue: 0,0:03:26.20,0:03:26.40,P,,0,0,0,,VÍAS {\c&H00D4FF&\fscx110\fscy110}POR{\r} LAS QUE
+Dialogue: 0,0:03:26.40,0:03:26.52,P,,0,0,0,,VÍAS POR {\c&H00D4FF&\fscx110\fscy110}LAS{\r} QUE
+Dialogue: 0,0:03:26.52,0:03:26.66,P,,0,0,0,,VÍAS POR LAS {\c&H00D4FF&\fscx110\fscy110}QUE{\r}
+Dialogue: 0,0:03:26.66,0:03:26.80,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}UN{\r} PRODUCTO DEVUELTO PUEDE
+Dialogue: 0,0:03:26.80,0:03:27.12,P,,0,0,0,,UN {\c&H00D4FF&\fscx110\fscy110}PRODUCTO{\r} DEVUELTO PUEDE
+Dialogue: 0,0:03:27.12,0:03:27.60,P,,0,0,0,,UN PRODUCTO {\c&H00D4FF&\fscx110\fscy110}DEVUELTO{\r} PUEDE
+Dialogue: 0,0:03:27.60,0:03:27.88,P,,0,0,0,,UN PRODUCTO DEVUELTO {\c&H00D4FF&\fscx110\fscy110}PUEDE{\r}
+Dialogue: 0,0:03:27.88,0:03:28.16,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ACABAR{\r} EN UN LOTE
+Dialogue: 0,0:03:28.16,0:03:28.36,P,,0,0,0,,ACABAR {\c&H00D4FF&\fscx110\fscy110}EN{\r} UN LOTE
+Dialogue: 0,0:03:28.36,0:03:28.48,P,,0,0,0,,ACABAR EN {\c&H00D4FF&\fscx110\fscy110}UN{\r} LOTE
+Dialogue: 0,0:03:28.48,0:03:28.72,P,,0,0,0,,ACABAR EN UN {\c&H00D4FF&\fscx110\fscy110}LOTE{\r}
+Dialogue: 0,0:03:28.72,0:03:28.78,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DE{\r} LIQUIDACIÓN.
+Dialogue: 0,0:03:28.78,0:03:30.00,P,,0,0,0,,DE {\c&H00D4FF&\fscx110\fscy110}LIQUIDACIÓN.{\r}
+Dialogue: 0,0:03:30.00,0:03:30.42,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}PERO{\r} OJO:
+Dialogue: 0,0:03:30.42,0:03:31.22,P,,0,0,0,,PERO {\c&H00D4FF&\fscx110\fscy110}OJO:{\r}
+Dialogue: 0,0:03:31.22,0:03:31.36,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}NO{\r} PODEMOS DECIRTE DE
+Dialogue: 0,0:03:31.36,0:03:31.74,P,,0,0,0,,NO {\c&H00D4FF&\fscx110\fscy110}PODEMOS{\r} DECIRTE DE
+Dialogue: 0,0:03:31.74,0:03:32.24,P,,0,0,0,,NO PODEMOS {\c&H00D4FF&\fscx110\fscy110}DECIRTE{\r} DE
+Dialogue: 0,0:03:32.24,0:03:32.36,P,,0,0,0,,NO PODEMOS DECIRTE {\c&H00D4FF&\fscx110\fscy110}DE{\r}
+Dialogue: 0,0:03:32.36,0:03:32.56,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DÓNDE{\r} SALE CADA PALÉ
+Dialogue: 0,0:03:32.56,0:03:32.92,P,,0,0,0,,DÓNDE {\c&H00D4FF&\fscx110\fscy110}SALE{\r} CADA PALÉ
+Dialogue: 0,0:03:32.92,0:03:33.16,P,,0,0,0,,DÓNDE SALE {\c&H00D4FF&\fscx110\fscy110}CADA{\r} PALÉ
+Dialogue: 0,0:03:33.16,0:03:33.56,P,,0,0,0,,DÓNDE SALE CADA {\c&H00D4FF&\fscx110\fscy110}PALÉ{\r}
+Dialogue: 0,0:03:33.56,0:03:33.80,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}O{\r} CADA CAJA DE
+Dialogue: 0,0:03:33.80,0:03:34.00,P,,0,0,0,,O {\c&H00D4FF&\fscx110\fscy110}CADA{\r} CAJA DE
+Dialogue: 0,0:03:34.00,0:03:34.30,P,,0,0,0,,O CADA {\c&H00D4FF&\fscx110\fscy110}CAJA{\r} DE
+Dialogue: 0,0:03:34.30,0:03:34.44,P,,0,0,0,,O CADA CAJA {\c&H00D4FF&\fscx110\fscy110}DE{\r}
+Dialogue: 0,0:03:34.44,0:03:34.90,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DEVOLUCIONES{\r} QUE VES EN
+Dialogue: 0,0:03:34.90,0:03:35.18,P,,0,0,0,,DEVOLUCIONES {\c&H00D4FF&\fscx110\fscy110}QUE{\r} VES EN
+Dialogue: 0,0:03:35.18,0:03:35.28,P,,0,0,0,,DEVOLUCIONES QUE {\c&H00D4FF&\fscx110\fscy110}VES{\r} EN
+Dialogue: 0,0:03:35.28,0:03:35.44,P,,0,0,0,,DEVOLUCIONES QUE VES {\c&H00D4FF&\fscx110\fscy110}EN{\r}
+Dialogue: 0,0:03:35.44,0:03:36.52,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}INTERNET.{\r}
+Dialogue: 0,0:03:36.52,0:03:37.10,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}¿Y{\r} LA DESTRUCCIÓN?
+Dialogue: 0,0:03:37.10,0:03:37.20,P,,0,0,0,,¿Y {\c&H00D4FF&\fscx110\fscy110}LA{\r} DESTRUCCIÓN?
+Dialogue: 0,0:03:37.20,0:03:38.70,P,,0,0,0,,¿Y LA {\c&H00D4FF&\fscx110\fscy110}DESTRUCCIÓN?{\r}
+Dialogue: 0,0:03:38.70,0:03:39.02,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EN{\r} DOS MIL VEINTIUNO,
+Dialogue: 0,0:03:39.02,0:03:39.34,P,,0,0,0,,EN {\c&H00D4FF&\fscx110\fscy110}DOS{\r} MIL VEINTIUNO,
+Dialogue: 0,0:03:39.34,0:03:39.67,P,,0,0,0,,EN DOS {\c&H00D4FF&\fscx110\fscy110}MIL{\r} VEINTIUNO,
+Dialogue: 0,0:03:39.67,0:03:40.32,P,,0,0,0,,EN DOS MIL {\c&H00D4FF&\fscx110\fscy110}VEINTIUNO,{\r}
+Dialogue: 0,0:03:40.32,0:03:40.37,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LA{\r} CADENA BRITÁNICA ITV
+Dialogue: 0,0:03:40.36,0:03:40.66,P,,0,0,0,,LA {\c&H00D4FF&\fscx110\fscy110}CADENA{\r} BRITÁNICA ITV
+Dialogue: 0,0:03:40.66,0:03:41.24,P,,0,0,0,,LA CADENA {\c&H00D4FF&\fscx110\fscy110}BRITÁNICA{\r} ITV
+Dialogue: 0,0:03:41.24,0:03:41.82,P,,0,0,0,,LA CADENA BRITÁNICA {\c&H00D4FF&\fscx110\fscy110}ITV{\r}
+Dialogue: 0,0:03:41.82,0:03:42.14,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}NEWS{\r} PUBLICÓ UNA INVESTIGACIÓN
+Dialogue: 0,0:03:42.14,0:03:42.88,P,,0,0,0,,NEWS {\c&H00D4FF&\fscx110\fscy110}PUBLICÓ{\r} UNA INVESTIGACIÓN
+Dialogue: 0,0:03:42.88,0:03:43.04,P,,0,0,0,,NEWS PUBLICÓ {\c&H00D4FF&\fscx110\fscy110}UNA{\r} INVESTIGACIÓN
+Dialogue: 0,0:03:43.04,0:03:43.58,P,,0,0,0,,NEWS PUBLICÓ UNA {\c&H00D4FF&\fscx110\fscy110}INVESTIGACIÓN{\r}
+Dialogue: 0,0:03:43.58,0:03:43.84,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EN{\r} ALMACENES DE AMAZON
+Dialogue: 0,0:03:43.84,0:03:44.24,P,,0,0,0,,EN {\c&H00D4FF&\fscx110\fscy110}ALMACENES{\r} DE AMAZON
+Dialogue: 0,0:03:44.24,0:03:44.44,P,,0,0,0,,EN ALMACENES {\c&H00D4FF&\fscx110\fscy110}DE{\r} AMAZON
+Dialogue: 0,0:03:44.44,0:03:44.66,P,,0,0,0,,EN ALMACENES DE {\c&H00D4FF&\fscx110\fscy110}AMAZON{\r}
+Dialogue: 0,0:03:44.66,0:03:44.92,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EN{\r} EL REINO UNIDO.
+Dialogue: 0,0:03:44.92,0:03:45.06,P,,0,0,0,,EN {\c&H00D4FF&\fscx110\fscy110}EL{\r} REINO UNIDO.
+Dialogue: 0,0:03:45.06,0:03:45.24,P,,0,0,0,,EN EL {\c&H00D4FF&\fscx110\fscy110}REINO{\r} UNIDO.
+Dialogue: 0,0:03:45.24,0:03:46.18,P,,0,0,0,,EN EL REINO {\c&H00D4FF&\fscx110\fscy110}UNIDO.{\r}
+Dialogue: 0,0:03:46.18,0:03:46.72,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SEGÚN{\r} UN EXEMPLEADO,
+Dialogue: 0,0:03:46.72,0:03:46.84,P,,0,0,0,,SEGÚN {\c&H00D4FF&\fscx110\fscy110}UN{\r} EXEMPLEADO,
+Dialogue: 0,0:03:46.84,0:03:47.84,P,,0,0,0,,SEGÚN UN {\c&H00D4FF&\fscx110\fscy110}EXEMPLEADO,{\r}
+Dialogue: 0,0:03:47.84,0:03:47.92,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EN{\r} UNA SEMANA DE
+Dialogue: 0,0:03:47.92,0:03:48.08,P,,0,0,0,,EN {\c&H00D4FF&\fscx110\fscy110}UNA{\r} SEMANA DE
+Dialogue: 0,0:03:48.08,0:03:48.38,P,,0,0,0,,EN UNA {\c&H00D4FF&\fscx110\fscy110}SEMANA{\r} DE
+Dialogue: 0,0:03:48.38,0:03:48.58,P,,0,0,0,,EN UNA SEMANA {\c&H00D4FF&\fscx110\fscy110}DE{\r}
+Dialogue: 0,0:03:48.58,0:03:49.28,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ABRIL{\r} EL OBJETIVO REGISTRADO
+Dialogue: 0,0:03:49.28,0:03:49.36,P,,0,0,0,,ABRIL {\c&H00D4FF&\fscx110\fscy110}EL{\r} OBJETIVO REGISTRADO
+Dialogue: 0,0:03:49.36,0:03:49.64,P,,0,0,0,,ABRIL EL {\c&H00D4FF&\fscx110\fscy110}OBJETIVO{\r} REGISTRADO
+Dialogue: 0,0:03:49.64,0:03:50.32,P,,0,0,0,,ABRIL EL OBJETIVO {\c&H00D4FF&\fscx110\fscy110}REGISTRADO{\r}
+Dialogue: 0,0:03:50.32,0:03:50.50,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ERA{\r} DESTRUIR CIENTO VEINTICUATRO
+Dialogue: 0,0:03:50.50,0:03:51.04,P,,0,0,0,,ERA {\c&H00D4FF&\fscx110\fscy110}DESTRUIR{\r} CIENTO VEINTICUATRO
+Dialogue: 0,0:03:51.04,0:03:51.38,P,,0,0,0,,ERA DESTRUIR {\c&H00D4FF&\fscx110\fscy110}CIENTO{\r} VEINTICUATRO
+Dialogue: 0,0:03:51.38,0:03:51.71,P,,0,0,0,,ERA DESTRUIR CIENTO {\c&H00D4FF&\fscx110\fscy110}VEINTICUATRO{\r}
+Dialogue: 0,0:03:51.71,0:03:52.38,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MIL{\r} PRODUCTOS,
+Dialogue: 0,0:03:52.38,0:03:53.24,P,,0,0,0,,MIL {\c&H00D4FF&\fscx110\fscy110}PRODUCTOS,{\r}
+Dialogue: 0,0:03:53.24,0:03:53.66,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MUCHOS{\r} DE ELLOS NUEVOS.
+Dialogue: 0,0:03:53.66,0:03:53.86,P,,0,0,0,,MUCHOS {\c&H00D4FF&\fscx110\fscy110}DE{\r} ELLOS NUEVOS.
+Dialogue: 0,0:03:53.86,0:03:54.12,P,,0,0,0,,MUCHOS DE {\c&H00D4FF&\fscx110\fscy110}ELLOS{\r} NUEVOS.
+Dialogue: 0,0:03:54.12,0:03:55.08,P,,0,0,0,,MUCHOS DE ELLOS {\c&H00D4FF&\fscx110\fscy110}NUEVOS.{\r}
+Dialogue: 0,0:03:55.08,0:03:55.66,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}AMAZON{\r} RESPONDIÓ QUE SU
+Dialogue: 0,0:03:55.66,0:03:56.22,P,,0,0,0,,AMAZON {\c&H00D4FF&\fscx110\fscy110}RESPONDIÓ{\r} QUE SU
+Dialogue: 0,0:03:56.22,0:03:56.36,P,,0,0,0,,AMAZON RESPONDIÓ {\c&H00D4FF&\fscx110\fscy110}QUE{\r} SU
+Dialogue: 0,0:03:56.36,0:03:56.52,P,,0,0,0,,AMAZON RESPONDIÓ QUE {\c&H00D4FF&\fscx110\fscy110}SU{\r}
+Dialogue: 0,0:03:56.52,0:03:56.94,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}PRIORIDAD{\r} ES REVENDER,
+Dialogue: 0,0:03:56.94,0:03:57.16,P,,0,0,0,,PRIORIDAD {\c&H00D4FF&\fscx110\fscy110}ES{\r} REVENDER,
+Dialogue: 0,0:03:57.16,0:03:57.96,P,,0,0,0,,PRIORIDAD ES {\c&H00D4FF&\fscx110\fscy110}REVENDER,{\r}
+Dialogue: 0,0:03:57.96,0:03:58.32,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DONAR{\r} O RECICLAR,
+Dialogue: 0,0:03:58.32,0:03:58.56,P,,0,0,0,,DONAR {\c&H00D4FF&\fscx110\fscy110}O{\r} RECICLAR,
+Dialogue: 0,0:03:58.56,0:03:59.56,P,,0,0,0,,DONAR O {\c&H00D4FF&\fscx110\fscy110}RECICLAR,{\r}
+Dialogue: 0,0:03:59.56,0:03:59.66,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}QUE{\r} EN EL REINO
+Dialogue: 0,0:03:59.66,0:03:59.78,P,,0,0,0,,QUE {\c&H00D4FF&\fscx110\fscy110}EN{\r} EL REINO
+Dialogue: 0,0:03:59.78,0:03:59.88,P,,0,0,0,,QUE EN {\c&H00D4FF&\fscx110\fscy110}EL{\r} REINO
+Dialogue: 0,0:03:59.88,0:04:00.12,P,,0,0,0,,QUE EN EL {\c&H00D4FF&\fscx110\fscy110}REINO{\r}
+Dialogue: 0,0:04:00.12,0:04:00.42,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}UNIDO{\r} NO SE ENVÍAN
+Dialogue: 0,0:04:00.42,0:04:00.68,P,,0,0,0,,UNIDO {\c&H00D4FF&\fscx110\fscy110}NO{\r} SE ENVÍAN
+Dialogue: 0,0:04:00.68,0:04:00.86,P,,0,0,0,,UNIDO NO {\c&H00D4FF&\fscx110\fscy110}SE{\r} ENVÍAN
+Dialogue: 0,0:04:00.86,0:04:01.16,P,,0,0,0,,UNIDO NO SE {\c&H00D4FF&\fscx110\fscy110}ENVÍAN{\r}
+Dialogue: 0,0:04:01.16,0:04:01.62,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ARTÍCULOS{\r} A VERTEDEROS Y
+Dialogue: 0,0:04:01.62,0:04:01.80,P,,0,0,0,,ARTÍCULOS {\c&H00D4FF&\fscx110\fscy110}A{\r} VERTEDEROS Y
+Dialogue: 0,0:04:01.80,0:04:02.36,P,,0,0,0,,ARTÍCULOS A {\c&H00D4FF&\fscx110\fscy110}VERTEDEROS{\r} Y
+Dialogue: 0,0:04:02.36,0:04:02.82,P,,0,0,0,,ARTÍCULOS A VERTEDEROS {\c&H00D4FF&\fscx110\fscy110}Y{\r}
+Dialogue: 0,0:04:02.82,0:04:02.92,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}QUE{\r} TRABAJA PARA LLEGAR
+Dialogue: 0,0:04:02.92,0:04:03.36,P,,0,0,0,,QUE {\c&H00D4FF&\fscx110\fscy110}TRABAJA{\r} PARA LLEGAR
+Dialogue: 0,0:04:03.36,0:04:03.52,P,,0,0,0,,QUE TRABAJA {\c&H00D4FF&\fscx110\fscy110}PARA{\r} LLEGAR
+Dialogue: 0,0:04:03.52,0:04:03.76,P,,0,0,0,,QUE TRABAJA PARA {\c&H00D4FF&\fscx110\fscy110}LLEGAR{\r}
+Dialogue: 0,0:04:03.76,0:04:03.94,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}A{\r} CERO.
+Dialogue: 0,0:04:03.94,0:04:04.80,P,,0,0,0,,A {\c&H00D4FF&\fscx110\fscy110}CERO.{\r}
+Dialogue: 0,0:04:04.80,0:04:05.06,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ES{\r} UNA INVESTIGACIÓN BRITÁNICA
+Dialogue: 0,0:04:05.06,0:04:05.20,P,,0,0,0,,ES {\c&H00D4FF&\fscx110\fscy110}UNA{\r} INVESTIGACIÓN BRITÁNICA
+Dialogue: 0,0:04:05.20,0:04:05.60,P,,0,0,0,,ES UNA {\c&H00D4FF&\fscx110\fscy110}INVESTIGACIÓN{\r} BRITÁNICA
+Dialogue: 0,0:04:05.60,0:04:06.50,P,,0,0,0,,ES UNA INVESTIGACIÓN {\c&H00D4FF&\fscx110\fscy110}BRITÁNICA{\r}
+Dialogue: 0,0:04:06.50,0:04:06.66,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} DE HACE CINCO
+Dialogue: 0,0:04:06.66,0:04:06.74,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}DE{\r} HACE CINCO
+Dialogue: 0,0:04:06.74,0:04:06.88,P,,0,0,0,,Y DE {\c&H00D4FF&\fscx110\fscy110}HACE{\r} CINCO
+Dialogue: 0,0:04:06.88,0:04:07.16,P,,0,0,0,,Y DE HACE {\c&H00D4FF&\fscx110\fscy110}CINCO{\r}
+Dialogue: 0,0:04:07.16,0:04:07.46,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}AÑOS:{\r}
+Dialogue: 0,0:04:07.46,0:04:08.02,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}NO{\r} SE PUEDE APLICAR
+Dialogue: 0,0:04:08.02,0:04:08.18,P,,0,0,0,,NO {\c&H00D4FF&\fscx110\fscy110}SE{\r} PUEDE APLICAR
+Dialogue: 0,0:04:08.18,0:04:08.38,P,,0,0,0,,NO SE {\c&H00D4FF&\fscx110\fscy110}PUEDE{\r} APLICAR
+Dialogue: 0,0:04:08.38,0:04:08.76,P,,0,0,0,,NO SE PUEDE {\c&H00D4FF&\fscx110\fscy110}APLICAR{\r}
+Dialogue: 0,0:04:08.76,0:04:08.82,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}A{\r} ESPAÑA.
+Dialogue: 0,0:04:08.82,0:04:09.90,P,,0,0,0,,A {\c&H00D4FF&\fscx110\fscy110}ESPAÑA.{\r}
+Dialogue: 0,0:04:09.90,0:04:10.12,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LO{\r} QUE SÍ CAMBIA
+Dialogue: 0,0:04:10.12,0:04:10.24,P,,0,0,0,,LO {\c&H00D4FF&\fscx110\fscy110}QUE{\r} SÍ CAMBIA
+Dialogue: 0,0:04:10.24,0:04:10.40,P,,0,0,0,,LO QUE {\c&H00D4FF&\fscx110\fscy110}SÍ{\r} CAMBIA
+Dialogue: 0,0:04:10.40,0:04:10.76,P,,0,0,0,,LO QUE SÍ {\c&H00D4FF&\fscx110\fscy110}CAMBIA{\r}
+Dialogue: 0,0:04:10.76,0:04:11.12,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ES{\r} LA LEY.
+Dialogue: 0,0:04:11.12,0:04:11.28,P,,0,0,0,,ES {\c&H00D4FF&\fscx110\fscy110}LA{\r} LEY.
+Dialogue: 0,0:04:11.28,0:04:12.08,P,,0,0,0,,ES LA {\c&H00D4FF&\fscx110\fscy110}LEY.{\r}
+Dialogue: 0,0:04:12.08,0:04:12.20,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EN{\r} ESPAÑA,
+Dialogue: 0,0:04:12.20,0:04:13.02,P,,0,0,0,,EN {\c&H00D4FF&\fscx110\fscy110}ESPAÑA,{\r}
+Dialogue: 0,0:04:13.02,0:04:13.12,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LA{\r} LEY DE RESIDUOS
+Dialogue: 0,0:04:13.12,0:04:13.28,P,,0,0,0,,LA {\c&H00D4FF&\fscx110\fscy110}LEY{\r} DE RESIDUOS
+Dialogue: 0,0:04:13.28,0:04:13.42,P,,0,0,0,,LA LEY {\c&H00D4FF&\fscx110\fscy110}DE{\r} RESIDUOS
+Dialogue: 0,0:04:13.42,0:04:13.88,P,,0,0,0,,LA LEY DE {\c&H00D4FF&\fscx110\fscy110}RESIDUOS{\r}
+Dialogue: 0,0:04:13.88,0:04:13.96,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DE{\r} DOS MIL VEINTIDÓS
+Dialogue: 0,0:04:13.96,0:04:14.12,P,,0,0,0,,DE {\c&H00D4FF&\fscx110\fscy110}DOS{\r} MIL VEINTIDÓS
+Dialogue: 0,0:04:14.12,0:04:14.29,P,,0,0,0,,DE DOS {\c&H00D4FF&\fscx110\fscy110}MIL{\r} VEINTIDÓS
+Dialogue: 0,0:04:14.29,0:04:14.62,P,,0,0,0,,DE DOS MIL {\c&H00D4FF&\fscx110\fscy110}VEINTIDÓS{\r}
+Dialogue: 0,0:04:14.62,0:04:15.38,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}PROHÍBE{\r} DESTRUIR O LLEVAR
+Dialogue: 0,0:04:15.38,0:04:15.92,P,,0,0,0,,PROHÍBE {\c&H00D4FF&\fscx110\fscy110}DESTRUIR{\r} O LLEVAR
+Dialogue: 0,0:04:15.92,0:04:16.14,P,,0,0,0,,PROHÍBE DESTRUIR {\c&H00D4FF&\fscx110\fscy110}O{\r} LLEVAR
+Dialogue: 0,0:04:16.14,0:04:16.34,P,,0,0,0,,PROHÍBE DESTRUIR O {\c&H00D4FF&\fscx110\fscy110}LLEVAR{\r}
+Dialogue: 0,0:04:16.34,0:04:16.44,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}A{\r} VERTEDERO LOS EXCEDENTES
+Dialogue: 0,0:04:16.44,0:04:16.90,P,,0,0,0,,A {\c&H00D4FF&\fscx110\fscy110}VERTEDERO{\r} LOS EXCEDENTES
+Dialogue: 0,0:04:16.90,0:04:17.08,P,,0,0,0,,A VERTEDERO {\c&H00D4FF&\fscx110\fscy110}LOS{\r} EXCEDENTES
+Dialogue: 0,0:04:17.08,0:04:17.66,P,,0,0,0,,A VERTEDERO LOS {\c&H00D4FF&\fscx110\fscy110}EXCEDENTES{\r}
+Dialogue: 0,0:04:17.66,0:04:17.88,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}NO{\r} VENDIDOS DE PRODUCTOS
+Dialogue: 0,0:04:17.88,0:04:18.28,P,,0,0,0,,NO {\c&H00D4FF&\fscx110\fscy110}VENDIDOS{\r} DE PRODUCTOS
+Dialogue: 0,0:04:18.28,0:04:18.46,P,,0,0,0,,NO VENDIDOS {\c&H00D4FF&\fscx110\fscy110}DE{\r} PRODUCTOS
+Dialogue: 0,0:04:18.46,0:04:18.82,P,,0,0,0,,NO VENDIDOS DE {\c&H00D4FF&\fscx110\fscy110}PRODUCTOS{\r}
+Dialogue: 0,0:04:18.82,0:04:19.06,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}NO{\r} PERECEDEROS,
+Dialogue: 0,0:04:19.06,0:04:19.96,P,,0,0,0,,NO {\c&H00D4FF&\fscx110\fscy110}PERECEDEROS,{\r}
+Dialogue: 0,0:04:19.96,0:04:20.16,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}COMO{\r} TEXTILES,
+Dialogue: 0,0:04:20.16,0:04:20.98,P,,0,0,0,,COMO {\c&H00D4FF&\fscx110\fscy110}TEXTILES,{\r}
+Dialogue: 0,0:04:20.98,0:04:21.46,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}JUGUETES{\r} O APARATOS ELÉCTRICOS,
+Dialogue: 0,0:04:21.46,0:04:21.68,P,,0,0,0,,JUGUETES {\c&H00D4FF&\fscx110\fscy110}O{\r} APARATOS ELÉCTRICOS,
+Dialogue: 0,0:04:21.68,0:04:22.08,P,,0,0,0,,JUGUETES O {\c&H00D4FF&\fscx110\fscy110}APARATOS{\r} ELÉCTRICOS,
+Dialogue: 0,0:04:22.08,0:04:23.00,P,,0,0,0,,JUGUETES O APARATOS {\c&H00D4FF&\fscx110\fscy110}ELÉCTRICOS,{\r}
+Dialogue: 0,0:04:23.00,0:04:23.42,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SALVO{\r} QUE HAYA QUE
+Dialogue: 0,0:04:23.42,0:04:23.54,P,,0,0,0,,SALVO {\c&H00D4FF&\fscx110\fscy110}QUE{\r} HAYA QUE
+Dialogue: 0,0:04:23.54,0:04:23.70,P,,0,0,0,,SALVO QUE {\c&H00D4FF&\fscx110\fscy110}HAYA{\r} QUE
+Dialogue: 0,0:04:23.70,0:04:23.84,P,,0,0,0,,SALVO QUE HAYA {\c&H00D4FF&\fscx110\fscy110}QUE{\r}
+Dialogue: 0,0:04:23.84,0:04:24.42,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DESTRUIRLOS{\r} POR OTRA NORMA
+Dialogue: 0,0:04:24.42,0:04:24.62,P,,0,0,0,,DESTRUIRLOS {\c&H00D4FF&\fscx110\fscy110}POR{\r} OTRA NORMA
+Dialogue: 0,0:04:24.62,0:04:24.80,P,,0,0,0,,DESTRUIRLOS POR {\c&H00D4FF&\fscx110\fscy110}OTRA{\r} NORMA
+Dialogue: 0,0:04:24.80,0:04:25.26,P,,0,0,0,,DESTRUIRLOS POR OTRA {\c&H00D4FF&\fscx110\fscy110}NORMA{\r}
+Dialogue: 0,0:04:25.26,0:04:25.40,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}O{\r} POR SEGURIDAD.
+Dialogue: 0,0:04:25.40,0:04:25.56,P,,0,0,0,,O {\c&H00D4FF&\fscx110\fscy110}POR{\r} SEGURIDAD.
+Dialogue: 0,0:04:25.56,0:04:26.64,P,,0,0,0,,O POR {\c&H00D4FF&\fscx110\fscy110}SEGURIDAD.{\r}
+Dialogue: 0,0:04:26.64,0:04:26.88,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} DEBEN IR PRIMERO
+Dialogue: 0,0:04:26.88,0:04:27.00,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}DEBEN{\r} IR PRIMERO
+Dialogue: 0,0:04:27.00,0:04:27.24,P,,0,0,0,,Y DEBEN {\c&H00D4FF&\fscx110\fscy110}IR{\r} PRIMERO
+Dialogue: 0,0:04:27.24,0:04:27.58,P,,0,0,0,,Y DEBEN IR {\c&H00D4FF&\fscx110\fscy110}PRIMERO{\r}
+Dialogue: 0,0:04:27.58,0:04:27.72,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}A{\r} REUTILIZACIÓN,
+Dialogue: 0,0:04:27.72,0:04:28.74,P,,0,0,0,,A {\c&H00D4FF&\fscx110\fscy110}REUTILIZACIÓN,{\r}
+Dialogue: 0,0:04:28.74,0:04:29.22,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}INCLUIDA{\r} LA DONACIÓN.
+Dialogue: 0,0:04:29.22,0:04:29.32,P,,0,0,0,,INCLUIDA {\c&H00D4FF&\fscx110\fscy110}LA{\r} DONACIÓN.
+Dialogue: 0,0:04:29.32,0:04:30.42,P,,0,0,0,,INCLUIDA LA {\c&H00D4FF&\fscx110\fscy110}DONACIÓN.{\r}
+Dialogue: 0,0:04:30.42,0:04:30.76,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} LA UNIÓN EUROPEA
+Dialogue: 0,0:04:30.76,0:04:30.88,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}LA{\r} UNIÓN EUROPEA
+Dialogue: 0,0:04:30.88,0:04:31.10,P,,0,0,0,,Y LA {\c&H00D4FF&\fscx110\fscy110}UNIÓN{\r} EUROPEA
+Dialogue: 0,0:04:31.10,0:04:31.64,P,,0,0,0,,Y LA UNIÓN {\c&H00D4FF&\fscx110\fscy110}EUROPEA{\r}
+Dialogue: 0,0:04:31.64,0:04:31.90,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}VA{\r} MÁS LEJOS.
+Dialogue: 0,0:04:31.90,0:04:32.10,P,,0,0,0,,VA {\c&H00D4FF&\fscx110\fscy110}MÁS{\r} LEJOS.
+Dialogue: 0,0:04:32.10,0:04:33.12,P,,0,0,0,,VA MÁS {\c&H00D4FF&\fscx110\fscy110}LEJOS.{\r}
+Dialogue: 0,0:04:33.12,0:04:33.34,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DESDE{\r} EL DIECINUEVE DE
+Dialogue: 0,0:04:33.34,0:04:33.52,P,,0,0,0,,DESDE {\c&H00D4FF&\fscx110\fscy110}EL{\r} DIECINUEVE DE
+Dialogue: 0,0:04:33.52,0:04:33.90,P,,0,0,0,,DESDE EL {\c&H00D4FF&\fscx110\fscy110}DIECINUEVE{\r} DE
+Dialogue: 0,0:04:33.90,0:04:34.10,P,,0,0,0,,DESDE EL DIECINUEVE {\c&H00D4FF&\fscx110\fscy110}DE{\r}
+Dialogue: 0,0:04:34.10,0:04:34.44,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}JULIO{\r} DE DOS MIL
+Dialogue: 0,0:04:34.44,0:04:34.54,P,,0,0,0,,JULIO {\c&H00D4FF&\fscx110\fscy110}DE{\r} DOS MIL
+Dialogue: 0,0:04:34.54,0:04:34.88,P,,0,0,0,,JULIO DE {\c&H00D4FF&\fscx110\fscy110}DOS{\r} MIL
+Dialogue: 0,0:04:34.88,0:04:35.23,P,,0,0,0,,JULIO DE DOS {\c&H00D4FF&\fscx110\fscy110}MIL{\r}
+Dialogue: 0,0:04:35.23,0:04:35.92,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}VEINTISÉIS,{\r}
+Dialogue: 0,0:04:35.92,0:04:35.98,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EL{\r} REGLAMENTO DE ECODISEÑO
+Dialogue: 0,0:04:35.98,0:04:36.46,P,,0,0,0,,EL {\c&H00D4FF&\fscx110\fscy110}REGLAMENTO{\r} DE ECODISEÑO
+Dialogue: 0,0:04:36.46,0:04:36.66,P,,0,0,0,,EL REGLAMENTO {\c&H00D4FF&\fscx110\fscy110}DE{\r} ECODISEÑO
+Dialogue: 0,0:04:36.66,0:04:37.26,P,,0,0,0,,EL REGLAMENTO DE {\c&H00D4FF&\fscx110\fscy110}ECODISEÑO{\r}
+Dialogue: 0,0:04:37.26,0:04:37.70,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}PROHÍBE{\r} A LAS GRANDES
+Dialogue: 0,0:04:37.70,0:04:37.82,P,,0,0,0,,PROHÍBE {\c&H00D4FF&\fscx110\fscy110}A{\r} LAS GRANDES
+Dialogue: 0,0:04:37.82,0:04:37.94,P,,0,0,0,,PROHÍBE A {\c&H00D4FF&\fscx110\fscy110}LAS{\r} GRANDES
+Dialogue: 0,0:04:37.94,0:04:38.20,P,,0,0,0,,PROHÍBE A LAS {\c&H00D4FF&\fscx110\fscy110}GRANDES{\r}
+Dialogue: 0,0:04:38.20,0:04:38.68,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EMPRESAS{\r} DESTRUIR LA ROPA,
+Dialogue: 0,0:04:38.68,0:04:39.22,P,,0,0,0,,EMPRESAS {\c&H00D4FF&\fscx110\fscy110}DESTRUIR{\r} LA ROPA,
+Dialogue: 0,0:04:39.22,0:04:39.34,P,,0,0,0,,EMPRESAS DESTRUIR {\c&H00D4FF&\fscx110\fscy110}LA{\r} ROPA,
+Dialogue: 0,0:04:39.34,0:04:39.96,P,,0,0,0,,EMPRESAS DESTRUIR LA {\c&H00D4FF&\fscx110\fscy110}ROPA,{\r}
+Dialogue: 0,0:04:39.96,0:04:40.08,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LOS{\r} COMPLEMENTOS Y EL
+Dialogue: 0,0:04:40.08,0:04:40.72,P,,0,0,0,,LOS {\c&H00D4FF&\fscx110\fscy110}COMPLEMENTOS{\r} Y EL
+Dialogue: 0,0:04:40.72,0:04:40.84,P,,0,0,0,,LOS COMPLEMENTOS {\c&H00D4FF&\fscx110\fscy110}Y{\r} EL
+Dialogue: 0,0:04:40.84,0:04:40.94,P,,0,0,0,,LOS COMPLEMENTOS Y {\c&H00D4FF&\fscx110\fscy110}EL{\r}
+Dialogue: 0,0:04:40.94,0:04:41.30,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CALZADO{\r} SIN VENDER.
+Dialogue: 0,0:04:41.30,0:04:41.46,P,,0,0,0,,CALZADO {\c&H00D4FF&\fscx110\fscy110}SIN{\r} VENDER.
+Dialogue: 0,0:04:41.46,0:04:42.46,P,,0,0,0,,CALZADO SIN {\c&H00D4FF&\fscx110\fscy110}VENDER.{\r}
+Dialogue: 0,0:04:42.46,0:04:42.68,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LA{\r} PROPIA NORMA RECONOCE
+Dialogue: 0,0:04:42.68,0:04:42.94,P,,0,0,0,,LA {\c&H00D4FF&\fscx110\fscy110}PROPIA{\r} NORMA RECONOCE
+Dialogue: 0,0:04:42.94,0:04:43.30,P,,0,0,0,,LA PROPIA {\c&H00D4FF&\fscx110\fscy110}NORMA{\r} RECONOCE
+Dialogue: 0,0:04:43.30,0:04:43.76,P,,0,0,0,,LA PROPIA NORMA {\c&H00D4FF&\fscx110\fscy110}RECONOCE{\r}
+Dialogue: 0,0:04:43.76,0:04:43.86,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EL{\r} MOTIVO:
+Dialogue: 0,0:04:43.86,0:04:44.80,P,,0,0,0,,EL {\c&H00D4FF&\fscx110\fscy110}MOTIVO:{\r}
+Dialogue: 0,0:04:44.80,0:04:44.92,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LA{\r} DESTRUCCIÓN DE PRODUCTOS
+Dialogue: 0,0:04:44.92,0:04:45.46,P,,0,0,0,,LA {\c&H00D4FF&\fscx110\fscy110}DESTRUCCIÓN{\r} DE PRODUCTOS
+Dialogue: 0,0:04:45.46,0:04:45.58,P,,0,0,0,,LA DESTRUCCIÓN {\c&H00D4FF&\fscx110\fscy110}DE{\r} PRODUCTOS
+Dialogue: 0,0:04:45.58,0:04:45.90,P,,0,0,0,,LA DESTRUCCIÓN DE {\c&H00D4FF&\fscx110\fscy110}PRODUCTOS{\r}
+Dialogue: 0,0:04:45.90,0:04:46.20,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}NO{\r} VENDIDOS SE HA
+Dialogue: 0,0:04:46.20,0:04:46.60,P,,0,0,0,,NO {\c&H00D4FF&\fscx110\fscy110}VENDIDOS{\r} SE HA
+Dialogue: 0,0:04:46.60,0:04:46.86,P,,0,0,0,,NO VENDIDOS {\c&H00D4FF&\fscx110\fscy110}SE{\r} HA
+Dialogue: 0,0:04:46.86,0:04:46.94,P,,0,0,0,,NO VENDIDOS SE {\c&H00D4FF&\fscx110\fscy110}HA{\r}
+Dialogue: 0,0:04:46.94,0:04:47.44,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CONVERTIDO{\r} EN UN PROBLEMA
+Dialogue: 0,0:04:47.44,0:04:47.56,P,,0,0,0,,CONVERTIDO {\c&H00D4FF&\fscx110\fscy110}EN{\r} UN PROBLEMA
+Dialogue: 0,0:04:47.56,0:04:47.66,P,,0,0,0,,CONVERTIDO EN {\c&H00D4FF&\fscx110\fscy110}UN{\r} PROBLEMA
+Dialogue: 0,0:04:47.66,0:04:47.98,P,,0,0,0,,CONVERTIDO EN UN {\c&H00D4FF&\fscx110\fscy110}PROBLEMA{\r}
+Dialogue: 0,0:04:47.98,0:04:48.72,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MEDIOAMBIENTAL{\r} GENERALIZADO,
+Dialogue: 0,0:04:48.72,0:04:49.78,P,,0,0,0,,MEDIOAMBIENTAL {\c&H00D4FF&\fscx110\fscy110}GENERALIZADO,{\r}
+Dialogue: 0,0:04:49.78,0:04:50.18,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DEBIDO,{\r}
+Dialogue: 0,0:04:50.18,0:04:50.40,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EN{\r} PARTICULAR,
+Dialogue: 0,0:04:50.40,0:04:50.88,P,,0,0,0,,EN {\c&H00D4FF&\fscx110\fscy110}PARTICULAR,{\r}
+Dialogue: 0,0:04:50.88,0:04:51.38,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}AL{\r} RÁPIDO CRECIMIENTO DE
+Dialogue: 0,0:04:51.38,0:04:51.70,P,,0,0,0,,AL {\c&H00D4FF&\fscx110\fscy110}RÁPIDO{\r} CRECIMIENTO DE
+Dialogue: 0,0:04:51.70,0:04:52.26,P,,0,0,0,,AL RÁPIDO {\c&H00D4FF&\fscx110\fscy110}CRECIMIENTO{\r} DE
+Dialogue: 0,0:04:52.26,0:04:52.42,P,,0,0,0,,AL RÁPIDO CRECIMIENTO {\c&H00D4FF&\fscx110\fscy110}DE{\r}
+Dialogue: 0,0:04:52.42,0:04:52.56,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LAS{\r} VENTAS EN LÍNEA.
+Dialogue: 0,0:04:52.56,0:04:52.86,P,,0,0,0,,LAS {\c&H00D4FF&\fscx110\fscy110}VENTAS{\r} EN LÍNEA.
+Dialogue: 0,0:04:52.86,0:04:53.02,P,,0,0,0,,LAS VENTAS {\c&H00D4FF&\fscx110\fscy110}EN{\r} LÍNEA.
+Dialogue: 0,0:04:53.02,0:04:53.90,P,,0,0,0,,LAS VENTAS EN {\c&H00D4FF&\fscx110\fscy110}LÍNEA.{\r}
+Dialogue: 0,0:04:53.90,0:04:54.12,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} DEJA EXCEPCIONES,
+Dialogue: 0,0:04:54.12,0:04:54.34,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}DEJA{\r} EXCEPCIONES,
+Dialogue: 0,0:04:54.34,0:04:54.86,P,,0,0,0,,Y DEJA {\c&H00D4FF&\fscx110\fscy110}EXCEPCIONES,{\r}
+Dialogue: 0,0:04:54.86,0:04:55.36,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}COMO{\r} LOS DAÑOS QUE
+Dialogue: 0,0:04:55.36,0:04:55.56,P,,0,0,0,,COMO {\c&H00D4FF&\fscx110\fscy110}LOS{\r} DAÑOS QUE
+Dialogue: 0,0:04:55.56,0:04:55.86,P,,0,0,0,,COMO LOS {\c&H00D4FF&\fscx110\fscy110}DAÑOS{\r} QUE
+Dialogue: 0,0:04:55.86,0:04:56.04,P,,0,0,0,,COMO LOS DAÑOS {\c&H00D4FF&\fscx110\fscy110}QUE{\r}
+Dialogue: 0,0:04:56.04,0:04:56.16,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}NO{\r} PUEDAN REPARARSE DE
+Dialogue: 0,0:04:56.16,0:04:56.40,P,,0,0,0,,NO {\c&H00D4FF&\fscx110\fscy110}PUEDAN{\r} REPARARSE DE
+Dialogue: 0,0:04:56.40,0:04:56.88,P,,0,0,0,,NO PUEDAN {\c&H00D4FF&\fscx110\fscy110}REPARARSE{\r} DE
+Dialogue: 0,0:04:56.88,0:04:57.00,P,,0,0,0,,NO PUEDAN REPARARSE {\c&H00D4FF&\fscx110\fscy110}DE{\r}
+Dialogue: 0,0:04:57.00,0:04:57.18,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}FORMA{\r} RENTABLE,
+Dialogue: 0,0:04:57.18,0:04:58.08,P,,0,0,0,,FORMA {\c&H00D4FF&\fscx110\fscy110}RENTABLE,{\r}
+Dialogue: 0,0:04:58.08,0:04:58.54,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}INCLUIDOS{\r} LOS DETECTADOS TRAS
+Dialogue: 0,0:04:58.54,0:04:58.72,P,,0,0,0,,INCLUIDOS {\c&H00D4FF&\fscx110\fscy110}LOS{\r} DETECTADOS TRAS
+Dialogue: 0,0:04:58.72,0:04:59.28,P,,0,0,0,,INCLUIDOS LOS {\c&H00D4FF&\fscx110\fscy110}DETECTADOS{\r} TRAS
+Dialogue: 0,0:04:59.28,0:04:59.46,P,,0,0,0,,INCLUIDOS LOS DETECTADOS {\c&H00D4FF&\fscx110\fscy110}TRAS{\r}
+Dialogue: 0,0:04:59.46,0:04:59.70,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}UNA{\r} DEVOLUCIÓN.
+Dialogue: 0,0:04:59.70,0:05:00.68,P,,0,0,0,,UNA {\c&H00D4FF&\fscx110\fscy110}DEVOLUCIÓN.{\r}
+Dialogue: 0,0:05:00.68,0:05:01.02,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ASÍ{\r} QUE,
+Dialogue: 0,0:05:01.02,0:05:01.20,P,,0,0,0,,ASÍ {\c&H00D4FF&\fscx110\fscy110}QUE,{\r}
+Dialogue: 0,0:05:01.20,0:05:01.36,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}¿QUÉ{\r} SABEMOS?
+Dialogue: 0,0:05:01.36,0:05:02.54,P,,0,0,0,,¿QUÉ {\c&H00D4FF&\fscx110\fscy110}SABEMOS?{\r}
+Dialogue: 0,0:05:02.54,0:05:02.62,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}QUE{\r} TIENES DERECHO A
+Dialogue: 0,0:05:02.62,0:05:02.88,P,,0,0,0,,QUE {\c&H00D4FF&\fscx110\fscy110}TIENES{\r} DERECHO A
+Dialogue: 0,0:05:02.88,0:05:03.14,P,,0,0,0,,QUE TIENES {\c&H00D4FF&\fscx110\fscy110}DERECHO{\r} A
+Dialogue: 0,0:05:03.14,0:05:03.32,P,,0,0,0,,QUE TIENES DERECHO {\c&H00D4FF&\fscx110\fscy110}A{\r}
+Dialogue: 0,0:05:03.32,0:05:04.32,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DEVOLVER,{\r}
+Dialogue: 0,0:05:04.32,0:05:04.42,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}QUE{\r} LA LEY OBLIGA
+Dialogue: 0,0:05:04.42,0:05:04.54,P,,0,0,0,,QUE {\c&H00D4FF&\fscx110\fscy110}LA{\r} LEY OBLIGA
+Dialogue: 0,0:05:04.54,0:05:04.68,P,,0,0,0,,QUE LA {\c&H00D4FF&\fscx110\fscy110}LEY{\r} OBLIGA
+Dialogue: 0,0:05:04.68,0:05:05.08,P,,0,0,0,,QUE LA LEY {\c&H00D4FF&\fscx110\fscy110}OBLIGA{\r}
+Dialogue: 0,0:05:05.08,0:05:05.18,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}A{\r} REEMBOLSARTE Y QUE,
+Dialogue: 0,0:05:05.18,0:05:06.46,P,,0,0,0,,A {\c&H00D4FF&\fscx110\fscy110}REEMBOLSARTE{\r} Y QUE,
+Dialogue: 0,0:05:06.46,0:05:06.66,P,,0,0,0,,A REEMBOLSARTE {\c&H00D4FF&\fscx110\fscy110}Y{\r} QUE,
+Dialogue: 0,0:05:06.66,0:05:07.16,P,,0,0,0,,A REEMBOLSARTE Y {\c&H00D4FF&\fscx110\fscy110}QUE,{\r}
+Dialogue: 0,0:05:07.16,0:05:07.28,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DESDE{\r} ESTE VERANO,
+Dialogue: 0,0:05:07.28,0:05:07.58,P,,0,0,0,,DESDE {\c&H00D4FF&\fscx110\fscy110}ESTE{\r} VERANO,
+Dialogue: 0,0:05:07.58,0:05:08.52,P,,0,0,0,,DESDE ESTE {\c&H00D4FF&\fscx110\fscy110}VERANO,{\r}
+Dialogue: 0,0:05:08.52,0:05:08.62,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LA{\r} UE PROHÍBE DESTRUIR
+Dialogue: 0,0:05:08.62,0:05:08.80,P,,0,0,0,,LA {\c&H00D4FF&\fscx110\fscy110}UE{\r} PROHÍBE DESTRUIR
+Dialogue: 0,0:05:08.80,0:05:09.16,P,,0,0,0,,LA UE {\c&H00D4FF&\fscx110\fscy110}PROHÍBE{\r} DESTRUIR
+Dialogue: 0,0:05:09.16,0:05:09.70,P,,0,0,0,,LA UE PROHÍBE {\c&H00D4FF&\fscx110\fscy110}DESTRUIR{\r}
+Dialogue: 0,0:05:09.70,0:05:10.02,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ROPA{\r} Y CALZADO NUEVOS
+Dialogue: 0,0:05:10.02,0:05:10.12,P,,0,0,0,,ROPA {\c&H00D4FF&\fscx110\fscy110}Y{\r} CALZADO NUEVOS
+Dialogue: 0,0:05:10.12,0:05:10.46,P,,0,0,0,,ROPA Y {\c&H00D4FF&\fscx110\fscy110}CALZADO{\r} NUEVOS
+Dialogue: 0,0:05:10.46,0:05:10.76,P,,0,0,0,,ROPA Y CALZADO {\c&H00D4FF&\fscx110\fscy110}NUEVOS{\r}
+Dialogue: 0,0:05:10.76,0:05:11.22,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SIN{\r} VENDER.
+Dialogue: 0,0:05:11.22,0:05:12.14,P,,0,0,0,,SIN {\c&H00D4FF&\fscx110\fscy110}VENDER.{\r}
+Dialogue: 0,0:05:12.14,0:05:12.38,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} QUE AMAZON DICE
+Dialogue: 0,0:05:12.38,0:05:12.50,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}QUE{\r} AMAZON DICE
+Dialogue: 0,0:05:12.50,0:05:12.76,P,,0,0,0,,Y QUE {\c&H00D4FF&\fscx110\fscy110}AMAZON{\r} DICE
+Dialogue: 0,0:05:12.76,0:05:13.14,P,,0,0,0,,Y QUE AMAZON {\c&H00D4FF&\fscx110\fscy110}DICE{\r}
+Dialogue: 0,0:05:13.14,0:05:13.32,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}QUE{\r} SU PRIORIDAD ES
+Dialogue: 0,0:05:13.32,0:05:13.46,P,,0,0,0,,QUE {\c&H00D4FF&\fscx110\fscy110}SU{\r} PRIORIDAD ES
+Dialogue: 0,0:05:13.46,0:05:13.86,P,,0,0,0,,QUE SU {\c&H00D4FF&\fscx110\fscy110}PRIORIDAD{\r} ES
+Dialogue: 0,0:05:13.86,0:05:14.08,P,,0,0,0,,QUE SU PRIORIDAD {\c&H00D4FF&\fscx110\fscy110}ES{\r}
+Dialogue: 0,0:05:14.08,0:05:14.98,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}REVENDER,{\r}
+Dialogue: 0,0:05:14.98,0:05:15.36,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DONAR{\r} O RECICLAR.
+Dialogue: 0,0:05:15.36,0:05:15.64,P,,0,0,0,,DONAR {\c&H00D4FF&\fscx110\fscy110}O{\r} RECICLAR.
+Dialogue: 0,0:05:15.64,0:05:16.90,P,,0,0,0,,DONAR O {\c&H00D4FF&\fscx110\fscy110}RECICLAR.{\r}
+Dialogue: 0,0:05:16.90,0:05:17.18,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} LO QUE NO
+Dialogue: 0,0:05:17.18,0:05:17.28,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}LO{\r} QUE NO
+Dialogue: 0,0:05:17.28,0:05:17.40,P,,0,0,0,,Y LO {\c&H00D4FF&\fscx110\fscy110}QUE{\r} NO
+Dialogue: 0,0:05:17.40,0:05:17.54,P,,0,0,0,,Y LO QUE {\c&H00D4FF&\fscx110\fscy110}NO{\r}
+Dialogue: 0,0:05:17.54,0:05:18.78,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SABEMOS:{\r}
+Dialogue: 0,0:05:18.78,0:05:19.12,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CUÁNTOS{\r} PRODUCTOS DEVUELTOS ACABAN
+Dialogue: 0,0:05:19.12,0:05:19.48,P,,0,0,0,,CUÁNTOS {\c&H00D4FF&\fscx110\fscy110}PRODUCTOS{\r} DEVUELTOS ACABAN
+Dialogue: 0,0:05:19.48,0:05:20.12,P,,0,0,0,,CUÁNTOS PRODUCTOS {\c&H00D4FF&\fscx110\fscy110}DEVUELTOS{\r} ACABAN
+Dialogue: 0,0:05:20.12,0:05:20.62,P,,0,0,0,,CUÁNTOS PRODUCTOS DEVUELTOS {\c&H00D4FF&\fscx110\fscy110}ACABAN{\r}
+Dialogue: 0,0:05:20.62,0:05:20.74,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EN{\r} CADA CAMINO.
+Dialogue: 0,0:05:20.74,0:05:20.92,P,,0,0,0,,EN {\c&H00D4FF&\fscx110\fscy110}CADA{\r} CAMINO.
+Dialogue: 0,0:05:20.92,0:05:22.08,P,,0,0,0,,EN CADA {\c&H00D4FF&\fscx110\fscy110}CAMINO.{\r}
+Dialogue: 0,0:05:22.08,0:05:22.36,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ESA{\r} CIFRA NO ES
+Dialogue: 0,0:05:22.36,0:05:22.64,P,,0,0,0,,ESA {\c&H00D4FF&\fscx110\fscy110}CIFRA{\r} NO ES
+Dialogue: 0,0:05:22.64,0:05:22.80,P,,0,0,0,,ESA CIFRA {\c&H00D4FF&\fscx110\fscy110}NO{\r} ES
+Dialogue: 0,0:05:22.80,0:05:22.94,P,,0,0,0,,ESA CIFRA NO {\c&H00D4FF&\fscx110\fscy110}ES{\r}
+Dialogue: 0,0:05:22.94,0:05:24.00,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}PÚBLICA.{\r}
+Dialogue: 0,0:05:24.00,0:05:24.14,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} MIENTRAS NO LO
+Dialogue: 0,0:05:24.14,0:05:24.42,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}MIENTRAS{\r} NO LO
+Dialogue: 0,0:05:24.42,0:05:24.64,P,,0,0,0,,Y MIENTRAS {\c&H00D4FF&\fscx110\fscy110}NO{\r} LO
+Dialogue: 0,0:05:24.64,0:05:24.76,P,,0,0,0,,Y MIENTRAS NO {\c&H00D4FF&\fscx110\fscy110}LO{\r}
+Dialogue: 0,0:05:24.76,0:05:25.64,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SEA,{\r}
+Dialogue: 0,0:05:25.64,0:05:25.76,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LA{\r} RESPUESTA A NUESTRA
+Dialogue: 0,0:05:25.76,0:05:26.06,P,,0,0,0,,LA {\c&H00D4FF&\fscx110\fscy110}RESPUESTA{\r} A NUESTRA
+Dialogue: 0,0:05:26.06,0:05:26.30,P,,0,0,0,,LA RESPUESTA {\c&H00D4FF&\fscx110\fscy110}A{\r} NUESTRA
+Dialogue: 0,0:05:26.30,0:05:26.42,P,,0,0,0,,LA RESPUESTA A {\c&H00D4FF&\fscx110\fscy110}NUESTRA{\r}
+Dialogue: 0,0:05:26.42,0:05:26.84,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}PREGUNTA{\r} ES LA MÁS
+Dialogue: 0,0:05:26.84,0:05:27.10,P,,0,0,0,,PREGUNTA {\c&H00D4FF&\fscx110\fscy110}ES{\r} LA MÁS
+Dialogue: 0,0:05:27.10,0:05:27.24,P,,0,0,0,,PREGUNTA ES {\c&H00D4FF&\fscx110\fscy110}LA{\r} MÁS
+Dialogue: 0,0:05:27.24,0:05:27.40,P,,0,0,0,,PREGUNTA ES LA {\c&H00D4FF&\fscx110\fscy110}MÁS{\r}
+Dialogue: 0,0:05:27.40,0:05:27.80,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}HONESTA{\r} POSIBLE:
+Dialogue: 0,0:05:27.80,0:05:28.82,P,,0,0,0,,HONESTA {\c&H00D4FF&\fscx110\fscy110}POSIBLE:{\r}
+Dialogue: 0,0:05:28.82,0:05:30.08,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DEPENDE.{\r}
+Dialogue: 0,0:05:30.08,0:05:30.26,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LO{\r} QUE DEVUELVES A
+Dialogue: 0,0:05:30.26,0:05:30.36,P,,0,0,0,,LO {\c&H00D4FF&\fscx110\fscy110}QUE{\r} DEVUELVES A
+Dialogue: 0,0:05:30.36,0:05:30.72,P,,0,0,0,,LO QUE {\c&H00D4FF&\fscx110\fscy110}DEVUELVES{\r} A
+Dialogue: 0,0:05:30.72,0:05:30.88,P,,0,0,0,,LO QUE DEVUELVES {\c&H00D4FF&\fscx110\fscy110}A{\r}
+Dialogue: 0,0:05:30.88,0:05:31.10,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}AMAZON{\r} NO TIENE UN
+Dialogue: 0,0:05:31.10,0:05:31.36,P,,0,0,0,,AMAZON {\c&H00D4FF&\fscx110\fscy110}NO{\r} TIENE UN
+Dialogue: 0,0:05:31.36,0:05:31.56,P,,0,0,0,,AMAZON NO {\c&H00D4FF&\fscx110\fscy110}TIENE{\r} UN
+Dialogue: 0,0:05:31.56,0:05:31.72,P,,0,0,0,,AMAZON NO TIENE {\c&H00D4FF&\fscx110\fscy110}UN{\r}
+Dialogue: 0,0:05:31.72,0:05:31.96,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ÚNICO{\r} DESTINO.
+Dialogue: 0,0:05:31.96,0:05:32.96,P,,0,0,0,,ÚNICO {\c&H00D4FF&\fscx110\fscy110}DESTINO.{\r}
+Dialogue: 0,0:05:32.96,0:05:33.20,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}TIENE{\r} VARIOS CAMINOS,
+Dialogue: 0,0:05:33.20,0:05:33.44,P,,0,0,0,,TIENE {\c&H00D4FF&\fscx110\fscy110}VARIOS{\r} CAMINOS,
+Dialogue: 0,0:05:33.44,0:05:34.08,P,,0,0,0,,TIENE VARIOS {\c&H00D4FF&\fscx110\fscy110}CAMINOS,{\r}
+Dialogue: 0,0:05:34.08,0:05:34.34,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} LA LEY ESTÁ
+Dialogue: 0,0:05:34.34,0:05:34.44,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}LA{\r} LEY ESTÁ
+Dialogue: 0,0:05:34.44,0:05:34.60,P,,0,0,0,,Y LA {\c&H00D4FF&\fscx110\fscy110}LEY{\r} ESTÁ
+Dialogue: 0,0:05:34.60,0:05:34.84,P,,0,0,0,,Y LA LEY {\c&H00D4FF&\fscx110\fscy110}ESTÁ{\r}
+Dialogue: 0,0:05:34.84,0:05:35.28,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CERRANDO{\r} UNO DE ELLOS.
+Dialogue: 0,0:05:35.28,0:05:35.54,P,,0,0,0,,CERRANDO {\c&H00D4FF&\fscx110\fscy110}UNO{\r} DE ELLOS.
+Dialogue: 0,0:05:35.54,0:05:35.72,P,,0,0,0,,CERRANDO UNO {\c&H00D4FF&\fscx110\fscy110}DE{\r} ELLOS.
+Dialogue: 0,0:05:35.72,0:05:36.78,P,,0,0,0,,CERRANDO UNO DE {\c&H00D4FF&\fscx110\fscy110}ELLOS.{\r}
+Dialogue: 0,0:05:36.78,0:05:36.98,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LA{\r} PREGUNTA YA NO
+Dialogue: 0,0:05:36.98,0:05:37.24,P,,0,0,0,,LA {\c&H00D4FF&\fscx110\fscy110}PREGUNTA{\r} YA NO
+Dialogue: 0,0:05:37.24,0:05:37.48,P,,0,0,0,,LA PREGUNTA {\c&H00D4FF&\fscx110\fscy110}YA{\r} NO
+Dialogue: 0,0:05:37.48,0:05:37.62,P,,0,0,0,,LA PREGUNTA YA {\c&H00D4FF&\fscx110\fscy110}NO{\r}
+Dialogue: 0,0:05:37.62,0:05:37.76,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ES{\r} QUÉ HACEN CON
+Dialogue: 0,0:05:37.76,0:05:37.92,P,,0,0,0,,ES {\c&H00D4FF&\fscx110\fscy110}QUÉ{\r} HACEN CON
+Dialogue: 0,0:05:37.92,0:05:38.18,P,,0,0,0,,ES QUÉ {\c&H00D4FF&\fscx110\fscy110}HACEN{\r} CON
+Dialogue: 0,0:05:38.18,0:05:38.38,P,,0,0,0,,ES QUÉ HACEN {\c&H00D4FF&\fscx110\fscy110}CON{\r}
+Dialogue: 0,0:05:38.38,0:05:38.50,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}TU{\r} DEVOLUCIÓN.
+Dialogue: 0,0:05:38.50,0:05:39.68,P,,0,0,0,,TU {\c&H00D4FF&\fscx110\fscy110}DEVOLUCIÓN.{\r}
+Dialogue: 0,0:05:39.68,0:05:39.90,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ES{\r} CUÁNTO DE LO
+Dialogue: 0,0:05:39.90,0:05:40.46,P,,0,0,0,,ES {\c&H00D4FF&\fscx110\fscy110}CUÁNTO{\r} DE LO
+Dialogue: 0,0:05:40.46,0:05:40.54,P,,0,0,0,,ES CUÁNTO {\c&H00D4FF&\fscx110\fscy110}DE{\r} LO
+Dialogue: 0,0:05:40.54,0:05:40.64,P,,0,0,0,,ES CUÁNTO DE {\c&H00D4FF&\fscx110\fscy110}LO{\r}
+Dialogue: 0,0:05:40.64,0:05:40.74,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}QUE{\r} CUENTAN SE PUEDE
+Dialogue: 0,0:05:40.74,0:05:41.14,P,,0,0,0,,QUE {\c&H00D4FF&\fscx110\fscy110}CUENTAN{\r} SE PUEDE
+Dialogue: 0,0:05:41.14,0:05:41.50,P,,0,0,0,,QUE CUENTAN {\c&H00D4FF&\fscx110\fscy110}SE{\r} PUEDE
+Dialogue: 0,0:05:41.50,0:05:41.74,P,,0,0,0,,QUE CUENTAN SE {\c&H00D4FF&\fscx110\fscy110}PUEDE{\r}
+Dialogue: 0,0:05:41.74,0:05:43.10,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}COMPROBAR.{\r}
+Dialogue: 0,0:05:43.10,0:05:43.32,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CADA{\r} SEMANA ABRIMOS EL
+Dialogue: 0,0:05:43.32,0:05:43.64,P,,0,0,0,,CADA {\c&H00D4FF&\fscx110\fscy110}SEMANA{\r} ABRIMOS EL
+Dialogue: 0,0:05:43.64,0:05:44.12,P,,0,0,0,,CADA SEMANA {\c&H00D4FF&\fscx110\fscy110}ABRIMOS{\r} EL
+Dialogue: 0,0:05:44.12,0:05:44.26,P,,0,0,0,,CADA SEMANA ABRIMOS {\c&H00D4FF&\fscx110\fscy110}EL{\r}
+Dialogue: 0,0:05:44.26,0:05:44.50,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}TICKET{\r} DE ALGO QUE
+Dialogue: 0,0:05:44.50,0:05:44.72,P,,0,0,0,,TICKET {\c&H00D4FF&\fscx110\fscy110}DE{\r} ALGO QUE
+Dialogue: 0,0:05:44.72,0:05:44.88,P,,0,0,0,,TICKET DE {\c&H00D4FF&\fscx110\fscy110}ALGO{\r} QUE
+Dialogue: 0,0:05:44.88,0:05:45.06,P,,0,0,0,,TICKET DE ALGO {\c&H00D4FF&\fscx110\fscy110}QUE{\r}
+Dialogue: 0,0:05:45.06,0:05:45.36,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}PAGAS{\r} TODOS LOS DÍAS.
+Dialogue: 0,0:05:45.36,0:05:45.54,P,,0,0,0,,PAGAS {\c&H00D4FF&\fscx110\fscy110}TODOS{\r} LOS DÍAS.
+Dialogue: 0,0:05:45.54,0:05:45.78,P,,0,0,0,,PAGAS TODOS {\c&H00D4FF&\fscx110\fscy110}LOS{\r} DÍAS.
+Dialogue: 0,0:05:45.78,0:05:46.68,P,,0,0,0,,PAGAS TODOS LOS {\c&H00D4FF&\fscx110\fscy110}DÍAS.{\r}
+Dialogue: 0,0:05:46.68,0:05:46.90,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} EL PRÓXIMO…
+Dialogue: 0,0:05:46.90,0:05:47.02,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}EL{\r} PRÓXIMO…
+Dialogue: 0,0:05:47.02,0:05:47.34,P,,0,0,0,,Y EL {\c&H00D4FF&\fscx110\fscy110}PRÓXIMO…{\r}
+Dialogue: 0,0:05:47.34,0:05:48.04,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}TE{\r} VA A SORPRENDER
+Dialogue: 0,0:05:48.04,0:05:48.16,P,,0,0,0,,TE {\c&H00D4FF&\fscx110\fscy110}VA{\r} A SORPRENDER
+Dialogue: 0,0:05:48.16,0:05:48.24,P,,0,0,0,,TE VA {\c&H00D4FF&\fscx110\fscy110}A{\r} SORPRENDER
+Dialogue: 0,0:05:48.24,0:05:48.66,P,,0,0,0,,TE VA A {\c&H00D4FF&\fscx110\fscy110}SORPRENDER{\r}
+Dialogue: 0,0:05:48.66,0:05:49.00,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}TODAVÍA{\r} MÁS.
+Dialogue: 0,0:05:49.00,0:05:49.80,P,,0,0,0,,TODAVÍA {\c&H00D4FF&\fscx110\fscy110}MÁS.{\r}

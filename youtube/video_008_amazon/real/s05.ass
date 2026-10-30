@@ -1,0 +1,98 @@
+[Script Info]
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: P,Archivo Black,82,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,6,3,2,60,60,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.15,0:00:00.73,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}¿Y{\r} LA DESTRUCCIÓN?
+Dialogue: 0,0:00:00.73,0:00:00.83,P,,0,0,0,,¿Y {\c&H00D4FF&\fscx110\fscy110}LA{\r} DESTRUCCIÓN?
+Dialogue: 0,0:00:00.83,0:00:02.33,P,,0,0,0,,¿Y LA {\c&H00D4FF&\fscx110\fscy110}DESTRUCCIÓN?{\r}
+Dialogue: 0,0:00:02.33,0:00:02.65,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EN{\r} DOS MIL VEINTIUNO,
+Dialogue: 0,0:00:02.65,0:00:02.97,P,,0,0,0,,EN {\c&H00D4FF&\fscx110\fscy110}DOS{\r} MIL VEINTIUNO,
+Dialogue: 0,0:00:02.97,0:00:03.30,P,,0,0,0,,EN DOS {\c&H00D4FF&\fscx110\fscy110}MIL{\r} VEINTIUNO,
+Dialogue: 0,0:00:03.30,0:00:03.95,P,,0,0,0,,EN DOS MIL {\c&H00D4FF&\fscx110\fscy110}VEINTIUNO,{\r}
+Dialogue: 0,0:00:03.95,0:00:04.00,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LA{\r} CADENA BRITÁNICA ITV
+Dialogue: 0,0:00:03.99,0:00:04.29,P,,0,0,0,,LA {\c&H00D4FF&\fscx110\fscy110}CADENA{\r} BRITÁNICA ITV
+Dialogue: 0,0:00:04.29,0:00:04.87,P,,0,0,0,,LA CADENA {\c&H00D4FF&\fscx110\fscy110}BRITÁNICA{\r} ITV
+Dialogue: 0,0:00:04.87,0:00:05.45,P,,0,0,0,,LA CADENA BRITÁNICA {\c&H00D4FF&\fscx110\fscy110}ITV{\r}
+Dialogue: 0,0:00:05.45,0:00:05.77,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}NEWS{\r} PUBLICÓ UNA INVESTIGACIÓN
+Dialogue: 0,0:00:05.77,0:00:06.51,P,,0,0,0,,NEWS {\c&H00D4FF&\fscx110\fscy110}PUBLICÓ{\r} UNA INVESTIGACIÓN
+Dialogue: 0,0:00:06.51,0:00:06.67,P,,0,0,0,,NEWS PUBLICÓ {\c&H00D4FF&\fscx110\fscy110}UNA{\r} INVESTIGACIÓN
+Dialogue: 0,0:00:06.67,0:00:07.21,P,,0,0,0,,NEWS PUBLICÓ UNA {\c&H00D4FF&\fscx110\fscy110}INVESTIGACIÓN{\r}
+Dialogue: 0,0:00:07.21,0:00:07.47,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EN{\r} ALMACENES DE AMAZON
+Dialogue: 0,0:00:07.47,0:00:07.87,P,,0,0,0,,EN {\c&H00D4FF&\fscx110\fscy110}ALMACENES{\r} DE AMAZON
+Dialogue: 0,0:00:07.87,0:00:08.07,P,,0,0,0,,EN ALMACENES {\c&H00D4FF&\fscx110\fscy110}DE{\r} AMAZON
+Dialogue: 0,0:00:08.07,0:00:08.29,P,,0,0,0,,EN ALMACENES DE {\c&H00D4FF&\fscx110\fscy110}AMAZON{\r}
+Dialogue: 0,0:00:08.29,0:00:08.55,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EN{\r} EL REINO UNIDO.
+Dialogue: 0,0:00:08.55,0:00:08.69,P,,0,0,0,,EN {\c&H00D4FF&\fscx110\fscy110}EL{\r} REINO UNIDO.
+Dialogue: 0,0:00:08.69,0:00:08.87,P,,0,0,0,,EN EL {\c&H00D4FF&\fscx110\fscy110}REINO{\r} UNIDO.
+Dialogue: 0,0:00:08.87,0:00:09.81,P,,0,0,0,,EN EL REINO {\c&H00D4FF&\fscx110\fscy110}UNIDO.{\r}
+Dialogue: 0,0:00:09.81,0:00:10.35,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SEGÚN{\r} UN EXEMPLEADO,
+Dialogue: 0,0:00:10.35,0:00:10.47,P,,0,0,0,,SEGÚN {\c&H00D4FF&\fscx110\fscy110}UN{\r} EXEMPLEADO,
+Dialogue: 0,0:00:10.47,0:00:11.47,P,,0,0,0,,SEGÚN UN {\c&H00D4FF&\fscx110\fscy110}EXEMPLEADO,{\r}
+Dialogue: 0,0:00:11.47,0:00:11.55,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EN{\r} UNA SEMANA DE
+Dialogue: 0,0:00:11.55,0:00:11.71,P,,0,0,0,,EN {\c&H00D4FF&\fscx110\fscy110}UNA{\r} SEMANA DE
+Dialogue: 0,0:00:11.71,0:00:12.01,P,,0,0,0,,EN UNA {\c&H00D4FF&\fscx110\fscy110}SEMANA{\r} DE
+Dialogue: 0,0:00:12.01,0:00:12.21,P,,0,0,0,,EN UNA SEMANA {\c&H00D4FF&\fscx110\fscy110}DE{\r}
+Dialogue: 0,0:00:12.21,0:00:12.91,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ABRIL{\r} EL OBJETIVO REGISTRADO
+Dialogue: 0,0:00:12.91,0:00:12.99,P,,0,0,0,,ABRIL {\c&H00D4FF&\fscx110\fscy110}EL{\r} OBJETIVO REGISTRADO
+Dialogue: 0,0:00:12.99,0:00:13.27,P,,0,0,0,,ABRIL EL {\c&H00D4FF&\fscx110\fscy110}OBJETIVO{\r} REGISTRADO
+Dialogue: 0,0:00:13.27,0:00:13.95,P,,0,0,0,,ABRIL EL OBJETIVO {\c&H00D4FF&\fscx110\fscy110}REGISTRADO{\r}
+Dialogue: 0,0:00:13.95,0:00:14.13,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ERA{\r} DESTRUIR CIENTO VEINTICUATRO
+Dialogue: 0,0:00:14.13,0:00:14.67,P,,0,0,0,,ERA {\c&H00D4FF&\fscx110\fscy110}DESTRUIR{\r} CIENTO VEINTICUATRO
+Dialogue: 0,0:00:14.67,0:00:15.00,P,,0,0,0,,ERA DESTRUIR {\c&H00D4FF&\fscx110\fscy110}CIENTO{\r} VEINTICUATRO
+Dialogue: 0,0:00:15.00,0:00:15.34,P,,0,0,0,,ERA DESTRUIR CIENTO {\c&H00D4FF&\fscx110\fscy110}VEINTICUATRO{\r}
+Dialogue: 0,0:00:15.34,0:00:16.01,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MIL{\r} PRODUCTOS,
+Dialogue: 0,0:00:16.01,0:00:16.87,P,,0,0,0,,MIL {\c&H00D4FF&\fscx110\fscy110}PRODUCTOS,{\r}
+Dialogue: 0,0:00:16.87,0:00:17.29,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MUCHOS{\r} DE ELLOS NUEVOS.
+Dialogue: 0,0:00:17.29,0:00:17.49,P,,0,0,0,,MUCHOS {\c&H00D4FF&\fscx110\fscy110}DE{\r} ELLOS NUEVOS.
+Dialogue: 0,0:00:17.49,0:00:17.75,P,,0,0,0,,MUCHOS DE {\c&H00D4FF&\fscx110\fscy110}ELLOS{\r} NUEVOS.
+Dialogue: 0,0:00:17.75,0:00:18.71,P,,0,0,0,,MUCHOS DE ELLOS {\c&H00D4FF&\fscx110\fscy110}NUEVOS.{\r}
+Dialogue: 0,0:00:18.71,0:00:19.29,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}AMAZON{\r} RESPONDIÓ QUE SU
+Dialogue: 0,0:00:19.29,0:00:19.85,P,,0,0,0,,AMAZON {\c&H00D4FF&\fscx110\fscy110}RESPONDIÓ{\r} QUE SU
+Dialogue: 0,0:00:19.85,0:00:19.99,P,,0,0,0,,AMAZON RESPONDIÓ {\c&H00D4FF&\fscx110\fscy110}QUE{\r} SU
+Dialogue: 0,0:00:19.99,0:00:20.15,P,,0,0,0,,AMAZON RESPONDIÓ QUE {\c&H00D4FF&\fscx110\fscy110}SU{\r}
+Dialogue: 0,0:00:20.15,0:00:20.57,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}PRIORIDAD{\r} ES REVENDER,
+Dialogue: 0,0:00:20.57,0:00:20.79,P,,0,0,0,,PRIORIDAD {\c&H00D4FF&\fscx110\fscy110}ES{\r} REVENDER,
+Dialogue: 0,0:00:20.79,0:00:21.59,P,,0,0,0,,PRIORIDAD ES {\c&H00D4FF&\fscx110\fscy110}REVENDER,{\r}
+Dialogue: 0,0:00:21.59,0:00:21.95,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DONAR{\r} O RECICLAR,
+Dialogue: 0,0:00:21.95,0:00:22.19,P,,0,0,0,,DONAR {\c&H00D4FF&\fscx110\fscy110}O{\r} RECICLAR,
+Dialogue: 0,0:00:22.19,0:00:23.19,P,,0,0,0,,DONAR O {\c&H00D4FF&\fscx110\fscy110}RECICLAR,{\r}
+Dialogue: 0,0:00:23.19,0:00:23.29,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}QUE{\r} EN EL REINO
+Dialogue: 0,0:00:23.29,0:00:23.41,P,,0,0,0,,QUE {\c&H00D4FF&\fscx110\fscy110}EN{\r} EL REINO
+Dialogue: 0,0:00:23.41,0:00:23.51,P,,0,0,0,,QUE EN {\c&H00D4FF&\fscx110\fscy110}EL{\r} REINO
+Dialogue: 0,0:00:23.51,0:00:23.75,P,,0,0,0,,QUE EN EL {\c&H00D4FF&\fscx110\fscy110}REINO{\r}
+Dialogue: 0,0:00:23.75,0:00:24.05,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}UNIDO{\r} NO SE ENVÍAN
+Dialogue: 0,0:00:24.05,0:00:24.31,P,,0,0,0,,UNIDO {\c&H00D4FF&\fscx110\fscy110}NO{\r} SE ENVÍAN
+Dialogue: 0,0:00:24.31,0:00:24.49,P,,0,0,0,,UNIDO NO {\c&H00D4FF&\fscx110\fscy110}SE{\r} ENVÍAN
+Dialogue: 0,0:00:24.49,0:00:24.79,P,,0,0,0,,UNIDO NO SE {\c&H00D4FF&\fscx110\fscy110}ENVÍAN{\r}
+Dialogue: 0,0:00:24.79,0:00:25.25,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ARTÍCULOS{\r} A VERTEDEROS Y
+Dialogue: 0,0:00:25.25,0:00:25.43,P,,0,0,0,,ARTÍCULOS {\c&H00D4FF&\fscx110\fscy110}A{\r} VERTEDEROS Y
+Dialogue: 0,0:00:25.43,0:00:25.99,P,,0,0,0,,ARTÍCULOS A {\c&H00D4FF&\fscx110\fscy110}VERTEDEROS{\r} Y
+Dialogue: 0,0:00:25.99,0:00:26.45,P,,0,0,0,,ARTÍCULOS A VERTEDEROS {\c&H00D4FF&\fscx110\fscy110}Y{\r}
+Dialogue: 0,0:00:26.45,0:00:26.55,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}QUE{\r} TRABAJA PARA LLEGAR
+Dialogue: 0,0:00:26.55,0:00:26.99,P,,0,0,0,,QUE {\c&H00D4FF&\fscx110\fscy110}TRABAJA{\r} PARA LLEGAR
+Dialogue: 0,0:00:26.99,0:00:27.15,P,,0,0,0,,QUE TRABAJA {\c&H00D4FF&\fscx110\fscy110}PARA{\r} LLEGAR
+Dialogue: 0,0:00:27.15,0:00:27.39,P,,0,0,0,,QUE TRABAJA PARA {\c&H00D4FF&\fscx110\fscy110}LLEGAR{\r}
+Dialogue: 0,0:00:27.39,0:00:27.57,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}A{\r} CERO.
+Dialogue: 0,0:00:27.57,0:00:28.43,P,,0,0,0,,A {\c&H00D4FF&\fscx110\fscy110}CERO.{\r}
+Dialogue: 0,0:00:28.43,0:00:28.69,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ES{\r} UNA INVESTIGACIÓN BRITÁNICA
+Dialogue: 0,0:00:28.69,0:00:28.83,P,,0,0,0,,ES {\c&H00D4FF&\fscx110\fscy110}UNA{\r} INVESTIGACIÓN BRITÁNICA
+Dialogue: 0,0:00:28.83,0:00:29.23,P,,0,0,0,,ES UNA {\c&H00D4FF&\fscx110\fscy110}INVESTIGACIÓN{\r} BRITÁNICA
+Dialogue: 0,0:00:29.23,0:00:30.13,P,,0,0,0,,ES UNA INVESTIGACIÓN {\c&H00D4FF&\fscx110\fscy110}BRITÁNICA{\r}
+Dialogue: 0,0:00:30.13,0:00:30.29,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} DE HACE CINCO
+Dialogue: 0,0:00:30.29,0:00:30.37,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}DE{\r} HACE CINCO
+Dialogue: 0,0:00:30.37,0:00:30.51,P,,0,0,0,,Y DE {\c&H00D4FF&\fscx110\fscy110}HACE{\r} CINCO
+Dialogue: 0,0:00:30.51,0:00:30.79,P,,0,0,0,,Y DE HACE {\c&H00D4FF&\fscx110\fscy110}CINCO{\r}
+Dialogue: 0,0:00:30.79,0:00:31.09,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}AÑOS:{\r}
+Dialogue: 0,0:00:31.09,0:00:31.65,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}NO{\r} SE PUEDE APLICAR
+Dialogue: 0,0:00:31.65,0:00:31.81,P,,0,0,0,,NO {\c&H00D4FF&\fscx110\fscy110}SE{\r} PUEDE APLICAR
+Dialogue: 0,0:00:31.81,0:00:32.01,P,,0,0,0,,NO SE {\c&H00D4FF&\fscx110\fscy110}PUEDE{\r} APLICAR
+Dialogue: 0,0:00:32.01,0:00:32.39,P,,0,0,0,,NO SE PUEDE {\c&H00D4FF&\fscx110\fscy110}APLICAR{\r}
+Dialogue: 0,0:00:32.39,0:00:32.45,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}A{\r} ESPAÑA.
+Dialogue: 0,0:00:32.45,0:00:33.11,P,,0,0,0,,A {\c&H00D4FF&\fscx110\fscy110}ESPAÑA.{\r}

@@ -1,335 +1,424 @@
 1
-00:00:00,000 --> 00:00:02,236
+00:00:00,000 --> 00:00:01,960
 Devuelves un paquete a Amazon.
 
 2
-00:00:02,236 --> 00:00:06,781
-Lo dejas en el punto de recogida o lo entregas al repartidor.
+00:00:02,280 --> 00:00:03,940
+Lo dejas en el punto de recogida…
 
 3
-00:00:06,781 --> 00:00:07,750
-Y te olvidas.
+00:00:03,940 --> 00:00:05,420
+y te olvidas.
 
 4
-00:00:07,750 --> 00:00:08,570
-¿Adónde va?
+00:00:05,680 --> 00:00:08,180
+Pero tu paquete no se olvida de nada.
 
 5
-00:00:08,570 --> 00:00:11,699
-¿Se revende, se regala, o acaba destruido?
+00:00:08,480 --> 00:00:11,300
+Empieza un viaje que casi nadie conoce.
 
 6
-00:00:12,049 --> 00:00:15,069
-Hoy vamos a abrir el ticket de una devolución.
+00:00:11,600 --> 00:00:12,400
+¿Se revende?
 
 7
-00:00:15,069 --> 00:00:21,697
-Y esta vez no hay cuentas que repartir, porque Amazon no publica cuántos productos devueltos revende,
+00:00:12,640 --> 00:00:13,160
+¿Se regala?
 
 8
-00:00:21,697 --> 00:00:23,404
-dona o destruye en España.
+00:00:13,160 --> 00:00:14,320
+¿O acaba…
 
 9
-00:00:23,404 --> 00:00:30,361
-Lo que sí hay es lo que dice la ley, lo que dice la propia empresa y lo que se ha publicado sobre el tema.
+00:00:14,320 --> 00:00:15,720
+destruido?
 
 10
-00:00:30,361 --> 00:00:31,345
-Vamos con ello.
+00:00:16,000 --> 00:00:21,020
+En dos mil veintiuno, una investigación de televisión en el Reino Unido grabó lo que pasaba
 
 11
-00:00:31,695 --> 00:00:33,123
-Primero, tu derecho.
+00:00:21,020 --> 00:00:22,480
+dentro de un almacén.
 
 12
-00:00:33,123 --> 00:00:40,193
-Cuando compras por internet, la ley te da catorce días naturales para devolver lo que has comprado,
+00:00:22,700 --> 00:00:24,920
+Y lo que vieron dio la vuelta al mundo.
 
 13
-00:00:40,193 --> 00:00:43,764
-sin tener que explicar por qué y sin penalización.
+00:00:24,920 --> 00:00:28,380
+Hoy vamos a seguir la pista de tu devolución.
 
 14
-00:00:43,764 --> 00:00:49,619
-Está en la Ley General para la Defensa de los Consumidores, y es un derecho legal.
+00:00:28,520 --> 00:00:31,200
+Con lo que dice la ley, lo que dice la propia empresa…
 
 15
-00:00:49,619 --> 00:00:55,332
-Ojo: no es lo mismo que la política de devoluciones que pueda tener cada tienda,
+00:00:31,200 --> 00:00:33,440
+y lo que nadie puede comprobar.
 
 16
-00:00:55,332 --> 00:00:57,260
-que puede ser más generosa.
+00:00:33,800 --> 00:00:39,260
+Porque Amazon no publica cuántos productos devueltos revende, dona o destruye en España.
 
 17
-00:00:57,610 --> 00:01:01,857
-Y la tienda tiene que devolverte el dinero sin demoras indebidas y,
+00:00:39,760 --> 00:00:40,860
+Vamos con ello.
 
 18
-00:01:01,857 --> 00:01:06,611
-en todo caso, en menos de catorce días desde que le comunicas que desistes.
+00:00:41,300 --> 00:00:42,700
+Primero, tu derecho.
 
 19
-00:01:06,611 --> 00:01:09,401
-Eso sí: puede esperar a recibir el producto,
+00:00:43,180 --> 00:00:47,680
+Cuando compras por internet, la ley te da catorce días naturales para devolver lo que has
 
 20
-00:01:09,401 --> 00:01:12,697
-o a que le enseñes una prueba de que lo has enviado.
+00:00:47,680 --> 00:00:51,400
+comprado, sin tener que explicar por qué y sin penalización.
 
 21
-00:01:13,047 --> 00:01:14,059
-Hay excepciones.
+00:00:51,660 --> 00:00:56,120
+Está en la Ley General para la Defensa de los Consumidores, y es un derecho legal.
 
 22
-00:01:14,059 --> 00:01:20,069
-No se pueden devolver, por esta vía, los productos hechos a medida o claramente personalizados,
+00:00:56,500 --> 00:00:57,080
+Ojo:
 
 23
-00:01:20,069 --> 00:01:28,483
-los que se estropean o caducan rápido, los precintados que no se pueden devolver por razones de higiene o salud y que ya has abierto,
+00:00:57,280 --> 00:01:00,840
+no es lo mismo que la política de devoluciones que pueda tener cada tienda,
 
 24
-00:01:28,483 --> 00:01:32,279
-ni los discos o programas precintados que has desprecintado.
+00:01:00,980 --> 00:01:02,580
+que puede ser más generosa.
 
 25
-00:01:32,629 --> 00:01:34,727
-Y tú también tienes obligaciones.
+00:01:02,900 --> 00:01:06,440
+Y la tienda tiene que devolverte el dinero sin demoras indebidas y,
 
 26
-00:01:34,727 --> 00:01:40,704
-Tienes que devolver el producto a más tardar en catorce días desde que comunicas que desistes.
+00:01:06,440 --> 00:01:11,060
+en todo caso, en menos de catorce días desde que le comunicas que desistes.
 
 27
-00:01:40,704 --> 00:01:44,328
-Los costes directos de la devolución corren de tu cuenta,
+00:01:11,460 --> 00:01:12,180
+Eso sí:
 
 28
-00:01:44,328 --> 00:01:50,368
-salvo que la tienda se haya ofrecido a asumirlos o no te haya informado de que te tocaban a ti.
+00:01:12,340 --> 00:01:16,040
+puede esperar a recibir el producto, o a que le enseñes una prueba de que lo
 
 29
-00:01:50,368 --> 00:01:58,442
-Solo respondes de la pérdida de valor si has manipulado el producto más de lo necesario para comprobar cómo es y cómo funciona.
+00:01:16,040 --> 00:01:16,860
+has enviado.
 
 30
-00:01:58,442 --> 00:02:03,337
-Y la carga de la prueba de que has desistido es tuya: guarda el justificante.
+00:01:17,240 --> 00:01:18,240
+Hay excepciones.
 
 31
-00:02:03,687 --> 00:02:06,814
-Ahora, la pregunta: ¿qué pasa con tu paquete?
+00:01:18,600 --> 00:01:24,020
+No se pueden devolver, por esta vía, los productos hechos a medida o claramente personalizados,
 
 32
-00:02:07,164 --> 00:02:11,828
-Según Amazon, en un comunicado publicado en octubre de dos mil veintiuno,
+00:01:24,160 --> 00:01:28,920
+los que se estropean o caducan rápido, los precintados que no se pueden devolver por razones
 
 33
-00:02:11,828 --> 00:02:15,470
-cada artículo devuelto pasa por una inspección detallada.
+00:01:28,920 --> 00:01:33,500
+de higiene o salud y que ya has abierto, ni los discos o programas precintados que
 
 34
-00:02:15,470 --> 00:02:20,198
-Si está como nuevo, se etiqueta como nuevo y se vuelve a poner a la venta.
+00:01:33,500 --> 00:01:34,620
+has desprecintado.
 
 35
-00:02:20,198 --> 00:02:25,565
-De hecho, dice, la mayoría de los productos devueltos se pueden volver a vender así.
+00:01:34,920 --> 00:01:36,740
+Y tú también tienes obligaciones.
 
 36
-00:02:25,565 --> 00:02:30,038
-Es lo que cuenta la empresa; no hay una cifra pública que lo confirme.
+00:01:37,200 --> 00:01:41,880
+Tienes que devolver el producto a más tardar en catorce días desde que comunicas que desistes.
 
 37
-00:02:30,388 --> 00:02:35,036
-Si no se puede vender como nuevo, depende de quién sea el dueño.
+00:01:42,280 --> 00:01:46,580
+Los costes directos de la devolución corren de tu cuenta, salvo que la tienda se haya
 
 38
-00:02:35,036 --> 00:02:39,248
-Si es de Amazon, las opciones son devolverlo al proveedor,
+00:01:46,580 --> 00:01:50,120
+ofrecido a asumirlos o no te haya informado de que te tocaban a ti.
 
 39
-00:02:39,248 --> 00:02:43,170
-venderlo como usado en Amazon Segunda Mano, o donarlo.
+00:01:50,360 --> 00:01:54,800
+Solo respondes de la pérdida de valor si has manipulado el producto más de lo necesario
 
 40
-00:02:43,170 --> 00:02:47,092
-En España, dice que dona a varias ONG, como Cruz Roja.
+00:01:54,800 --> 00:01:57,300
+para comprobar cómo es y cómo funciona.
 
 41
-00:02:47,092 --> 00:02:51,159
-Y solo si no queda otra opción, por ejemplo por higiene,
+00:01:57,760 --> 00:02:00,740
+Y la carga de la prueba de que has desistido es tuya:
 
 42
-00:02:51,159 --> 00:02:54,137
-por motivos legales o porque está dañado,
+00:02:00,860 --> 00:02:02,140
+guarda el justificante.
 
 43
-00:02:54,137 --> 00:02:57,841
-se desecha, después de reciclar todo lo reciclable.
+00:02:02,560 --> 00:02:03,720
+Ahora, la pregunta:
 
 44
-00:02:58,191 --> 00:03:00,427
-Pero hay un detalle importante.
+00:02:04,120 --> 00:02:05,500
+¿qué pasa con tu paquete?
 
 45
-00:03:00,427 --> 00:03:10,378
-Según la propia Amazon, más de la mitad de los productos que se venden en su plataforma en todo el mundo son de vendedores independientes,
+00:02:05,820 --> 00:02:09,995
+Según Amazon, en un comunicado publicado en octubre de dos mil veintiuno,
 
 46
-00:03:10,378 --> 00:03:16,652
-y son ellos los dueños del inventario y los que deciden qué hacer con lo que devuelves.
+00:02:10,000 --> 00:02:13,120
+cada artículo devuelto pasa por una inspección detallada.
 
 47
-00:03:16,652 --> 00:03:21,628
-Para eso, Amazon les ofrece programas: uno se llama FBA Liquidations,
+00:02:13,380 --> 00:02:17,560
+Si está como nuevo, se etiqueta como nuevo y se vuelve a poner a la venta.
 
 48
-00:03:21,628 --> 00:03:29,489
-y permite liquidar el inventario devuelto o no vendido a través del canal de liquidación mayorista de Amazon.
+00:02:17,780 --> 00:02:22,740
+De hecho, dice, la mayoría de los productos devueltos se pueden volver a vender así.
 
 49
-00:03:29,489 --> 00:03:34,321
-Y otro, FBA Grade and Resell, para revender lo devuelto como usado.
+00:02:23,060 --> 00:02:26,900
+Es lo que cuenta la empresa; no hay una cifra pública que lo confirme.
 
 50
-00:03:34,671 --> 00:03:40,582
-Es una de las vías por las que un producto devuelto puede acabar en un lote de liquidación.
+00:02:27,080 --> 00:02:31,220
+Si no se puede vender como nuevo, depende de quién sea el dueño.
 
 51
-00:03:40,582 --> 00:03:47,143
-Pero ojo: no podemos decirte de dónde sale cada palé o cada caja de devoluciones que ves en internet.
+00:02:31,580 --> 00:02:37,400
+Si es de Amazon, las opciones son devolverlo al proveedor, venderlo como usado en Amazon Segunda
 
 52
-00:03:47,493 --> 00:03:48,736
-¿Y la destrucción?
+00:02:37,400 --> 00:02:38,840
+Mano, o donarlo.
 
 53
-00:03:48,736 --> 00:03:56,887
-En dos mil veintiuno, la cadena británica ITV News publicó una investigación en almacenes de Amazon en el Reino Unido.
+00:02:39,220 --> 00:02:43,020
+En España, dice que dona a varias ONG, como Cruz Roja.
 
 54
-00:03:56,887 --> 00:04:04,761
-Según un exempleado, en una semana de abril el objetivo registrado era destruir ciento veinticuatro mil productos,
+00:02:43,020 --> 00:02:48,480
+Y solo si no queda otra opción, por ejemplo por higiene, por motivos legales o porque
 
 55
-00:04:04,761 --> 00:04:06,350
-muchos de ellos nuevos.
+00:02:48,480 --> 00:02:52,840
+está dañado, se desecha, después de reciclar todo lo reciclable.
 
 56
-00:04:06,350 --> 00:04:09,527
-Amazon respondió que su prioridad es revender,
+00:02:53,100 --> 00:02:55,020
+Pero hay un detalle importante.
 
 57
-00:04:09,527 --> 00:04:17,056
-donar o reciclar, que en el Reino Unido no se envían artículos a vertederos y que trabaja para llegar a cero.
+00:02:55,480 --> 00:02:59,480
+Según la propia Amazon, más de la mitad de los productos que se venden en su
 
 58
-00:04:17,056 --> 00:04:22,720
-Es una investigación británica y de hace cinco años: no se puede aplicar a España.
+00:02:59,480 --> 00:03:05,020
+plataforma en todo el mundo son de vendedores independientes, y son ellos los dueños del inventario
 
 59
-00:04:23,070 --> 00:04:24,844
-Lo que sí cambia es la ley.
+00:03:05,020 --> 00:03:07,840
+y los que deciden qué hacer con lo que devuelves.
 
 60
-00:04:24,844 --> 00:04:34,311
-En España, la ley de residuos de dos mil veintidós prohíbe destruir o llevar a vertedero los excedentes no vendidos de productos no perecederos,
+00:03:08,420 --> 00:03:11,100
+Para eso, Amazon les ofrece programas:
 
 61
-00:04:34,311 --> 00:04:37,334
-como textiles, juguetes o aparatos eléctricos,
+00:03:11,260 --> 00:03:17,200
+uno se llama FBA Liquidations, y permite liquidar el inventario devuelto o no vendido a través
 
 62
-00:04:37,334 --> 00:04:41,410
-salvo que haya que destruirlos por otra norma o por seguridad.
+00:03:17,200 --> 00:03:19,440
+del canal de liquidación mayorista de Amazon.
 
 63
-00:04:41,410 --> 00:04:45,157
-Y deben ir primero a reutilización, incluida la donación.
+00:03:19,860 --> 00:03:24,700
+Y otro, FBA Grade and Resell, para revender lo devuelto como usado.
 
 64
-00:04:45,507 --> 00:04:47,605
-Y la Unión Europea va más lejos.
+00:03:25,120 --> 00:03:28,720
+Es una de las vías por las que un producto devuelto puede acabar en un lote
 
 65
-00:04:47,605 --> 00:04:50,948
-Desde el diecinueve de julio de dos mil veintiséis,
+00:03:28,720 --> 00:03:29,560
+de liquidación.
 
 66
-00:04:50,948 --> 00:04:55,864
-el Reglamento de ecodiseño prohíbe a las grandes empresas destruir la ropa,
+00:03:30,000 --> 00:03:30,980
+Pero ojo:
 
 67
-00:04:55,864 --> 00:04:58,552
-los complementos y el calzado sin vender.
+00:03:31,220 --> 00:03:35,440
+no podemos decirte de dónde sale cada palé o cada caja de devoluciones que ves en
 
 68
-00:04:58,552 --> 00:05:07,467
-La propia norma reconoce el motivo: la destrucción de productos no vendidos se ha convertido en un problema medioambiental generalizado,
+00:03:35,440 --> 00:03:36,060
+internet.
 
 69
-00:05:07,467 --> 00:05:11,924
-debido, en particular, al rápido crecimiento de las ventas en línea.
+00:03:36,520 --> 00:03:38,020
+¿Y la destrucción?
 
 70
-00:05:11,924 --> 00:05:16,971
-Y deja excepciones, como los daños que no puedan repararse de forma rentable,
+00:03:38,700 --> 00:03:44,660
+En dos mil veintiuno, la cadena británica ITV News publicó una investigación en almacenes de Amazon
 
 71
-00:05:16,971 --> 00:05:19,921
-incluidos los detectados tras una devolución.
+00:03:44,660 --> 00:03:45,860
+en el Reino Unido.
 
 72
-00:05:20,271 --> 00:05:21,955
-Así que, ¿qué sabemos?
+00:03:46,180 --> 00:03:52,345
+Según un exempleado, en una semana de abril el objetivo registrado era destruir ciento veinticuatro mil
 
 73
-00:05:21,955 --> 00:05:27,312
-Que tienes derecho a devolver, que la ley obliga a reembolsarte y que,
+00:03:52,380 --> 00:03:54,700
+productos, muchos de ellos nuevos.
 
 74
-00:05:27,312 --> 00:05:33,052
-desde este verano, la UE prohíbe destruir ropa y calzado nuevos sin vender.
+00:03:55,080 --> 00:04:00,680
+Amazon respondió que su prioridad es revender, donar o reciclar, que en el Reino Unido no
 
 75
-00:05:33,052 --> 00:05:38,026
-Y que Amazon dice que su prioridad es revender, donar o reciclar.
+00:04:00,680 --> 00:04:04,440
+se envían artículos a vertederos y que trabaja para llegar a cero.
 
 76
-00:05:38,376 --> 00:05:43,630
-Y lo que no sabemos: cuántos productos devueltos acaban en cada camino.
+00:04:04,800 --> 00:04:07,460
+Es una investigación británica y de hace cinco años:
 
 77
-00:05:43,630 --> 00:05:45,406
-Esa cifra no es pública.
+00:04:07,460 --> 00:04:09,380
+no se puede aplicar a España.
 
 78
-00:05:45,406 --> 00:05:51,991
-Y mientras no lo sea, la respuesta a nuestra pregunta es la más honesta posible: depende.
+00:04:09,900 --> 00:04:11,740
+Lo que sí cambia es la ley.
 
 79
-00:05:52,341 --> 00:05:55,904
-Lo que devuelves a Amazon no tiene un único destino.
+00:04:12,080 --> 00:04:16,900
+En España, la ley de residuos de dos mil veintidós prohíbe destruir o llevar a vertedero
 
 80
-00:05:55,904 --> 00:05:59,879
-Tiene varios caminos, y la ley está cerrando uno de ellos.
+00:04:16,900 --> 00:04:22,940
+los excedentes no vendidos de productos no perecederos, como textiles, juguetes o aparatos eléctricos,
 
 81
-00:05:59,879 --> 00:06:03,236
-La pregunta ya no es qué hacen con tu devolución.
+00:04:23,000 --> 00:04:26,260
+salvo que haya que destruirlos por otra norma o por seguridad.
 
 82
-00:06:03,236 --> 00:06:06,457
-Es cuánto de lo que cuentan se puede comprobar.
+00:04:26,640 --> 00:04:30,000
+Y deben ir primero a reutilización, incluida la donación.
 
 83
-00:06:06,807 --> 00:06:11,178
-Aquí, cada semana, abrimos el ticket de algo que pagas todos los días.
+00:04:30,420 --> 00:04:32,680
+Y la Unión Europea va más lejos.
 
 84
-00:06:11,178 --> 00:06:15,675
-Si quieres saber cuál es el siguiente, ya sabes lo que tienes que hacer.
+00:04:33,120 --> 00:04:37,940
+Desde el diecinueve de julio de dos mil veintiséis, el Reglamento de ecodiseño prohíbe a las
+
+85
+00:04:37,940 --> 00:04:42,020
+grandes empresas destruir la ropa, los complementos y el calzado sin vender.
+
+86
+00:04:42,460 --> 00:04:44,420
+La propia norma reconoce el motivo:
+
+87
+00:04:44,800 --> 00:04:49,700
+la destrucción de productos no vendidos se ha convertido en un problema medioambiental generalizado,
+
+88
+00:04:49,780 --> 00:04:53,560
+debido, en particular, al rápido crecimiento de las ventas en línea.
+
+89
+00:04:53,900 --> 00:04:57,960
+Y deja excepciones, como los daños que no puedan repararse de forma rentable,
+
+90
+00:04:58,080 --> 00:05:00,440
+incluidos los detectados tras una devolución.
+
+91
+00:05:00,680 --> 00:05:02,060
+Así que, ¿qué sabemos?
+
+92
+00:05:02,540 --> 00:05:07,140
+Que tienes derecho a devolver, que la ley obliga a reembolsarte y que,
+
+93
+00:05:07,160 --> 00:05:11,820
+desde este verano, la UE prohíbe destruir ropa y calzado nuevos sin vender.
+
+94
+00:05:12,140 --> 00:05:16,340
+Y que Amazon dice que su prioridad es revender, donar o reciclar.
+
+95
+00:05:16,900 --> 00:05:18,260
+Y lo que no sabemos:
+
+96
+00:05:18,780 --> 00:05:21,600
+cuántos productos devueltos acaban en cada camino.
+
+97
+00:05:22,080 --> 00:05:23,560
+Esa cifra no es pública.
+
+98
+00:05:24,000 --> 00:05:28,380
+Y mientras no lo sea, la respuesta a nuestra pregunta es la más honesta posible:
+
+99
+00:05:28,820 --> 00:05:29,500
+depende.
+
+100
+00:05:30,080 --> 00:05:32,700
+Lo que devuelves a Amazon no tiene un único destino.
+
+101
+00:05:32,960 --> 00:05:36,240
+Tiene varios caminos, y la ley está cerrando uno de ellos.
+
+102
+00:05:36,780 --> 00:05:39,240
+La pregunta ya no es qué hacen con tu devolución.
+
+103
+00:05:39,680 --> 00:05:42,520
+Es cuánto de lo que cuentan se puede comprobar.
+
+104
+00:05:43,100 --> 00:05:46,320
+Cada semana abrimos el ticket de algo que pagas todos los días.
+
+105
+00:05:46,680 --> 00:05:47,340
+Y el próximo…
+
+106
+00:05:47,340 --> 00:05:49,900
+te va a sorprender todavía más.
+

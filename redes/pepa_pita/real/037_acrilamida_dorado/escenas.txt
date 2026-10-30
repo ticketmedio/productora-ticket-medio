@@ -1,0 +1,7 @@
+file '/Users/antoniofuster/Downloads/faceless/redes/pepa_pita/real/037_acrilamida_dorado/esc_00.mp4'
+file '/Users/antoniofuster/Downloads/faceless/redes/pepa_pita/real/037_acrilamida_dorado/esc_01.mp4'
+file '/Users/antoniofuster/Downloads/faceless/redes/pepa_pita/real/037_acrilamida_dorado/esc_02.mp4'
+file '/Users/antoniofuster/Downloads/faceless/redes/pepa_pita/real/037_acrilamida_dorado/esc_03.mp4'
+file '/Users/antoniofuster/Downloads/faceless/redes/pepa_pita/real/037_acrilamida_dorado/esc_04.mp4'
+file '/Users/antoniofuster/Downloads/faceless/redes/pepa_pita/real/037_acrilamida_dorado/esc_05.mp4'
+file '/Users/antoniofuster/Downloads/faceless/redes/pepa_pita/real/037_acrilamida_dorado/esc_pepa.mp4'

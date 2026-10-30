@@ -3,8 +3,10 @@
 Decididos ANTES del guion (ver `00_PACKAGING.md`).
 
 1. ¿Qué hace Amazon con lo que devuelves? ¿Lo destruye? ← ELEGIDO (copiar SIN asteriscos) (52 caracteres).
-2. ¿Qué hace Amazon con tus devoluciones? Lo que dicen la ley y la empresa (prueba A/B).
-3. ¿Destruye Amazon lo que devuelves? Lo que se sabe (y lo que no).
+2. ¿Qué hace Amazon con lo que devuelves? ¿Lo destruye, lo revende o lo regala? (prueba A/B).
+3. Lo que devuelves a Amazon: ¿lo revenden, lo regalan o lo destruyen?.
+4. ¿Qué hace Amazon con tus devoluciones? Lo que dicen la ley y la empresa.
+5. ¿Destruye Amazon lo que devuelves? Lo que se sabe (y lo que no).
 
 Miniatura: output/MINIATURA_1280x720.png («¿LO DESTRUYEN? TU DEVOLUCIÓN A AMAZON»).
 

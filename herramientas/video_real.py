@@ -324,14 +324,19 @@ if "--solo-largo" not in sys.argv and os.path.exists(os.path.join(V, "shorts.jso
             p = os.path.join(R, f"s{s['id']}_audio_{n_r}.wav")
             subprocess.run([FFMPEG, "-v", "error", "-y", "-ss", f"{a:.3f}", "-to", f"{b:.3f}", "-i", voz, p], check=True); partes.append(p)
             pal_s += [[w[0], w[1] - a + t_acum, w[2] - a + t_acum] for w in palabras if a <= w[1] < b]
+            resto = 0.0                                 # un trozo de menos de 0,2 s salía vacío: su tiempo se suma al clip siguiente
             for k, f in enumerate(frases):              # clips de las escenas que caen en el tramo, en vertical
                 ca, cb = max(cortes[k], a), min(cortes[k + 1], b)
+                if 0 < cb - ca < 0.2:
+                    resto += cb - ca; continue
+                ca -= resto
                 if cb - ca > 0.05:
+                    resto = 0.0
                     c = os.path.join(R, f"v_{k:03d}.mp4")
                     if not os.path.exists(c):
                         clip_escena(f, cortes[k + 1] - cortes[k], c, 1080, 1920, "portrait")
                     corte = os.path.join(R, f"s{s['id']}_{n_r}_{k:03d}.mp4")
-                    subprocess.run([FFMPEG, "-v", "error", "-y", "-ss", f"{ca - cortes[k]:.3f}", "-i", c, "-t", f"{cb - ca:.3f}", "-c:v", "libx264",
+                    subprocess.run([FFMPEG, "-v", "error", "-y", "-ss", f"{max(0.0, ca - cortes[k]):.3f}", "-i", c, "-t", f"{cb - ca:.3f}", "-c:v", "libx264",
                                     "-preset", "veryfast", "-crf", "20", "-an", corte], check=True)
                     clips.append(corte)
             t_acum += b - a

@@ -1,0 +1,96 @@
+[Script Info]
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: P,Archivo Black,82,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,6,3,2,60,60,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.15,0:00:00.49,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} LA UNIÓN EUROPEA
+Dialogue: 0,0:00:00.49,0:00:00.61,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}LA{\r} UNIÓN EUROPEA
+Dialogue: 0,0:00:00.61,0:00:00.83,P,,0,0,0,,Y LA {\c&H00D4FF&\fscx110\fscy110}UNIÓN{\r} EUROPEA
+Dialogue: 0,0:00:00.83,0:00:01.37,P,,0,0,0,,Y LA UNIÓN {\c&H00D4FF&\fscx110\fscy110}EUROPEA{\r}
+Dialogue: 0,0:00:01.37,0:00:01.63,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}VA{\r} MÁS LEJOS.
+Dialogue: 0,0:00:01.63,0:00:01.83,P,,0,0,0,,VA {\c&H00D4FF&\fscx110\fscy110}MÁS{\r} LEJOS.
+Dialogue: 0,0:00:01.83,0:00:02.85,P,,0,0,0,,VA MÁS {\c&H00D4FF&\fscx110\fscy110}LEJOS.{\r}
+Dialogue: 0,0:00:02.85,0:00:03.07,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DESDE{\r} EL DIECINUEVE DE
+Dialogue: 0,0:00:03.07,0:00:03.25,P,,0,0,0,,DESDE {\c&H00D4FF&\fscx110\fscy110}EL{\r} DIECINUEVE DE
+Dialogue: 0,0:00:03.25,0:00:03.63,P,,0,0,0,,DESDE EL {\c&H00D4FF&\fscx110\fscy110}DIECINUEVE{\r} DE
+Dialogue: 0,0:00:03.63,0:00:03.83,P,,0,0,0,,DESDE EL DIECINUEVE {\c&H00D4FF&\fscx110\fscy110}DE{\r}
+Dialogue: 0,0:00:03.83,0:00:04.17,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}JULIO{\r} DE DOS MIL
+Dialogue: 0,0:00:04.17,0:00:04.27,P,,0,0,0,,JULIO {\c&H00D4FF&\fscx110\fscy110}DE{\r} DOS MIL
+Dialogue: 0,0:00:04.27,0:00:04.61,P,,0,0,0,,JULIO DE {\c&H00D4FF&\fscx110\fscy110}DOS{\r} MIL
+Dialogue: 0,0:00:04.61,0:00:04.96,P,,0,0,0,,JULIO DE DOS {\c&H00D4FF&\fscx110\fscy110}MIL{\r}
+Dialogue: 0,0:00:04.96,0:00:05.65,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}VEINTISÉIS,{\r}
+Dialogue: 0,0:00:05.65,0:00:05.71,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EL{\r} REGLAMENTO DE ECODISEÑO
+Dialogue: 0,0:00:05.71,0:00:06.19,P,,0,0,0,,EL {\c&H00D4FF&\fscx110\fscy110}REGLAMENTO{\r} DE ECODISEÑO
+Dialogue: 0,0:00:06.19,0:00:06.39,P,,0,0,0,,EL REGLAMENTO {\c&H00D4FF&\fscx110\fscy110}DE{\r} ECODISEÑO
+Dialogue: 0,0:00:06.39,0:00:06.99,P,,0,0,0,,EL REGLAMENTO DE {\c&H00D4FF&\fscx110\fscy110}ECODISEÑO{\r}
+Dialogue: 0,0:00:06.99,0:00:07.43,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}PROHÍBE{\r} A LAS GRANDES
+Dialogue: 0,0:00:07.43,0:00:07.55,P,,0,0,0,,PROHÍBE {\c&H00D4FF&\fscx110\fscy110}A{\r} LAS GRANDES
+Dialogue: 0,0:00:07.55,0:00:07.67,P,,0,0,0,,PROHÍBE A {\c&H00D4FF&\fscx110\fscy110}LAS{\r} GRANDES
+Dialogue: 0,0:00:07.67,0:00:07.93,P,,0,0,0,,PROHÍBE A LAS {\c&H00D4FF&\fscx110\fscy110}GRANDES{\r}
+Dialogue: 0,0:00:07.93,0:00:08.41,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EMPRESAS{\r} DESTRUIR LA ROPA,
+Dialogue: 0,0:00:08.41,0:00:08.95,P,,0,0,0,,EMPRESAS {\c&H00D4FF&\fscx110\fscy110}DESTRUIR{\r} LA ROPA,
+Dialogue: 0,0:00:08.95,0:00:09.07,P,,0,0,0,,EMPRESAS DESTRUIR {\c&H00D4FF&\fscx110\fscy110}LA{\r} ROPA,
+Dialogue: 0,0:00:09.07,0:00:09.69,P,,0,0,0,,EMPRESAS DESTRUIR LA {\c&H00D4FF&\fscx110\fscy110}ROPA,{\r}
+Dialogue: 0,0:00:09.69,0:00:09.81,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LOS{\r} COMPLEMENTOS Y EL
+Dialogue: 0,0:00:09.81,0:00:10.45,P,,0,0,0,,LOS {\c&H00D4FF&\fscx110\fscy110}COMPLEMENTOS{\r} Y EL
+Dialogue: 0,0:00:10.45,0:00:10.57,P,,0,0,0,,LOS COMPLEMENTOS {\c&H00D4FF&\fscx110\fscy110}Y{\r} EL
+Dialogue: 0,0:00:10.57,0:00:10.67,P,,0,0,0,,LOS COMPLEMENTOS Y {\c&H00D4FF&\fscx110\fscy110}EL{\r}
+Dialogue: 0,0:00:10.67,0:00:11.03,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CALZADO{\r} SIN VENDER.
+Dialogue: 0,0:00:11.03,0:00:11.19,P,,0,0,0,,CALZADO {\c&H00D4FF&\fscx110\fscy110}SIN{\r} VENDER.
+Dialogue: 0,0:00:11.19,0:00:12.19,P,,0,0,0,,CALZADO SIN {\c&H00D4FF&\fscx110\fscy110}VENDER.{\r}
+Dialogue: 0,0:00:12.19,0:00:12.41,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LA{\r} PROPIA NORMA RECONOCE
+Dialogue: 0,0:00:12.41,0:00:12.67,P,,0,0,0,,LA {\c&H00D4FF&\fscx110\fscy110}PROPIA{\r} NORMA RECONOCE
+Dialogue: 0,0:00:12.67,0:00:13.03,P,,0,0,0,,LA PROPIA {\c&H00D4FF&\fscx110\fscy110}NORMA{\r} RECONOCE
+Dialogue: 0,0:00:13.03,0:00:13.49,P,,0,0,0,,LA PROPIA NORMA {\c&H00D4FF&\fscx110\fscy110}RECONOCE{\r}
+Dialogue: 0,0:00:13.49,0:00:13.59,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EL{\r} MOTIVO:
+Dialogue: 0,0:00:13.59,0:00:14.53,P,,0,0,0,,EL {\c&H00D4FF&\fscx110\fscy110}MOTIVO:{\r}
+Dialogue: 0,0:00:14.53,0:00:14.65,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LA{\r} DESTRUCCIÓN DE PRODUCTOS
+Dialogue: 0,0:00:14.65,0:00:15.19,P,,0,0,0,,LA {\c&H00D4FF&\fscx110\fscy110}DESTRUCCIÓN{\r} DE PRODUCTOS
+Dialogue: 0,0:00:15.19,0:00:15.31,P,,0,0,0,,LA DESTRUCCIÓN {\c&H00D4FF&\fscx110\fscy110}DE{\r} PRODUCTOS
+Dialogue: 0,0:00:15.31,0:00:15.63,P,,0,0,0,,LA DESTRUCCIÓN DE {\c&H00D4FF&\fscx110\fscy110}PRODUCTOS{\r}
+Dialogue: 0,0:00:15.63,0:00:15.93,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}NO{\r} VENDIDOS SE HA
+Dialogue: 0,0:00:15.93,0:00:16.33,P,,0,0,0,,NO {\c&H00D4FF&\fscx110\fscy110}VENDIDOS{\r} SE HA
+Dialogue: 0,0:00:16.33,0:00:16.59,P,,0,0,0,,NO VENDIDOS {\c&H00D4FF&\fscx110\fscy110}SE{\r} HA
+Dialogue: 0,0:00:16.59,0:00:16.67,P,,0,0,0,,NO VENDIDOS SE {\c&H00D4FF&\fscx110\fscy110}HA{\r}
+Dialogue: 0,0:00:16.67,0:00:17.17,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CONVERTIDO{\r} EN UN PROBLEMA
+Dialogue: 0,0:00:17.17,0:00:17.29,P,,0,0,0,,CONVERTIDO {\c&H00D4FF&\fscx110\fscy110}EN{\r} UN PROBLEMA
+Dialogue: 0,0:00:17.29,0:00:17.39,P,,0,0,0,,CONVERTIDO EN {\c&H00D4FF&\fscx110\fscy110}UN{\r} PROBLEMA
+Dialogue: 0,0:00:17.39,0:00:17.71,P,,0,0,0,,CONVERTIDO EN UN {\c&H00D4FF&\fscx110\fscy110}PROBLEMA{\r}
+Dialogue: 0,0:00:17.71,0:00:18.45,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MEDIOAMBIENTAL{\r} GENERALIZADO,
+Dialogue: 0,0:00:18.45,0:00:19.51,P,,0,0,0,,MEDIOAMBIENTAL {\c&H00D4FF&\fscx110\fscy110}GENERALIZADO,{\r}
+Dialogue: 0,0:00:19.51,0:00:19.91,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DEBIDO,{\r}
+Dialogue: 0,0:00:19.91,0:00:20.13,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EN{\r} PARTICULAR,
+Dialogue: 0,0:00:20.13,0:00:20.61,P,,0,0,0,,EN {\c&H00D4FF&\fscx110\fscy110}PARTICULAR,{\r}
+Dialogue: 0,0:00:20.61,0:00:21.11,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}AL{\r} RÁPIDO CRECIMIENTO DE
+Dialogue: 0,0:00:21.11,0:00:21.43,P,,0,0,0,,AL {\c&H00D4FF&\fscx110\fscy110}RÁPIDO{\r} CRECIMIENTO DE
+Dialogue: 0,0:00:21.43,0:00:21.99,P,,0,0,0,,AL RÁPIDO {\c&H00D4FF&\fscx110\fscy110}CRECIMIENTO{\r} DE
+Dialogue: 0,0:00:21.99,0:00:22.15,P,,0,0,0,,AL RÁPIDO CRECIMIENTO {\c&H00D4FF&\fscx110\fscy110}DE{\r}
+Dialogue: 0,0:00:22.15,0:00:22.29,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LAS{\r} VENTAS EN LÍNEA.
+Dialogue: 0,0:00:22.29,0:00:22.59,P,,0,0,0,,LAS {\c&H00D4FF&\fscx110\fscy110}VENTAS{\r} EN LÍNEA.
+Dialogue: 0,0:00:22.59,0:00:22.75,P,,0,0,0,,LAS VENTAS {\c&H00D4FF&\fscx110\fscy110}EN{\r} LÍNEA.
+Dialogue: 0,0:00:22.75,0:00:23.63,P,,0,0,0,,LAS VENTAS EN {\c&H00D4FF&\fscx110\fscy110}LÍNEA.{\r}
+Dialogue: 0,0:00:23.63,0:00:23.85,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} DEJA EXCEPCIONES,
+Dialogue: 0,0:00:23.85,0:00:24.07,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}DEJA{\r} EXCEPCIONES,
+Dialogue: 0,0:00:24.07,0:00:24.59,P,,0,0,0,,Y DEJA {\c&H00D4FF&\fscx110\fscy110}EXCEPCIONES,{\r}
+Dialogue: 0,0:00:24.59,0:00:25.09,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}COMO{\r} LOS DAÑOS QUE
+Dialogue: 0,0:00:25.09,0:00:25.29,P,,0,0,0,,COMO {\c&H00D4FF&\fscx110\fscy110}LOS{\r} DAÑOS QUE
+Dialogue: 0,0:00:25.29,0:00:25.59,P,,0,0,0,,COMO LOS {\c&H00D4FF&\fscx110\fscy110}DAÑOS{\r} QUE
+Dialogue: 0,0:00:25.59,0:00:25.77,P,,0,0,0,,COMO LOS DAÑOS {\c&H00D4FF&\fscx110\fscy110}QUE{\r}
+Dialogue: 0,0:00:25.77,0:00:25.89,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}NO{\r} PUEDAN REPARARSE DE
+Dialogue: 0,0:00:25.89,0:00:26.13,P,,0,0,0,,NO {\c&H00D4FF&\fscx110\fscy110}PUEDAN{\r} REPARARSE DE
+Dialogue: 0,0:00:26.13,0:00:26.61,P,,0,0,0,,NO PUEDAN {\c&H00D4FF&\fscx110\fscy110}REPARARSE{\r} DE
+Dialogue: 0,0:00:26.61,0:00:26.73,P,,0,0,0,,NO PUEDAN REPARARSE {\c&H00D4FF&\fscx110\fscy110}DE{\r}
+Dialogue: 0,0:00:26.73,0:00:26.91,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}FORMA{\r} RENTABLE,
+Dialogue: 0,0:00:26.91,0:00:27.81,P,,0,0,0,,FORMA {\c&H00D4FF&\fscx110\fscy110}RENTABLE,{\r}
+Dialogue: 0,0:00:27.81,0:00:28.27,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}INCLUIDOS{\r} LOS DETECTADOS TRAS
+Dialogue: 0,0:00:28.27,0:00:28.45,P,,0,0,0,,INCLUIDOS {\c&H00D4FF&\fscx110\fscy110}LOS{\r} DETECTADOS TRAS
+Dialogue: 0,0:00:28.45,0:00:29.01,P,,0,0,0,,INCLUIDOS LOS {\c&H00D4FF&\fscx110\fscy110}DETECTADOS{\r} TRAS
+Dialogue: 0,0:00:29.01,0:00:29.19,P,,0,0,0,,INCLUIDOS LOS DETECTADOS {\c&H00D4FF&\fscx110\fscy110}TRAS{\r}
+Dialogue: 0,0:00:29.19,0:00:29.43,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}UNA{\r} DEVOLUCIÓN.
+Dialogue: 0,0:00:29.43,0:00:30.27,P,,0,0,0,,UNA {\c&H00D4FF&\fscx110\fscy110}DEVOLUCIÓN.{\r}
