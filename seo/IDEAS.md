@@ -2,6 +2,20 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 30/10/2026 (mañana)
+
+**Ejemplos que funcionan (datos públicos, 30/10/2026)**
+- Bruno Peluch (≈6,5 mil suscriptores): TOUS, 220 mil en 11 d; Hawkers, 18 mil; Cupra/Seat, 14 mil.
+- Lluís Lairón: misma cesta en 4 súper, 68.263.
+- Black Friday «falso descuento»: recientes con 359 y 1.794 visualizaciones (hueco).
+
+**Ideas**
+1. **Vídeo largo — Black Friday: el sistema del falso descuento**, con la multa de Consumo como cifra de apertura.
+2. **Short — misma cesta, dos súper**, enlazado al largo.
+3. **Carrusel de Pepa — castañas / Todos los Santos** (falta fuente AESAN); pedir guardar o compartir.
+
+**Mejora aplicable:** marca + sospecha + cifra en las primeras palabras del título; publicar el largo antes del 27/11.
+
 ## 29/10/2026 (tarde)
 
 **Ejemplos que funcionan (datos públicos, 29/10/2026)**
