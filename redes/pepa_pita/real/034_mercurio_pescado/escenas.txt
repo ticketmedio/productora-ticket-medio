@@ -1,0 +1,7 @@
+file '/Users/antoniofuster/Downloads/faceless/redes/pepa_pita/real/034_mercurio_pescado/esc_00.mp4'
+file '/Users/antoniofuster/Downloads/faceless/redes/pepa_pita/real/034_mercurio_pescado/esc_01.mp4'
+file '/Users/antoniofuster/Downloads/faceless/redes/pepa_pita/real/034_mercurio_pescado/esc_02.mp4'
+file '/Users/antoniofuster/Downloads/faceless/redes/pepa_pita/real/034_mercurio_pescado/esc_03.mp4'
+file '/Users/antoniofuster/Downloads/faceless/redes/pepa_pita/real/034_mercurio_pescado/esc_04.mp4'
+file '/Users/antoniofuster/Downloads/faceless/redes/pepa_pita/real/034_mercurio_pescado/esc_05.mp4'
+file '/Users/antoniofuster/Downloads/faceless/redes/pepa_pita/real/034_mercurio_pescado/esc_pepa.mp4'

@@ -1,0 +1,6 @@
+file '/Users/antoniofuster/Downloads/faceless/redes/pepa_pita/real/035_cabezas_gambas/esc_00.mp4'
+file '/Users/antoniofuster/Downloads/faceless/redes/pepa_pita/real/035_cabezas_gambas/esc_01.mp4'
+file '/Users/antoniofuster/Downloads/faceless/redes/pepa_pita/real/035_cabezas_gambas/esc_02.mp4'
+file '/Users/antoniofuster/Downloads/faceless/redes/pepa_pita/real/035_cabezas_gambas/esc_03.mp4'
+file '/Users/antoniofuster/Downloads/faceless/redes/pepa_pita/real/035_cabezas_gambas/esc_04.mp4'
+file '/Users/antoniofuster/Downloads/faceless/redes/pepa_pita/real/035_cabezas_gambas/esc_pepa.mp4'

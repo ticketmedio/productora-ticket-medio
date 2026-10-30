@@ -1,0 +1,2 @@
+file '/Users/antoniofuster/Downloads/faceless/youtube/video_007_ryanair/real/s02_audio_0.wav'
+file '/Users/antoniofuster/Downloads/faceless/youtube/video_007_ryanair/real/s02_audio_1.wav'

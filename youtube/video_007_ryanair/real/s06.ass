@@ -1,0 +1,74 @@
+[Script Info]
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: P,Archivo Black,82,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,6,3,2,60,60,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.15,0:00:01.63,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ENTONCES,{\r}
+Dialogue: 0,0:00:01.63,0:00:02.09,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}¿CUÁL{\r} ES EL TRUCO?
+Dialogue: 0,0:00:02.09,0:00:02.33,P,,0,0,0,,¿CUÁL {\c&H00D4FF&\fscx110\fscy110}ES{\r} EL TRUCO?
+Dialogue: 0,0:00:02.33,0:00:02.53,P,,0,0,0,,¿CUÁL ES {\c&H00D4FF&\fscx110\fscy110}EL{\r} TRUCO?
+Dialogue: 0,0:00:02.53,0:00:03.61,P,,0,0,0,,¿CUÁL ES EL {\c&H00D4FF&\fscx110\fscy110}TRUCO?{\r}
+Dialogue: 0,0:00:03.61,0:00:03.79,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CON{\r} SUS PROPIAS CIFRAS,
+Dialogue: 0,0:00:03.79,0:00:04.03,P,,0,0,0,,CON {\c&H00D4FF&\fscx110\fscy110}SUS{\r} PROPIAS CIFRAS,
+Dialogue: 0,0:00:04.03,0:00:04.39,P,,0,0,0,,CON SUS {\c&H00D4FF&\fscx110\fscy110}PROPIAS{\r} CIFRAS,
+Dialogue: 0,0:00:04.39,0:00:04.79,P,,0,0,0,,CON SUS PROPIAS {\c&H00D4FF&\fscx110\fscy110}CIFRAS,{\r}
+Dialogue: 0,0:00:04.79,0:00:05.31,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SON{\r} TRES.
+Dialogue: 0,0:00:05.31,0:00:06.33,P,,0,0,0,,SON {\c&H00D4FF&\fscx110\fscy110}TRES.{\r}
+Dialogue: 0,0:00:06.33,0:00:07.13,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}UNO:{\r}
+Dialogue: 0,0:00:07.13,0:00:07.41,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LLENAR{\r} EL AVIÓN.
+Dialogue: 0,0:00:07.41,0:00:07.57,P,,0,0,0,,LLENAR {\c&H00D4FF&\fscx110\fscy110}EL{\r} AVIÓN.
+Dialogue: 0,0:00:07.57,0:00:08.35,P,,0,0,0,,LLENAR EL {\c&H00D4FF&\fscx110\fscy110}AVIÓN.{\r}
+Dialogue: 0,0:00:08.35,0:00:08.55,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}UN{\r} NOVENTA Y CUATRO
+Dialogue: 0,0:00:08.55,0:00:08.73,P,,0,0,0,,UN {\c&H00D4FF&\fscx110\fscy110}NOVENTA{\r} Y CUATRO
+Dialogue: 0,0:00:08.73,0:00:08.92,P,,0,0,0,,UN NOVENTA {\c&H00D4FF&\fscx110\fscy110}Y{\r} CUATRO
+Dialogue: 0,0:00:08.92,0:00:09.10,P,,0,0,0,,UN NOVENTA Y {\c&H00D4FF&\fscx110\fscy110}CUATRO{\r}
+Dialogue: 0,0:00:09.10,0:00:09.28,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}POR{\r} CIENTO DE OCUPACIÓN
+Dialogue: 0,0:00:09.28,0:00:09.65,P,,0,0,0,,POR {\c&H00D4FF&\fscx110\fscy110}CIENTO{\r} DE OCUPACIÓN
+Dialogue: 0,0:00:09.65,0:00:09.95,P,,0,0,0,,POR CIENTO {\c&H00D4FF&\fscx110\fscy110}DE{\r} OCUPACIÓN
+Dialogue: 0,0:00:09.95,0:00:10.43,P,,0,0,0,,POR CIENTO DE {\c&H00D4FF&\fscx110\fscy110}OCUPACIÓN{\r}
+Dialogue: 0,0:00:10.43,0:00:10.85,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SIGNIFICA{\r} QUE CASI NO
+Dialogue: 0,0:00:10.85,0:00:11.11,P,,0,0,0,,SIGNIFICA {\c&H00D4FF&\fscx110\fscy110}QUE{\r} CASI NO
+Dialogue: 0,0:00:11.11,0:00:11.39,P,,0,0,0,,SIGNIFICA QUE {\c&H00D4FF&\fscx110\fscy110}CASI{\r} NO
+Dialogue: 0,0:00:11.39,0:00:11.61,P,,0,0,0,,SIGNIFICA QUE CASI {\c&H00D4FF&\fscx110\fscy110}NO{\r}
+Dialogue: 0,0:00:11.61,0:00:12.03,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}VUELA{\r} NINGÚN ASIENTO VACÍO.
+Dialogue: 0,0:00:12.03,0:00:12.47,P,,0,0,0,,VUELA {\c&H00D4FF&\fscx110\fscy110}NINGÚN{\r} ASIENTO VACÍO.
+Dialogue: 0,0:00:12.47,0:00:12.85,P,,0,0,0,,VUELA NINGÚN {\c&H00D4FF&\fscx110\fscy110}ASIENTO{\r} VACÍO.
+Dialogue: 0,0:00:12.85,0:00:14.19,P,,0,0,0,,VUELA NINGÚN ASIENTO {\c&H00D4FF&\fscx110\fscy110}VACÍO.{\r}
+Dialogue: 0,0:00:14.19,0:00:15.07,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DOS:{\r}
+Dialogue: 0,0:00:15.07,0:00:15.29,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}UN{\r} SOLO MODELO DE
+Dialogue: 0,0:00:15.29,0:00:15.57,P,,0,0,0,,UN {\c&H00D4FF&\fscx110\fscy110}SOLO{\r} MODELO DE
+Dialogue: 0,0:00:15.57,0:00:15.95,P,,0,0,0,,UN SOLO {\c&H00D4FF&\fscx110\fscy110}MODELO{\r} DE
+Dialogue: 0,0:00:15.95,0:00:16.13,P,,0,0,0,,UN SOLO MODELO {\c&H00D4FF&\fscx110\fscy110}DE{\r}
+Dialogue: 0,0:00:16.13,0:00:16.77,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}AVIÓN,{\r}
+Dialogue: 0,0:00:16.77,0:00:16.89,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}QUE{\r} SIMPLIFICA EL MANTENIMIENTO
+Dialogue: 0,0:00:16.89,0:00:17.47,P,,0,0,0,,QUE {\c&H00D4FF&\fscx110\fscy110}SIMPLIFICA{\r} EL MANTENIMIENTO
+Dialogue: 0,0:00:17.47,0:00:17.61,P,,0,0,0,,QUE SIMPLIFICA {\c&H00D4FF&\fscx110\fscy110}EL{\r} MANTENIMIENTO
+Dialogue: 0,0:00:17.61,0:00:18.25,P,,0,0,0,,QUE SIMPLIFICA EL {\c&H00D4FF&\fscx110\fscy110}MANTENIMIENTO{\r}
+Dialogue: 0,0:00:18.25,0:00:18.37,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} LA FORMACIÓN.
+Dialogue: 0,0:00:18.37,0:00:18.47,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}LA{\r} FORMACIÓN.
+Dialogue: 0,0:00:18.47,0:00:19.77,P,,0,0,0,,Y LA {\c&H00D4FF&\fscx110\fscy110}FORMACIÓN.{\r}
+Dialogue: 0,0:00:19.77,0:00:20.01,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} TRES:
+Dialogue: 0,0:00:20.01,0:00:20.79,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}TRES:{\r}
+Dialogue: 0,0:00:20.79,0:00:21.11,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}COBRAR{\r} APARTE LO QUE
+Dialogue: 0,0:00:21.11,0:00:21.57,P,,0,0,0,,COBRAR {\c&H00D4FF&\fscx110\fscy110}APARTE{\r} LO QUE
+Dialogue: 0,0:00:21.57,0:00:21.75,P,,0,0,0,,COBRAR APARTE {\c&H00D4FF&\fscx110\fscy110}LO{\r} QUE
+Dialogue: 0,0:00:21.75,0:00:21.91,P,,0,0,0,,COBRAR APARTE LO {\c&H00D4FF&\fscx110\fscy110}QUE{\r}
+Dialogue: 0,0:00:21.91,0:00:22.15,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}NO{\r} ES EL ASIENTO,
+Dialogue: 0,0:00:22.15,0:00:22.41,P,,0,0,0,,NO {\c&H00D4FF&\fscx110\fscy110}ES{\r} EL ASIENTO,
+Dialogue: 0,0:00:22.41,0:00:22.53,P,,0,0,0,,NO ES {\c&H00D4FF&\fscx110\fscy110}EL{\r} ASIENTO,
+Dialogue: 0,0:00:22.53,0:00:23.19,P,,0,0,0,,NO ES EL {\c&H00D4FF&\fscx110\fscy110}ASIENTO,{\r}
+Dialogue: 0,0:00:23.19,0:00:23.39,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}QUE{\r} YA ES CASI
+Dialogue: 0,0:00:23.39,0:00:23.57,P,,0,0,0,,QUE {\c&H00D4FF&\fscx110\fscy110}YA{\r} ES CASI
+Dialogue: 0,0:00:23.57,0:00:23.73,P,,0,0,0,,QUE YA {\c&H00D4FF&\fscx110\fscy110}ES{\r} CASI
+Dialogue: 0,0:00:23.73,0:00:23.85,P,,0,0,0,,QUE YA ES {\c&H00D4FF&\fscx110\fscy110}CASI{\r}
+Dialogue: 0,0:00:23.85,0:00:24.27,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}UN{\r} TERCIO DE SUS
+Dialogue: 0,0:00:24.27,0:00:24.63,P,,0,0,0,,UN {\c&H00D4FF&\fscx110\fscy110}TERCIO{\r} DE SUS
+Dialogue: 0,0:00:24.63,0:00:24.77,P,,0,0,0,,UN TERCIO {\c&H00D4FF&\fscx110\fscy110}DE{\r} SUS
+Dialogue: 0,0:00:24.77,0:00:24.93,P,,0,0,0,,UN TERCIO DE {\c&H00D4FF&\fscx110\fscy110}SUS{\r}
+Dialogue: 0,0:00:24.93,0:00:25.81,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}INGRESOS.{\r}

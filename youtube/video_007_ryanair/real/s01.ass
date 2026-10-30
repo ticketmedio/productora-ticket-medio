@@ -1,0 +1,88 @@
+[Script Info]
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: P,Archivo Black,82,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,6,3,2,60,60,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.15,0:00:00.39,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}¿DE{\r} DÓNDE SALEN?
+Dialogue: 0,0:00:00.39,0:00:00.53,P,,0,0,0,,¿DE {\c&H00D4FF&\fscx110\fscy110}DÓNDE{\r} SALEN?
+Dialogue: 0,0:00:00.53,0:00:00.93,P,,0,0,0,,¿DE DÓNDE {\c&H00D4FF&\fscx110\fscy110}SALEN?{\r}
+Dialogue: 0,0:00:00.93,0:00:01.83,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DE{\r} LA TARIFA,
+Dialogue: 0,0:00:01.83,0:00:01.97,P,,0,0,0,,DE {\c&H00D4FF&\fscx110\fscy110}LA{\r} TARIFA,
+Dialogue: 0,0:00:01.97,0:00:02.45,P,,0,0,0,,DE LA {\c&H00D4FF&\fscx110\fscy110}TARIFA,{\r}
+Dialogue: 0,0:00:02.45,0:00:03.33,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CINCUENTA{\r} EUROS CON SESENTA
+Dialogue: 0,0:00:03.33,0:00:03.97,P,,0,0,0,,CINCUENTA {\c&H00D4FF&\fscx110\fscy110}EUROS{\r} CON SESENTA
+Dialogue: 0,0:00:03.97,0:00:04.27,P,,0,0,0,,CINCUENTA EUROS {\c&H00D4FF&\fscx110\fscy110}CON{\r} SESENTA
+Dialogue: 0,0:00:04.27,0:00:04.60,P,,0,0,0,,CINCUENTA EUROS CON {\c&H00D4FF&\fscx110\fscy110}SESENTA{\r}
+Dialogue: 0,0:00:04.60,0:00:04.93,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} SIETE:
+Dialogue: 0,0:00:04.93,0:00:05.59,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}SIETE:{\r}
+Dialogue: 0,0:00:05.59,0:00:05.97,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EL{\r} SESENTA Y OCHO
+Dialogue: 0,0:00:05.97,0:00:06.23,P,,0,0,0,,EL {\c&H00D4FF&\fscx110\fscy110}SESENTA{\r} Y OCHO
+Dialogue: 0,0:00:06.23,0:00:06.48,P,,0,0,0,,EL SESENTA {\c&H00D4FF&\fscx110\fscy110}Y{\r} OCHO
+Dialogue: 0,0:00:06.48,0:00:06.74,P,,0,0,0,,EL SESENTA Y {\c&H00D4FF&\fscx110\fscy110}OCHO{\r}
+Dialogue: 0,0:00:06.74,0:00:07.00,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}POR{\r} CIENTO.
+Dialogue: 0,0:00:07.00,0:00:07.51,P,,0,0,0,,POR {\c&H00D4FF&\fscx110\fscy110}CIENTO.{\r}
+Dialogue: 0,0:00:07.51,0:00:08.67,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ES{\r} LA MEDIA DE
+Dialogue: 0,0:00:08.67,0:00:08.91,P,,0,0,0,,ES {\c&H00D4FF&\fscx110\fscy110}LA{\r} MEDIA DE
+Dialogue: 0,0:00:08.91,0:00:09.19,P,,0,0,0,,ES LA {\c&H00D4FF&\fscx110\fscy110}MEDIA{\r} DE
+Dialogue: 0,0:00:09.19,0:00:09.49,P,,0,0,0,,ES LA MEDIA {\c&H00D4FF&\fscx110\fscy110}DE{\r}
+Dialogue: 0,0:00:09.49,0:00:09.85,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}TODOS{\r} LOS BILLETES,
+Dialogue: 0,0:00:09.85,0:00:10.15,P,,0,0,0,,TODOS {\c&H00D4FF&\fscx110\fscy110}LOS{\r} BILLETES,
+Dialogue: 0,0:00:10.15,0:00:10.97,P,,0,0,0,,TODOS LOS {\c&H00D4FF&\fscx110\fscy110}BILLETES,{\r}
+Dialogue: 0,0:00:10.97,0:00:11.15,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LOS{\r} DE DIEZ EUROS
+Dialogue: 0,0:00:11.15,0:00:11.33,P,,0,0,0,,LOS {\c&H00D4FF&\fscx110\fscy110}DE{\r} DIEZ EUROS
+Dialogue: 0,0:00:11.33,0:00:11.59,P,,0,0,0,,LOS DE {\c&H00D4FF&\fscx110\fscy110}DIEZ{\r} EUROS
+Dialogue: 0,0:00:11.59,0:00:11.87,P,,0,0,0,,LOS DE DIEZ {\c&H00D4FF&\fscx110\fscy110}EUROS{\r}
+Dialogue: 0,0:00:11.87,0:00:12.37,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} LOS DE DOSCIENTOS.
+Dialogue: 0,0:00:12.37,0:00:12.55,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}LOS{\r} DE DOSCIENTOS.
+Dialogue: 0,0:00:12.55,0:00:12.69,P,,0,0,0,,Y LOS {\c&H00D4FF&\fscx110\fscy110}DE{\r} DOSCIENTOS.
+Dialogue: 0,0:00:12.69,0:00:14.13,P,,0,0,0,,Y LOS DE {\c&H00D4FF&\fscx110\fscy110}DOSCIENTOS.{\r}
+Dialogue: 0,0:00:14.13,0:00:14.73,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}RYANAIR{\r} DICE QUE LA
+Dialogue: 0,0:00:14.73,0:00:15.13,P,,0,0,0,,RYANAIR {\c&H00D4FF&\fscx110\fscy110}DICE{\r} QUE LA
+Dialogue: 0,0:00:15.13,0:00:15.37,P,,0,0,0,,RYANAIR DICE {\c&H00D4FF&\fscx110\fscy110}QUE{\r} LA
+Dialogue: 0,0:00:15.37,0:00:15.49,P,,0,0,0,,RYANAIR DICE QUE {\c&H00D4FF&\fscx110\fscy110}LA{\r}
+Dialogue: 0,0:00:15.49,0:00:15.85,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}TARIFA{\r} MEDIA FUE DE
+Dialogue: 0,0:00:15.85,0:00:16.13,P,,0,0,0,,TARIFA {\c&H00D4FF&\fscx110\fscy110}MEDIA{\r} FUE DE
+Dialogue: 0,0:00:16.13,0:00:16.43,P,,0,0,0,,TARIFA MEDIA {\c&H00D4FF&\fscx110\fscy110}FUE{\r} DE
+Dialogue: 0,0:00:16.43,0:00:16.57,P,,0,0,0,,TARIFA MEDIA FUE {\c&H00D4FF&\fscx110\fscy110}DE{\r}
+Dialogue: 0,0:00:16.57,0:00:16.87,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}UNOS{\r} CINCUENTA Y UN
+Dialogue: 0,0:00:16.87,0:00:17.01,P,,0,0,0,,UNOS {\c&H00D4FF&\fscx110\fscy110}CINCUENTA{\r} Y UN
+Dialogue: 0,0:00:17.01,0:00:17.15,P,,0,0,0,,UNOS CINCUENTA {\c&H00D4FF&\fscx110\fscy110}Y{\r} UN
+Dialogue: 0,0:00:17.15,0:00:17.43,P,,0,0,0,,UNOS CINCUENTA Y {\c&H00D4FF&\fscx110\fscy110}UN{\r}
+Dialogue: 0,0:00:17.43,0:00:18.27,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EUROS,{\r}
+Dialogue: 0,0:00:18.27,0:00:18.53,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}UN{\r} DIEZ POR CIENTO
+Dialogue: 0,0:00:18.53,0:00:18.69,P,,0,0,0,,UN {\c&H00D4FF&\fscx110\fscy110}DIEZ{\r} POR CIENTO
+Dialogue: 0,0:00:18.69,0:00:18.86,P,,0,0,0,,UN DIEZ {\c&H00D4FF&\fscx110\fscy110}POR{\r} CIENTO
+Dialogue: 0,0:00:18.86,0:00:19.19,P,,0,0,0,,UN DIEZ POR {\c&H00D4FF&\fscx110\fscy110}CIENTO{\r}
+Dialogue: 0,0:00:19.19,0:00:19.61,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MÁS{\r} QUE EL AÑO
+Dialogue: 0,0:00:19.61,0:00:19.83,P,,0,0,0,,MÁS {\c&H00D4FF&\fscx110\fscy110}QUE{\r} EL AÑO
+Dialogue: 0,0:00:19.83,0:00:19.95,P,,0,0,0,,MÁS QUE {\c&H00D4FF&\fscx110\fscy110}EL{\r} AÑO
+Dialogue: 0,0:00:19.95,0:00:20.09,P,,0,0,0,,MÁS QUE EL {\c&H00D4FF&\fscx110\fscy110}AÑO{\r}
+Dialogue: 0,0:00:20.09,0:00:21.17,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ANTERIOR.{\r}
+Dialogue: 0,0:00:21.17,0:00:21.41,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} DE LOS EXTRAS,
+Dialogue: 0,0:00:21.41,0:00:21.51,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}DE{\r} LOS EXTRAS,
+Dialogue: 0,0:00:21.51,0:00:21.65,P,,0,0,0,,Y DE {\c&H00D4FF&\fscx110\fscy110}LOS{\r} EXTRAS,
+Dialogue: 0,0:00:21.65,0:00:22.03,P,,0,0,0,,Y DE LOS {\c&H00D4FF&\fscx110\fscy110}EXTRAS,{\r}
+Dialogue: 0,0:00:22.03,0:00:23.21,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}VEINTICUATRO{\r} EUROS:
+Dialogue: 0,0:00:23.21,0:00:24.17,P,,0,0,0,,VEINTICUATRO {\c&H00D4FF&\fscx110\fscy110}EUROS:{\r}
+Dialogue: 0,0:00:24.17,0:00:24.43,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EL{\r} TREINTA Y DOS
+Dialogue: 0,0:00:24.43,0:00:24.68,P,,0,0,0,,EL {\c&H00D4FF&\fscx110\fscy110}TREINTA{\r} Y DOS
+Dialogue: 0,0:00:24.68,0:00:24.92,P,,0,0,0,,EL TREINTA {\c&H00D4FF&\fscx110\fscy110}Y{\r} DOS
+Dialogue: 0,0:00:24.92,0:00:25.17,P,,0,0,0,,EL TREINTA Y {\c&H00D4FF&\fscx110\fscy110}DOS{\r}
+Dialogue: 0,0:00:25.17,0:00:25.42,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}POR{\r} CIENTO.
+Dialogue: 0,0:00:25.42,0:00:25.91,P,,0,0,0,,POR {\c&H00D4FF&\fscx110\fscy110}CIENTO.{\r}
+Dialogue: 0,0:00:25.91,0:00:26.59,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ES{\r} TODO LO QUE
+Dialogue: 0,0:00:26.59,0:00:26.85,P,,0,0,0,,ES {\c&H00D4FF&\fscx110\fscy110}TODO{\r} LO QUE
+Dialogue: 0,0:00:26.85,0:00:27.07,P,,0,0,0,,ES TODO {\c&H00D4FF&\fscx110\fscy110}LO{\r} QUE
+Dialogue: 0,0:00:27.07,0:00:27.17,P,,0,0,0,,ES TODO LO {\c&H00D4FF&\fscx110\fscy110}QUE{\r}
+Dialogue: 0,0:00:27.17,0:00:27.29,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EL{\r} PASAJERO PAGA APARTE
+Dialogue: 0,0:00:27.29,0:00:27.69,P,,0,0,0,,EL {\c&H00D4FF&\fscx110\fscy110}PASAJERO{\r} PAGA APARTE
+Dialogue: 0,0:00:27.69,0:00:27.99,P,,0,0,0,,EL PASAJERO {\c&H00D4FF&\fscx110\fscy110}PAGA{\r} APARTE
+Dialogue: 0,0:00:27.99,0:00:28.37,P,,0,0,0,,EL PASAJERO PAGA {\c&H00D4FF&\fscx110\fscy110}APARTE{\r}
+Dialogue: 0,0:00:28.37,0:00:28.57,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DEL{\r} ASIENTO.
+Dialogue: 0,0:00:28.57,0:00:29.39,P,,0,0,0,,DEL {\c&H00D4FF&\fscx110\fscy110}ASIENTO.{\r}

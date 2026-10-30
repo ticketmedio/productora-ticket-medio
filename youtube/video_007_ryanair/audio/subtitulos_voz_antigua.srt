@@ -1,0 +1,407 @@
+1
+00:00:00,000 --> 00:00:03,262
+El billete medio de Ryanair no cuesta diez euros.
+
+2
+00:00:03,262 --> 00:00:06,325
+Cuesta setenta y cuatro con cincuenta y siete.
+
+3
+00:00:06,325 --> 00:00:12,050
+Y de cada billete, la aerolínea se queda diez euros con ochenta y cuatro de beneficio.
+
+4
+00:00:12,050 --> 00:00:14,514
+¿Cómo lo hace con vuelos tan baratos?
+
+5
+00:00:14,864 --> 00:00:18,222
+Hoy vamos a abrir el ticket de un billete de Ryanair,
+
+6
+00:00:18,222 --> 00:00:21,898
+con las cuentas que acaba de publicar la propia aerolínea.
+
+7
+00:00:21,898 --> 00:00:23,672
+Y a ver adónde va cada euro.
+
+8
+00:00:24,022 --> 00:00:26,064
+Primero, las presentaciones.
+
+9
+00:00:26,064 --> 00:00:30,075
+Ryanair cerró su último ejercicio en marzo de este año.
+
+10
+00:00:30,075 --> 00:00:34,888
+Transportó doscientos ocho millones y cuatrocientos mil pasajeros.
+
+11
+00:00:34,888 --> 00:00:38,024
+Tiene seiscientos cuarenta y siete aviones,
+
+12
+00:00:38,024 --> 00:00:45,024
+y casi todos son del mismo modelo: seiscientos veintiuno son Boeing setecientos treinta y siete.
+
+13
+00:00:45,024 --> 00:00:47,941
+Y trabajan en ella treinta mil personas.
+
+14
+00:00:47,941 --> 00:00:51,952
+Sus aviones iban llenos al noventa y cuatro por ciento.
+
+15
+00:00:51,952 --> 00:00:56,619
+Dicho al revés: de cada cien asientos, solo seis volaron vacíos.
+
+16
+00:00:56,969 --> 00:01:05,275
+Para que te hagas una idea del tamaño: Ryanair ingresa unos quince mil quinientos millones al año; Mercadona,
+
+17
+00:01:05,275 --> 00:01:10,075
+casi cuarenta y dos mil; Lidl en España, siete mil seiscientos.
+
+18
+00:01:10,075 --> 00:01:13,428
+Eso sí, son ejercicios y sectores distintos.
+
+19
+00:01:13,778 --> 00:01:18,916
+Con eso, ingresó quince mil quinientos cuarenta millones de euros.
+
+20
+00:01:18,916 --> 00:01:22,263
+Un once por ciento más que el año anterior.
+
+21
+00:01:22,263 --> 00:01:27,791
+Y ganó dos mil doscientos sesenta millones, un cuarenta por ciento más.
+
+22
+00:01:28,141 --> 00:01:31,848
+Hagamos primero unas cuentas rápidas con sus cifras.
+
+23
+00:01:31,848 --> 00:01:37,980
+Cada avión de la flota, de media, transportó unos trescientos veintidós mil pasajeros,
+
+24
+00:01:37,980 --> 00:01:44,468
+ingresó unos veinticuatro millones de euros y dejó unos tres millones y medio de beneficio.
+
+25
+00:01:44,468 --> 00:01:53,167
+Y cada empleado, de media, supuso unos quinientos dieciocho mil euros de ingresos y unos setenta y cinco mil de beneficio.
+
+26
+00:01:53,167 --> 00:01:55,163
+Son medias de todo el grupo.
+
+27
+00:01:55,513 --> 00:01:58,851
+Y mira lo que pasó con los costes y los ingresos.
+
+28
+00:01:58,851 --> 00:02:01,508
+Los costes subieron un seis por ciento.
+
+29
+00:02:01,508 --> 00:02:03,006
+Los ingresos, un once.
+
+30
+00:02:03,006 --> 00:02:09,818
+Esa diferencia es lo que hace que el beneficio de explotación subiera un cincuenta y dos por ciento.
+
+31
+00:02:10,168 --> 00:02:13,006
+Ahora, pongamos todo eso en un solo billete.
+
+32
+00:02:13,006 --> 00:02:17,457
+Dividimos cada cifra entre los doscientos ocho millones de pasajeros.
+
+33
+00:02:17,457 --> 00:02:22,295
+Es un cálculo nuestro, una media, no el precio de ningún vuelo en concreto.
+
+34
+00:02:22,645 --> 00:02:28,056
+Cada pasajero le deja a Ryanair setenta y cuatro euros con cincuenta y siete.
+
+35
+00:02:28,056 --> 00:02:29,181
+¿De dónde salen?
+
+36
+00:02:29,531 --> 00:02:35,099
+De la tarifa, cincuenta euros con sesenta y siete: el sesenta y ocho por ciento.
+
+37
+00:02:35,099 --> 00:02:40,180
+Es la media de todos los billetes, los de diez euros y los de doscientos.
+
+38
+00:02:40,180 --> 00:02:44,774
+Ryanair dice que la tarifa media fue de unos cincuenta y un euros,
+
+39
+00:02:44,774 --> 00:02:47,767
+un diez por ciento más que el año anterior.
+
+40
+00:02:48,117 --> 00:02:53,280
+Y de los extras, veinticuatro euros: el treinta y dos por ciento.
+
+41
+00:02:53,280 --> 00:02:57,331
+Es todo lo que el pasajero paga aparte del asiento.
+
+42
+00:02:57,331 --> 00:03:00,587
+Ryanair no lo desglosa; solo da el total.
+
+43
+00:03:00,937 --> 00:03:04,805
+Y fíjate en cómo crece cada parte: en el último año,
+
+44
+00:03:04,805 --> 00:03:11,053
+los ingresos por tarifas subieron un catorce por ciento; los de los extras, un seis.
+
+45
+00:03:11,053 --> 00:03:14,995
+Es decir: la tarifa crece más deprisa que los extras.
+
+46
+00:03:15,345 --> 00:03:19,596
+Fíjate en algo: casi un tercio del dinero viene de los extras,
+
+47
+00:03:19,596 --> 00:03:22,407
+pero los dos tercios vienen de la tarifa.
+
+48
+00:03:22,407 --> 00:03:26,177
+Así que no, el negocio no es solo cobrar por la maleta.
+
+49
+00:03:26,527 --> 00:03:30,873
+Ahora, la otra mitad del ticket: adónde va ese dinero.
+
+50
+00:03:31,223 --> 00:03:34,849
+Primera parada, y la más grande: el combustible.
+
+51
+00:03:34,849 --> 00:03:37,116
+Veintiséis euros por pasajero.
+
+52
+00:03:37,116 --> 00:03:40,289
+El treinta y cinco por ciento del billete.
+
+53
+00:03:40,289 --> 00:03:47,013
+Ryanair dice que ya tiene cubierto el ochenta por ciento del combustible del próximo año,
+
+54
+00:03:47,013 --> 00:03:50,111
+a unos sesenta y siete dólares el barril.
+
+55
+00:03:50,461 --> 00:03:52,942
+Segunda parada: el personal.
+
+56
+00:03:52,942 --> 00:03:57,374
+Casi nueve euros por pasajero, el doce por ciento.
+
+57
+00:03:57,724 --> 00:04:00,155
+Tercera parada: los aeropuertos.
+
+58
+00:04:00,155 --> 00:04:02,585
+Ocho euros con cuarenta y cinco.
+
+59
+00:04:02,585 --> 00:04:04,028
+El once por ciento.
+
+60
+00:04:04,028 --> 00:04:08,889
+Mil setecientos sesenta millones al año en tasas aeroportuarias.
+
+61
+00:04:09,239 --> 00:04:16,882
+Y el resto de costes, mantenimiento, rutas y todo lo demás: unos diecinueve euros con cuarenta y tres.
+
+62
+00:04:16,882 --> 00:04:18,756
+El veintiséis por ciento.
+
+63
+00:04:19,106 --> 00:04:25,465
+Lo que queda, antes de impuestos, es el beneficio operativo: once euros con treinta y siete.
+
+64
+00:04:25,465 --> 00:04:33,345
+Y, tras impuestos e intereses, el beneficio neto antes de partidas excepcionales: diez euros con ochenta y cuatro.
+
+65
+00:04:33,345 --> 00:04:36,524
+Un catorce y medio por ciento de los ingresos.
+
+66
+00:04:36,874 --> 00:04:44,098
+Para ponerlo en perspectiva: Ryanair gana unos catorce céntimos y medio de cada euro que ingresa.
+
+67
+00:04:44,098 --> 00:04:45,811
+Mercadona, unos cuatro.
+
+68
+00:04:45,811 --> 00:04:47,226
+Lidl, tres y medio.
+
+69
+00:04:47,226 --> 00:04:51,844
+Son sectores muy distintos, pero la comparación da que pensar.
+
+70
+00:04:52,194 --> 00:04:55,551
+Y esto no se detiene: para el próximo ejercicio,
+
+71
+00:04:55,551 --> 00:05:00,376
+Ryanair prevé transportar doscientos dieciséis millones de pasajeros,
+
+72
+00:05:00,376 --> 00:05:08,000
+un cuatro por ciento más, y tiene encargados trescientos aviones Boeing setecientos treinta y siete MAX diez.
+
+73
+00:05:08,000 --> 00:05:11,986
+El último año invirtió mil novecientos millones de euros.
+
+74
+00:05:12,336 --> 00:05:14,377
+Entonces, ¿cuál es el truco?
+
+75
+00:05:14,377 --> 00:05:16,782
+Con sus propias cifras, son tres.
+
+76
+00:05:16,782 --> 00:05:18,313
+Uno: llenar el avión.
+
+77
+00:05:18,313 --> 00:05:25,091
+Un noventa y cuatro por ciento de ocupación significa que casi no vuela ningún asiento vacío.
+
+78
+00:05:25,091 --> 00:05:30,703
+Dos: un solo modelo de avión, que simplifica el mantenimiento y la formación.
+
+79
+00:05:30,703 --> 00:05:37,117
+Y tres: cobrar aparte lo que no es el asiento, que ya es casi un tercio de sus ingresos.
+
+80
+00:05:37,467 --> 00:05:39,345
+Y aquí entra la ley europea.
+
+81
+00:05:39,345 --> 00:05:45,515
+El Reglamento mil ocho de dos mil ocho dice que el precio final tiene que mostrarse siempre,
+
+82
+00:05:45,515 --> 00:05:48,399
+con tarifa, impuestos y tasas obligatorias.
+
+83
+00:05:48,399 --> 00:05:54,166
+Y que los suplementos opcionales se comunican con claridad al principio de la reserva,
+
+84
+00:05:54,166 --> 00:05:56,983
+y el pasajero los acepta de forma expresa.
+
+85
+00:05:57,333 --> 00:05:59,035
+Ahora, lo que no sabemos.
+
+86
+00:05:59,035 --> 00:06:04,483
+Ryanair no dice cuántos billetes vende a diez euros, ni cuánto gana en cada uno.
+
+87
+00:06:04,483 --> 00:06:07,683
+La tarifa de cincuenta y un euros es una media.
+
+88
+00:06:07,683 --> 00:06:11,496
+Y estas cuentas son de todo el grupo, no solo de España.
+
+89
+00:06:11,496 --> 00:06:16,535
+Así que cualquiera que te diga que Ryanair pierde dinero con cada billete,
+
+90
+00:06:16,535 --> 00:06:17,692
+no tiene el dato.
+
+91
+00:06:18,042 --> 00:06:23,641
+Así que, la próxima vez que mires un billete de Ryanair, piensa en su viaje.
+
+92
+00:06:23,641 --> 00:06:29,755
+De cada setenta y cuatro euros con cincuenta y siete: veintiséis, para combustible.
+
+93
+00:06:29,755 --> 00:06:31,523
+Nueve, para el personal.
+
+94
+00:06:31,523 --> 00:06:34,101
+Ocho y medio, para los aeropuertos.
+
+95
+00:06:34,101 --> 00:06:36,017
+Diecinueve, para el resto.
+
+96
+00:06:36,017 --> 00:06:37,564
+Y once, de beneficio.
+
+97
+00:06:37,914 --> 00:06:41,075
+Ryanair no gana dinero por regalar vuelos.
+
+98
+00:06:41,075 --> 00:06:47,775
+Gana por llenar aviones, gastar poco en cada uno y cobrar aparte lo que no es el asiento.
+
+99
+00:06:47,775 --> 00:06:51,313
+La pregunta ya no es cómo puede ser tan barato.
+
+100
+00:06:51,313 --> 00:06:55,529
+Es cuánto de lo que pagas es tarifa y cuánto son extras.
+
+101
+00:06:55,879 --> 00:07:00,460
+Aquí, cada semana, abrimos el ticket de algo que pagas todos los días.
+
+102
+00:07:00,460 --> 00:07:05,173
+Si quieres saber cuál es el siguiente, ya sabes lo que tienes que hacer.

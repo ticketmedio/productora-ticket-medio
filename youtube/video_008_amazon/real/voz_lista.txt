@@ -1,0 +1,6 @@
+file '/Users/antoniofuster/Downloads/faceless/youtube/video_008_amazon/real/voz_00.wav'
+file '/Users/antoniofuster/Downloads/faceless/youtube/video_008_amazon/real/pausa.wav'
+file '/Users/antoniofuster/Downloads/faceless/youtube/video_008_amazon/real/voz_01.wav'
+file '/Users/antoniofuster/Downloads/faceless/youtube/video_008_amazon/real/pausa.wav'
+file '/Users/antoniofuster/Downloads/faceless/youtube/video_008_amazon/real/voz_02.wav'
+file '/Users/antoniofuster/Downloads/faceless/youtube/video_008_amazon/real/pausa.wav'

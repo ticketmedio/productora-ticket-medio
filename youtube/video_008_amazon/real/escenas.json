@@ -1,0 +1,472 @@
+[
+ {
+  "i0": 0,
+  "i1": 11,
+  "texto": "Devuelves un paquete a Amazon. Lo dejas en el punto de recogida…",
+  "q": [
+   "shipping box tape",
+   "person dropping package",
+   "locker delivery point"
+  ]
+ },
+ {
+  "i0": 12,
+  "i1": 22,
+  "texto": "y te olvidas. Pero tu paquete no se olvida de nada.",
+  "q": [
+   "box moving conveyor",
+   "warehouse empty aisle",
+   "parcel on floor"
+  ]
+ },
+ {
+  "i0": 23,
+  "i1": 31,
+  "texto": "Empieza un viaje que casi nadie conoce. ¿Se revende?",
+  "q": [
+   "logistics center inside",
+   "worker scanning barcode",
+   "clothing store rack"
+  ]
+ },
+ {
+  "i0": 32,
+  "i1": 56,
+  "texto": "¿Se regala? ¿O acaba… destruido? En dos mil veintiuno, una investigación de televisión en el Reino Unido grabó lo que pasaba dentro de un almacén.",
+  "q": [
+   "giving charity box",
+   "trash compactor machine",
+   "hidden camera video"
+  ]
+ },
+ {
+  "i0": 57,
+  "i1": 74,
+  "texto": "Y lo que vieron dio la vuelta al mundo. Hoy vamos a seguir la pista de tu devolución.",
+  "q": [
+   "globe spinning blue",
+   "parcel tracking screen",
+   "warehouse worker walking"
+  ]
+ },
+ {
+  "i0": 75,
+  "i1": 92,
+  "texto": "Con lo que dice la ley, lo que dice la propia empresa… y lo que nadie puede comprobar.",
+  "q": [
+   "law book gavel",
+   "modern office building",
+   "magnifying glass document"
+  ]
+ },
+ {
+  "i0": 93,
+  "i1": 105,
+  "texto": "Porque Amazon no publica cuántos productos devueltos revende, dona o destruye en España.",
+  "q": [
+   "bar chart laptop",
+   "map of spain",
+   "warehouse box stack"
+  ]
+ },
+ {
+  "i0": 106,
+  "i1": 137,
+  "texto": "Vamos con ello. Primero, tu derecho. Cuando compras por internet, la ley te da catorce días naturales para devolver lo que has comprado, sin tener que explicar por qué y sin penalización.",
+  "q": [
+   "person using laptop",
+   "calendar date circle",
+   "online shopping cart"
+  ]
+ },
+ {
+  "i0": 138,
+  "i1": 153,
+  "texto": "Está en la Ley General para la Defensa de los Consumidores, y es un derecho legal.",
+  "q": [
+   "lawyer office desk",
+   "official document seal",
+   "typing keyboard close"
+  ]
+ },
+ {
+  "i0": 154,
+  "i1": 173,
+  "texto": "Ojo: no es lo mismo que la política de devoluciones que pueda tener cada tienda, que puede ser más generosa.",
+  "q": [
+   "retail clothing store",
+   "cashier point sale",
+   "storefront window display"
+  ]
+ },
+ {
+  "i0": 174,
+  "i1": 199,
+  "texto": "Y la tienda tiene que devolverte el dinero sin demoras indebidas y, en todo caso, en menos de catorce días desde que le comunicas que desistes.",
+  "q": [
+   "money transfer phone",
+   "credit card payment",
+   "happy woman phone"
+  ]
+ },
+ {
+  "i0": 200,
+  "i1": 219,
+  "texto": "Eso sí: puede esperar a recibir el producto, o a que le enseñes una prueba de que lo has enviado.",
+  "q": [
+   "post office receipt",
+   "delivery worker tablet",
+   "stamped envelope paper"
+  ]
+ },
+ {
+  "i0": 220,
+  "i1": 270,
+  "texto": "Hay excepciones. No se pueden devolver, por esta vía, los productos hechos a medida o claramente personalizados, los que se estropean o caducan rápido, los precintados que no se pueden devolver por razones de higiene o salud y que ya has abierto, ni los discos o programas precintados que has desprecintado.",
+  "q": [
+   "custom tailor measuring",
+   "fresh food waste",
+   "open software box"
+  ]
+ },
+ {
+  "i0": 271,
+  "i1": 291,
+  "texto": "Y tú también tienes obligaciones. Tienes que devolver el producto a más tardar en catorce días desde que comunicas que desistes.",
+  "q": [
+   "packing shipping box",
+   "taping cardboard box",
+   "dropping parcel off"
+  ]
+ },
+ {
+  "i0": 292,
+  "i1": 321,
+  "texto": "Los costes directos de la devolución corren de tu cuenta, salvo que la tienda se haya ofrecido a asumirlos o no te haya informado de que te tocaban a ti.",
+  "q": [
+   "wallet cash coins",
+   "paying shipping counter",
+   "shipping label printer"
+  ]
+ },
+ {
+  "i0": 322,
+  "i1": 344,
+  "texto": "Solo respondes de la pérdida de valor si has manipulado el producto más de lo necesario para comprobar cómo es y cómo funciona.",
+  "q": [
+   "testing headphones music",
+   "inspecting laptop screen",
+   "torn product packaging"
+  ]
+ },
+ {
+  "i0": 345,
+  "i1": 359,
+  "texto": "Y la carga de la prueba de que has desistido es tuya: guarda el justificante.",
+  "q": [
+   "scanning paper document",
+   "holding paper receipt",
+   "filling out form"
+  ]
+ },
+ {
+  "i0": 360,
+  "i1": 387,
+  "texto": "Ahora, la pregunta: ¿qué pasa con tu paquete? Según Amazon, en un comunicado publicado en octubre de dos mil veintiuno, cada artículo devuelto pasa por una inspección detallada.",
+  "q": [
+   "quality control inspection",
+   "warehouse worker box",
+   "magnifying glass check"
+  ]
+ },
+ {
+  "i0": 388,
+  "i1": 403,
+  "texto": "Si está como nuevo, se etiqueta como nuevo y se vuelve a poner a la venta.",
+  "q": [
+   "putting label box",
+   "folding new clothes",
+   "price tag sticker"
+  ]
+ },
+ {
+  "i0": 404,
+  "i1": 418,
+  "texto": "De hecho, dice, la mayoría de los productos devueltos se pueden volver a vender así.",
+  "q": [
+   "online store scrolling",
+   "packing parcel shipment",
+   "shopping bags street"
+  ]
+ },
+ {
+  "i0": 419,
+  "i1": 432,
+  "texto": "Es lo que cuenta la empresa; no hay una cifra pública que lo confirme.",
+  "q": [
+   "blurred financial charts",
+   "closed office door",
+   "confidential folder paper"
+  ]
+ },
+ {
+  "i0": 433,
+  "i1": 445,
+  "texto": "Si no se puede vender como nuevo, depende de quién sea el dueño.",
+  "q": [
+   "business handshake close",
+   "warehouse logistics crates",
+   "forklift moving pallet"
+  ]
+ },
+ {
+  "i0": 446,
+  "i1": 464,
+  "texto": "Si es de Amazon, las opciones son devolverlo al proveedor, venderlo como usado en Amazon Segunda Mano, o donarlo.",
+  "q": [
+   "delivery truck driving",
+   "used books shelf",
+   "giving clothes charity"
+  ]
+ },
+ {
+  "i0": 465,
+  "i1": 475,
+  "texto": "En España, dice que dona a varias ONG, como Cruz Roja.",
+  "q": [
+   "charity box food",
+   "volunteer helping person",
+   "aid parcels stack"
+  ]
+ },
+ {
+  "i0": 476,
+  "i1": 501,
+  "texto": "Y solo si no queda otra opción, por ejemplo por higiene, por motivos legales o porque está dañado, se desecha, después de reciclar todo lo reciclable.",
+  "q": [
+   "recycling bin logo",
+   "plastic waste pile",
+   "industrial shredder machine"
+  ]
+ },
+ {
+  "i0": 502,
+  "i1": 548,
+  "texto": "Pero hay un detalle importante. Según la propia Amazon, más de la mitad de los productos que se venden en su plataforma en todo el mundo son de vendedores independientes, y son ellos los dueños del inventario y los que deciden qué hacer con lo que devuelves.",
+  "q": [
+   "small business owner",
+   "entrepreneur laptop home",
+   "local artisan workshop"
+  ]
+ },
+ {
+  "i0": 549,
+  "i1": 577,
+  "texto": "Para eso, Amazon les ofrece programas: uno se llama FBA Liquidations, y permite liquidar el inventario devuelto o no vendido a través del canal de liquidación mayorista de Amazon.",
+  "q": [
+   "wholesale pallet warehouse",
+   "stack of boxes",
+   "large shipping container"
+  ]
+ },
+ {
+  "i0": 578,
+  "i1": 589,
+  "texto": "Y otro, FBA Grade and Resell, para revender lo devuelto como usado.",
+  "q": [
+   "checking used phone",
+   "cleaning electronic device",
+   "labeling second hand"
+  ]
+ },
+ {
+  "i0": 590,
+  "i1": 607,
+  "texto": "Es una de las vías por las que un producto devuelto puede acabar en un lote de liquidación.",
+  "q": [
+   "cardboard boxes pile",
+   "forklift warehouse aisle",
+   "auction hammer gavel"
+  ]
+ },
+ {
+  "i0": 608,
+  "i1": 626,
+  "texto": "Pero ojo: no podemos decirte de dónde sale cada palé o cada caja de devoluciones que ves en internet.",
+  "q": [
+   "unboxing cardboard parcel",
+   "mystery box package",
+   "pallet of boxes"
+  ]
+ },
+ {
+  "i0": 627,
+  "i1": 649,
+  "texto": "¿Y la destrucción? En dos mil veintiuno, la cadena británica ITV News publicó una investigación en almacenes de Amazon en el Reino Unido.",
+  "q": [
+   "warehouse exterior drone",
+   "night warehouse lighting",
+   "security guard walking"
+  ]
+ },
+ {
+  "i0": 650,
+  "i1": 670,
+  "texto": "Según un exempleado, en una semana de abril el objetivo registrado era destruir ciento veinticuatro mil productos, muchos de ellos nuevos.",
+  "q": [
+   "trash heap landfill",
+   "discarded electronics pile",
+   "crushing machine industrial"
+  ]
+ },
+ {
+  "i0": 671,
+  "i1": 698,
+  "texto": "Amazon respondió que su prioridad es revender, donar o reciclar, que en el Reino Unido no se envían artículos a vertederos y que trabaja para llegar a cero.",
+  "q": [
+   "recycling symbol green",
+   "solar panels roof",
+   "electric delivery van"
+  ]
+ },
+ {
+  "i0": 699,
+  "i1": 713,
+  "texto": "Es una investigación británica y de hace cinco años: no se puede aplicar a España.",
+  "q": [
+   "london street bus",
+   "madrid city view",
+   "clock ticking fast"
+  ]
+ },
+ {
+  "i0": 714,
+  "i1": 761,
+  "texto": "Lo que sí cambia es la ley. En España, la ley de residuos de dos mil veintidós prohíbe destruir o llevar a vertedero los excedentes no vendidos de productos no perecederos, como textiles, juguetes o aparatos eléctricos, salvo que haya que destruirlos por otra norma o por seguridad.",
+  "q": [
+   "piles of clothes",
+   "old electronics bin",
+   "law text close"
+  ]
+ },
+ {
+  "i0": 762,
+  "i1": 770,
+  "texto": "Y deben ir primero a reutilización, incluida la donación.",
+  "q": [
+   "second hand shop",
+   "hands giving box",
+   "community center donation"
+  ]
+ },
+ {
+  "i0": 771,
+  "i1": 805,
+  "texto": "Y la Unión Europea va más lejos. Desde el diecinueve de julio de dos mil veintiséis, el Reglamento de ecodiseño prohíbe a las grandes empresas destruir la ropa, los complementos y el calzado sin vender.",
+  "q": [
+   "european union flag",
+   "shoes on shelf",
+   "fashion designer studio"
+  ]
+ },
+ {
+  "i0": 806,
+  "i1": 836,
+  "texto": "La propia norma reconoce el motivo: la destrucción de productos no vendidos se ha convertido en un problema medioambiental generalizado, debido, en particular, al rápido crecimiento de las ventas en línea.",
+  "q": [
+   "delivery trucks highway",
+   "plastic pollution ocean",
+   "smoke chimney industrial"
+  ]
+ },
+ {
+  "i0": 837,
+  "i1": 855,
+  "texto": "Y deja excepciones, como los daños que no puedan repararse de forma rentable, incluidos los detectados tras una devolución.",
+  "q": [
+   "broken screen tablet",
+   "ripped clothing fabric",
+   "water damaged box"
+  ]
+ },
+ {
+  "i0": 856,
+  "i1": 885,
+  "texto": "Así que, ¿qué sabemos? Que tienes derecho a devolver, que la ley obliga a reembolsarte y que, desde este verano, la UE prohíbe destruir ropa y calzado nuevos sin vender.",
+  "q": [
+   "signing legal document",
+   "atm cash withdrawal",
+   "brussels parliament building"
+  ]
+ },
+ {
+  "i0": 886,
+  "i1": 897,
+  "texto": "Y que Amazon dice que su prioridad es revender, donar o reciclar.",
+  "q": [
+   "sorting clothes bin",
+   "stacking boxes truck",
+   "recycling center worker"
+  ]
+ },
+ {
+  "i0": 898,
+  "i1": 909,
+  "texto": "Y lo que no sabemos: cuántos productos devueltos acaban en cada camino.",
+  "q": [
+   "fork in road",
+   "confused person thinking",
+   "foggy forest path"
+  ]
+ },
+ {
+  "i0": 910,
+  "i1": 929,
+  "texto": "Esa cifra no es pública. Y mientras no lo sea, la respuesta a nuestra pregunta es la más honesta posible:",
+  "q": [
+   "empty bar graph",
+   "man talking camera",
+   "shrugging shoulders gesture"
+  ]
+ },
+ {
+  "i0": 930,
+  "i1": 940,
+  "texto": "depende. Lo que devuelves a Amazon no tiene un único destino.",
+  "q": [
+   "busy road junction",
+   "different direction signs",
+   "sorting mail facility"
+  ]
+ },
+ {
+  "i0": 941,
+  "i1": 961,
+  "texto": "Tiene varios caminos, y la ley está cerrando uno de ellos. La pregunta ya no es qué hacen con tu devolución.",
+  "q": [
+   "closing iron gate",
+   "judge gavel hitting",
+   "stop sign hand"
+  ]
+ },
+ {
+  "i0": 962,
+  "i1": 982,
+  "texto": "Es cuánto de lo que cuentan se puede comprobar. Cada semana abrimos el ticket de algo que pagas todos los días.",
+  "q": [
+   "receipt printer paper",
+   "checking grocery list",
+   "cash register sound"
+  ]
+ },
+ {
+  "i0": 983,
+  "i1": 991,
+  "texto": "Y el próximo… te va a sorprender todavía más.",
+  "q": [
+   "surprised woman face",
+   "loading screen icon",
+   "coming soon text"
+  ]
+ }
+]

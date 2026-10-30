@@ -1,0 +1,114 @@
+[Script Info]
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: P,Archivo Black,86,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,7,3,2,60,60,560,1
+Style: PT,Archivo Black,86,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,7,3,8,60,60,330,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.43,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}¿PEZ{\r} ESPADA,
+Dialogue: 0,0:00:00.43,0:00:01.28,P,,0,0,0,,¿PEZ {\c&H00D4FF&\fscx112\fscy112}ESPADA,{\r}
+Dialogue: 0,0:00:01.28,0:00:02.08,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}TIBURÓN,{\r}
+Dialogue: 0,0:00:02.08,0:00:02.30,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}ATÚN{\r} ROJO O
+Dialogue: 0,0:00:02.30,0:00:02.76,P,,0,0,0,,ATÚN {\c&H00D4FF&\fscx112\fscy112}ROJO{\r} O
+Dialogue: 0,0:00:02.76,0:00:03.10,P,,0,0,0,,ATÚN ROJO {\c&H00D4FF&\fscx112\fscy112}O{\r}
+Dialogue: 0,0:00:03.10,0:00:03.98,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}LUCIO?{\r}
+Dialogue: 0,0:00:03.98,0:00:04.22,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}OJO{\r} CON EL
+Dialogue: 0,0:00:04.22,0:00:04.42,P,,0,0,0,,OJO {\c&H00D4FF&\fscx112\fscy112}CON{\r} EL
+Dialogue: 0,0:00:04.42,0:00:04.54,P,,0,0,0,,OJO CON {\c&H00D4FF&\fscx112\fscy112}EL{\r}
+Dialogue: 0,0:00:04.54,0:00:05.46,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}MERCURIO.{\r}
+Dialogue: 0,0:00:05.46,0:00:05.70,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}SON{\r} PECES GRANDES
+Dialogue: 0,0:00:05.70,0:00:06.06,P,,0,0,0,,SON {\c&H00D4FF&\fscx112\fscy112}PECES{\r} GRANDES
+Dialogue: 0,0:00:06.06,0:00:06.40,P,,0,0,0,,SON PECES {\c&H00D4FF&\fscx112\fscy112}GRANDES{\r}
+Dialogue: 0,0:00:06.40,0:00:06.62,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}Y{\r} DEPREDADORES:
+Dialogue: 0,0:00:06.62,0:00:07.54,P,,0,0,0,,Y {\c&H00D4FF&\fscx112\fscy112}DEPREDADORES:{\r}
+Dialogue: 0,0:00:07.54,0:00:07.98,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}ACUMULAN{\r} MERCURIO A
+Dialogue: 0,0:00:07.98,0:00:08.56,P,,0,0,0,,ACUMULAN {\c&H00D4FF&\fscx112\fscy112}MERCURIO{\r} A
+Dialogue: 0,0:00:08.56,0:00:08.68,P,,0,0,0,,ACUMULAN MERCURIO {\c&H00D4FF&\fscx112\fscy112}A{\r}
+Dialogue: 0,0:00:08.68,0:00:08.76,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}LO{\r} LARGO DE
+Dialogue: 0,0:00:08.76,0:00:08.98,P,,0,0,0,,LO {\c&H00D4FF&\fscx112\fscy112}LARGO{\r} DE
+Dialogue: 0,0:00:08.98,0:00:09.14,P,,0,0,0,,LO LARGO {\c&H00D4FF&\fscx112\fscy112}DE{\r}
+Dialogue: 0,0:00:09.14,0:00:09.28,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}SU{\r} VIDA.
+Dialogue: 0,0:00:09.28,0:00:10.06,P,,0,0,0,,SU {\c&H00D4FF&\fscx112\fscy112}VIDA.{\r}
+Dialogue: 0,0:00:10.06,0:00:10.28,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}LA{\r} AGENCIA DE
+Dialogue: 0,0:00:10.28,0:00:10.70,P,,0,0,0,,LA {\c&H00D4FF&\fscx112\fscy112}AGENCIA{\r} DE
+Dialogue: 0,0:00:10.70,0:00:10.82,P,,0,0,0,,LA AGENCIA {\c&H00D4FF&\fscx112\fscy112}DE{\r}
+Dialogue: 0,0:00:10.82,0:00:11.26,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}SEGURIDAD{\r} ALIMENTARIA RECOMIENDA
+Dialogue: 0,0:00:11.26,0:00:11.86,P,,0,0,0,,SEGURIDAD {\c&H00D4FF&\fscx112\fscy112}ALIMENTARIA{\r} RECOMIENDA
+Dialogue: 0,0:00:11.86,0:00:12.78,P,,0,0,0,,SEGURIDAD ALIMENTARIA {\c&H00D4FF&\fscx112\fscy112}RECOMIENDA{\r}
+Dialogue: 0,0:00:12.78,0:00:13.32,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}EVITARLOS{\r} A LAS
+Dialogue: 0,0:00:13.32,0:00:13.46,P,,0,0,0,,EVITARLOS {\c&H00D4FF&\fscx112\fscy112}A{\r} LAS
+Dialogue: 0,0:00:13.46,0:00:13.58,P,,0,0,0,,EVITARLOS A {\c&H00D4FF&\fscx112\fscy112}LAS{\r}
+Dialogue: 0,0:00:13.58,0:00:13.80,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}MUJERES{\r} EMBARAZADAS O
+Dialogue: 0,0:00:13.80,0:00:14.54,P,,0,0,0,,MUJERES {\c&H00D4FF&\fscx112\fscy112}EMBARAZADAS{\r} O
+Dialogue: 0,0:00:14.54,0:00:14.90,P,,0,0,0,,MUJERES EMBARAZADAS {\c&H00D4FF&\fscx112\fscy112}O{\r}
+Dialogue: 0,0:00:14.90,0:00:15.04,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}QUE{\r} PUEDAN ESTARLO,
+Dialogue: 0,0:00:15.04,0:00:15.34,P,,0,0,0,,QUE {\c&H00D4FF&\fscx112\fscy112}PUEDAN{\r} ESTARLO,
+Dialogue: 0,0:00:15.34,0:00:16.18,P,,0,0,0,,QUE PUEDAN {\c&H00D4FF&\fscx112\fscy112}ESTARLO,{\r}
+Dialogue: 0,0:00:16.18,0:00:16.30,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}A{\r} LAS QUE
+Dialogue: 0,0:00:16.30,0:00:16.46,P,,0,0,0,,A {\c&H00D4FF&\fscx112\fscy112}LAS{\r} QUE
+Dialogue: 0,0:00:16.46,0:00:16.54,P,,0,0,0,,A LAS {\c&H00D4FF&\fscx112\fscy112}QUE{\r}
+Dialogue: 0,0:00:16.54,0:00:16.70,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}DAN{\r} EL PECHO
+Dialogue: 0,0:00:16.70,0:00:16.86,P,,0,0,0,,DAN {\c&H00D4FF&\fscx112\fscy112}EL{\r} PECHO
+Dialogue: 0,0:00:16.86,0:00:17.20,P,,0,0,0,,DAN EL {\c&H00D4FF&\fscx112\fscy112}PECHO{\r}
+Dialogue: 0,0:00:17.20,0:00:17.56,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}Y{\r} A LOS
+Dialogue: 0,0:00:17.56,0:00:17.64,P,,0,0,0,,Y {\c&H00D4FF&\fscx112\fscy112}A{\r} LOS
+Dialogue: 0,0:00:17.64,0:00:17.80,P,,0,0,0,,Y A {\c&H00D4FF&\fscx112\fscy112}LOS{\r}
+Dialogue: 0,0:00:17.80,0:00:18.10,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}NIÑOS{\r} MENORES DE
+Dialogue: 0,0:00:18.10,0:00:18.60,P,,0,0,0,,NIÑOS {\c&H00D4FF&\fscx112\fscy112}MENORES{\r} DE
+Dialogue: 0,0:00:18.60,0:00:18.76,P,,0,0,0,,NIÑOS MENORES {\c&H00D4FF&\fscx112\fscy112}DE{\r}
+Dialogue: 0,0:00:18.76,0:00:18.98,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}TRES{\r} AÑOS.
+Dialogue: 0,0:00:18.98,0:00:19.82,P,,0,0,0,,TRES {\c&H00D4FF&\fscx112\fscy112}AÑOS.{\r}
+Dialogue: 0,0:00:19.82,0:00:20.08,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}LOS{\r} NIÑOS DE
+Dialogue: 0,0:00:20.08,0:00:20.36,P,,0,0,0,,LOS {\c&H00D4FF&\fscx112\fscy112}NIÑOS{\r} DE
+Dialogue: 0,0:00:20.36,0:00:20.58,P,,0,0,0,,LOS NIÑOS {\c&H00D4FF&\fscx112\fscy112}DE{\r}
+Dialogue: 0,0:00:20.58,0:00:20.80,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}TRES{\r} A DOCE
+Dialogue: 0,0:00:20.80,0:00:20.88,P,,0,0,0,,TRES {\c&H00D4FF&\fscx112\fscy112}A{\r} DOCE
+Dialogue: 0,0:00:20.88,0:00:21.04,P,,0,0,0,,TRES A {\c&H00D4FF&\fscx112\fscy112}DOCE{\r}
+Dialogue: 0,0:00:21.04,0:00:21.42,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}AÑOS,{\r}
+Dialogue: 0,0:00:21.42,0:00:21.88,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}COMO{\r} MUCHO CINCUENTA
+Dialogue: 0,0:00:21.88,0:00:22.16,P,,0,0,0,,COMO {\c&H00D4FF&\fscx112\fscy112}MUCHO{\r} CINCUENTA
+Dialogue: 0,0:00:22.16,0:00:22.56,P,,0,0,0,,COMO MUCHO {\c&H00D4FF&\fscx112\fscy112}CINCUENTA{\r}
+Dialogue: 0,0:00:22.56,0:00:23.14,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}GRAMOS{\r} A LA
+Dialogue: 0,0:00:23.14,0:00:23.26,P,,0,0,0,,GRAMOS {\c&H00D4FF&\fscx112\fscy112}A{\r} LA
+Dialogue: 0,0:00:23.26,0:00:23.34,P,,0,0,0,,GRAMOS A {\c&H00D4FF&\fscx112\fscy112}LA{\r}
+Dialogue: 0,0:00:23.34,0:00:23.66,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}SEMANA,{\r}
+Dialogue: 0,0:00:23.66,0:00:24.08,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}O{\r} CIEN CADA
+Dialogue: 0,0:00:24.08,0:00:24.30,P,,0,0,0,,O {\c&H00D4FF&\fscx112\fscy112}CIEN{\r} CADA
+Dialogue: 0,0:00:24.30,0:00:24.60,P,,0,0,0,,O CIEN {\c&H00D4FF&\fscx112\fscy112}CADA{\r}
+Dialogue: 0,0:00:24.60,0:00:24.80,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}DOS{\r} SEMANAS,
+Dialogue: 0,0:00:24.80,0:00:25.10,P,,0,0,0,,DOS {\c&H00D4FF&\fscx112\fscy112}SEMANAS,{\r}
+Dialogue: 0,0:00:25.10,0:00:25.64,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}Y{\r} NINGÚN OTRO
+Dialogue: 0,0:00:25.64,0:00:25.98,P,,0,0,0,,Y {\c&H00D4FF&\fscx112\fscy112}NINGÚN{\r} OTRO
+Dialogue: 0,0:00:25.98,0:00:26.24,P,,0,0,0,,Y NINGÚN {\c&H00D4FF&\fscx112\fscy112}OTRO{\r}
+Dialogue: 0,0:00:26.24,0:00:26.44,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}DE{\r} ESTOS PESCADOS
+Dialogue: 0,0:00:26.44,0:00:26.64,P,,0,0,0,,DE {\c&H00D4FF&\fscx112\fscy112}ESTOS{\r} PESCADOS
+Dialogue: 0,0:00:26.64,0:00:27.18,P,,0,0,0,,DE ESTOS {\c&H00D4FF&\fscx112\fscy112}PESCADOS{\r}
+Dialogue: 0,0:00:27.18,0:00:27.58,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}ESA{\r} SEMANA.
+Dialogue: 0,0:00:27.58,0:00:27.96,P,,0,0,0,,ESA {\c&H00D4FF&\fscx112\fscy112}SEMANA.{\r}
+Dialogue: 0,0:00:27.96,0:00:28.68,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}PERO{\r} EL PESCADO,
+Dialogue: 0,0:00:28.68,0:00:28.82,P,,0,0,0,,PERO {\c&H00D4FF&\fscx112\fscy112}EL{\r} PESCADO,
+Dialogue: 0,0:00:28.82,0:00:29.20,P,,0,0,0,,PERO EL {\c&H00D4FF&\fscx112\fscy112}PESCADO,{\r}
+Dialogue: 0,0:00:29.20,0:00:29.30,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}EN{\r} GENERAL,
+Dialogue: 0,0:00:29.30,0:00:29.66,P,,0,0,0,,EN {\c&H00D4FF&\fscx112\fscy112}GENERAL,{\r}
+Dialogue: 0,0:00:29.66,0:00:30.00,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}ES{\r} MUY SANO:
+Dialogue: 0,0:00:30.00,0:00:30.20,P,,0,0,0,,ES {\c&H00D4FF&\fscx112\fscy112}MUY{\r} SANO:
+Dialogue: 0,0:00:30.20,0:00:30.84,P,,0,0,0,,ES MUY {\c&H00D4FF&\fscx112\fscy112}SANO:{\r}
+Dialogue: 0,0:00:30.84,0:00:31.10,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}LO{\r} QUE SE
+Dialogue: 0,0:00:31.10,0:00:31.24,P,,0,0,0,,LO {\c&H00D4FF&\fscx112\fscy112}QUE{\r} SE
+Dialogue: 0,0:00:31.24,0:00:31.36,P,,0,0,0,,LO QUE {\c&H00D4FF&\fscx112\fscy112}SE{\r}
+Dialogue: 0,0:00:31.36,0:00:31.92,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}RECOMIENDA{\r} ES COMER
+Dialogue: 0,0:00:31.92,0:00:32.28,P,,0,0,0,,RECOMIENDA {\c&H00D4FF&\fscx112\fscy112}ES{\r} COMER
+Dialogue: 0,0:00:32.28,0:00:32.60,P,,0,0,0,,RECOMIENDA ES {\c&H00D4FF&\fscx112\fscy112}COMER{\r}
+Dialogue: 0,0:00:32.60,0:00:33.66,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}VARIEDAD.{\r}
+Dialogue: 0,0:00:33.66,0:00:34.48,PT,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}SÍGUEME,{\r}
+Dialogue: 0,0:00:34.48,0:00:34.58,PT,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}QUE{\r} AQUÍ APRENDEMOS
+Dialogue: 0,0:00:34.58,0:00:34.78,PT,,0,0,0,,QUE {\c&H00D4FF&\fscx112\fscy112}AQUÍ{\r} APRENDEMOS
+Dialogue: 0,0:00:34.78,0:00:35.24,PT,,0,0,0,,QUE AQUÍ {\c&H00D4FF&\fscx112\fscy112}APRENDEMOS{\r}
+Dialogue: 0,0:00:35.24,0:00:35.46,PT,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}TODOS.{\r}
+Dialogue: 0,0:00:35.46,0:00:35.82,PT,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}¡CLOC,{\r}
+Dialogue: 0,0:00:35.82,0:00:36.58,PT,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}CLOC!{\r}

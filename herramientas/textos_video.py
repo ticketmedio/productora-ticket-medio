@@ -48,6 +48,9 @@ def f(x):
 
 
 shutil.copy(os.path.join(V, "audio", "subtitulos.srt"), os.path.join(V, "06_SUBTITULOS.srt"))
+# formato nuevo (video_real.py): clips de Pexels y voz de IA → se dice en la descripción
+creditos = ("Imágenes: Pexels (vídeos de archivo). Voz: narración generada con IA (Google Gemini); el guion, los datos y las fuentes "
+            "son de Ticket Medio.\n\n") if os.path.exists(os.path.join(V, "real", "voz.mp3")) else ""
 caps = "\n".join(f"{f(0) if i == 0 else f(t(fr))} {nom}" for i, (nom, fr) in enumerate(cfg["capitulos"]))
 n = cfg["n"]
 alts = "\n".join(f"{i + 2}. {a}" + (" (prueba A/B)." if i == 0 else ".") for i, a in enumerate(cfg["alternativas"]))
@@ -58,7 +61,7 @@ open(os.path.join(V, "07_TITULOS.md"), "w", encoding="utf-8").write(
 open(os.path.join(V, "08_DESCRIPCION.txt"), "w", encoding="utf-8").write(
     cfg["descripcion"].strip() + "\n\nCAPÍTULOS\n" + caps +
     "\n\nEn Ticket Medio explicamos cómo ganan dinero las empresas y servicios que pagas cada día en España. Explicamos, no aconsejamos: "
-    "nada de este vídeo es una recomendación de inversión ni de contratación.\n\n" + cfg.get("vistos", "") + "\n\n" + cfg["hashtags"] + "\n")
+    "nada de este vídeo es una recomendación de inversión ni de contratación.\n\n" + cfg.get("vistos", "") + "\n\n" + creditos + cfg["hashtags"] + "\n")
 open(os.path.join(V, "COMENTARIO_FIJADO.txt"), "w", encoding="utf-8").write(
     "📌 Fuentes de las cifras del vídeo:\n\n" + "\n".join(cfg["comentario"]) + "\n\n¿Qué empresa o servicio quieres que analicemos la próxima vez? 👇\n")
 out = f"SHORTS DEL VÍDEO {n} ({cfg['nombre'].upper()})\nPara cada Short: copia el TÍTULO en «Título» y la DESCRIPCIÓN en «Descripción». En «Vídeo relacionado» elige el vídeo largo de este tema.\n"

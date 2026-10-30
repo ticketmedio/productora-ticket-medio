@@ -344,4 +344,7 @@ if "--solo-largo" not in sys.argv and os.path.exists(os.path.join(V, "shorts.jso
         subprocess.run([sys.executable, os.path.join(RAIZ, "herramientas", "cierre_shorts.py"), V, s["id"]], capture_output=True)
         open(marca, "w").write(destino + "\n")
         print("OK short", s["id"], nombre, f"{dur(destino):.0f} s", flush=True)
+# subtítulos y capítulos de la descripción con los tiempos de la voz nueva (si falla una frase de capítulo, se avisa y se arregla a mano)
+r = subprocess.run([sys.executable, os.path.join(RAIZ, "herramientas", "textos_real.py"), V], capture_output=True, text=True)
+print("textos:", (r.stdout + r.stderr).strip().replace("\n", " · "), flush=True)
 print("TERMINADO", V, flush=True)

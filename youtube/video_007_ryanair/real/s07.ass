@@ -1,0 +1,62 @@
+[Script Info]
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: P,Archivo Black,82,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,6,3,2,60,60,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.15,0:00:00.45,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} AQUÍ ENTRA LA
+Dialogue: 0,0:00:00.45,0:00:00.71,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}AQUÍ{\r} ENTRA LA
+Dialogue: 0,0:00:00.71,0:00:01.11,P,,0,0,0,,Y AQUÍ {\c&H00D4FF&\fscx110\fscy110}ENTRA{\r} LA
+Dialogue: 0,0:00:01.11,0:00:01.29,P,,0,0,0,,Y AQUÍ ENTRA {\c&H00D4FF&\fscx110\fscy110}LA{\r}
+Dialogue: 0,0:00:01.29,0:00:01.59,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LEY{\r} EUROPEA.
+Dialogue: 0,0:00:01.59,0:00:02.71,P,,0,0,0,,LEY {\c&H00D4FF&\fscx110\fscy110}EUROPEA.{\r}
+Dialogue: 0,0:00:02.71,0:00:02.89,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EL{\r} REGLAMENTO MIL OCHO
+Dialogue: 0,0:00:02.89,0:00:03.35,P,,0,0,0,,EL {\c&H00D4FF&\fscx110\fscy110}REGLAMENTO{\r} MIL OCHO
+Dialogue: 0,0:00:03.35,0:00:03.58,P,,0,0,0,,EL REGLAMENTO {\c&H00D4FF&\fscx110\fscy110}MIL{\r} OCHO
+Dialogue: 0,0:00:03.58,0:00:04.03,P,,0,0,0,,EL REGLAMENTO MIL {\c&H00D4FF&\fscx110\fscy110}OCHO{\r}
+Dialogue: 0,0:00:04.03,0:00:04.17,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DE{\r} DOS MIL OCHO
+Dialogue: 0,0:00:04.17,0:00:04.29,P,,0,0,0,,DE {\c&H00D4FF&\fscx110\fscy110}DOS{\r} MIL OCHO
+Dialogue: 0,0:00:04.29,0:00:04.41,P,,0,0,0,,DE DOS {\c&H00D4FF&\fscx110\fscy110}MIL{\r} OCHO
+Dialogue: 0,0:00:04.41,0:00:04.65,P,,0,0,0,,DE DOS MIL {\c&H00D4FF&\fscx110\fscy110}OCHO{\r}
+Dialogue: 0,0:00:04.65,0:00:05.29,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DICE{\r} QUE EL PRECIO
+Dialogue: 0,0:00:05.29,0:00:05.47,P,,0,0,0,,DICE {\c&H00D4FF&\fscx110\fscy110}QUE{\r} EL PRECIO
+Dialogue: 0,0:00:05.47,0:00:05.59,P,,0,0,0,,DICE QUE {\c&H00D4FF&\fscx110\fscy110}EL{\r} PRECIO
+Dialogue: 0,0:00:05.59,0:00:05.79,P,,0,0,0,,DICE QUE EL {\c&H00D4FF&\fscx110\fscy110}PRECIO{\r}
+Dialogue: 0,0:00:05.79,0:00:06.13,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}FINAL{\r} TIENE QUE MOSTRARSE
+Dialogue: 0,0:00:06.13,0:00:06.53,P,,0,0,0,,FINAL {\c&H00D4FF&\fscx110\fscy110}TIENE{\r} QUE MOSTRARSE
+Dialogue: 0,0:00:06.53,0:00:06.67,P,,0,0,0,,FINAL TIENE {\c&H00D4FF&\fscx110\fscy110}QUE{\r} MOSTRARSE
+Dialogue: 0,0:00:06.67,0:00:07.27,P,,0,0,0,,FINAL TIENE QUE {\c&H00D4FF&\fscx110\fscy110}MOSTRARSE{\r}
+Dialogue: 0,0:00:07.27,0:00:08.17,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SIEMPRE,{\r}
+Dialogue: 0,0:00:08.17,0:00:08.33,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CON{\r} TARIFA,
+Dialogue: 0,0:00:08.33,0:00:09.09,P,,0,0,0,,CON {\c&H00D4FF&\fscx110\fscy110}TARIFA,{\r}
+Dialogue: 0,0:00:09.09,0:00:09.53,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}IMPUESTOS{\r} Y TASAS OBLIGATORIAS.
+Dialogue: 0,0:00:09.53,0:00:09.97,P,,0,0,0,,IMPUESTOS {\c&H00D4FF&\fscx110\fscy110}Y{\r} TASAS OBLIGATORIAS.
+Dialogue: 0,0:00:09.97,0:00:10.31,P,,0,0,0,,IMPUESTOS Y {\c&H00D4FF&\fscx110\fscy110}TASAS{\r} OBLIGATORIAS.
+Dialogue: 0,0:00:10.31,0:00:11.51,P,,0,0,0,,IMPUESTOS Y TASAS {\c&H00D4FF&\fscx110\fscy110}OBLIGATORIAS.{\r}
+Dialogue: 0,0:00:11.51,0:00:11.73,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} QUE LOS SUPLEMENTOS
+Dialogue: 0,0:00:11.73,0:00:11.83,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}QUE{\r} LOS SUPLEMENTOS
+Dialogue: 0,0:00:11.83,0:00:11.95,P,,0,0,0,,Y QUE {\c&H00D4FF&\fscx110\fscy110}LOS{\r} SUPLEMENTOS
+Dialogue: 0,0:00:11.95,0:00:12.47,P,,0,0,0,,Y QUE LOS {\c&H00D4FF&\fscx110\fscy110}SUPLEMENTOS{\r}
+Dialogue: 0,0:00:12.47,0:00:13.03,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}OPCIONALES{\r} SE COMUNICAN CON
+Dialogue: 0,0:00:13.03,0:00:13.35,P,,0,0,0,,OPCIONALES {\c&H00D4FF&\fscx110\fscy110}SE{\r} COMUNICAN CON
+Dialogue: 0,0:00:13.35,0:00:13.79,P,,0,0,0,,OPCIONALES SE {\c&H00D4FF&\fscx110\fscy110}COMUNICAN{\r} CON
+Dialogue: 0,0:00:13.79,0:00:14.01,P,,0,0,0,,OPCIONALES SE COMUNICAN {\c&H00D4FF&\fscx110\fscy110}CON{\r}
+Dialogue: 0,0:00:14.01,0:00:14.51,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CLARIDAD{\r} AL PRINCIPIO DE
+Dialogue: 0,0:00:14.51,0:00:14.73,P,,0,0,0,,CLARIDAD {\c&H00D4FF&\fscx110\fscy110}AL{\r} PRINCIPIO DE
+Dialogue: 0,0:00:14.73,0:00:15.09,P,,0,0,0,,CLARIDAD AL {\c&H00D4FF&\fscx110\fscy110}PRINCIPIO{\r} DE
+Dialogue: 0,0:00:15.09,0:00:15.33,P,,0,0,0,,CLARIDAD AL PRINCIPIO {\c&H00D4FF&\fscx110\fscy110}DE{\r}
+Dialogue: 0,0:00:15.33,0:00:15.43,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LA{\r} RESERVA,
+Dialogue: 0,0:00:15.43,0:00:15.97,P,,0,0,0,,LA {\c&H00D4FF&\fscx110\fscy110}RESERVA,{\r}
+Dialogue: 0,0:00:15.97,0:00:16.27,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} EL PASAJERO LOS
+Dialogue: 0,0:00:16.27,0:00:16.41,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}EL{\r} PASAJERO LOS
+Dialogue: 0,0:00:16.41,0:00:16.83,P,,0,0,0,,Y EL {\c&H00D4FF&\fscx110\fscy110}PASAJERO{\r} LOS
+Dialogue: 0,0:00:16.83,0:00:17.05,P,,0,0,0,,Y EL PASAJERO {\c&H00D4FF&\fscx110\fscy110}LOS{\r}
+Dialogue: 0,0:00:17.05,0:00:17.53,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ACEPTA{\r} DE FORMA EXPRESA.
+Dialogue: 0,0:00:17.53,0:00:17.61,P,,0,0,0,,ACEPTA {\c&H00D4FF&\fscx110\fscy110}DE{\r} FORMA EXPRESA.
+Dialogue: 0,0:00:17.61,0:00:17.87,P,,0,0,0,,ACEPTA DE {\c&H00D4FF&\fscx110\fscy110}FORMA{\r} EXPRESA.
+Dialogue: 0,0:00:17.87,0:00:18.85,P,,0,0,0,,ACEPTA DE FORMA {\c&H00D4FF&\fscx110\fscy110}EXPRESA.{\r}

@@ -1,0 +1,109 @@
+[Script Info]
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: P,Archivo Black,82,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,6,3,2,60,60,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.15,0:00:00.39,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} DE LOS EXTRAS,
+Dialogue: 0,0:00:00.39,0:00:00.49,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}DE{\r} LOS EXTRAS,
+Dialogue: 0,0:00:00.49,0:00:00.63,P,,0,0,0,,Y DE {\c&H00D4FF&\fscx110\fscy110}LOS{\r} EXTRAS,
+Dialogue: 0,0:00:00.63,0:00:01.01,P,,0,0,0,,Y DE LOS {\c&H00D4FF&\fscx110\fscy110}EXTRAS,{\r}
+Dialogue: 0,0:00:01.01,0:00:02.19,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}VEINTICUATRO{\r} EUROS:
+Dialogue: 0,0:00:02.19,0:00:03.15,P,,0,0,0,,VEINTICUATRO {\c&H00D4FF&\fscx110\fscy110}EUROS:{\r}
+Dialogue: 0,0:00:03.15,0:00:03.41,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EL{\r} TREINTA Y DOS
+Dialogue: 0,0:00:03.41,0:00:03.66,P,,0,0,0,,EL {\c&H00D4FF&\fscx110\fscy110}TREINTA{\r} Y DOS
+Dialogue: 0,0:00:03.66,0:00:03.90,P,,0,0,0,,EL TREINTA {\c&H00D4FF&\fscx110\fscy110}Y{\r} DOS
+Dialogue: 0,0:00:03.90,0:00:04.15,P,,0,0,0,,EL TREINTA Y {\c&H00D4FF&\fscx110\fscy110}DOS{\r}
+Dialogue: 0,0:00:04.15,0:00:04.40,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}POR{\r} CIENTO.
+Dialogue: 0,0:00:04.40,0:00:04.89,P,,0,0,0,,POR {\c&H00D4FF&\fscx110\fscy110}CIENTO.{\r}
+Dialogue: 0,0:00:04.89,0:00:05.57,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ES{\r} TODO LO QUE
+Dialogue: 0,0:00:05.57,0:00:05.83,P,,0,0,0,,ES {\c&H00D4FF&\fscx110\fscy110}TODO{\r} LO QUE
+Dialogue: 0,0:00:05.83,0:00:06.05,P,,0,0,0,,ES TODO {\c&H00D4FF&\fscx110\fscy110}LO{\r} QUE
+Dialogue: 0,0:00:06.05,0:00:06.15,P,,0,0,0,,ES TODO LO {\c&H00D4FF&\fscx110\fscy110}QUE{\r}
+Dialogue: 0,0:00:06.15,0:00:06.27,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EL{\r} PASAJERO PAGA APARTE
+Dialogue: 0,0:00:06.27,0:00:06.67,P,,0,0,0,,EL {\c&H00D4FF&\fscx110\fscy110}PASAJERO{\r} PAGA APARTE
+Dialogue: 0,0:00:06.67,0:00:06.97,P,,0,0,0,,EL PASAJERO {\c&H00D4FF&\fscx110\fscy110}PAGA{\r} APARTE
+Dialogue: 0,0:00:06.97,0:00:07.35,P,,0,0,0,,EL PASAJERO PAGA {\c&H00D4FF&\fscx110\fscy110}APARTE{\r}
+Dialogue: 0,0:00:07.35,0:00:07.55,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DEL{\r} ASIENTO.
+Dialogue: 0,0:00:07.55,0:00:08.49,P,,0,0,0,,DEL {\c&H00D4FF&\fscx110\fscy110}ASIENTO.{\r}
+Dialogue: 0,0:00:08.49,0:00:09.13,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}RYANAIR{\r} NO LO DESGLOSA;
+Dialogue: 0,0:00:09.13,0:00:09.35,P,,0,0,0,,RYANAIR {\c&H00D4FF&\fscx110\fscy110}NO{\r} LO DESGLOSA;
+Dialogue: 0,0:00:09.35,0:00:09.47,P,,0,0,0,,RYANAIR NO {\c&H00D4FF&\fscx110\fscy110}LO{\r} DESGLOSA;
+Dialogue: 0,0:00:09.47,0:00:10.25,P,,0,0,0,,RYANAIR NO LO {\c&H00D4FF&\fscx110\fscy110}DESGLOSA;{\r}
+Dialogue: 0,0:00:10.25,0:00:10.55,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SOLO{\r} DA EL TOTAL.
+Dialogue: 0,0:00:10.55,0:00:10.87,P,,0,0,0,,SOLO {\c&H00D4FF&\fscx110\fscy110}DA{\r} EL TOTAL.
+Dialogue: 0,0:00:10.87,0:00:11.05,P,,0,0,0,,SOLO DA {\c&H00D4FF&\fscx110\fscy110}EL{\r} TOTAL.
+Dialogue: 0,0:00:11.05,0:00:12.17,P,,0,0,0,,SOLO DA EL {\c&H00D4FF&\fscx110\fscy110}TOTAL.{\r}
+Dialogue: 0,0:00:12.17,0:00:12.31,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} FÍJATE EN CÓMO
+Dialogue: 0,0:00:12.31,0:00:12.73,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}FÍJATE{\r} EN CÓMO
+Dialogue: 0,0:00:12.73,0:00:13.03,P,,0,0,0,,Y FÍJATE {\c&H00D4FF&\fscx110\fscy110}EN{\r} CÓMO
+Dialogue: 0,0:00:13.03,0:00:13.37,P,,0,0,0,,Y FÍJATE EN {\c&H00D4FF&\fscx110\fscy110}CÓMO{\r}
+Dialogue: 0,0:00:13.37,0:00:13.85,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CRECE{\r} CADA PARTE:
+Dialogue: 0,0:00:13.85,0:00:14.07,P,,0,0,0,,CRECE {\c&H00D4FF&\fscx110\fscy110}CADA{\r} PARTE:
+Dialogue: 0,0:00:14.07,0:00:15.11,P,,0,0,0,,CRECE CADA {\c&H00D4FF&\fscx110\fscy110}PARTE:{\r}
+Dialogue: 0,0:00:15.11,0:00:15.29,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EN{\r} EL ÚLTIMO AÑO,
+Dialogue: 0,0:00:15.29,0:00:15.41,P,,0,0,0,,EN {\c&H00D4FF&\fscx110\fscy110}EL{\r} ÚLTIMO AÑO,
+Dialogue: 0,0:00:15.41,0:00:15.67,P,,0,0,0,,EN EL {\c&H00D4FF&\fscx110\fscy110}ÚLTIMO{\r} AÑO,
+Dialogue: 0,0:00:15.67,0:00:16.43,P,,0,0,0,,EN EL ÚLTIMO {\c&H00D4FF&\fscx110\fscy110}AÑO,{\r}
+Dialogue: 0,0:00:16.43,0:00:16.51,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LOS{\r} INGRESOS POR TARIFAS
+Dialogue: 0,0:00:16.51,0:00:16.97,P,,0,0,0,,LOS {\c&H00D4FF&\fscx110\fscy110}INGRESOS{\r} POR TARIFAS
+Dialogue: 0,0:00:16.97,0:00:17.17,P,,0,0,0,,LOS INGRESOS {\c&H00D4FF&\fscx110\fscy110}POR{\r} TARIFAS
+Dialogue: 0,0:00:17.17,0:00:17.51,P,,0,0,0,,LOS INGRESOS POR {\c&H00D4FF&\fscx110\fscy110}TARIFAS{\r}
+Dialogue: 0,0:00:17.51,0:00:17.99,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SUBIERON{\r} UN CATORCE POR
+Dialogue: 0,0:00:17.99,0:00:18.21,P,,0,0,0,,SUBIERON {\c&H00D4FF&\fscx110\fscy110}UN{\r} CATORCE POR
+Dialogue: 0,0:00:18.21,0:00:18.43,P,,0,0,0,,SUBIERON UN {\c&H00D4FF&\fscx110\fscy110}CATORCE{\r} POR
+Dialogue: 0,0:00:18.43,0:00:18.64,P,,0,0,0,,SUBIERON UN CATORCE {\c&H00D4FF&\fscx110\fscy110}POR{\r}
+Dialogue: 0,0:00:18.64,0:00:19.07,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CIENTO;{\r}
+Dialogue: 0,0:00:19.07,0:00:19.89,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LOS{\r} DE LOS EXTRAS,
+Dialogue: 0,0:00:19.89,0:00:20.01,P,,0,0,0,,LOS {\c&H00D4FF&\fscx110\fscy110}DE{\r} LOS EXTRAS,
+Dialogue: 0,0:00:20.01,0:00:20.17,P,,0,0,0,,LOS DE {\c&H00D4FF&\fscx110\fscy110}LOS{\r} EXTRAS,
+Dialogue: 0,0:00:20.17,0:00:20.51,P,,0,0,0,,LOS DE LOS {\c&H00D4FF&\fscx110\fscy110}EXTRAS,{\r}
+Dialogue: 0,0:00:20.51,0:00:21.01,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}UN{\r} SEIS.
+Dialogue: 0,0:00:21.01,0:00:21.91,P,,0,0,0,,UN {\c&H00D4FF&\fscx110\fscy110}SEIS.{\r}
+Dialogue: 0,0:00:21.91,0:00:22.09,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ES{\r} DECIR:
+Dialogue: 0,0:00:22.09,0:00:22.79,P,,0,0,0,,ES {\c&H00D4FF&\fscx110\fscy110}DECIR:{\r}
+Dialogue: 0,0:00:22.79,0:00:23.01,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LA{\r} TARIFA CRECE MÁS
+Dialogue: 0,0:00:23.01,0:00:23.41,P,,0,0,0,,LA {\c&H00D4FF&\fscx110\fscy110}TARIFA{\r} CRECE MÁS
+Dialogue: 0,0:00:23.41,0:00:23.87,P,,0,0,0,,LA TARIFA {\c&H00D4FF&\fscx110\fscy110}CRECE{\r} MÁS
+Dialogue: 0,0:00:23.87,0:00:24.11,P,,0,0,0,,LA TARIFA CRECE {\c&H00D4FF&\fscx110\fscy110}MÁS{\r}
+Dialogue: 0,0:00:24.11,0:00:24.63,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DEPRISA{\r} QUE LOS EXTRAS.
+Dialogue: 0,0:00:24.63,0:00:24.75,P,,0,0,0,,DEPRISA {\c&H00D4FF&\fscx110\fscy110}QUE{\r} LOS EXTRAS.
+Dialogue: 0,0:00:24.75,0:00:24.91,P,,0,0,0,,DEPRISA QUE {\c&H00D4FF&\fscx110\fscy110}LOS{\r} EXTRAS.
+Dialogue: 0,0:00:24.91,0:00:26.03,P,,0,0,0,,DEPRISA QUE LOS {\c&H00D4FF&\fscx110\fscy110}EXTRAS.{\r}
+Dialogue: 0,0:00:26.03,0:00:26.57,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}FÍJATE{\r} EN ALGO:
+Dialogue: 0,0:00:26.57,0:00:26.77,P,,0,0,0,,FÍJATE {\c&H00D4FF&\fscx110\fscy110}EN{\r} ALGO:
+Dialogue: 0,0:00:26.77,0:00:27.49,P,,0,0,0,,FÍJATE EN {\c&H00D4FF&\fscx110\fscy110}ALGO:{\r}
+Dialogue: 0,0:00:27.49,0:00:27.71,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CASI{\r} UN TERCIO DEL
+Dialogue: 0,0:00:27.71,0:00:28.01,P,,0,0,0,,CASI {\c&H00D4FF&\fscx110\fscy110}UN{\r} TERCIO DEL
+Dialogue: 0,0:00:28.01,0:00:28.37,P,,0,0,0,,CASI UN {\c&H00D4FF&\fscx110\fscy110}TERCIO{\r} DEL
+Dialogue: 0,0:00:28.37,0:00:28.51,P,,0,0,0,,CASI UN TERCIO {\c&H00D4FF&\fscx110\fscy110}DEL{\r}
+Dialogue: 0,0:00:28.51,0:00:28.83,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DINERO{\r} VIENE DE LOS
+Dialogue: 0,0:00:28.83,0:00:29.19,P,,0,0,0,,DINERO {\c&H00D4FF&\fscx110\fscy110}VIENE{\r} DE LOS
+Dialogue: 0,0:00:29.19,0:00:29.35,P,,0,0,0,,DINERO VIENE {\c&H00D4FF&\fscx110\fscy110}DE{\r} LOS
+Dialogue: 0,0:00:29.35,0:00:29.45,P,,0,0,0,,DINERO VIENE DE {\c&H00D4FF&\fscx110\fscy110}LOS{\r}
+Dialogue: 0,0:00:29.45,0:00:30.25,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EXTRAS,{\r}
+Dialogue: 0,0:00:30.25,0:00:30.53,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}PERO{\r} LOS DOS TERCIOS
+Dialogue: 0,0:00:30.53,0:00:30.77,P,,0,0,0,,PERO {\c&H00D4FF&\fscx110\fscy110}LOS{\r} DOS TERCIOS
+Dialogue: 0,0:00:30.77,0:00:30.93,P,,0,0,0,,PERO LOS {\c&H00D4FF&\fscx110\fscy110}DOS{\r} TERCIOS
+Dialogue: 0,0:00:30.93,0:00:31.35,P,,0,0,0,,PERO LOS DOS {\c&H00D4FF&\fscx110\fscy110}TERCIOS{\r}
+Dialogue: 0,0:00:31.35,0:00:31.73,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}VIENEN{\r} DE LA TARIFA.
+Dialogue: 0,0:00:31.73,0:00:31.91,P,,0,0,0,,VIENEN {\c&H00D4FF&\fscx110\fscy110}DE{\r} LA TARIFA.
+Dialogue: 0,0:00:31.91,0:00:32.01,P,,0,0,0,,VIENEN DE {\c&H00D4FF&\fscx110\fscy110}LA{\r} TARIFA.
+Dialogue: 0,0:00:32.01,0:00:32.79,P,,0,0,0,,VIENEN DE LA {\c&H00D4FF&\fscx110\fscy110}TARIFA.{\r}
+Dialogue: 0,0:00:32.79,0:00:33.07,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ASÍ{\r} QUE NO,
+Dialogue: 0,0:00:33.07,0:00:33.27,P,,0,0,0,,ASÍ {\c&H00D4FF&\fscx110\fscy110}QUE{\r} NO,
+Dialogue: 0,0:00:33.27,0:00:33.41,P,,0,0,0,,ASÍ QUE {\c&H00D4FF&\fscx110\fscy110}NO,{\r}
+Dialogue: 0,0:00:33.41,0:00:33.93,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EL{\r} NEGOCIO NO ES
+Dialogue: 0,0:00:33.93,0:00:34.43,P,,0,0,0,,EL {\c&H00D4FF&\fscx110\fscy110}NEGOCIO{\r} NO ES
+Dialogue: 0,0:00:34.43,0:00:34.69,P,,0,0,0,,EL NEGOCIO {\c&H00D4FF&\fscx110\fscy110}NO{\r} ES
+Dialogue: 0,0:00:34.69,0:00:34.93,P,,0,0,0,,EL NEGOCIO NO {\c&H00D4FF&\fscx110\fscy110}ES{\r}
+Dialogue: 0,0:00:34.93,0:00:35.11,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SOLO{\r} COBRAR POR LA
+Dialogue: 0,0:00:35.11,0:00:35.51,P,,0,0,0,,SOLO {\c&H00D4FF&\fscx110\fscy110}COBRAR{\r} POR LA
+Dialogue: 0,0:00:35.51,0:00:35.65,P,,0,0,0,,SOLO COBRAR {\c&H00D4FF&\fscx110\fscy110}POR{\r} LA
+Dialogue: 0,0:00:35.65,0:00:35.79,P,,0,0,0,,SOLO COBRAR POR {\c&H00D4FF&\fscx110\fscy110}LA{\r}
+Dialogue: 0,0:00:35.79,0:00:36.51,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MALETA.{\r}

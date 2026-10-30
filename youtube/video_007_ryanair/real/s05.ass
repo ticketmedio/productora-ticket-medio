@@ -1,0 +1,66 @@
+[Script Info]
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: P,Archivo Black,82,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,6,3,2,60,60,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.15,0:00:00.47,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CADA{\r} AVIÓN DE LA
+Dialogue: 0,0:00:00.47,0:00:00.73,P,,0,0,0,,CADA {\c&H00D4FF&\fscx110\fscy110}AVIÓN{\r} DE LA
+Dialogue: 0,0:00:00.73,0:00:00.87,P,,0,0,0,,CADA AVIÓN {\c&H00D4FF&\fscx110\fscy110}DE{\r} LA
+Dialogue: 0,0:00:00.87,0:00:00.97,P,,0,0,0,,CADA AVIÓN DE {\c&H00D4FF&\fscx110\fscy110}LA{\r}
+Dialogue: 0,0:00:00.97,0:00:01.25,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}FLOTA,{\r}
+Dialogue: 0,0:00:01.25,0:00:01.45,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DE{\r} MEDIA,
+Dialogue: 0,0:00:01.45,0:00:01.73,P,,0,0,0,,DE {\c&H00D4FF&\fscx110\fscy110}MEDIA,{\r}
+Dialogue: 0,0:00:01.73,0:00:02.57,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}TRANSPORTÓ{\r} UNOS TRESCIENTOS VEINTIDÓS
+Dialogue: 0,0:00:02.57,0:00:02.75,P,,0,0,0,,TRANSPORTÓ {\c&H00D4FF&\fscx110\fscy110}UNOS{\r} TRESCIENTOS VEINTIDÓS
+Dialogue: 0,0:00:02.75,0:00:03.06,P,,0,0,0,,TRANSPORTÓ UNOS {\c&H00D4FF&\fscx110\fscy110}TRESCIENTOS{\r} VEINTIDÓS
+Dialogue: 0,0:00:03.06,0:00:03.36,P,,0,0,0,,TRANSPORTÓ UNOS TRESCIENTOS {\c&H00D4FF&\fscx110\fscy110}VEINTIDÓS{\r}
+Dialogue: 0,0:00:03.36,0:00:03.97,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MIL{\r} PASAJEROS,
+Dialogue: 0,0:00:03.97,0:00:05.05,P,,0,0,0,,MIL {\c&H00D4FF&\fscx110\fscy110}PASAJEROS,{\r}
+Dialogue: 0,0:00:05.05,0:00:05.43,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}INGRESÓ{\r} UNOS VEINTICUATRO MILLONES
+Dialogue: 0,0:00:05.43,0:00:05.63,P,,0,0,0,,INGRESÓ {\c&H00D4FF&\fscx110\fscy110}UNOS{\r} VEINTICUATRO MILLONES
+Dialogue: 0,0:00:05.63,0:00:06.13,P,,0,0,0,,INGRESÓ UNOS {\c&H00D4FF&\fscx110\fscy110}VEINTICUATRO{\r} MILLONES
+Dialogue: 0,0:00:06.13,0:00:06.47,P,,0,0,0,,INGRESÓ UNOS VEINTICUATRO {\c&H00D4FF&\fscx110\fscy110}MILLONES{\r}
+Dialogue: 0,0:00:06.47,0:00:06.75,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DE{\r} EUROS Y DEJÓ
+Dialogue: 0,0:00:06.75,0:00:06.97,P,,0,0,0,,DE {\c&H00D4FF&\fscx110\fscy110}EUROS{\r} Y DEJÓ
+Dialogue: 0,0:00:06.97,0:00:07.49,P,,0,0,0,,DE EUROS {\c&H00D4FF&\fscx110\fscy110}Y{\r} DEJÓ
+Dialogue: 0,0:00:07.49,0:00:07.75,P,,0,0,0,,DE EUROS Y {\c&H00D4FF&\fscx110\fscy110}DEJÓ{\r}
+Dialogue: 0,0:00:07.75,0:00:07.93,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}UNOS{\r} TRES MILLONES Y
+Dialogue: 0,0:00:07.93,0:00:08.13,P,,0,0,0,,UNOS {\c&H00D4FF&\fscx110\fscy110}TRES{\r} MILLONES Y
+Dialogue: 0,0:00:08.13,0:00:08.33,P,,0,0,0,,UNOS TRES {\c&H00D4FF&\fscx110\fscy110}MILLONES{\r} Y
+Dialogue: 0,0:00:08.33,0:00:08.53,P,,0,0,0,,UNOS TRES MILLONES {\c&H00D4FF&\fscx110\fscy110}Y{\r}
+Dialogue: 0,0:00:08.53,0:00:08.93,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MEDIO{\r} DE BENEFICIO.
+Dialogue: 0,0:00:08.93,0:00:09.09,P,,0,0,0,,MEDIO {\c&H00D4FF&\fscx110\fscy110}DE{\r} BENEFICIO.
+Dialogue: 0,0:00:09.09,0:00:10.03,P,,0,0,0,,MEDIO DE {\c&H00D4FF&\fscx110\fscy110}BENEFICIO.{\r}
+Dialogue: 0,0:00:10.03,0:00:10.33,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} CADA EMPLEADO,
+Dialogue: 0,0:00:10.33,0:00:10.53,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}CADA{\r} EMPLEADO,
+Dialogue: 0,0:00:10.53,0:00:10.99,P,,0,0,0,,Y CADA {\c&H00D4FF&\fscx110\fscy110}EMPLEADO,{\r}
+Dialogue: 0,0:00:10.99,0:00:11.19,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DE{\r} MEDIA,
+Dialogue: 0,0:00:11.19,0:00:11.47,P,,0,0,0,,DE {\c&H00D4FF&\fscx110\fscy110}MEDIA,{\r}
+Dialogue: 0,0:00:11.47,0:00:12.15,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SUPUSO{\r} UNOS QUINIENTOS DIECIOCHO
+Dialogue: 0,0:00:12.15,0:00:12.41,P,,0,0,0,,SUPUSO {\c&H00D4FF&\fscx110\fscy110}UNOS{\r} QUINIENTOS DIECIOCHO
+Dialogue: 0,0:00:12.41,0:00:12.70,P,,0,0,0,,SUPUSO UNOS {\c&H00D4FF&\fscx110\fscy110}QUINIENTOS{\r} DIECIOCHO
+Dialogue: 0,0:00:12.70,0:00:12.99,P,,0,0,0,,SUPUSO UNOS QUINIENTOS {\c&H00D4FF&\fscx110\fscy110}DIECIOCHO{\r}
+Dialogue: 0,0:00:12.99,0:00:13.57,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MIL{\r} EUROS DE INGRESOS
+Dialogue: 0,0:00:13.57,0:00:13.79,P,,0,0,0,,MIL {\c&H00D4FF&\fscx110\fscy110}EUROS{\r} DE INGRESOS
+Dialogue: 0,0:00:13.79,0:00:13.97,P,,0,0,0,,MIL EUROS {\c&H00D4FF&\fscx110\fscy110}DE{\r} INGRESOS
+Dialogue: 0,0:00:13.97,0:00:14.43,P,,0,0,0,,MIL EUROS DE {\c&H00D4FF&\fscx110\fscy110}INGRESOS{\r}
+Dialogue: 0,0:00:14.43,0:00:14.85,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} UNOS SETENTA Y
+Dialogue: 0,0:00:14.85,0:00:15.03,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}UNOS{\r} SETENTA Y
+Dialogue: 0,0:00:15.03,0:00:15.21,P,,0,0,0,,Y UNOS {\c&H00D4FF&\fscx110\fscy110}SETENTA{\r} Y
+Dialogue: 0,0:00:15.21,0:00:15.39,P,,0,0,0,,Y UNOS SETENTA {\c&H00D4FF&\fscx110\fscy110}Y{\r}
+Dialogue: 0,0:00:15.39,0:00:15.57,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CINCO{\r} MIL DE BENEFICIO.
+Dialogue: 0,0:00:15.57,0:00:15.93,P,,0,0,0,,CINCO {\c&H00D4FF&\fscx110\fscy110}MIL{\r} DE BENEFICIO.
+Dialogue: 0,0:00:15.93,0:00:16.09,P,,0,0,0,,CINCO MIL {\c&H00D4FF&\fscx110\fscy110}DE{\r} BENEFICIO.
+Dialogue: 0,0:00:16.09,0:00:17.07,P,,0,0,0,,CINCO MIL DE {\c&H00D4FF&\fscx110\fscy110}BENEFICIO.{\r}
+Dialogue: 0,0:00:17.07,0:00:17.45,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SON{\r} MEDIAS DE TODO
+Dialogue: 0,0:00:17.45,0:00:17.75,P,,0,0,0,,SON {\c&H00D4FF&\fscx110\fscy110}MEDIAS{\r} DE TODO
+Dialogue: 0,0:00:17.75,0:00:17.91,P,,0,0,0,,SON MEDIAS {\c&H00D4FF&\fscx110\fscy110}DE{\r} TODO
+Dialogue: 0,0:00:17.91,0:00:18.07,P,,0,0,0,,SON MEDIAS DE {\c&H00D4FF&\fscx110\fscy110}TODO{\r}
+Dialogue: 0,0:00:18.07,0:00:18.23,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EL{\r} GRUPO.
+Dialogue: 0,0:00:18.23,0:00:18.87,P,,0,0,0,,EL {\c&H00D4FF&\fscx110\fscy110}GRUPO.{\r}
