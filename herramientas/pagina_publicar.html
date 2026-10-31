@@ -1,0 +1,163 @@
+<title>Calendario de publicación</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=Atkinson+Hyperlegible:wght@400;700&display=swap">
+<style>
+/* Una columna de días; cada publicación es una ficha con sus textos y un botón «Copiar» por campo. Meta = coral de Pepa, YouTube = amarillo del ticket. */
+:root {
+  --bg: #eef1f5; --panel: #ffffff; --ink: #18202c; --muted: #5d6878; --line: #d7dde6;
+  --accent: #0d6b6b; --accent-ink: #ffffff; --meta: #e0572f; --meta-soft: #fde9e2; --yt: #c98f00; --yt-soft: #fdf3d3;
+  --warn: #8a4b00; --warn-soft: #fff1d6; --ok: #2f7d3b; --ok-soft: #e3f3e5; --field: #f6f8fb;
+  --display: "Bricolage Grotesque", "Avenir Next", "Segoe UI", system-ui, sans-serif;
+  --body: "Atkinson Hyperlegible", "Helvetica Neue", Arial, sans-serif;
+  --mono: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #11161d; --panel: #1a212b; --ink: #e8edf3; --muted: #9aa6b5; --line: #2c3643;
+  --accent: #3fb6b0; --accent-ink: #0b1414; --meta: #ff8a63; --meta-soft: #3a2119; --yt: #f2c33d; --yt-soft: #3a3014;
+  --warn: #ffc56b; --warn-soft: #3a2a10; --ok: #7fd18b; --ok-soft: #173020; --field: #141a22; color-scheme: dark } }
+:root[data-theme="dark"] {
+  --bg: #11161d; --panel: #1a212b; --ink: #e8edf3; --muted: #9aa6b5; --line: #2c3643;
+  --accent: #3fb6b0; --accent-ink: #0b1414; --meta: #ff8a63; --meta-soft: #3a2119; --yt: #f2c33d; --yt-soft: #3a3014;
+  --warn: #ffc56b; --warn-soft: #3a2a10; --ok: #7fd18b; --ok-soft: #173020; --field: #141a22; color-scheme: dark }
+body { background: var(--bg); color: var(--ink); font: 16px/1.5 var(--body); }
+body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 10; background: var(--panel); }
+.wrap { max-width: 860px; margin: 0 auto; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); padding-block: 0 64px; }
+header.top { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; background: var(--panel); border-bottom: 1px solid var(--line); }
+header.top .wrap { padding-block: 14px 12px; display: grid; gap: 10px; }
+h1 { font: 800 clamp(1.4rem, 4vw, 1.9rem)/1.1 var(--display); margin: 0; text-wrap: balance; letter-spacing: -0.01em; }
+.sub { color: var(--muted); font-size: 0.85rem; margin: 0; }
+.bar { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.seg { display: inline-flex; border: 1px solid var(--line); border-radius: 999px; overflow: hidden; }
+.seg button { border: 0; background: transparent; color: var(--ink); font: 700 0.85rem var(--body); padding: 6px 14px; cursor: pointer; }
+.seg button[aria-pressed="true"] { background: var(--ink); color: var(--panel); }
+.chk { display: inline-flex; gap: 6px; align-items: center; font-size: 0.85rem; color: var(--muted); cursor: pointer; }
+.progress { margin-left: auto; font: 700 0.85rem var(--body); font-variant-numeric: tabular-nums; color: var(--muted); }
+.progress b { color: var(--ok); }
+.btn { border: 1px solid var(--accent); background: var(--accent); color: var(--accent-ink); font: 700 0.82rem var(--body); padding: 6px 12px; border-radius: 8px; cursor: pointer; white-space: nowrap; }
+.btn.ghost { background: transparent; color: var(--accent); }
+.btn:focus-visible, .seg button:focus-visible, input:focus-visible, .more:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
+.btn.done { background: var(--ok); border-color: var(--ok); color: var(--panel); }
+.day { margin-top: 28px; display: grid; gap: 12px; scroll-margin-top: 150px; }
+.day h2 { font: 800 1.15rem/1.2 var(--display); margin: 0; display: flex; gap: 10px; align-items: baseline; flex-wrap: wrap; }
+.day h2 small { font: 400 0.82rem var(--body); color: var(--muted); }
+.week { margin-top: 36px; padding-top: 10px; border-top: 2px solid var(--ink); font: 700 0.75rem var(--body); letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); }
+.card { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; padding: 14px 16px; display: grid; gap: 10px; border-left: 5px solid var(--c); min-width: 0; }
+.card.meta { --c: var(--meta); --soft: var(--meta-soft); }
+.card.youtube { --c: var(--yt); --soft: var(--yt-soft); }
+.card.is-done { opacity: 0.55; }
+.card.is-done .fields, .card.is-done .note { display: none; }
+.head { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; }
+.time { font: 800 1rem var(--display); font-variant-numeric: tabular-nums; }
+.pill { font: 700 0.72rem var(--body); letter-spacing: 0.05em; text-transform: uppercase; padding: 3px 9px; border-radius: 999px; background: var(--soft); color: var(--ink); border: 1px solid var(--c); }
+.mark { margin-left: auto; display: inline-flex; gap: 6px; align-items: center; font: 700 0.85rem var(--body); cursor: pointer; }
+.mark input { width: 20px; height: 20px; accent-color: var(--ok); }
+.ttl { font: 700 1.05rem/1.3 var(--body); margin: 0; overflow-wrap: anywhere; }
+.dest { color: var(--muted); font-size: 0.88rem; margin: 0; }
+.note { background: var(--warn-soft); color: var(--warn); border-radius: 8px; padding: 8px 10px; font-size: 0.88rem; }
+.file { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; font-size: 0.85rem; }
+.file code { font: 0.8rem var(--mono); background: var(--field); border: 1px solid var(--line); border-radius: 6px; padding: 3px 7px; overflow-wrap: anywhere; min-width: 0; }
+.file span { color: var(--muted); overflow-wrap: anywhere; }
+.fields { display: grid; gap: 10px; }
+.field { display: grid; gap: 6px; min-width: 0; }
+.field .lbl { display: flex; justify-content: space-between; align-items: center; gap: 8px; font: 700 0.78rem var(--body); letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted); }
+.txt { white-space: pre-wrap; overflow-wrap: anywhere; background: var(--field); border: 1px solid var(--line); border-radius: 8px; padding: 10px 12px; font-size: 0.9rem; max-height: 7.8em; overflow: hidden; position: relative; margin: 0; font-family: var(--body); }
+.txt.open { max-height: none; }
+.more { background: none; border: 0; color: var(--accent); font: 700 0.8rem var(--body); cursor: pointer; padding: 0; justify-self: start; }
+.empty { margin-top: 40px; color: var(--muted); text-align: center; }
+@media (max-width: 520px) { .progress { margin-left: 0; width: 100%; } .mark { margin-left: 0; } }
+@media (prefers-reduced-motion: no-preference) { .btn, .card { transition: background-color .15s, opacity .2s; } }
+</style>
+
+<header class="top">
+  <div class="wrap">
+    <div>
+      <h1>Calendario de publicación</h1>
+      <p class="sub">Meta (Pepa Pita) y YouTube (Ticket Medio) · día y hora en que SALE cada cosa; puedes programarla cuando quieras antes · actualizado {{GENERADO}}</p>
+    </div>
+    <div class="bar">
+      <div class="seg" role="group" aria-label="Plataforma">
+        <button type="button" data-f="todo" aria-pressed="true">Todo</button>
+        <button type="button" data-f="meta" aria-pressed="false">Meta</button>
+        <button type="button" data-f="youtube" aria-pressed="false">YouTube</button>
+      </div>
+      <label class="chk"><input type="checkbox" id="ocultar"> Ocultar lo programado</label>
+      <button type="button" class="btn ghost" id="siguiente">Ir al siguiente pendiente</button>
+      <span class="progress" id="progreso"></span>
+    </div>
+  </div>
+</header>
+<main class="wrap" id="lista"></main>
+
+<script>
+const ITEMS = /*DATOS*/[];
+const DIAS = ["domingo", "lunes", "martes", "miércoles", "jueves", "viernes", "sábado"];
+const MESES = ["enero", "febrero", "marzo", "abril", "mayo", "junio", "julio", "agosto", "septiembre", "octubre", "noviembre", "diciembre"];
+const KEY = "calendario-publicacion-v1";
+let estado = { hechos: {}, filtro: "todo", ocultar: false };
+try { estado = Object.assign(estado, JSON.parse(localStorage.getItem(KEY) || "{}")); } catch (e) {}
+function guardar() { try { localStorage.setItem(KEY, JSON.stringify(estado)); } catch (e) {} }
+
+function fecha(iso) { const d = new Date(iso + "T12:00:00"); return d; }
+function nombreDia(iso) { const d = fecha(iso); return `${DIAS[d.getDay()]} ${d.getDate()} de ${MESES[d.getMonth()]}`; }
+function lunes(iso) { const d = fecha(iso); const k = (d.getDay() + 6) % 7; d.setDate(d.getDate() - k); return d; }
+
+function copiar(texto, boton, pre) {
+  const ok = () => { const t = boton.textContent; boton.textContent = "Copiado ✓"; boton.classList.add("done"); setTimeout(() => { boton.textContent = t; boton.classList.remove("done"); }, 1600); };
+  const manual = () => { if (!pre) return; const r = document.createRange(); r.selectNodeContents(pre); const s = getSelection(); s.removeAllRanges(); s.addRange(r); boton.textContent = "Pulsa ⌘C"; setTimeout(() => boton.textContent = "Copiar", 2500); };
+  if (navigator.clipboard && navigator.clipboard.writeText) navigator.clipboard.writeText(texto).then(ok, manual); else manual();
+}
+
+function el(tag, cls, txt) { const e = document.createElement(tag); if (cls) e.className = cls; if (txt != null) e.textContent = txt; return e; }
+
+function pintar() {
+  const lista = document.getElementById("lista"); lista.textContent = "";
+  document.querySelectorAll(".seg button").forEach(b => b.setAttribute("aria-pressed", String(b.dataset.f === estado.filtro)));
+  document.getElementById("ocultar").checked = estado.ocultar;
+  const visibles = ITEMS.filter(it => (estado.filtro === "todo" || it.red === estado.filtro));
+  const hechos = visibles.filter(it => estado.hechos[it.id]).length;
+  document.getElementById("progreso").innerHTML = `<b>${hechos}</b> de ${visibles.length} programados`;
+  let semana = "", dia = "", bloque = null;
+  const mostrar = visibles.filter(it => !(estado.ocultar && estado.hechos[it.id]));
+  if (!mostrar.length) { lista.appendChild(el("p", "empty", "Todo programado en esta vista. 🎉")); return; }
+  for (const it of mostrar) {
+    const l = lunes(it.dia); const sk = l.toISOString().slice(0, 10);
+    if (sk !== semana) { semana = sk; const fin = new Date(l); fin.setDate(fin.getDate() + 6);
+      lista.appendChild(el("div", "week", `Semana del ${l.getDate()} de ${MESES[l.getMonth()]} al ${fin.getDate()} de ${MESES[fin.getMonth()]}`)); }
+    if (it.dia !== dia) { dia = it.dia; bloque = el("section", "day"); bloque.id = "d" + it.dia;
+      const h = el("h2", null, nombreDia(it.dia)); const n = mostrar.filter(x => x.dia === it.dia).length;
+      h.appendChild(el("small", null, n === 1 ? "1 publicación" : n + " publicaciones")); bloque.appendChild(h); lista.appendChild(bloque); }
+    const c = el("article", "card " + it.red + (estado.hechos[it.id] ? " is-done" : "")); c.dataset.id = it.id;
+    const head = el("div", "head");
+    head.appendChild(el("span", "time", it.hora));
+    head.appendChild(el("span", "pill", it.red === "meta" ? "Meta" : "YouTube"));
+    head.appendChild(el("span", "pill", it.tipo));
+    const mk = el("label", "mark"); const cb = document.createElement("input"); cb.type = "checkbox"; cb.id = "c_" + it.id; cb.checked = !!estado.hechos[it.id];
+    cb.addEventListener("change", () => { if (cb.checked) estado.hechos[it.id] = 1; else delete estado.hechos[it.id]; guardar(); pintar(); });
+    mk.append(cb, document.createTextNode("Programado")); head.appendChild(mk); c.appendChild(head);
+    c.appendChild(el("p", "ttl", it.titulo));
+    c.appendChild(el("p", "dest", it.destino));
+    if (it.aviso) c.appendChild(el("div", "note", it.aviso));
+    const f = el("div", "file"); const code = el("code", null, it.ruta);
+    const bR = el("button", "btn ghost", "Copiar carpeta"); bR.type = "button"; bR.addEventListener("click", () => copiar(it.ruta, bR, code));
+    f.append(code, bR); if (it.archivo) f.appendChild(el("span", null, it.archivo)); c.appendChild(f);
+    const fs = el("div", "fields");
+    for (const [lbl, txt] of it.campos) {
+      const fd = el("div", "field"); const top = el("div", "lbl"); top.appendChild(el("span", null, lbl));
+      const pre = el("pre", "txt", txt); const b = el("button", "btn", "Copiar"); b.type = "button"; b.addEventListener("click", () => copiar(txt, b, pre));
+      top.appendChild(b); fd.append(top, pre);
+      if (txt.split("\n").length > 5 || txt.length > 320) { const m = el("button", "more", "Ver todo"); m.type = "button";
+        m.addEventListener("click", () => { pre.classList.toggle("open"); m.textContent = pre.classList.contains("open") ? "Ver menos" : "Ver todo"; }); fd.appendChild(m); }
+      fs.appendChild(fd);
+    }
+    c.appendChild(fs); bloque.appendChild(c);
+  }
+}
+document.querySelectorAll(".seg button").forEach(b => b.addEventListener("click", () => { estado.filtro = b.dataset.f; guardar(); pintar(); }));
+document.getElementById("ocultar").addEventListener("change", e => { estado.ocultar = e.target.checked; guardar(); pintar(); });
+document.getElementById("siguiente").addEventListener("click", () => {
+  const it = ITEMS.find(x => (estado.filtro === "todo" || x.red === estado.filtro) && !estado.hechos[x.id]);
+  const c = it && document.querySelector(`[data-id="${CSS.escape(it.id)}"]`); if (c) c.scrollIntoView({ behavior: "smooth", block: "start" });
+});
+pintar();
+</script>
