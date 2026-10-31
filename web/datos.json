@@ -3013,7 +3013,7 @@
       "who": "tu",
       "kind": "tarea",
       "project": "redes",
-      "status": "pendiente",
+      "status": "hecho",
       "platforms": [
         "Instagram",
         "Facebook"
@@ -3026,7 +3026,8 @@
           "text": "31/10 · Comprobado por Claude en Meta: Reels nuevos 018–022 programados (Instagram + Facebook, 19:00) con el texto nuevo; los antiguos ya no están.",
           "createdAt": "2026-10-31T15:33:07.083Z"
         }
-      ]
+      ],
+      "updatedAt": "2026-10-31T15:33:07.919Z"
     },
     {
       "id": "u-pepa-nueva-9-13nov",
