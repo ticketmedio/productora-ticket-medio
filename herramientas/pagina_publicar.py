@@ -14,6 +14,8 @@ DESDE = D(2026, 11, 2)
 # Ya programados en Meta con la versión ANTIGUA (hay que borrarlos y poner el nuevo) y carruseles ya programados
 REEMPLAZAR = {f"{n:03d}" for n in range(18, 28)}
 CARRUSELES_HECHOS = {"009", "010"}
+# Meta ya programado y comprobado por Claude en Meta Business Suite (31/10: todo hasta el viernes 27/11)
+META_HECHO_HASTA = D(2026, 11, 27)
 # vídeo largo de Ticket Medio: viernes 18:00
 FECHA_LARGO = {7: D(2026, 11, 6), 8: D(2026, 11, 13), 9: D(2026, 11, 20), 10: D(2026, 11, 27), 11: D(2026, 12, 4), 12: D(2026, 12, 11)}
 
@@ -38,7 +40,7 @@ for fila in leer("redes", "pepa_pita", "PLAN_PROGRAMACION.md").splitlines():
     if len(c) < 7 or not re.search(r"\d+ de ", c[2]):
         continue
     dia, hora, que, donde, archivo = fecha_es(c[2]), c[3], c[4], c[5], c[6]
-    if dia < DESDE:
+    if dia < DESDE or dia <= META_HECHO_HASTA:
         continue
     carpeta = archivo.split(" ")[0].rstrip("/")
     n = re.search(r"(\d{3})", que).group(1)
