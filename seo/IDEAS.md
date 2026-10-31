@@ -2,6 +2,20 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 31/10/2026 (tarde)
+
+**Ejemplos que funcionan (datos públicos, 31/10/2026)**
+- Bruno Peluch (≈6,52 mil suscriptores): TOUS, 229 mil en 13 d; Hawkers, 18 mil; Bizum, 10 mil.
+- JF Calero (126 mil): Temu y Shein «¿cómo pueden vender tan barato?», 29.698 en 2 d.
+- Black Friday «falso descuento»: recientes con 350, 402 y 190 visualizaciones (hueco).
+
+**Ideas**
+1. **Vídeo largo — Black Friday: el sistema del falso descuento**, con la multa de Consumo (350.000 €, 7 empresas) de apertura.
+2. **Short — misma cesta, dos súper**, enlazado al largo.
+3. **Carrusel de Pepa — castañas / Todos los Santos** (falta fuente AESAN).
+
+**Mejora aplicable:** marca + sospecha + cifra al principio del título. (`yt_video.py`: 403 por red.)
+
 ## 31/10/2026 (mañana)
 
 **Ejemplos que funcionan (datos públicos, 31/10/2026)**
