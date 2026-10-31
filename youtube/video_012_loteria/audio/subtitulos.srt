@@ -1,319 +1,396 @@
 1
-00:00:00,000 --> 00:00:06,703
-Cada veintidós de diciembre, millones de españoles compran un décimo de la Lotería de Navidad.
+00:00:00,000 --> 00:00:01,880
+Veintidós de diciembre.
 
 2
-00:00:06,703 --> 00:00:08,129
-Cuesta veinte euros.
+00:00:02,200 --> 00:00:05,420
+Los niños de San Ildefonso empiezan a cantar.
 
 3
-00:00:08,129 --> 00:00:12,194
-Y la pregunta es siempre la misma: ¿quién gana de verdad?
+00:00:05,640 --> 00:00:10,240
+Millones de españoles con el décimo en la mano, conteniendo la respiración.
 
 4
-00:00:12,194 --> 00:00:16,829
-Hoy abrimos el ticket de un décimo con lo que se puede comprobar.
+00:00:10,240 --> 00:00:11,820
+Veinte euros…
 
 5
-00:00:16,829 --> 00:00:19,539
-Sin aconsejar jugar ni dejar de jugar.
+00:00:11,820 --> 00:00:13,440
+y un sueño.
 
 6
-00:00:19,539 --> 00:00:20,751
-Solo los números.
+00:00:13,800 --> 00:00:16,300
+Pero hay una pregunta que casi nadie se hace:
 
 7
-00:00:21,101 --> 00:00:23,580
-Primero, el tamaño del sorteo.
+00:00:16,880 --> 00:00:18,220
+¿quién gana siempre?
 
 8
-00:00:23,580 --> 00:00:30,603
-En dos mil veinticinco se emitieron ciento noventa y ocho series de cien mil números.
+00:00:18,980 --> 00:00:22,420
+Hoy abrimos el ticket de un décimo de la Lotería de Navidad.
 
 9
-00:00:30,603 --> 00:00:33,248
-Cada décimo cuesta veinte euros.
+00:00:22,520 --> 00:00:25,400
+Sin aconsejar jugar ni dejar de jugar.
 
 10
-00:00:33,248 --> 00:00:37,958
-En total, tres mil novecientos sesenta millones de euros.
+00:00:25,640 --> 00:00:28,160
+Solo con los números que se pueden comprobar.
 
 11
-00:00:38,308 --> 00:00:44,056
-Según los datos publicados del sorteo, el setenta por ciento se destina a premios.
+00:00:28,420 --> 00:00:29,740
+Y te adelanto algo:
 
 12
-00:00:44,056 --> 00:00:47,981
-Son dos mil setecientos setenta y dos millones de euros.
+00:00:30,020 --> 00:00:31,180
+el que más gana…
 
 13
-00:00:47,981 --> 00:00:52,537
-Y el sorteo vendió, según los datos publicados el día del sorteo,
+00:00:31,300 --> 00:00:32,420
+no eres tú.
 
 14
-00:00:52,537 --> 00:00:55,902
-tres mil quinientos cincuenta y cuatro millones,
+00:00:33,020 --> 00:00:35,420
+Primero, el tamaño del sorteo.
 
 15
-00:00:55,902 --> 00:00:59,687
-un uno coma cuatro por ciento más que el año anterior.
+00:00:35,900 --> 00:00:40,720
+En dos mil veinticinco se emitieron ciento noventa y ocho series de cien mil números.
 
 16
-00:01:00,037 --> 00:01:01,941
-Ahora, una cuenta propia.
+00:00:41,120 --> 00:00:43,220
+Cada décimo cuesta veinte euros.
 
 17
-00:01:01,941 --> 00:01:06,130
-Si de cada veinte euros que valen los décimos emitidos,
+00:00:43,740 --> 00:00:47,340
+En total, tres mil novecientos sesenta millones de euros.
 
 18
-00:01:06,130 --> 00:01:11,995
-el setenta por ciento son premios, de media vuelven catorce euros por décimo.
+00:00:47,900 --> 00:00:52,800
+Según los datos publicados del sorteo, el setenta por ciento se destina a premios.
 
 19
-00:01:11,995 --> 00:01:13,366
-Catorce de veinte.
+00:00:53,020 --> 00:00:56,340
+Son dos mil setecientos setenta y dos millones de euros.
 
 20
-00:01:13,366 --> 00:01:16,870
-Ojo: es la media de todos, antes de impuestos.
+00:00:56,620 --> 00:01:00,560
+Y el sorteo vendió, según los datos publicados el día del sorteo,
 
 21
-00:01:16,870 --> 00:01:23,573
-Casi nadie recibe catorce: es un promedio entre pocos premios enormes y muchos pequeños.
+00:01:00,560 --> 00:01:05,680
+tres mil quinientos cincuenta y cuatro millones, un uno coma cuatro por ciento más que el
 
 22
-00:01:23,923 --> 00:01:24,654
-¿Por qué?
+00:01:05,680 --> 00:01:06,460
+año anterior.
 
 23
-00:01:24,654 --> 00:01:26,360
-Mira cómo se reparte.
+00:01:07,060 --> 00:01:09,040
+Ahora, una cuenta propia.
 
 24
-00:01:26,360 --> 00:01:33,105
-El Gordo da cuatro millones de euros por serie: cuatrocientos mil euros por décimo.
+00:01:09,500 --> 00:01:14,740
+Si de cada veinte euros que valen los décimos emitidos, el setenta por ciento son premios,
 
 25
-00:01:33,105 --> 00:01:38,630
-La probabilidad de que tu número sea el Gordo es una entre cien mil.
+00:01:14,860 --> 00:01:17,120
+de media vuelven catorce euros por décimo.
 
 26
-00:01:38,630 --> 00:01:44,318
-Si multiplicas, el Gordo aporta cuatro de esos catorce euros de media.
+00:01:17,120 --> 00:01:19,170
+Catorce de veinte.
 
 27
-00:01:44,318 --> 00:01:49,518
-El segundo premio, un millón doscientos cincuenta mil por serie,
+00:01:19,340 --> 00:01:20,060
+Ojo:
 
 28
-00:01:49,518 --> 00:01:51,875
-y el tercero, quinientos mil.
+00:01:20,180 --> 00:01:22,600
+es la media de todos, antes de impuestos.
 
 29
-00:01:52,225 --> 00:01:56,587
-Sumando los tres premios grandes de las ciento noventa y ocho series,
+00:01:23,140 --> 00:01:24,620
+Casi nadie recibe catorce:
 
 30
-00:01:56,587 --> 00:01:59,558
-son mil ciento treinta y ocho millones y medio.
+00:01:24,620 --> 00:01:28,580
+es un promedio entre pocos premios enormes y muchos pequeños.
 
 31
-00:01:59,558 --> 00:02:03,415
-Es el cuarenta y uno por ciento de todo el dinero en premios.
+00:01:28,960 --> 00:01:29,740
+¿Por qué?
 
 32
-00:02:03,415 --> 00:02:07,081
-Es un cálculo nuestro, pero sale de las cifras publicadas.
+00:01:30,020 --> 00:01:31,520
+Mira cómo se reparte.
 
 33
-00:02:07,081 --> 00:02:11,254
-El resto del dinero se reparte en muchísimos premios más pequeños.
+00:01:31,980 --> 00:01:34,300
+El Gordo da cuatro millones de euros por serie:
 
 34
-00:02:11,604 --> 00:02:12,943
-Y ahora, Hacienda.
+00:01:34,300 --> 00:01:36,680
+cuatrocientos mil euros por décimo.
 
 35
-00:02:12,943 --> 00:02:18,446
-Desde dos mil trece, los premios de la lotería del Estado pagan impuestos.
+00:01:37,060 --> 00:01:41,200
+La probabilidad de que tu número sea el Gordo es una entre cien mil.
 
 36
-00:02:18,446 --> 00:02:20,677
-Ley dieciséis de dos mil doce.
+00:01:41,260 --> 00:01:45,460
+Si multiplicas, el Gordo aporta cuatro de esos catorce euros de media.
 
 37
-00:02:20,677 --> 00:02:26,999
-Y hay una parte exenta: los primeros cuarenta mil euros de cada décimo no pagan nada.
+00:01:46,000 --> 00:01:50,240
+El segundo premio, un millón doscientos cincuenta mil por serie, y el tercero,
 
 38
-00:02:26,999 --> 00:02:31,907
-Lo que supera esa cifra tiene una retención del veinte por ciento.
+00:01:50,240 --> 00:01:51,460
+quinientos mil.
 
 39
-00:02:31,907 --> 00:02:34,138
-Lo dice la Agencia Tributaria.
+00:01:51,620 --> 00:01:55,060
+Sumando los tres premios grandes de las ciento noventa y ocho series,
 
 40
-00:02:34,138 --> 00:02:40,534
-El ejemplo oficial: un premio de cien mil euros paga veinte por ciento de sesenta mil,
+00:01:55,060 --> 00:01:57,840
+son mil ciento treinta y ocho millones y medio.
 
 41
-00:02:40,534 --> 00:02:41,650
-doce mil euros.
+00:01:58,120 --> 00:02:01,300
+Es el cuarenta y uno por ciento de todo el dinero en premios.
 
 42
-00:02:41,650 --> 00:02:43,584
-Cobras ochenta y ocho mil.
+00:02:01,620 --> 00:02:04,720
+Es un cálculo nuestro, pero sale de las cifras publicadas.
 
 43
-00:02:43,934 --> 00:02:47,924
-Aplicado al Gordo: cuatrocientos mil euros por décimo.
+00:02:05,340 --> 00:02:08,780
+El resto del dinero se reparte en muchísimos premios más pequeños.
 
 44
-00:02:47,924 --> 00:02:52,137
-Restas los cuarenta mil exentos: trescientos sesenta mil.
+00:02:09,280 --> 00:02:10,800
+Y ahora, Hacienda.
 
 45
-00:02:52,137 --> 00:02:55,758
-El veinte por ciento son setenta y dos mil euros.
+00:02:11,440 --> 00:02:15,300
+Desde dos mil trece, los premios de la lotería del Estado pagan impuestos.
 
 46
-00:02:55,758 --> 00:02:58,271
-Cobras trescientos veintiocho mil.
+00:02:15,540 --> 00:02:17,440
+Ley dieciséis de dos mil doce.
 
 47
-00:02:58,271 --> 00:03:01,449
-Es un cálculo nuestro con la regla oficial.
+00:02:17,440 --> 00:02:19,040
+Y hay una parte exenta:
 
 48
-00:03:01,449 --> 00:03:06,918
-El segundo premio, ciento veinticinco mil por décimo, paga diecisiete mil.
+00:02:19,360 --> 00:02:22,440
+los primeros cuarenta mil euros de cada décimo no pagan nada.
 
 49
-00:03:06,918 --> 00:03:09,874
-El tercero, cincuenta mil, paga dos mil.
+00:02:22,800 --> 00:02:25,600
+Lo que supera esa cifra tiene una retención del veinte por ciento.
 
 50
-00:03:10,224 --> 00:03:13,682
-La retención se aplica a cada décimo por separado,
+00:02:25,600 --> 00:02:27,820
+Lo dice la Agencia Tributaria.
 
 51
-00:03:13,682 --> 00:03:16,725
-y SELAE la practica en el momento del cobro.
+00:02:28,400 --> 00:02:29,460
+El ejemplo oficial:
 
 52
-00:03:16,725 --> 00:03:22,396
-Si un décimo es compartido, los cuarenta mil exentos se reparten entre los dueños.
+00:02:29,900 --> 00:02:32,744
+un premio de cien mil euros paga veinte por ciento de sesenta mil,
 
 53
-00:03:22,396 --> 00:03:25,093
-Por eso compartir no te hace pagar más.
+00:02:32,744 --> 00:02:34,220
+doce mil euros.
 
 54
-00:03:25,443 --> 00:03:26,826
-Quedan dos preguntas.
+00:02:34,240 --> 00:02:36,308
+Cobras ochenta y ocho mil.
 
 55
-00:03:26,826 --> 00:03:31,239
-La primera: ¿quién se queda el treinta por ciento que no es premio?
+00:02:36,360 --> 00:02:37,340
+Aplicado al Gordo:
 
 56
-00:03:31,239 --> 00:03:36,574
-Aquí tenemos que ser honestos: SELAE, la sociedad pública que organiza el sorteo,
+00:02:37,340 --> 00:02:39,920
+cuatrocientos mil euros por décimo.
 
 57
-00:03:36,574 --> 00:03:43,688
-no desglosa en lo que hemos podido consultar cuánto va a la red de ventas y cuánto al Estado en este sorteo,
+00:02:40,020 --> 00:02:41,860
+Restas los cuarenta mil exentos:
 
 58
-00:03:43,688 --> 00:03:45,137
-así que no lo decimos.
+00:02:41,860 --> 00:02:43,630
+trescientos sesenta mil.
 
 59
-00:03:45,487 --> 00:03:49,557
-Lo que sí es público es lo que gana la empresa en conjunto.
+00:02:43,820 --> 00:02:46,620
+El veinte por ciento son setenta y dos mil euros.
 
 60
-00:03:49,557 --> 00:03:52,523
-En dos mil veinticuatro, según sus cuentas,
+00:02:46,760 --> 00:02:49,015
+Cobras trescientos veintiocho mil.
 
 61
-00:03:52,523 --> 00:04:02,043
-vendió diez mil trescientos noventa y seis millones de euros entre todos sus juegos y ganó dos mil cuatrocientos treinta y siete millones.
+00:02:49,240 --> 00:02:51,660
+Es un cálculo nuestro con la regla oficial.
 
 62
-00:04:02,043 --> 00:04:03,767
-Un veintitrés por ciento.
+00:02:52,120 --> 00:02:56,613
+El segundo premio, ciento veinticinco mil por décimo, paga diecisiete mil.
 
 63
-00:04:03,767 --> 00:04:07,699
-Pagó ochocientos doce millones de impuesto de sociedades.
+00:02:56,760 --> 00:02:59,713
+El tercero, cincuenta mil, paga dos mil.
 
 64
-00:04:07,699 --> 00:04:10,320
-Es el negocio entero, no solo Navidad.
+00:02:59,740 --> 00:03:04,300
+La retención se aplica a cada décimo por separado, y SELAE la practica en el momento
 
 65
-00:04:10,670 --> 00:04:14,383
-La segunda pregunta: entonces, ¿quién gana siempre?
+00:03:04,300 --> 00:03:05,080
+del cobro.
 
 66
-00:04:14,383 --> 00:04:18,241
-Con los números en la mano: no gana siempre el mismo.
+00:03:05,320 --> 00:03:10,000
+Si un décimo es compartido, los cuarenta mil exentos se reparten entre los dueños.
 
 67
-00:04:18,241 --> 00:04:20,643
-Pero la estructura sí está clara.
+00:03:10,240 --> 00:03:12,440
+Por eso compartir no te hace pagar más.
 
 68
-00:04:20,643 --> 00:04:24,574
-De cada veinte euros, catorce van a premios y seis no.
+00:03:12,780 --> 00:03:14,020
+Quedan dos preguntas.
 
 69
-00:04:24,574 --> 00:04:28,432
-Un décimo, de media, devuelve menos de lo que cuesta.
+00:03:14,460 --> 00:03:15,160
+La primera:
 
 70
-00:04:28,432 --> 00:04:33,600
-Y a quien toca un premio grande, además, Hacienda le retiene una parte.
+00:03:15,420 --> 00:03:18,060
+¿quién se queda el treinta por ciento que no es premio?
 
 71
-00:04:33,950 --> 00:04:38,388
-Eso no significa que jugar sea una mala idea ni una buena.
+00:03:18,380 --> 00:03:19,840
+Aquí tenemos que ser honestos:
 
 72
-00:04:38,388 --> 00:04:43,821
-Significa que es un juego de azar con un precio y un reparto conocidos,
+00:03:19,840 --> 00:03:25,860
+SELAE, la sociedad pública que organiza el sorteo, no desglosa en lo que hemos podido consultar
 
 73
-00:04:43,821 --> 00:04:48,029
-y que el décimo de Navidad se compra, para mucha gente,
+00:03:25,880 --> 00:03:29,080
+cuánto va a la red de ventas y cuánto al Estado en este sorteo,
 
 74
-00:04:48,029 --> 00:04:53,538
-por otra razón: la ilusión, la tradición, compartirlo con quien quieres.
+00:03:29,080 --> 00:03:30,340
+así que no lo decimos.
 
 75
-00:04:53,888 --> 00:04:58,609
-Así que, la próxima vez que mires tu décimo, piensa en su viaje.
+00:03:30,720 --> 00:03:33,760
+Lo que sí es público es lo que gana la empresa en conjunto.
 
 76
-00:04:58,609 --> 00:04:59,568
-Veinte euros.
+00:03:34,020 --> 00:03:39,160
+En dos mil veinticuatro, según sus cuentas, vendió diez mil trescientos noventa y seis millones de
 
 77
-00:04:59,568 --> 00:05:02,371
-Catorce, de media, vuelven en premios.
+00:03:39,160 --> 00:03:43,740
+euros entre todos sus juegos y ganó dos mil cuatrocientos treinta y siete millones.
 
 78
-00:05:02,371 --> 00:05:06,723
-Y si un día te toca algo grande, Hacienda retiene su parte.
+00:03:43,820 --> 00:03:45,265
+Un veintitrés por ciento.
 
 79
-00:05:07,073 --> 00:05:11,299
-Aquí, cada semana, abrimos el ticket de algo que pagas todos los días.
+00:03:45,280 --> 00:03:48,820
+Pagó ochocientos doce millones de impuesto de sociedades.
 
 80
-00:05:11,299 --> 00:05:15,647
-Si quieres saber cuál es el siguiente, ya sabes lo que tienes que hacer.
+00:03:48,820 --> 00:03:51,120
+Es el negocio entero, no solo Navidad.
+
+81
+00:03:51,380 --> 00:03:52,520
+La segunda pregunta:
+
+82
+00:03:52,820 --> 00:03:54,680
+entonces, ¿quién gana siempre?
+
+83
+00:03:55,000 --> 00:03:56,380
+Con los números en la mano:
+
+84
+00:03:56,380 --> 00:03:57,800
+no gana siempre el mismo.
+
+85
+00:03:57,900 --> 00:03:59,800
+Pero la estructura sí está clara.
+
+86
+00:03:59,960 --> 00:04:03,520
+De cada veinte euros, catorce van a premios y seis no.
+
+87
+00:04:03,740 --> 00:04:07,040
+Un décimo, de media, devuelve menos de lo que cuesta.
+
+88
+00:04:07,260 --> 00:04:10,860
+Y a quien toca un premio grande, además, Hacienda le retiene una parte.
+
+89
+00:04:11,160 --> 00:04:14,280
+Eso no significa que jugar sea una mala idea ni una buena.
+
+90
+00:04:14,700 --> 00:04:18,340
+Significa que es un juego de azar con un precio y un reparto conocidos,
+
+91
+00:04:18,400 --> 00:04:21,900
+y que el décimo de Navidad se compra, para mucha gente, por otra razón:
+
+92
+00:04:22,100 --> 00:04:25,380
+la ilusión, la tradición, compartirlo con quien quieres.
+
+93
+00:04:25,860 --> 00:04:29,140
+Así que, la próxima vez que mires tu décimo, piensa en su viaje.
+
+94
+00:04:29,140 --> 00:04:30,320
+Veinte euros.
+
+95
+00:04:30,320 --> 00:04:33,040
+Catorce, de media, vuelven en premios.
+
+96
+00:04:33,060 --> 00:04:36,280
+Y si un día te toca algo grande, Hacienda retiene su parte.
+
+97
+00:04:36,560 --> 00:04:39,800
+Cada semana abrimos el ticket de algo que pagas todos los días.
+
+98
+00:04:39,900 --> 00:04:40,800
+Y el próximo…
+
+99
+00:04:40,860 --> 00:04:42,780
+te va a sorprender todavía más.
+

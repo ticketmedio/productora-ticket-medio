@@ -1,0 +1,799 @@
+[Script Info]
+PlayResX: 1920
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: P,Archivo Black,62,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,5,3,2,60,60,70,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.72,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}VEINTIDÓS{\r} DE DICIEMBRE.
+Dialogue: 0,0:00:00.72,0:00:01.06,P,,0,0,0,,VEINTIDÓS {\c&H00D4FF&\fscx110\fscy110}DE{\r} DICIEMBRE.
+Dialogue: 0,0:00:01.06,0:00:02.20,P,,0,0,0,,VEINTIDÓS DE {\c&H00D4FF&\fscx110\fscy110}DICIEMBRE.{\r}
+Dialogue: 0,0:00:02.20,0:00:02.52,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LOS{\r} NIÑOS DE SAN
+Dialogue: 0,0:00:02.52,0:00:02.84,P,,0,0,0,,LOS {\c&H00D4FF&\fscx110\fscy110}NIÑOS{\r} DE SAN
+Dialogue: 0,0:00:02.84,0:00:03.12,P,,0,0,0,,LOS NIÑOS {\c&H00D4FF&\fscx110\fscy110}DE{\r} SAN
+Dialogue: 0,0:00:03.12,0:00:03.28,P,,0,0,0,,LOS NIÑOS DE {\c&H00D4FF&\fscx110\fscy110}SAN{\r}
+Dialogue: 0,0:00:03.28,0:00:03.98,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ILDEFONSO{\r} EMPIEZAN A CANTAR.
+Dialogue: 0,0:00:03.98,0:00:04.54,P,,0,0,0,,ILDEFONSO {\c&H00D4FF&\fscx110\fscy110}EMPIEZAN{\r} A CANTAR.
+Dialogue: 0,0:00:04.54,0:00:04.68,P,,0,0,0,,ILDEFONSO EMPIEZAN {\c&H00D4FF&\fscx110\fscy110}A{\r} CANTAR.
+Dialogue: 0,0:00:04.68,0:00:05.64,P,,0,0,0,,ILDEFONSO EMPIEZAN A {\c&H00D4FF&\fscx110\fscy110}CANTAR.{\r}
+Dialogue: 0,0:00:05.64,0:00:06.10,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MILLONES{\r} DE ESPAÑOLES CON
+Dialogue: 0,0:00:06.10,0:00:06.40,P,,0,0,0,,MILLONES {\c&H00D4FF&\fscx110\fscy110}DE{\r} ESPAÑOLES CON
+Dialogue: 0,0:00:06.40,0:00:06.94,P,,0,0,0,,MILLONES DE {\c&H00D4FF&\fscx110\fscy110}ESPAÑOLES{\r} CON
+Dialogue: 0,0:00:06.94,0:00:07.22,P,,0,0,0,,MILLONES DE ESPAÑOLES {\c&H00D4FF&\fscx110\fscy110}CON{\r}
+Dialogue: 0,0:00:07.22,0:00:07.34,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EL{\r} DÉCIMO EN LA
+Dialogue: 0,0:00:07.34,0:00:07.72,P,,0,0,0,,EL {\c&H00D4FF&\fscx110\fscy110}DÉCIMO{\r} EN LA
+Dialogue: 0,0:00:07.72,0:00:07.88,P,,0,0,0,,EL DÉCIMO {\c&H00D4FF&\fscx110\fscy110}EN{\r} LA
+Dialogue: 0,0:00:07.88,0:00:07.96,P,,0,0,0,,EL DÉCIMO EN {\c&H00D4FF&\fscx110\fscy110}LA{\r}
+Dialogue: 0,0:00:07.96,0:00:08.64,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MANO,{\r}
+Dialogue: 0,0:00:08.64,0:00:09.32,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CONTENIENDO{\r} LA RESPIRACIÓN.
+Dialogue: 0,0:00:09.32,0:00:09.54,P,,0,0,0,,CONTENIENDO {\c&H00D4FF&\fscx110\fscy110}LA{\r} RESPIRACIÓN.
+Dialogue: 0,0:00:09.54,0:00:10.24,P,,0,0,0,,CONTENIENDO LA {\c&H00D4FF&\fscx110\fscy110}RESPIRACIÓN.{\r}
+Dialogue: 0,0:00:10.24,0:00:11.38,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}VEINTE{\r} EUROS…
+Dialogue: 0,0:00:11.38,0:00:11.82,P,,0,0,0,,VEINTE {\c&H00D4FF&\fscx110\fscy110}EUROS…{\r}
+Dialogue: 0,0:00:11.82,0:00:12.50,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} UN SUEÑO.
+Dialogue: 0,0:00:12.50,0:00:12.68,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}UN{\r} SUEÑO.
+Dialogue: 0,0:00:12.68,0:00:13.80,P,,0,0,0,,Y UN {\c&H00D4FF&\fscx110\fscy110}SUEÑO.{\r}
+Dialogue: 0,0:00:13.80,0:00:14.08,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}PERO{\r} HAY UNA PREGUNTA
+Dialogue: 0,0:00:14.08,0:00:14.22,P,,0,0,0,,PERO {\c&H00D4FF&\fscx110\fscy110}HAY{\r} UNA PREGUNTA
+Dialogue: 0,0:00:14.22,0:00:14.36,P,,0,0,0,,PERO HAY {\c&H00D4FF&\fscx110\fscy110}UNA{\r} PREGUNTA
+Dialogue: 0,0:00:14.36,0:00:14.74,P,,0,0,0,,PERO HAY UNA {\c&H00D4FF&\fscx110\fscy110}PREGUNTA{\r}
+Dialogue: 0,0:00:14.74,0:00:15.00,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}QUE{\r} CASI NADIE SE
+Dialogue: 0,0:00:15.00,0:00:15.24,P,,0,0,0,,QUE {\c&H00D4FF&\fscx110\fscy110}CASI{\r} NADIE SE
+Dialogue: 0,0:00:15.24,0:00:15.50,P,,0,0,0,,QUE CASI {\c&H00D4FF&\fscx110\fscy110}NADIE{\r} SE
+Dialogue: 0,0:00:15.50,0:00:15.76,P,,0,0,0,,QUE CASI NADIE {\c&H00D4FF&\fscx110\fscy110}SE{\r}
+Dialogue: 0,0:00:15.76,0:00:16.88,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}HACE:{\r}
+Dialogue: 0,0:00:16.88,0:00:17.16,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}¿QUIÉN{\r} GANA SIEMPRE?
+Dialogue: 0,0:00:17.16,0:00:17.46,P,,0,0,0,,¿QUIÉN {\c&H00D4FF&\fscx110\fscy110}GANA{\r} SIEMPRE?
+Dialogue: 0,0:00:17.46,0:00:18.98,P,,0,0,0,,¿QUIÉN GANA {\c&H00D4FF&\fscx110\fscy110}SIEMPRE?{\r}
+Dialogue: 0,0:00:18.98,0:00:19.20,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}HOY{\r} ABRIMOS EL TICKET
+Dialogue: 0,0:00:19.20,0:00:19.68,P,,0,0,0,,HOY {\c&H00D4FF&\fscx110\fscy110}ABRIMOS{\r} EL TICKET
+Dialogue: 0,0:00:19.68,0:00:19.84,P,,0,0,0,,HOY ABRIMOS {\c&H00D4FF&\fscx110\fscy110}EL{\r} TICKET
+Dialogue: 0,0:00:19.84,0:00:20.12,P,,0,0,0,,HOY ABRIMOS EL {\c&H00D4FF&\fscx110\fscy110}TICKET{\r}
+Dialogue: 0,0:00:20.12,0:00:20.34,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DE{\r} UN DÉCIMO DE
+Dialogue: 0,0:00:20.34,0:00:20.48,P,,0,0,0,,DE {\c&H00D4FF&\fscx110\fscy110}UN{\r} DÉCIMO DE
+Dialogue: 0,0:00:20.48,0:00:20.86,P,,0,0,0,,DE UN {\c&H00D4FF&\fscx110\fscy110}DÉCIMO{\r} DE
+Dialogue: 0,0:00:20.86,0:00:21.02,P,,0,0,0,,DE UN DÉCIMO {\c&H00D4FF&\fscx110\fscy110}DE{\r}
+Dialogue: 0,0:00:21.02,0:00:21.12,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LA{\r} LOTERÍA DE NAVIDAD.
+Dialogue: 0,0:00:21.12,0:00:21.54,P,,0,0,0,,LA {\c&H00D4FF&\fscx110\fscy110}LOTERÍA{\r} DE NAVIDAD.
+Dialogue: 0,0:00:21.54,0:00:21.68,P,,0,0,0,,LA LOTERÍA {\c&H00D4FF&\fscx110\fscy110}DE{\r} NAVIDAD.
+Dialogue: 0,0:00:21.68,0:00:22.52,P,,0,0,0,,LA LOTERÍA DE {\c&H00D4FF&\fscx110\fscy110}NAVIDAD.{\r}
+Dialogue: 0,0:00:22.52,0:00:23.02,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SIN{\r} ACONSEJAR JUGAR NI
+Dialogue: 0,0:00:23.02,0:00:23.58,P,,0,0,0,,SIN {\c&H00D4FF&\fscx110\fscy110}ACONSEJAR{\r} JUGAR NI
+Dialogue: 0,0:00:23.58,0:00:23.96,P,,0,0,0,,SIN ACONSEJAR {\c&H00D4FF&\fscx110\fscy110}JUGAR{\r} NI
+Dialogue: 0,0:00:23.96,0:00:24.34,P,,0,0,0,,SIN ACONSEJAR JUGAR {\c&H00D4FF&\fscx110\fscy110}NI{\r}
+Dialogue: 0,0:00:24.34,0:00:24.68,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DEJAR{\r} DE JUGAR.
+Dialogue: 0,0:00:24.68,0:00:24.82,P,,0,0,0,,DEJAR {\c&H00D4FF&\fscx110\fscy110}DE{\r} JUGAR.
+Dialogue: 0,0:00:24.82,0:00:25.64,P,,0,0,0,,DEJAR DE {\c&H00D4FF&\fscx110\fscy110}JUGAR.{\r}
+Dialogue: 0,0:00:25.64,0:00:25.94,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SOLO{\r} CON LOS NÚMEROS
+Dialogue: 0,0:00:25.94,0:00:26.18,P,,0,0,0,,SOLO {\c&H00D4FF&\fscx110\fscy110}CON{\r} LOS NÚMEROS
+Dialogue: 0,0:00:26.18,0:00:26.34,P,,0,0,0,,SOLO CON {\c&H00D4FF&\fscx110\fscy110}LOS{\r} NÚMEROS
+Dialogue: 0,0:00:26.34,0:00:26.66,P,,0,0,0,,SOLO CON LOS {\c&H00D4FF&\fscx110\fscy110}NÚMEROS{\r}
+Dialogue: 0,0:00:26.66,0:00:26.90,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}QUE{\r} SE PUEDEN COMPROBAR.
+Dialogue: 0,0:00:26.90,0:00:27.02,P,,0,0,0,,QUE {\c&H00D4FF&\fscx110\fscy110}SE{\r} PUEDEN COMPROBAR.
+Dialogue: 0,0:00:27.02,0:00:27.28,P,,0,0,0,,QUE SE {\c&H00D4FF&\fscx110\fscy110}PUEDEN{\r} COMPROBAR.
+Dialogue: 0,0:00:27.28,0:00:28.42,P,,0,0,0,,QUE SE PUEDEN {\c&H00D4FF&\fscx110\fscy110}COMPROBAR.{\r}
+Dialogue: 0,0:00:28.42,0:00:28.68,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} TE ADELANTO ALGO:
+Dialogue: 0,0:00:28.68,0:00:28.78,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}TE{\r} ADELANTO ALGO:
+Dialogue: 0,0:00:28.78,0:00:29.18,P,,0,0,0,,Y TE {\c&H00D4FF&\fscx110\fscy110}ADELANTO{\r} ALGO:
+Dialogue: 0,0:00:29.18,0:00:30.02,P,,0,0,0,,Y TE ADELANTO {\c&H00D4FF&\fscx110\fscy110}ALGO:{\r}
+Dialogue: 0,0:00:30.02,0:00:30.20,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EL{\r} QUE MÁS GANA…
+Dialogue: 0,0:00:30.20,0:00:30.36,P,,0,0,0,,EL {\c&H00D4FF&\fscx110\fscy110}QUE{\r} MÁS GANA…
+Dialogue: 0,0:00:30.36,0:00:30.58,P,,0,0,0,,EL QUE {\c&H00D4FF&\fscx110\fscy110}MÁS{\r} GANA…
+Dialogue: 0,0:00:30.58,0:00:31.30,P,,0,0,0,,EL QUE MÁS {\c&H00D4FF&\fscx110\fscy110}GANA…{\r}
+Dialogue: 0,0:00:31.30,0:00:31.60,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}NO{\r} ERES TÚ.
+Dialogue: 0,0:00:31.60,0:00:31.86,P,,0,0,0,,NO {\c&H00D4FF&\fscx110\fscy110}ERES{\r} TÚ.
+Dialogue: 0,0:00:31.86,0:00:33.02,P,,0,0,0,,NO ERES {\c&H00D4FF&\fscx110\fscy110}TÚ.{\r}
+Dialogue: 0,0:00:33.02,0:00:33.98,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}PRIMERO,{\r}
+Dialogue: 0,0:00:33.98,0:00:34.04,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EL{\r} TAMAÑO DEL SORTEO.
+Dialogue: 0,0:00:34.04,0:00:34.46,P,,0,0,0,,EL {\c&H00D4FF&\fscx110\fscy110}TAMAÑO{\r} DEL SORTEO.
+Dialogue: 0,0:00:34.46,0:00:34.62,P,,0,0,0,,EL TAMAÑO {\c&H00D4FF&\fscx110\fscy110}DEL{\r} SORTEO.
+Dialogue: 0,0:00:34.62,0:00:35.90,P,,0,0,0,,EL TAMAÑO DEL {\c&H00D4FF&\fscx110\fscy110}SORTEO.{\r}
+Dialogue: 0,0:00:35.90,0:00:36.12,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EN{\r} DOS MIL VEINTICINCO
+Dialogue: 0,0:00:36.12,0:00:36.27,P,,0,0,0,,EN {\c&H00D4FF&\fscx110\fscy110}DOS{\r} MIL VEINTICINCO
+Dialogue: 0,0:00:36.27,0:00:36.43,P,,0,0,0,,EN DOS {\c&H00D4FF&\fscx110\fscy110}MIL{\r} VEINTICINCO
+Dialogue: 0,0:00:36.43,0:00:36.74,P,,0,0,0,,EN DOS MIL {\c&H00D4FF&\fscx110\fscy110}VEINTICINCO{\r}
+Dialogue: 0,0:00:36.74,0:00:37.40,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SE{\r} EMITIERON CIENTO NOVENTA
+Dialogue: 0,0:00:37.40,0:00:37.86,P,,0,0,0,,SE {\c&H00D4FF&\fscx110\fscy110}EMITIERON{\r} CIENTO NOVENTA
+Dialogue: 0,0:00:37.86,0:00:38.02,P,,0,0,0,,SE EMITIERON {\c&H00D4FF&\fscx110\fscy110}CIENTO{\r} NOVENTA
+Dialogue: 0,0:00:38.02,0:00:38.18,P,,0,0,0,,SE EMITIERON CIENTO {\c&H00D4FF&\fscx110\fscy110}NOVENTA{\r}
+Dialogue: 0,0:00:38.18,0:00:38.34,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} OCHO SERIES DE
+Dialogue: 0,0:00:38.34,0:00:38.66,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}OCHO{\r} SERIES DE
+Dialogue: 0,0:00:38.66,0:00:39.44,P,,0,0,0,,Y OCHO {\c&H00D4FF&\fscx110\fscy110}SERIES{\r} DE
+Dialogue: 0,0:00:39.44,0:00:39.62,P,,0,0,0,,Y OCHO SERIES {\c&H00D4FF&\fscx110\fscy110}DE{\r}
+Dialogue: 0,0:00:39.62,0:00:39.77,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CIEN{\r} MIL NÚMEROS.
+Dialogue: 0,0:00:39.77,0:00:40.08,P,,0,0,0,,CIEN {\c&H00D4FF&\fscx110\fscy110}MIL{\r} NÚMEROS.
+Dialogue: 0,0:00:40.08,0:00:41.12,P,,0,0,0,,CIEN MIL {\c&H00D4FF&\fscx110\fscy110}NÚMEROS.{\r}
+Dialogue: 0,0:00:41.12,0:00:41.42,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CADA{\r} DÉCIMO CUESTA VEINTE
+Dialogue: 0,0:00:41.42,0:00:41.82,P,,0,0,0,,CADA {\c&H00D4FF&\fscx110\fscy110}DÉCIMO{\r} CUESTA VEINTE
+Dialogue: 0,0:00:41.82,0:00:42.28,P,,0,0,0,,CADA DÉCIMO {\c&H00D4FF&\fscx110\fscy110}CUESTA{\r} VEINTE
+Dialogue: 0,0:00:42.28,0:00:42.60,P,,0,0,0,,CADA DÉCIMO CUESTA {\c&H00D4FF&\fscx110\fscy110}VEINTE{\r}
+Dialogue: 0,0:00:42.60,0:00:43.74,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EUROS.{\r}
+Dialogue: 0,0:00:43.74,0:00:43.88,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EN{\r} TOTAL,
+Dialogue: 0,0:00:43.88,0:00:44.14,P,,0,0,0,,EN {\c&H00D4FF&\fscx110\fscy110}TOTAL,{\r}
+Dialogue: 0,0:00:44.14,0:00:44.52,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}TRES{\r} MIL NOVECIENTOS SESENTA
+Dialogue: 0,0:00:44.52,0:00:44.91,P,,0,0,0,,TRES {\c&H00D4FF&\fscx110\fscy110}MIL{\r} NOVECIENTOS SESENTA
+Dialogue: 0,0:00:44.91,0:00:45.29,P,,0,0,0,,TRES MIL {\c&H00D4FF&\fscx110\fscy110}NOVECIENTOS{\r} SESENTA
+Dialogue: 0,0:00:45.29,0:00:46.06,P,,0,0,0,,TRES MIL NOVECIENTOS {\c&H00D4FF&\fscx110\fscy110}SESENTA{\r}
+Dialogue: 0,0:00:46.06,0:00:46.58,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MILLONES{\r} DE EUROS.
+Dialogue: 0,0:00:46.58,0:00:46.80,P,,0,0,0,,MILLONES {\c&H00D4FF&\fscx110\fscy110}DE{\r} EUROS.
+Dialogue: 0,0:00:46.80,0:00:47.90,P,,0,0,0,,MILLONES DE {\c&H00D4FF&\fscx110\fscy110}EUROS.{\r}
+Dialogue: 0,0:00:47.90,0:00:48.36,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SEGÚN{\r} LOS DATOS PUBLICADOS
+Dialogue: 0,0:00:48.36,0:00:48.52,P,,0,0,0,,SEGÚN {\c&H00D4FF&\fscx110\fscy110}LOS{\r} DATOS PUBLICADOS
+Dialogue: 0,0:00:48.52,0:00:48.76,P,,0,0,0,,SEGÚN LOS {\c&H00D4FF&\fscx110\fscy110}DATOS{\r} PUBLICADOS
+Dialogue: 0,0:00:48.76,0:00:49.36,P,,0,0,0,,SEGÚN LOS DATOS {\c&H00D4FF&\fscx110\fscy110}PUBLICADOS{\r}
+Dialogue: 0,0:00:49.36,0:00:49.58,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DEL{\r} SORTEO,
+Dialogue: 0,0:00:49.58,0:00:50.46,P,,0,0,0,,DEL {\c&H00D4FF&\fscx110\fscy110}SORTEO,{\r}
+Dialogue: 0,0:00:50.46,0:00:50.54,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EL{\r} SETENTA POR CIENTO
+Dialogue: 0,0:00:50.54,0:00:50.72,P,,0,0,0,,EL {\c&H00D4FF&\fscx110\fscy110}SETENTA{\r} POR CIENTO
+Dialogue: 0,0:00:50.72,0:00:50.90,P,,0,0,0,,EL SETENTA {\c&H00D4FF&\fscx110\fscy110}POR{\r} CIENTO
+Dialogue: 0,0:00:50.90,0:00:51.26,P,,0,0,0,,EL SETENTA POR {\c&H00D4FF&\fscx110\fscy110}CIENTO{\r}
+Dialogue: 0,0:00:51.26,0:00:51.64,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SE{\r} DESTINA A PREMIOS.
+Dialogue: 0,0:00:51.64,0:00:52.00,P,,0,0,0,,SE {\c&H00D4FF&\fscx110\fscy110}DESTINA{\r} A PREMIOS.
+Dialogue: 0,0:00:52.00,0:00:52.12,P,,0,0,0,,SE DESTINA {\c&H00D4FF&\fscx110\fscy110}A{\r} PREMIOS.
+Dialogue: 0,0:00:52.12,0:00:53.02,P,,0,0,0,,SE DESTINA A {\c&H00D4FF&\fscx110\fscy110}PREMIOS.{\r}
+Dialogue: 0,0:00:53.02,0:00:53.36,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SON{\r} DOS MIL SETECIENTOS
+Dialogue: 0,0:00:53.36,0:00:53.61,P,,0,0,0,,SON {\c&H00D4FF&\fscx110\fscy110}DOS{\r} MIL SETECIENTOS
+Dialogue: 0,0:00:53.61,0:00:53.86,P,,0,0,0,,SON DOS {\c&H00D4FF&\fscx110\fscy110}MIL{\r} SETECIENTOS
+Dialogue: 0,0:00:53.86,0:00:54.11,P,,0,0,0,,SON DOS MIL {\c&H00D4FF&\fscx110\fscy110}SETECIENTOS{\r}
+Dialogue: 0,0:00:54.11,0:00:54.37,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SETENTA{\r} Y DOS MILLONES
+Dialogue: 0,0:00:54.37,0:00:54.62,P,,0,0,0,,SETENTA {\c&H00D4FF&\fscx110\fscy110}Y{\r} DOS MILLONES
+Dialogue: 0,0:00:54.62,0:00:55.12,P,,0,0,0,,SETENTA Y {\c&H00D4FF&\fscx110\fscy110}DOS{\r} MILLONES
+Dialogue: 0,0:00:55.12,0:00:55.56,P,,0,0,0,,SETENTA Y DOS {\c&H00D4FF&\fscx110\fscy110}MILLONES{\r}
+Dialogue: 0,0:00:55.56,0:00:55.80,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DE{\r} EUROS.
+Dialogue: 0,0:00:55.80,0:00:56.62,P,,0,0,0,,DE {\c&H00D4FF&\fscx110\fscy110}EUROS.{\r}
+Dialogue: 0,0:00:56.62,0:00:56.96,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} EL SORTEO VENDIÓ,
+Dialogue: 0,0:00:56.96,0:00:57.10,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}EL{\r} SORTEO VENDIÓ,
+Dialogue: 0,0:00:57.10,0:00:57.54,P,,0,0,0,,Y EL {\c&H00D4FF&\fscx110\fscy110}SORTEO{\r} VENDIÓ,
+Dialogue: 0,0:00:57.54,0:00:58.22,P,,0,0,0,,Y EL SORTEO {\c&H00D4FF&\fscx110\fscy110}VENDIÓ,{\r}
+Dialogue: 0,0:00:58.22,0:00:58.42,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SEGÚN{\r} LOS DATOS PUBLICADOS
+Dialogue: 0,0:00:58.42,0:00:58.64,P,,0,0,0,,SEGÚN {\c&H00D4FF&\fscx110\fscy110}LOS{\r} DATOS PUBLICADOS
+Dialogue: 0,0:00:58.64,0:00:58.88,P,,0,0,0,,SEGÚN LOS {\c&H00D4FF&\fscx110\fscy110}DATOS{\r} PUBLICADOS
+Dialogue: 0,0:00:58.88,0:00:59.50,P,,0,0,0,,SEGÚN LOS DATOS {\c&H00D4FF&\fscx110\fscy110}PUBLICADOS{\r}
+Dialogue: 0,0:00:59.50,0:00:59.72,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EL{\r} DÍA DEL SORTEO,
+Dialogue: 0,0:00:59.72,0:00:59.92,P,,0,0,0,,EL {\c&H00D4FF&\fscx110\fscy110}DÍA{\r} DEL SORTEO,
+Dialogue: 0,0:00:59.92,0:01:00.08,P,,0,0,0,,EL DÍA {\c&H00D4FF&\fscx110\fscy110}DEL{\r} SORTEO,
+Dialogue: 0,0:01:00.08,0:01:00.56,P,,0,0,0,,EL DÍA DEL {\c&H00D4FF&\fscx110\fscy110}SORTEO,{\r}
+Dialogue: 0,0:01:00.56,0:01:00.87,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}TRES{\r} MIL QUINIENTOS CINCUENTA
+Dialogue: 0,0:01:00.87,0:01:01.17,P,,0,0,0,,TRES {\c&H00D4FF&\fscx110\fscy110}MIL{\r} QUINIENTOS CINCUENTA
+Dialogue: 0,0:01:01.17,0:01:01.48,P,,0,0,0,,TRES MIL {\c&H00D4FF&\fscx110\fscy110}QUINIENTOS{\r} CINCUENTA
+Dialogue: 0,0:01:01.48,0:01:01.78,P,,0,0,0,,TRES MIL QUINIENTOS {\c&H00D4FF&\fscx110\fscy110}CINCUENTA{\r}
+Dialogue: 0,0:01:01.78,0:01:02.09,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} CUATRO MILLONES,
+Dialogue: 0,0:01:02.09,0:01:02.70,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}CUATRO{\r} MILLONES,
+Dialogue: 0,0:01:02.70,0:01:03.60,P,,0,0,0,,Y CUATRO {\c&H00D4FF&\fscx110\fscy110}MILLONES,{\r}
+Dialogue: 0,0:01:03.60,0:01:03.88,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}UN{\r} UNO COMA CUATRO
+Dialogue: 0,0:01:03.88,0:01:04.07,P,,0,0,0,,UN {\c&H00D4FF&\fscx110\fscy110}UNO{\r} COMA CUATRO
+Dialogue: 0,0:01:04.07,0:01:04.27,P,,0,0,0,,UN UNO {\c&H00D4FF&\fscx110\fscy110}COMA{\r} CUATRO
+Dialogue: 0,0:01:04.27,0:01:04.46,P,,0,0,0,,UN UNO COMA {\c&H00D4FF&\fscx110\fscy110}CUATRO{\r}
+Dialogue: 0,0:01:04.46,0:01:04.65,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}POR{\r} CIENTO MÁS QUE
+Dialogue: 0,0:01:04.65,0:01:05.04,P,,0,0,0,,POR {\c&H00D4FF&\fscx110\fscy110}CIENTO{\r} MÁS QUE
+Dialogue: 0,0:01:05.04,0:01:05.38,P,,0,0,0,,POR CIENTO {\c&H00D4FF&\fscx110\fscy110}MÁS{\r} QUE
+Dialogue: 0,0:01:05.38,0:01:05.58,P,,0,0,0,,POR CIENTO MÁS {\c&H00D4FF&\fscx110\fscy110}QUE{\r}
+Dialogue: 0,0:01:05.58,0:01:05.68,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EL{\r} AÑO ANTERIOR.
+Dialogue: 0,0:01:05.68,0:01:05.82,P,,0,0,0,,EL {\c&H00D4FF&\fscx110\fscy110}AÑO{\r} ANTERIOR.
+Dialogue: 0,0:01:05.82,0:01:07.06,P,,0,0,0,,EL AÑO {\c&H00D4FF&\fscx110\fscy110}ANTERIOR.{\r}
+Dialogue: 0,0:01:07.06,0:01:07.90,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}AHORA,{\r}
+Dialogue: 0,0:01:07.90,0:01:08.06,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}UNA{\r} CUENTA PROPIA.
+Dialogue: 0,0:01:08.06,0:01:08.40,P,,0,0,0,,UNA {\c&H00D4FF&\fscx110\fscy110}CUENTA{\r} PROPIA.
+Dialogue: 0,0:01:08.40,0:01:09.50,P,,0,0,0,,UNA CUENTA {\c&H00D4FF&\fscx110\fscy110}PROPIA.{\r}
+Dialogue: 0,0:01:09.50,0:01:09.74,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SI{\r} DE CADA VEINTE
+Dialogue: 0,0:01:09.74,0:01:09.86,P,,0,0,0,,SI {\c&H00D4FF&\fscx110\fscy110}DE{\r} CADA VEINTE
+Dialogue: 0,0:01:09.86,0:01:10.04,P,,0,0,0,,SI DE {\c&H00D4FF&\fscx110\fscy110}CADA{\r} VEINTE
+Dialogue: 0,0:01:10.04,0:01:10.44,P,,0,0,0,,SI DE CADA {\c&H00D4FF&\fscx110\fscy110}VEINTE{\r}
+Dialogue: 0,0:01:10.44,0:01:10.76,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EUROS{\r} QUE VALEN LOS
+Dialogue: 0,0:01:10.76,0:01:10.98,P,,0,0,0,,EUROS {\c&H00D4FF&\fscx110\fscy110}QUE{\r} VALEN LOS
+Dialogue: 0,0:01:10.98,0:01:11.22,P,,0,0,0,,EUROS QUE {\c&H00D4FF&\fscx110\fscy110}VALEN{\r} LOS
+Dialogue: 0,0:01:11.22,0:01:11.38,P,,0,0,0,,EUROS QUE VALEN {\c&H00D4FF&\fscx110\fscy110}LOS{\r}
+Dialogue: 0,0:01:11.38,0:01:11.76,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DÉCIMOS{\r} EMITIDOS,
+Dialogue: 0,0:01:11.76,0:01:12.74,P,,0,0,0,,DÉCIMOS {\c&H00D4FF&\fscx110\fscy110}EMITIDOS,{\r}
+Dialogue: 0,0:01:12.74,0:01:12.86,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EL{\r} SETENTA POR CIENTO
+Dialogue: 0,0:01:12.86,0:01:13.05,P,,0,0,0,,EL {\c&H00D4FF&\fscx110\fscy110}SETENTA{\r} POR CIENTO
+Dialogue: 0,0:01:13.05,0:01:13.24,P,,0,0,0,,EL SETENTA {\c&H00D4FF&\fscx110\fscy110}POR{\r} CIENTO
+Dialogue: 0,0:01:13.24,0:01:13.62,P,,0,0,0,,EL SETENTA POR {\c&H00D4FF&\fscx110\fscy110}CIENTO{\r}
+Dialogue: 0,0:01:13.62,0:01:14.04,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SON{\r} PREMIOS,
+Dialogue: 0,0:01:14.04,0:01:14.86,P,,0,0,0,,SON {\c&H00D4FF&\fscx110\fscy110}PREMIOS,{\r}
+Dialogue: 0,0:01:14.86,0:01:15.02,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DE{\r} MEDIA VUELVEN CATORCE
+Dialogue: 0,0:01:15.02,0:01:15.24,P,,0,0,0,,DE {\c&H00D4FF&\fscx110\fscy110}MEDIA{\r} VUELVEN CATORCE
+Dialogue: 0,0:01:15.24,0:01:15.66,P,,0,0,0,,DE MEDIA {\c&H00D4FF&\fscx110\fscy110}VUELVEN{\r} CATORCE
+Dialogue: 0,0:01:15.66,0:01:16.04,P,,0,0,0,,DE MEDIA VUELVEN {\c&H00D4FF&\fscx110\fscy110}CATORCE{\r}
+Dialogue: 0,0:01:16.04,0:01:16.48,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EUROS{\r} POR DÉCIMO.
+Dialogue: 0,0:01:16.48,0:01:16.76,P,,0,0,0,,EUROS {\c&H00D4FF&\fscx110\fscy110}POR{\r} DÉCIMO.
+Dialogue: 0,0:01:16.76,0:01:17.12,P,,0,0,0,,EUROS POR {\c&H00D4FF&\fscx110\fscy110}DÉCIMO.{\r}
+Dialogue: 0,0:01:17.12,0:01:18.18,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CATORCE{\r} DE VEINTE.
+Dialogue: 0,0:01:18.18,0:01:18.40,P,,0,0,0,,CATORCE {\c&H00D4FF&\fscx110\fscy110}DE{\r} VEINTE.
+Dialogue: 0,0:01:18.40,0:01:19.34,P,,0,0,0,,CATORCE DE {\c&H00D4FF&\fscx110\fscy110}VEINTE.{\r}
+Dialogue: 0,0:01:19.34,0:01:20.18,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}OJO:{\r}
+Dialogue: 0,0:01:20.18,0:01:20.34,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ES{\r} LA MEDIA DE
+Dialogue: 0,0:01:20.34,0:01:20.50,P,,0,0,0,,ES {\c&H00D4FF&\fscx110\fscy110}LA{\r} MEDIA DE
+Dialogue: 0,0:01:20.50,0:01:20.70,P,,0,0,0,,ES LA {\c&H00D4FF&\fscx110\fscy110}MEDIA{\r} DE
+Dialogue: 0,0:01:20.70,0:01:20.92,P,,0,0,0,,ES LA MEDIA {\c&H00D4FF&\fscx110\fscy110}DE{\r}
+Dialogue: 0,0:01:20.92,0:01:21.12,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}TODOS,{\r}
+Dialogue: 0,0:01:21.12,0:01:21.78,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ANTES{\r} DE IMPUESTOS.
+Dialogue: 0,0:01:21.78,0:01:21.96,P,,0,0,0,,ANTES {\c&H00D4FF&\fscx110\fscy110}DE{\r} IMPUESTOS.
+Dialogue: 0,0:01:21.96,0:01:23.14,P,,0,0,0,,ANTES DE {\c&H00D4FF&\fscx110\fscy110}IMPUESTOS.{\r}
+Dialogue: 0,0:01:23.14,0:01:23.52,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CASI{\r} NADIE RECIBE CATORCE:
+Dialogue: 0,0:01:23.52,0:01:23.76,P,,0,0,0,,CASI {\c&H00D4FF&\fscx110\fscy110}NADIE{\r} RECIBE CATORCE:
+Dialogue: 0,0:01:23.76,0:01:24.24,P,,0,0,0,,CASI NADIE {\c&H00D4FF&\fscx110\fscy110}RECIBE{\r} CATORCE:
+Dialogue: 0,0:01:24.24,0:01:24.62,P,,0,0,0,,CASI NADIE RECIBE {\c&H00D4FF&\fscx110\fscy110}CATORCE:{\r}
+Dialogue: 0,0:01:24.62,0:01:25.18,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ES{\r} UN PROMEDIO ENTRE
+Dialogue: 0,0:01:25.18,0:01:25.32,P,,0,0,0,,ES {\c&H00D4FF&\fscx110\fscy110}UN{\r} PROMEDIO ENTRE
+Dialogue: 0,0:01:25.32,0:01:25.74,P,,0,0,0,,ES UN {\c&H00D4FF&\fscx110\fscy110}PROMEDIO{\r} ENTRE
+Dialogue: 0,0:01:25.74,0:01:25.94,P,,0,0,0,,ES UN PROMEDIO {\c&H00D4FF&\fscx110\fscy110}ENTRE{\r}
+Dialogue: 0,0:01:25.94,0:01:26.34,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}POCOS{\r} PREMIOS ENORMES Y
+Dialogue: 0,0:01:26.34,0:01:26.72,P,,0,0,0,,POCOS {\c&H00D4FF&\fscx110\fscy110}PREMIOS{\r} ENORMES Y
+Dialogue: 0,0:01:26.72,0:01:27.20,P,,0,0,0,,POCOS PREMIOS {\c&H00D4FF&\fscx110\fscy110}ENORMES{\r} Y
+Dialogue: 0,0:01:27.20,0:01:27.50,P,,0,0,0,,POCOS PREMIOS ENORMES {\c&H00D4FF&\fscx110\fscy110}Y{\r}
+Dialogue: 0,0:01:27.50,0:01:27.78,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MUCHOS{\r} PEQUEÑOS.
+Dialogue: 0,0:01:27.78,0:01:28.96,P,,0,0,0,,MUCHOS {\c&H00D4FF&\fscx110\fscy110}PEQUEÑOS.{\r}
+Dialogue: 0,0:01:28.96,0:01:29.26,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}¿POR{\r} QUÉ?
+Dialogue: 0,0:01:29.26,0:01:30.02,P,,0,0,0,,¿POR {\c&H00D4FF&\fscx110\fscy110}QUÉ?{\r}
+Dialogue: 0,0:01:30.02,0:01:30.40,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MIRA{\r} CÓMO SE REPARTE.
+Dialogue: 0,0:01:30.40,0:01:30.66,P,,0,0,0,,MIRA {\c&H00D4FF&\fscx110\fscy110}CÓMO{\r} SE REPARTE.
+Dialogue: 0,0:01:30.66,0:01:30.84,P,,0,0,0,,MIRA CÓMO {\c&H00D4FF&\fscx110\fscy110}SE{\r} REPARTE.
+Dialogue: 0,0:01:30.84,0:01:31.98,P,,0,0,0,,MIRA CÓMO SE {\c&H00D4FF&\fscx110\fscy110}REPARTE.{\r}
+Dialogue: 0,0:01:31.98,0:01:32.18,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EL{\r} GORDO DA CUATRO
+Dialogue: 0,0:01:32.18,0:01:32.40,P,,0,0,0,,EL {\c&H00D4FF&\fscx110\fscy110}GORDO{\r} DA CUATRO
+Dialogue: 0,0:01:32.40,0:01:32.66,P,,0,0,0,,EL GORDO {\c&H00D4FF&\fscx110\fscy110}DA{\r} CUATRO
+Dialogue: 0,0:01:32.66,0:01:32.98,P,,0,0,0,,EL GORDO DA {\c&H00D4FF&\fscx110\fscy110}CUATRO{\r}
+Dialogue: 0,0:01:32.98,0:01:33.26,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MILLONES{\r} DE EUROS POR
+Dialogue: 0,0:01:33.26,0:01:33.60,P,,0,0,0,,MILLONES {\c&H00D4FF&\fscx110\fscy110}DE{\r} EUROS POR
+Dialogue: 0,0:01:33.60,0:01:33.78,P,,0,0,0,,MILLONES DE {\c&H00D4FF&\fscx110\fscy110}EUROS{\r} POR
+Dialogue: 0,0:01:33.78,0:01:34.08,P,,0,0,0,,MILLONES DE EUROS {\c&H00D4FF&\fscx110\fscy110}POR{\r}
+Dialogue: 0,0:01:34.08,0:01:34.30,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SERIE:{\r}
+Dialogue: 0,0:01:34.30,0:01:34.71,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CUATROCIENTOS{\r} MIL EUROS POR
+Dialogue: 0,0:01:34.71,0:01:35.54,P,,0,0,0,,CUATROCIENTOS {\c&H00D4FF&\fscx110\fscy110}MIL{\r} EUROS POR
+Dialogue: 0,0:01:35.54,0:01:35.78,P,,0,0,0,,CUATROCIENTOS MIL {\c&H00D4FF&\fscx110\fscy110}EUROS{\r} POR
+Dialogue: 0,0:01:35.78,0:01:36.04,P,,0,0,0,,CUATROCIENTOS MIL EUROS {\c&H00D4FF&\fscx110\fscy110}POR{\r}
+Dialogue: 0,0:01:36.04,0:01:37.06,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DÉCIMO.{\r}
+Dialogue: 0,0:01:37.06,0:01:37.30,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LA{\r} PROBABILIDAD DE QUE
+Dialogue: 0,0:01:37.30,0:01:37.90,P,,0,0,0,,LA {\c&H00D4FF&\fscx110\fscy110}PROBABILIDAD{\r} DE QUE
+Dialogue: 0,0:01:37.90,0:01:38.08,P,,0,0,0,,LA PROBABILIDAD {\c&H00D4FF&\fscx110\fscy110}DE{\r} QUE
+Dialogue: 0,0:01:38.08,0:01:38.16,P,,0,0,0,,LA PROBABILIDAD DE {\c&H00D4FF&\fscx110\fscy110}QUE{\r}
+Dialogue: 0,0:01:38.16,0:01:38.30,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}TU{\r} NÚMERO SEA EL
+Dialogue: 0,0:01:38.30,0:01:38.54,P,,0,0,0,,TU {\c&H00D4FF&\fscx110\fscy110}NÚMERO{\r} SEA EL
+Dialogue: 0,0:01:38.54,0:01:38.84,P,,0,0,0,,TU NÚMERO {\c&H00D4FF&\fscx110\fscy110}SEA{\r} EL
+Dialogue: 0,0:01:38.84,0:01:38.98,P,,0,0,0,,TU NÚMERO SEA {\c&H00D4FF&\fscx110\fscy110}EL{\r}
+Dialogue: 0,0:01:38.98,0:01:39.24,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}GORDO{\r} ES UNA ENTRE
+Dialogue: 0,0:01:39.24,0:01:39.76,P,,0,0,0,,GORDO {\c&H00D4FF&\fscx110\fscy110}ES{\r} UNA ENTRE
+Dialogue: 0,0:01:39.76,0:01:39.98,P,,0,0,0,,GORDO ES {\c&H00D4FF&\fscx110\fscy110}UNA{\r} ENTRE
+Dialogue: 0,0:01:39.98,0:01:40.18,P,,0,0,0,,GORDO ES UNA {\c&H00D4FF&\fscx110\fscy110}ENTRE{\r}
+Dialogue: 0,0:01:40.18,0:01:40.54,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CIEN{\r} MIL.
+Dialogue: 0,0:01:40.54,0:01:41.26,P,,0,0,0,,CIEN {\c&H00D4FF&\fscx110\fscy110}MIL.{\r}
+Dialogue: 0,0:01:41.26,0:01:41.54,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SI{\r} MULTIPLICAS,
+Dialogue: 0,0:01:41.54,0:01:42.48,P,,0,0,0,,SI {\c&H00D4FF&\fscx110\fscy110}MULTIPLICAS,{\r}
+Dialogue: 0,0:01:42.48,0:01:42.54,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EL{\r} GORDO APORTA CUATRO
+Dialogue: 0,0:01:42.54,0:01:42.80,P,,0,0,0,,EL {\c&H00D4FF&\fscx110\fscy110}GORDO{\r} APORTA CUATRO
+Dialogue: 0,0:01:42.80,0:01:43.18,P,,0,0,0,,EL GORDO {\c&H00D4FF&\fscx110\fscy110}APORTA{\r} CUATRO
+Dialogue: 0,0:01:43.18,0:01:43.60,P,,0,0,0,,EL GORDO APORTA {\c&H00D4FF&\fscx110\fscy110}CUATRO{\r}
+Dialogue: 0,0:01:43.60,0:01:43.82,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DE{\r} ESOS CATORCE EUROS
+Dialogue: 0,0:01:43.82,0:01:44.00,P,,0,0,0,,DE {\c&H00D4FF&\fscx110\fscy110}ESOS{\r} CATORCE EUROS
+Dialogue: 0,0:01:44.00,0:01:44.38,P,,0,0,0,,DE ESOS {\c&H00D4FF&\fscx110\fscy110}CATORCE{\r} EUROS
+Dialogue: 0,0:01:44.38,0:01:44.74,P,,0,0,0,,DE ESOS CATORCE {\c&H00D4FF&\fscx110\fscy110}EUROS{\r}
+Dialogue: 0,0:01:44.74,0:01:44.94,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DE{\r} MEDIA.
+Dialogue: 0,0:01:44.94,0:01:46.00,P,,0,0,0,,DE {\c&H00D4FF&\fscx110\fscy110}MEDIA.{\r}
+Dialogue: 0,0:01:46.00,0:01:46.20,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EL{\r} SEGUNDO PREMIO,
+Dialogue: 0,0:01:46.20,0:01:46.48,P,,0,0,0,,EL {\c&H00D4FF&\fscx110\fscy110}SEGUNDO{\r} PREMIO,
+Dialogue: 0,0:01:46.48,0:01:46.92,P,,0,0,0,,EL SEGUNDO {\c&H00D4FF&\fscx110\fscy110}PREMIO,{\r}
+Dialogue: 0,0:01:46.92,0:01:47.21,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}UN{\r} MILLÓN DOSCIENTOS CINCUENTA
+Dialogue: 0,0:01:47.21,0:01:47.50,P,,0,0,0,,UN {\c&H00D4FF&\fscx110\fscy110}MILLÓN{\r} DOSCIENTOS CINCUENTA
+Dialogue: 0,0:01:47.50,0:01:47.79,P,,0,0,0,,UN MILLÓN {\c&H00D4FF&\fscx110\fscy110}DOSCIENTOS{\r} CINCUENTA
+Dialogue: 0,0:01:47.79,0:01:48.08,P,,0,0,0,,UN MILLÓN DOSCIENTOS {\c&H00D4FF&\fscx110\fscy110}CINCUENTA{\r}
+Dialogue: 0,0:01:48.08,0:01:48.66,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MIL{\r} POR SERIE,
+Dialogue: 0,0:01:48.66,0:01:48.88,P,,0,0,0,,MIL {\c&H00D4FF&\fscx110\fscy110}POR{\r} SERIE,
+Dialogue: 0,0:01:48.88,0:01:49.14,P,,0,0,0,,MIL POR {\c&H00D4FF&\fscx110\fscy110}SERIE,{\r}
+Dialogue: 0,0:01:49.14,0:01:49.70,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} EL TERCERO,
+Dialogue: 0,0:01:49.70,0:01:49.82,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}EL{\r} TERCERO,
+Dialogue: 0,0:01:49.82,0:01:50.24,P,,0,0,0,,Y EL {\c&H00D4FF&\fscx110\fscy110}TERCERO,{\r}
+Dialogue: 0,0:01:50.24,0:01:50.70,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}QUINIENTOS{\r} MIL.
+Dialogue: 0,0:01:50.70,0:01:51.62,P,,0,0,0,,QUINIENTOS {\c&H00D4FF&\fscx110\fscy110}MIL.{\r}
+Dialogue: 0,0:01:51.62,0:01:52.12,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SUMANDO{\r} LOS TRES PREMIOS
+Dialogue: 0,0:01:52.12,0:01:52.34,P,,0,0,0,,SUMANDO {\c&H00D4FF&\fscx110\fscy110}LOS{\r} TRES PREMIOS
+Dialogue: 0,0:01:52.34,0:01:52.52,P,,0,0,0,,SUMANDO LOS {\c&H00D4FF&\fscx110\fscy110}TRES{\r} PREMIOS
+Dialogue: 0,0:01:52.52,0:01:52.90,P,,0,0,0,,SUMANDO LOS TRES {\c&H00D4FF&\fscx110\fscy110}PREMIOS{\r}
+Dialogue: 0,0:01:52.90,0:01:53.22,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}GRANDES{\r} DE LAS CIENTO
+Dialogue: 0,0:01:53.22,0:01:53.42,P,,0,0,0,,GRANDES {\c&H00D4FF&\fscx110\fscy110}DE{\r} LAS CIENTO
+Dialogue: 0,0:01:53.42,0:01:53.54,P,,0,0,0,,GRANDES DE {\c&H00D4FF&\fscx110\fscy110}LAS{\r} CIENTO
+Dialogue: 0,0:01:53.54,0:01:53.66,P,,0,0,0,,GRANDES DE LAS {\c&H00D4FF&\fscx110\fscy110}CIENTO{\r}
+Dialogue: 0,0:01:53.66,0:01:53.78,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}NOVENTA{\r} Y OCHO SERIES,
+Dialogue: 0,0:01:53.78,0:01:53.90,P,,0,0,0,,NOVENTA {\c&H00D4FF&\fscx110\fscy110}Y{\r} OCHO SERIES,
+Dialogue: 0,0:01:53.90,0:01:54.14,P,,0,0,0,,NOVENTA Y {\c&H00D4FF&\fscx110\fscy110}OCHO{\r} SERIES,
+Dialogue: 0,0:01:54.14,0:01:55.06,P,,0,0,0,,NOVENTA Y OCHO {\c&H00D4FF&\fscx110\fscy110}SERIES,{\r}
+Dialogue: 0,0:01:55.06,0:01:55.50,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SON{\r} MIL CIENTO TREINTA
+Dialogue: 0,0:01:55.50,0:01:55.71,P,,0,0,0,,SON {\c&H00D4FF&\fscx110\fscy110}MIL{\r} CIENTO TREINTA
+Dialogue: 0,0:01:55.71,0:01:55.92,P,,0,0,0,,SON MIL {\c&H00D4FF&\fscx110\fscy110}CIENTO{\r} TREINTA
+Dialogue: 0,0:01:55.92,0:01:56.13,P,,0,0,0,,SON MIL CIENTO {\c&H00D4FF&\fscx110\fscy110}TREINTA{\r}
+Dialogue: 0,0:01:56.13,0:01:56.34,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} OCHO MILLONES Y
+Dialogue: 0,0:01:56.34,0:01:56.76,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}OCHO{\r} MILLONES Y
+Dialogue: 0,0:01:56.76,0:01:57.04,P,,0,0,0,,Y OCHO {\c&H00D4FF&\fscx110\fscy110}MILLONES{\r} Y
+Dialogue: 0,0:01:57.04,0:01:57.36,P,,0,0,0,,Y OCHO MILLONES {\c&H00D4FF&\fscx110\fscy110}Y{\r}
+Dialogue: 0,0:01:57.36,0:01:58.12,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MEDIO.{\r}
+Dialogue: 0,0:01:58.12,0:01:58.44,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ES{\r} EL CUARENTA Y
+Dialogue: 0,0:01:58.44,0:01:58.58,P,,0,0,0,,ES {\c&H00D4FF&\fscx110\fscy110}EL{\r} CUARENTA Y
+Dialogue: 0,0:01:58.58,0:01:58.73,P,,0,0,0,,ES EL {\c&H00D4FF&\fscx110\fscy110}CUARENTA{\r} Y
+Dialogue: 0,0:01:58.73,0:01:58.88,P,,0,0,0,,ES EL CUARENTA {\c&H00D4FF&\fscx110\fscy110}Y{\r}
+Dialogue: 0,0:01:58.88,0:01:59.03,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}UNO{\r} POR CIENTO DE
+Dialogue: 0,0:01:59.03,0:01:59.18,P,,0,0,0,,UNO {\c&H00D4FF&\fscx110\fscy110}POR{\r} CIENTO DE
+Dialogue: 0,0:01:59.18,0:01:59.48,P,,0,0,0,,UNO POR {\c&H00D4FF&\fscx110\fscy110}CIENTO{\r} DE
+Dialogue: 0,0:01:59.48,0:01:59.82,P,,0,0,0,,UNO POR CIENTO {\c&H00D4FF&\fscx110\fscy110}DE{\r}
+Dialogue: 0,0:01:59.82,0:02:00.02,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}TODO{\r} EL DINERO EN
+Dialogue: 0,0:02:00.02,0:02:00.18,P,,0,0,0,,TODO {\c&H00D4FF&\fscx110\fscy110}EL{\r} DINERO EN
+Dialogue: 0,0:02:00.18,0:02:00.42,P,,0,0,0,,TODO EL {\c&H00D4FF&\fscx110\fscy110}DINERO{\r} EN
+Dialogue: 0,0:02:00.42,0:02:00.60,P,,0,0,0,,TODO EL DINERO {\c&H00D4FF&\fscx110\fscy110}EN{\r}
+Dialogue: 0,0:02:00.60,0:02:01.62,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}PREMIOS.{\r}
+Dialogue: 0,0:02:01.62,0:02:01.90,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ES{\r} UN CÁLCULO NUESTRO,
+Dialogue: 0,0:02:01.90,0:02:02.02,P,,0,0,0,,ES {\c&H00D4FF&\fscx110\fscy110}UN{\r} CÁLCULO NUESTRO,
+Dialogue: 0,0:02:02.02,0:02:02.32,P,,0,0,0,,ES UN {\c&H00D4FF&\fscx110\fscy110}CÁLCULO{\r} NUESTRO,
+Dialogue: 0,0:02:02.32,0:02:02.98,P,,0,0,0,,ES UN CÁLCULO {\c&H00D4FF&\fscx110\fscy110}NUESTRO,{\r}
+Dialogue: 0,0:02:02.98,0:02:03.14,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}PERO{\r} SALE DE LAS
+Dialogue: 0,0:02:03.14,0:02:03.38,P,,0,0,0,,PERO {\c&H00D4FF&\fscx110\fscy110}SALE{\r} DE LAS
+Dialogue: 0,0:02:03.38,0:02:03.52,P,,0,0,0,,PERO SALE {\c&H00D4FF&\fscx110\fscy110}DE{\r} LAS
+Dialogue: 0,0:02:03.52,0:02:03.64,P,,0,0,0,,PERO SALE DE {\c&H00D4FF&\fscx110\fscy110}LAS{\r}
+Dialogue: 0,0:02:03.64,0:02:03.92,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CIFRAS{\r} PUBLICADAS.
+Dialogue: 0,0:02:03.92,0:02:05.34,P,,0,0,0,,CIFRAS {\c&H00D4FF&\fscx110\fscy110}PUBLICADAS.{\r}
+Dialogue: 0,0:02:05.34,0:02:05.58,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EL{\r} RESTO DEL DINERO
+Dialogue: 0,0:02:05.58,0:02:05.84,P,,0,0,0,,EL {\c&H00D4FF&\fscx110\fscy110}RESTO{\r} DEL DINERO
+Dialogue: 0,0:02:05.84,0:02:06.00,P,,0,0,0,,EL RESTO {\c&H00D4FF&\fscx110\fscy110}DEL{\r} DINERO
+Dialogue: 0,0:02:06.00,0:02:06.30,P,,0,0,0,,EL RESTO DEL {\c&H00D4FF&\fscx110\fscy110}DINERO{\r}
+Dialogue: 0,0:02:06.30,0:02:06.50,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SE{\r} REPARTE EN MUCHÍSIMOS
+Dialogue: 0,0:02:06.50,0:02:06.63,P,,0,0,0,,SE {\c&H00D4FF&\fscx110\fscy110}REPARTE{\r} EN MUCHÍSIMOS
+Dialogue: 0,0:02:06.63,0:02:06.90,P,,0,0,0,,SE REPARTE {\c&H00D4FF&\fscx110\fscy110}EN{\r} MUCHÍSIMOS
+Dialogue: 0,0:02:06.90,0:02:07.52,P,,0,0,0,,SE REPARTE EN {\c&H00D4FF&\fscx110\fscy110}MUCHÍSIMOS{\r}
+Dialogue: 0,0:02:07.52,0:02:07.90,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}PREMIOS{\r} MÁS PEQUEÑOS.
+Dialogue: 0,0:02:07.90,0:02:08.10,P,,0,0,0,,PREMIOS {\c&H00D4FF&\fscx110\fscy110}MÁS{\r} PEQUEÑOS.
+Dialogue: 0,0:02:08.10,0:02:09.28,P,,0,0,0,,PREMIOS MÁS {\c&H00D4FF&\fscx110\fscy110}PEQUEÑOS.{\r}
+Dialogue: 0,0:02:09.28,0:02:09.56,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} AHORA,
+Dialogue: 0,0:02:09.56,0:02:10.16,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}AHORA,{\r}
+Dialogue: 0,0:02:10.16,0:02:11.44,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}HACIENDA.{\r}
+Dialogue: 0,0:02:11.44,0:02:11.62,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DESDE{\r} DOS MIL TRECE,
+Dialogue: 0,0:02:11.62,0:02:11.89,P,,0,0,0,,DESDE {\c&H00D4FF&\fscx110\fscy110}DOS{\r} MIL TRECE,
+Dialogue: 0,0:02:11.89,0:02:12.16,P,,0,0,0,,DESDE DOS {\c&H00D4FF&\fscx110\fscy110}MIL{\r} TRECE,
+Dialogue: 0,0:02:12.16,0:02:12.70,P,,0,0,0,,DESDE DOS MIL {\c&H00D4FF&\fscx110\fscy110}TRECE,{\r}
+Dialogue: 0,0:02:12.70,0:02:12.80,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LOS{\r} PREMIOS DE LA
+Dialogue: 0,0:02:12.80,0:02:13.16,P,,0,0,0,,LOS {\c&H00D4FF&\fscx110\fscy110}PREMIOS{\r} DE LA
+Dialogue: 0,0:02:13.16,0:02:13.28,P,,0,0,0,,LOS PREMIOS {\c&H00D4FF&\fscx110\fscy110}DE{\r} LA
+Dialogue: 0,0:02:13.28,0:02:13.36,P,,0,0,0,,LOS PREMIOS DE {\c&H00D4FF&\fscx110\fscy110}LA{\r}
+Dialogue: 0,0:02:13.36,0:02:13.74,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LOTERÍA{\r} DEL ESTADO PAGAN
+Dialogue: 0,0:02:13.74,0:02:13.92,P,,0,0,0,,LOTERÍA {\c&H00D4FF&\fscx110\fscy110}DEL{\r} ESTADO PAGAN
+Dialogue: 0,0:02:13.92,0:02:14.20,P,,0,0,0,,LOTERÍA DEL {\c&H00D4FF&\fscx110\fscy110}ESTADO{\r} PAGAN
+Dialogue: 0,0:02:14.20,0:02:14.56,P,,0,0,0,,LOTERÍA DEL ESTADO {\c&H00D4FF&\fscx110\fscy110}PAGAN{\r}
+Dialogue: 0,0:02:14.56,0:02:15.54,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}IMPUESTOS.{\r}
+Dialogue: 0,0:02:15.54,0:02:15.66,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LEY{\r} DIECISÉIS DE DOS
+Dialogue: 0,0:02:15.66,0:02:16.12,P,,0,0,0,,LEY {\c&H00D4FF&\fscx110\fscy110}DIECISÉIS{\r} DE DOS
+Dialogue: 0,0:02:16.12,0:02:16.34,P,,0,0,0,,LEY DIECISÉIS {\c&H00D4FF&\fscx110\fscy110}DE{\r} DOS
+Dialogue: 0,0:02:16.34,0:02:16.62,P,,0,0,0,,LEY DIECISÉIS DE {\c&H00D4FF&\fscx110\fscy110}DOS{\r}
+Dialogue: 0,0:02:16.62,0:02:16.89,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MIL{\r} DOCE.
+Dialogue: 0,0:02:16.89,0:02:17.44,P,,0,0,0,,MIL {\c&H00D4FF&\fscx110\fscy110}DOCE.{\r}
+Dialogue: 0,0:02:17.44,0:02:17.82,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} HAY UNA PARTE
+Dialogue: 0,0:02:17.82,0:02:17.92,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}HAY{\r} UNA PARTE
+Dialogue: 0,0:02:17.92,0:02:18.08,P,,0,0,0,,Y HAY {\c&H00D4FF&\fscx110\fscy110}UNA{\r} PARTE
+Dialogue: 0,0:02:18.08,0:02:18.34,P,,0,0,0,,Y HAY UNA {\c&H00D4FF&\fscx110\fscy110}PARTE{\r}
+Dialogue: 0,0:02:18.34,0:02:19.36,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EXENTA:{\r}
+Dialogue: 0,0:02:19.36,0:02:19.56,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LOS{\r} PRIMEROS CUARENTA MIL
+Dialogue: 0,0:02:19.56,0:02:19.96,P,,0,0,0,,LOS {\c&H00D4FF&\fscx110\fscy110}PRIMEROS{\r} CUARENTA MIL
+Dialogue: 0,0:02:19.96,0:02:20.13,P,,0,0,0,,LOS PRIMEROS {\c&H00D4FF&\fscx110\fscy110}CUARENTA{\r} MIL
+Dialogue: 0,0:02:20.13,0:02:20.48,P,,0,0,0,,LOS PRIMEROS CUARENTA {\c&H00D4FF&\fscx110\fscy110}MIL{\r}
+Dialogue: 0,0:02:20.48,0:02:20.72,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EUROS{\r} DE CADA DÉCIMO
+Dialogue: 0,0:02:20.72,0:02:20.90,P,,0,0,0,,EUROS {\c&H00D4FF&\fscx110\fscy110}DE{\r} CADA DÉCIMO
+Dialogue: 0,0:02:20.90,0:02:21.06,P,,0,0,0,,EUROS DE {\c&H00D4FF&\fscx110\fscy110}CADA{\r} DÉCIMO
+Dialogue: 0,0:02:21.06,0:02:21.44,P,,0,0,0,,EUROS DE CADA {\c&H00D4FF&\fscx110\fscy110}DÉCIMO{\r}
+Dialogue: 0,0:02:21.44,0:02:21.64,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}NO{\r} PAGAN NADA.
+Dialogue: 0,0:02:21.64,0:02:21.84,P,,0,0,0,,NO {\c&H00D4FF&\fscx110\fscy110}PAGAN{\r} NADA.
+Dialogue: 0,0:02:21.84,0:02:22.80,P,,0,0,0,,NO PAGAN {\c&H00D4FF&\fscx110\fscy110}NADA.{\r}
+Dialogue: 0,0:02:22.80,0:02:23.00,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LO{\r} QUE SUPERA ESA
+Dialogue: 0,0:02:23.00,0:02:23.12,P,,0,0,0,,LO {\c&H00D4FF&\fscx110\fscy110}QUE{\r} SUPERA ESA
+Dialogue: 0,0:02:23.12,0:02:23.46,P,,0,0,0,,LO QUE {\c&H00D4FF&\fscx110\fscy110}SUPERA{\r} ESA
+Dialogue: 0,0:02:23.46,0:02:23.58,P,,0,0,0,,LO QUE SUPERA {\c&H00D4FF&\fscx110\fscy110}ESA{\r}
+Dialogue: 0,0:02:23.58,0:02:23.90,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CIFRA{\r} TIENE UNA RETENCIÓN
+Dialogue: 0,0:02:23.90,0:02:24.14,P,,0,0,0,,CIFRA {\c&H00D4FF&\fscx110\fscy110}TIENE{\r} UNA RETENCIÓN
+Dialogue: 0,0:02:24.14,0:02:24.30,P,,0,0,0,,CIFRA TIENE {\c&H00D4FF&\fscx110\fscy110}UNA{\r} RETENCIÓN
+Dialogue: 0,0:02:24.30,0:02:24.76,P,,0,0,0,,CIFRA TIENE UNA {\c&H00D4FF&\fscx110\fscy110}RETENCIÓN{\r}
+Dialogue: 0,0:02:24.76,0:02:24.92,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DEL{\r} VEINTE POR CIENTO.
+Dialogue: 0,0:02:24.92,0:02:25.09,P,,0,0,0,,DEL {\c&H00D4FF&\fscx110\fscy110}VEINTE{\r} POR CIENTO.
+Dialogue: 0,0:02:25.09,0:02:25.26,P,,0,0,0,,DEL VEINTE {\c&H00D4FF&\fscx110\fscy110}POR{\r} CIENTO.
+Dialogue: 0,0:02:25.26,0:02:25.60,P,,0,0,0,,DEL VEINTE POR {\c&H00D4FF&\fscx110\fscy110}CIENTO.{\r}
+Dialogue: 0,0:02:25.60,0:02:26.36,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LO{\r} DICE LA AGENCIA
+Dialogue: 0,0:02:26.36,0:02:26.54,P,,0,0,0,,LO {\c&H00D4FF&\fscx110\fscy110}DICE{\r} LA AGENCIA
+Dialogue: 0,0:02:26.54,0:02:26.70,P,,0,0,0,,LO DICE {\c&H00D4FF&\fscx110\fscy110}LA{\r} AGENCIA
+Dialogue: 0,0:02:26.70,0:02:26.96,P,,0,0,0,,LO DICE LA {\c&H00D4FF&\fscx110\fscy110}AGENCIA{\r}
+Dialogue: 0,0:02:26.96,0:02:28.40,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}TRIBUTARIA.{\r}
+Dialogue: 0,0:02:28.40,0:02:28.52,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EL{\r} EJEMPLO OFICIAL:
+Dialogue: 0,0:02:28.52,0:02:28.80,P,,0,0,0,,EL {\c&H00D4FF&\fscx110\fscy110}EJEMPLO{\r} OFICIAL:
+Dialogue: 0,0:02:28.80,0:02:29.90,P,,0,0,0,,EL EJEMPLO {\c&H00D4FF&\fscx110\fscy110}OFICIAL:{\r}
+Dialogue: 0,0:02:29.90,0:02:30.00,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}UN{\r} PREMIO DE CIEN
+Dialogue: 0,0:02:30.00,0:02:30.32,P,,0,0,0,,UN {\c&H00D4FF&\fscx110\fscy110}PREMIO{\r} DE CIEN
+Dialogue: 0,0:02:30.32,0:02:30.42,P,,0,0,0,,UN PREMIO {\c&H00D4FF&\fscx110\fscy110}DE{\r} CIEN
+Dialogue: 0,0:02:30.42,0:02:30.54,P,,0,0,0,,UN PREMIO DE {\c&H00D4FF&\fscx110\fscy110}CIEN{\r}
+Dialogue: 0,0:02:30.54,0:02:30.78,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MIL{\r} EUROS PAGA VEINTE
+Dialogue: 0,0:02:30.78,0:02:31.00,P,,0,0,0,,MIL {\c&H00D4FF&\fscx110\fscy110}EUROS{\r} PAGA VEINTE
+Dialogue: 0,0:02:31.00,0:02:31.32,P,,0,0,0,,MIL EUROS {\c&H00D4FF&\fscx110\fscy110}PAGA{\r} VEINTE
+Dialogue: 0,0:02:31.32,0:02:31.49,P,,0,0,0,,MIL EUROS PAGA {\c&H00D4FF&\fscx110\fscy110}VEINTE{\r}
+Dialogue: 0,0:02:31.49,0:02:31.66,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}POR{\r} CIENTO DE SESENTA
+Dialogue: 0,0:02:31.66,0:02:32.00,P,,0,0,0,,POR {\c&H00D4FF&\fscx110\fscy110}CIENTO{\r} DE SESENTA
+Dialogue: 0,0:02:32.00,0:02:32.20,P,,0,0,0,,POR CIENTO {\c&H00D4FF&\fscx110\fscy110}DE{\r} SESENTA
+Dialogue: 0,0:02:32.20,0:02:32.47,P,,0,0,0,,POR CIENTO DE {\c&H00D4FF&\fscx110\fscy110}SESENTA{\r}
+Dialogue: 0,0:02:32.47,0:02:32.74,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MIL,{\r}
+Dialogue: 0,0:02:32.74,0:02:33.02,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DOCE{\r} MIL EUROS.
+Dialogue: 0,0:02:33.02,0:02:33.56,P,,0,0,0,,DOCE {\c&H00D4FF&\fscx110\fscy110}MIL{\r} EUROS.
+Dialogue: 0,0:02:33.56,0:02:34.24,P,,0,0,0,,DOCE MIL {\c&H00D4FF&\fscx110\fscy110}EUROS.{\r}
+Dialogue: 0,0:02:34.24,0:02:34.60,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}COBRAS{\r} OCHENTA Y OCHO
+Dialogue: 0,0:02:34.60,0:02:34.95,P,,0,0,0,,COBRAS {\c&H00D4FF&\fscx110\fscy110}OCHENTA{\r} Y OCHO
+Dialogue: 0,0:02:34.95,0:02:35.30,P,,0,0,0,,COBRAS OCHENTA {\c&H00D4FF&\fscx110\fscy110}Y{\r} OCHO
+Dialogue: 0,0:02:35.30,0:02:35.66,P,,0,0,0,,COBRAS OCHENTA Y {\c&H00D4FF&\fscx110\fscy110}OCHO{\r}
+Dialogue: 0,0:02:35.66,0:02:36.36,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MIL.{\r}
+Dialogue: 0,0:02:36.36,0:02:36.94,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}APLICADO{\r} AL GORDO:
+Dialogue: 0,0:02:36.94,0:02:37.10,P,,0,0,0,,APLICADO {\c&H00D4FF&\fscx110\fscy110}AL{\r} GORDO:
+Dialogue: 0,0:02:37.10,0:02:37.34,P,,0,0,0,,APLICADO AL {\c&H00D4FF&\fscx110\fscy110}GORDO:{\r}
+Dialogue: 0,0:02:37.34,0:02:37.77,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CUATROCIENTOS{\r} MIL EUROS POR
+Dialogue: 0,0:02:37.77,0:02:38.64,P,,0,0,0,,CUATROCIENTOS {\c&H00D4FF&\fscx110\fscy110}MIL{\r} EUROS POR
+Dialogue: 0,0:02:38.64,0:02:38.92,P,,0,0,0,,CUATROCIENTOS MIL {\c&H00D4FF&\fscx110\fscy110}EUROS{\r} POR
+Dialogue: 0,0:02:38.92,0:02:39.22,P,,0,0,0,,CUATROCIENTOS MIL EUROS {\c&H00D4FF&\fscx110\fscy110}POR{\r}
+Dialogue: 0,0:02:39.22,0:02:40.02,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DÉCIMO.{\r}
+Dialogue: 0,0:02:40.02,0:02:40.52,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}RESTAS{\r} LOS CUARENTA MIL
+Dialogue: 0,0:02:40.52,0:02:40.68,P,,0,0,0,,RESTAS {\c&H00D4FF&\fscx110\fscy110}LOS{\r} CUARENTA MIL
+Dialogue: 0,0:02:40.68,0:02:40.89,P,,0,0,0,,RESTAS LOS {\c&H00D4FF&\fscx110\fscy110}CUARENTA{\r} MIL
+Dialogue: 0,0:02:40.89,0:02:41.30,P,,0,0,0,,RESTAS LOS CUARENTA {\c&H00D4FF&\fscx110\fscy110}MIL{\r}
+Dialogue: 0,0:02:41.30,0:02:41.86,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EXENTOS:{\r}
+Dialogue: 0,0:02:41.86,0:02:42.35,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}TRESCIENTOS{\r} SESENTA MIL.
+Dialogue: 0,0:02:42.35,0:02:42.84,P,,0,0,0,,TRESCIENTOS {\c&H00D4FF&\fscx110\fscy110}SESENTA{\r} MIL.
+Dialogue: 0,0:02:42.84,0:02:43.82,P,,0,0,0,,TRESCIENTOS SESENTA {\c&H00D4FF&\fscx110\fscy110}MIL.{\r}
+Dialogue: 0,0:02:43.82,0:02:44.14,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EL{\r} VEINTE POR CIENTO
+Dialogue: 0,0:02:44.14,0:02:44.30,P,,0,0,0,,EL {\c&H00D4FF&\fscx110\fscy110}VEINTE{\r} POR CIENTO
+Dialogue: 0,0:02:44.30,0:02:44.46,P,,0,0,0,,EL VEINTE {\c&H00D4FF&\fscx110\fscy110}POR{\r} CIENTO
+Dialogue: 0,0:02:44.46,0:02:44.78,P,,0,0,0,,EL VEINTE POR {\c&H00D4FF&\fscx110\fscy110}CIENTO{\r}
+Dialogue: 0,0:02:44.78,0:02:45.28,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SON{\r} SETENTA Y DOS
+Dialogue: 0,0:02:45.28,0:02:45.44,P,,0,0,0,,SON {\c&H00D4FF&\fscx110\fscy110}SETENTA{\r} Y DOS
+Dialogue: 0,0:02:45.44,0:02:45.60,P,,0,0,0,,SON SETENTA {\c&H00D4FF&\fscx110\fscy110}Y{\r} DOS
+Dialogue: 0,0:02:45.60,0:02:45.76,P,,0,0,0,,SON SETENTA Y {\c&H00D4FF&\fscx110\fscy110}DOS{\r}
+Dialogue: 0,0:02:45.76,0:02:46.08,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MIL{\r} EUROS.
+Dialogue: 0,0:02:46.08,0:02:46.76,P,,0,0,0,,MIL {\c&H00D4FF&\fscx110\fscy110}EUROS.{\r}
+Dialogue: 0,0:02:46.76,0:02:47.14,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}COBRAS{\r} TRESCIENTOS VEINTIOCHO MIL.
+Dialogue: 0,0:02:47.14,0:02:47.66,P,,0,0,0,,COBRAS {\c&H00D4FF&\fscx110\fscy110}TRESCIENTOS{\r} VEINTIOCHO MIL.
+Dialogue: 0,0:02:47.66,0:02:48.19,P,,0,0,0,,COBRAS TRESCIENTOS {\c&H00D4FF&\fscx110\fscy110}VEINTIOCHO{\r} MIL.
+Dialogue: 0,0:02:48.19,0:02:49.24,P,,0,0,0,,COBRAS TRESCIENTOS VEINTIOCHO {\c&H00D4FF&\fscx110\fscy110}MIL.{\r}
+Dialogue: 0,0:02:49.24,0:02:49.54,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ES{\r} UN CÁLCULO NUESTRO
+Dialogue: 0,0:02:49.54,0:02:49.68,P,,0,0,0,,ES {\c&H00D4FF&\fscx110\fscy110}UN{\r} CÁLCULO NUESTRO
+Dialogue: 0,0:02:49.68,0:02:50.04,P,,0,0,0,,ES UN {\c&H00D4FF&\fscx110\fscy110}CÁLCULO{\r} NUESTRO
+Dialogue: 0,0:02:50.04,0:02:50.36,P,,0,0,0,,ES UN CÁLCULO {\c&H00D4FF&\fscx110\fscy110}NUESTRO{\r}
+Dialogue: 0,0:02:50.36,0:02:50.66,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CON{\r} LA REGLA OFICIAL.
+Dialogue: 0,0:02:50.66,0:02:50.78,P,,0,0,0,,CON {\c&H00D4FF&\fscx110\fscy110}LA{\r} REGLA OFICIAL.
+Dialogue: 0,0:02:50.78,0:02:51.02,P,,0,0,0,,CON LA {\c&H00D4FF&\fscx110\fscy110}REGLA{\r} OFICIAL.
+Dialogue: 0,0:02:51.02,0:02:52.12,P,,0,0,0,,CON LA REGLA {\c&H00D4FF&\fscx110\fscy110}OFICIAL.{\r}
+Dialogue: 0,0:02:52.12,0:02:52.30,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EL{\r} SEGUNDO PREMIO,
+Dialogue: 0,0:02:52.30,0:02:52.64,P,,0,0,0,,EL {\c&H00D4FF&\fscx110\fscy110}SEGUNDO{\r} PREMIO,
+Dialogue: 0,0:02:52.64,0:02:53.06,P,,0,0,0,,EL SEGUNDO {\c&H00D4FF&\fscx110\fscy110}PREMIO,{\r}
+Dialogue: 0,0:02:53.06,0:02:53.40,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CIENTO{\r} VEINTICINCO MIL POR
+Dialogue: 0,0:02:53.40,0:02:53.74,P,,0,0,0,,CIENTO {\c&H00D4FF&\fscx110\fscy110}VEINTICINCO{\r} MIL POR
+Dialogue: 0,0:02:53.74,0:02:54.42,P,,0,0,0,,CIENTO VEINTICINCO {\c&H00D4FF&\fscx110\fscy110}MIL{\r} POR
+Dialogue: 0,0:02:54.42,0:02:54.58,P,,0,0,0,,CIENTO VEINTICINCO MIL {\c&H00D4FF&\fscx110\fscy110}POR{\r}
+Dialogue: 0,0:02:54.58,0:02:55.24,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DÉCIMO,{\r}
+Dialogue: 0,0:02:55.24,0:02:55.42,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}PAGA{\r} DIECISIETE MIL.
+Dialogue: 0,0:02:55.42,0:02:55.87,P,,0,0,0,,PAGA {\c&H00D4FF&\fscx110\fscy110}DIECISIETE{\r} MIL.
+Dialogue: 0,0:02:55.87,0:02:56.76,P,,0,0,0,,PAGA DIECISIETE {\c&H00D4FF&\fscx110\fscy110}MIL.{\r}
+Dialogue: 0,0:02:56.76,0:02:56.94,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EL{\r} TERCERO,
+Dialogue: 0,0:02:56.94,0:02:57.44,P,,0,0,0,,EL {\c&H00D4FF&\fscx110\fscy110}TERCERO,{\r}
+Dialogue: 0,0:02:57.44,0:02:57.83,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CINCUENTA{\r} MIL,
+Dialogue: 0,0:02:57.83,0:02:58.60,P,,0,0,0,,CINCUENTA {\c&H00D4FF&\fscx110\fscy110}MIL,{\r}
+Dialogue: 0,0:02:58.60,0:02:58.76,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}PAGA{\r} DOS MIL.
+Dialogue: 0,0:02:58.76,0:02:59.09,P,,0,0,0,,PAGA {\c&H00D4FF&\fscx110\fscy110}DOS{\r} MIL.
+Dialogue: 0,0:02:59.09,0:02:59.74,P,,0,0,0,,PAGA DOS {\c&H00D4FF&\fscx110\fscy110}MIL.{\r}
+Dialogue: 0,0:02:59.74,0:02:59.96,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LA{\r} RETENCIÓN SE APLICA
+Dialogue: 0,0:02:59.96,0:03:00.46,P,,0,0,0,,LA {\c&H00D4FF&\fscx110\fscy110}RETENCIÓN{\r} SE APLICA
+Dialogue: 0,0:03:00.46,0:03:00.66,P,,0,0,0,,LA RETENCIÓN {\c&H00D4FF&\fscx110\fscy110}SE{\r} APLICA
+Dialogue: 0,0:03:00.66,0:03:01.00,P,,0,0,0,,LA RETENCIÓN SE {\c&H00D4FF&\fscx110\fscy110}APLICA{\r}
+Dialogue: 0,0:03:01.00,0:03:01.14,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}A{\r} CADA DÉCIMO POR
+Dialogue: 0,0:03:01.14,0:03:01.32,P,,0,0,0,,A {\c&H00D4FF&\fscx110\fscy110}CADA{\r} DÉCIMO POR
+Dialogue: 0,0:03:01.32,0:03:01.70,P,,0,0,0,,A CADA {\c&H00D4FF&\fscx110\fscy110}DÉCIMO{\r} POR
+Dialogue: 0,0:03:01.70,0:03:01.88,P,,0,0,0,,A CADA DÉCIMO {\c&H00D4FF&\fscx110\fscy110}POR{\r}
+Dialogue: 0,0:03:01.88,0:03:02.34,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SEPARADO,{\r}
+Dialogue: 0,0:03:02.34,0:03:02.82,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} SELAE LA PRACTICA
+Dialogue: 0,0:03:02.82,0:03:03.24,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}SELAE{\r} LA PRACTICA
+Dialogue: 0,0:03:03.24,0:03:03.36,P,,0,0,0,,Y SELAE {\c&H00D4FF&\fscx110\fscy110}LA{\r} PRACTICA
+Dialogue: 0,0:03:03.36,0:03:03.78,P,,0,0,0,,Y SELAE LA {\c&H00D4FF&\fscx110\fscy110}PRACTICA{\r}
+Dialogue: 0,0:03:03.78,0:03:03.94,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EN{\r} EL MOMENTO DEL
+Dialogue: 0,0:03:03.94,0:03:04.04,P,,0,0,0,,EN {\c&H00D4FF&\fscx110\fscy110}EL{\r} MOMENTO DEL
+Dialogue: 0,0:03:04.04,0:03:04.30,P,,0,0,0,,EN EL {\c&H00D4FF&\fscx110\fscy110}MOMENTO{\r} DEL
+Dialogue: 0,0:03:04.30,0:03:04.52,P,,0,0,0,,EN EL MOMENTO {\c&H00D4FF&\fscx110\fscy110}DEL{\r}
+Dialogue: 0,0:03:04.52,0:03:05.32,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}COBRO.{\r}
+Dialogue: 0,0:03:05.32,0:03:05.62,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SI{\r} UN DÉCIMO ES
+Dialogue: 0,0:03:05.62,0:03:05.76,P,,0,0,0,,SI {\c&H00D4FF&\fscx110\fscy110}UN{\r} DÉCIMO ES
+Dialogue: 0,0:03:05.76,0:03:06.06,P,,0,0,0,,SI UN {\c&H00D4FF&\fscx110\fscy110}DÉCIMO{\r} ES
+Dialogue: 0,0:03:06.06,0:03:06.22,P,,0,0,0,,SI UN DÉCIMO {\c&H00D4FF&\fscx110\fscy110}ES{\r}
+Dialogue: 0,0:03:06.22,0:03:07.16,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}COMPARTIDO,{\r}
+Dialogue: 0,0:03:07.16,0:03:07.32,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LOS{\r} CUARENTA MIL EXENTOS
+Dialogue: 0,0:03:07.32,0:03:07.51,P,,0,0,0,,LOS {\c&H00D4FF&\fscx110\fscy110}CUARENTA{\r} MIL EXENTOS
+Dialogue: 0,0:03:07.51,0:03:07.90,P,,0,0,0,,LOS CUARENTA {\c&H00D4FF&\fscx110\fscy110}MIL{\r} EXENTOS
+Dialogue: 0,0:03:07.90,0:03:08.36,P,,0,0,0,,LOS CUARENTA MIL {\c&H00D4FF&\fscx110\fscy110}EXENTOS{\r}
+Dialogue: 0,0:03:08.36,0:03:08.50,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SE{\r} REPARTEN ENTRE LOS
+Dialogue: 0,0:03:08.50,0:03:08.92,P,,0,0,0,,SE {\c&H00D4FF&\fscx110\fscy110}REPARTEN{\r} ENTRE LOS
+Dialogue: 0,0:03:08.92,0:03:09.18,P,,0,0,0,,SE REPARTEN {\c&H00D4FF&\fscx110\fscy110}ENTRE{\r} LOS
+Dialogue: 0,0:03:09.18,0:03:09.38,P,,0,0,0,,SE REPARTEN ENTRE {\c&H00D4FF&\fscx110\fscy110}LOS{\r}
+Dialogue: 0,0:03:09.38,0:03:10.24,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DUEÑOS.{\r}
+Dialogue: 0,0:03:10.24,0:03:10.42,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}POR{\r} ESO COMPARTIR NO
+Dialogue: 0,0:03:10.42,0:03:10.62,P,,0,0,0,,POR {\c&H00D4FF&\fscx110\fscy110}ESO{\r} COMPARTIR NO
+Dialogue: 0,0:03:10.62,0:03:11.08,P,,0,0,0,,POR ESO {\c&H00D4FF&\fscx110\fscy110}COMPARTIR{\r} NO
+Dialogue: 0,0:03:11.08,0:03:11.40,P,,0,0,0,,POR ESO COMPARTIR {\c&H00D4FF&\fscx110\fscy110}NO{\r}
+Dialogue: 0,0:03:11.40,0:03:11.52,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}TE{\r} HACE PAGAR MÁS.
+Dialogue: 0,0:03:11.52,0:03:11.66,P,,0,0,0,,TE {\c&H00D4FF&\fscx110\fscy110}HACE{\r} PAGAR MÁS.
+Dialogue: 0,0:03:11.66,0:03:11.88,P,,0,0,0,,TE HACE {\c&H00D4FF&\fscx110\fscy110}PAGAR{\r} MÁS.
+Dialogue: 0,0:03:11.88,0:03:12.78,P,,0,0,0,,TE HACE PAGAR {\c&H00D4FF&\fscx110\fscy110}MÁS.{\r}
+Dialogue: 0,0:03:12.78,0:03:13.12,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}QUEDAN{\r} DOS PREGUNTAS.
+Dialogue: 0,0:03:13.12,0:03:13.34,P,,0,0,0,,QUEDAN {\c&H00D4FF&\fscx110\fscy110}DOS{\r} PREGUNTAS.
+Dialogue: 0,0:03:13.34,0:03:14.46,P,,0,0,0,,QUEDAN DOS {\c&H00D4FF&\fscx110\fscy110}PREGUNTAS.{\r}
+Dialogue: 0,0:03:14.46,0:03:14.58,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LA{\r} PRIMERA:
+Dialogue: 0,0:03:14.58,0:03:15.42,P,,0,0,0,,LA {\c&H00D4FF&\fscx110\fscy110}PRIMERA:{\r}
+Dialogue: 0,0:03:15.42,0:03:15.62,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}¿QUIÉN{\r} SE QUEDA EL
+Dialogue: 0,0:03:15.62,0:03:15.76,P,,0,0,0,,¿QUIÉN {\c&H00D4FF&\fscx110\fscy110}SE{\r} QUEDA EL
+Dialogue: 0,0:03:15.76,0:03:15.98,P,,0,0,0,,¿QUIÉN SE {\c&H00D4FF&\fscx110\fscy110}QUEDA{\r} EL
+Dialogue: 0,0:03:15.98,0:03:16.14,P,,0,0,0,,¿QUIÉN SE QUEDA {\c&H00D4FF&\fscx110\fscy110}EL{\r}
+Dialogue: 0,0:03:16.14,0:03:16.31,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}TREINTA{\r} POR CIENTO QUE
+Dialogue: 0,0:03:16.31,0:03:16.48,P,,0,0,0,,TREINTA {\c&H00D4FF&\fscx110\fscy110}POR{\r} CIENTO QUE
+Dialogue: 0,0:03:16.48,0:03:16.82,P,,0,0,0,,TREINTA POR {\c&H00D4FF&\fscx110\fscy110}CIENTO{\r} QUE
+Dialogue: 0,0:03:16.82,0:03:17.10,P,,0,0,0,,TREINTA POR CIENTO {\c&H00D4FF&\fscx110\fscy110}QUE{\r}
+Dialogue: 0,0:03:17.10,0:03:17.26,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}NO{\r} ES PREMIO?
+Dialogue: 0,0:03:17.26,0:03:17.42,P,,0,0,0,,NO {\c&H00D4FF&\fscx110\fscy110}ES{\r} PREMIO?
+Dialogue: 0,0:03:17.42,0:03:18.38,P,,0,0,0,,NO ES {\c&H00D4FF&\fscx110\fscy110}PREMIO?{\r}
+Dialogue: 0,0:03:18.38,0:03:18.66,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}AQUÍ{\r} TENEMOS QUE SER
+Dialogue: 0,0:03:18.66,0:03:19.02,P,,0,0,0,,AQUÍ {\c&H00D4FF&\fscx110\fscy110}TENEMOS{\r} QUE SER
+Dialogue: 0,0:03:19.02,0:03:19.22,P,,0,0,0,,AQUÍ TENEMOS {\c&H00D4FF&\fscx110\fscy110}QUE{\r} SER
+Dialogue: 0,0:03:19.22,0:03:19.36,P,,0,0,0,,AQUÍ TENEMOS QUE {\c&H00D4FF&\fscx110\fscy110}SER{\r}
+Dialogue: 0,0:03:19.36,0:03:19.84,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}HONESTOS:{\r}
+Dialogue: 0,0:03:19.84,0:03:20.72,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SELAE,{\r}
+Dialogue: 0,0:03:20.72,0:03:20.96,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LA{\r} SOCIEDAD PÚBLICA QUE
+Dialogue: 0,0:03:20.96,0:03:21.24,P,,0,0,0,,LA {\c&H00D4FF&\fscx110\fscy110}SOCIEDAD{\r} PÚBLICA QUE
+Dialogue: 0,0:03:21.24,0:03:21.78,P,,0,0,0,,LA SOCIEDAD {\c&H00D4FF&\fscx110\fscy110}PÚBLICA{\r} QUE
+Dialogue: 0,0:03:21.78,0:03:21.98,P,,0,0,0,,LA SOCIEDAD PÚBLICA {\c&H00D4FF&\fscx110\fscy110}QUE{\r}
+Dialogue: 0,0:03:21.98,0:03:22.38,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ORGANIZA{\r} EL SORTEO,
+Dialogue: 0,0:03:22.38,0:03:22.46,P,,0,0,0,,ORGANIZA {\c&H00D4FF&\fscx110\fscy110}EL{\r} SORTEO,
+Dialogue: 0,0:03:22.46,0:03:23.28,P,,0,0,0,,ORGANIZA EL {\c&H00D4FF&\fscx110\fscy110}SORTEO,{\r}
+Dialogue: 0,0:03:23.28,0:03:23.40,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}NO{\r} DESGLOSA EN LO
+Dialogue: 0,0:03:23.40,0:03:23.90,P,,0,0,0,,NO {\c&H00D4FF&\fscx110\fscy110}DESGLOSA{\r} EN LO
+Dialogue: 0,0:03:23.90,0:03:24.22,P,,0,0,0,,NO DESGLOSA {\c&H00D4FF&\fscx110\fscy110}EN{\r} LO
+Dialogue: 0,0:03:24.22,0:03:24.32,P,,0,0,0,,NO DESGLOSA EN {\c&H00D4FF&\fscx110\fscy110}LO{\r}
+Dialogue: 0,0:03:24.32,0:03:24.44,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}QUE{\r} HEMOS PODIDO CONSULTAR
+Dialogue: 0,0:03:24.44,0:03:24.58,P,,0,0,0,,QUE {\c&H00D4FF&\fscx110\fscy110}HEMOS{\r} PODIDO CONSULTAR
+Dialogue: 0,0:03:24.58,0:03:24.94,P,,0,0,0,,QUE HEMOS {\c&H00D4FF&\fscx110\fscy110}PODIDO{\r} CONSULTAR
+Dialogue: 0,0:03:24.94,0:03:25.88,P,,0,0,0,,QUE HEMOS PODIDO {\c&H00D4FF&\fscx110\fscy110}CONSULTAR{\r}
+Dialogue: 0,0:03:25.88,0:03:26.20,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CUÁNTO{\r} VA A LA
+Dialogue: 0,0:03:26.20,0:03:26.36,P,,0,0,0,,CUÁNTO {\c&H00D4FF&\fscx110\fscy110}VA{\r} A LA
+Dialogue: 0,0:03:26.36,0:03:26.50,P,,0,0,0,,CUÁNTO VA {\c&H00D4FF&\fscx110\fscy110}A{\r} LA
+Dialogue: 0,0:03:26.50,0:03:26.56,P,,0,0,0,,CUÁNTO VA A {\c&H00D4FF&\fscx110\fscy110}LA{\r}
+Dialogue: 0,0:03:26.56,0:03:26.76,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}RED{\r} DE VENTAS Y
+Dialogue: 0,0:03:26.76,0:03:26.90,P,,0,0,0,,RED {\c&H00D4FF&\fscx110\fscy110}DE{\r} VENTAS Y
+Dialogue: 0,0:03:26.90,0:03:27.24,P,,0,0,0,,RED DE {\c&H00D4FF&\fscx110\fscy110}VENTAS{\r} Y
+Dialogue: 0,0:03:27.24,0:03:27.36,P,,0,0,0,,RED DE VENTAS {\c&H00D4FF&\fscx110\fscy110}Y{\r}
+Dialogue: 0,0:03:27.36,0:03:27.64,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CUÁNTO{\r} AL ESTADO EN
+Dialogue: 0,0:03:27.64,0:03:27.74,P,,0,0,0,,CUÁNTO {\c&H00D4FF&\fscx110\fscy110}AL{\r} ESTADO EN
+Dialogue: 0,0:03:27.74,0:03:28.00,P,,0,0,0,,CUÁNTO AL {\c&H00D4FF&\fscx110\fscy110}ESTADO{\r} EN
+Dialogue: 0,0:03:28.00,0:03:28.18,P,,0,0,0,,CUÁNTO AL ESTADO {\c&H00D4FF&\fscx110\fscy110}EN{\r}
+Dialogue: 0,0:03:28.18,0:03:28.32,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ESTE{\r} SORTEO,
+Dialogue: 0,0:03:28.32,0:03:29.08,P,,0,0,0,,ESTE {\c&H00D4FF&\fscx110\fscy110}SORTEO,{\r}
+Dialogue: 0,0:03:29.08,0:03:29.30,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ASÍ{\r} QUE NO LO
+Dialogue: 0,0:03:29.30,0:03:29.50,P,,0,0,0,,ASÍ {\c&H00D4FF&\fscx110\fscy110}QUE{\r} NO LO
+Dialogue: 0,0:03:29.50,0:03:29.62,P,,0,0,0,,ASÍ QUE {\c&H00D4FF&\fscx110\fscy110}NO{\r} LO
+Dialogue: 0,0:03:29.62,0:03:29.74,P,,0,0,0,,ASÍ QUE NO {\c&H00D4FF&\fscx110\fscy110}LO{\r}
+Dialogue: 0,0:03:29.74,0:03:30.72,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DECIMOS.{\r}
+Dialogue: 0,0:03:30.72,0:03:30.96,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LO{\r} QUE SÍ ES
+Dialogue: 0,0:03:30.96,0:03:31.10,P,,0,0,0,,LO {\c&H00D4FF&\fscx110\fscy110}QUE{\r} SÍ ES
+Dialogue: 0,0:03:31.10,0:03:31.26,P,,0,0,0,,LO QUE {\c&H00D4FF&\fscx110\fscy110}SÍ{\r} ES
+Dialogue: 0,0:03:31.26,0:03:31.44,P,,0,0,0,,LO QUE SÍ {\c&H00D4FF&\fscx110\fscy110}ES{\r}
+Dialogue: 0,0:03:31.44,0:03:31.68,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}PÚBLICO{\r} ES LO QUE
+Dialogue: 0,0:03:31.68,0:03:31.96,P,,0,0,0,,PÚBLICO {\c&H00D4FF&\fscx110\fscy110}ES{\r} LO QUE
+Dialogue: 0,0:03:31.96,0:03:32.10,P,,0,0,0,,PÚBLICO ES {\c&H00D4FF&\fscx110\fscy110}LO{\r} QUE
+Dialogue: 0,0:03:32.10,0:03:32.20,P,,0,0,0,,PÚBLICO ES LO {\c&H00D4FF&\fscx110\fscy110}QUE{\r}
+Dialogue: 0,0:03:32.20,0:03:32.42,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}GANA{\r} LA EMPRESA EN
+Dialogue: 0,0:03:32.42,0:03:32.56,P,,0,0,0,,GANA {\c&H00D4FF&\fscx110\fscy110}LA{\r} EMPRESA EN
+Dialogue: 0,0:03:32.56,0:03:32.88,P,,0,0,0,,GANA LA {\c&H00D4FF&\fscx110\fscy110}EMPRESA{\r} EN
+Dialogue: 0,0:03:32.88,0:03:33.04,P,,0,0,0,,GANA LA EMPRESA {\c&H00D4FF&\fscx110\fscy110}EN{\r}
+Dialogue: 0,0:03:33.04,0:03:34.02,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CONJUNTO.{\r}
+Dialogue: 0,0:03:34.02,0:03:34.14,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EN{\r} DOS MIL VEINTICUATRO,
+Dialogue: 0,0:03:34.14,0:03:34.39,P,,0,0,0,,EN {\c&H00D4FF&\fscx110\fscy110}DOS{\r} MIL VEINTICUATRO,
+Dialogue: 0,0:03:34.39,0:03:34.65,P,,0,0,0,,EN DOS {\c&H00D4FF&\fscx110\fscy110}MIL{\r} VEINTICUATRO,
+Dialogue: 0,0:03:34.65,0:03:35.16,P,,0,0,0,,EN DOS MIL {\c&H00D4FF&\fscx110\fscy110}VEINTICUATRO,{\r}
+Dialogue: 0,0:03:35.16,0:03:35.32,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SEGÚN{\r} SUS CUENTAS,
+Dialogue: 0,0:03:35.32,0:03:35.54,P,,0,0,0,,SEGÚN {\c&H00D4FF&\fscx110\fscy110}SUS{\r} CUENTAS,
+Dialogue: 0,0:03:35.54,0:03:36.32,P,,0,0,0,,SEGÚN SUS {\c&H00D4FF&\fscx110\fscy110}CUENTAS,{\r}
+Dialogue: 0,0:03:36.32,0:03:36.68,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}VENDIÓ{\r} DIEZ MIL TRESCIENTOS
+Dialogue: 0,0:03:36.68,0:03:36.95,P,,0,0,0,,VENDIÓ {\c&H00D4FF&\fscx110\fscy110}DIEZ{\r} MIL TRESCIENTOS
+Dialogue: 0,0:03:36.95,0:03:37.21,P,,0,0,0,,VENDIÓ DIEZ {\c&H00D4FF&\fscx110\fscy110}MIL{\r} TRESCIENTOS
+Dialogue: 0,0:03:37.21,0:03:37.48,P,,0,0,0,,VENDIÓ DIEZ MIL {\c&H00D4FF&\fscx110\fscy110}TRESCIENTOS{\r}
+Dialogue: 0,0:03:37.48,0:03:37.74,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}NOVENTA{\r} Y SEIS MILLONES
+Dialogue: 0,0:03:37.74,0:03:38.01,P,,0,0,0,,NOVENTA {\c&H00D4FF&\fscx110\fscy110}Y{\r} SEIS MILLONES
+Dialogue: 0,0:03:38.01,0:03:38.54,P,,0,0,0,,NOVENTA Y {\c&H00D4FF&\fscx110\fscy110}SEIS{\r} MILLONES
+Dialogue: 0,0:03:38.54,0:03:38.84,P,,0,0,0,,NOVENTA Y SEIS {\c&H00D4FF&\fscx110\fscy110}MILLONES{\r}
+Dialogue: 0,0:03:38.84,0:03:39.16,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DE{\r} EUROS ENTRE TODOS
+Dialogue: 0,0:03:39.16,0:03:39.34,P,,0,0,0,,DE {\c&H00D4FF&\fscx110\fscy110}EUROS{\r} ENTRE TODOS
+Dialogue: 0,0:03:39.34,0:03:39.64,P,,0,0,0,,DE EUROS {\c&H00D4FF&\fscx110\fscy110}ENTRE{\r} TODOS
+Dialogue: 0,0:03:39.64,0:03:39.88,P,,0,0,0,,DE EUROS ENTRE {\c&H00D4FF&\fscx110\fscy110}TODOS{\r}
+Dialogue: 0,0:03:39.88,0:03:40.10,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SUS{\r} JUEGOS Y GANÓ
+Dialogue: 0,0:03:40.10,0:03:40.36,P,,0,0,0,,SUS {\c&H00D4FF&\fscx110\fscy110}JUEGOS{\r} Y GANÓ
+Dialogue: 0,0:03:40.36,0:03:40.90,P,,0,0,0,,SUS JUEGOS {\c&H00D4FF&\fscx110\fscy110}Y{\r} GANÓ
+Dialogue: 0,0:03:40.90,0:03:41.22,P,,0,0,0,,SUS JUEGOS Y {\c&H00D4FF&\fscx110\fscy110}GANÓ{\r}
+Dialogue: 0,0:03:41.22,0:03:41.47,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DOS{\r} MIL CUATROCIENTOS TREINTA
+Dialogue: 0,0:03:41.47,0:03:41.71,P,,0,0,0,,DOS {\c&H00D4FF&\fscx110\fscy110}MIL{\r} CUATROCIENTOS TREINTA
+Dialogue: 0,0:03:41.71,0:03:41.96,P,,0,0,0,,DOS MIL {\c&H00D4FF&\fscx110\fscy110}CUATROCIENTOS{\r} TREINTA
+Dialogue: 0,0:03:41.96,0:03:42.20,P,,0,0,0,,DOS MIL CUATROCIENTOS {\c&H00D4FF&\fscx110\fscy110}TREINTA{\r}
+Dialogue: 0,0:03:42.20,0:03:42.45,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} SIETE MILLONES.
+Dialogue: 0,0:03:42.45,0:03:42.94,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}SIETE{\r} MILLONES.
+Dialogue: 0,0:03:42.94,0:03:43.82,P,,0,0,0,,Y SIETE {\c&H00D4FF&\fscx110\fscy110}MILLONES.{\r}
+Dialogue: 0,0:03:43.82,0:03:44.02,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}UN{\r} VEINTITRÉS POR CIENTO.
+Dialogue: 0,0:03:44.02,0:03:44.34,P,,0,0,0,,UN {\c&H00D4FF&\fscx110\fscy110}VEINTITRÉS{\r} POR CIENTO.
+Dialogue: 0,0:03:44.34,0:03:44.65,P,,0,0,0,,UN VEINTITRÉS {\c&H00D4FF&\fscx110\fscy110}POR{\r} CIENTO.
+Dialogue: 0,0:03:44.65,0:03:45.28,P,,0,0,0,,UN VEINTITRÉS POR {\c&H00D4FF&\fscx110\fscy110}CIENTO.{\r}
+Dialogue: 0,0:03:45.28,0:03:45.90,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}PAGÓ{\r} OCHOCIENTOS DOCE MILLONES
+Dialogue: 0,0:03:45.90,0:03:46.15,P,,0,0,0,,PAGÓ {\c&H00D4FF&\fscx110\fscy110}OCHOCIENTOS{\r} DOCE MILLONES
+Dialogue: 0,0:03:46.15,0:03:46.66,P,,0,0,0,,PAGÓ OCHOCIENTOS {\c&H00D4FF&\fscx110\fscy110}DOCE{\r} MILLONES
+Dialogue: 0,0:03:46.66,0:03:47.16,P,,0,0,0,,PAGÓ OCHOCIENTOS DOCE {\c&H00D4FF&\fscx110\fscy110}MILLONES{\r}
+Dialogue: 0,0:03:47.16,0:03:47.44,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DE{\r} IMPUESTO DE SOCIEDADES.
+Dialogue: 0,0:03:47.44,0:03:47.78,P,,0,0,0,,DE {\c&H00D4FF&\fscx110\fscy110}IMPUESTO{\r} DE SOCIEDADES.
+Dialogue: 0,0:03:47.78,0:03:47.94,P,,0,0,0,,DE IMPUESTO {\c&H00D4FF&\fscx110\fscy110}DE{\r} SOCIEDADES.
+Dialogue: 0,0:03:47.94,0:03:48.82,P,,0,0,0,,DE IMPUESTO DE {\c&H00D4FF&\fscx110\fscy110}SOCIEDADES.{\r}
+Dialogue: 0,0:03:48.82,0:03:49.04,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ES{\r} EL NEGOCIO ENTERO,
+Dialogue: 0,0:03:49.04,0:03:49.18,P,,0,0,0,,ES {\c&H00D4FF&\fscx110\fscy110}EL{\r} NEGOCIO ENTERO,
+Dialogue: 0,0:03:49.18,0:03:49.52,P,,0,0,0,,ES EL {\c&H00D4FF&\fscx110\fscy110}NEGOCIO{\r} ENTERO,
+Dialogue: 0,0:03:49.52,0:03:50.12,P,,0,0,0,,ES EL NEGOCIO {\c&H00D4FF&\fscx110\fscy110}ENTERO,{\r}
+Dialogue: 0,0:03:50.12,0:03:50.22,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}NO{\r} SOLO NAVIDAD.
+Dialogue: 0,0:03:50.22,0:03:50.42,P,,0,0,0,,NO {\c&H00D4FF&\fscx110\fscy110}SOLO{\r} NAVIDAD.
+Dialogue: 0,0:03:50.42,0:03:51.38,P,,0,0,0,,NO SOLO {\c&H00D4FF&\fscx110\fscy110}NAVIDAD.{\r}
+Dialogue: 0,0:03:51.38,0:03:51.62,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LA{\r} SEGUNDA PREGUNTA:
+Dialogue: 0,0:03:51.62,0:03:51.92,P,,0,0,0,,LA {\c&H00D4FF&\fscx110\fscy110}SEGUNDA{\r} PREGUNTA:
+Dialogue: 0,0:03:51.92,0:03:52.82,P,,0,0,0,,LA SEGUNDA {\c&H00D4FF&\fscx110\fscy110}PREGUNTA:{\r}
+Dialogue: 0,0:03:52.82,0:03:53.68,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ENTONCES,{\r}
+Dialogue: 0,0:03:53.68,0:03:53.82,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}¿QUIÉN{\r} GANA SIEMPRE?
+Dialogue: 0,0:03:53.82,0:03:54.06,P,,0,0,0,,¿QUIÉN {\c&H00D4FF&\fscx110\fscy110}GANA{\r} SIEMPRE?
+Dialogue: 0,0:03:54.06,0:03:55.00,P,,0,0,0,,¿QUIÉN GANA {\c&H00D4FF&\fscx110\fscy110}SIEMPRE?{\r}
+Dialogue: 0,0:03:55.00,0:03:55.14,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CON{\r} LOS NÚMEROS EN
+Dialogue: 0,0:03:55.14,0:03:55.32,P,,0,0,0,,CON {\c&H00D4FF&\fscx110\fscy110}LOS{\r} NÚMEROS EN
+Dialogue: 0,0:03:55.32,0:03:55.58,P,,0,0,0,,CON LOS {\c&H00D4FF&\fscx110\fscy110}NÚMEROS{\r} EN
+Dialogue: 0,0:03:55.58,0:03:55.78,P,,0,0,0,,CON LOS NÚMEROS {\c&H00D4FF&\fscx110\fscy110}EN{\r}
+Dialogue: 0,0:03:55.78,0:03:55.88,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LA{\r} MANO:
+Dialogue: 0,0:03:55.88,0:03:56.38,P,,0,0,0,,LA {\c&H00D4FF&\fscx110\fscy110}MANO:{\r}
+Dialogue: 0,0:03:56.38,0:03:56.58,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}NO{\r} GANA SIEMPRE EL
+Dialogue: 0,0:03:56.58,0:03:56.78,P,,0,0,0,,NO {\c&H00D4FF&\fscx110\fscy110}GANA{\r} SIEMPRE EL
+Dialogue: 0,0:03:56.78,0:03:57.10,P,,0,0,0,,NO GANA {\c&H00D4FF&\fscx110\fscy110}SIEMPRE{\r} EL
+Dialogue: 0,0:03:57.10,0:03:57.26,P,,0,0,0,,NO GANA SIEMPRE {\c&H00D4FF&\fscx110\fscy110}EL{\r}
+Dialogue: 0,0:03:57.26,0:03:57.90,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MISMO.{\r}
+Dialogue: 0,0:03:57.90,0:03:58.16,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}PERO{\r} LA ESTRUCTURA SÍ
+Dialogue: 0,0:03:58.16,0:03:58.28,P,,0,0,0,,PERO {\c&H00D4FF&\fscx110\fscy110}LA{\r} ESTRUCTURA SÍ
+Dialogue: 0,0:03:58.28,0:03:58.80,P,,0,0,0,,PERO LA {\c&H00D4FF&\fscx110\fscy110}ESTRUCTURA{\r} SÍ
+Dialogue: 0,0:03:58.80,0:03:59.02,P,,0,0,0,,PERO LA ESTRUCTURA {\c&H00D4FF&\fscx110\fscy110}SÍ{\r}
+Dialogue: 0,0:03:59.02,0:03:59.24,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ESTÁ{\r} CLARA.
+Dialogue: 0,0:03:59.24,0:03:59.96,P,,0,0,0,,ESTÁ {\c&H00D4FF&\fscx110\fscy110}CLARA.{\r}
+Dialogue: 0,0:03:59.96,0:04:00.14,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DE{\r} CADA VEINTE EUROS,
+Dialogue: 0,0:04:00.14,0:04:00.32,P,,0,0,0,,DE {\c&H00D4FF&\fscx110\fscy110}CADA{\r} VEINTE EUROS,
+Dialogue: 0,0:04:00.32,0:04:00.62,P,,0,0,0,,DE CADA {\c&H00D4FF&\fscx110\fscy110}VEINTE{\r} EUROS,
+Dialogue: 0,0:04:00.62,0:04:00.94,P,,0,0,0,,DE CADA VEINTE {\c&H00D4FF&\fscx110\fscy110}EUROS,{\r}
+Dialogue: 0,0:04:00.94,0:04:01.60,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CATORCE{\r} VAN A PREMIOS
+Dialogue: 0,0:04:01.60,0:04:01.90,P,,0,0,0,,CATORCE {\c&H00D4FF&\fscx110\fscy110}VAN{\r} A PREMIOS
+Dialogue: 0,0:04:01.90,0:04:02.00,P,,0,0,0,,CATORCE VAN {\c&H00D4FF&\fscx110\fscy110}A{\r} PREMIOS
+Dialogue: 0,0:04:02.00,0:04:02.40,P,,0,0,0,,CATORCE VAN A {\c&H00D4FF&\fscx110\fscy110}PREMIOS{\r}
+Dialogue: 0,0:04:02.40,0:04:02.76,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} SEIS NO.
+Dialogue: 0,0:04:02.76,0:04:02.96,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}SEIS{\r} NO.
+Dialogue: 0,0:04:02.96,0:04:03.74,P,,0,0,0,,Y SEIS {\c&H00D4FF&\fscx110\fscy110}NO.{\r}
+Dialogue: 0,0:04:03.74,0:04:03.96,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}UN{\r} DÉCIMO,
+Dialogue: 0,0:04:03.96,0:04:04.56,P,,0,0,0,,UN {\c&H00D4FF&\fscx110\fscy110}DÉCIMO,{\r}
+Dialogue: 0,0:04:04.56,0:04:04.68,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DE{\r} MEDIA,
+Dialogue: 0,0:04:04.68,0:04:05.40,P,,0,0,0,,DE {\c&H00D4FF&\fscx110\fscy110}MEDIA,{\r}
+Dialogue: 0,0:04:05.40,0:04:05.82,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DEVUELVE{\r} MENOS DE LO
+Dialogue: 0,0:04:05.82,0:04:06.06,P,,0,0,0,,DEVUELVE {\c&H00D4FF&\fscx110\fscy110}MENOS{\r} DE LO
+Dialogue: 0,0:04:06.06,0:04:06.24,P,,0,0,0,,DEVUELVE MENOS {\c&H00D4FF&\fscx110\fscy110}DE{\r} LO
+Dialogue: 0,0:04:06.24,0:04:06.32,P,,0,0,0,,DEVUELVE MENOS DE {\c&H00D4FF&\fscx110\fscy110}LO{\r}
+Dialogue: 0,0:04:06.32,0:04:06.44,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}QUE{\r} CUESTA.
+Dialogue: 0,0:04:06.44,0:04:07.26,P,,0,0,0,,QUE {\c&H00D4FF&\fscx110\fscy110}CUESTA.{\r}
+Dialogue: 0,0:04:07.26,0:04:07.46,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} A QUIEN TOCA
+Dialogue: 0,0:04:07.46,0:04:07.56,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}A{\r} QUIEN TOCA
+Dialogue: 0,0:04:07.56,0:04:07.64,P,,0,0,0,,Y A {\c&H00D4FF&\fscx110\fscy110}QUIEN{\r} TOCA
+Dialogue: 0,0:04:07.64,0:04:07.88,P,,0,0,0,,Y A QUIEN {\c&H00D4FF&\fscx110\fscy110}TOCA{\r}
+Dialogue: 0,0:04:07.88,0:04:08.08,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}UN{\r} PREMIO GRANDE,
+Dialogue: 0,0:04:08.08,0:04:08.38,P,,0,0,0,,UN {\c&H00D4FF&\fscx110\fscy110}PREMIO{\r} GRANDE,
+Dialogue: 0,0:04:08.38,0:04:08.64,P,,0,0,0,,UN PREMIO {\c&H00D4FF&\fscx110\fscy110}GRANDE,{\r}
+Dialogue: 0,0:04:08.64,0:04:09.06,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ADEMÁS,{\r}
+Dialogue: 0,0:04:09.06,0:04:09.30,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}HACIENDA{\r} LE RETIENE UNA
+Dialogue: 0,0:04:09.30,0:04:09.78,P,,0,0,0,,HACIENDA {\c&H00D4FF&\fscx110\fscy110}LE{\r} RETIENE UNA
+Dialogue: 0,0:04:09.78,0:04:10.16,P,,0,0,0,,HACIENDA LE {\c&H00D4FF&\fscx110\fscy110}RETIENE{\r} UNA
+Dialogue: 0,0:04:10.16,0:04:10.30,P,,0,0,0,,HACIENDA LE RETIENE {\c&H00D4FF&\fscx110\fscy110}UNA{\r}
+Dialogue: 0,0:04:10.30,0:04:11.16,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}PARTE.{\r}
+Dialogue: 0,0:04:11.16,0:04:11.36,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ESO{\r} NO SIGNIFICA QUE
+Dialogue: 0,0:04:11.36,0:04:11.54,P,,0,0,0,,ESO {\c&H00D4FF&\fscx110\fscy110}NO{\r} SIGNIFICA QUE
+Dialogue: 0,0:04:11.54,0:04:12.00,P,,0,0,0,,ESO NO {\c&H00D4FF&\fscx110\fscy110}SIGNIFICA{\r} QUE
+Dialogue: 0,0:04:12.00,0:04:12.22,P,,0,0,0,,ESO NO SIGNIFICA {\c&H00D4FF&\fscx110\fscy110}QUE{\r}
+Dialogue: 0,0:04:12.22,0:04:12.42,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}JUGAR{\r} SEA UNA MALA
+Dialogue: 0,0:04:12.42,0:04:12.82,P,,0,0,0,,JUGAR {\c&H00D4FF&\fscx110\fscy110}SEA{\r} UNA MALA
+Dialogue: 0,0:04:12.82,0:04:12.94,P,,0,0,0,,JUGAR SEA {\c&H00D4FF&\fscx110\fscy110}UNA{\r} MALA
+Dialogue: 0,0:04:12.94,0:04:13.12,P,,0,0,0,,JUGAR SEA UNA {\c&H00D4FF&\fscx110\fscy110}MALA{\r}
+Dialogue: 0,0:04:13.12,0:04:13.42,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}IDEA{\r} NI UNA BUENA.
+Dialogue: 0,0:04:13.42,0:04:13.62,P,,0,0,0,,IDEA {\c&H00D4FF&\fscx110\fscy110}NI{\r} UNA BUENA.
+Dialogue: 0,0:04:13.62,0:04:13.78,P,,0,0,0,,IDEA NI {\c&H00D4FF&\fscx110\fscy110}UNA{\r} BUENA.
+Dialogue: 0,0:04:13.78,0:04:14.70,P,,0,0,0,,IDEA NI UNA {\c&H00D4FF&\fscx110\fscy110}BUENA.{\r}
+Dialogue: 0,0:04:14.70,0:04:15.20,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SIGNIFICA{\r} QUE ES UN
+Dialogue: 0,0:04:15.20,0:04:15.36,P,,0,0,0,,SIGNIFICA {\c&H00D4FF&\fscx110\fscy110}QUE{\r} ES UN
+Dialogue: 0,0:04:15.36,0:04:15.50,P,,0,0,0,,SIGNIFICA QUE {\c&H00D4FF&\fscx110\fscy110}ES{\r} UN
+Dialogue: 0,0:04:15.50,0:04:15.62,P,,0,0,0,,SIGNIFICA QUE ES {\c&H00D4FF&\fscx110\fscy110}UN{\r}
+Dialogue: 0,0:04:15.62,0:04:15.82,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}JUEGO{\r} DE AZAR CON
+Dialogue: 0,0:04:15.82,0:04:16.00,P,,0,0,0,,JUEGO {\c&H00D4FF&\fscx110\fscy110}DE{\r} AZAR CON
+Dialogue: 0,0:04:16.00,0:04:16.24,P,,0,0,0,,JUEGO DE {\c&H00D4FF&\fscx110\fscy110}AZAR{\r} CON
+Dialogue: 0,0:04:16.24,0:04:16.42,P,,0,0,0,,JUEGO DE AZAR {\c&H00D4FF&\fscx110\fscy110}CON{\r}
+Dialogue: 0,0:04:16.42,0:04:16.56,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}UN{\r} PRECIO Y UN
+Dialogue: 0,0:04:16.56,0:04:16.84,P,,0,0,0,,UN {\c&H00D4FF&\fscx110\fscy110}PRECIO{\r} Y UN
+Dialogue: 0,0:04:16.84,0:04:17.08,P,,0,0,0,,UN PRECIO {\c&H00D4FF&\fscx110\fscy110}Y{\r} UN
+Dialogue: 0,0:04:17.08,0:04:17.18,P,,0,0,0,,UN PRECIO Y {\c&H00D4FF&\fscx110\fscy110}UN{\r}
+Dialogue: 0,0:04:17.18,0:04:17.48,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}REPARTO{\r} CONOCIDOS,
+Dialogue: 0,0:04:17.48,0:04:18.40,P,,0,0,0,,REPARTO {\c&H00D4FF&\fscx110\fscy110}CONOCIDOS,{\r}
+Dialogue: 0,0:04:18.40,0:04:18.60,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} QUE EL DÉCIMO
+Dialogue: 0,0:04:18.60,0:04:18.72,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}QUE{\r} EL DÉCIMO
+Dialogue: 0,0:04:18.72,0:04:18.86,P,,0,0,0,,Y QUE {\c&H00D4FF&\fscx110\fscy110}EL{\r} DÉCIMO
+Dialogue: 0,0:04:18.86,0:04:19.14,P,,0,0,0,,Y QUE EL {\c&H00D4FF&\fscx110\fscy110}DÉCIMO{\r}
+Dialogue: 0,0:04:19.14,0:04:19.26,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DE{\r} NAVIDAD SE COMPRA,
+Dialogue: 0,0:04:19.26,0:04:19.60,P,,0,0,0,,DE {\c&H00D4FF&\fscx110\fscy110}NAVIDAD{\r} SE COMPRA,
+Dialogue: 0,0:04:19.60,0:04:19.82,P,,0,0,0,,DE NAVIDAD {\c&H00D4FF&\fscx110\fscy110}SE{\r} COMPRA,
+Dialogue: 0,0:04:19.82,0:04:20.10,P,,0,0,0,,DE NAVIDAD SE {\c&H00D4FF&\fscx110\fscy110}COMPRA,{\r}
+Dialogue: 0,0:04:20.10,0:04:20.32,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}PARA{\r} MUCHA GENTE,
+Dialogue: 0,0:04:20.32,0:04:20.54,P,,0,0,0,,PARA {\c&H00D4FF&\fscx110\fscy110}MUCHA{\r} GENTE,
+Dialogue: 0,0:04:20.54,0:04:20.90,P,,0,0,0,,PARA MUCHA {\c&H00D4FF&\fscx110\fscy110}GENTE,{\r}
+Dialogue: 0,0:04:20.90,0:04:21.12,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}POR{\r} OTRA RAZÓN:
+Dialogue: 0,0:04:21.12,0:04:21.32,P,,0,0,0,,POR {\c&H00D4FF&\fscx110\fscy110}OTRA{\r} RAZÓN:
+Dialogue: 0,0:04:21.32,0:04:22.10,P,,0,0,0,,POR OTRA {\c&H00D4FF&\fscx110\fscy110}RAZÓN:{\r}
+Dialogue: 0,0:04:22.10,0:04:22.28,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LA{\r} ILUSIÓN,
+Dialogue: 0,0:04:22.28,0:04:23.04,P,,0,0,0,,LA {\c&H00D4FF&\fscx110\fscy110}ILUSIÓN,{\r}
+Dialogue: 0,0:04:23.04,0:04:23.10,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LA{\r} TRADICIÓN,
+Dialogue: 0,0:04:23.10,0:04:23.90,P,,0,0,0,,LA {\c&H00D4FF&\fscx110\fscy110}TRADICIÓN,{\r}
+Dialogue: 0,0:04:23.90,0:04:24.46,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}COMPARTIRLO{\r} CON QUIEN QUIERES.
+Dialogue: 0,0:04:24.46,0:04:24.62,P,,0,0,0,,COMPARTIRLO {\c&H00D4FF&\fscx110\fscy110}CON{\r} QUIEN QUIERES.
+Dialogue: 0,0:04:24.62,0:04:24.74,P,,0,0,0,,COMPARTIRLO CON {\c&H00D4FF&\fscx110\fscy110}QUIEN{\r} QUIERES.
+Dialogue: 0,0:04:24.74,0:04:25.86,P,,0,0,0,,COMPARTIRLO CON QUIEN {\c&H00D4FF&\fscx110\fscy110}QUIERES.{\r}
+Dialogue: 0,0:04:25.86,0:04:26.12,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ASÍ{\r} QUE,
+Dialogue: 0,0:04:26.12,0:04:26.32,P,,0,0,0,,ASÍ {\c&H00D4FF&\fscx110\fscy110}QUE,{\r}
+Dialogue: 0,0:04:26.32,0:04:26.46,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LA{\r} PRÓXIMA VEZ QUE
+Dialogue: 0,0:04:26.46,0:04:26.72,P,,0,0,0,,LA {\c&H00D4FF&\fscx110\fscy110}PRÓXIMA{\r} VEZ QUE
+Dialogue: 0,0:04:26.72,0:04:27.06,P,,0,0,0,,LA PRÓXIMA {\c&H00D4FF&\fscx110\fscy110}VEZ{\r} QUE
+Dialogue: 0,0:04:27.06,0:04:27.24,P,,0,0,0,,LA PRÓXIMA VEZ {\c&H00D4FF&\fscx110\fscy110}QUE{\r}
+Dialogue: 0,0:04:27.24,0:04:27.50,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MIRES{\r} TU DÉCIMO,
+Dialogue: 0,0:04:27.50,0:04:27.64,P,,0,0,0,,MIRES {\c&H00D4FF&\fscx110\fscy110}TU{\r} DÉCIMO,
+Dialogue: 0,0:04:27.64,0:04:28.00,P,,0,0,0,,MIRES TU {\c&H00D4FF&\fscx110\fscy110}DÉCIMO,{\r}
+Dialogue: 0,0:04:28.00,0:04:28.64,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}PIENSA{\r} EN SU VIAJE.
+Dialogue: 0,0:04:28.64,0:04:28.76,P,,0,0,0,,PIENSA {\c&H00D4FF&\fscx110\fscy110}EN{\r} SU VIAJE.
+Dialogue: 0,0:04:28.76,0:04:28.90,P,,0,0,0,,PIENSA EN {\c&H00D4FF&\fscx110\fscy110}SU{\r} VIAJE.
+Dialogue: 0,0:04:28.90,0:04:29.14,P,,0,0,0,,PIENSA EN SU {\c&H00D4FF&\fscx110\fscy110}VIAJE.{\r}
+Dialogue: 0,0:04:29.14,0:04:30.00,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}VEINTE{\r} EUROS.
+Dialogue: 0,0:04:30.00,0:04:30.32,P,,0,0,0,,VEINTE {\c&H00D4FF&\fscx110\fscy110}EUROS.{\r}
+Dialogue: 0,0:04:30.32,0:04:31.18,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CATORCE,{\r}
+Dialogue: 0,0:04:31.18,0:04:31.42,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DE{\r} MEDIA,
+Dialogue: 0,0:04:31.42,0:04:31.72,P,,0,0,0,,DE {\c&H00D4FF&\fscx110\fscy110}MEDIA,{\r}
+Dialogue: 0,0:04:31.72,0:04:32.18,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}VUELVEN{\r} EN PREMIOS.
+Dialogue: 0,0:04:32.18,0:04:32.32,P,,0,0,0,,VUELVEN {\c&H00D4FF&\fscx110\fscy110}EN{\r} PREMIOS.
+Dialogue: 0,0:04:32.32,0:04:33.06,P,,0,0,0,,VUELVEN EN {\c&H00D4FF&\fscx110\fscy110}PREMIOS.{\r}
+Dialogue: 0,0:04:33.06,0:04:33.20,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} SI UN DÍA
+Dialogue: 0,0:04:33.20,0:04:33.30,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}SI{\r} UN DÍA
+Dialogue: 0,0:04:33.30,0:04:33.42,P,,0,0,0,,Y SI {\c&H00D4FF&\fscx110\fscy110}UN{\r} DÍA
+Dialogue: 0,0:04:33.42,0:04:33.58,P,,0,0,0,,Y SI UN {\c&H00D4FF&\fscx110\fscy110}DÍA{\r}
+Dialogue: 0,0:04:33.58,0:04:33.72,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}TE{\r} TOCA ALGO GRANDE,
+Dialogue: 0,0:04:33.72,0:04:33.92,P,,0,0,0,,TE {\c&H00D4FF&\fscx110\fscy110}TOCA{\r} ALGO GRANDE,
+Dialogue: 0,0:04:33.92,0:04:34.16,P,,0,0,0,,TE TOCA {\c&H00D4FF&\fscx110\fscy110}ALGO{\r} GRANDE,
+Dialogue: 0,0:04:34.16,0:04:34.48,P,,0,0,0,,TE TOCA ALGO {\c&H00D4FF&\fscx110\fscy110}GRANDE,{\r}
+Dialogue: 0,0:04:34.48,0:04:35.26,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}HACIENDA{\r} RETIENE SU PARTE.
+Dialogue: 0,0:04:35.26,0:04:35.60,P,,0,0,0,,HACIENDA {\c&H00D4FF&\fscx110\fscy110}RETIENE{\r} SU PARTE.
+Dialogue: 0,0:04:35.60,0:04:35.74,P,,0,0,0,,HACIENDA RETIENE {\c&H00D4FF&\fscx110\fscy110}SU{\r} PARTE.
+Dialogue: 0,0:04:35.74,0:04:36.56,P,,0,0,0,,HACIENDA RETIENE SU {\c&H00D4FF&\fscx110\fscy110}PARTE.{\r}
+Dialogue: 0,0:04:36.56,0:04:36.78,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CADA{\r} SEMANA ABRIMOS EL
+Dialogue: 0,0:04:36.78,0:04:37.12,P,,0,0,0,,CADA {\c&H00D4FF&\fscx110\fscy110}SEMANA{\r} ABRIMOS EL
+Dialogue: 0,0:04:37.12,0:04:37.64,P,,0,0,0,,CADA SEMANA {\c&H00D4FF&\fscx110\fscy110}ABRIMOS{\r} EL
+Dialogue: 0,0:04:37.64,0:04:37.74,P,,0,0,0,,CADA SEMANA ABRIMOS {\c&H00D4FF&\fscx110\fscy110}EL{\r}
+Dialogue: 0,0:04:37.74,0:04:38.00,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}TICKET{\r} DE ALGO QUE
+Dialogue: 0,0:04:38.00,0:04:38.20,P,,0,0,0,,TICKET {\c&H00D4FF&\fscx110\fscy110}DE{\r} ALGO QUE
+Dialogue: 0,0:04:38.20,0:04:38.38,P,,0,0,0,,TICKET DE {\c&H00D4FF&\fscx110\fscy110}ALGO{\r} QUE
+Dialogue: 0,0:04:38.38,0:04:38.54,P,,0,0,0,,TICKET DE ALGO {\c&H00D4FF&\fscx110\fscy110}QUE{\r}
+Dialogue: 0,0:04:38.54,0:04:38.88,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}PAGAS{\r} TODOS LOS DÍAS.
+Dialogue: 0,0:04:38.88,0:04:39.02,P,,0,0,0,,PAGAS {\c&H00D4FF&\fscx110\fscy110}TODOS{\r} LOS DÍAS.
+Dialogue: 0,0:04:39.02,0:04:39.28,P,,0,0,0,,PAGAS TODOS {\c&H00D4FF&\fscx110\fscy110}LOS{\r} DÍAS.
+Dialogue: 0,0:04:39.28,0:04:39.90,P,,0,0,0,,PAGAS TODOS LOS {\c&H00D4FF&\fscx110\fscy110}DÍAS.{\r}
+Dialogue: 0,0:04:39.90,0:04:40.08,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} EL PRÓXIMO…
+Dialogue: 0,0:04:40.08,0:04:40.20,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}EL{\r} PRÓXIMO…
+Dialogue: 0,0:04:40.20,0:04:40.86,P,,0,0,0,,Y EL {\c&H00D4FF&\fscx110\fscy110}PRÓXIMO…{\r}
+Dialogue: 0,0:04:40.86,0:04:41.00,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}TE{\r} VA A SORPRENDER
+Dialogue: 0,0:04:41.00,0:04:41.16,P,,0,0,0,,TE {\c&H00D4FF&\fscx110\fscy110}VA{\r} A SORPRENDER
+Dialogue: 0,0:04:41.16,0:04:41.22,P,,0,0,0,,TE VA {\c&H00D4FF&\fscx110\fscy110}A{\r} SORPRENDER
+Dialogue: 0,0:04:41.22,0:04:41.74,P,,0,0,0,,TE VA A {\c&H00D4FF&\fscx110\fscy110}SORPRENDER{\r}
+Dialogue: 0,0:04:41.74,0:04:41.96,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}TODAVÍA{\r} MÁS.
+Dialogue: 0,0:04:41.96,0:04:42.68,P,,0,0,0,,TODAVÍA {\c&H00D4FF&\fscx110\fscy110}MÁS.{\r}

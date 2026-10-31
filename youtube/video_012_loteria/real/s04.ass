@@ -1,0 +1,90 @@
+[Script Info]
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: P,Archivo Black,82,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,6,3,2,60,60,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.15,0:00:00.43,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} AHORA,
+Dialogue: 0,0:00:00.43,0:00:01.03,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}AHORA,{\r}
+Dialogue: 0,0:00:01.03,0:00:02.31,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}HACIENDA.{\r}
+Dialogue: 0,0:00:02.31,0:00:02.49,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DESDE{\r} DOS MIL TRECE,
+Dialogue: 0,0:00:02.49,0:00:02.76,P,,0,0,0,,DESDE {\c&H00D4FF&\fscx110\fscy110}DOS{\r} MIL TRECE,
+Dialogue: 0,0:00:02.76,0:00:03.03,P,,0,0,0,,DESDE DOS {\c&H00D4FF&\fscx110\fscy110}MIL{\r} TRECE,
+Dialogue: 0,0:00:03.03,0:00:03.57,P,,0,0,0,,DESDE DOS MIL {\c&H00D4FF&\fscx110\fscy110}TRECE,{\r}
+Dialogue: 0,0:00:03.57,0:00:03.67,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LOS{\r} PREMIOS DE LA
+Dialogue: 0,0:00:03.67,0:00:04.03,P,,0,0,0,,LOS {\c&H00D4FF&\fscx110\fscy110}PREMIOS{\r} DE LA
+Dialogue: 0,0:00:04.03,0:00:04.15,P,,0,0,0,,LOS PREMIOS {\c&H00D4FF&\fscx110\fscy110}DE{\r} LA
+Dialogue: 0,0:00:04.15,0:00:04.23,P,,0,0,0,,LOS PREMIOS DE {\c&H00D4FF&\fscx110\fscy110}LA{\r}
+Dialogue: 0,0:00:04.23,0:00:04.61,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LOTERÍA{\r} DEL ESTADO PAGAN
+Dialogue: 0,0:00:04.61,0:00:04.79,P,,0,0,0,,LOTERÍA {\c&H00D4FF&\fscx110\fscy110}DEL{\r} ESTADO PAGAN
+Dialogue: 0,0:00:04.79,0:00:05.07,P,,0,0,0,,LOTERÍA DEL {\c&H00D4FF&\fscx110\fscy110}ESTADO{\r} PAGAN
+Dialogue: 0,0:00:05.07,0:00:05.43,P,,0,0,0,,LOTERÍA DEL ESTADO {\c&H00D4FF&\fscx110\fscy110}PAGAN{\r}
+Dialogue: 0,0:00:05.43,0:00:06.41,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}IMPUESTOS.{\r}
+Dialogue: 0,0:00:06.41,0:00:06.53,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LEY{\r} DIECISÉIS DE DOS
+Dialogue: 0,0:00:06.53,0:00:06.99,P,,0,0,0,,LEY {\c&H00D4FF&\fscx110\fscy110}DIECISÉIS{\r} DE DOS
+Dialogue: 0,0:00:06.99,0:00:07.21,P,,0,0,0,,LEY DIECISÉIS {\c&H00D4FF&\fscx110\fscy110}DE{\r} DOS
+Dialogue: 0,0:00:07.21,0:00:07.49,P,,0,0,0,,LEY DIECISÉIS DE {\c&H00D4FF&\fscx110\fscy110}DOS{\r}
+Dialogue: 0,0:00:07.49,0:00:07.76,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MIL{\r} DOCE.
+Dialogue: 0,0:00:07.76,0:00:08.31,P,,0,0,0,,MIL {\c&H00D4FF&\fscx110\fscy110}DOCE.{\r}
+Dialogue: 0,0:00:08.31,0:00:08.69,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} HAY UNA PARTE
+Dialogue: 0,0:00:08.69,0:00:08.79,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}HAY{\r} UNA PARTE
+Dialogue: 0,0:00:08.79,0:00:08.95,P,,0,0,0,,Y HAY {\c&H00D4FF&\fscx110\fscy110}UNA{\r} PARTE
+Dialogue: 0,0:00:08.95,0:00:09.21,P,,0,0,0,,Y HAY UNA {\c&H00D4FF&\fscx110\fscy110}PARTE{\r}
+Dialogue: 0,0:00:09.21,0:00:10.23,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EXENTA:{\r}
+Dialogue: 0,0:00:10.23,0:00:10.43,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LOS{\r} PRIMEROS CUARENTA MIL
+Dialogue: 0,0:00:10.43,0:00:10.83,P,,0,0,0,,LOS {\c&H00D4FF&\fscx110\fscy110}PRIMEROS{\r} CUARENTA MIL
+Dialogue: 0,0:00:10.83,0:00:11.00,P,,0,0,0,,LOS PRIMEROS {\c&H00D4FF&\fscx110\fscy110}CUARENTA{\r} MIL
+Dialogue: 0,0:00:11.00,0:00:11.35,P,,0,0,0,,LOS PRIMEROS CUARENTA {\c&H00D4FF&\fscx110\fscy110}MIL{\r}
+Dialogue: 0,0:00:11.35,0:00:11.59,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EUROS{\r} DE CADA DÉCIMO
+Dialogue: 0,0:00:11.59,0:00:11.77,P,,0,0,0,,EUROS {\c&H00D4FF&\fscx110\fscy110}DE{\r} CADA DÉCIMO
+Dialogue: 0,0:00:11.77,0:00:11.93,P,,0,0,0,,EUROS DE {\c&H00D4FF&\fscx110\fscy110}CADA{\r} DÉCIMO
+Dialogue: 0,0:00:11.93,0:00:12.31,P,,0,0,0,,EUROS DE CADA {\c&H00D4FF&\fscx110\fscy110}DÉCIMO{\r}
+Dialogue: 0,0:00:12.31,0:00:12.51,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}NO{\r} PAGAN NADA.
+Dialogue: 0,0:00:12.51,0:00:12.71,P,,0,0,0,,NO {\c&H00D4FF&\fscx110\fscy110}PAGAN{\r} NADA.
+Dialogue: 0,0:00:12.71,0:00:13.67,P,,0,0,0,,NO PAGAN {\c&H00D4FF&\fscx110\fscy110}NADA.{\r}
+Dialogue: 0,0:00:13.67,0:00:13.87,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LO{\r} QUE SUPERA ESA
+Dialogue: 0,0:00:13.87,0:00:13.99,P,,0,0,0,,LO {\c&H00D4FF&\fscx110\fscy110}QUE{\r} SUPERA ESA
+Dialogue: 0,0:00:13.99,0:00:14.33,P,,0,0,0,,LO QUE {\c&H00D4FF&\fscx110\fscy110}SUPERA{\r} ESA
+Dialogue: 0,0:00:14.33,0:00:14.45,P,,0,0,0,,LO QUE SUPERA {\c&H00D4FF&\fscx110\fscy110}ESA{\r}
+Dialogue: 0,0:00:14.45,0:00:14.77,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CIFRA{\r} TIENE UNA RETENCIÓN
+Dialogue: 0,0:00:14.77,0:00:15.01,P,,0,0,0,,CIFRA {\c&H00D4FF&\fscx110\fscy110}TIENE{\r} UNA RETENCIÓN
+Dialogue: 0,0:00:15.01,0:00:15.17,P,,0,0,0,,CIFRA TIENE {\c&H00D4FF&\fscx110\fscy110}UNA{\r} RETENCIÓN
+Dialogue: 0,0:00:15.17,0:00:15.63,P,,0,0,0,,CIFRA TIENE UNA {\c&H00D4FF&\fscx110\fscy110}RETENCIÓN{\r}
+Dialogue: 0,0:00:15.63,0:00:15.79,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DEL{\r} VEINTE POR CIENTO.
+Dialogue: 0,0:00:15.79,0:00:15.96,P,,0,0,0,,DEL {\c&H00D4FF&\fscx110\fscy110}VEINTE{\r} POR CIENTO.
+Dialogue: 0,0:00:15.96,0:00:16.13,P,,0,0,0,,DEL VEINTE {\c&H00D4FF&\fscx110\fscy110}POR{\r} CIENTO.
+Dialogue: 0,0:00:16.13,0:00:16.47,P,,0,0,0,,DEL VEINTE POR {\c&H00D4FF&\fscx110\fscy110}CIENTO.{\r}
+Dialogue: 0,0:00:16.47,0:00:17.23,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LO{\r} DICE LA AGENCIA
+Dialogue: 0,0:00:17.23,0:00:17.41,P,,0,0,0,,LO {\c&H00D4FF&\fscx110\fscy110}DICE{\r} LA AGENCIA
+Dialogue: 0,0:00:17.41,0:00:17.57,P,,0,0,0,,LO DICE {\c&H00D4FF&\fscx110\fscy110}LA{\r} AGENCIA
+Dialogue: 0,0:00:17.57,0:00:17.83,P,,0,0,0,,LO DICE LA {\c&H00D4FF&\fscx110\fscy110}AGENCIA{\r}
+Dialogue: 0,0:00:17.83,0:00:19.27,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}TRIBUTARIA.{\r}
+Dialogue: 0,0:00:19.27,0:00:19.39,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EL{\r} EJEMPLO OFICIAL:
+Dialogue: 0,0:00:19.39,0:00:19.67,P,,0,0,0,,EL {\c&H00D4FF&\fscx110\fscy110}EJEMPLO{\r} OFICIAL:
+Dialogue: 0,0:00:19.67,0:00:20.77,P,,0,0,0,,EL EJEMPLO {\c&H00D4FF&\fscx110\fscy110}OFICIAL:{\r}
+Dialogue: 0,0:00:20.77,0:00:20.87,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}UN{\r} PREMIO DE CIEN
+Dialogue: 0,0:00:20.87,0:00:21.19,P,,0,0,0,,UN {\c&H00D4FF&\fscx110\fscy110}PREMIO{\r} DE CIEN
+Dialogue: 0,0:00:21.19,0:00:21.29,P,,0,0,0,,UN PREMIO {\c&H00D4FF&\fscx110\fscy110}DE{\r} CIEN
+Dialogue: 0,0:00:21.29,0:00:21.41,P,,0,0,0,,UN PREMIO DE {\c&H00D4FF&\fscx110\fscy110}CIEN{\r}
+Dialogue: 0,0:00:21.41,0:00:21.65,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MIL{\r} EUROS PAGA VEINTE
+Dialogue: 0,0:00:21.65,0:00:21.87,P,,0,0,0,,MIL {\c&H00D4FF&\fscx110\fscy110}EUROS{\r} PAGA VEINTE
+Dialogue: 0,0:00:21.87,0:00:22.19,P,,0,0,0,,MIL EUROS {\c&H00D4FF&\fscx110\fscy110}PAGA{\r} VEINTE
+Dialogue: 0,0:00:22.19,0:00:22.36,P,,0,0,0,,MIL EUROS PAGA {\c&H00D4FF&\fscx110\fscy110}VEINTE{\r}
+Dialogue: 0,0:00:22.36,0:00:22.53,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}POR{\r} CIENTO DE SESENTA
+Dialogue: 0,0:00:22.53,0:00:22.87,P,,0,0,0,,POR {\c&H00D4FF&\fscx110\fscy110}CIENTO{\r} DE SESENTA
+Dialogue: 0,0:00:22.87,0:00:23.07,P,,0,0,0,,POR CIENTO {\c&H00D4FF&\fscx110\fscy110}DE{\r} SESENTA
+Dialogue: 0,0:00:23.07,0:00:23.34,P,,0,0,0,,POR CIENTO DE {\c&H00D4FF&\fscx110\fscy110}SESENTA{\r}
+Dialogue: 0,0:00:23.34,0:00:23.61,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MIL,{\r}
+Dialogue: 0,0:00:23.61,0:00:23.89,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DOCE{\r} MIL EUROS.
+Dialogue: 0,0:00:23.89,0:00:24.43,P,,0,0,0,,DOCE {\c&H00D4FF&\fscx110\fscy110}MIL{\r} EUROS.
+Dialogue: 0,0:00:24.43,0:00:25.11,P,,0,0,0,,DOCE MIL {\c&H00D4FF&\fscx110\fscy110}EUROS.{\r}
+Dialogue: 0,0:00:25.11,0:00:25.47,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}COBRAS{\r} OCHENTA Y OCHO
+Dialogue: 0,0:00:25.47,0:00:25.82,P,,0,0,0,,COBRAS {\c&H00D4FF&\fscx110\fscy110}OCHENTA{\r} Y OCHO
+Dialogue: 0,0:00:25.82,0:00:26.17,P,,0,0,0,,COBRAS OCHENTA {\c&H00D4FF&\fscx110\fscy110}Y{\r} OCHO
+Dialogue: 0,0:00:26.17,0:00:26.53,P,,0,0,0,,COBRAS OCHENTA Y {\c&H00D4FF&\fscx110\fscy110}OCHO{\r}
+Dialogue: 0,0:00:26.53,0:00:27.28,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MIL.{\r}

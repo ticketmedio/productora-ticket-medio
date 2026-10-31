@@ -1,0 +1,64 @@
+[Script Info]
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: P,Archivo Black,82,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,6,3,2,60,60,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.15,0:00:00.99,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}AHORA,{\r}
+Dialogue: 0,0:00:00.99,0:00:01.15,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}UNA{\r} CUENTA PROPIA.
+Dialogue: 0,0:00:01.15,0:00:01.49,P,,0,0,0,,UNA {\c&H00D4FF&\fscx110\fscy110}CUENTA{\r} PROPIA.
+Dialogue: 0,0:00:01.49,0:00:02.59,P,,0,0,0,,UNA CUENTA {\c&H00D4FF&\fscx110\fscy110}PROPIA.{\r}
+Dialogue: 0,0:00:02.59,0:00:02.83,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SI{\r} DE CADA VEINTE
+Dialogue: 0,0:00:02.83,0:00:02.95,P,,0,0,0,,SI {\c&H00D4FF&\fscx110\fscy110}DE{\r} CADA VEINTE
+Dialogue: 0,0:00:02.95,0:00:03.13,P,,0,0,0,,SI DE {\c&H00D4FF&\fscx110\fscy110}CADA{\r} VEINTE
+Dialogue: 0,0:00:03.13,0:00:03.53,P,,0,0,0,,SI DE CADA {\c&H00D4FF&\fscx110\fscy110}VEINTE{\r}
+Dialogue: 0,0:00:03.53,0:00:03.85,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EUROS{\r} QUE VALEN LOS
+Dialogue: 0,0:00:03.85,0:00:04.07,P,,0,0,0,,EUROS {\c&H00D4FF&\fscx110\fscy110}QUE{\r} VALEN LOS
+Dialogue: 0,0:00:04.07,0:00:04.31,P,,0,0,0,,EUROS QUE {\c&H00D4FF&\fscx110\fscy110}VALEN{\r} LOS
+Dialogue: 0,0:00:04.31,0:00:04.47,P,,0,0,0,,EUROS QUE VALEN {\c&H00D4FF&\fscx110\fscy110}LOS{\r}
+Dialogue: 0,0:00:04.47,0:00:04.85,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DÉCIMOS{\r} EMITIDOS,
+Dialogue: 0,0:00:04.85,0:00:05.83,P,,0,0,0,,DÉCIMOS {\c&H00D4FF&\fscx110\fscy110}EMITIDOS,{\r}
+Dialogue: 0,0:00:05.83,0:00:05.95,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EL{\r} SETENTA POR CIENTO
+Dialogue: 0,0:00:05.95,0:00:06.14,P,,0,0,0,,EL {\c&H00D4FF&\fscx110\fscy110}SETENTA{\r} POR CIENTO
+Dialogue: 0,0:00:06.14,0:00:06.33,P,,0,0,0,,EL SETENTA {\c&H00D4FF&\fscx110\fscy110}POR{\r} CIENTO
+Dialogue: 0,0:00:06.33,0:00:06.71,P,,0,0,0,,EL SETENTA POR {\c&H00D4FF&\fscx110\fscy110}CIENTO{\r}
+Dialogue: 0,0:00:06.71,0:00:07.13,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SON{\r} PREMIOS,
+Dialogue: 0,0:00:07.13,0:00:07.95,P,,0,0,0,,SON {\c&H00D4FF&\fscx110\fscy110}PREMIOS,{\r}
+Dialogue: 0,0:00:07.95,0:00:08.11,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DE{\r} MEDIA VUELVEN CATORCE
+Dialogue: 0,0:00:08.11,0:00:08.33,P,,0,0,0,,DE {\c&H00D4FF&\fscx110\fscy110}MEDIA{\r} VUELVEN CATORCE
+Dialogue: 0,0:00:08.33,0:00:08.75,P,,0,0,0,,DE MEDIA {\c&H00D4FF&\fscx110\fscy110}VUELVEN{\r} CATORCE
+Dialogue: 0,0:00:08.75,0:00:09.13,P,,0,0,0,,DE MEDIA VUELVEN {\c&H00D4FF&\fscx110\fscy110}CATORCE{\r}
+Dialogue: 0,0:00:09.13,0:00:09.57,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EUROS{\r} POR DÉCIMO.
+Dialogue: 0,0:00:09.57,0:00:09.85,P,,0,0,0,,EUROS {\c&H00D4FF&\fscx110\fscy110}POR{\r} DÉCIMO.
+Dialogue: 0,0:00:09.85,0:00:10.21,P,,0,0,0,,EUROS POR {\c&H00D4FF&\fscx110\fscy110}DÉCIMO.{\r}
+Dialogue: 0,0:00:10.21,0:00:11.27,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CATORCE{\r} DE VEINTE.
+Dialogue: 0,0:00:11.27,0:00:11.49,P,,0,0,0,,CATORCE {\c&H00D4FF&\fscx110\fscy110}DE{\r} VEINTE.
+Dialogue: 0,0:00:11.49,0:00:12.43,P,,0,0,0,,CATORCE DE {\c&H00D4FF&\fscx110\fscy110}VEINTE.{\r}
+Dialogue: 0,0:00:12.43,0:00:13.27,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}OJO:{\r}
+Dialogue: 0,0:00:13.27,0:00:13.43,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ES{\r} LA MEDIA DE
+Dialogue: 0,0:00:13.43,0:00:13.59,P,,0,0,0,,ES {\c&H00D4FF&\fscx110\fscy110}LA{\r} MEDIA DE
+Dialogue: 0,0:00:13.59,0:00:13.79,P,,0,0,0,,ES LA {\c&H00D4FF&\fscx110\fscy110}MEDIA{\r} DE
+Dialogue: 0,0:00:13.79,0:00:14.01,P,,0,0,0,,ES LA MEDIA {\c&H00D4FF&\fscx110\fscy110}DE{\r}
+Dialogue: 0,0:00:14.01,0:00:14.21,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}TODOS,{\r}
+Dialogue: 0,0:00:14.21,0:00:14.87,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ANTES{\r} DE IMPUESTOS.
+Dialogue: 0,0:00:14.87,0:00:15.05,P,,0,0,0,,ANTES {\c&H00D4FF&\fscx110\fscy110}DE{\r} IMPUESTOS.
+Dialogue: 0,0:00:15.05,0:00:16.23,P,,0,0,0,,ANTES DE {\c&H00D4FF&\fscx110\fscy110}IMPUESTOS.{\r}
+Dialogue: 0,0:00:16.23,0:00:16.61,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CASI{\r} NADIE RECIBE CATORCE:
+Dialogue: 0,0:00:16.61,0:00:16.85,P,,0,0,0,,CASI {\c&H00D4FF&\fscx110\fscy110}NADIE{\r} RECIBE CATORCE:
+Dialogue: 0,0:00:16.85,0:00:17.33,P,,0,0,0,,CASI NADIE {\c&H00D4FF&\fscx110\fscy110}RECIBE{\r} CATORCE:
+Dialogue: 0,0:00:17.33,0:00:17.71,P,,0,0,0,,CASI NADIE RECIBE {\c&H00D4FF&\fscx110\fscy110}CATORCE:{\r}
+Dialogue: 0,0:00:17.71,0:00:18.27,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ES{\r} UN PROMEDIO ENTRE
+Dialogue: 0,0:00:18.27,0:00:18.41,P,,0,0,0,,ES {\c&H00D4FF&\fscx110\fscy110}UN{\r} PROMEDIO ENTRE
+Dialogue: 0,0:00:18.41,0:00:18.83,P,,0,0,0,,ES UN {\c&H00D4FF&\fscx110\fscy110}PROMEDIO{\r} ENTRE
+Dialogue: 0,0:00:18.83,0:00:19.03,P,,0,0,0,,ES UN PROMEDIO {\c&H00D4FF&\fscx110\fscy110}ENTRE{\r}
+Dialogue: 0,0:00:19.03,0:00:19.43,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}POCOS{\r} PREMIOS ENORMES Y
+Dialogue: 0,0:00:19.43,0:00:19.81,P,,0,0,0,,POCOS {\c&H00D4FF&\fscx110\fscy110}PREMIOS{\r} ENORMES Y
+Dialogue: 0,0:00:19.81,0:00:20.29,P,,0,0,0,,POCOS PREMIOS {\c&H00D4FF&\fscx110\fscy110}ENORMES{\r} Y
+Dialogue: 0,0:00:20.29,0:00:20.59,P,,0,0,0,,POCOS PREMIOS ENORMES {\c&H00D4FF&\fscx110\fscy110}Y{\r}
+Dialogue: 0,0:00:20.59,0:00:20.87,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MUCHOS{\r} PEQUEÑOS.
+Dialogue: 0,0:00:20.87,0:00:21.77,P,,0,0,0,,MUCHOS {\c&H00D4FF&\fscx110\fscy110}PEQUEÑOS.{\r}

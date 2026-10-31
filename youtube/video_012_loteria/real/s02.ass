@@ -1,0 +1,64 @@
+[Script Info]
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: P,Archivo Black,82,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,6,3,2,60,60,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.15,0:00:00.37,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EN{\r} DOS MIL VEINTICINCO
+Dialogue: 0,0:00:00.37,0:00:00.52,P,,0,0,0,,EN {\c&H00D4FF&\fscx110\fscy110}DOS{\r} MIL VEINTICINCO
+Dialogue: 0,0:00:00.52,0:00:00.68,P,,0,0,0,,EN DOS {\c&H00D4FF&\fscx110\fscy110}MIL{\r} VEINTICINCO
+Dialogue: 0,0:00:00.68,0:00:00.99,P,,0,0,0,,EN DOS MIL {\c&H00D4FF&\fscx110\fscy110}VEINTICINCO{\r}
+Dialogue: 0,0:00:00.99,0:00:01.65,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SE{\r} EMITIERON CIENTO NOVENTA
+Dialogue: 0,0:00:01.65,0:00:02.11,P,,0,0,0,,SE {\c&H00D4FF&\fscx110\fscy110}EMITIERON{\r} CIENTO NOVENTA
+Dialogue: 0,0:00:02.11,0:00:02.27,P,,0,0,0,,SE EMITIERON {\c&H00D4FF&\fscx110\fscy110}CIENTO{\r} NOVENTA
+Dialogue: 0,0:00:02.27,0:00:02.43,P,,0,0,0,,SE EMITIERON CIENTO {\c&H00D4FF&\fscx110\fscy110}NOVENTA{\r}
+Dialogue: 0,0:00:02.43,0:00:02.59,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} OCHO SERIES DE
+Dialogue: 0,0:00:02.59,0:00:02.91,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}OCHO{\r} SERIES DE
+Dialogue: 0,0:00:02.91,0:00:03.69,P,,0,0,0,,Y OCHO {\c&H00D4FF&\fscx110\fscy110}SERIES{\r} DE
+Dialogue: 0,0:00:03.69,0:00:03.87,P,,0,0,0,,Y OCHO SERIES {\c&H00D4FF&\fscx110\fscy110}DE{\r}
+Dialogue: 0,0:00:03.87,0:00:04.02,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CIEN{\r} MIL NÚMEROS.
+Dialogue: 0,0:00:04.02,0:00:04.33,P,,0,0,0,,CIEN {\c&H00D4FF&\fscx110\fscy110}MIL{\r} NÚMEROS.
+Dialogue: 0,0:00:04.33,0:00:05.37,P,,0,0,0,,CIEN MIL {\c&H00D4FF&\fscx110\fscy110}NÚMEROS.{\r}
+Dialogue: 0,0:00:05.37,0:00:05.67,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CADA{\r} DÉCIMO CUESTA VEINTE
+Dialogue: 0,0:00:05.67,0:00:06.07,P,,0,0,0,,CADA {\c&H00D4FF&\fscx110\fscy110}DÉCIMO{\r} CUESTA VEINTE
+Dialogue: 0,0:00:06.07,0:00:06.53,P,,0,0,0,,CADA DÉCIMO {\c&H00D4FF&\fscx110\fscy110}CUESTA{\r} VEINTE
+Dialogue: 0,0:00:06.53,0:00:06.85,P,,0,0,0,,CADA DÉCIMO CUESTA {\c&H00D4FF&\fscx110\fscy110}VEINTE{\r}
+Dialogue: 0,0:00:06.85,0:00:07.99,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EUROS.{\r}
+Dialogue: 0,0:00:07.99,0:00:08.13,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EN{\r} TOTAL,
+Dialogue: 0,0:00:08.13,0:00:08.39,P,,0,0,0,,EN {\c&H00D4FF&\fscx110\fscy110}TOTAL,{\r}
+Dialogue: 0,0:00:08.39,0:00:08.77,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}TRES{\r} MIL NOVECIENTOS SESENTA
+Dialogue: 0,0:00:08.77,0:00:09.16,P,,0,0,0,,TRES {\c&H00D4FF&\fscx110\fscy110}MIL{\r} NOVECIENTOS SESENTA
+Dialogue: 0,0:00:09.16,0:00:09.54,P,,0,0,0,,TRES MIL {\c&H00D4FF&\fscx110\fscy110}NOVECIENTOS{\r} SESENTA
+Dialogue: 0,0:00:09.54,0:00:10.31,P,,0,0,0,,TRES MIL NOVECIENTOS {\c&H00D4FF&\fscx110\fscy110}SESENTA{\r}
+Dialogue: 0,0:00:10.31,0:00:10.83,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MILLONES{\r} DE EUROS.
+Dialogue: 0,0:00:10.83,0:00:11.05,P,,0,0,0,,MILLONES {\c&H00D4FF&\fscx110\fscy110}DE{\r} EUROS.
+Dialogue: 0,0:00:11.05,0:00:12.15,P,,0,0,0,,MILLONES DE {\c&H00D4FF&\fscx110\fscy110}EUROS.{\r}
+Dialogue: 0,0:00:12.15,0:00:12.61,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SEGÚN{\r} LOS DATOS PUBLICADOS
+Dialogue: 0,0:00:12.61,0:00:12.77,P,,0,0,0,,SEGÚN {\c&H00D4FF&\fscx110\fscy110}LOS{\r} DATOS PUBLICADOS
+Dialogue: 0,0:00:12.77,0:00:13.01,P,,0,0,0,,SEGÚN LOS {\c&H00D4FF&\fscx110\fscy110}DATOS{\r} PUBLICADOS
+Dialogue: 0,0:00:13.01,0:00:13.61,P,,0,0,0,,SEGÚN LOS DATOS {\c&H00D4FF&\fscx110\fscy110}PUBLICADOS{\r}
+Dialogue: 0,0:00:13.61,0:00:13.83,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DEL{\r} SORTEO,
+Dialogue: 0,0:00:13.83,0:00:14.71,P,,0,0,0,,DEL {\c&H00D4FF&\fscx110\fscy110}SORTEO,{\r}
+Dialogue: 0,0:00:14.71,0:00:14.79,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EL{\r} SETENTA POR CIENTO
+Dialogue: 0,0:00:14.79,0:00:14.97,P,,0,0,0,,EL {\c&H00D4FF&\fscx110\fscy110}SETENTA{\r} POR CIENTO
+Dialogue: 0,0:00:14.97,0:00:15.15,P,,0,0,0,,EL SETENTA {\c&H00D4FF&\fscx110\fscy110}POR{\r} CIENTO
+Dialogue: 0,0:00:15.15,0:00:15.51,P,,0,0,0,,EL SETENTA POR {\c&H00D4FF&\fscx110\fscy110}CIENTO{\r}
+Dialogue: 0,0:00:15.51,0:00:15.89,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SE{\r} DESTINA A PREMIOS.
+Dialogue: 0,0:00:15.89,0:00:16.25,P,,0,0,0,,SE {\c&H00D4FF&\fscx110\fscy110}DESTINA{\r} A PREMIOS.
+Dialogue: 0,0:00:16.25,0:00:16.37,P,,0,0,0,,SE DESTINA {\c&H00D4FF&\fscx110\fscy110}A{\r} PREMIOS.
+Dialogue: 0,0:00:16.37,0:00:17.27,P,,0,0,0,,SE DESTINA A {\c&H00D4FF&\fscx110\fscy110}PREMIOS.{\r}
+Dialogue: 0,0:00:17.27,0:00:17.61,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SON{\r} DOS MIL SETECIENTOS
+Dialogue: 0,0:00:17.61,0:00:17.86,P,,0,0,0,,SON {\c&H00D4FF&\fscx110\fscy110}DOS{\r} MIL SETECIENTOS
+Dialogue: 0,0:00:17.86,0:00:18.11,P,,0,0,0,,SON DOS {\c&H00D4FF&\fscx110\fscy110}MIL{\r} SETECIENTOS
+Dialogue: 0,0:00:18.11,0:00:18.36,P,,0,0,0,,SON DOS MIL {\c&H00D4FF&\fscx110\fscy110}SETECIENTOS{\r}
+Dialogue: 0,0:00:18.36,0:00:18.62,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SETENTA{\r} Y DOS MILLONES
+Dialogue: 0,0:00:18.62,0:00:18.87,P,,0,0,0,,SETENTA {\c&H00D4FF&\fscx110\fscy110}Y{\r} DOS MILLONES
+Dialogue: 0,0:00:18.87,0:00:19.37,P,,0,0,0,,SETENTA Y {\c&H00D4FF&\fscx110\fscy110}DOS{\r} MILLONES
+Dialogue: 0,0:00:19.37,0:00:19.81,P,,0,0,0,,SETENTA Y DOS {\c&H00D4FF&\fscx110\fscy110}MILLONES{\r}
+Dialogue: 0,0:00:19.81,0:00:20.05,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DE{\r} EUROS.
+Dialogue: 0,0:00:20.05,0:00:20.69,P,,0,0,0,,DE {\c&H00D4FF&\fscx110\fscy110}EUROS.{\r}

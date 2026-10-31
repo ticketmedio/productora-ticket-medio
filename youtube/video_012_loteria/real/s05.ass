@@ -1,0 +1,87 @@
+[Script Info]
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: P,Archivo Black,82,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,6,3,2,60,60,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.15,0:00:00.39,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LA{\r} PROBABILIDAD DE QUE
+Dialogue: 0,0:00:00.39,0:00:00.99,P,,0,0,0,,LA {\c&H00D4FF&\fscx110\fscy110}PROBABILIDAD{\r} DE QUE
+Dialogue: 0,0:00:00.99,0:00:01.17,P,,0,0,0,,LA PROBABILIDAD {\c&H00D4FF&\fscx110\fscy110}DE{\r} QUE
+Dialogue: 0,0:00:01.17,0:00:01.25,P,,0,0,0,,LA PROBABILIDAD DE {\c&H00D4FF&\fscx110\fscy110}QUE{\r}
+Dialogue: 0,0:00:01.25,0:00:01.39,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}TU{\r} NÚMERO EL SEGUNDO
+Dialogue: 0,0:00:01.39,0:00:01.75,P,,0,0,0,,TU {\c&H00D4FF&\fscx110\fscy110}NÚMERO{\r} EL SEGUNDO
+Dialogue: 0,0:00:01.75,0:00:01.95,P,,0,0,0,,TU NÚMERO {\c&H00D4FF&\fscx110\fscy110}EL{\r} SEGUNDO
+Dialogue: 0,0:00:01.95,0:00:02.23,P,,0,0,0,,TU NÚMERO EL {\c&H00D4FF&\fscx110\fscy110}SEGUNDO{\r}
+Dialogue: 0,0:00:02.23,0:00:02.67,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}PREMIO,{\r}
+Dialogue: 0,0:00:02.67,0:00:02.96,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}UN{\r} MILLÓN DOSCIENTOS CINCUENTA
+Dialogue: 0,0:00:02.96,0:00:03.25,P,,0,0,0,,UN {\c&H00D4FF&\fscx110\fscy110}MILLÓN{\r} DOSCIENTOS CINCUENTA
+Dialogue: 0,0:00:03.25,0:00:03.54,P,,0,0,0,,UN MILLÓN {\c&H00D4FF&\fscx110\fscy110}DOSCIENTOS{\r} CINCUENTA
+Dialogue: 0,0:00:03.54,0:00:03.83,P,,0,0,0,,UN MILLÓN DOSCIENTOS {\c&H00D4FF&\fscx110\fscy110}CINCUENTA{\r}
+Dialogue: 0,0:00:03.83,0:00:04.41,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MIL{\r} POR SERIE,
+Dialogue: 0,0:00:04.41,0:00:04.63,P,,0,0,0,,MIL {\c&H00D4FF&\fscx110\fscy110}POR{\r} SERIE,
+Dialogue: 0,0:00:04.63,0:00:04.89,P,,0,0,0,,MIL POR {\c&H00D4FF&\fscx110\fscy110}SERIE,{\r}
+Dialogue: 0,0:00:04.89,0:00:05.45,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} EL TERCERO,
+Dialogue: 0,0:00:05.45,0:00:05.57,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}EL{\r} TERCERO,
+Dialogue: 0,0:00:05.57,0:00:05.99,P,,0,0,0,,Y EL {\c&H00D4FF&\fscx110\fscy110}TERCERO,{\r}
+Dialogue: 0,0:00:05.99,0:00:06.45,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}QUINIENTOS{\r} MIL.
+Dialogue: 0,0:00:06.45,0:00:07.37,P,,0,0,0,,QUINIENTOS {\c&H00D4FF&\fscx110\fscy110}MIL.{\r}
+Dialogue: 0,0:00:07.37,0:00:07.87,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SUMANDO{\r} LOS TRES PREMIOS
+Dialogue: 0,0:00:07.87,0:00:08.09,P,,0,0,0,,SUMANDO {\c&H00D4FF&\fscx110\fscy110}LOS{\r} TRES PREMIOS
+Dialogue: 0,0:00:08.09,0:00:08.27,P,,0,0,0,,SUMANDO LOS {\c&H00D4FF&\fscx110\fscy110}TRES{\r} PREMIOS
+Dialogue: 0,0:00:08.27,0:00:08.65,P,,0,0,0,,SUMANDO LOS TRES {\c&H00D4FF&\fscx110\fscy110}PREMIOS{\r}
+Dialogue: 0,0:00:08.65,0:00:08.97,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}GRANDES{\r} DE LAS CIENTO
+Dialogue: 0,0:00:08.97,0:00:09.17,P,,0,0,0,,GRANDES {\c&H00D4FF&\fscx110\fscy110}DE{\r} LAS CIENTO
+Dialogue: 0,0:00:09.17,0:00:09.29,P,,0,0,0,,GRANDES DE {\c&H00D4FF&\fscx110\fscy110}LAS{\r} CIENTO
+Dialogue: 0,0:00:09.29,0:00:09.41,P,,0,0,0,,GRANDES DE LAS {\c&H00D4FF&\fscx110\fscy110}CIENTO{\r}
+Dialogue: 0,0:00:09.41,0:00:09.53,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}NOVENTA{\r} Y OCHO SERIES,
+Dialogue: 0,0:00:09.53,0:00:09.65,P,,0,0,0,,NOVENTA {\c&H00D4FF&\fscx110\fscy110}Y{\r} OCHO SERIES,
+Dialogue: 0,0:00:09.65,0:00:09.89,P,,0,0,0,,NOVENTA Y {\c&H00D4FF&\fscx110\fscy110}OCHO{\r} SERIES,
+Dialogue: 0,0:00:09.89,0:00:10.81,P,,0,0,0,,NOVENTA Y OCHO {\c&H00D4FF&\fscx110\fscy110}SERIES,{\r}
+Dialogue: 0,0:00:10.81,0:00:11.25,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SON{\r} MIL CIENTO TREINTA
+Dialogue: 0,0:00:11.25,0:00:11.46,P,,0,0,0,,SON {\c&H00D4FF&\fscx110\fscy110}MIL{\r} CIENTO TREINTA
+Dialogue: 0,0:00:11.46,0:00:11.67,P,,0,0,0,,SON MIL {\c&H00D4FF&\fscx110\fscy110}CIENTO{\r} TREINTA
+Dialogue: 0,0:00:11.67,0:00:11.88,P,,0,0,0,,SON MIL CIENTO {\c&H00D4FF&\fscx110\fscy110}TREINTA{\r}
+Dialogue: 0,0:00:11.88,0:00:12.09,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} OCHO MILLONES Y
+Dialogue: 0,0:00:12.09,0:00:12.51,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}OCHO{\r} MILLONES Y
+Dialogue: 0,0:00:12.51,0:00:12.79,P,,0,0,0,,Y OCHO {\c&H00D4FF&\fscx110\fscy110}MILLONES{\r} Y
+Dialogue: 0,0:00:12.79,0:00:13.11,P,,0,0,0,,Y OCHO MILLONES {\c&H00D4FF&\fscx110\fscy110}Y{\r}
+Dialogue: 0,0:00:13.11,0:00:13.87,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MEDIO.{\r}
+Dialogue: 0,0:00:13.87,0:00:14.19,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ES{\r} EL CUARENTA Y
+Dialogue: 0,0:00:14.19,0:00:14.33,P,,0,0,0,,ES {\c&H00D4FF&\fscx110\fscy110}EL{\r} CUARENTA Y
+Dialogue: 0,0:00:14.33,0:00:14.48,P,,0,0,0,,ES EL {\c&H00D4FF&\fscx110\fscy110}CUARENTA{\r} Y
+Dialogue: 0,0:00:14.48,0:00:14.63,P,,0,0,0,,ES EL CUARENTA {\c&H00D4FF&\fscx110\fscy110}Y{\r}
+Dialogue: 0,0:00:14.63,0:00:14.78,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}UNO{\r} POR CIENTO DE
+Dialogue: 0,0:00:14.78,0:00:14.93,P,,0,0,0,,UNO {\c&H00D4FF&\fscx110\fscy110}POR{\r} CIENTO DE
+Dialogue: 0,0:00:14.93,0:00:15.23,P,,0,0,0,,UNO POR {\c&H00D4FF&\fscx110\fscy110}CIENTO{\r} DE
+Dialogue: 0,0:00:15.23,0:00:15.57,P,,0,0,0,,UNO POR CIENTO {\c&H00D4FF&\fscx110\fscy110}DE{\r}
+Dialogue: 0,0:00:15.57,0:00:15.77,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}TODO{\r} EL DINERO EN
+Dialogue: 0,0:00:15.77,0:00:15.93,P,,0,0,0,,TODO {\c&H00D4FF&\fscx110\fscy110}EL{\r} DINERO EN
+Dialogue: 0,0:00:15.93,0:00:16.17,P,,0,0,0,,TODO EL {\c&H00D4FF&\fscx110\fscy110}DINERO{\r} EN
+Dialogue: 0,0:00:16.17,0:00:16.35,P,,0,0,0,,TODO EL DINERO {\c&H00D4FF&\fscx110\fscy110}EN{\r}
+Dialogue: 0,0:00:16.35,0:00:17.37,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}PREMIOS.{\r}
+Dialogue: 0,0:00:17.37,0:00:17.65,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ES{\r} UN CÁLCULO NUESTRO,
+Dialogue: 0,0:00:17.65,0:00:17.77,P,,0,0,0,,ES {\c&H00D4FF&\fscx110\fscy110}UN{\r} CÁLCULO NUESTRO,
+Dialogue: 0,0:00:17.77,0:00:18.07,P,,0,0,0,,ES UN {\c&H00D4FF&\fscx110\fscy110}CÁLCULO{\r} NUESTRO,
+Dialogue: 0,0:00:18.07,0:00:18.73,P,,0,0,0,,ES UN CÁLCULO {\c&H00D4FF&\fscx110\fscy110}NUESTRO,{\r}
+Dialogue: 0,0:00:18.73,0:00:18.89,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}PERO{\r} SALE DE LAS
+Dialogue: 0,0:00:18.89,0:00:19.13,P,,0,0,0,,PERO {\c&H00D4FF&\fscx110\fscy110}SALE{\r} DE LAS
+Dialogue: 0,0:00:19.13,0:00:19.27,P,,0,0,0,,PERO SALE {\c&H00D4FF&\fscx110\fscy110}DE{\r} LAS
+Dialogue: 0,0:00:19.27,0:00:19.39,P,,0,0,0,,PERO SALE DE {\c&H00D4FF&\fscx110\fscy110}LAS{\r}
+Dialogue: 0,0:00:19.39,0:00:19.67,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CIFRAS{\r} PUBLICADAS.
+Dialogue: 0,0:00:19.67,0:00:21.09,P,,0,0,0,,CIFRAS {\c&H00D4FF&\fscx110\fscy110}PUBLICADAS.{\r}
+Dialogue: 0,0:00:21.09,0:00:21.33,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EL{\r} RESTO DEL DINERO
+Dialogue: 0,0:00:21.33,0:00:21.59,P,,0,0,0,,EL {\c&H00D4FF&\fscx110\fscy110}RESTO{\r} DEL DINERO
+Dialogue: 0,0:00:21.59,0:00:21.75,P,,0,0,0,,EL RESTO {\c&H00D4FF&\fscx110\fscy110}DEL{\r} DINERO
+Dialogue: 0,0:00:21.75,0:00:22.05,P,,0,0,0,,EL RESTO DEL {\c&H00D4FF&\fscx110\fscy110}DINERO{\r}
+Dialogue: 0,0:00:22.05,0:00:22.25,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SE{\r} REPARTE EN MUCHÍSIMOS
+Dialogue: 0,0:00:22.25,0:00:22.38,P,,0,0,0,,SE {\c&H00D4FF&\fscx110\fscy110}REPARTE{\r} EN MUCHÍSIMOS
+Dialogue: 0,0:00:22.38,0:00:22.65,P,,0,0,0,,SE REPARTE {\c&H00D4FF&\fscx110\fscy110}EN{\r} MUCHÍSIMOS
+Dialogue: 0,0:00:22.65,0:00:23.27,P,,0,0,0,,SE REPARTE EN {\c&H00D4FF&\fscx110\fscy110}MUCHÍSIMOS{\r}
+Dialogue: 0,0:00:23.27,0:00:23.65,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}PREMIOS{\r} MÁS PEQUEÑOS.
+Dialogue: 0,0:00:23.65,0:00:23.85,P,,0,0,0,,PREMIOS {\c&H00D4FF&\fscx110\fscy110}MÁS{\r} PEQUEÑOS.
+Dialogue: 0,0:00:23.85,0:00:24.63,P,,0,0,0,,PREMIOS MÁS {\c&H00D4FF&\fscx110\fscy110}PEQUEÑOS.{\r}

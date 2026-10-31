@@ -1,0 +1,4 @@
+file '/Users/antoniofuster/Downloads/faceless/youtube/video_012_loteria/real/voz_00.wav'
+file '/Users/antoniofuster/Downloads/faceless/youtube/video_012_loteria/real/pausa.wav'
+file '/Users/antoniofuster/Downloads/faceless/youtube/video_012_loteria/real/voz_01.wav'
+file '/Users/antoniofuster/Downloads/faceless/youtube/video_012_loteria/real/pausa.wav'
