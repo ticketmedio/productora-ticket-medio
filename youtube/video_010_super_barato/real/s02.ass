@@ -1,0 +1,97 @@
+[Script Info]
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: P,Archivo Black,82,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,6,3,2,60,60,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.15,0:00:00.67,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}VAMOS{\r} CON EL RANKING
+Dialogue: 0,0:00:00.67,0:00:01.05,P,,0,0,0,,VAMOS {\c&H00D4FF&\fscx110\fscy110}CON{\r} EL RANKING
+Dialogue: 0,0:00:01.05,0:00:01.19,P,,0,0,0,,VAMOS CON {\c&H00D4FF&\fscx110\fscy110}EL{\r} RANKING
+Dialogue: 0,0:00:01.19,0:00:01.43,P,,0,0,0,,VAMOS CON EL {\c&H00D4FF&\fscx110\fscy110}RANKING{\r}
+Dialogue: 0,0:00:01.43,0:00:01.63,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DE{\r} CADENAS.
+Dialogue: 0,0:00:01.63,0:00:02.47,P,,0,0,0,,DE {\c&H00D4FF&\fscx110\fscy110}CADENAS.{\r}
+Dialogue: 0,0:00:02.47,0:00:02.73,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LA{\r} MÁS BARATA,
+Dialogue: 0,0:00:02.73,0:00:02.89,P,,0,0,0,,LA {\c&H00D4FF&\fscx110\fscy110}MÁS{\r} BARATA,
+Dialogue: 0,0:00:02.89,0:00:03.27,P,,0,0,0,,LA MÁS {\c&H00D4FF&\fscx110\fscy110}BARATA,{\r}
+Dialogue: 0,0:00:03.27,0:00:03.41,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}UN{\r} AÑO MÁS,
+Dialogue: 0,0:00:03.41,0:00:03.53,P,,0,0,0,,UN {\c&H00D4FF&\fscx110\fscy110}AÑO{\r} MÁS,
+Dialogue: 0,0:00:03.53,0:00:03.65,P,,0,0,0,,UN AÑO {\c&H00D4FF&\fscx110\fscy110}MÁS,{\r}
+Dialogue: 0,0:00:03.65,0:00:03.87,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ES{\r} DANI,
+Dialogue: 0,0:00:03.87,0:00:04.59,P,,0,0,0,,ES {\c&H00D4FF&\fscx110\fscy110}DANI,{\r}
+Dialogue: 0,0:00:04.59,0:00:04.71,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CON{\r} ÍNDICE CIEN.
+Dialogue: 0,0:00:04.71,0:00:04.99,P,,0,0,0,,CON {\c&H00D4FF&\fscx110\fscy110}ÍNDICE{\r} CIEN.
+Dialogue: 0,0:00:04.99,0:00:05.93,P,,0,0,0,,CON ÍNDICE {\c&H00D4FF&\fscx110\fscy110}CIEN.{\r}
+Dialogue: 0,0:00:05.93,0:00:06.45,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DETRÁS,{\r}
+Dialogue: 0,0:00:06.45,0:00:06.66,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}FAMILY{\r} CASH Y TIFER,
+Dialogue: 0,0:00:06.66,0:00:06.87,P,,0,0,0,,FAMILY {\c&H00D4FF&\fscx110\fscy110}CASH{\r} Y TIFER,
+Dialogue: 0,0:00:06.87,0:00:07.09,P,,0,0,0,,FAMILY CASH {\c&H00D4FF&\fscx110\fscy110}Y{\r} TIFER,
+Dialogue: 0,0:00:07.09,0:00:07.51,P,,0,0,0,,FAMILY CASH Y {\c&H00D4FF&\fscx110\fscy110}TIFER,{\r}
+Dialogue: 0,0:00:07.51,0:00:07.75,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CON{\r} CIENTO DOS.
+Dialogue: 0,0:00:07.75,0:00:07.89,P,,0,0,0,,CON {\c&H00D4FF&\fscx110\fscy110}CIENTO{\r} DOS.
+Dialogue: 0,0:00:07.89,0:00:08.17,P,,0,0,0,,CON CIENTO {\c&H00D4FF&\fscx110\fscy110}DOS.{\r}
+Dialogue: 0,0:00:08.17,0:00:08.99,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} ALCAMPO Y SUPECO,
+Dialogue: 0,0:00:08.99,0:00:09.45,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}ALCAMPO{\r} Y SUPECO,
+Dialogue: 0,0:00:09.45,0:00:09.55,P,,0,0,0,,Y ALCAMPO {\c&H00D4FF&\fscx110\fscy110}Y{\r} SUPECO,
+Dialogue: 0,0:00:09.55,0:00:09.87,P,,0,0,0,,Y ALCAMPO Y {\c&H00D4FF&\fscx110\fscy110}SUPECO,{\r}
+Dialogue: 0,0:00:09.87,0:00:10.07,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CON{\r} CIENTO TRES.
+Dialogue: 0,0:00:10.07,0:00:10.48,P,,0,0,0,,CON {\c&H00D4FF&\fscx110\fscy110}CIENTO{\r} TRES.
+Dialogue: 0,0:00:10.48,0:00:11.31,P,,0,0,0,,CON CIENTO {\c&H00D4FF&\fscx110\fscy110}TRES.{\r}
+Dialogue: 0,0:00:11.31,0:00:11.55,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EN{\r} EL EXTREMO CONTRARIO
+Dialogue: 0,0:00:11.55,0:00:11.65,P,,0,0,0,,EN {\c&H00D4FF&\fscx110\fscy110}EL{\r} EXTREMO CONTRARIO
+Dialogue: 0,0:00:11.65,0:00:11.99,P,,0,0,0,,EN EL {\c&H00D4FF&\fscx110\fscy110}EXTREMO{\r} CONTRARIO
+Dialogue: 0,0:00:11.99,0:00:12.27,P,,0,0,0,,EN EL EXTREMO {\c&H00D4FF&\fscx110\fscy110}CONTRARIO{\r}
+Dialogue: 0,0:00:12.27,0:00:12.57,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ESTÁ{\r} SÁNCHEZ ROMERO,
+Dialogue: 0,0:00:12.57,0:00:12.99,P,,0,0,0,,ESTÁ {\c&H00D4FF&\fscx110\fscy110}SÁNCHEZ{\r} ROMERO,
+Dialogue: 0,0:00:12.99,0:00:13.57,P,,0,0,0,,ESTÁ SÁNCHEZ {\c&H00D4FF&\fscx110\fscy110}ROMERO,{\r}
+Dialogue: 0,0:00:13.57,0:00:13.83,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CON{\r} CIENTO SETENTA Y
+Dialogue: 0,0:00:13.83,0:00:14.17,P,,0,0,0,,CON {\c&H00D4FF&\fscx110\fscy110}CIENTO{\r} SETENTA Y
+Dialogue: 0,0:00:14.17,0:00:14.51,P,,0,0,0,,CON CIENTO {\c&H00D4FF&\fscx110\fscy110}SETENTA{\r} Y
+Dialogue: 0,0:00:14.51,0:00:14.85,P,,0,0,0,,CON CIENTO SETENTA {\c&H00D4FF&\fscx110\fscy110}Y{\r}
+Dialogue: 0,0:00:14.85,0:00:15.53,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SEIS:{\r}
+Dialogue: 0,0:00:15.53,0:00:15.77,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}UN{\r} SETENTA Y SEIS
+Dialogue: 0,0:00:15.77,0:00:15.96,P,,0,0,0,,UN {\c&H00D4FF&\fscx110\fscy110}SETENTA{\r} Y SEIS
+Dialogue: 0,0:00:15.96,0:00:16.14,P,,0,0,0,,UN SETENTA {\c&H00D4FF&\fscx110\fscy110}Y{\r} SEIS
+Dialogue: 0,0:00:16.14,0:00:16.33,P,,0,0,0,,UN SETENTA Y {\c&H00D4FF&\fscx110\fscy110}SEIS{\r}
+Dialogue: 0,0:00:16.33,0:00:16.52,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}POR{\r} CIENTO MÁS CARA
+Dialogue: 0,0:00:16.52,0:00:16.89,P,,0,0,0,,POR {\c&H00D4FF&\fscx110\fscy110}CIENTO{\r} MÁS CARA
+Dialogue: 0,0:00:16.89,0:00:17.43,P,,0,0,0,,POR CIENTO {\c&H00D4FF&\fscx110\fscy110}MÁS{\r} CARA
+Dialogue: 0,0:00:17.43,0:00:17.67,P,,0,0,0,,POR CIENTO MÁS {\c&H00D4FF&\fscx110\fscy110}CARA{\r}
+Dialogue: 0,0:00:17.67,0:00:17.81,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}QUE{\r} LA MÁS BARATA.
+Dialogue: 0,0:00:17.81,0:00:17.93,P,,0,0,0,,QUE {\c&H00D4FF&\fscx110\fscy110}LA{\r} MÁS BARATA.
+Dialogue: 0,0:00:17.93,0:00:18.11,P,,0,0,0,,QUE LA {\c&H00D4FF&\fscx110\fscy110}MÁS{\r} BARATA.
+Dialogue: 0,0:00:18.11,0:00:19.33,P,,0,0,0,,QUE LA MÁS {\c&H00D4FF&\fscx110\fscy110}BARATA.{\r}
+Dialogue: 0,0:00:19.33,0:00:19.67,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} AQUÍ VIENE LO
+Dialogue: 0,0:00:19.67,0:00:19.77,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}AQUÍ{\r} VIENE LO
+Dialogue: 0,0:00:19.77,0:00:19.97,P,,0,0,0,,Y AQUÍ {\c&H00D4FF&\fscx110\fscy110}VIENE{\r} LO
+Dialogue: 0,0:00:19.97,0:00:20.09,P,,0,0,0,,Y AQUÍ VIENE {\c&H00D4FF&\fscx110\fscy110}LO{\r}
+Dialogue: 0,0:00:20.09,0:00:21.03,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CURIOSO.{\r}
+Dialogue: 0,0:00:21.03,0:00:21.15,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EL{\r} ESTABLECIMIENTO MÁS BARATO
+Dialogue: 0,0:00:21.15,0:00:21.67,P,,0,0,0,,EL {\c&H00D4FF&\fscx110\fscy110}ESTABLECIMIENTO{\r} MÁS BARATO
+Dialogue: 0,0:00:21.67,0:00:22.07,P,,0,0,0,,EL ESTABLECIMIENTO {\c&H00D4FF&\fscx110\fscy110}MÁS{\r} BARATO
+Dialogue: 0,0:00:22.07,0:00:22.37,P,,0,0,0,,EL ESTABLECIMIENTO MÁS {\c&H00D4FF&\fscx110\fscy110}BARATO{\r}
+Dialogue: 0,0:00:22.37,0:00:22.53,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}QUE{\r} VISITÓ LA OCU
+Dialogue: 0,0:00:22.53,0:00:22.85,P,,0,0,0,,QUE {\c&H00D4FF&\fscx110\fscy110}VISITÓ{\r} LA OCU
+Dialogue: 0,0:00:22.85,0:00:22.95,P,,0,0,0,,QUE VISITÓ {\c&H00D4FF&\fscx110\fscy110}LA{\r} OCU
+Dialogue: 0,0:00:22.95,0:00:23.13,P,,0,0,0,,QUE VISITÓ LA {\c&H00D4FF&\fscx110\fscy110}OCU{\r}
+Dialogue: 0,0:00:23.13,0:00:23.75,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}NO{\r} ES DE UNA
+Dialogue: 0,0:00:23.75,0:00:23.91,P,,0,0,0,,NO {\c&H00D4FF&\fscx110\fscy110}ES{\r} DE UNA
+Dialogue: 0,0:00:23.91,0:00:24.01,P,,0,0,0,,NO ES {\c&H00D4FF&\fscx110\fscy110}DE{\r} UNA
+Dialogue: 0,0:00:24.01,0:00:24.19,P,,0,0,0,,NO ES DE {\c&H00D4FF&\fscx110\fscy110}UNA{\r}
+Dialogue: 0,0:00:24.19,0:00:24.49,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CADENA{\r} PEQUEÑA:
+Dialogue: 0,0:00:24.49,0:00:25.51,P,,0,0,0,,CADENA {\c&H00D4FF&\fscx110\fscy110}PEQUEÑA:{\r}
+Dialogue: 0,0:00:25.51,0:00:25.73,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ES{\r} UN ALCAMPO EN
+Dialogue: 0,0:00:25.73,0:00:26.02,P,,0,0,0,,ES {\c&H00D4FF&\fscx110\fscy110}UN{\r} ALCAMPO EN
+Dialogue: 0,0:00:26.02,0:00:26.61,P,,0,0,0,,ES UN {\c&H00D4FF&\fscx110\fscy110}ALCAMPO{\r} EN
+Dialogue: 0,0:00:26.61,0:00:26.71,P,,0,0,0,,ES UN ALCAMPO {\c&H00D4FF&\fscx110\fscy110}EN{\r}
+Dialogue: 0,0:00:26.71,0:00:26.81,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}UN{\r} CENTRO COMERCIAL DE
+Dialogue: 0,0:00:26.81,0:00:26.97,P,,0,0,0,,UN {\c&H00D4FF&\fscx110\fscy110}CENTRO{\r} COMERCIAL DE
+Dialogue: 0,0:00:26.97,0:00:27.35,P,,0,0,0,,UN CENTRO {\c&H00D4FF&\fscx110\fscy110}COMERCIAL{\r} DE
+Dialogue: 0,0:00:27.35,0:00:27.53,P,,0,0,0,,UN CENTRO COMERCIAL {\c&H00D4FF&\fscx110\fscy110}DE{\r}
+Dialogue: 0,0:00:27.53,0:00:28.19,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ALDAIA,{\r}
+Dialogue: 0,0:00:28.19,0:00:28.31,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EN{\r} VALENCIA.
+Dialogue: 0,0:00:28.31,0:00:29.09,P,,0,0,0,,EN {\c&H00D4FF&\fscx110\fscy110}VALENCIA.{\r}

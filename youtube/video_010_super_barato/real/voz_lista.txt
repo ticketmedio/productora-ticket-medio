@@ -1,0 +1,4 @@
+file '/Users/antoniofuster/Downloads/faceless/youtube/video_010_super_barato/real/voz_00.wav'
+file '/Users/antoniofuster/Downloads/faceless/youtube/video_010_super_barato/real/pausa.wav'
+file '/Users/antoniofuster/Downloads/faceless/youtube/video_010_super_barato/real/voz_01.wav'
+file '/Users/antoniofuster/Downloads/faceless/youtube/video_010_super_barato/real/pausa.wav'

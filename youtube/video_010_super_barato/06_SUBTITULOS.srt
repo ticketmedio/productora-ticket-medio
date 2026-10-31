@@ -1,339 +1,384 @@
 1
-00:00:00,000 --> 00:00:04,305
-Entre el supermercado más barato y el más caro de tu ciudad,
+00:00:00,000 --> 00:00:02,240
+Mil trescientos diez euros.
 
 2
-00:00:04,305 --> 00:00:08,324
-un hogar medio ahorra mil trescientos diez euros al año.
+00:00:02,380 --> 00:00:04,780
+Es lo que puede tirar cada año un hogar medio…
 
 3
-00:00:08,324 --> 00:00:12,199
-En Madrid, hasta cuatro mil trescientos ochenta y uno.
+00:00:04,780 --> 00:00:07,220
+solo por elegir mal el supermercado.
 
 4
-00:00:12,199 --> 00:00:13,993
-¿Y cuál es el más barato?
+00:00:07,460 --> 00:00:12,133
+Y en Madrid, la diferencia llega a cuatro mil trescientos ochenta y uno.
 
 5
-00:00:13,993 --> 00:00:15,643
-Depende de dónde vivas.
+00:00:12,133 --> 00:00:13,304
+Cuatro mil.
 
 6
-00:00:15,643 --> 00:00:21,814
-Hoy te lo contamos con el mayor estudio que existe: seiscientos noventa supermercados.
+00:00:13,440 --> 00:00:14,820
+Por hacer la misma compra.
 
 7
-00:00:22,164 --> 00:00:24,006
-Abrimos el ticket del súper.
+00:00:15,400 --> 00:00:17,060
+¿Y cuál es el más barato?
 
 8
-00:00:24,006 --> 00:00:30,188
-Y para hacerlo no hemos comprado una cesta: usamos el estudio de la OCU de dos mil veintiséis,
+00:00:17,420 --> 00:00:18,720
+Aquí viene la sorpresa:
 
 9
-00:00:30,188 --> 00:00:34,924
-publicado el veinticinco de septiembre, y te contamos qué dice y qué no.
+00:00:19,060 --> 00:00:20,740
+depende de dónde vivas.
 
 10
-00:00:35,274 --> 00:00:36,916
-Primero, cómo se hizo.
+00:00:21,100 --> 00:00:24,040
+Hoy abrimos el ticket del súper con el mayor estudio que existe:
 
 11
-00:00:36,916 --> 00:00:42,739
-La OCU visitó seiscientos noventa establecimientos en treinta y ocho ciudades,
+00:00:24,040 --> 00:00:30,020
+seiscientos noventa supermercados, analizados por la OCU en dos mil veintiséis y publicado el veinticinco de
 
 12
-00:00:42,739 --> 00:00:47,218
-además de supermercados online, en abril y mayo de este año.
+00:00:30,020 --> 00:00:30,720
+septiembre.
 
 13
-00:00:47,218 --> 00:00:54,832
-Y apuntó los precios de doscientos cuarenta y cuatro productos: marcas de fabricante y marcas blancas,
+00:00:31,100 --> 00:00:32,240
+Te contamos qué dice…
 
 14
-00:00:54,832 --> 00:00:59,237
-frescos, envasados, bebidas, limpieza, droguería e higiene.
+00:00:32,240 --> 00:00:33,740
+y lo que no dice.
 
 15
-00:00:59,237 --> 00:01:03,716
-Con eso construye un índice: la tienda más barata vale cien,
+00:00:34,140 --> 00:00:36,080
+Primero, cómo se hizo.
 
 16
-00:01:03,716 --> 00:01:07,449
-y cada punto de más es un uno por ciento más caro.
+00:00:36,740 --> 00:00:42,040
+La OCU visitó seiscientos noventa establecimientos en treinta y ocho ciudades, además de supermercados online,
 
 17
-00:01:07,449 --> 00:01:12,301
-Una tienda con índice ciento diez es un diez por ciento más cara.
+00:00:42,040 --> 00:00:43,840
+en abril y mayo de este año.
 
 18
-00:01:12,651 --> 00:01:14,942
-Vamos con el ranking de cadenas.
+00:00:43,840 --> 00:00:47,240
+Y apuntó los precios de doscientos cuarenta y cuatro productos:
 
 19
-00:01:14,942 --> 00:01:18,666
-La más barata, un año más, es Dani, con índice cien.
+00:00:47,340 --> 00:00:54,060
+marcas de fabricante y marcas blancas, frescos, envasados, bebidas, limpieza, droguería e higiene.
 
 20
-00:01:18,666 --> 00:01:21,816
-Detrás, Family Cash y Tifer, con ciento dos.
+00:00:54,420 --> 00:00:56,720
+Con eso construye un índice:
 
 21
-00:01:21,816 --> 00:01:24,394
-Y Alcampo y Supeco, con ciento tres.
+00:00:56,800 --> 00:01:00,340
+la tienda más barata vale cien, y cada punto de más es un uno por ciento
 
 22
-00:01:24,394 --> 00:01:27,544
-En el extremo contrario está Sánchez Romero,
+00:01:00,340 --> 00:01:01,480
+más caro.
 
 23
-00:01:27,544 --> 00:01:33,487
-con ciento setenta y seis: un setenta y seis por ciento más cara que la más barata.
+00:01:01,580 --> 00:01:05,060
+Una tienda con índice ciento diez es un diez por ciento más cara.
 
 24
-00:01:33,837 --> 00:01:35,494
-Y aquí viene lo curioso.
+00:01:05,760 --> 00:01:07,840
+Vamos con el ranking de cadenas.
 
 25
-00:01:35,494 --> 00:01:44,055
-El establecimiento más barato que visitó la OCU no es de una cadena pequeña: es un Alcampo en un centro comercial de Aldaia,
+00:01:08,080 --> 00:01:11,370
+La más barata, un año más, es Dani, con índice cien.
 
 26
-00:01:44,055 --> 00:01:44,883
-en Valencia.
+00:01:11,540 --> 00:01:13,780
+Detrás, Family Cash y Tifer, con ciento dos.
 
 27
-00:01:45,233 --> 00:01:48,171
-Pero la gran noticia de este año es otra.
+00:01:13,780 --> 00:01:16,807
+Y Alcampo y Supeco, con ciento tres.
 
 28
-00:01:48,171 --> 00:01:53,186
-Lidl es la opción más barata en sesenta de las localidades analizadas.
+00:01:16,920 --> 00:01:21,100
+En el extremo contrario está Sánchez Romero, con ciento setenta y seis:
 
 29
-00:01:53,186 --> 00:01:55,264
-El año pasado eran dieciocho.
+00:01:21,140 --> 00:01:24,300
+un setenta y seis por ciento más cara que la más barata.
 
 30
-00:01:55,264 --> 00:02:00,565
-Mercadona también duplica el número de localidades en las que es la mejor,
+00:01:24,940 --> 00:01:26,380
+Y aquí viene lo curioso.
 
 31
-00:02:00,565 --> 00:02:03,431
-y Supeco pasa de dieciocho a veintiocho.
+00:01:26,640 --> 00:01:30,680
+El establecimiento más barato que visitó la OCU no es de una cadena pequeña:
 
 32
-00:02:03,781 --> 00:02:04,568
-¿Por qué?
+00:01:31,120 --> 00:01:34,600
+es un Alcampo en un centro comercial de Aldaia, en Valencia.
 
 33
-00:02:04,568 --> 00:02:08,586
-Porque las grandes cadenas han bajado precios.
+00:01:34,880 --> 00:01:37,100
+Pero la gran noticia de este año es otra.
 
 34
-00:02:08,586 --> 00:02:13,042
-De veintiocho grandes enseñas, ocho bajan su cesta.
+00:01:37,380 --> 00:01:41,200
+Lidl es la opción más barata en sesenta de las localidades analizadas.
 
 35
-00:02:13,042 --> 00:02:17,148
-Carrefour Market, un dos coma siete por ciento.
+00:01:41,300 --> 00:01:42,930
+El año pasado eran dieciocho.
 
 36
-00:02:17,148 --> 00:02:19,245
-Lidl, un uno coma nueve.
+00:01:43,220 --> 00:01:46,180
+Mercadona también duplica el número de localidades en las que es la mejor,
 
 37
-00:02:19,245 --> 00:02:21,691
-Mercadona, un uno coma ocho.
+00:01:46,180 --> 00:01:48,900
+y Supeco pasa de dieciocho a veintiocho.
 
 38
-00:02:21,691 --> 00:02:23,875
-Aldi, un uno coma cuatro.
+00:01:48,980 --> 00:01:49,720
+¿Por qué?
 
 39
-00:02:23,875 --> 00:02:30,689
-En cambio, BM Urban sube un cinco coma uno y Ahorramás, un cuatro coma cuatro.
+00:01:49,980 --> 00:01:52,300
+Porque las grandes cadenas han bajado precios.
 
 40
-00:02:31,039 --> 00:02:32,614
-Y fíjate dónde se baja.
+00:01:52,660 --> 00:01:55,530
+De veintiocho grandes enseñas, ocho bajan su cesta.
 
 41
-00:02:32,614 --> 00:02:37,408
-En la cesta económica, la de los productos más baratos de cada tienda,
+00:01:55,640 --> 00:01:57,480
+Carrefour Market, un dos coma siete por ciento.
 
 42
-00:02:37,408 --> 00:02:42,476
-Mercadona baja un cinco coma seis por ciento y Lidl, un cuatro coma siete.
+00:01:57,480 --> 00:01:59,260
+Lidl, un uno coma nueve.
 
 43
-00:02:42,476 --> 00:02:45,695
-En la cesta de marcas de fabricante, en cambio,
+00:01:59,260 --> 00:02:01,060
+Mercadona, un uno coma ocho.
 
 44
-00:02:45,695 --> 00:02:49,530
-los precios suben de media un dos coma cinco por ciento.
+00:02:01,060 --> 00:02:02,600
+Aldi, un uno coma cuatro.
 
 45
-00:02:49,530 --> 00:02:56,378
-Es decir: las grandes cadenas están usando los productos económicos y de marca propia para competir.
+00:02:02,600 --> 00:02:07,365
+En cambio, BM Urban sube un cinco coma uno y Ahorramás, un cuatro coma cuatro.
 
 46
-00:02:56,378 --> 00:02:59,460
-La marca de fabricante, mientras tanto, sube.
+00:02:07,440 --> 00:02:08,760
+Y fíjate dónde se baja.
 
 47
-00:02:59,810 --> 00:03:01,454
-Eso sí, no todo baja.
+00:02:09,080 --> 00:02:11,880
+En la cesta económica, la de los productos más baratos de cada tienda,
 
 48
-00:03:01,454 --> 00:03:06,542
-En conjunto, la cesta de la OCU sube un uno coma ocho por ciento.
+00:02:11,880 --> 00:02:16,215
+Mercadona baja un cinco coma seis por ciento y Lidl, un cuatro coma siete.
 
 49
-00:03:06,542 --> 00:03:11,552
-Ciento cuarenta y nueve productos son más caros que hace un año,
+00:02:16,260 --> 00:02:19,857
+En la cesta de marcas de fabricante, en cambio, los precios suben de media un dos
 
 50
-00:03:11,552 --> 00:03:13,822
-y noventa y dos, más baratos.
+00:02:19,857 --> 00:02:20,940
+coma cinco por ciento.
 
 51
-00:03:13,822 --> 00:03:17,815
-Los frescos suben un cuatro coma siete: el pescado,
+00:02:20,940 --> 00:02:21,780
+Es decir:
 
 52
-00:03:17,815 --> 00:03:23,529
-un ocho coma seis; la carne, un tres coma siete; y las frutas y verduras,
+00:02:21,880 --> 00:02:26,180
+las grandes cadenas están usando los productos económicos y de marca propia para competir.
 
 53
-00:03:23,529 --> 00:03:25,016
-un tres coma cinco.
+00:02:26,340 --> 00:02:28,780
+La marca de fabricante, mientras tanto, sube.
 
 54
-00:03:25,366 --> 00:03:28,772
-Y si miramos más atrás, desde dos mil veintiuno,
+00:02:29,400 --> 00:02:31,800
+Eso sí, no todo baja.
 
 55
-00:03:28,772 --> 00:03:32,390
-la cesta OCU ha subido casi un cuarenta por ciento.
+00:02:32,260 --> 00:02:37,330
+En conjunto, la cesta de la OCU sube un uno coma ocho por ciento.
 
 56
-00:03:32,390 --> 00:03:36,008
-El café molido económico, un ciento cuarenta y dos.
+00:02:37,330 --> 00:02:42,020
+Ciento cuarenta y nueve productos son más caros que hace un año,
 
 57
-00:03:36,008 --> 00:03:38,845
-Los huevos M, un ciento treinta y cinco.
+00:02:42,020 --> 00:02:44,520
+y noventa y dos, más baratos.
 
 58
-00:03:38,845 --> 00:03:43,953
-Solo tres productos de los comparables cuestan hoy menos: el detergente,
+00:02:45,020 --> 00:02:48,070
+Los frescos suben un cuatro coma siete:
 
 59
-00:03:43,953 --> 00:03:46,649
-el yogur natural y la bebida de arroz.
+00:02:48,240 --> 00:02:52,870
+el pescado, un ocho coma seis; la carne, un tres coma siete;
 
 60
-00:03:46,999 --> 00:03:48,575
-Ahora, las ciudades.
+00:02:52,900 --> 00:02:56,255
+y las frutas y verduras, un tres coma cinco.
 
 61
-00:03:48,575 --> 00:03:54,565
-La localidad con precios más bajos es Torrent, en Valencia, con índice cien.
+00:02:56,420 --> 00:03:02,420
+Y si miramos más atrás, desde dos mil veintiuno, la cesta OCU ha subido casi un
 
 62
-00:03:54,565 --> 00:04:00,476
-Las más caras, Getxo, Pozuelo de Alarcón y Majadahonda, con ciento catorce.
+00:03:02,420 --> 00:03:03,845
+cuarenta por ciento.
 
 63
-00:04:00,476 --> 00:04:07,253
-Entre capitales, Barcelona, con ciento diez; Bilbao y San Sebastián, con ciento nueve.
+00:03:03,920 --> 00:03:08,020
+El café molido económico, un ciento cuarenta y dos.
 
 64
-00:04:07,603 --> 00:04:10,877
-Y la diferencia en euros: en Madrid capital,
+00:03:08,080 --> 00:03:11,484
+Los huevos M, un ciento treinta y cinco.
 
 65
-00:04:10,877 --> 00:04:17,647
-entre el súper más barato y el más caro, hasta cuatro mil trescientos ochenta y uno al año.
+00:03:11,640 --> 00:03:15,100
+Solo tres productos de los comparables cuestan hoy menos:
 
 66
-00:04:17,647 --> 00:04:21,069
-En Barcelona, unos mil ochocientos veintitrés.
+00:03:15,440 --> 00:03:18,960
+el detergente, el yogur natural y la bebida de arroz.
 
 67
-00:04:21,069 --> 00:04:26,426
-En Zaragoza o en Vigo, entre mil novecientos y dos mil ciento cincuenta.
+00:03:19,660 --> 00:03:21,340
+Ahora, las ciudades.
 
 68
-00:04:26,426 --> 00:04:30,294
-Y en Mieres, en Asturias, trescientos ochenta y uno.
+00:03:21,740 --> 00:03:26,420
+La localidad con precios más bajos es Torrent, en Valencia, con índice cien.
 
 69
-00:04:30,294 --> 00:04:34,014
-Incluso allí, dice la OCU, comparar sale a cuenta.
+00:03:26,420 --> 00:03:32,347
+Las más caras, Getxo, Pozuelo de Alarcón y Majadahonda, con ciento catorce.
 
 70
-00:04:34,364 --> 00:04:36,909
-Ahora, lo que hay que tener en cuenta.
+00:03:32,520 --> 00:03:38,427
+Entre capitales, Barcelona, con ciento diez; Bilbao y San Sebastián, con ciento nueve.
 
 71
-00:04:36,909 --> 00:04:43,539
-El supermercado más barato no es el mismo en todas partes: depende de las cadenas que tengas cerca.
+00:03:38,560 --> 00:03:40,300
+Y la diferencia en euros:
 
 72
-00:04:43,539 --> 00:04:46,887
-Es una media de abril y mayo, no el precio de hoy.
+00:03:40,680 --> 00:03:44,120
+en Madrid capital, entre el súper más barato y el más caro,
 
 73
-00:04:46,887 --> 00:04:50,638
-Los precios no recogen los efectos de la guerra de Irán,
+00:03:44,120 --> 00:03:47,640
+hasta cuatro mil trescientos ochenta y uno al año.
 
 74
-00:04:50,638 --> 00:04:54,321
-que según la OCU todavía no han llegado a los lineales.
+00:03:48,000 --> 00:03:51,045
+En Barcelona, unos mil ochocientos veintitrés.
 
 75
-00:04:54,321 --> 00:04:59,946
-Y el ranking completo, ciudad por ciudad, es de pago: aquí solo contamos lo público.
+00:03:51,300 --> 00:03:56,272
+En Zaragoza o en Vigo, entre mil novecientos y dos mil ciento cincuenta.
 
 76
-00:05:00,296 --> 00:05:04,802
-Así que, la próxima vez que vayas a comprar, piensa en su viaje.
+00:03:56,360 --> 00:04:00,528
+Y en Mieres, en Asturias, trescientos ochenta y uno.
 
 77
-00:05:04,802 --> 00:05:08,603
-Entre la tienda más barata y la más cara de tu ciudad,
+00:04:00,800 --> 00:04:04,380
+Incluso allí, dice la OCU, comparar sale a cuenta.
 
 78
-00:05:08,603 --> 00:05:11,279
-mil trescientos euros al año de media.
+00:04:04,960 --> 00:04:07,240
+Ahora, lo que hay que tener en cuenta.
 
 79
-00:05:11,279 --> 00:05:16,629
-Las grandes cadenas bajan precios en productos económicos y de marca propia.
+00:04:07,700 --> 00:04:11,000
+El supermercado más barato no es el mismo en todas partes:
 
 80
-00:05:16,629 --> 00:05:19,797
-Y los productos de marca de fabricante suben.
+00:04:11,100 --> 00:04:13,040
+depende de las cadenas que tengas cerca.
 
 81
-00:05:20,147 --> 00:05:23,913
-No hay un supermercado más barato para todo el mundo.
+00:04:13,480 --> 00:04:16,800
+Es una media de abril y mayo, no el precio de hoy.
 
 82
-00:05:23,913 --> 00:05:26,614
-La pregunta ya no es cuál es el mejor.
+00:04:17,140 --> 00:04:21,500
+Los precios no recogen los efectos de la guerra de Irán, que según la OCU todavía
 
 83
-00:05:26,614 --> 00:05:29,456
-Es cuál es el más barato donde tú vives.
+00:04:21,500 --> 00:04:23,100
+no han llegado a los lineales.
 
 84
-00:05:29,806 --> 00:05:34,451
-Aquí, cada semana, abrimos el ticket de algo que pagas todos los días.
+00:04:23,440 --> 00:04:26,940
+Y el ranking completo, ciudad por ciudad, es de pago:
 
 85
-00:05:34,451 --> 00:05:39,228
-Si quieres saber cuál es el siguiente, ya sabes lo que tienes que hacer.
+00:04:27,000 --> 00:04:28,940
+aquí solo contamos lo público.
+
+86
+00:04:29,500 --> 00:04:33,320
+Así que, la próxima vez que vayas a comprar, piensa en su viaje.
+
+87
+00:04:33,820 --> 00:04:36,460
+Entre la tienda más barata y la más cara de tu ciudad,
+
+88
+00:04:36,460 --> 00:04:39,540
+mil trescientos euros al año de media.
+
+89
+00:04:40,040 --> 00:04:43,860
+Las grandes cadenas bajan precios en productos económicos y de marca propia.
+
+90
+00:04:44,080 --> 00:04:46,960
+Y los productos de marca de fabricante suben.
+
+91
+00:04:47,340 --> 00:04:50,380
+No hay un supermercado más barato para todo el mundo.
+
+92
+00:04:50,720 --> 00:04:52,960
+La pregunta ya no es cuál es el mejor.
+
+93
+00:04:53,240 --> 00:04:56,220
+Es cuál es el más barato donde tú vives.
+
+94
+00:04:56,800 --> 00:05:00,200
+Cada semana abrimos el ticket de algo que pagas todos los días.
+
+95
+00:05:00,460 --> 00:05:01,080
+Y el próximo…
+
+96
+00:05:01,080 --> 00:05:03,960
+te va a sorprender todavía más.
+

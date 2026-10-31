@@ -1,0 +1,76 @@
+[Script Info]
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: P,Archivo Black,82,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,6,3,2,60,60,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.15,0:00:00.67,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ESO{\r} SÍ,
+Dialogue: 0,0:00:00.67,0:00:01.37,P,,0,0,0,,ESO {\c&H00D4FF&\fscx110\fscy110}SÍ,{\r}
+Dialogue: 0,0:00:01.37,0:00:01.55,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}NO{\r} TODO BAJA.
+Dialogue: 0,0:00:01.55,0:00:01.89,P,,0,0,0,,NO {\c&H00D4FF&\fscx110\fscy110}TODO{\r} BAJA.
+Dialogue: 0,0:00:01.89,0:00:03.01,P,,0,0,0,,NO TODO {\c&H00D4FF&\fscx110\fscy110}BAJA.{\r}
+Dialogue: 0,0:00:03.01,0:00:03.29,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EN{\r} CONJUNTO,
+Dialogue: 0,0:00:03.29,0:00:04.27,P,,0,0,0,,EN {\c&H00D4FF&\fscx110\fscy110}CONJUNTO,{\r}
+Dialogue: 0,0:00:04.27,0:00:04.35,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LA{\r} CESTA DE LA
+Dialogue: 0,0:00:04.35,0:00:04.67,P,,0,0,0,,LA {\c&H00D4FF&\fscx110\fscy110}CESTA{\r} DE LA
+Dialogue: 0,0:00:04.67,0:00:04.81,P,,0,0,0,,LA CESTA {\c&H00D4FF&\fscx110\fscy110}DE{\r} LA
+Dialogue: 0,0:00:04.81,0:00:04.91,P,,0,0,0,,LA CESTA DE {\c&H00D4FF&\fscx110\fscy110}LA{\r}
+Dialogue: 0,0:00:04.91,0:00:05.17,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}OCU{\r} SUBE UN UNO
+Dialogue: 0,0:00:05.17,0:00:05.65,P,,0,0,0,,OCU {\c&H00D4FF&\fscx110\fscy110}SUBE{\r} UN UNO
+Dialogue: 0,0:00:05.65,0:00:05.85,P,,0,0,0,,OCU SUBE {\c&H00D4FF&\fscx110\fscy110}UN{\r} UNO
+Dialogue: 0,0:00:05.85,0:00:06.30,P,,0,0,0,,OCU SUBE UN {\c&H00D4FF&\fscx110\fscy110}UNO{\r}
+Dialogue: 0,0:00:06.30,0:00:06.74,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}COMA{\r} OCHO POR CIENTO.
+Dialogue: 0,0:00:06.74,0:00:07.19,P,,0,0,0,,COMA {\c&H00D4FF&\fscx110\fscy110}OCHO{\r} POR CIENTO.
+Dialogue: 0,0:00:07.19,0:00:07.63,P,,0,0,0,,COMA OCHO {\c&H00D4FF&\fscx110\fscy110}POR{\r} CIENTO.
+Dialogue: 0,0:00:07.63,0:00:08.08,P,,0,0,0,,COMA OCHO POR {\c&H00D4FF&\fscx110\fscy110}CIENTO.{\r}
+Dialogue: 0,0:00:08.08,0:00:08.53,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CIENTO{\r} CUARENTA Y NUEVE
+Dialogue: 0,0:00:08.53,0:00:08.97,P,,0,0,0,,CIENTO {\c&H00D4FF&\fscx110\fscy110}CUARENTA{\r} Y NUEVE
+Dialogue: 0,0:00:08.97,0:00:09.42,P,,0,0,0,,CIENTO CUARENTA {\c&H00D4FF&\fscx110\fscy110}Y{\r} NUEVE
+Dialogue: 0,0:00:09.42,0:00:10.31,P,,0,0,0,,CIENTO CUARENTA Y {\c&H00D4FF&\fscx110\fscy110}NUEVE{\r}
+Dialogue: 0,0:00:10.31,0:00:10.81,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}PRODUCTOS{\r} SON MÁS CAROS
+Dialogue: 0,0:00:10.81,0:00:11.29,P,,0,0,0,,PRODUCTOS {\c&H00D4FF&\fscx110\fscy110}SON{\r} MÁS CAROS
+Dialogue: 0,0:00:11.29,0:00:11.69,P,,0,0,0,,PRODUCTOS SON {\c&H00D4FF&\fscx110\fscy110}MÁS{\r} CAROS
+Dialogue: 0,0:00:11.69,0:00:12.13,P,,0,0,0,,PRODUCTOS SON MÁS {\c&H00D4FF&\fscx110\fscy110}CAROS{\r}
+Dialogue: 0,0:00:12.13,0:00:12.23,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}QUE{\r} HACE UN AÑO,
+Dialogue: 0,0:00:12.23,0:00:12.39,P,,0,0,0,,QUE {\c&H00D4FF&\fscx110\fscy110}HACE{\r} UN AÑO,
+Dialogue: 0,0:00:12.39,0:00:12.57,P,,0,0,0,,QUE HACE {\c&H00D4FF&\fscx110\fscy110}UN{\r} AÑO,
+Dialogue: 0,0:00:12.57,0:00:12.77,P,,0,0,0,,QUE HACE UN {\c&H00D4FF&\fscx110\fscy110}AÑO,{\r}
+Dialogue: 0,0:00:12.77,0:00:13.39,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} NOVENTA Y DOS,
+Dialogue: 0,0:00:13.39,0:00:13.53,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}NOVENTA{\r} Y DOS,
+Dialogue: 0,0:00:13.53,0:00:13.67,P,,0,0,0,,Y NOVENTA {\c&H00D4FF&\fscx110\fscy110}Y{\r} DOS,
+Dialogue: 0,0:00:13.67,0:00:13.95,P,,0,0,0,,Y NOVENTA Y {\c&H00D4FF&\fscx110\fscy110}DOS,{\r}
+Dialogue: 0,0:00:13.95,0:00:14.61,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MÁS{\r} BARATOS.
+Dialogue: 0,0:00:14.61,0:00:15.77,P,,0,0,0,,MÁS {\c&H00D4FF&\fscx110\fscy110}BARATOS.{\r}
+Dialogue: 0,0:00:15.77,0:00:16.07,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LOS{\r} FRESCOS SUBEN UN
+Dialogue: 0,0:00:16.07,0:00:16.45,P,,0,0,0,,LOS {\c&H00D4FF&\fscx110\fscy110}FRESCOS{\r} SUBEN UN
+Dialogue: 0,0:00:16.45,0:00:16.99,P,,0,0,0,,LOS FRESCOS {\c&H00D4FF&\fscx110\fscy110}SUBEN{\r} UN
+Dialogue: 0,0:00:16.99,0:00:17.11,P,,0,0,0,,LOS FRESCOS SUBEN {\c&H00D4FF&\fscx110\fscy110}UN{\r}
+Dialogue: 0,0:00:17.11,0:00:17.58,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CUATRO{\r} COMA SIETE:
+Dialogue: 0,0:00:17.58,0:00:18.05,P,,0,0,0,,CUATRO {\c&H00D4FF&\fscx110\fscy110}COMA{\r} SIETE:
+Dialogue: 0,0:00:18.05,0:00:18.99,P,,0,0,0,,CUATRO COMA {\c&H00D4FF&\fscx110\fscy110}SIETE:{\r}
+Dialogue: 0,0:00:18.99,0:00:19.17,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EL{\r} PESCADO,
+Dialogue: 0,0:00:19.17,0:00:19.59,P,,0,0,0,,EL {\c&H00D4FF&\fscx110\fscy110}PESCADO,{\r}
+Dialogue: 0,0:00:19.59,0:00:20.01,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}UN{\r} OCHO COMA SEIS;
+Dialogue: 0,0:00:20.01,0:00:20.35,P,,0,0,0,,UN {\c&H00D4FF&\fscx110\fscy110}OCHO{\r} COMA SEIS;
+Dialogue: 0,0:00:20.35,0:00:20.70,P,,0,0,0,,UN OCHO {\c&H00D4FF&\fscx110\fscy110}COMA{\r} SEIS;
+Dialogue: 0,0:00:20.70,0:00:21.39,P,,0,0,0,,UN OCHO COMA {\c&H00D4FF&\fscx110\fscy110}SEIS;{\r}
+Dialogue: 0,0:00:21.39,0:00:21.63,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LA{\r} CARNE,
+Dialogue: 0,0:00:21.63,0:00:21.89,P,,0,0,0,,LA {\c&H00D4FF&\fscx110\fscy110}CARNE,{\r}
+Dialogue: 0,0:00:21.89,0:00:22.33,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}UN{\r} TRES COMA SIETE;
+Dialogue: 0,0:00:22.33,0:00:22.66,P,,0,0,0,,UN {\c&H00D4FF&\fscx110\fscy110}TRES{\r} COMA SIETE;
+Dialogue: 0,0:00:22.66,0:00:22.99,P,,0,0,0,,UN TRES {\c&H00D4FF&\fscx110\fscy110}COMA{\r} SIETE;
+Dialogue: 0,0:00:22.99,0:00:23.65,P,,0,0,0,,UN TRES COMA {\c&H00D4FF&\fscx110\fscy110}SIETE;{\r}
+Dialogue: 0,0:00:23.65,0:00:23.91,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} LAS FRUTAS Y
+Dialogue: 0,0:00:23.91,0:00:24.09,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}LAS{\r} FRUTAS Y
+Dialogue: 0,0:00:24.09,0:00:24.43,P,,0,0,0,,Y LAS {\c&H00D4FF&\fscx110\fscy110}FRUTAS{\r} Y
+Dialogue: 0,0:00:24.43,0:00:24.53,P,,0,0,0,,Y LAS FRUTAS {\c&H00D4FF&\fscx110\fscy110}Y{\r}
+Dialogue: 0,0:00:24.53,0:00:24.87,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}VERDURAS,{\r}
+Dialogue: 0,0:00:24.87,0:00:25.31,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}UN{\r} TRES COMA CINCO.
+Dialogue: 0,0:00:25.31,0:00:25.78,P,,0,0,0,,UN {\c&H00D4FF&\fscx110\fscy110}TRES{\r} COMA CINCO.
+Dialogue: 0,0:00:25.78,0:00:26.24,P,,0,0,0,,UN TRES {\c&H00D4FF&\fscx110\fscy110}COMA{\r} CINCO.
+Dialogue: 0,0:00:26.24,0:00:27.10,P,,0,0,0,,UN TRES COMA {\c&H00D4FF&\fscx110\fscy110}CINCO.{\r}

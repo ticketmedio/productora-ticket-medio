@@ -1,0 +1,66 @@
+[Script Info]
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: P,Archivo Black,82,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,6,3,2,60,60,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.15,0:00:00.53,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} SI MIRAMOS MÁS
+Dialogue: 0,0:00:00.53,0:00:00.67,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}SI{\r} MIRAMOS MÁS
+Dialogue: 0,0:00:00.67,0:00:01.05,P,,0,0,0,,Y SI {\c&H00D4FF&\fscx110\fscy110}MIRAMOS{\r} MÁS
+Dialogue: 0,0:00:01.05,0:00:01.47,P,,0,0,0,,Y SI MIRAMOS {\c&H00D4FF&\fscx110\fscy110}MÁS{\r}
+Dialogue: 0,0:00:01.47,0:00:02.37,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ATRÁS,{\r}
+Dialogue: 0,0:00:02.37,0:00:02.49,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DESDE{\r} DOS MIL VEINTIUNO,
+Dialogue: 0,0:00:02.49,0:00:02.88,P,,0,0,0,,DESDE {\c&H00D4FF&\fscx110\fscy110}DOS{\r} MIL VEINTIUNO,
+Dialogue: 0,0:00:02.88,0:00:03.27,P,,0,0,0,,DESDE DOS {\c&H00D4FF&\fscx110\fscy110}MIL{\r} VEINTIUNO,
+Dialogue: 0,0:00:03.27,0:00:04.05,P,,0,0,0,,DESDE DOS MIL {\c&H00D4FF&\fscx110\fscy110}VEINTIUNO,{\r}
+Dialogue: 0,0:00:04.05,0:00:04.29,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LA{\r} CESTA OCU HA
+Dialogue: 0,0:00:04.29,0:00:04.61,P,,0,0,0,,LA {\c&H00D4FF&\fscx110\fscy110}CESTA{\r} OCU HA
+Dialogue: 0,0:00:04.61,0:00:04.89,P,,0,0,0,,LA CESTA {\c&H00D4FF&\fscx110\fscy110}OCU{\r} HA
+Dialogue: 0,0:00:04.89,0:00:05.15,P,,0,0,0,,LA CESTA OCU {\c&H00D4FF&\fscx110\fscy110}HA{\r}
+Dialogue: 0,0:00:05.15,0:00:05.49,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SUBIDO{\r} CASI UN CUARENTA
+Dialogue: 0,0:00:05.49,0:00:05.73,P,,0,0,0,,SUBIDO {\c&H00D4FF&\fscx110\fscy110}CASI{\r} UN CUARENTA
+Dialogue: 0,0:00:05.73,0:00:06.15,P,,0,0,0,,SUBIDO CASI {\c&H00D4FF&\fscx110\fscy110}UN{\r} CUARENTA
+Dialogue: 0,0:00:06.15,0:00:06.53,P,,0,0,0,,SUBIDO CASI UN {\c&H00D4FF&\fscx110\fscy110}CUARENTA{\r}
+Dialogue: 0,0:00:06.53,0:00:06.90,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}POR{\r} CIENTO.
+Dialogue: 0,0:00:06.90,0:00:07.65,P,,0,0,0,,POR {\c&H00D4FF&\fscx110\fscy110}CIENTO.{\r}
+Dialogue: 0,0:00:07.65,0:00:08.51,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EL{\r} CAFÉ MOLIDO ECONÓMICO,
+Dialogue: 0,0:00:08.51,0:00:08.71,P,,0,0,0,,EL {\c&H00D4FF&\fscx110\fscy110}CAFÉ{\r} MOLIDO ECONÓMICO,
+Dialogue: 0,0:00:08.71,0:00:09.07,P,,0,0,0,,EL CAFÉ {\c&H00D4FF&\fscx110\fscy110}MOLIDO{\r} ECONÓMICO,
+Dialogue: 0,0:00:09.07,0:00:09.59,P,,0,0,0,,EL CAFÉ MOLIDO {\c&H00D4FF&\fscx110\fscy110}ECONÓMICO,{\r}
+Dialogue: 0,0:00:09.59,0:00:10.01,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}UN{\r} CIENTO CUARENTA Y
+Dialogue: 0,0:00:10.01,0:00:10.37,P,,0,0,0,,UN {\c&H00D4FF&\fscx110\fscy110}CIENTO{\r} CUARENTA Y
+Dialogue: 0,0:00:10.37,0:00:10.73,P,,0,0,0,,UN CIENTO {\c&H00D4FF&\fscx110\fscy110}CUARENTA{\r} Y
+Dialogue: 0,0:00:10.73,0:00:11.09,P,,0,0,0,,UN CIENTO CUARENTA {\c&H00D4FF&\fscx110\fscy110}Y{\r}
+Dialogue: 0,0:00:11.09,0:00:11.81,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DOS.{\r}
+Dialogue: 0,0:00:11.81,0:00:12.11,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LOS{\r} HUEVOS M,
+Dialogue: 0,0:00:12.11,0:00:12.37,P,,0,0,0,,LOS {\c&H00D4FF&\fscx110\fscy110}HUEVOS{\r} M,
+Dialogue: 0,0:00:12.37,0:00:12.57,P,,0,0,0,,LOS HUEVOS {\c&H00D4FF&\fscx110\fscy110}M,{\r}
+Dialogue: 0,0:00:12.57,0:00:13.09,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}UN{\r} CIENTO TREINTA Y
+Dialogue: 0,0:00:13.09,0:00:13.55,P,,0,0,0,,UN {\c&H00D4FF&\fscx110\fscy110}CIENTO{\r} TREINTA Y
+Dialogue: 0,0:00:13.55,0:00:14.00,P,,0,0,0,,UN CIENTO {\c&H00D4FF&\fscx110\fscy110}TREINTA{\r} Y
+Dialogue: 0,0:00:14.00,0:00:14.46,P,,0,0,0,,UN CIENTO TREINTA {\c&H00D4FF&\fscx110\fscy110}Y{\r}
+Dialogue: 0,0:00:14.46,0:00:15.37,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CINCO.{\r}
+Dialogue: 0,0:00:15.37,0:00:15.69,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SOLO{\r} TRES PRODUCTOS DE
+Dialogue: 0,0:00:15.69,0:00:16.17,P,,0,0,0,,SOLO {\c&H00D4FF&\fscx110\fscy110}TRES{\r} PRODUCTOS DE
+Dialogue: 0,0:00:16.17,0:00:16.73,P,,0,0,0,,SOLO TRES {\c&H00D4FF&\fscx110\fscy110}PRODUCTOS{\r} DE
+Dialogue: 0,0:00:16.73,0:00:16.93,P,,0,0,0,,SOLO TRES PRODUCTOS {\c&H00D4FF&\fscx110\fscy110}DE{\r}
+Dialogue: 0,0:00:16.93,0:00:17.05,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LOS{\r} COMPARABLES CUESTAN HOY
+Dialogue: 0,0:00:17.05,0:00:17.61,P,,0,0,0,,LOS {\c&H00D4FF&\fscx110\fscy110}COMPARABLES{\r} CUESTAN HOY
+Dialogue: 0,0:00:17.61,0:00:18.17,P,,0,0,0,,LOS COMPARABLES {\c&H00D4FF&\fscx110\fscy110}CUESTAN{\r} HOY
+Dialogue: 0,0:00:18.17,0:00:18.27,P,,0,0,0,,LOS COMPARABLES CUESTAN {\c&H00D4FF&\fscx110\fscy110}HOY{\r}
+Dialogue: 0,0:00:18.27,0:00:19.17,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MENOS:{\r}
+Dialogue: 0,0:00:19.17,0:00:19.31,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EL{\r} DETERGENTE,
+Dialogue: 0,0:00:19.31,0:00:20.35,P,,0,0,0,,EL {\c&H00D4FF&\fscx110\fscy110}DETERGENTE,{\r}
+Dialogue: 0,0:00:20.35,0:00:20.41,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EL{\r} YOGUR NATURAL Y
+Dialogue: 0,0:00:20.41,0:00:20.69,P,,0,0,0,,EL {\c&H00D4FF&\fscx110\fscy110}YOGUR{\r} NATURAL Y
+Dialogue: 0,0:00:20.69,0:00:21.09,P,,0,0,0,,EL YOGUR {\c&H00D4FF&\fscx110\fscy110}NATURAL{\r} Y
+Dialogue: 0,0:00:21.09,0:00:21.55,P,,0,0,0,,EL YOGUR NATURAL {\c&H00D4FF&\fscx110\fscy110}Y{\r}
+Dialogue: 0,0:00:21.55,0:00:21.67,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LA{\r} BEBIDA DE ARROZ.
+Dialogue: 0,0:00:21.67,0:00:21.97,P,,0,0,0,,LA {\c&H00D4FF&\fscx110\fscy110}BEBIDA{\r} DE ARROZ.
+Dialogue: 0,0:00:21.97,0:00:22.11,P,,0,0,0,,LA BEBIDA {\c&H00D4FF&\fscx110\fscy110}DE{\r} ARROZ.
+Dialogue: 0,0:00:22.11,0:00:22.79,P,,0,0,0,,LA BEBIDA DE {\c&H00D4FF&\fscx110\fscy110}ARROZ.{\r}

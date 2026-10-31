@@ -1,0 +1,86 @@
+[Script Info]
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: P,Archivo Black,82,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,6,3,2,60,60,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.15,0:00:00.31,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} FÍJATE DÓNDE SE
+Dialogue: 0,0:00:00.31,0:00:00.61,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}FÍJATE{\r} DÓNDE SE
+Dialogue: 0,0:00:00.61,0:00:00.77,P,,0,0,0,,Y FÍJATE {\c&H00D4FF&\fscx110\fscy110}DÓNDE{\r} SE
+Dialogue: 0,0:00:00.77,0:00:00.97,P,,0,0,0,,Y FÍJATE DÓNDE {\c&H00D4FF&\fscx110\fscy110}SE{\r}
+Dialogue: 0,0:00:00.97,0:00:01.79,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}BAJA.{\r}
+Dialogue: 0,0:00:01.79,0:00:01.93,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EN{\r} LA CESTA ECONÓMICA,
+Dialogue: 0,0:00:01.93,0:00:02.01,P,,0,0,0,,EN {\c&H00D4FF&\fscx110\fscy110}LA{\r} CESTA ECONÓMICA,
+Dialogue: 0,0:00:02.01,0:00:02.21,P,,0,0,0,,EN LA {\c&H00D4FF&\fscx110\fscy110}CESTA{\r} ECONÓMICA,
+Dialogue: 0,0:00:02.21,0:00:02.89,P,,0,0,0,,EN LA CESTA {\c&H00D4FF&\fscx110\fscy110}ECONÓMICA,{\r}
+Dialogue: 0,0:00:02.89,0:00:02.95,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LA{\r} DE LOS PRODUCTOS
+Dialogue: 0,0:00:02.95,0:00:03.05,P,,0,0,0,,LA {\c&H00D4FF&\fscx110\fscy110}DE{\r} LOS PRODUCTOS
+Dialogue: 0,0:00:03.05,0:00:03.15,P,,0,0,0,,LA DE {\c&H00D4FF&\fscx110\fscy110}LOS{\r} PRODUCTOS
+Dialogue: 0,0:00:03.15,0:00:03.47,P,,0,0,0,,LA DE LOS {\c&H00D4FF&\fscx110\fscy110}PRODUCTOS{\r}
+Dialogue: 0,0:00:03.47,0:00:03.73,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MÁS{\r} BARATOS DE CADA
+Dialogue: 0,0:00:03.73,0:00:04.03,P,,0,0,0,,MÁS {\c&H00D4FF&\fscx110\fscy110}BARATOS{\r} DE CADA
+Dialogue: 0,0:00:04.03,0:00:04.17,P,,0,0,0,,MÁS BARATOS {\c&H00D4FF&\fscx110\fscy110}DE{\r} CADA
+Dialogue: 0,0:00:04.17,0:00:04.29,P,,0,0,0,,MÁS BARATOS DE {\c&H00D4FF&\fscx110\fscy110}CADA{\r}
+Dialogue: 0,0:00:04.29,0:00:04.59,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}TIENDA,{\r}
+Dialogue: 0,0:00:04.59,0:00:05.41,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MERCADONA{\r} BAJA UN CINCO
+Dialogue: 0,0:00:05.41,0:00:05.65,P,,0,0,0,,MERCADONA {\c&H00D4FF&\fscx110\fscy110}BAJA{\r} UN CINCO
+Dialogue: 0,0:00:05.65,0:00:05.81,P,,0,0,0,,MERCADONA BAJA {\c&H00D4FF&\fscx110\fscy110}UN{\r} CINCO
+Dialogue: 0,0:00:05.81,0:00:05.98,P,,0,0,0,,MERCADONA BAJA UN {\c&H00D4FF&\fscx110\fscy110}CINCO{\r}
+Dialogue: 0,0:00:05.98,0:00:06.14,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}COMA{\r} SEIS POR CIENTO
+Dialogue: 0,0:00:06.14,0:00:06.31,P,,0,0,0,,COMA {\c&H00D4FF&\fscx110\fscy110}SEIS{\r} POR CIENTO
+Dialogue: 0,0:00:06.31,0:00:06.48,P,,0,0,0,,COMA SEIS {\c&H00D4FF&\fscx110\fscy110}POR{\r} CIENTO
+Dialogue: 0,0:00:06.48,0:00:06.81,P,,0,0,0,,COMA SEIS POR {\c&H00D4FF&\fscx110\fscy110}CIENTO{\r}
+Dialogue: 0,0:00:06.81,0:00:07.19,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} LIDL,
+Dialogue: 0,0:00:07.19,0:00:07.49,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}LIDL,{\r}
+Dialogue: 0,0:00:07.49,0:00:07.59,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}UN{\r} CUATRO COMA SIETE.
+Dialogue: 0,0:00:07.59,0:00:07.94,P,,0,0,0,,UN {\c&H00D4FF&\fscx110\fscy110}CUATRO{\r} COMA SIETE.
+Dialogue: 0,0:00:07.94,0:00:08.28,P,,0,0,0,,UN CUATRO {\c&H00D4FF&\fscx110\fscy110}COMA{\r} SIETE.
+Dialogue: 0,0:00:08.28,0:00:08.97,P,,0,0,0,,UN CUATRO COMA {\c&H00D4FF&\fscx110\fscy110}SIETE.{\r}
+Dialogue: 0,0:00:08.97,0:00:09.13,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EN{\r} LA CESTA DE
+Dialogue: 0,0:00:09.13,0:00:09.21,P,,0,0,0,,EN {\c&H00D4FF&\fscx110\fscy110}LA{\r} CESTA DE
+Dialogue: 0,0:00:09.21,0:00:09.41,P,,0,0,0,,EN LA {\c&H00D4FF&\fscx110\fscy110}CESTA{\r} DE
+Dialogue: 0,0:00:09.41,0:00:09.53,P,,0,0,0,,EN LA CESTA {\c&H00D4FF&\fscx110\fscy110}DE{\r}
+Dialogue: 0,0:00:09.53,0:00:09.77,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MARCAS{\r} DE FABRICANTE,
+Dialogue: 0,0:00:09.77,0:00:09.89,P,,0,0,0,,MARCAS {\c&H00D4FF&\fscx110\fscy110}DE{\r} FABRICANTE,
+Dialogue: 0,0:00:09.89,0:00:10.47,P,,0,0,0,,MARCAS DE {\c&H00D4FF&\fscx110\fscy110}FABRICANTE,{\r}
+Dialogue: 0,0:00:10.47,0:00:10.52,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EN{\r} CAMBIO,
+Dialogue: 0,0:00:10.51,0:00:11.15,P,,0,0,0,,EN {\c&H00D4FF&\fscx110\fscy110}CAMBIO,{\r}
+Dialogue: 0,0:00:11.15,0:00:11.27,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LOS{\r} PRECIOS SUBEN DE
+Dialogue: 0,0:00:11.27,0:00:11.55,P,,0,0,0,,LOS {\c&H00D4FF&\fscx110\fscy110}PRECIOS{\r} SUBEN DE
+Dialogue: 0,0:00:11.55,0:00:11.79,P,,0,0,0,,LOS PRECIOS {\c&H00D4FF&\fscx110\fscy110}SUBEN{\r} DE
+Dialogue: 0,0:00:11.79,0:00:11.89,P,,0,0,0,,LOS PRECIOS SUBEN {\c&H00D4FF&\fscx110\fscy110}DE{\r}
+Dialogue: 0,0:00:11.89,0:00:12.09,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MEDIA{\r} UN DOS COMA
+Dialogue: 0,0:00:12.09,0:00:12.35,P,,0,0,0,,MEDIA {\c&H00D4FF&\fscx110\fscy110}UN{\r} DOS COMA
+Dialogue: 0,0:00:12.35,0:00:12.57,P,,0,0,0,,MEDIA UN {\c&H00D4FF&\fscx110\fscy110}DOS{\r} COMA
+Dialogue: 0,0:00:12.57,0:00:12.78,P,,0,0,0,,MEDIA UN DOS {\c&H00D4FF&\fscx110\fscy110}COMA{\r}
+Dialogue: 0,0:00:12.78,0:00:13.00,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CINCO{\r} POR CIENTO.
+Dialogue: 0,0:00:13.00,0:00:13.22,P,,0,0,0,,CINCO {\c&H00D4FF&\fscx110\fscy110}POR{\r} CIENTO.
+Dialogue: 0,0:00:13.22,0:00:13.65,P,,0,0,0,,CINCO POR {\c&H00D4FF&\fscx110\fscy110}CIENTO.{\r}
+Dialogue: 0,0:00:13.65,0:00:13.97,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ES{\r} DECIR:
+Dialogue: 0,0:00:13.97,0:00:14.59,P,,0,0,0,,ES {\c&H00D4FF&\fscx110\fscy110}DECIR:{\r}
+Dialogue: 0,0:00:14.59,0:00:14.73,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LAS{\r} GRANDES CADENAS ESTÁN
+Dialogue: 0,0:00:14.73,0:00:15.01,P,,0,0,0,,LAS {\c&H00D4FF&\fscx110\fscy110}GRANDES{\r} CADENAS ESTÁN
+Dialogue: 0,0:00:15.01,0:00:15.41,P,,0,0,0,,LAS GRANDES {\c&H00D4FF&\fscx110\fscy110}CADENAS{\r} ESTÁN
+Dialogue: 0,0:00:15.41,0:00:15.69,P,,0,0,0,,LAS GRANDES CADENAS {\c&H00D4FF&\fscx110\fscy110}ESTÁN{\r}
+Dialogue: 0,0:00:15.69,0:00:15.93,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}USANDO{\r} LOS PRODUCTOS ECONÓMICOS
+Dialogue: 0,0:00:15.93,0:00:16.15,P,,0,0,0,,USANDO {\c&H00D4FF&\fscx110\fscy110}LOS{\r} PRODUCTOS ECONÓMICOS
+Dialogue: 0,0:00:16.15,0:00:16.47,P,,0,0,0,,USANDO LOS {\c&H00D4FF&\fscx110\fscy110}PRODUCTOS{\r} ECONÓMICOS
+Dialogue: 0,0:00:16.47,0:00:17.13,P,,0,0,0,,USANDO LOS PRODUCTOS {\c&H00D4FF&\fscx110\fscy110}ECONÓMICOS{\r}
+Dialogue: 0,0:00:17.13,0:00:17.27,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} DE MARCA PROPIA
+Dialogue: 0,0:00:17.27,0:00:17.35,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}DE{\r} MARCA PROPIA
+Dialogue: 0,0:00:17.35,0:00:17.53,P,,0,0,0,,Y DE {\c&H00D4FF&\fscx110\fscy110}MARCA{\r} PROPIA
+Dialogue: 0,0:00:17.53,0:00:17.89,P,,0,0,0,,Y DE MARCA {\c&H00D4FF&\fscx110\fscy110}PROPIA{\r}
+Dialogue: 0,0:00:17.89,0:00:18.11,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}PARA{\r} COMPETIR.
+Dialogue: 0,0:00:18.11,0:00:19.05,P,,0,0,0,,PARA {\c&H00D4FF&\fscx110\fscy110}COMPETIR.{\r}
+Dialogue: 0,0:00:19.05,0:00:19.15,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LA{\r} MARCA DE FABRICANTE,
+Dialogue: 0,0:00:19.15,0:00:19.31,P,,0,0,0,,LA {\c&H00D4FF&\fscx110\fscy110}MARCA{\r} DE FABRICANTE,
+Dialogue: 0,0:00:19.31,0:00:19.43,P,,0,0,0,,LA MARCA {\c&H00D4FF&\fscx110\fscy110}DE{\r} FABRICANTE,
+Dialogue: 0,0:00:19.43,0:00:20.03,P,,0,0,0,,LA MARCA DE {\c&H00D4FF&\fscx110\fscy110}FABRICANTE,{\r}
+Dialogue: 0,0:00:20.03,0:00:20.25,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MIENTRAS{\r} TANTO,
+Dialogue: 0,0:00:20.25,0:00:20.91,P,,0,0,0,,MIENTRAS {\c&H00D4FF&\fscx110\fscy110}TANTO,{\r}
+Dialogue: 0,0:00:20.91,0:00:21.59,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SUBE.{\r}

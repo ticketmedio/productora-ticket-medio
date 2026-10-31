@@ -1,0 +1,96 @@
+[Script Info]
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: P,Archivo Black,82,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,6,3,2,60,60,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.15,0:00:01.29,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}PRIMERO,{\r}
+Dialogue: 0,0:00:01.29,0:00:01.43,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CÓMO{\r} SE HIZO.
+Dialogue: 0,0:00:01.43,0:00:01.61,P,,0,0,0,,CÓMO {\c&H00D4FF&\fscx110\fscy110}SE{\r} HIZO.
+Dialogue: 0,0:00:01.61,0:00:02.75,P,,0,0,0,,CÓMO SE {\c&H00D4FF&\fscx110\fscy110}HIZO.{\r}
+Dialogue: 0,0:00:02.75,0:00:02.95,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LA{\r} OCU VISITÓ SEISCIENTOS
+Dialogue: 0,0:00:02.95,0:00:03.13,P,,0,0,0,,LA {\c&H00D4FF&\fscx110\fscy110}OCU{\r} VISITÓ SEISCIENTOS
+Dialogue: 0,0:00:03.13,0:00:03.55,P,,0,0,0,,LA OCU {\c&H00D4FF&\fscx110\fscy110}VISITÓ{\r} SEISCIENTOS
+Dialogue: 0,0:00:03.55,0:00:03.82,P,,0,0,0,,LA OCU VISITÓ {\c&H00D4FF&\fscx110\fscy110}SEISCIENTOS{\r}
+Dialogue: 0,0:00:03.82,0:00:04.37,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}NOVENTA{\r} ESTABLECIMIENTOS EN TREINTA
+Dialogue: 0,0:00:04.37,0:00:05.11,P,,0,0,0,,NOVENTA {\c&H00D4FF&\fscx110\fscy110}ESTABLECIMIENTOS{\r} EN TREINTA
+Dialogue: 0,0:00:05.11,0:00:05.41,P,,0,0,0,,NOVENTA ESTABLECIMIENTOS {\c&H00D4FF&\fscx110\fscy110}EN{\r} TREINTA
+Dialogue: 0,0:00:05.41,0:00:05.49,P,,0,0,0,,NOVENTA ESTABLECIMIENTOS EN {\c&H00D4FF&\fscx110\fscy110}TREINTA{\r}
+Dialogue: 0,0:00:05.49,0:00:05.57,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} OCHO CIUDADES,
+Dialogue: 0,0:00:05.57,0:00:05.73,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}OCHO{\r} CIUDADES,
+Dialogue: 0,0:00:05.73,0:00:06.69,P,,0,0,0,,Y OCHO {\c&H00D4FF&\fscx110\fscy110}CIUDADES,{\r}
+Dialogue: 0,0:00:06.69,0:00:06.95,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ADEMÁS{\r} DE SUPERMERCADOS ONLINE,
+Dialogue: 0,0:00:06.95,0:00:07.15,P,,0,0,0,,ADEMÁS {\c&H00D4FF&\fscx110\fscy110}DE{\r} SUPERMERCADOS ONLINE,
+Dialogue: 0,0:00:07.15,0:00:07.73,P,,0,0,0,,ADEMÁS DE {\c&H00D4FF&\fscx110\fscy110}SUPERMERCADOS{\r} ONLINE,
+Dialogue: 0,0:00:07.73,0:00:08.05,P,,0,0,0,,ADEMÁS DE SUPERMERCADOS {\c&H00D4FF&\fscx110\fscy110}ONLINE,{\r}
+Dialogue: 0,0:00:08.05,0:00:08.63,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EN{\r} ABRIL Y MAYO
+Dialogue: 0,0:00:08.63,0:00:08.89,P,,0,0,0,,EN {\c&H00D4FF&\fscx110\fscy110}ABRIL{\r} Y MAYO
+Dialogue: 0,0:00:08.89,0:00:09.05,P,,0,0,0,,EN ABRIL {\c&H00D4FF&\fscx110\fscy110}Y{\r} MAYO
+Dialogue: 0,0:00:09.05,0:00:09.29,P,,0,0,0,,EN ABRIL Y {\c&H00D4FF&\fscx110\fscy110}MAYO{\r}
+Dialogue: 0,0:00:09.29,0:00:09.45,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DE{\r} ESTE AÑO.
+Dialogue: 0,0:00:09.45,0:00:09.61,P,,0,0,0,,DE {\c&H00D4FF&\fscx110\fscy110}ESTE{\r} AÑO.
+Dialogue: 0,0:00:09.61,0:00:09.85,P,,0,0,0,,DE ESTE {\c&H00D4FF&\fscx110\fscy110}AÑO.{\r}
+Dialogue: 0,0:00:09.85,0:00:10.39,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} APUNTÓ LOS PRECIOS
+Dialogue: 0,0:00:10.39,0:00:10.79,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}APUNTÓ{\r} LOS PRECIOS
+Dialogue: 0,0:00:10.79,0:00:10.93,P,,0,0,0,,Y APUNTÓ {\c&H00D4FF&\fscx110\fscy110}LOS{\r} PRECIOS
+Dialogue: 0,0:00:10.93,0:00:11.23,P,,0,0,0,,Y APUNTÓ LOS {\c&H00D4FF&\fscx110\fscy110}PRECIOS{\r}
+Dialogue: 0,0:00:11.23,0:00:11.37,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DE{\r} DOSCIENTOS CUARENTA Y
+Dialogue: 0,0:00:11.37,0:00:11.59,P,,0,0,0,,DE {\c&H00D4FF&\fscx110\fscy110}DOSCIENTOS{\r} CUARENTA Y
+Dialogue: 0,0:00:11.59,0:00:11.82,P,,0,0,0,,DE DOSCIENTOS {\c&H00D4FF&\fscx110\fscy110}CUARENTA{\r} Y
+Dialogue: 0,0:00:11.82,0:00:12.04,P,,0,0,0,,DE DOSCIENTOS CUARENTA {\c&H00D4FF&\fscx110\fscy110}Y{\r}
+Dialogue: 0,0:00:12.04,0:00:12.49,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CUATRO{\r} PRODUCTOS:
+Dialogue: 0,0:00:12.49,0:00:13.35,P,,0,0,0,,CUATRO {\c&H00D4FF&\fscx110\fscy110}PRODUCTOS:{\r}
+Dialogue: 0,0:00:13.35,0:00:13.67,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MARCAS{\r} DE FABRICANTE Y
+Dialogue: 0,0:00:13.67,0:00:13.81,P,,0,0,0,,MARCAS {\c&H00D4FF&\fscx110\fscy110}DE{\r} FABRICANTE Y
+Dialogue: 0,0:00:13.81,0:00:14.33,P,,0,0,0,,MARCAS DE {\c&H00D4FF&\fscx110\fscy110}FABRICANTE{\r} Y
+Dialogue: 0,0:00:14.33,0:00:14.49,P,,0,0,0,,MARCAS DE FABRICANTE {\c&H00D4FF&\fscx110\fscy110}Y{\r}
+Dialogue: 0,0:00:14.49,0:00:14.75,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MARCAS{\r} BLANCAS,
+Dialogue: 0,0:00:14.75,0:00:15.39,P,,0,0,0,,MARCAS {\c&H00D4FF&\fscx110\fscy110}BLANCAS,{\r}
+Dialogue: 0,0:00:15.39,0:00:15.87,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}FRESCOS,{\r}
+Dialogue: 0,0:00:15.87,0:00:17.17,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ENVASADOS,{\r}
+Dialogue: 0,0:00:17.17,0:00:17.91,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}BEBIDAS,{\r}
+Dialogue: 0,0:00:17.91,0:00:18.39,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LIMPIEZA,{\r}
+Dialogue: 0,0:00:18.39,0:00:19.21,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DROGUERÍA{\r} E HIGIENE.
+Dialogue: 0,0:00:19.21,0:00:19.45,P,,0,0,0,,DROGUERÍA {\c&H00D4FF&\fscx110\fscy110}E{\r} HIGIENE.
+Dialogue: 0,0:00:19.45,0:00:20.43,P,,0,0,0,,DROGUERÍA E {\c&H00D4FF&\fscx110\fscy110}HIGIENE.{\r}
+Dialogue: 0,0:00:20.43,0:00:20.65,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CON{\r} ESO CONSTRUYE UN
+Dialogue: 0,0:00:20.65,0:00:20.85,P,,0,0,0,,CON {\c&H00D4FF&\fscx110\fscy110}ESO{\r} CONSTRUYE UN
+Dialogue: 0,0:00:20.85,0:00:21.67,P,,0,0,0,,CON ESO {\c&H00D4FF&\fscx110\fscy110}CONSTRUYE{\r} UN
+Dialogue: 0,0:00:21.67,0:00:22.05,P,,0,0,0,,CON ESO CONSTRUYE {\c&H00D4FF&\fscx110\fscy110}UN{\r}
+Dialogue: 0,0:00:22.05,0:00:22.81,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ÍNDICE:{\r}
+Dialogue: 0,0:00:22.81,0:00:22.91,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LA{\r} TIENDA MÁS BARATA
+Dialogue: 0,0:00:22.91,0:00:23.09,P,,0,0,0,,LA {\c&H00D4FF&\fscx110\fscy110}TIENDA{\r} MÁS BARATA
+Dialogue: 0,0:00:23.09,0:00:23.29,P,,0,0,0,,LA TIENDA {\c&H00D4FF&\fscx110\fscy110}MÁS{\r} BARATA
+Dialogue: 0,0:00:23.29,0:00:23.59,P,,0,0,0,,LA TIENDA MÁS {\c&H00D4FF&\fscx110\fscy110}BARATA{\r}
+Dialogue: 0,0:00:23.59,0:00:23.83,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}VALE{\r} CIEN,
+Dialogue: 0,0:00:23.83,0:00:24.05,P,,0,0,0,,VALE {\c&H00D4FF&\fscx110\fscy110}CIEN,{\r}
+Dialogue: 0,0:00:24.05,0:00:24.69,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} CADA PUNTO DE
+Dialogue: 0,0:00:24.69,0:00:24.89,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}CADA{\r} PUNTO DE
+Dialogue: 0,0:00:24.89,0:00:25.15,P,,0,0,0,,Y CADA {\c&H00D4FF&\fscx110\fscy110}PUNTO{\r} DE
+Dialogue: 0,0:00:25.15,0:00:25.31,P,,0,0,0,,Y CADA PUNTO {\c&H00D4FF&\fscx110\fscy110}DE{\r}
+Dialogue: 0,0:00:25.31,0:00:25.47,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MÁS{\r} ES UN UNO
+Dialogue: 0,0:00:25.47,0:00:25.65,P,,0,0,0,,MÁS {\c&H00D4FF&\fscx110\fscy110}ES{\r} UN UNO
+Dialogue: 0,0:00:25.65,0:00:25.85,P,,0,0,0,,MÁS ES {\c&H00D4FF&\fscx110\fscy110}UN{\r} UNO
+Dialogue: 0,0:00:25.85,0:00:25.98,P,,0,0,0,,MÁS ES UN {\c&H00D4FF&\fscx110\fscy110}UNO{\r}
+Dialogue: 0,0:00:25.98,0:00:26.10,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}POR{\r} CIENTO MÁS CARO.
+Dialogue: 0,0:00:26.10,0:00:26.35,P,,0,0,0,,POR {\c&H00D4FF&\fscx110\fscy110}CIENTO{\r} MÁS CARO.
+Dialogue: 0,0:00:26.35,0:00:26.65,P,,0,0,0,,POR CIENTO {\c&H00D4FF&\fscx110\fscy110}MÁS{\r} CARO.
+Dialogue: 0,0:00:26.65,0:00:27.59,P,,0,0,0,,POR CIENTO MÁS {\c&H00D4FF&\fscx110\fscy110}CARO.{\r}
+Dialogue: 0,0:00:27.59,0:00:27.71,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}UNA{\r} TIENDA CON ÍNDICE
+Dialogue: 0,0:00:27.71,0:00:27.93,P,,0,0,0,,UNA {\c&H00D4FF&\fscx110\fscy110}TIENDA{\r} CON ÍNDICE
+Dialogue: 0,0:00:27.93,0:00:28.13,P,,0,0,0,,UNA TIENDA {\c&H00D4FF&\fscx110\fscy110}CON{\r} ÍNDICE
+Dialogue: 0,0:00:28.13,0:00:28.41,P,,0,0,0,,UNA TIENDA CON {\c&H00D4FF&\fscx110\fscy110}ÍNDICE{\r}
+Dialogue: 0,0:00:28.41,0:00:28.58,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CIENTO{\r} DIEZ ES UN
+Dialogue: 0,0:00:28.58,0:00:28.93,P,,0,0,0,,CIENTO {\c&H00D4FF&\fscx110\fscy110}DIEZ{\r} ES UN
+Dialogue: 0,0:00:28.93,0:00:29.67,P,,0,0,0,,CIENTO DIEZ {\c&H00D4FF&\fscx110\fscy110}ES{\r} UN
+Dialogue: 0,0:00:29.67,0:00:29.79,P,,0,0,0,,CIENTO DIEZ ES {\c&H00D4FF&\fscx110\fscy110}UN{\r}
+Dialogue: 0,0:00:29.79,0:00:29.92,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DIEZ{\r} POR CIENTO MÁS
+Dialogue: 0,0:00:29.92,0:00:30.05,P,,0,0,0,,DIEZ {\c&H00D4FF&\fscx110\fscy110}POR{\r} CIENTO MÁS
+Dialogue: 0,0:00:30.05,0:00:30.31,P,,0,0,0,,DIEZ POR {\c&H00D4FF&\fscx110\fscy110}CIENTO{\r} MÁS
+Dialogue: 0,0:00:30.31,0:00:30.57,P,,0,0,0,,DIEZ POR CIENTO {\c&H00D4FF&\fscx110\fscy110}MÁS{\r}
+Dialogue: 0,0:00:30.57,0:00:31.17,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CARA.{\r}

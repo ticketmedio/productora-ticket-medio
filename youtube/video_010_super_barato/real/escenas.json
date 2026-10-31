@@ -1,0 +1,532 @@
+[
+ {
+  "i0": 0,
+  "i1": 13,
+  "texto": "Mil trescientos diez euros. Es lo que puede tirar cada año un hogar medio…",
+  "q": [
+   "euro cash pile",
+   "throwing money trash",
+   "family kitchen interior"
+  ]
+ },
+ {
+  "i0": 14,
+  "i1": 32,
+  "texto": "solo por elegir mal el supermercado. Y en Madrid, la diferencia llega a cuatro mil trescientos ochenta y uno.",
+  "q": [
+   "man choosing groceries",
+   "supermarket exterior night",
+   "euro notes counting"
+  ]
+ },
+ {
+  "i0": 33,
+  "i1": 45,
+  "texto": "Cuatro mil. Por hacer la misma compra. ¿Y cuál es el más barato?",
+  "q": [
+   "grocery shopping basket",
+   "scanning price tag",
+   "paying at cashier"
+  ]
+ },
+ {
+  "i0": 46,
+  "i1": 53,
+  "texto": "Aquí viene la sorpresa: depende de dónde vivas.",
+  "q": [
+   "woman looking surprised",
+   "city map neighborhood",
+   "urban residential buildings"
+  ]
+ },
+ {
+  "i0": 54,
+  "i1": 82,
+  "texto": "Hoy abrimos el ticket del súper con el mayor estudio que existe: seiscientos noventa supermercados, analizados por la OCU en dos mil veintiséis y publicado el veinticinco de septiembre.",
+  "q": [
+   "printing shopping receipt",
+   "scientist reading data",
+   "hand holding receipt"
+  ]
+ },
+ {
+  "i0": 83,
+  "i1": 95,
+  "texto": "Te contamos qué dice… y lo que no dice. Primero, cómo se hizo.",
+  "q": [
+   "person explaining something",
+   "taking notes clipboard",
+   "organized paperwork desk"
+  ]
+ },
+ {
+  "i0": 96,
+  "i1": 117,
+  "texto": "La OCU visitó seiscientos noventa establecimientos en treinta y ocho ciudades, además de supermercados online, en abril y mayo de este año.",
+  "q": [
+   "walking into store",
+   "busy city street",
+   "grocery store aisle"
+  ]
+ },
+ {
+  "i0": 118,
+  "i1": 127,
+  "texto": "Y apuntó los precios de doscientos cuarenta y cuatro productos:",
+  "q": [
+   "writing on notebook",
+   "digital price display",
+   "supermarket shelf products"
+  ]
+ },
+ {
+  "i0": 128,
+  "i1": 140,
+  "texto": "marcas de fabricante y marcas blancas, frescos, envasados, bebidas, limpieza, droguería e higiene.",
+  "q": [
+   "fresh vegetables display",
+   "cleaning products shelf",
+   "bottled water crates"
+  ]
+ },
+ {
+  "i0": 141,
+  "i1": 163,
+  "texto": "Con eso construye un índice: la tienda más barata vale cien, y cada punto de más es un uno por ciento más caro.",
+  "q": [
+   "laptop data chart",
+   "calculating numbers calculator",
+   "stock market graph"
+  ]
+ },
+ {
+  "i0": 164,
+  "i1": 176,
+  "texto": "Una tienda con índice ciento diez es un diez por ciento más cara.",
+  "q": [
+   "price tag zoom",
+   "stacking euro coins",
+   "shopping cart moving"
+  ]
+ },
+ {
+  "i0": 177,
+  "i1": 193,
+  "texto": "Vamos con el ranking de cadenas. La más barata, un año más, es Dani, con índice cien.",
+  "q": [
+   "trophy on table",
+   "supermarket entrance day",
+   "low price sign"
+  ]
+ },
+ {
+  "i0": 194,
+  "i1": 208,
+  "texto": "Detrás, Family Cash y Tifer, con ciento dos. Y Alcampo y Supeco, con ciento tres.",
+  "q": [
+   "row of supermarkets",
+   "customers in queue",
+   "shopping cart wheels"
+  ]
+ },
+ {
+  "i0": 209,
+  "i1": 220,
+  "texto": "En el extremo contrario está Sánchez Romero, con ciento setenta y seis:",
+  "q": [
+   "luxury supermarket interior",
+   "expensive watch hand",
+   "hand pointing up"
+  ]
+ },
+ {
+  "i0": 221,
+  "i1": 237,
+  "texto": "un setenta y seis por ciento más cara que la más barata. Y aquí viene lo curioso.",
+  "q": [
+   "astonished face expression",
+   "burning money concept",
+   "magnifying glass paper"
+  ]
+ },
+ {
+  "i0": 238,
+  "i1": 251,
+  "texto": "El establecimiento más barato que visitó la OCU no es de una cadena pequeña:",
+  "q": [
+   "large retail building",
+   "crowded hypermarket interior",
+   "aerial supermarket view"
+  ]
+ },
+ {
+  "i0": 252,
+  "i1": 262,
+  "texto": "es un Alcampo en un centro comercial de Aldaia, en Valencia.",
+  "q": [
+   "shopping mall escalator",
+   "palm trees city",
+   "large parking lot"
+  ]
+ },
+ {
+  "i0": 263,
+  "i1": 283,
+  "texto": "Pero la gran noticia de este año es otra. Lidl es la opción más barata en sesenta de las localidades analizadas.",
+  "q": [
+   "breaking news screen",
+   "thumbs up shopping",
+   "happy customer supermarket"
+  ]
+ },
+ {
+  "i0": 284,
+  "i1": 308,
+  "texto": "El año pasado eran dieciocho. Mercadona también duplica el número de localidades en las que es la mejor, y Supeco pasa de dieciocho a veintiocho.",
+  "q": [
+   "flipping calendar pages",
+   "growing bar graph",
+   "fast shopping montage"
+  ]
+ },
+ {
+  "i0": 309,
+  "i1": 317,
+  "texto": "¿Por qué? Porque las grandes cadenas han bajado precios.",
+  "q": [
+   "price reduction sticker",
+   "percent discount sign",
+   "cashier scanning items"
+  ]
+ },
+ {
+  "i0": 318,
+  "i1": 333,
+  "texto": "De veintiocho grandes enseñas, ocho bajan su cesta. Carrefour Market, un dos coma siete por ciento.",
+  "q": [
+   "group of logos",
+   "shopping basket full",
+   "downward arrow graph"
+  ]
+ },
+ {
+  "i0": 334,
+  "i1": 343,
+  "texto": "Lidl, un uno coma nueve. Mercadona, un uno coma ocho.",
+  "q": [
+   "digital numbers changing",
+   "hands counting change",
+   "person using smartphone"
+  ]
+ },
+ {
+  "i0": 344,
+  "i1": 363,
+  "texto": "Aldi, un uno coma cuatro. En cambio, BM Urban sube un cinco coma uno y Ahorramás, un cuatro coma cuatro.",
+  "q": [
+   "up and down",
+   "escalator up view",
+   "supermarket pricing gun"
+  ]
+ },
+ {
+  "i0": 364,
+  "i1": 395,
+  "texto": "Y fíjate dónde se baja. En la cesta económica, la de los productos más baratos de cada tienda, Mercadona baja un cinco coma seis por ciento y Lidl, un cuatro coma siete.",
+  "q": [
+   "generic brand cereal",
+   "basic food staples",
+   "checking product price"
+  ]
+ },
+ {
+  "i0": 396,
+  "i1": 415,
+  "texto": "En la cesta de marcas de fabricante, en cambio, los precios suben de media un dos coma cinco por ciento.",
+  "q": [
+   "branded food boxes",
+   "grocery conveyor belt",
+   "price hike symbol"
+  ]
+ },
+ {
+  "i0": 416,
+  "i1": 431,
+  "texto": "Es decir: las grandes cadenas están usando los productos económicos y de marca propia para competir.",
+  "q": [
+   "competitors running race",
+   "supermarket generic products",
+   "business strategy meeting"
+  ]
+ },
+ {
+  "i0": 432,
+  "i1": 443,
+  "texto": "La marca de fabricante, mientras tanto, sube. Eso sí, no todo baja.",
+  "q": [
+   "luxury food packaging",
+   "rising balloon concept",
+   "confused shopper face"
+  ]
+ },
+ {
+  "i0": 444,
+  "i1": 457,
+  "texto": "En conjunto, la cesta de la OCU sube un uno coma ocho por ciento.",
+  "q": [
+   "filling grocery bag",
+   "calculating total receipt",
+   "climbing stock chart"
+  ]
+ },
+ {
+  "i0": 458,
+  "i1": 475,
+  "texto": "Ciento cuarenta y nueve productos son más caros que hace un año, y noventa y dos, más baratos.",
+  "q": [
+   "comparing two items",
+   "balance scale money",
+   "supermarket shelf wide"
+  ]
+ },
+ {
+  "i0": 476,
+  "i1": 503,
+  "texto": "Los frescos suben un cuatro coma siete: el pescado, un ocho coma seis; la carne, un tres coma siete; y las frutas y verduras, un tres coma cinco.",
+  "q": [
+   "fish market stall",
+   "butcher cutting meat",
+   "fresh fruit bin"
+  ]
+ },
+ {
+  "i0": 504,
+  "i1": 522,
+  "texto": "Y si miramos más atrás, desde dos mil veintiuno, la cesta OCU ha subido casi un cuarenta por ciento.",
+  "q": [
+   "time lapse clock",
+   "old shopping receipt",
+   "expensive grocery cart"
+  ]
+ },
+ {
+  "i0": 523,
+  "i1": 531,
+  "texto": "El café molido económico, un ciento cuarenta y dos.",
+  "q": [
+   "pouring coffee grounds",
+   "coffee jar shelf",
+   "steam from cup"
+  ]
+ },
+ {
+  "i0": 532,
+  "i1": 539,
+  "texto": "Los huevos M, un ciento treinta y cinco.",
+  "q": [
+   "carton of eggs",
+   "picking up egg",
+   "eggs on counter"
+  ]
+ },
+ {
+  "i0": 540,
+  "i1": 548,
+  "texto": "Solo tres productos de los comparables cuestan hoy menos:",
+  "q": [
+   "three fingers count",
+   "isolated grocery items",
+   "low price tag"
+  ]
+ },
+ {
+  "i0": 549,
+  "i1": 558,
+  "texto": "el detergente, el yogur natural y la bebida de arroz.",
+  "q": [
+   "laundry detergent bottle",
+   "spooning white yogurt",
+   "pouring rice milk"
+  ]
+ },
+ {
+  "i0": 559,
+  "i1": 574,
+  "texto": "Ahora, las ciudades. La localidad con precios más bajos es Torrent, en Valencia, con índice cien.",
+  "q": [
+   "spanish town square",
+   "low price sticker",
+   "aerial coastal city"
+  ]
+ },
+ {
+  "i0": 575,
+  "i1": 586,
+  "texto": "Las más caras, Getxo, Pozuelo de Alarcón y Majadahonda, con ciento catorce.",
+  "q": [
+   "affluent neighborhood street",
+   "luxury houses exterior",
+   "high end grocery"
+  ]
+ },
+ {
+  "i0": 587,
+  "i1": 599,
+  "texto": "Entre capitales, Barcelona, con ciento diez; Bilbao y San Sebastián, con ciento nueve.",
+  "q": [
+   "barcelona city view",
+   "modern city architecture",
+   "beach in spain"
+  ]
+ },
+ {
+  "i0": 600,
+  "i1": 625,
+  "texto": "Y la diferencia en euros: en Madrid capital, entre el súper más barato y el más caro, hasta cuatro mil trescientos ochenta y uno al año.",
+  "q": [
+   "madrid street traffic",
+   "stack of money",
+   "handholding euro bills"
+  ]
+ },
+ {
+  "i0": 626,
+  "i1": 644,
+  "texto": "En Barcelona, unos mil ochocientos veintitrés. En Zaragoza o en Vigo, entre mil novecientos y dos mil ciento cincuenta.",
+  "q": [
+   "walking in barcelona",
+   "bridge in zaragoza",
+   "vigo port view"
+  ]
+ },
+ {
+  "i0": 645,
+  "i1": 653,
+  "texto": "Y en Mieres, en Asturias, trescientos ochenta y uno.",
+  "q": [
+   "green mountains asturias",
+   "small town street",
+   "three euro coins"
+  ]
+ },
+ {
+  "i0": 654,
+  "i1": 662,
+  "texto": "Incluso allí, dice la OCU, comparar sale a cuenta.",
+  "q": [
+   "comparing prices phone",
+   "happy couple shopping",
+   "putting money piggybank"
+  ]
+ },
+ {
+  "i0": 663,
+  "i1": 681,
+  "texto": "Ahora, lo que hay que tener en cuenta. El supermercado más barato no es el mismo en todas partes:",
+  "q": [
+   "supermarket signage variety",
+   "driving car city",
+   "different storefronts montage"
+  ]
+ },
+ {
+  "i0": 682,
+  "i1": 700,
+  "texto": "depende de las cadenas que tengas cerca. Es una media de abril y mayo, no el precio de hoy.",
+  "q": [
+   "local neighborhood shop",
+   "spring flowers blooming",
+   "checking watch time"
+  ]
+ },
+ {
+  "i0": 701,
+  "i1": 722,
+  "texto": "Los precios no recogen los efectos de la guerra de Irán, que según la OCU todavía no han llegado a los lineales.",
+  "q": [
+   "shipping port containers",
+   "empty store shelf",
+   "news world map"
+  ]
+ },
+ {
+  "i0": 723,
+  "i1": 732,
+  "texto": "Y el ranking completo, ciudad por ciudad, es de pago:",
+  "q": [
+   "entering credit card",
+   "locking laptop screen",
+   "scrolling web list"
+  ]
+ },
+ {
+  "i0": 733,
+  "i1": 750,
+  "texto": "aquí solo contamos lo público. Así que, la próxima vez que vayas a comprar, piensa en su viaje.",
+  "q": [
+   "walking with bags",
+   "man driving car",
+   "thinking face close-up"
+  ]
+ },
+ {
+  "i0": 751,
+  "i1": 769,
+  "texto": "Entre la tienda más barata y la más cara de tu ciudad, mil trescientos euros al año de media.",
+  "q": [
+   "saving money concept",
+   "euro banknotes fan",
+   "smiling woman shopping"
+  ]
+ },
+ {
+  "i0": 770,
+  "i1": 781,
+  "texto": "Las grandes cadenas bajan precios en productos económicos y de marca propia.",
+  "q": [
+   "changing price tags",
+   "no name products",
+   "shopping cart interior"
+  ]
+ },
+ {
+  "i0": 782,
+  "i1": 799,
+  "texto": "Y los productos de marca de fabricante suben. No hay un supermercado más barato para todo el mundo.",
+  "q": [
+   "expensive food brand",
+   "global map people",
+   "shrugging shoulders person"
+  ]
+ },
+ {
+  "i0": 800,
+  "i1": 817,
+  "texto": "La pregunta ya no es cuál es el mejor. Es cuál es el más barato donde tú vives.",
+  "q": [
+   "hand pointing map",
+   "woman entering supermarket",
+   "residential street sign"
+  ]
+ },
+ {
+  "i0": 818,
+  "i1": 829,
+  "texto": "Cada semana abrimos el ticket de algo que pagas todos los días.",
+  "q": [
+   "tearing receipt paper",
+   "paying with card",
+   "wallet with money"
+  ]
+ },
+ {
+  "i0": 830,
+  "i1": 838,
+  "texto": "Y el próximo… te va a sorprender todavía más.",
+  "q": [
+   "looking through binoculars",
+   "excitement face expression",
+   "fast forward footage"
+  ]
+ }
+]

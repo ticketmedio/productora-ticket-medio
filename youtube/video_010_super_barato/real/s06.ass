@@ -1,0 +1,50 @@
+[Script Info]
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: P,Archivo Black,82,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,6,3,2,60,60,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.15,0:00:00.49,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}AHORA,{\r}
+Dialogue: 0,0:00:00.49,0:00:01.03,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LAS{\r} CIUDADES.
+Dialogue: 0,0:00:01.03,0:00:02.23,P,,0,0,0,,LAS {\c&H00D4FF&\fscx110\fscy110}CIUDADES.{\r}
+Dialogue: 0,0:00:02.23,0:00:02.51,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LA{\r} LOCALIDAD CON PRECIOS
+Dialogue: 0,0:00:02.51,0:00:02.95,P,,0,0,0,,LA {\c&H00D4FF&\fscx110\fscy110}LOCALIDAD{\r} CON PRECIOS
+Dialogue: 0,0:00:02.95,0:00:03.15,P,,0,0,0,,LA LOCALIDAD {\c&H00D4FF&\fscx110\fscy110}CON{\r} PRECIOS
+Dialogue: 0,0:00:03.15,0:00:03.43,P,,0,0,0,,LA LOCALIDAD CON {\c&H00D4FF&\fscx110\fscy110}PRECIOS{\r}
+Dialogue: 0,0:00:03.43,0:00:03.73,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MÁS{\r} BAJOS ES TORRENT,
+Dialogue: 0,0:00:03.73,0:00:04.05,P,,0,0,0,,MÁS {\c&H00D4FF&\fscx110\fscy110}BAJOS{\r} ES TORRENT,
+Dialogue: 0,0:00:04.05,0:00:04.43,P,,0,0,0,,MÁS BAJOS {\c&H00D4FF&\fscx110\fscy110}ES{\r} TORRENT,
+Dialogue: 0,0:00:04.43,0:00:05.15,P,,0,0,0,,MÁS BAJOS ES {\c&H00D4FF&\fscx110\fscy110}TORRENT,{\r}
+Dialogue: 0,0:00:05.15,0:00:05.33,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EN{\r} VALENCIA,
+Dialogue: 0,0:00:05.33,0:00:05.93,P,,0,0,0,,EN {\c&H00D4FF&\fscx110\fscy110}VALENCIA,{\r}
+Dialogue: 0,0:00:05.93,0:00:06.09,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CON{\r} ÍNDICE CIEN.
+Dialogue: 0,0:00:06.09,0:00:06.45,P,,0,0,0,,CON {\c&H00D4FF&\fscx110\fscy110}ÍNDICE{\r} CIEN.
+Dialogue: 0,0:00:06.45,0:00:06.91,P,,0,0,0,,CON ÍNDICE {\c&H00D4FF&\fscx110\fscy110}CIEN.{\r}
+Dialogue: 0,0:00:06.91,0:00:07.79,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LAS{\r} MÁS CARAS,
+Dialogue: 0,0:00:07.79,0:00:08.20,P,,0,0,0,,LAS {\c&H00D4FF&\fscx110\fscy110}MÁS{\r} CARAS,
+Dialogue: 0,0:00:08.20,0:00:08.61,P,,0,0,0,,LAS MÁS {\c&H00D4FF&\fscx110\fscy110}CARAS,{\r}
+Dialogue: 0,0:00:08.61,0:00:09.43,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}GETXO,{\r}
+Dialogue: 0,0:00:09.43,0:00:09.85,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}POZUELO{\r} DE ALARCÓN Y
+Dialogue: 0,0:00:09.85,0:00:09.93,P,,0,0,0,,POZUELO {\c&H00D4FF&\fscx110\fscy110}DE{\r} ALARCÓN Y
+Dialogue: 0,0:00:09.93,0:00:10.27,P,,0,0,0,,POZUELO DE {\c&H00D4FF&\fscx110\fscy110}ALARCÓN{\r} Y
+Dialogue: 0,0:00:10.27,0:00:10.63,P,,0,0,0,,POZUELO DE ALARCÓN {\c&H00D4FF&\fscx110\fscy110}Y{\r}
+Dialogue: 0,0:00:10.63,0:00:11.25,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MAJADAHONDA,{\r}
+Dialogue: 0,0:00:11.25,0:00:11.59,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CON{\r} CIENTO CATORCE.
+Dialogue: 0,0:00:11.59,0:00:12.06,P,,0,0,0,,CON {\c&H00D4FF&\fscx110\fscy110}CIENTO{\r} CATORCE.
+Dialogue: 0,0:00:12.06,0:00:13.01,P,,0,0,0,,CON CIENTO {\c&H00D4FF&\fscx110\fscy110}CATORCE.{\r}
+Dialogue: 0,0:00:13.01,0:00:13.51,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ENTRE{\r} CAPITALES,
+Dialogue: 0,0:00:13.51,0:00:14.37,P,,0,0,0,,ENTRE {\c&H00D4FF&\fscx110\fscy110}CAPITALES,{\r}
+Dialogue: 0,0:00:14.37,0:00:14.73,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}BARCELONA,{\r}
+Dialogue: 0,0:00:14.73,0:00:15.21,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CON{\r} CIENTO DIEZ;
+Dialogue: 0,0:00:15.21,0:00:15.57,P,,0,0,0,,CON {\c&H00D4FF&\fscx110\fscy110}CIENTO{\r} DIEZ;
+Dialogue: 0,0:00:15.57,0:00:16.29,P,,0,0,0,,CON CIENTO {\c&H00D4FF&\fscx110\fscy110}DIEZ;{\r}
+Dialogue: 0,0:00:16.29,0:00:16.67,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}BILBAO{\r} Y SAN SEBASTIÁN,
+Dialogue: 0,0:00:16.67,0:00:16.79,P,,0,0,0,,BILBAO {\c&H00D4FF&\fscx110\fscy110}Y{\r} SAN SEBASTIÁN,
+Dialogue: 0,0:00:16.79,0:00:16.89,P,,0,0,0,,BILBAO Y {\c&H00D4FF&\fscx110\fscy110}SAN{\r} SEBASTIÁN,
+Dialogue: 0,0:00:16.89,0:00:17.37,P,,0,0,0,,BILBAO Y SAN {\c&H00D4FF&\fscx110\fscy110}SEBASTIÁN,{\r}
+Dialogue: 0,0:00:17.37,0:00:18.15,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CON{\r}
