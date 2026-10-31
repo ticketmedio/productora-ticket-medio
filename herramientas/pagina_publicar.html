@@ -6,7 +6,7 @@
 /* Una columna de días; cada publicación es una ficha con sus textos y un botón «Copiar» por campo. Meta = coral de Pepa, YouTube = amarillo del ticket. */
 :root {
   --bg: #eef1f5; --panel: #ffffff; --ink: #18202c; --muted: #5d6878; --line: #d7dde6;
-  --accent: #0d6b6b; --accent-ink: #ffffff; --meta: #e0572f; --meta-soft: #fde9e2; --yt: #c98f00; --yt-soft: #fdf3d3;
+  --accent: #0d6b6b; --accent-ink: #ffffff; --meta: #e0572f; --meta-soft: #fde9e2; --yt: #c98f00; --yt-soft: #fdf3d3; --tt: #0a8fa3; --tt-soft: #dcf3f6;
   --warn: #8a4b00; --warn-soft: #fff1d6; --ok: #2f7d3b; --ok-soft: #e3f3e5; --field: #f6f8fb;
   --display: "Bricolage Grotesque", "Avenir Next", "Segoe UI", system-ui, sans-serif;
   --body: "Atkinson Hyperlegible", "Helvetica Neue", Arial, sans-serif;
@@ -14,11 +14,11 @@
 }
 @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
   --bg: #11161d; --panel: #1a212b; --ink: #e8edf3; --muted: #9aa6b5; --line: #2c3643;
-  --accent: #3fb6b0; --accent-ink: #0b1414; --meta: #ff8a63; --meta-soft: #3a2119; --yt: #f2c33d; --yt-soft: #3a3014;
+  --accent: #3fb6b0; --accent-ink: #0b1414; --meta: #ff8a63; --meta-soft: #3a2119; --yt: #f2c33d; --yt-soft: #3a3014; --tt: #4fd1e3; --tt-soft: #12323a;
   --warn: #ffc56b; --warn-soft: #3a2a10; --ok: #7fd18b; --ok-soft: #173020; --field: #141a22; color-scheme: dark } }
 :root[data-theme="dark"] {
   --bg: #11161d; --panel: #1a212b; --ink: #e8edf3; --muted: #9aa6b5; --line: #2c3643;
-  --accent: #3fb6b0; --accent-ink: #0b1414; --meta: #ff8a63; --meta-soft: #3a2119; --yt: #f2c33d; --yt-soft: #3a3014;
+  --accent: #3fb6b0; --accent-ink: #0b1414; --meta: #ff8a63; --meta-soft: #3a2119; --yt: #f2c33d; --yt-soft: #3a3014; --tt: #4fd1e3; --tt-soft: #12323a;
   --warn: #ffc56b; --warn-soft: #3a2a10; --ok: #7fd18b; --ok-soft: #173020; --field: #141a22; color-scheme: dark }
 body { background: var(--bg); color: var(--ink); font: 16px/1.5 var(--body); }
 body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 10; background: var(--panel); }
@@ -45,6 +45,12 @@ h1 { font: 800 clamp(1.4rem, 4vw, 1.9rem)/1.1 var(--display); margin: 0; text-wr
 .card { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; padding: 14px 16px; display: grid; gap: 10px; border-left: 5px solid var(--c); min-width: 0; }
 .card.meta { --c: var(--meta); --soft: var(--meta-soft); }
 .card.youtube { --c: var(--yt); --soft: var(--yt-soft); }
+.card.tiktok { --c: var(--tt); --soft: var(--tt-soft); }
+.free { margin-top: 24px; background: var(--ok-soft); border: 1px solid var(--ok); border-radius: 12px; padding: 14px 16px; display: grid; gap: 8px; }
+.free h2 { font: 800 1.05rem/1.2 var(--display); margin: 0; }
+.free p { margin: 0; font-size: 0.9rem; }
+.free ul { margin: 0; padding-left: 1.2em; display: grid; gap: 4px; font-size: 0.88rem; }
+.free code { font: 0.78rem var(--mono); overflow-wrap: anywhere; }
 .card.is-done { opacity: 0.55; }
 .card.is-done .fields, .card.is-done .note { display: none; }
 .head { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; }
@@ -73,13 +79,14 @@ h1 { font: 800 clamp(1.4rem, 4vw, 1.9rem)/1.1 var(--display); margin: 0; text-wr
   <div class="wrap">
     <div>
       <h1>Calendario de publicación</h1>
-      <p class="sub">Meta (Pepa Pita) y YouTube (Ticket Medio) · día y hora en que SALE cada cosa; puedes programarla cuando quieras antes · actualizado {{GENERADO}}</p>
+      <p class="sub">Meta y TikTok (Pepa Pita) y YouTube (Ticket Medio) · día y hora en que SALE cada cosa; puedes programarla cuando quieras antes · actualizado {{GENERADO}}</p>
     </div>
     <div class="bar">
       <div class="seg" role="group" aria-label="Plataforma">
         <button type="button" data-f="todo" aria-pressed="true">Todo</button>
         <button type="button" data-f="meta" aria-pressed="false">Meta</button>
         <button type="button" data-f="youtube" aria-pressed="false">YouTube</button>
+        <button type="button" data-f="tiktok" aria-pressed="false">TikTok</button>
       </div>
       <label class="chk"><input type="checkbox" id="ocultar"> Ocultar lo programado</label>
       <button type="button" class="btn ghost" id="siguiente">Ir al siguiente pendiente</button>
@@ -91,6 +98,7 @@ h1 { font: 800 clamp(1.4rem, 4vw, 1.9rem)/1.1 var(--display); margin: 0; text-wr
 
 <script>
 const ITEMS = /*DATOS*/[];
+const BORRAR = /*BORRAR*/[];
 const DIAS = ["domingo", "lunes", "martes", "miércoles", "jueves", "viernes", "sábado"];
 const MESES = ["enero", "febrero", "marzo", "abril", "mayo", "junio", "julio", "agosto", "septiembre", "octubre", "noviembre", "diciembre"];
 const KEY = "calendario-publicacion-v1";
@@ -119,6 +127,12 @@ function pintar() {
   document.getElementById("progreso").innerHTML = `<b>${hechos}</b> de ${visibles.length} programados`;
   let semana = "", dia = "", bloque = null;
   const mostrar = visibles.filter(it => !(estado.ocultar && estado.hechos[it.id]));
+  if (BORRAR.length && estado.filtro !== "youtube") {
+    const fr = el("section", "free"); fr.appendChild(el("h2", null, "Ya puedes borrar del disco (programados en Meta y en TikTok)"));
+    fr.appendChild(el("p", null, "Estos Reels de Pepa ya están subidos y programados en las dos plataformas: su vídeo .mp4 ya no hace falta en el Mac. Borra solo el .mp4 de la carpeta «salida»; el texto pesa poco y conviene guardarlo."));
+    const ul = el("ul"); for (const b of BORRAR) { const li = el("li"); li.append(document.createTextNode(`Reel ${b.n} · ${b.nombre} — `), el("code", null, b.ruta)); ul.appendChild(li); }
+    fr.appendChild(ul); lista.appendChild(fr);
+  }
   if (!mostrar.length) { lista.appendChild(el("p", "empty", "Todo programado en esta vista. 🎉")); return; }
   for (const it of mostrar) {
     const l = lunes(it.dia); const sk = l.toISOString().slice(0, 10);
@@ -130,7 +144,7 @@ function pintar() {
     const c = el("article", "card " + it.red + (estado.hechos[it.id] ? " is-done" : "")); c.dataset.id = it.id;
     const head = el("div", "head");
     head.appendChild(el("span", "time", it.hora));
-    head.appendChild(el("span", "pill", it.red === "meta" ? "Meta" : "YouTube"));
+    head.appendChild(el("span", "pill", { meta: "Meta", youtube: "YouTube", tiktok: "TikTok" }[it.red]));
     head.appendChild(el("span", "pill", it.tipo));
     const mk = el("label", "mark"); const cb = document.createElement("input"); cb.type = "checkbox"; cb.id = "c_" + it.id; cb.checked = !!estado.hechos[it.id];
     cb.addEventListener("change", () => { if (cb.checked) estado.hechos[it.id] = 1; else delete estado.hechos[it.id]; guardar(); pintar(); });

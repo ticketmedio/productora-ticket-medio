@@ -11,11 +11,14 @@ D = datetime.date
 DIAS = ["lunes", "martes", "miércoles", "jueves", "viernes", "sábado", "domingo"]
 MESES = ["", "enero", "febrero", "marzo", "abril", "mayo", "junio", "julio", "agosto", "septiembre", "octubre", "noviembre", "diciembre"]
 DESDE = D(2026, 11, 2)
-# Ya programados en Meta con la versión ANTIGUA (hay que borrarlos y poner el nuevo) y carruseles ya programados
-REEMPLAZAR = {f"{n:03d}" for n in range(18, 28)}
+# carruseles ya programados
 CARRUSELES_HECHOS = {"009", "010"}
 # Meta ya programado y comprobado por Claude en Meta Business Suite (31/10: todo hasta el viernes 27/11)
 META_HECHO_HASTA = D(2026, 11, 27)
+# TikTok (31/10, leído en TikTok Studio): 018–026 programados (2–13/11; del 6/11 en adelante corridos un día, el 6/11 quedó libre).
+# El 027 va al hueco del viernes 6/11 y desde el 028 TikTok sale el mismo día que Meta.
+TIKTOK_HECHOS = {f"{n:03d}" for n in range(18, 27)}
+TIKTOK_FECHA = {"027": D(2026, 11, 6)}
 # vídeo largo de Ticket Medio: viernes 18:00
 FECHA_LARGO = {7: D(2026, 11, 6), 8: D(2026, 11, 13), 9: D(2026, 11, 20), 10: D(2026, 11, 27), 11: D(2026, 12, 4), 12: D(2026, 12, 11)}
 
@@ -33,19 +36,19 @@ def fecha_es(txt):
     return D(2026 if MESES.index(m.group(2)) >= 10 else 2027, MESES.index(m.group(2)), int(m.group(1)))
 
 
-items = []
+items, borrar = [], []
 # ── Pepa Pita: Reels y carruseles (Meta Business Suite) ──
 for fila in leer("redes", "pepa_pita", "PLAN_PROGRAMACION.md").splitlines():
     c = [x.strip() for x in fila.split("|")]
     if len(c) < 7 or not re.search(r"\d+ de ", c[2]):
         continue
     dia, hora, que, donde, archivo = fecha_es(c[2]), c[3], c[4], c[5], c[6]
-    if dia < DESDE or dia <= META_HECHO_HASTA:
+    if dia < DESDE:
         continue
     carpeta = archivo.split(" ")[0].rstrip("/")
     n = re.search(r"(\d{3})", que).group(1)
     if que.startswith("Carrusel"):
-        if n in CARRUSELES_HECHOS:
+        if n in CARRUSELES_HECHOS or dia <= META_HECHO_HASTA:
             continue
         imgs = sorted(os.path.basename(f) for f in glob.glob(os.path.join(RAIZ, carpeta, "*.png")))
         items.append({"dia": dia.isoformat(), "hora": hora, "red": "meta", "tipo": "Carrusel",
@@ -54,14 +57,16 @@ for fila in leer("redes", "pepa_pita", "PLAN_PROGRAMACION.md").splitlines():
                       "aviso": "", "campos": [["Texto", leer(carpeta, "TEXTO_PUBLICACION.txt")]]})
         continue
     nombre = re.search(r"«(.+?)»", que).group(1)
-    solo_fb = "TikTok" in donde
     mp4 = next(iter(sorted(glob.glob(os.path.join(RAIZ, carpeta, "PEPA_*.mp4")))), "")
-    items.append({"dia": dia.isoformat(), "hora": hora, "red": "meta", "tipo": "Reel",
-                  "titulo": f"Reel {n} · {nombre}",
-                  "destino": "Solo Facebook (el jueves, Instagram no; TikTok ya lo tienes)" if solo_fb else "Instagram + Facebook · «Crear reel»",
-                  "ruta": ruta_bonita(carpeta), "archivo": os.path.basename(mp4),
-                  "aviso": "Ya hay uno ANTIGUO programado este día: bórralo en Publicaciones programadas y programa este." if n in REEMPLAZAR else "",
-                  "campos": [["Texto", leer(carpeta, "TEXTO_PUBLICACION.txt")]]})
+    texto = leer(carpeta, "TEXTO_PUBLICACION.txt")
+    reel = {"hora": hora, "tipo": "Reel", "titulo": f"Reel {n} · {nombre}", "ruta": ruta_bonita(carpeta), "archivo": os.path.basename(mp4),
+            "campos": [["Texto", texto]], "reel": n}
+    if dia > META_HECHO_HASTA:
+        items.append(dict(reel, dia=dia.isoformat(), red="meta", destino="Instagram + Facebook · «Crear reel»", aviso=""))
+    if n not in TIKTOK_HECHOS:
+        items.append(dict(reel, dia=TIKTOK_FECHA.get(n, dia).isoformat(), red="tiktok", destino="TikTok Studio · «Programar»",
+                          aviso="«Mostrar más» → activa «Contenido generado por IA». TikTok solo deja programar unos 14 días antes."))
+    borrar.append((n, nombre, ruta_bonita(carpeta), dia <= META_HECHO_HASTA and n in TIKTOK_HECHOS))
 
 # ── Ticket Medio: vídeo largo + 7 Shorts (YouTube Studio) ──
 for v in sorted(glob.glob(os.path.join(RAIZ, "youtube", "video_0*"))):
@@ -90,7 +95,8 @@ for k, it in enumerate(items):
     it["id"] = f"{it['dia']}_{it['hora']}_{it['red']}_{re.sub(r'[^a-z0-9]', '', it['titulo'].lower())[:24]}"
 plantilla = leer("herramientas", "pagina_publicar.html")
 datos = json.dumps(items, ensure_ascii=False).replace("</", "<\\/")
+libres = json.dumps([{"n": n, "nombre": nom, "ruta": r} for n, nom, r, ok in borrar if ok], ensure_ascii=False).replace("</", "<\\/")
 salida = os.path.join(RAIZ, "privado", "publicar.html")
-open(salida, "w", encoding="utf-8").write(plantilla.replace("/*DATOS*/[]", datos).replace(
+open(salida, "w", encoding="utf-8").write(plantilla.replace("/*DATOS*/[]", datos).replace("/*BORRAR*/[]", libres).replace(
     "{{GENERADO}}", datetime.datetime.now().strftime("%d/%m/%Y %H:%M")))
 print(salida, len(items), "publicaciones")
