@@ -3036,7 +3036,7 @@
       "who": "tu",
       "kind": "tarea",
       "project": "redes",
-      "status": "pendiente",
+      "status": "hecho",
       "platforms": [
         "Instagram",
         "Facebook",
@@ -3050,7 +3050,8 @@
           "text": "31/10 · Comprobado por Claude en Meta: Reels nuevos 023–027 programados (19:00) con el texto nuevo.",
           "createdAt": "2026-10-31T15:33:08.726Z"
         }
-      ]
+      ],
+      "updatedAt": "2026-10-31T15:33:09.585Z"
     }
   ],
   "mensajes": [
