@@ -2922,7 +2922,14 @@
       "createdAt": "2026-10-12T16:05:53",
       "createdBy": "claude",
       "updatedAt": "2026-10-12T16:05:53",
-      "comentarios": []
+      "comentarios": [
+        {
+          "id": "c-163313505342",
+          "author": "claude",
+          "text": "31/10 · Ya programados por ti el 011 (16/11) y el 012 (23/11). Faltan 013 (30/11), 014 (7/12) y 015 (14/12): están en la página del calendario.",
+          "createdAt": "2026-10-31T15:33:13.505Z"
+        }
+      ]
     },
     {
       "id": "u-hito-ig-regalos",
