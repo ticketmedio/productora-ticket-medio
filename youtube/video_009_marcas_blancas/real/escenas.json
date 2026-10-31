@@ -1,0 +1,492 @@
+[
+ {
+  "i0": 0,
+  "i1": 11,
+  "texto": "Coges un producto de la marca de Mercadona. Le das la vuelta.",
+  "q": [
+   "hand holding product",
+   "turning over package",
+   "shopping aisle hand"
+  ]
+ },
+ {
+  "i0": 12,
+  "i1": 25,
+  "texto": "Lees la etiqueta. Y ahí no está. El nombre de quien lo ha fabricado…",
+  "q": [
+   "reading food label",
+   "product label close-up",
+   "pointing at text"
+  ]
+ },
+ {
+  "i0": 26,
+  "i1": 31,
+  "texto": "no aparece por ningún lado. ¿Casualidad?",
+  "q": [
+   "shrugging shoulders",
+   "searching product packaging",
+   "confused consumer"
+  ]
+ },
+ {
+  "i0": 32,
+  "i1": 55,
+  "texto": "No. Es perfectamente legal. Mercadona tiene más de dos mil proveedores y cuatro de ellos facturan más de mil millones de euros cada uno.",
+  "q": [
+   "legal documents desk",
+   "cargo warehouse boxes",
+   "factory exterior daytime"
+  ]
+ },
+ {
+  "i0": 56,
+  "i1": 69,
+  "texto": "Pero ¿quién fabrica de verdad lo que compras? Hoy vamos a seguir la pista.",
+  "q": [
+   "factory assembly line",
+   "magnifying glass paper",
+   "detective office desk"
+  ]
+ },
+ {
+  "i0": 70,
+  "i1": 82,
+  "texto": "Con la ley en la mano, con los datos que sí son públicos…",
+  "q": [
+   "hand on lawbook",
+   "scrolling computer data",
+   "law court building"
+  ]
+ },
+ {
+  "i0": 83,
+  "i1": 94,
+  "texto": "y con un truco que casi nadie conoce para descubrirlo tú mismo.",
+  "q": [
+   "secret whisper gesture",
+   "typing on laptop",
+   "light bulb moment"
+  ]
+ },
+ {
+  "i0": 95,
+  "i1": 124,
+  "texto": "Empecemos por la etiqueta. El reglamento europeo de información alimentaria dice que el responsable de la información es el operador con cuyo nombre o razón social se comercializa el alimento.",
+  "q": [
+   "reading nutrition facts",
+   "eu flag waving",
+   "government office interior"
+  ]
+ },
+ {
+  "i0": 125,
+  "i1": 141,
+  "texto": "Y lo que debe figurar en la etiqueta es el nombre y la dirección de ese operador.",
+  "q": [
+   "finger pointing address",
+   "printed label text",
+   "scanning product code"
+  ]
+ },
+ {
+  "i0": 142,
+  "i1": 152,
+  "texto": "Es decir: de quien lo vende, no de quien lo fabrica.",
+  "q": [
+   "cashier scanning item",
+   "industrial robotic arm",
+   "retail store shelves"
+  ]
+ },
+ {
+  "i0": 153,
+  "i1": 176,
+  "texto": "Si lo vende Mercadona, pone Mercadona. La Agencia Española de Seguridad Alimentaria lo dice con todas las letras sobre el número de registro sanitario:",
+  "q": [
+   "government seal stamp",
+   "food safety inspection",
+   "office hallway walking"
+  ]
+ },
+ {
+  "i0": 177,
+  "i1": 193,
+  "texto": "es un número de identificación administrativa, y el operador no está obligado a ponerlo en la etiqueta.",
+  "q": [
+   "typing numbers keyboard",
+   "bureaucracy paperwork",
+   "id card close-up"
+  ]
+ },
+ {
+  "i0": 194,
+  "i1": 204,
+  "texto": "Hay una excepción. La excepción son los productos de origen animal:",
+  "q": [
+   "cows in field",
+   "chicken farm indoor",
+   "raw meat counter"
+  ]
+ },
+ {
+  "i0": 205,
+  "i1": 231,
+  "texto": "carne, leche, queso, pescado. Esos llevan una marca ovalada con las siglas del país, por ejemplo ES, y el número de autorización del establecimiento donde se elaboraron.",
+  "q": [
+   "fresh salmon fillet",
+   "pouring milk glass",
+   "oval stamp close-up"
+  ]
+ },
+ {
+  "i0": 232,
+  "i1": 247,
+  "texto": "Esa marca está en el envase o en la etiqueta. Es la pista que sí tienes.",
+  "q": [
+   "holding milk carton",
+   "searching label sticker",
+   "close-up food packaging"
+  ]
+ },
+ {
+  "i0": 248,
+  "i1": 268,
+  "texto": "Y con ese número puedes hacer algo: la AESAN tiene un buscador público de empresas y establecimientos alimentarios registrados en España.",
+  "q": [
+   "searching on tablet",
+   "typing web address",
+   "website search bar"
+  ]
+ },
+ {
+  "i0": 269,
+  "i1": 283,
+  "texto": "Metes el número y te dice qué empresa está inscrita ahí. Ojo con una cosa:",
+  "q": [
+   "entering passcode keypad",
+   "exclamation mark sign",
+   "finger pressing enter"
+  ]
+ },
+ {
+  "i0": 284,
+  "i1": 300,
+  "texto": "te dice qué establecimiento es, no para quién fabrica. Una misma fábrica puede producir para varios clientes.",
+  "q": [
+   "trucks leaving factory",
+   "packaging line variety",
+   "factory worker machinery"
+  ]
+ },
+ {
+  "i0": 301,
+  "i1": 314,
+  "texto": "Hay excepciones. Los huevos con código de centro de embalaje no llevan esa marca.",
+  "q": [
+   "box of eggs",
+   "stamping egg shell",
+   "sorting eggs belt"
+  ]
+ },
+ {
+  "i0": 315,
+  "i1": 327,
+  "texto": "Tampoco los productos compuestos que mezclan ingredientes animales y vegetales, como una pizza.",
+  "q": [
+   "frozen pizza box",
+   "making pizza dough",
+   "toppings on pizza"
+  ]
+ },
+ {
+  "i0": 328,
+  "i1": 342,
+  "texto": "Y los productos vegetales, como la pasta o las galletas, no tienen por qué llevarla.",
+  "q": [
+   "spaghetti in bowl",
+   "cookies on tray",
+   "dry pasta shelves"
+  ]
+ },
+ {
+  "i0": 343,
+  "i1": 366,
+  "texto": "Entonces, ¿qué sabemos de verdad de los proveedores? Mercadona dice en su memoria que trabaja con más de dos mil proveedores e interproveedores especialistas.",
+  "q": [
+   "business meeting table",
+   "handshake close up",
+   "supply chain graphic"
+  ]
+ },
+ {
+  "i0": 367,
+  "i1": 379,
+  "texto": "Y que el ecosistema completo, con servicios y transporte, pasa de catorce mil.",
+  "q": [
+   "delivery truck highway",
+   "cargo ship port",
+   "logistic center aerial"
+  ]
+ },
+ {
+  "i0": 380,
+  "i1": 402,
+  "texto": "En dos mil veinticinco, según la propia cadena, sus proveedores especialistas invirtieron mil setecientos millones de euros y crearon cinco mil doscientos empleos.",
+  "q": [
+   "modern factory construction",
+   "stock market chart",
+   "workers in factory"
+  ]
+ },
+ {
+  "i0": 403,
+  "i1": 413,
+  "texto": "El que más invirtió fue Casa Tarradellas, con ciento diecisiete millones.",
+  "q": [
+   "money counting machine",
+   "factory industrial park",
+   "signing large contract"
+  ]
+ },
+ {
+  "i0": 414,
+  "i1": 427,
+  "texto": "Le siguieron Vall Companys, con setenta, y Avinatur e Incarlopsa, con sesenta cada una.",
+  "q": [
+   "birds eye factory",
+   "industrial complex night",
+   "group of businessmen"
+  ]
+ },
+ {
+  "i0": 428,
+  "i1": 441,
+  "texto": "Y hay otra fuente: las cuentas que las empresas depositan en el Registro Mercantil.",
+  "q": [
+   "filing cabinets office",
+   "official paper stamp",
+   "looking through files"
+  ]
+ },
+ {
+  "i0": 442,
+  "i1": 474,
+  "texto": "Según el diario Cinco Días, los veinte mayores proveedores de Mercadona facturaron más de doce mil millones de euros en dos mil veinticuatro, un dieciocho por ciento más que en dos mil veintidós.",
+  "q": [
+   "reading newspaper daily",
+   "revenue growth chart",
+   "euro bills stack"
+  ]
+ },
+ {
+  "i0": 475,
+  "i1": 488,
+  "texto": "Cuatro de ellos superaron los mil millones: Casa Tarradellas, Incarlopsa, García Carrión y Covap.",
+  "q": [
+   "modern glass building",
+   "calculator totaling numbers",
+   "bank vault door"
+  ]
+ },
+ {
+  "i0": 489,
+  "i1": 520,
+  "texto": "Ojo con lo que significa. Que una empresa sea proveedora de Mercadona no quiere decir que todo lo que vende sea marca blanca, ni que todo lo que vende lo compre Mercadona.",
+  "q": [
+   "different food products",
+   "multiple brand logos",
+   "unboxing various items"
+  ]
+ },
+ {
+  "i0": 521,
+  "i1": 531,
+  "texto": "La cifra incluye otros clientes. Aun así, hay un dato revelador:",
+  "q": [
+   "crowded business street",
+   "revealing curtain stage",
+   "pointing at screen"
+  ]
+ },
+ {
+  "i0": 532,
+  "i1": 555,
+  "texto": "algunas de estas empresas declaran que entre el cincuenta y tres y el noventa y cuatro por ciento de sus ventas dependen de Mercadona.",
+  "q": [
+   "pie chart percentage",
+   "climbing bar graph",
+   "connected puzzle pieces"
+  ]
+ },
+ {
+  "i0": 556,
+  "i1": 567,
+  "texto": "El diario no dice cuáles. Y ahora, la cuenta que nos gusta.",
+  "q": [
+   "shredding secret paper",
+   "writing on chalkboard",
+   "accountant at work"
+  ]
+ },
+ {
+  "i0": 568,
+  "i1": 579,
+  "texto": "Los beneficios de esos veinte proveedores sumaron más de trescientos sesenta millones.",
+  "q": [
+   "stacking euro coins",
+   "growing money plant",
+   "green profit arrow"
+  ]
+ },
+ {
+  "i0": 580,
+  "i1": 591,
+  "texto": "Si dividimos entre sus ventas, son unos tres céntimos por cada euro.",
+  "q": [
+   "three cent coins",
+   "hand holding coins",
+   "dividing small items"
+  ]
+ },
+ {
+  "i0": 592,
+  "i1": 601,
+  "texto": "Mercadona, en su último ejercicio, se quedó con unos cuatro.",
+  "q": [
+   "four cent coins",
+   "supermarket checkout lane",
+   "comparing coin piles"
+  ]
+ },
+ {
+  "i0": 602,
+  "i1": 624,
+  "texto": "Es un cálculo nuestro, con ejercicios distintos y con ventas que no son solo a Mercadona, así que hay que tomarlo con prudencia.",
+  "q": [
+   "warning sign yellow",
+   "thinking person face",
+   "slow motion walk"
+  ]
+ },
+ {
+  "i0": 625,
+  "i1": 640,
+  "texto": "Pero sugiere que el margen de quien fabrica no es mayor que el de quien vende.",
+  "q": [
+   "scales of justice",
+   "two equal stacks",
+   "business handshake deal"
+  ]
+ },
+ {
+  "i0": 641,
+  "i1": 662,
+  "texto": "Vamos con lo que no sabemos. No hemos encontrado ninguna lista pública oficial que diga qué fábrica hace cada producto de Mercadona.",
+  "q": [
+   "empty file folder",
+   "searching dusty archive",
+   "magnifying glass blank"
+  ]
+ },
+ {
+  "i0": 663,
+  "i1": 689,
+  "texto": "Ni la memoria de la empresa ni la prensa la dan. Por eso en este vídeo no te vamos a decir que tal empresa fabrica tal producto.",
+  "q": [
+   "zipped lips gesture",
+   "locked safe door",
+   "blurred document text"
+  ]
+ },
+ {
+  "i0": 690,
+  "i1": 703,
+  "texto": "Eso no lo sabemos. Y quien te lo diga sin enseñarte el documento, tampoco.",
+  "q": [
+   "checking paper source",
+   "person shaking head",
+   "empty office chair"
+  ]
+ },
+ {
+  "i0": 704,
+  "i1": 722,
+  "texto": "Lo que sí puedes hacer es mirar el óvalo de tu etiqueta, apuntar el número y consultar el registro.",
+  "q": [
+   "writing on notepad",
+   "mobile phone typing",
+   "close-up oval code"
+  ]
+ },
+ {
+  "i0": 723,
+  "i1": 748,
+  "texto": "Es la única pista oficial que la ley te da. Así que, la próxima vez que cojas un producto de marca blanca, piensa en su viaje.",
+  "q": [
+   "shopping cart moving",
+   "picking up yogurt",
+   "customer choosing item"
+  ]
+ },
+ {
+  "i0": 749,
+  "i1": 768,
+  "texto": "En la etiqueta, el nombre de quien lo vende. En el óvalo, si lo lleva, el número de la fábrica.",
+  "q": [
+   "pointing at label",
+   "close up oval",
+   "supermarket shelf pan"
+  ]
+ },
+ {
+  "i0": 769,
+  "i1": 782,
+  "texto": "Y detrás, miles de proveedores que ganan, de media, unos tres céntimos por euro.",
+  "q": [
+   "many workers factory",
+   "piling up cents",
+   "large crowd walking"
+  ]
+ },
+ {
+  "i0": 783,
+  "i1": 794,
+  "texto": "La marca blanca no tiene un único fabricante: tiene miles de ellos.",
+  "q": [
+   "different factory exteriors",
+   "world map logistics",
+   "assorted grocery bags"
+  ]
+ },
+ {
+  "i0": 795,
+  "i1": 813,
+  "texto": "La pregunta ya no es quién fabrica tu producto. Es por qué la ley deja que no lo sepas.",
+  "q": [
+   "government building pillars",
+   "thoughtful person looking",
+   "closed law book"
+  ]
+ },
+ {
+  "i0": 814,
+  "i1": 825,
+  "texto": "Cada semana abrimos el ticket de algo que pagas todos los días.",
+  "q": [
+   "long grocery receipt",
+   "paying with card",
+   "unfolding paper bill"
+  ]
+ },
+ {
+  "i0": 826,
+  "i1": 834,
+  "texto": "Y el próximo… te va a sorprender todavía más.",
+  "q": [
+   "surprised person expression",
+   "clock ticking fast",
+   "coming soon sign"
+  ]
+ }
+]

@@ -1,0 +1,6 @@
+file '/Users/antoniofuster/Downloads/faceless/redes/pepa_pita/real/042_congelar_embutidos/esc_00.mp4'
+file '/Users/antoniofuster/Downloads/faceless/redes/pepa_pita/real/042_congelar_embutidos/esc_01.mp4'
+file '/Users/antoniofuster/Downloads/faceless/redes/pepa_pita/real/042_congelar_embutidos/esc_02.mp4'
+file '/Users/antoniofuster/Downloads/faceless/redes/pepa_pita/real/042_congelar_embutidos/esc_03.mp4'
+file '/Users/antoniofuster/Downloads/faceless/redes/pepa_pita/real/042_congelar_embutidos/esc_04.mp4'
+file '/Users/antoniofuster/Downloads/faceless/redes/pepa_pita/real/042_congelar_embutidos/esc_pepa.mp4'

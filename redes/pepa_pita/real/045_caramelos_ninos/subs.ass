@@ -1,0 +1,132 @@
+[Script Info]
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: P,Archivo Black,86,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,7,3,2,60,60,560,1
+Style: PT,Archivo Black,86,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,7,3,8,60,60,330,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.76,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}¿CARAMELOS{\r} PARA LOS
+Dialogue: 0,0:00:00.76,0:00:00.96,P,,0,0,0,,¿CARAMELOS {\c&H00D4FF&\fscx112\fscy112}PARA{\r} LOS
+Dialogue: 0,0:00:00.96,0:00:01.14,P,,0,0,0,,¿CARAMELOS PARA {\c&H00D4FF&\fscx112\fscy112}LOS{\r}
+Dialogue: 0,0:00:01.14,0:00:01.40,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}PEQUES{\r} EN NAVIDAD?
+Dialogue: 0,0:00:01.40,0:00:01.60,P,,0,0,0,,PEQUES {\c&H00D4FF&\fscx112\fscy112}EN{\r} NAVIDAD?
+Dialogue: 0,0:00:01.60,0:00:02.24,P,,0,0,0,,PEQUES EN {\c&H00D4FF&\fscx112\fscy112}NAVIDAD?{\r}
+Dialogue: 0,0:00:02.24,0:00:03.16,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}OJO.{\r}
+Dialogue: 0,0:00:03.16,0:00:03.26,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}LOS{\r} PEDIATRAS AVISAN
+Dialogue: 0,0:00:03.26,0:00:03.66,P,,0,0,0,,LOS {\c&H00D4FF&\fscx112\fscy112}PEDIATRAS{\r} AVISAN
+Dialogue: 0,0:00:03.66,0:00:04.10,P,,0,0,0,,LOS PEDIATRAS {\c&H00D4FF&\fscx112\fscy112}AVISAN{\r}
+Dialogue: 0,0:00:04.10,0:00:04.24,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}DE{\r} QUE NINGÚN
+Dialogue: 0,0:00:04.24,0:00:04.36,P,,0,0,0,,DE {\c&H00D4FF&\fscx112\fscy112}QUE{\r} NINGÚN
+Dialogue: 0,0:00:04.36,0:00:04.76,P,,0,0,0,,DE QUE {\c&H00D4FF&\fscx112\fscy112}NINGÚN{\r}
+Dialogue: 0,0:00:04.76,0:00:05.32,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}CARAMELO{\r} ES SEGURO
+Dialogue: 0,0:00:05.32,0:00:05.46,P,,0,0,0,,CARAMELO {\c&H00D4FF&\fscx112\fscy112}ES{\r} SEGURO
+Dialogue: 0,0:00:05.46,0:00:05.68,P,,0,0,0,,CARAMELO ES {\c&H00D4FF&\fscx112\fscy112}SEGURO{\r}
+Dialogue: 0,0:00:05.68,0:00:05.90,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}ANTES{\r} DE CUMPLIR
+Dialogue: 0,0:00:05.90,0:00:06.06,P,,0,0,0,,ANTES {\c&H00D4FF&\fscx112\fscy112}DE{\r} CUMPLIR
+Dialogue: 0,0:00:06.06,0:00:06.38,P,,0,0,0,,ANTES DE {\c&H00D4FF&\fscx112\fscy112}CUMPLIR{\r}
+Dialogue: 0,0:00:06.38,0:00:06.50,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}LOS{\r} CINCO AÑOS:
+Dialogue: 0,0:00:06.50,0:00:06.74,P,,0,0,0,,LOS {\c&H00D4FF&\fscx112\fscy112}CINCO{\r} AÑOS:
+Dialogue: 0,0:00:06.74,0:00:07.44,P,,0,0,0,,LOS CINCO {\c&H00D4FF&\fscx112\fscy112}AÑOS:{\r}
+Dialogue: 0,0:00:07.44,0:00:07.72,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}NO{\r} SE DESHACEN
+Dialogue: 0,0:00:07.72,0:00:07.86,P,,0,0,0,,NO {\c&H00D4FF&\fscx112\fscy112}SE{\r} DESHACEN
+Dialogue: 0,0:00:07.86,0:00:08.22,P,,0,0,0,,NO SE {\c&H00D4FF&\fscx112\fscy112}DESHACEN{\r}
+Dialogue: 0,0:00:08.22,0:00:08.52,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}RÁPIDO{\r} Y ENCAJAN
+Dialogue: 0,0:00:08.52,0:00:08.86,P,,0,0,0,,RÁPIDO {\c&H00D4FF&\fscx112\fscy112}Y{\r} ENCAJAN
+Dialogue: 0,0:00:08.86,0:00:09.26,P,,0,0,0,,RÁPIDO Y {\c&H00D4FF&\fscx112\fscy112}ENCAJAN{\r}
+Dialogue: 0,0:00:09.26,0:00:09.46,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}CON{\r} FACILIDAD EN
+Dialogue: 0,0:00:09.46,0:00:10.06,P,,0,0,0,,CON {\c&H00D4FF&\fscx112\fscy112}FACILIDAD{\r} EN
+Dialogue: 0,0:00:10.06,0:00:10.22,P,,0,0,0,,CON FACILIDAD {\c&H00D4FF&\fscx112\fscy112}EN{\r}
+Dialogue: 0,0:00:10.22,0:00:10.32,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}LA{\r} GARGANTA.
+Dialogue: 0,0:00:10.32,0:00:11.26,P,,0,0,0,,LA {\c&H00D4FF&\fscx112\fscy112}GARGANTA.{\r}
+Dialogue: 0,0:00:11.26,0:00:11.48,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}LOS{\r} CARAMELOS DUROS
+Dialogue: 0,0:00:11.48,0:00:11.94,P,,0,0,0,,LOS {\c&H00D4FF&\fscx112\fscy112}CARAMELOS{\r} DUROS
+Dialogue: 0,0:00:11.94,0:00:12.26,P,,0,0,0,,LOS CARAMELOS {\c&H00D4FF&\fscx112\fscy112}DUROS{\r}
+Dialogue: 0,0:00:12.26,0:00:12.36,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}Y{\r} REDONDOS PUEDEN
+Dialogue: 0,0:00:12.36,0:00:12.78,P,,0,0,0,,Y {\c&H00D4FF&\fscx112\fscy112}REDONDOS{\r} PUEDEN
+Dialogue: 0,0:00:12.78,0:00:13.18,P,,0,0,0,,Y REDONDOS {\c&H00D4FF&\fscx112\fscy112}PUEDEN{\r}
+Dialogue: 0,0:00:13.18,0:00:13.58,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}BLOQUEAR{\r} COMPLETAMENTE LA
+Dialogue: 0,0:00:13.58,0:00:14.22,P,,0,0,0,,BLOQUEAR {\c&H00D4FF&\fscx112\fscy112}COMPLETAMENTE{\r} LA
+Dialogue: 0,0:00:14.22,0:00:14.50,P,,0,0,0,,BLOQUEAR COMPLETAMENTE {\c&H00D4FF&\fscx112\fscy112}LA{\r}
+Dialogue: 0,0:00:14.50,0:00:14.72,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}VÍA{\r} AÉREA DE
+Dialogue: 0,0:00:14.72,0:00:15.00,P,,0,0,0,,VÍA {\c&H00D4FF&\fscx112\fscy112}AÉREA{\r} DE
+Dialogue: 0,0:00:15.00,0:00:15.14,P,,0,0,0,,VÍA AÉREA {\c&H00D4FF&\fscx112\fscy112}DE{\r}
+Dialogue: 0,0:00:15.14,0:00:15.26,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}UN{\r} NIÑO EN
+Dialogue: 0,0:00:15.26,0:00:15.46,P,,0,0,0,,UN {\c&H00D4FF&\fscx112\fscy112}NIÑO{\r} EN
+Dialogue: 0,0:00:15.46,0:00:15.78,P,,0,0,0,,UN NIÑO {\c&H00D4FF&\fscx112\fscy112}EN{\r}
+Dialogue: 0,0:00:15.78,0:00:16.92,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}SEGUNDOS.{\r}
+Dialogue: 0,0:00:16.92,0:00:17.14,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}DE{\r} CERO A
+Dialogue: 0,0:00:17.14,0:00:17.30,P,,0,0,0,,DE {\c&H00D4FF&\fscx112\fscy112}CERO{\r} A
+Dialogue: 0,0:00:17.30,0:00:17.38,P,,0,0,0,,DE CERO {\c&H00D4FF&\fscx112\fscy112}A{\r}
+Dialogue: 0,0:00:17.38,0:00:17.56,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}TRES{\r} AÑOS,
+Dialogue: 0,0:00:17.56,0:00:17.78,P,,0,0,0,,TRES {\c&H00D4FF&\fscx112\fscy112}AÑOS,{\r}
+Dialogue: 0,0:00:17.78,0:00:18.10,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}EL{\r} RIESGO ES
+Dialogue: 0,0:00:18.10,0:00:18.38,P,,0,0,0,,EL {\c&H00D4FF&\fscx112\fscy112}RIESGO{\r} ES
+Dialogue: 0,0:00:18.38,0:00:18.50,P,,0,0,0,,EL RIESGO {\c&H00D4FF&\fscx112\fscy112}ES{\r}
+Dialogue: 0,0:00:18.50,0:00:18.80,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}MUY{\r} ALTO Y
+Dialogue: 0,0:00:18.80,0:00:19.10,P,,0,0,0,,MUY {\c&H00D4FF&\fscx112\fscy112}ALTO{\r} Y
+Dialogue: 0,0:00:19.10,0:00:19.40,P,,0,0,0,,MUY ALTO {\c&H00D4FF&\fscx112\fscy112}Y{\r}
+Dialogue: 0,0:00:19.40,0:00:19.62,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}NO{\r} DEBEN TOMARLOS.
+Dialogue: 0,0:00:19.62,0:00:19.88,P,,0,0,0,,NO {\c&H00D4FF&\fscx112\fscy112}DEBEN{\r} TOMARLOS.
+Dialogue: 0,0:00:19.88,0:00:21.00,P,,0,0,0,,NO DEBEN {\c&H00D4FF&\fscx112\fscy112}TOMARLOS.{\r}
+Dialogue: 0,0:00:21.00,0:00:21.16,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}DE{\r} TRES A
+Dialogue: 0,0:00:21.16,0:00:21.36,P,,0,0,0,,DE {\c&H00D4FF&\fscx112\fscy112}TRES{\r} A
+Dialogue: 0,0:00:21.36,0:00:21.46,P,,0,0,0,,DE TRES {\c&H00D4FF&\fscx112\fscy112}A{\r}
+Dialogue: 0,0:00:21.46,0:00:21.70,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}CINCO,{\r}
+Dialogue: 0,0:00:21.70,0:00:22.00,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}EL{\r} RIESGO ES
+Dialogue: 0,0:00:22.00,0:00:22.30,P,,0,0,0,,EL {\c&H00D4FF&\fscx112\fscy112}RIESGO{\r} ES
+Dialogue: 0,0:00:22.30,0:00:22.40,P,,0,0,0,,EL RIESGO {\c&H00D4FF&\fscx112\fscy112}ES{\r}
+Dialogue: 0,0:00:22.40,0:00:22.62,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}ALTO,{\r}
+Dialogue: 0,0:00:22.62,0:00:23.18,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}INCLUSO{\r} CON SUPERVISIÓN.
+Dialogue: 0,0:00:23.18,0:00:23.48,P,,0,0,0,,INCLUSO {\c&H00D4FF&\fscx112\fscy112}CON{\r} SUPERVISIÓN.
+Dialogue: 0,0:00:23.48,0:00:24.00,P,,0,0,0,,INCLUSO CON {\c&H00D4FF&\fscx112\fscy112}SUPERVISIÓN.{\r}
+Dialogue: 0,0:00:24.00,0:00:24.66,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}Y{\r} POR ENCIMA
+Dialogue: 0,0:00:24.66,0:00:24.84,P,,0,0,0,,Y {\c&H00D4FF&\fscx112\fscy112}POR{\r} ENCIMA
+Dialogue: 0,0:00:24.84,0:00:25.10,P,,0,0,0,,Y POR {\c&H00D4FF&\fscx112\fscy112}ENCIMA{\r}
+Dialogue: 0,0:00:25.10,0:00:25.26,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}DE{\r} CINCO AÑOS,
+Dialogue: 0,0:00:25.26,0:00:25.48,P,,0,0,0,,DE {\c&H00D4FF&\fscx112\fscy112}CINCO{\r} AÑOS,
+Dialogue: 0,0:00:25.48,0:00:25.76,P,,0,0,0,,DE CINCO {\c&H00D4FF&\fscx112\fscy112}AÑOS,{\r}
+Dialogue: 0,0:00:25.76,0:00:26.02,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}EL{\r} RIESGO DISMINUYE,
+Dialogue: 0,0:00:26.02,0:00:26.30,P,,0,0,0,,EL {\c&H00D4FF&\fscx112\fscy112}RIESGO{\r} DISMINUYE,
+Dialogue: 0,0:00:26.30,0:00:26.82,P,,0,0,0,,EL RIESGO {\c&H00D4FF&\fscx112\fscy112}DISMINUYE,{\r}
+Dialogue: 0,0:00:26.82,0:00:27.24,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}PERO{\r} NO DESAPARECE.
+Dialogue: 0,0:00:27.24,0:00:27.52,P,,0,0,0,,PERO {\c&H00D4FF&\fscx112\fscy112}NO{\r} DESAPARECE.
+Dialogue: 0,0:00:27.52,0:00:28.62,P,,0,0,0,,PERO NO {\c&H00D4FF&\fscx112\fscy112}DESAPARECE.{\r}
+Dialogue: 0,0:00:28.62,0:00:28.86,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}LA{\r} ACADEMIA AMERICANA
+Dialogue: 0,0:00:28.86,0:00:29.20,P,,0,0,0,,LA {\c&H00D4FF&\fscx112\fscy112}ACADEMIA{\r} AMERICANA
+Dialogue: 0,0:00:29.20,0:00:29.60,P,,0,0,0,,LA ACADEMIA {\c&H00D4FF&\fscx112\fscy112}AMERICANA{\r}
+Dialogue: 0,0:00:29.60,0:00:29.72,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}DE{\r} PEDIATRÍA COINCIDE:
+Dialogue: 0,0:00:29.72,0:00:30.12,P,,0,0,0,,DE {\c&H00D4FF&\fscx112\fscy112}PEDIATRÍA{\r} COINCIDE:
+Dialogue: 0,0:00:30.12,0:00:30.98,P,,0,0,0,,DE PEDIATRÍA {\c&H00D4FF&\fscx112\fscy112}COINCIDE:{\r}
+Dialogue: 0,0:00:30.98,0:00:31.46,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}INCLUYE{\r} LOS CARAMELOS
+Dialogue: 0,0:00:31.46,0:00:31.58,P,,0,0,0,,INCLUYE {\c&H00D4FF&\fscx112\fscy112}LOS{\r} CARAMELOS
+Dialogue: 0,0:00:31.58,0:00:32.02,P,,0,0,0,,INCLUYE LOS {\c&H00D4FF&\fscx112\fscy112}CARAMELOS{\r}
+Dialogue: 0,0:00:32.02,0:00:32.56,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}DUROS,{\r}
+Dialogue: 0,0:00:32.56,0:00:33.16,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}PEGAJOSOS{\r} O BLANDOS
+Dialogue: 0,0:00:33.16,0:00:33.42,P,,0,0,0,,PEGAJOSOS {\c&H00D4FF&\fscx112\fscy112}O{\r} BLANDOS
+Dialogue: 0,0:00:33.42,0:00:33.90,P,,0,0,0,,PEGAJOSOS O {\c&H00D4FF&\fscx112\fscy112}BLANDOS{\r}
+Dialogue: 0,0:00:33.90,0:00:34.30,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}ENTRE{\r} LOS ALIMENTOS
+Dialogue: 0,0:00:34.30,0:00:34.46,P,,0,0,0,,ENTRE {\c&H00D4FF&\fscx112\fscy112}LOS{\r} ALIMENTOS
+Dialogue: 0,0:00:34.46,0:00:34.80,P,,0,0,0,,ENTRE LOS {\c&H00D4FF&\fscx112\fscy112}ALIMENTOS{\r}
+Dialogue: 0,0:00:34.80,0:00:35.02,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}DE{\r} RIESGO Y
+Dialogue: 0,0:00:35.02,0:00:35.38,P,,0,0,0,,DE {\c&H00D4FF&\fscx112\fscy112}RIESGO{\r} Y
+Dialogue: 0,0:00:35.38,0:00:35.56,P,,0,0,0,,DE RIESGO {\c&H00D4FF&\fscx112\fscy112}Y{\r}
+Dialogue: 0,0:00:35.56,0:00:36.12,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}ACONSEJA{\r} EVITARLOS HASTA
+Dialogue: 0,0:00:36.12,0:00:36.54,P,,0,0,0,,ACONSEJA {\c&H00D4FF&\fscx112\fscy112}EVITARLOS{\r} HASTA
+Dialogue: 0,0:00:36.54,0:00:36.74,P,,0,0,0,,ACONSEJA EVITARLOS {\c&H00D4FF&\fscx112\fscy112}HASTA{\r}
+Dialogue: 0,0:00:36.74,0:00:36.92,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}LOS{\r} CUATRO AÑOS
+Dialogue: 0,0:00:36.92,0:00:37.14,P,,0,0,0,,LOS {\c&H00D4FF&\fscx112\fscy112}CUATRO{\r} AÑOS
+Dialogue: 0,0:00:37.14,0:00:37.48,P,,0,0,0,,LOS CUATRO {\c&H00D4FF&\fscx112\fscy112}AÑOS{\r}
+Dialogue: 0,0:00:37.48,0:00:37.74,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}O{\r} MÁS.
+Dialogue: 0,0:00:37.74,0:00:38.44,P,,0,0,0,,O {\c&H00D4FF&\fscx112\fscy112}MÁS.{\r}
+Dialogue: 0,0:00:38.44,0:00:39.30,PT,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}SÍGUEME,{\r}
+Dialogue: 0,0:00:39.30,0:00:39.40,PT,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}QUE{\r} AQUÍ APRENDEMOS
+Dialogue: 0,0:00:39.40,0:00:39.58,PT,,0,0,0,,QUE {\c&H00D4FF&\fscx112\fscy112}AQUÍ{\r} APRENDEMOS
+Dialogue: 0,0:00:39.58,0:00:40.02,PT,,0,0,0,,QUE AQUÍ {\c&H00D4FF&\fscx112\fscy112}APRENDEMOS{\r}
+Dialogue: 0,0:00:40.02,0:00:40.24,PT,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}TODOS.{\r}
+Dialogue: 0,0:00:40.24,0:00:40.47,PT,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}¡CLOC,{\r}
+Dialogue: 0,0:00:40.47,0:00:41.09,PT,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}CLOC!{\r}

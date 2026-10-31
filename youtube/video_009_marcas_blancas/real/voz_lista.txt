@@ -1,0 +1,6 @@
+file '/Users/antoniofuster/Downloads/faceless/youtube/video_009_marcas_blancas/real/voz_00.wav'
+file '/Users/antoniofuster/Downloads/faceless/youtube/video_009_marcas_blancas/real/pausa.wav'
+file '/Users/antoniofuster/Downloads/faceless/youtube/video_009_marcas_blancas/real/voz_01.wav'
+file '/Users/antoniofuster/Downloads/faceless/youtube/video_009_marcas_blancas/real/pausa.wav'
+file '/Users/antoniofuster/Downloads/faceless/youtube/video_009_marcas_blancas/real/voz_02.wav'
+file '/Users/antoniofuster/Downloads/faceless/youtube/video_009_marcas_blancas/real/pausa.wav'

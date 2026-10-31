@@ -1,0 +1,213 @@
+[Script Info]
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: P,Archivo Black,86,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,7,3,2,60,60,560,1
+Style: PT,Archivo Black,86,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,7,3,8,60,60,330,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.62,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}¿PREPARAS{\r} LA CENA
+Dialogue: 0,0:00:00.62,0:00:00.74,P,,0,0,0,,¿PREPARAS {\c&H00D4FF&\fscx112\fscy112}LA{\r} CENA
+Dialogue: 0,0:00:00.74,0:00:00.92,P,,0,0,0,,¿PREPARAS LA {\c&H00D4FF&\fscx112\fscy112}CENA{\r}
+Dialogue: 0,0:00:00.92,0:00:01.06,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}DE{\r} NAVIDAD?
+Dialogue: 0,0:00:01.06,0:00:01.62,P,,0,0,0,,DE {\c&H00D4FF&\fscx112\fscy112}NAVIDAD?{\r}
+Dialogue: 0,0:00:01.62,0:00:01.98,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}ESTOS{\r} SON LOS
+Dialogue: 0,0:00:01.98,0:00:02.14,P,,0,0,0,,ESTOS {\c&H00D4FF&\fscx112\fscy112}SON{\r} LOS
+Dialogue: 0,0:00:02.14,0:00:02.28,P,,0,0,0,,ESTOS SON {\c&H00D4FF&\fscx112\fscy112}LOS{\r}
+Dialogue: 0,0:00:02.28,0:00:02.44,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}SEIS{\r} PASOS QUE
+Dialogue: 0,0:00:02.44,0:00:02.76,P,,0,0,0,,SEIS {\c&H00D4FF&\fscx112\fscy112}PASOS{\r} QUE
+Dialogue: 0,0:00:02.76,0:00:02.90,P,,0,0,0,,SEIS PASOS {\c&H00D4FF&\fscx112\fscy112}QUE{\r}
+Dialogue: 0,0:00:02.90,0:00:03.34,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}RECOMIENDA{\r} LA EFSA,
+Dialogue: 0,0:00:03.34,0:00:03.48,P,,0,0,0,,RECOMIENDA {\c&H00D4FF&\fscx112\fscy112}LA{\r} EFSA,
+Dialogue: 0,0:00:03.48,0:00:04.04,P,,0,0,0,,RECOMIENDA LA {\c&H00D4FF&\fscx112\fscy112}EFSA,{\r}
+Dialogue: 0,0:00:04.04,0:00:04.12,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}LA{\r} AUTORIDAD EUROPEA
+Dialogue: 0,0:00:04.12,0:00:04.46,P,,0,0,0,,LA {\c&H00D4FF&\fscx112\fscy112}AUTORIDAD{\r} EUROPEA
+Dialogue: 0,0:00:04.46,0:00:04.94,P,,0,0,0,,LA AUTORIDAD {\c&H00D4FF&\fscx112\fscy112}EUROPEA{\r}
+Dialogue: 0,0:00:04.94,0:00:05.06,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}DE{\r} SEGURIDAD ALIMENTARIA.
+Dialogue: 0,0:00:05.06,0:00:05.48,P,,0,0,0,,DE {\c&H00D4FF&\fscx112\fscy112}SEGURIDAD{\r} ALIMENTARIA.
+Dialogue: 0,0:00:05.48,0:00:06.00,P,,0,0,0,,DE SEGURIDAD {\c&H00D4FF&\fscx112\fscy112}ALIMENTARIA.{\r}
+Dialogue: 0,0:00:06.00,0:00:07.02,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}UNO,{\r}
+Dialogue: 0,0:00:07.02,0:00:07.08,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}LA{\r} LIMPIEZA.
+Dialogue: 0,0:00:07.08,0:00:07.96,P,,0,0,0,,LA {\c&H00D4FF&\fscx112\fscy112}LIMPIEZA.{\r}
+Dialogue: 0,0:00:07.96,0:00:08.16,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}LÁVATE{\r} LAS MANOS
+Dialogue: 0,0:00:08.16,0:00:08.34,P,,0,0,0,,LÁVATE {\c&H00D4FF&\fscx112\fscy112}LAS{\r} MANOS
+Dialogue: 0,0:00:08.34,0:00:08.56,P,,0,0,0,,LÁVATE LAS {\c&H00D4FF&\fscx112\fscy112}MANOS{\r}
+Dialogue: 0,0:00:08.56,0:00:08.82,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}ANTES{\r} DE MANIPULAR
+Dialogue: 0,0:00:08.82,0:00:08.96,P,,0,0,0,,ANTES {\c&H00D4FF&\fscx112\fscy112}DE{\r} MANIPULAR
+Dialogue: 0,0:00:08.96,0:00:09.36,P,,0,0,0,,ANTES DE {\c&H00D4FF&\fscx112\fscy112}MANIPULAR{\r}
+Dialogue: 0,0:00:09.36,0:00:09.52,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}LOS{\r} ALIMENTOS Y
+Dialogue: 0,0:00:09.52,0:00:09.84,P,,0,0,0,,LOS {\c&H00D4FF&\fscx112\fscy112}ALIMENTOS{\r} Y
+Dialogue: 0,0:00:09.84,0:00:10.16,P,,0,0,0,,LOS ALIMENTOS {\c&H00D4FF&\fscx112\fscy112}Y{\r}
+Dialogue: 0,0:00:10.16,0:00:10.38,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}DURANTE{\r} LA PREPARACIÓN,
+Dialogue: 0,0:00:10.38,0:00:10.56,P,,0,0,0,,DURANTE {\c&H00D4FF&\fscx112\fscy112}LA{\r} PREPARACIÓN,
+Dialogue: 0,0:00:10.56,0:00:11.30,P,,0,0,0,,DURANTE LA {\c&H00D4FF&\fscx112\fscy112}PREPARACIÓN,{\r}
+Dialogue: 0,0:00:11.30,0:00:11.44,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}Y{\r} LIMPIA BIEN
+Dialogue: 0,0:00:11.44,0:00:11.68,P,,0,0,0,,Y {\c&H00D4FF&\fscx112\fscy112}LIMPIA{\r} BIEN
+Dialogue: 0,0:00:11.68,0:00:11.84,P,,0,0,0,,Y LIMPIA {\c&H00D4FF&\fscx112\fscy112}BIEN{\r}
+Dialogue: 0,0:00:11.84,0:00:12.32,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}SUPERFICIES{\r} Y UTENSILIOS.
+Dialogue: 0,0:00:12.32,0:00:12.42,P,,0,0,0,,SUPERFICIES {\c&H00D4FF&\fscx112\fscy112}Y{\r} UTENSILIOS.
+Dialogue: 0,0:00:12.42,0:00:12.94,P,,0,0,0,,SUPERFICIES Y {\c&H00D4FF&\fscx112\fscy112}UTENSILIOS.{\r}
+Dialogue: 0,0:00:12.94,0:00:13.94,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}DOS,{\r}
+Dialogue: 0,0:00:13.94,0:00:14.12,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}SEPARA{\r} LO CRUDO
+Dialogue: 0,0:00:14.12,0:00:14.28,P,,0,0,0,,SEPARA {\c&H00D4FF&\fscx112\fscy112}LO{\r} CRUDO
+Dialogue: 0,0:00:14.28,0:00:14.52,P,,0,0,0,,SEPARA LO {\c&H00D4FF&\fscx112\fscy112}CRUDO{\r}
+Dialogue: 0,0:00:14.52,0:00:14.66,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}DE{\r} LO COCINADO.
+Dialogue: 0,0:00:14.66,0:00:14.76,P,,0,0,0,,DE {\c&H00D4FF&\fscx112\fscy112}LO{\r} COCINADO.
+Dialogue: 0,0:00:14.76,0:00:15.54,P,,0,0,0,,DE LO {\c&H00D4FF&\fscx112\fscy112}COCINADO.{\r}
+Dialogue: 0,0:00:15.54,0:00:15.72,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}USA{\r} UTENSILIOS Y
+Dialogue: 0,0:00:15.72,0:00:16.18,P,,0,0,0,,USA {\c&H00D4FF&\fscx112\fscy112}UTENSILIOS{\r} Y
+Dialogue: 0,0:00:16.18,0:00:16.28,P,,0,0,0,,USA UTENSILIOS {\c&H00D4FF&\fscx112\fscy112}Y{\r}
+Dialogue: 0,0:00:16.28,0:00:16.48,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}TABLAS{\r} DIFERENTES,
+Dialogue: 0,0:00:16.48,0:00:16.86,P,,0,0,0,,TABLAS {\c&H00D4FF&\fscx112\fscy112}DIFERENTES,{\r}
+Dialogue: 0,0:00:16.86,0:00:17.20,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}Y{\r} GUÁRDALOS POR
+Dialogue: 0,0:00:17.20,0:00:17.60,P,,0,0,0,,Y {\c&H00D4FF&\fscx112\fscy112}GUÁRDALOS{\r} POR
+Dialogue: 0,0:00:17.60,0:00:17.74,P,,0,0,0,,Y GUÁRDALOS {\c&H00D4FF&\fscx112\fscy112}POR{\r}
+Dialogue: 0,0:00:17.74,0:00:18.16,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}SEPARADO{\r} EN EL
+Dialogue: 0,0:00:18.16,0:00:18.24,P,,0,0,0,,SEPARADO {\c&H00D4FF&\fscx112\fscy112}EN{\r} EL
+Dialogue: 0,0:00:18.24,0:00:18.32,P,,0,0,0,,SEPARADO EN {\c&H00D4FF&\fscx112\fscy112}EL{\r}
+Dialogue: 0,0:00:18.32,0:00:18.92,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}FRIGORÍFICO.{\r}
+Dialogue: 0,0:00:18.92,0:00:19.92,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}TRES,{\r}
+Dialogue: 0,0:00:19.92,0:00:20.10,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}COCINA{\r} BIEN LA
+Dialogue: 0,0:00:20.10,0:00:20.24,P,,0,0,0,,COCINA {\c&H00D4FF&\fscx112\fscy112}BIEN{\r} LA
+Dialogue: 0,0:00:20.24,0:00:20.42,P,,0,0,0,,COCINA BIEN {\c&H00D4FF&\fscx112\fscy112}LA{\r}
+Dialogue: 0,0:00:20.42,0:00:20.98,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}CARNE,{\r}
+Dialogue: 0,0:00:20.98,0:00:21.06,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}LOS{\r} HUEVOS Y
+Dialogue: 0,0:00:21.06,0:00:21.42,P,,0,0,0,,LOS {\c&H00D4FF&\fscx112\fscy112}HUEVOS{\r} Y
+Dialogue: 0,0:00:21.42,0:00:21.56,P,,0,0,0,,LOS HUEVOS {\c&H00D4FF&\fscx112\fscy112}Y{\r}
+Dialogue: 0,0:00:21.56,0:00:21.68,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}LOS{\r} PESCADOS.
+Dialogue: 0,0:00:21.68,0:00:22.42,P,,0,0,0,,LOS {\c&H00D4FF&\fscx112\fscy112}PESCADOS.{\r}
+Dialogue: 0,0:00:22.42,0:00:22.64,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}LAS{\r} SOPAS Y
+Dialogue: 0,0:00:22.64,0:00:22.88,P,,0,0,0,,LAS {\c&H00D4FF&\fscx112\fscy112}SOPAS{\r} Y
+Dialogue: 0,0:00:22.88,0:00:22.98,P,,0,0,0,,LAS SOPAS {\c&H00D4FF&\fscx112\fscy112}Y{\r}
+Dialogue: 0,0:00:22.98,0:00:23.08,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}LOS{\r} GUISOS,
+Dialogue: 0,0:00:23.08,0:00:23.40,P,,0,0,0,,LOS {\c&H00D4FF&\fscx112\fscy112}GUISOS,{\r}
+Dialogue: 0,0:00:23.40,0:00:23.64,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}A{\r} EBULLICIÓN,
+Dialogue: 0,0:00:23.64,0:00:24.36,P,,0,0,0,,A {\c&H00D4FF&\fscx112\fscy112}EBULLICIÓN,{\r}
+Dialogue: 0,0:00:24.36,0:00:24.58,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}HASTA{\r} LOS SETENTA
+Dialogue: 0,0:00:24.58,0:00:24.70,P,,0,0,0,,HASTA {\c&H00D4FF&\fscx112\fscy112}LOS{\r} SETENTA
+Dialogue: 0,0:00:24.70,0:00:24.94,P,,0,0,0,,HASTA LOS {\c&H00D4FF&\fscx112\fscy112}SETENTA{\r}
+Dialogue: 0,0:00:24.94,0:00:25.66,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}GRADOS.{\r}
+Dialogue: 0,0:00:25.66,0:00:25.82,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}EN{\r} LA CARNE,
+Dialogue: 0,0:00:25.82,0:00:25.92,P,,0,0,0,,EN {\c&H00D4FF&\fscx112\fscy112}LA{\r} CARNE,
+Dialogue: 0,0:00:25.92,0:00:26.36,P,,0,0,0,,EN LA {\c&H00D4FF&\fscx112\fscy112}CARNE,{\r}
+Dialogue: 0,0:00:26.36,0:00:26.42,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}LOS{\r} JUGOS TIENEN
+Dialogue: 0,0:00:26.42,0:00:26.72,P,,0,0,0,,LOS {\c&H00D4FF&\fscx112\fscy112}JUGOS{\r} TIENEN
+Dialogue: 0,0:00:26.72,0:00:26.90,P,,0,0,0,,LOS JUGOS {\c&H00D4FF&\fscx112\fscy112}TIENEN{\r}
+Dialogue: 0,0:00:26.90,0:00:27.02,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}QUE{\r} SALIR CLAROS,
+Dialogue: 0,0:00:27.02,0:00:27.18,P,,0,0,0,,QUE {\c&H00D4FF&\fscx112\fscy112}SALIR{\r} CLAROS,
+Dialogue: 0,0:00:27.18,0:00:27.76,P,,0,0,0,,QUE SALIR {\c&H00D4FF&\fscx112\fscy112}CLAROS,{\r}
+Dialogue: 0,0:00:27.76,0:00:27.86,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}NO{\r} ROSADOS.
+Dialogue: 0,0:00:27.86,0:00:28.54,P,,0,0,0,,NO {\c&H00D4FF&\fscx112\fscy112}ROSADOS.{\r}
+Dialogue: 0,0:00:28.54,0:00:28.62,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}Y{\r} EN EL
+Dialogue: 0,0:00:28.62,0:00:28.72,P,,0,0,0,,Y {\c&H00D4FF&\fscx112\fscy112}EN{\r} EL
+Dialogue: 0,0:00:28.72,0:00:28.78,P,,0,0,0,,Y EN {\c&H00D4FF&\fscx112\fscy112}EL{\r}
+Dialogue: 0,0:00:28.78,0:00:29.10,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}PESCADO,{\r}
+Dialogue: 0,0:00:29.10,0:00:29.28,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}LA{\r} CARNE SE
+Dialogue: 0,0:00:29.28,0:00:29.50,P,,0,0,0,,LA {\c&H00D4FF&\fscx112\fscy112}CARNE{\r} SE
+Dialogue: 0,0:00:29.50,0:00:29.68,P,,0,0,0,,LA CARNE {\c&H00D4FF&\fscx112\fscy112}SE{\r}
+Dialogue: 0,0:00:29.68,0:00:29.98,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}SEPARA{\r} FÁCILMENTE DE
+Dialogue: 0,0:00:29.98,0:00:30.48,P,,0,0,0,,SEPARA {\c&H00D4FF&\fscx112\fscy112}FÁCILMENTE{\r} DE
+Dialogue: 0,0:00:30.48,0:00:30.58,P,,0,0,0,,SEPARA FÁCILMENTE {\c&H00D4FF&\fscx112\fscy112}DE{\r}
+Dialogue: 0,0:00:30.58,0:00:30.72,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}LAS{\r} ESPINAS.
+Dialogue: 0,0:00:30.72,0:00:31.06,P,,0,0,0,,LAS {\c&H00D4FF&\fscx112\fscy112}ESPINAS.{\r}
+Dialogue: 0,0:00:31.06,0:00:32.14,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}CUATRO,{\r}
+Dialogue: 0,0:00:32.14,0:00:32.19,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}LA{\r} CONSERVACIÓN.
+Dialogue: 0,0:00:32.16,0:00:32.98,P,,0,0,0,,LA {\c&H00D4FF&\fscx112\fscy112}CONSERVACIÓN.{\r}
+Dialogue: 0,0:00:32.98,0:00:33.26,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}NADA{\r} DE DEJAR
+Dialogue: 0,0:00:33.26,0:00:33.46,P,,0,0,0,,NADA {\c&H00D4FF&\fscx112\fscy112}DE{\r} DEJAR
+Dialogue: 0,0:00:33.46,0:00:33.59,P,,0,0,0,,NADA DE {\c&H00D4FF&\fscx112\fscy112}DEJAR{\r}
+Dialogue: 0,0:00:33.59,0:00:33.84,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}LO{\r} COCINADO A
+Dialogue: 0,0:00:33.84,0:00:34.14,P,,0,0,0,,LO {\c&H00D4FF&\fscx112\fscy112}COCINADO{\r} A
+Dialogue: 0,0:00:34.14,0:00:34.24,P,,0,0,0,,LO COCINADO {\c&H00D4FF&\fscx112\fscy112}A{\r}
+Dialogue: 0,0:00:34.24,0:00:34.94,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}TEMPERATURA{\r} AMBIENTE MÁS
+Dialogue: 0,0:00:34.94,0:00:34.99,P,,0,0,0,,TEMPERATURA {\c&H00D4FF&\fscx112\fscy112}AMBIENTE{\r} MÁS
+Dialogue: 0,0:00:34.96,0:00:35.18,P,,0,0,0,,TEMPERATURA AMBIENTE {\c&H00D4FF&\fscx112\fscy112}MÁS{\r}
+Dialogue: 0,0:00:35.18,0:00:35.30,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}DE{\r} DOS HORAS.
+Dialogue: 0,0:00:35.30,0:00:35.44,P,,0,0,0,,DE {\c&H00D4FF&\fscx112\fscy112}DOS{\r} HORAS.
+Dialogue: 0,0:00:35.44,0:00:35.64,P,,0,0,0,,DE DOS {\c&H00D4FF&\fscx112\fscy112}HORAS.{\r}
+Dialogue: 0,0:00:35.64,0:00:36.46,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}REFRIGÉRALO{\r} POR DEBAJO
+Dialogue: 0,0:00:36.46,0:00:36.68,P,,0,0,0,,REFRIGÉRALO {\c&H00D4FF&\fscx112\fscy112}POR{\r} DEBAJO
+Dialogue: 0,0:00:36.68,0:00:36.94,P,,0,0,0,,REFRIGÉRALO POR {\c&H00D4FF&\fscx112\fscy112}DEBAJO{\r}
+Dialogue: 0,0:00:36.94,0:00:37.08,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}DE{\r} CINCO GRADOS,
+Dialogue: 0,0:00:37.08,0:00:37.22,P,,0,0,0,,DE {\c&H00D4FF&\fscx112\fscy112}CINCO{\r} GRADOS,
+Dialogue: 0,0:00:37.22,0:00:37.60,P,,0,0,0,,DE CINCO {\c&H00D4FF&\fscx112\fscy112}GRADOS,{\r}
+Dialogue: 0,0:00:37.60,0:00:37.86,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}O{\r} MANTENLO CALIENTE,
+Dialogue: 0,0:00:37.86,0:00:38.22,P,,0,0,0,,O {\c&H00D4FF&\fscx112\fscy112}MANTENLO{\r} CALIENTE,
+Dialogue: 0,0:00:38.22,0:00:38.54,P,,0,0,0,,O MANTENLO {\c&H00D4FF&\fscx112\fscy112}CALIENTE,{\r}
+Dialogue: 0,0:00:38.54,0:00:38.74,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}POR{\r} ENCIMA DE
+Dialogue: 0,0:00:38.74,0:00:38.94,P,,0,0,0,,POR {\c&H00D4FF&\fscx112\fscy112}ENCIMA{\r} DE
+Dialogue: 0,0:00:38.94,0:00:39.10,P,,0,0,0,,POR ENCIMA {\c&H00D4FF&\fscx112\fscy112}DE{\r}
+Dialogue: 0,0:00:39.10,0:00:39.50,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}SESENTA.{\r}
+Dialogue: 0,0:00:39.50,0:00:39.91,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}CINCO,{\r}
+Dialogue: 0,0:00:39.91,0:00:40.31,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}DESCONGELA{\r} EN EL
+Dialogue: 0,0:00:40.31,0:00:41.12,P,,0,0,0,,DESCONGELA {\c&H00D4FF&\fscx112\fscy112}EN{\r} EL
+Dialogue: 0,0:00:41.12,0:00:41.28,P,,0,0,0,,DESCONGELA EN {\c&H00D4FF&\fscx112\fscy112}EL{\r}
+Dialogue: 0,0:00:41.28,0:00:42.10,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}FRIGORÍFICO:{\r}
+Dialogue: 0,0:00:42.10,0:00:42.15,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}ES{\r} LA FORMA
+Dialogue: 0,0:00:42.12,0:00:42.20,P,,0,0,0,,ES {\c&H00D4FF&\fscx112\fscy112}LA{\r} FORMA
+Dialogue: 0,0:00:42.20,0:00:42.36,P,,0,0,0,,ES LA {\c&H00D4FF&\fscx112\fscy112}FORMA{\r}
+Dialogue: 0,0:00:42.36,0:00:42.58,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}MÁS{\r} SEGURA.
+Dialogue: 0,0:00:42.58,0:00:43.22,P,,0,0,0,,MÁS {\c&H00D4FF&\fscx112\fscy112}SEGURA.{\r}
+Dialogue: 0,0:00:43.22,0:00:43.42,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}Y{\r} SEIS,
+Dialogue: 0,0:00:43.42,0:00:43.90,P,,0,0,0,,Y {\c&H00D4FF&\fscx112\fscy112}SEIS,{\r}
+Dialogue: 0,0:00:43.90,0:00:44.08,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}USA{\r} AGUA POTABLE,
+Dialogue: 0,0:00:44.08,0:00:44.30,P,,0,0,0,,USA {\c&H00D4FF&\fscx112\fscy112}AGUA{\r} POTABLE,
+Dialogue: 0,0:00:44.30,0:00:45.00,P,,0,0,0,,USA AGUA {\c&H00D4FF&\fscx112\fscy112}POTABLE,{\r}
+Dialogue: 0,0:00:45.00,0:00:45.34,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}ALIMENTOS{\r} FRESCOS,
+Dialogue: 0,0:00:45.34,0:00:46.18,P,,0,0,0,,ALIMENTOS {\c&H00D4FF&\fscx112\fscy112}FRESCOS,{\r}
+Dialogue: 0,0:00:46.18,0:00:46.26,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}LAVA{\r} BIEN LAS
+Dialogue: 0,0:00:46.26,0:00:46.48,P,,0,0,0,,LAVA {\c&H00D4FF&\fscx112\fscy112}BIEN{\r} LAS
+Dialogue: 0,0:00:46.48,0:00:46.62,P,,0,0,0,,LAVA BIEN {\c&H00D4FF&\fscx112\fscy112}LAS{\r}
+Dialogue: 0,0:00:46.62,0:00:46.94,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}FRUTAS{\r} Y VERDURAS
+Dialogue: 0,0:00:46.94,0:00:47.06,P,,0,0,0,,FRUTAS {\c&H00D4FF&\fscx112\fscy112}Y{\r} VERDURAS
+Dialogue: 0,0:00:47.06,0:00:47.78,P,,0,0,0,,FRUTAS Y {\c&H00D4FF&\fscx112\fscy112}VERDURAS{\r}
+Dialogue: 0,0:00:47.78,0:00:47.83,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}Y{\r} NO TOMES
+Dialogue: 0,0:00:47.82,0:00:47.92,P,,0,0,0,,Y {\c&H00D4FF&\fscx112\fscy112}NO{\r} TOMES
+Dialogue: 0,0:00:47.92,0:00:48.16,P,,0,0,0,,Y NO {\c&H00D4FF&\fscx112\fscy112}TOMES{\r}
+Dialogue: 0,0:00:48.16,0:00:48.32,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}NADA{\r} PASADA SU
+Dialogue: 0,0:00:48.32,0:00:48.70,P,,0,0,0,,NADA {\c&H00D4FF&\fscx112\fscy112}PASADA{\r} SU
+Dialogue: 0,0:00:48.70,0:00:48.84,P,,0,0,0,,NADA PASADA {\c&H00D4FF&\fscx112\fscy112}SU{\r}
+Dialogue: 0,0:00:48.84,0:00:49.08,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}FECHA{\r} DE CADUCIDAD.
+Dialogue: 0,0:00:49.08,0:00:49.20,P,,0,0,0,,FECHA {\c&H00D4FF&\fscx112\fscy112}DE{\r} CADUCIDAD.
+Dialogue: 0,0:00:49.20,0:00:50.10,P,,0,0,0,,FECHA DE {\c&H00D4FF&\fscx112\fscy112}CADUCIDAD.{\r}
+Dialogue: 0,0:00:50.10,0:00:50.22,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}Y{\r} SI ME
+Dialogue: 0,0:00:50.22,0:00:50.30,P,,0,0,0,,Y {\c&H00D4FF&\fscx112\fscy112}SI{\r} ME
+Dialogue: 0,0:00:50.30,0:00:50.40,P,,0,0,0,,Y SI {\c&H00D4FF&\fscx112\fscy112}ME{\r}
+Dialogue: 0,0:00:50.40,0:00:50.54,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}VES{\r} DESDE ARGENTINA
+Dialogue: 0,0:00:50.54,0:00:50.68,P,,0,0,0,,VES {\c&H00D4FF&\fscx112\fscy112}DESDE{\r} ARGENTINA
+Dialogue: 0,0:00:50.68,0:00:51.00,P,,0,0,0,,VES DESDE {\c&H00D4FF&\fscx112\fscy112}ARGENTINA{\r}
+Dialogue: 0,0:00:51.00,0:00:51.20,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}O{\r} PARAGUAY,
+Dialogue: 0,0:00:51.20,0:00:51.70,P,,0,0,0,,O {\c&H00D4FF&\fscx112\fscy112}PARAGUAY,{\r}
+Dialogue: 0,0:00:51.70,0:00:51.78,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}TU{\r} NAVIDAD ES
+Dialogue: 0,0:00:51.78,0:00:52.00,P,,0,0,0,,TU {\c&H00D4FF&\fscx112\fscy112}NAVIDAD{\r} ES
+Dialogue: 0,0:00:52.00,0:00:52.20,P,,0,0,0,,TU NAVIDAD {\c&H00D4FF&\fscx112\fscy112}ES{\r}
+Dialogue: 0,0:00:52.20,0:00:52.32,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}EN{\r} PLENO VERANO:
+Dialogue: 0,0:00:52.32,0:00:52.54,P,,0,0,0,,EN {\c&H00D4FF&\fscx112\fscy112}PLENO{\r} VERANO:
+Dialogue: 0,0:00:52.54,0:00:53.18,P,,0,0,0,,EN PLENO {\c&H00D4FF&\fscx112\fscy112}VERANO:{\r}
+Dialogue: 0,0:00:53.18,0:00:53.32,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}CON{\r} MÁS DE
+Dialogue: 0,0:00:53.32,0:00:53.46,P,,0,0,0,,CON {\c&H00D4FF&\fscx112\fscy112}MÁS{\r} DE
+Dialogue: 0,0:00:53.46,0:00:53.56,P,,0,0,0,,CON MÁS {\c&H00D4FF&\fscx112\fscy112}DE{\r}
+Dialogue: 0,0:00:53.56,0:00:53.62,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}TREINTA{\r} Y DOS
+Dialogue: 0,0:00:53.62,0:00:53.68,P,,0,0,0,,TREINTA {\c&H00D4FF&\fscx112\fscy112}Y{\r} DOS
+Dialogue: 0,0:00:53.68,0:00:53.80,P,,0,0,0,,TREINTA Y {\c&H00D4FF&\fscx112\fscy112}DOS{\r}
+Dialogue: 0,0:00:53.80,0:00:54.48,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}GRADOS,{\r}
+Dialogue: 0,0:00:54.48,0:00:54.54,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}EL{\r} TIEMPO FUERA
+Dialogue: 0,0:00:54.54,0:00:54.74,P,,0,0,0,,EL {\c&H00D4FF&\fscx112\fscy112}TIEMPO{\r} FUERA
+Dialogue: 0,0:00:54.74,0:00:54.94,P,,0,0,0,,EL TIEMPO {\c&H00D4FF&\fscx112\fscy112}FUERA{\r}
+Dialogue: 0,0:00:54.94,0:00:55.14,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}DEL{\r} FRÍO BAJA
+Dialogue: 0,0:00:55.14,0:00:55.34,P,,0,0,0,,DEL {\c&H00D4FF&\fscx112\fscy112}FRÍO{\r} BAJA
+Dialogue: 0,0:00:55.34,0:00:55.56,P,,0,0,0,,DEL FRÍO {\c&H00D4FF&\fscx112\fscy112}BAJA{\r}
+Dialogue: 0,0:00:55.56,0:00:55.82,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}A{\r} UNA HORA.
+Dialogue: 0,0:00:55.82,0:00:55.96,P,,0,0,0,,A {\c&H00D4FF&\fscx112\fscy112}UNA{\r} HORA.
+Dialogue: 0,0:00:55.96,0:00:56.58,P,,0,0,0,,A UNA {\c&H00D4FF&\fscx112\fscy112}HORA.{\r}
+Dialogue: 0,0:00:56.58,0:00:56.92,PT,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}SÍGUEME,{\r}
+Dialogue: 0,0:00:56.92,0:00:57.08,PT,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}QUE{\r} AQUÍ APRENDEMOS
+Dialogue: 0,0:00:57.08,0:00:57.22,PT,,0,0,0,,QUE {\c&H00D4FF&\fscx112\fscy112}AQUÍ{\r} APRENDEMOS
+Dialogue: 0,0:00:57.22,0:00:57.58,PT,,0,0,0,,QUE AQUÍ {\c&H00D4FF&\fscx112\fscy112}APRENDEMOS{\r}
+Dialogue: 0,0:00:57.58,0:00:57.82,PT,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}TODOS.{\r}
+Dialogue: 0,0:00:57.82,0:00:58.07,PT,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}¡CLOC,{\r}
+Dialogue: 0,0:00:58.07,0:00:58.73,PT,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}CLOC!{\r}

@@ -1,0 +1,63 @@
+[Script Info]
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: P,Archivo Black,82,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,6,3,2,60,60,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.15,0:00:00.31,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} CON ESE NÚMERO
+Dialogue: 0,0:00:00.31,0:00:00.47,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}CON{\r} ESE NÚMERO
+Dialogue: 0,0:00:00.47,0:00:00.65,P,,0,0,0,,Y CON {\c&H00D4FF&\fscx110\fscy110}ESE{\r} NÚMERO
+Dialogue: 0,0:00:00.65,0:00:00.89,P,,0,0,0,,Y CON ESE {\c&H00D4FF&\fscx110\fscy110}NÚMERO{\r}
+Dialogue: 0,0:00:00.89,0:00:01.23,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}PUEDES{\r} HACER ALGO:
+Dialogue: 0,0:00:01.23,0:00:01.49,P,,0,0,0,,PUEDES {\c&H00D4FF&\fscx110\fscy110}HACER{\r} ALGO:
+Dialogue: 0,0:00:01.49,0:00:02.17,P,,0,0,0,,PUEDES HACER {\c&H00D4FF&\fscx110\fscy110}ALGO:{\r}
+Dialogue: 0,0:00:02.17,0:00:02.37,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LA{\r} AESAN TIENE UN
+Dialogue: 0,0:00:02.37,0:00:02.77,P,,0,0,0,,LA {\c&H00D4FF&\fscx110\fscy110}AESAN{\r} TIENE UN
+Dialogue: 0,0:00:02.77,0:00:03.11,P,,0,0,0,,LA AESAN {\c&H00D4FF&\fscx110\fscy110}TIENE{\r} UN
+Dialogue: 0,0:00:03.11,0:00:03.31,P,,0,0,0,,LA AESAN TIENE {\c&H00D4FF&\fscx110\fscy110}UN{\r}
+Dialogue: 0,0:00:03.31,0:00:03.65,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}BUSCADOR{\r} PÚBLICO DE EMPRESAS
+Dialogue: 0,0:00:03.65,0:00:03.95,P,,0,0,0,,BUSCADOR {\c&H00D4FF&\fscx110\fscy110}PÚBLICO{\r} DE EMPRESAS
+Dialogue: 0,0:00:03.95,0:00:04.21,P,,0,0,0,,BUSCADOR PÚBLICO {\c&H00D4FF&\fscx110\fscy110}DE{\r} EMPRESAS
+Dialogue: 0,0:00:04.21,0:00:04.51,P,,0,0,0,,BUSCADOR PÚBLICO DE {\c&H00D4FF&\fscx110\fscy110}EMPRESAS{\r}
+Dialogue: 0,0:00:04.51,0:00:04.71,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} ESTABLECIMIENTOS ALIMENTARIOS REGISTRADOS
+Dialogue: 0,0:00:04.71,0:00:05.29,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}ESTABLECIMIENTOS{\r} ALIMENTARIOS REGISTRADOS
+Dialogue: 0,0:00:05.29,0:00:05.97,P,,0,0,0,,Y ESTABLECIMIENTOS {\c&H00D4FF&\fscx110\fscy110}ALIMENTARIOS{\r} REGISTRADOS
+Dialogue: 0,0:00:05.97,0:00:06.49,P,,0,0,0,,Y ESTABLECIMIENTOS ALIMENTARIOS {\c&H00D4FF&\fscx110\fscy110}REGISTRADOS{\r}
+Dialogue: 0,0:00:06.49,0:00:06.71,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EN{\r} ESPAÑA.
+Dialogue: 0,0:00:06.71,0:00:07.55,P,,0,0,0,,EN {\c&H00D4FF&\fscx110\fscy110}ESPAÑA.{\r}
+Dialogue: 0,0:00:07.55,0:00:07.83,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}METES{\r} EL NÚMERO Y
+Dialogue: 0,0:00:07.83,0:00:07.93,P,,0,0,0,,METES {\c&H00D4FF&\fscx110\fscy110}EL{\r} NÚMERO Y
+Dialogue: 0,0:00:07.93,0:00:08.15,P,,0,0,0,,METES EL {\c&H00D4FF&\fscx110\fscy110}NÚMERO{\r} Y
+Dialogue: 0,0:00:08.15,0:00:08.43,P,,0,0,0,,METES EL NÚMERO {\c&H00D4FF&\fscx110\fscy110}Y{\r}
+Dialogue: 0,0:00:08.43,0:00:08.55,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}TE{\r} DICE QUÉ EMPRESA
+Dialogue: 0,0:00:08.55,0:00:08.75,P,,0,0,0,,TE {\c&H00D4FF&\fscx110\fscy110}DICE{\r} QUÉ EMPRESA
+Dialogue: 0,0:00:08.75,0:00:08.95,P,,0,0,0,,TE DICE {\c&H00D4FF&\fscx110\fscy110}QUÉ{\r} EMPRESA
+Dialogue: 0,0:00:08.95,0:00:09.31,P,,0,0,0,,TE DICE QUÉ {\c&H00D4FF&\fscx110\fscy110}EMPRESA{\r}
+Dialogue: 0,0:00:09.31,0:00:09.55,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ESTÁ{\r} INSCRITA AHÍ.
+Dialogue: 0,0:00:09.55,0:00:09.99,P,,0,0,0,,ESTÁ {\c&H00D4FF&\fscx110\fscy110}INSCRITA{\r} AHÍ.
+Dialogue: 0,0:00:09.99,0:00:10.63,P,,0,0,0,,ESTÁ INSCRITA {\c&H00D4FF&\fscx110\fscy110}AHÍ.{\r}
+Dialogue: 0,0:00:10.63,0:00:10.87,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}OJO{\r} CON UNA COSA:
+Dialogue: 0,0:00:10.87,0:00:11.09,P,,0,0,0,,OJO {\c&H00D4FF&\fscx110\fscy110}CON{\r} UNA COSA:
+Dialogue: 0,0:00:11.09,0:00:11.23,P,,0,0,0,,OJO CON {\c&H00D4FF&\fscx110\fscy110}UNA{\r} COSA:
+Dialogue: 0,0:00:11.23,0:00:11.97,P,,0,0,0,,OJO CON UNA {\c&H00D4FF&\fscx110\fscy110}COSA:{\r}
+Dialogue: 0,0:00:11.97,0:00:12.09,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}TE{\r} DICE QUÉ ESTABLECIMIENTO
+Dialogue: 0,0:00:12.09,0:00:12.31,P,,0,0,0,,TE {\c&H00D4FF&\fscx110\fscy110}DICE{\r} QUÉ ESTABLECIMIENTO
+Dialogue: 0,0:00:12.31,0:00:12.51,P,,0,0,0,,TE DICE {\c&H00D4FF&\fscx110\fscy110}QUÉ{\r} ESTABLECIMIENTO
+Dialogue: 0,0:00:12.51,0:00:13.19,P,,0,0,0,,TE DICE QUÉ {\c&H00D4FF&\fscx110\fscy110}ESTABLECIMIENTO{\r}
+Dialogue: 0,0:00:13.19,0:00:13.83,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ES,{\r}
+Dialogue: 0,0:00:13.83,0:00:14.05,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}NO{\r} PARA QUIÉN FABRICA.
+Dialogue: 0,0:00:14.05,0:00:14.25,P,,0,0,0,,NO {\c&H00D4FF&\fscx110\fscy110}PARA{\r} QUIÉN FABRICA.
+Dialogue: 0,0:00:14.25,0:00:14.47,P,,0,0,0,,NO PARA {\c&H00D4FF&\fscx110\fscy110}QUIÉN{\r} FABRICA.
+Dialogue: 0,0:00:14.47,0:00:15.31,P,,0,0,0,,NO PARA QUIÉN {\c&H00D4FF&\fscx110\fscy110}FABRICA.{\r}
+Dialogue: 0,0:00:15.31,0:00:15.51,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}UNA{\r} MISMA FÁBRICA PUEDE
+Dialogue: 0,0:00:15.51,0:00:15.73,P,,0,0,0,,UNA {\c&H00D4FF&\fscx110\fscy110}MISMA{\r} FÁBRICA PUEDE
+Dialogue: 0,0:00:15.73,0:00:16.15,P,,0,0,0,,UNA MISMA {\c&H00D4FF&\fscx110\fscy110}FÁBRICA{\r} PUEDE
+Dialogue: 0,0:00:16.15,0:00:16.39,P,,0,0,0,,UNA MISMA FÁBRICA {\c&H00D4FF&\fscx110\fscy110}PUEDE{\r}
+Dialogue: 0,0:00:16.39,0:00:16.83,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}PRODUCIR{\r} PARA VARIOS
+Dialogue: 0,0:00:16.83,0:00:17.03,P,,0,0,0,,PRODUCIR {\c&H00D4FF&\fscx110\fscy110}PARA{\r} VARIOS
+Dialogue: 0,0:00:17.03,0:00:17.67,P,,0,0,0,,PRODUCIR PARA {\c&H00D4FF&\fscx110\fscy110}VARIOS{\r}

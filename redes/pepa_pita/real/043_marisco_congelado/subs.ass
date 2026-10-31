@@ -1,0 +1,96 @@
+[Script Info]
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: P,Archivo Black,86,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,7,3,2,60,60,560,1
+Style: PT,Archivo Black,86,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,7,3,8,60,60,330,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.42,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}¿TE{\r} SOBRA MARISCO
+Dialogue: 0,0:00:00.42,0:00:00.78,P,,0,0,0,,¿TE {\c&H00D4FF&\fscx112\fscy112}SOBRA{\r} MARISCO
+Dialogue: 0,0:00:00.78,0:00:01.20,P,,0,0,0,,¿TE SOBRA {\c&H00D4FF&\fscx112\fscy112}MARISCO{\r}
+Dialogue: 0,0:00:01.20,0:00:01.34,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}DE{\r} NAVIDAD?
+Dialogue: 0,0:00:01.34,0:00:02.06,P,,0,0,0,,DE {\c&H00D4FF&\fscx112\fscy112}NAVIDAD?{\r}
+Dialogue: 0,0:00:02.06,0:00:02.26,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}SE{\r} PUEDE CONGELAR,
+Dialogue: 0,0:00:02.26,0:00:02.52,P,,0,0,0,,SE {\c&H00D4FF&\fscx112\fscy112}PUEDE{\r} CONGELAR,
+Dialogue: 0,0:00:02.52,0:00:03.54,P,,0,0,0,,SE PUEDE {\c&H00D4FF&\fscx112\fscy112}CONGELAR,{\r}
+Dialogue: 0,0:00:03.54,0:00:03.70,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}Y{\r} LA AESAN
+Dialogue: 0,0:00:03.70,0:00:03.84,P,,0,0,0,,Y {\c&H00D4FF&\fscx112\fscy112}LA{\r} AESAN
+Dialogue: 0,0:00:03.84,0:00:04.22,P,,0,0,0,,Y LA {\c&H00D4FF&\fscx112\fscy112}AESAN{\r}
+Dialogue: 0,0:00:04.22,0:00:04.38,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}DICE{\r} CUÁNTO AGUANTA
+Dialogue: 0,0:00:04.38,0:00:04.74,P,,0,0,0,,DICE {\c&H00D4FF&\fscx112\fscy112}CUÁNTO{\r} AGUANTA
+Dialogue: 0,0:00:04.74,0:00:05.34,P,,0,0,0,,DICE CUÁNTO {\c&H00D4FF&\fscx112\fscy112}AGUANTA{\r}
+Dialogue: 0,0:00:05.34,0:00:05.44,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}POR{\r} CALIDAD.
+Dialogue: 0,0:00:05.44,0:00:06.30,P,,0,0,0,,POR {\c&H00D4FF&\fscx112\fscy112}CALIDAD.{\r}
+Dialogue: 0,0:00:06.30,0:00:06.50,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}EL{\r} MARISCO,
+Dialogue: 0,0:00:06.50,0:00:06.86,P,,0,0,0,,EL {\c&H00D4FF&\fscx112\fscy112}MARISCO,{\r}
+Dialogue: 0,0:00:06.86,0:00:07.14,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}DE{\r} TRES A
+Dialogue: 0,0:00:07.14,0:00:07.36,P,,0,0,0,,DE {\c&H00D4FF&\fscx112\fscy112}TRES{\r} A
+Dialogue: 0,0:00:07.36,0:00:07.44,P,,0,0,0,,DE TRES {\c&H00D4FF&\fscx112\fscy112}A{\r}
+Dialogue: 0,0:00:07.44,0:00:07.64,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}SEIS{\r} MESES.
+Dialogue: 0,0:00:07.64,0:00:08.20,P,,0,0,0,,SEIS {\c&H00D4FF&\fscx112\fscy112}MESES.{\r}
+Dialogue: 0,0:00:08.20,0:00:08.26,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}EL{\r} PESCADO BLANCO,
+Dialogue: 0,0:00:08.26,0:00:08.58,P,,0,0,0,,EL {\c&H00D4FF&\fscx112\fscy112}PESCADO{\r} BLANCO,
+Dialogue: 0,0:00:08.58,0:00:08.92,P,,0,0,0,,EL PESCADO {\c&H00D4FF&\fscx112\fscy112}BLANCO,{\r}
+Dialogue: 0,0:00:08.92,0:00:09.16,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}DE{\r} SEIS A
+Dialogue: 0,0:00:09.16,0:00:09.38,P,,0,0,0,,DE {\c&H00D4FF&\fscx112\fscy112}SEIS{\r} A
+Dialogue: 0,0:00:09.38,0:00:09.54,P,,0,0,0,,DE SEIS {\c&H00D4FF&\fscx112\fscy112}A{\r}
+Dialogue: 0,0:00:09.54,0:00:09.72,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}OCHO.{\r}
+Dialogue: 0,0:00:09.72,0:00:10.12,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}Y{\r} EL PESCADO
+Dialogue: 0,0:00:10.12,0:00:10.22,P,,0,0,0,,Y {\c&H00D4FF&\fscx112\fscy112}EL{\r} PESCADO
+Dialogue: 0,0:00:10.22,0:00:10.54,P,,0,0,0,,Y EL {\c&H00D4FF&\fscx112\fscy112}PESCADO{\r}
+Dialogue: 0,0:00:10.54,0:00:10.74,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}AZUL,{\r}
+Dialogue: 0,0:00:10.74,0:00:10.94,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}DE{\r} DOS A
+Dialogue: 0,0:00:10.94,0:00:11.16,P,,0,0,0,,DE {\c&H00D4FF&\fscx112\fscy112}DOS{\r} A
+Dialogue: 0,0:00:11.16,0:00:11.26,P,,0,0,0,,DE DOS {\c&H00D4FF&\fscx112\fscy112}A{\r}
+Dialogue: 0,0:00:11.26,0:00:11.88,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}TRES.{\r}
+Dialogue: 0,0:00:11.88,0:00:12.40,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}CONGÉLALO{\r} CUANTO ANTES,
+Dialogue: 0,0:00:12.40,0:00:12.72,P,,0,0,0,,CONGÉLALO {\c&H00D4FF&\fscx112\fscy112}CUANTO{\r} ANTES,
+Dialogue: 0,0:00:12.72,0:00:13.46,P,,0,0,0,,CONGÉLALO CUANTO {\c&H00D4FF&\fscx112\fscy112}ANTES,{\r}
+Dialogue: 0,0:00:13.46,0:00:13.51,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}Y{\r} SIEMPRE ANTES
+Dialogue: 0,0:00:13.50,0:00:13.70,P,,0,0,0,,Y {\c&H00D4FF&\fscx112\fscy112}SIEMPRE{\r} ANTES
+Dialogue: 0,0:00:13.70,0:00:13.98,P,,0,0,0,,Y SIEMPRE {\c&H00D4FF&\fscx112\fscy112}ANTES{\r}
+Dialogue: 0,0:00:13.98,0:00:14.12,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}DE{\r} LA FECHA
+Dialogue: 0,0:00:14.12,0:00:14.18,P,,0,0,0,,DE {\c&H00D4FF&\fscx112\fscy112}LA{\r} FECHA
+Dialogue: 0,0:00:14.18,0:00:14.44,P,,0,0,0,,DE LA {\c&H00D4FF&\fscx112\fscy112}FECHA{\r}
+Dialogue: 0,0:00:14.44,0:00:14.56,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}DE{\r} CADUCIDAD.
+Dialogue: 0,0:00:14.56,0:00:15.32,P,,0,0,0,,DE {\c&H00D4FF&\fscx112\fscy112}CADUCIDAD.{\r}
+Dialogue: 0,0:00:15.32,0:00:15.78,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}DIVÍDELO{\r} EN RACIONES,
+Dialogue: 0,0:00:15.78,0:00:15.86,P,,0,0,0,,DIVÍDELO {\c&H00D4FF&\fscx112\fscy112}EN{\r} RACIONES,
+Dialogue: 0,0:00:15.86,0:00:16.48,P,,0,0,0,,DIVÍDELO EN {\c&H00D4FF&\fscx112\fscy112}RACIONES,{\r}
+Dialogue: 0,0:00:16.48,0:00:16.54,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}QUE{\r} SE CONGELAN
+Dialogue: 0,0:00:16.54,0:00:16.62,P,,0,0,0,,QUE {\c&H00D4FF&\fscx112\fscy112}SE{\r} CONGELAN
+Dialogue: 0,0:00:16.62,0:00:17.00,P,,0,0,0,,QUE SE {\c&H00D4FF&\fscx112\fscy112}CONGELAN{\r}
+Dialogue: 0,0:00:17.00,0:00:17.22,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}ANTES,{\r}
+Dialogue: 0,0:00:17.22,0:00:17.60,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}Y{\r} APUNTA LA
+Dialogue: 0,0:00:17.60,0:00:18.04,P,,0,0,0,,Y {\c&H00D4FF&\fscx112\fscy112}APUNTA{\r} LA
+Dialogue: 0,0:00:18.04,0:00:18.09,P,,0,0,0,,Y APUNTA {\c&H00D4FF&\fscx112\fscy112}LA{\r}
+Dialogue: 0,0:00:18.06,0:00:18.72,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}FECHA.{\r}
+Dialogue: 0,0:00:18.72,0:00:18.94,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}PARA{\r} DESCONGELARLO,
+Dialogue: 0,0:00:18.94,0:00:19.64,P,,0,0,0,,PARA {\c&H00D4FF&\fscx112\fscy112}DESCONGELARLO,{\r}
+Dialogue: 0,0:00:19.64,0:00:19.90,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}A{\r} LA NEVERA,
+Dialogue: 0,0:00:19.90,0:00:20.02,P,,0,0,0,,A {\c&H00D4FF&\fscx112\fscy112}LA{\r} NEVERA,
+Dialogue: 0,0:00:20.02,0:00:20.56,P,,0,0,0,,A LA {\c&H00D4FF&\fscx112\fscy112}NEVERA,{\r}
+Dialogue: 0,0:00:20.56,0:00:20.68,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}CON{\r} UNAS DOCE
+Dialogue: 0,0:00:20.68,0:00:20.84,P,,0,0,0,,CON {\c&H00D4FF&\fscx112\fscy112}UNAS{\r} DOCE
+Dialogue: 0,0:00:20.84,0:00:21.06,P,,0,0,0,,CON UNAS {\c&H00D4FF&\fscx112\fscy112}DOCE{\r}
+Dialogue: 0,0:00:21.06,0:00:21.28,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}HORAS{\r} DE ANTELACIÓN
+Dialogue: 0,0:00:21.28,0:00:21.42,P,,0,0,0,,HORAS {\c&H00D4FF&\fscx112\fscy112}DE{\r} ANTELACIÓN
+Dialogue: 0,0:00:21.42,0:00:21.78,P,,0,0,0,,HORAS DE {\c&H00D4FF&\fscx112\fscy112}ANTELACIÓN{\r}
+Dialogue: 0,0:00:21.78,0:00:22.02,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}COMO{\r} MÍNIMO,
+Dialogue: 0,0:00:22.02,0:00:22.30,P,,0,0,0,,COMO {\c&H00D4FF&\fscx112\fscy112}MÍNIMO,{\r}
+Dialogue: 0,0:00:22.30,0:00:22.62,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}Y{\r} SOBRE UNA
+Dialogue: 0,0:00:22.62,0:00:22.80,P,,0,0,0,,Y {\c&H00D4FF&\fscx112\fscy112}SOBRE{\r} UNA
+Dialogue: 0,0:00:22.80,0:00:23.02,P,,0,0,0,,Y SOBRE {\c&H00D4FF&\fscx112\fscy112}UNA{\r}
+Dialogue: 0,0:00:23.02,0:00:23.88,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}BANDEJA.{\r}
+Dialogue: 0,0:00:23.88,0:00:24.30,PT,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}SÍGUEME,{\r}
+Dialogue: 0,0:00:24.30,0:00:24.56,PT,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}QUE{\r} AQUÍ APRENDEMOS
+Dialogue: 0,0:00:24.56,0:00:24.70,PT,,0,0,0,,QUE {\c&H00D4FF&\fscx112\fscy112}AQUÍ{\r} APRENDEMOS
+Dialogue: 0,0:00:24.70,0:00:25.20,PT,,0,0,0,,QUE AQUÍ {\c&H00D4FF&\fscx112\fscy112}APRENDEMOS{\r}
+Dialogue: 0,0:00:25.20,0:00:25.50,PT,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}TODOS.{\r}
+Dialogue: 0,0:00:25.50,0:00:25.55,PT,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}¡CLOC,{\r}
+Dialogue: 0,0:00:25.50,0:00:25.90,PT,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}CLOC!{\r}

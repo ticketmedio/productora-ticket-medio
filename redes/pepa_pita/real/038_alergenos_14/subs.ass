@@ -1,0 +1,99 @@
+[Script Info]
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: P,Archivo Black,86,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,7,3,2,60,60,560,1
+Style: PT,Archivo Black,86,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,7,3,8,60,60,330,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.72,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}¿COMPRAS{\r} TURRÓN,
+Dialogue: 0,0:00:00.72,0:00:01.56,P,,0,0,0,,¿COMPRAS {\c&H00D4FF&\fscx112\fscy112}TURRÓN,{\r}
+Dialogue: 0,0:00:01.56,0:00:02.04,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}MAZAPÁN{\r} O CANAPÉS
+Dialogue: 0,0:00:02.04,0:00:02.28,P,,0,0,0,,MAZAPÁN {\c&H00D4FF&\fscx112\fscy112}O{\r} CANAPÉS
+Dialogue: 0,0:00:02.28,0:00:02.84,P,,0,0,0,,MAZAPÁN O {\c&H00D4FF&\fscx112\fscy112}CANAPÉS{\r}
+Dialogue: 0,0:00:02.84,0:00:03.04,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}PARA{\r} NAVIDAD?
+Dialogue: 0,0:00:03.04,0:00:03.80,P,,0,0,0,,PARA {\c&H00D4FF&\fscx112\fscy112}NAVIDAD?{\r}
+Dialogue: 0,0:00:03.80,0:00:04.28,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}MIRA{\r} LA ETIQUETA:
+Dialogue: 0,0:00:04.28,0:00:04.46,P,,0,0,0,,MIRA {\c&H00D4FF&\fscx112\fscy112}LA{\r} ETIQUETA:
+Dialogue: 0,0:00:04.46,0:00:05.44,P,,0,0,0,,MIRA LA {\c&H00D4FF&\fscx112\fscy112}ETIQUETA:{\r}
+Dialogue: 0,0:00:05.44,0:00:05.56,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}LA{\r} LEY OBLIGA
+Dialogue: 0,0:00:05.56,0:00:05.70,P,,0,0,0,,LA {\c&H00D4FF&\fscx112\fscy112}LEY{\r} OBLIGA
+Dialogue: 0,0:00:05.70,0:00:06.14,P,,0,0,0,,LA LEY {\c&H00D4FF&\fscx112\fscy112}OBLIGA{\r}
+Dialogue: 0,0:00:06.14,0:00:06.20,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}A{\r} DESTACAR CATORCE
+Dialogue: 0,0:00:06.20,0:00:06.64,P,,0,0,0,,A {\c&H00D4FF&\fscx112\fscy112}DESTACAR{\r} CATORCE
+Dialogue: 0,0:00:06.64,0:00:07.16,P,,0,0,0,,A DESTACAR {\c&H00D4FF&\fscx112\fscy112}CATORCE{\r}
+Dialogue: 0,0:00:07.16,0:00:08.40,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}ALÉRGENOS.{\r}
+Dialogue: 0,0:00:08.40,0:00:08.86,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}CEREALES{\r} CON GLUTEN,
+Dialogue: 0,0:00:08.86,0:00:09.08,P,,0,0,0,,CEREALES {\c&H00D4FF&\fscx112\fscy112}CON{\r} GLUTEN,
+Dialogue: 0,0:00:09.08,0:00:09.80,P,,0,0,0,,CEREALES CON {\c&H00D4FF&\fscx112\fscy112}GLUTEN,{\r}
+Dialogue: 0,0:00:09.80,0:00:10.84,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}CRUSTÁCEOS,{\r}
+Dialogue: 0,0:00:10.84,0:00:11.42,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}HUEVOS,{\r}
+Dialogue: 0,0:00:11.42,0:00:12.32,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}PESCADO,{\r}
+Dialogue: 0,0:00:12.32,0:00:13.20,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}CACAHUETES,{\r}
+Dialogue: 0,0:00:13.20,0:00:13.88,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}SOJA,{\r}
+Dialogue: 0,0:00:13.88,0:00:14.60,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}LECHE,{\r}
+Dialogue: 0,0:00:14.60,0:00:14.82,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}FRUTOS{\r} DE CÁSCARA
+Dialogue: 0,0:00:14.82,0:00:14.98,P,,0,0,0,,FRUTOS {\c&H00D4FF&\fscx112\fscy112}DE{\r} CÁSCARA
+Dialogue: 0,0:00:14.98,0:00:15.34,P,,0,0,0,,FRUTOS DE {\c&H00D4FF&\fscx112\fscy112}CÁSCARA{\r}
+Dialogue: 0,0:00:15.34,0:00:15.52,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}COMO{\r} LAS ALMENDRAS
+Dialogue: 0,0:00:15.52,0:00:15.68,P,,0,0,0,,COMO {\c&H00D4FF&\fscx112\fscy112}LAS{\r} ALMENDRAS
+Dialogue: 0,0:00:15.68,0:00:16.18,P,,0,0,0,,COMO LAS {\c&H00D4FF&\fscx112\fscy112}ALMENDRAS{\r}
+Dialogue: 0,0:00:16.18,0:00:16.40,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}O{\r} LAS AVELLANAS,
+Dialogue: 0,0:00:16.40,0:00:16.52,P,,0,0,0,,O {\c&H00D4FF&\fscx112\fscy112}LAS{\r} AVELLANAS,
+Dialogue: 0,0:00:16.52,0:00:17.42,P,,0,0,0,,O LAS {\c&H00D4FF&\fscx112\fscy112}AVELLANAS,{\r}
+Dialogue: 0,0:00:17.42,0:00:18.06,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}APIO,{\r}
+Dialogue: 0,0:00:18.06,0:00:18.92,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}MOSTAZA,{\r}
+Dialogue: 0,0:00:18.92,0:00:19.50,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}SÉSAMO,{\r}
+Dialogue: 0,0:00:19.50,0:00:20.34,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}SULFITOS,{\r}
+Dialogue: 0,0:00:20.34,0:00:20.92,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}ALTRAMUCES{\r} Y MOLUSCOS.
+Dialogue: 0,0:00:20.92,0:00:21.34,P,,0,0,0,,ALTRAMUCES {\c&H00D4FF&\fscx112\fscy112}Y{\r} MOLUSCOS.
+Dialogue: 0,0:00:21.34,0:00:22.48,P,,0,0,0,,ALTRAMUCES Y {\c&H00D4FF&\fscx112\fscy112}MOLUSCOS.{\r}
+Dialogue: 0,0:00:22.48,0:00:22.84,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}TIENEN{\r} QUE APARECER
+Dialogue: 0,0:00:22.84,0:00:22.98,P,,0,0,0,,TIENEN {\c&H00D4FF&\fscx112\fscy112}QUE{\r} APARECER
+Dialogue: 0,0:00:22.98,0:00:23.26,P,,0,0,0,,TIENEN QUE {\c&H00D4FF&\fscx112\fscy112}APARECER{\r}
+Dialogue: 0,0:00:23.26,0:00:24.06,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}DESTACADOS{\r} EN LA
+Dialogue: 0,0:00:24.06,0:00:24.26,P,,0,0,0,,DESTACADOS {\c&H00D4FF&\fscx112\fscy112}EN{\r} LA
+Dialogue: 0,0:00:24.26,0:00:24.36,P,,0,0,0,,DESTACADOS EN {\c&H00D4FF&\fscx112\fscy112}LA{\r}
+Dialogue: 0,0:00:24.36,0:00:24.58,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}LISTA{\r} DE INGREDIENTES,
+Dialogue: 0,0:00:24.58,0:00:24.72,P,,0,0,0,,LISTA {\c&H00D4FF&\fscx112\fscy112}DE{\r} INGREDIENTES,
+Dialogue: 0,0:00:24.72,0:00:25.40,P,,0,0,0,,LISTA DE {\c&H00D4FF&\fscx112\fscy112}INGREDIENTES,{\r}
+Dialogue: 0,0:00:25.40,0:00:25.64,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}CON{\r} UN TIPO
+Dialogue: 0,0:00:25.64,0:00:25.76,P,,0,0,0,,CON {\c&H00D4FF&\fscx112\fscy112}UN{\r} TIPO
+Dialogue: 0,0:00:25.76,0:00:25.92,P,,0,0,0,,CON UN {\c&H00D4FF&\fscx112\fscy112}TIPO{\r}
+Dialogue: 0,0:00:25.92,0:00:26.06,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}DE{\r} LETRA,
+Dialogue: 0,0:00:26.06,0:00:26.48,P,,0,0,0,,DE {\c&H00D4FF&\fscx112\fscy112}LETRA,{\r}
+Dialogue: 0,0:00:26.48,0:00:26.58,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}UN{\r} ESTILO O
+Dialogue: 0,0:00:26.58,0:00:26.94,P,,0,0,0,,UN {\c&H00D4FF&\fscx112\fscy112}ESTILO{\r} O
+Dialogue: 0,0:00:26.94,0:00:27.40,P,,0,0,0,,UN ESTILO {\c&H00D4FF&\fscx112\fscy112}O{\r}
+Dialogue: 0,0:00:27.40,0:00:27.54,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}UN{\r} COLOR DE
+Dialogue: 0,0:00:27.54,0:00:27.84,P,,0,0,0,,UN {\c&H00D4FF&\fscx112\fscy112}COLOR{\r} DE
+Dialogue: 0,0:00:27.84,0:00:28.02,P,,0,0,0,,UN COLOR {\c&H00D4FF&\fscx112\fscy112}DE{\r}
+Dialogue: 0,0:00:28.02,0:00:28.20,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}FONDO{\r} DISTINTOS AL
+Dialogue: 0,0:00:28.20,0:00:28.76,P,,0,0,0,,FONDO {\c&H00D4FF&\fscx112\fscy112}DISTINTOS{\r} AL
+Dialogue: 0,0:00:28.76,0:00:28.94,P,,0,0,0,,FONDO DISTINTOS {\c&H00D4FF&\fscx112\fscy112}AL{\r}
+Dialogue: 0,0:00:28.94,0:00:29.10,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}DEL{\r} RESTO.
+Dialogue: 0,0:00:29.10,0:00:29.94,P,,0,0,0,,DEL {\c&H00D4FF&\fscx112\fscy112}RESTO.{\r}
+Dialogue: 0,0:00:29.94,0:00:30.16,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}SI{\r} TIENES ALERGIA,
+Dialogue: 0,0:00:30.16,0:00:30.36,P,,0,0,0,,SI {\c&H00D4FF&\fscx112\fscy112}TIENES{\r} ALERGIA,
+Dialogue: 0,0:00:30.36,0:00:31.06,P,,0,0,0,,SI TIENES {\c&H00D4FF&\fscx112\fscy112}ALERGIA,{\r}
+Dialogue: 0,0:00:31.06,0:00:31.16,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}NO{\r} TE FÍES
+Dialogue: 0,0:00:31.16,0:00:31.34,P,,0,0,0,,NO {\c&H00D4FF&\fscx112\fscy112}TE{\r} FÍES
+Dialogue: 0,0:00:31.34,0:00:31.62,P,,0,0,0,,NO TE {\c&H00D4FF&\fscx112\fscy112}FÍES{\r}
+Dialogue: 0,0:00:31.62,0:00:31.70,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}DE{\r} LA MEMORIA:
+Dialogue: 0,0:00:31.70,0:00:31.78,P,,0,0,0,,DE {\c&H00D4FF&\fscx112\fscy112}LA{\r} MEMORIA:
+Dialogue: 0,0:00:31.78,0:00:32.18,P,,0,0,0,,DE LA {\c&H00D4FF&\fscx112\fscy112}MEMORIA:{\r}
+Dialogue: 0,0:00:32.18,0:00:32.66,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}LEE{\r} SIEMPRE LA
+Dialogue: 0,0:00:32.66,0:00:33.34,P,,0,0,0,,LEE {\c&H00D4FF&\fscx112\fscy112}SIEMPRE{\r} LA
+Dialogue: 0,0:00:33.34,0:00:33.60,P,,0,0,0,,LEE SIEMPRE {\c&H00D4FF&\fscx112\fscy112}LA{\r}
+Dialogue: 0,0:00:33.60,0:00:34.16,P,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}ETIQUETA.{\r}
+Dialogue: 0,0:00:34.16,0:00:34.21,PT,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}SÍGUEME,{\r}
+Dialogue: 0,0:00:34.16,0:00:34.21,PT,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}QUE{\r} AQUÍ APRENDEMOS
+Dialogue: 0,0:00:34.16,0:00:34.21,PT,,0,0,0,,QUE {\c&H00D4FF&\fscx112\fscy112}AQUÍ{\r} APRENDEMOS
+Dialogue: 0,0:00:34.16,0:00:34.21,PT,,0,0,0,,QUE AQUÍ {\c&H00D4FF&\fscx112\fscy112}APRENDEMOS{\r}
+Dialogue: 0,0:00:34.16,0:00:34.21,PT,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}TODOS.{\r}
+Dialogue: 0,0:00:34.16,0:00:34.21,PT,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}¡CLOC,{\r}
+Dialogue: 0,0:00:34.16,0:00:34.56,PT,,0,0,0,,{\c&H00D4FF&\fscx112\fscy112}CLOC!{\r}

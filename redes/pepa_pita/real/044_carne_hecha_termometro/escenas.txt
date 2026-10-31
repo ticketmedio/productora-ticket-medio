@@ -1,0 +1,7 @@
+file '/Users/antoniofuster/Downloads/faceless/redes/pepa_pita/real/044_carne_hecha_termometro/esc_00.mp4'
+file '/Users/antoniofuster/Downloads/faceless/redes/pepa_pita/real/044_carne_hecha_termometro/esc_01.mp4'
+file '/Users/antoniofuster/Downloads/faceless/redes/pepa_pita/real/044_carne_hecha_termometro/esc_02.mp4'
+file '/Users/antoniofuster/Downloads/faceless/redes/pepa_pita/real/044_carne_hecha_termometro/esc_03.mp4'
+file '/Users/antoniofuster/Downloads/faceless/redes/pepa_pita/real/044_carne_hecha_termometro/esc_04.mp4'
+file '/Users/antoniofuster/Downloads/faceless/redes/pepa_pita/real/044_carne_hecha_termometro/esc_05.mp4'
+file '/Users/antoniofuster/Downloads/faceless/redes/pepa_pita/real/044_carne_hecha_termometro/esc_pepa.mp4'

@@ -1,0 +1,56 @@
+[Script Info]
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: P,Archivo Black,82,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,6,3,2,60,60,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.15,0:00:00.51,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EN{\r} DOS MIL VEINTICINCO,
+Dialogue: 0,0:00:00.51,0:00:00.90,P,,0,0,0,,EN {\c&H00D4FF&\fscx110\fscy110}DOS{\r} MIL VEINTICINCO,
+Dialogue: 0,0:00:00.90,0:00:01.28,P,,0,0,0,,EN DOS {\c&H00D4FF&\fscx110\fscy110}MIL{\r} VEINTICINCO,
+Dialogue: 0,0:00:01.28,0:00:02.05,P,,0,0,0,,EN DOS MIL {\c&H00D4FF&\fscx110\fscy110}VEINTICINCO,{\r}
+Dialogue: 0,0:00:02.05,0:00:02.33,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SEGÚN{\r} LA PROPIA CADENA,
+Dialogue: 0,0:00:02.33,0:00:02.57,P,,0,0,0,,SEGÚN {\c&H00D4FF&\fscx110\fscy110}LA{\r} PROPIA CADENA,
+Dialogue: 0,0:00:02.57,0:00:02.81,P,,0,0,0,,SEGÚN LA {\c&H00D4FF&\fscx110\fscy110}PROPIA{\r} CADENA,
+Dialogue: 0,0:00:02.81,0:00:03.73,P,,0,0,0,,SEGÚN LA PROPIA {\c&H00D4FF&\fscx110\fscy110}CADENA,{\r}
+Dialogue: 0,0:00:03.73,0:00:03.83,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SUS{\r} PROVEEDORES ESPECIALISTAS INVIRTIERON
+Dialogue: 0,0:00:03.83,0:00:04.29,P,,0,0,0,,SUS {\c&H00D4FF&\fscx110\fscy110}PROVEEDORES{\r} ESPECIALISTAS INVIRTIERON
+Dialogue: 0,0:00:04.29,0:00:05.05,P,,0,0,0,,SUS PROVEEDORES {\c&H00D4FF&\fscx110\fscy110}ESPECIALISTAS{\r} INVIRTIERON
+Dialogue: 0,0:00:05.05,0:00:05.67,P,,0,0,0,,SUS PROVEEDORES ESPECIALISTAS {\c&H00D4FF&\fscx110\fscy110}INVIRTIERON{\r}
+Dialogue: 0,0:00:05.67,0:00:05.90,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MIL{\r} SETECIENTOS MILLONES DE
+Dialogue: 0,0:00:05.90,0:00:06.35,P,,0,0,0,,MIL {\c&H00D4FF&\fscx110\fscy110}SETECIENTOS{\r} MILLONES DE
+Dialogue: 0,0:00:06.35,0:00:07.13,P,,0,0,0,,MIL SETECIENTOS {\c&H00D4FF&\fscx110\fscy110}MILLONES{\r} DE
+Dialogue: 0,0:00:07.13,0:00:07.49,P,,0,0,0,,MIL SETECIENTOS MILLONES {\c&H00D4FF&\fscx110\fscy110}DE{\r}
+Dialogue: 0,0:00:07.49,0:00:07.79,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EUROS{\r} Y CREARON CINCO
+Dialogue: 0,0:00:07.79,0:00:08.29,P,,0,0,0,,EUROS {\c&H00D4FF&\fscx110\fscy110}Y{\r} CREARON CINCO
+Dialogue: 0,0:00:08.29,0:00:08.73,P,,0,0,0,,EUROS Y {\c&H00D4FF&\fscx110\fscy110}CREARON{\r} CINCO
+Dialogue: 0,0:00:08.73,0:00:09.01,P,,0,0,0,,EUROS Y CREARON {\c&H00D4FF&\fscx110\fscy110}CINCO{\r}
+Dialogue: 0,0:00:09.01,0:00:09.29,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MIL{\r} DOSCIENTOS EMPLEOS.
+Dialogue: 0,0:00:09.29,0:00:09.85,P,,0,0,0,,MIL {\c&H00D4FF&\fscx110\fscy110}DOSCIENTOS{\r} EMPLEOS.
+Dialogue: 0,0:00:09.85,0:00:11.07,P,,0,0,0,,MIL DOSCIENTOS {\c&H00D4FF&\fscx110\fscy110}EMPLEOS.{\r}
+Dialogue: 0,0:00:11.07,0:00:11.39,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EL{\r} QUE MÁS INVIRTIÓ
+Dialogue: 0,0:00:11.39,0:00:11.51,P,,0,0,0,,EL {\c&H00D4FF&\fscx110\fscy110}QUE{\r} MÁS INVIRTIÓ
+Dialogue: 0,0:00:11.51,0:00:11.67,P,,0,0,0,,EL QUE {\c&H00D4FF&\fscx110\fscy110}MÁS{\r} INVIRTIÓ
+Dialogue: 0,0:00:11.67,0:00:12.17,P,,0,0,0,,EL QUE MÁS {\c&H00D4FF&\fscx110\fscy110}INVIRTIÓ{\r}
+Dialogue: 0,0:00:12.17,0:00:12.41,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}FUE{\r} CASA TARRADELLAS,
+Dialogue: 0,0:00:12.41,0:00:12.79,P,,0,0,0,,FUE {\c&H00D4FF&\fscx110\fscy110}CASA{\r} TARRADELLAS,
+Dialogue: 0,0:00:12.79,0:00:13.75,P,,0,0,0,,FUE CASA {\c&H00D4FF&\fscx110\fscy110}TARRADELLAS,{\r}
+Dialogue: 0,0:00:13.75,0:00:14.01,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CON{\r} CIENTO DIECISIETE MILLONES.
+Dialogue: 0,0:00:14.01,0:00:14.36,P,,0,0,0,,CON {\c&H00D4FF&\fscx110\fscy110}CIENTO{\r} DIECISIETE MILLONES.
+Dialogue: 0,0:00:14.36,0:00:15.05,P,,0,0,0,,CON CIENTO {\c&H00D4FF&\fscx110\fscy110}DIECISIETE{\r} MILLONES.
+Dialogue: 0,0:00:15.05,0:00:16.13,P,,0,0,0,,CON CIENTO DIECISIETE {\c&H00D4FF&\fscx110\fscy110}MILLONES.{\r}
+Dialogue: 0,0:00:16.13,0:00:16.27,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LE{\r} SIGUIERON VALL COMPANYS,
+Dialogue: 0,0:00:16.27,0:00:16.67,P,,0,0,0,,LE {\c&H00D4FF&\fscx110\fscy110}SIGUIERON{\r} VALL COMPANYS,
+Dialogue: 0,0:00:16.67,0:00:17.04,P,,0,0,0,,LE SIGUIERON {\c&H00D4FF&\fscx110\fscy110}VALL{\r} COMPANYS,
+Dialogue: 0,0:00:17.04,0:00:17.77,P,,0,0,0,,LE SIGUIERON VALL {\c&H00D4FF&\fscx110\fscy110}COMPANYS,{\r}
+Dialogue: 0,0:00:17.77,0:00:17.91,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CON{\r} SETENTA,
+Dialogue: 0,0:00:17.91,0:00:18.81,P,,0,0,0,,CON {\c&H00D4FF&\fscx110\fscy110}SETENTA,{\r}
+Dialogue: 0,0:00:18.81,0:00:18.93,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} AVINATUR E INCARLOPSA,
+Dialogue: 0,0:00:18.93,0:00:19.39,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}AVINATUR{\r} E INCARLOPSA,
+Dialogue: 0,0:00:19.39,0:00:19.79,P,,0,0,0,,Y AVINATUR {\c&H00D4FF&\fscx110\fscy110}E{\r} INCARLOPSA,
+Dialogue: 0,0:00:19.79,0:00:20.77,P,,0,0,0,,Y AVINATUR E {\c&H00D4FF&\fscx110\fscy110}INCARLOPSA,{\r}
+Dialogue: 0,0:00:20.77,0:00:21.39,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CON{\r}

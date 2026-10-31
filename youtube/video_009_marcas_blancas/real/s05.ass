@@ -1,0 +1,83 @@
+[Script Info]
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: P,Archivo Black,82,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,6,3,2,60,60,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.15,0:00:00.49,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} AHORA,
+Dialogue: 0,0:00:00.49,0:00:01.17,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}AHORA,{\r}
+Dialogue: 0,0:00:01.17,0:00:01.31,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LA{\r} CUENTA QUE NOS
+Dialogue: 0,0:00:01.31,0:00:01.65,P,,0,0,0,,LA {\c&H00D4FF&\fscx110\fscy110}CUENTA{\r} QUE NOS
+Dialogue: 0,0:00:01.65,0:00:01.85,P,,0,0,0,,LA CUENTA {\c&H00D4FF&\fscx110\fscy110}QUE{\r} NOS
+Dialogue: 0,0:00:01.85,0:00:01.99,P,,0,0,0,,LA CUENTA QUE {\c&H00D4FF&\fscx110\fscy110}NOS{\r}
+Dialogue: 0,0:00:01.99,0:00:02.89,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}GUSTA.{\r}
+Dialogue: 0,0:00:02.89,0:00:03.05,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LOS{\r} BENEFICIOS DE ESOS
+Dialogue: 0,0:00:03.05,0:00:03.59,P,,0,0,0,,LOS {\c&H00D4FF&\fscx110\fscy110}BENEFICIOS{\r} DE ESOS
+Dialogue: 0,0:00:03.59,0:00:03.75,P,,0,0,0,,LOS BENEFICIOS {\c&H00D4FF&\fscx110\fscy110}DE{\r} ESOS
+Dialogue: 0,0:00:03.75,0:00:03.95,P,,0,0,0,,LOS BENEFICIOS DE {\c&H00D4FF&\fscx110\fscy110}ESOS{\r}
+Dialogue: 0,0:00:03.95,0:00:04.21,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}VEINTE{\r} PROVEEDORES SUMARON MÁS
+Dialogue: 0,0:00:04.21,0:00:04.85,P,,0,0,0,,VEINTE {\c&H00D4FF&\fscx110\fscy110}PROVEEDORES{\r} SUMARON MÁS
+Dialogue: 0,0:00:04.85,0:00:05.41,P,,0,0,0,,VEINTE PROVEEDORES {\c&H00D4FF&\fscx110\fscy110}SUMARON{\r} MÁS
+Dialogue: 0,0:00:05.41,0:00:05.69,P,,0,0,0,,VEINTE PROVEEDORES SUMARON {\c&H00D4FF&\fscx110\fscy110}MÁS{\r}
+Dialogue: 0,0:00:05.69,0:00:05.87,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DE{\r} TRESCIENTOS SESENTA MILLONES.
+Dialogue: 0,0:00:05.87,0:00:06.08,P,,0,0,0,,DE {\c&H00D4FF&\fscx110\fscy110}TRESCIENTOS{\r} SESENTA MILLONES.
+Dialogue: 0,0:00:06.08,0:00:06.51,P,,0,0,0,,DE TRESCIENTOS {\c&H00D4FF&\fscx110\fscy110}SESENTA{\r} MILLONES.
+Dialogue: 0,0:00:06.51,0:00:07.75,P,,0,0,0,,DE TRESCIENTOS SESENTA {\c&H00D4FF&\fscx110\fscy110}MILLONES.{\r}
+Dialogue: 0,0:00:07.75,0:00:08.01,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SI{\r} DIVIDIMOS ENTRE SUS
+Dialogue: 0,0:00:08.01,0:00:08.47,P,,0,0,0,,SI {\c&H00D4FF&\fscx110\fscy110}DIVIDIMOS{\r} ENTRE SUS
+Dialogue: 0,0:00:08.47,0:00:08.73,P,,0,0,0,,SI DIVIDIMOS {\c&H00D4FF&\fscx110\fscy110}ENTRE{\r} SUS
+Dialogue: 0,0:00:08.73,0:00:08.99,P,,0,0,0,,SI DIVIDIMOS ENTRE {\c&H00D4FF&\fscx110\fscy110}SUS{\r}
+Dialogue: 0,0:00:08.99,0:00:09.65,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}VENTAS,{\r}
+Dialogue: 0,0:00:09.65,0:00:09.81,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SON{\r} UNOS TRES CÉNTIMOS
+Dialogue: 0,0:00:09.81,0:00:10.01,P,,0,0,0,,SON {\c&H00D4FF&\fscx110\fscy110}UNOS{\r} TRES CÉNTIMOS
+Dialogue: 0,0:00:10.01,0:00:10.35,P,,0,0,0,,SON UNOS {\c&H00D4FF&\fscx110\fscy110}TRES{\r} CÉNTIMOS
+Dialogue: 0,0:00:10.35,0:00:10.85,P,,0,0,0,,SON UNOS TRES {\c&H00D4FF&\fscx110\fscy110}CÉNTIMOS{\r}
+Dialogue: 0,0:00:10.85,0:00:11.11,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}POR{\r} CADA EURO.
+Dialogue: 0,0:00:11.11,0:00:11.27,P,,0,0,0,,POR {\c&H00D4FF&\fscx110\fscy110}CADA{\r} EURO.
+Dialogue: 0,0:00:11.27,0:00:12.11,P,,0,0,0,,POR CADA {\c&H00D4FF&\fscx110\fscy110}EURO.{\r}
+Dialogue: 0,0:00:12.11,0:00:12.89,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MERCADONA,{\r}
+Dialogue: 0,0:00:12.89,0:00:13.07,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EN{\r} SU ÚLTIMO EJERCICIO,
+Dialogue: 0,0:00:13.07,0:00:13.21,P,,0,0,0,,EN {\c&H00D4FF&\fscx110\fscy110}SU{\r} ÚLTIMO EJERCICIO,
+Dialogue: 0,0:00:13.21,0:00:13.49,P,,0,0,0,,EN SU {\c&H00D4FF&\fscx110\fscy110}ÚLTIMO{\r} EJERCICIO,
+Dialogue: 0,0:00:13.49,0:00:14.33,P,,0,0,0,,EN SU ÚLTIMO {\c&H00D4FF&\fscx110\fscy110}EJERCICIO,{\r}
+Dialogue: 0,0:00:14.33,0:00:14.47,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SE{\r} QUEDÓ CON UNOS
+Dialogue: 0,0:00:14.47,0:00:14.77,P,,0,0,0,,SE {\c&H00D4FF&\fscx110\fscy110}QUEDÓ{\r} CON UNOS
+Dialogue: 0,0:00:14.77,0:00:15.01,P,,0,0,0,,SE QUEDÓ {\c&H00D4FF&\fscx110\fscy110}CON{\r} UNOS
+Dialogue: 0,0:00:15.01,0:00:15.19,P,,0,0,0,,SE QUEDÓ CON {\c&H00D4FF&\fscx110\fscy110}UNOS{\r}
+Dialogue: 0,0:00:15.19,0:00:16.15,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CUATRO.{\r}
+Dialogue: 0,0:00:16.15,0:00:16.45,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ES{\r} UN CÁLCULO NUESTRO,
+Dialogue: 0,0:00:16.45,0:00:16.59,P,,0,0,0,,ES {\c&H00D4FF&\fscx110\fscy110}UN{\r} CÁLCULO NUESTRO,
+Dialogue: 0,0:00:16.59,0:00:16.89,P,,0,0,0,,ES UN {\c&H00D4FF&\fscx110\fscy110}CÁLCULO{\r} NUESTRO,
+Dialogue: 0,0:00:16.89,0:00:17.61,P,,0,0,0,,ES UN CÁLCULO {\c&H00D4FF&\fscx110\fscy110}NUESTRO,{\r}
+Dialogue: 0,0:00:17.61,0:00:17.77,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CON{\r} EJERCICIOS DISTINTOS Y
+Dialogue: 0,0:00:17.77,0:00:18.25,P,,0,0,0,,CON {\c&H00D4FF&\fscx110\fscy110}EJERCICIOS{\r} DISTINTOS Y
+Dialogue: 0,0:00:18.25,0:00:18.67,P,,0,0,0,,CON EJERCICIOS {\c&H00D4FF&\fscx110\fscy110}DISTINTOS{\r} Y
+Dialogue: 0,0:00:18.67,0:00:19.11,P,,0,0,0,,CON EJERCICIOS DISTINTOS {\c&H00D4FF&\fscx110\fscy110}Y{\r}
+Dialogue: 0,0:00:19.11,0:00:19.29,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CON{\r} VENTAS QUE NO
+Dialogue: 0,0:00:19.29,0:00:19.63,P,,0,0,0,,CON {\c&H00D4FF&\fscx110\fscy110}VENTAS{\r} QUE NO
+Dialogue: 0,0:00:19.63,0:00:19.77,P,,0,0,0,,CON VENTAS {\c&H00D4FF&\fscx110\fscy110}QUE{\r} NO
+Dialogue: 0,0:00:19.77,0:00:19.91,P,,0,0,0,,CON VENTAS QUE {\c&H00D4FF&\fscx110\fscy110}NO{\r}
+Dialogue: 0,0:00:19.91,0:00:20.15,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SON{\r} SOLO A MERCADONA,
+Dialogue: 0,0:00:20.15,0:00:20.39,P,,0,0,0,,SON {\c&H00D4FF&\fscx110\fscy110}SOLO{\r} A MERCADONA,
+Dialogue: 0,0:00:20.39,0:00:20.49,P,,0,0,0,,SON SOLO {\c&H00D4FF&\fscx110\fscy110}A{\r} MERCADONA,
+Dialogue: 0,0:00:20.49,0:00:20.97,P,,0,0,0,,SON SOLO A {\c&H00D4FF&\fscx110\fscy110}MERCADONA,{\r}
+Dialogue: 0,0:00:20.97,0:00:21.43,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ASÍ{\r} QUE HAY QUE
+Dialogue: 0,0:00:21.43,0:00:21.63,P,,0,0,0,,ASÍ {\c&H00D4FF&\fscx110\fscy110}QUE{\r} HAY QUE
+Dialogue: 0,0:00:21.63,0:00:21.77,P,,0,0,0,,ASÍ QUE {\c&H00D4FF&\fscx110\fscy110}HAY{\r} QUE
+Dialogue: 0,0:00:21.77,0:00:21.87,P,,0,0,0,,ASÍ QUE HAY {\c&H00D4FF&\fscx110\fscy110}QUE{\r}
+Dialogue: 0,0:00:21.87,0:00:22.25,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}TOMARLO{\r} CON PRUDENCIA.
+Dialogue: 0,0:00:22.25,0:00:22.45,P,,0,0,0,,TOMARLO {\c&H00D4FF&\fscx110\fscy110}CON{\r} PRUDENCIA.
+Dialogue: 0,0:00:22.45,0:00:23.49,P,,0,0,0,,TOMARLO CON {\c&H00D4FF&\fscx110\fscy110}PRUDENCIA.{\r}
+Dialogue: 0,0:00:23.49,0:00:23.54,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}PERO{\r} SUGIERE QUE EL
+Dialogue: 0,0:00:23.53,0:00:23.95,P,,0,0,0,,PERO {\c&H00D4FF&\fscx110\fscy110}SUGIERE{\r} QUE EL
+Dialogue: 0,0:00:23.95,0:00:24.11,P,,0,0,0,,PERO SUGIERE {\c&H00D4FF&\fscx110\fscy110}QUE{\r} EL
+Dialogue: 0,0:00:24.11,0:00:24.21,P,,0,0,0,,PERO SUGIERE QUE {\c&H00D4FF&\fscx110\fscy110}EL{\r}
+Dialogue: 0,0:00:24.21,0:00:24.57,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MARGEN{\r} DE QUIEN FABRICA
+Dialogue: 0,0:00:24.57,0:00:24.71,P,,0,0,0,,MARGEN {\c&H00D4FF&\fscx110\fscy110}DE{\r} QUIEN FABRICA
+Dialogue: 0,0:00:24.71,0:00:24.87,P,,0,0,0,,MARGEN DE {\c&H00D4FF&\fscx110\fscy110}QUIEN{\r} FABRICA
+Dialogue: 0,0:00:24.87,0:00:25.77,P,,0,0,0,,MARGEN DE QUIEN {\c&H00D4FF&\fscx110\fscy110}FABRICA{\r}

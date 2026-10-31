@@ -1,0 +1,62 @@
+[Script Info]
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: P,Archivo Black,82,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,6,3,2,60,60,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.15,0:00:00.33,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LA{\r} EXCEPCIÓN SON LOS
+Dialogue: 0,0:00:00.33,0:00:00.87,P,,0,0,0,,LA {\c&H00D4FF&\fscx110\fscy110}EXCEPCIÓN{\r} SON LOS
+Dialogue: 0,0:00:00.87,0:00:01.11,P,,0,0,0,,LA EXCEPCIÓN {\c&H00D4FF&\fscx110\fscy110}SON{\r} LOS
+Dialogue: 0,0:00:01.11,0:00:01.27,P,,0,0,0,,LA EXCEPCIÓN SON {\c&H00D4FF&\fscx110\fscy110}LOS{\r}
+Dialogue: 0,0:00:01.27,0:00:01.63,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}PRODUCTOS{\r} DE ORIGEN ANIMAL:
+Dialogue: 0,0:00:01.63,0:00:01.87,P,,0,0,0,,PRODUCTOS {\c&H00D4FF&\fscx110\fscy110}DE{\r} ORIGEN ANIMAL:
+Dialogue: 0,0:00:01.87,0:00:02.17,P,,0,0,0,,PRODUCTOS DE {\c&H00D4FF&\fscx110\fscy110}ORIGEN{\r} ANIMAL:
+Dialogue: 0,0:00:02.17,0:00:02.99,P,,0,0,0,,PRODUCTOS DE ORIGEN {\c&H00D4FF&\fscx110\fscy110}ANIMAL:{\r}
+Dialogue: 0,0:00:02.99,0:00:03.65,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CARNE,{\r}
+Dialogue: 0,0:00:03.65,0:00:04.15,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LECHE,{\r}
+Dialogue: 0,0:00:04.15,0:00:04.61,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}QUESO,{\r}
+Dialogue: 0,0:00:04.61,0:00:05.49,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}PESCADO.{\r}
+Dialogue: 0,0:00:05.49,0:00:05.81,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ESOS{\r} LLEVAN UNA MARCA
+Dialogue: 0,0:00:05.81,0:00:06.15,P,,0,0,0,,ESOS {\c&H00D4FF&\fscx110\fscy110}LLEVAN{\r} UNA MARCA
+Dialogue: 0,0:00:06.15,0:00:06.33,P,,0,0,0,,ESOS LLEVAN {\c&H00D4FF&\fscx110\fscy110}UNA{\r} MARCA
+Dialogue: 0,0:00:06.33,0:00:06.57,P,,0,0,0,,ESOS LLEVAN UNA {\c&H00D4FF&\fscx110\fscy110}MARCA{\r}
+Dialogue: 0,0:00:06.57,0:00:07.29,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}OVALADA{\r} CON LAS SIGLAS
+Dialogue: 0,0:00:07.29,0:00:07.55,P,,0,0,0,,OVALADA {\c&H00D4FF&\fscx110\fscy110}CON{\r} LAS SIGLAS
+Dialogue: 0,0:00:07.55,0:00:07.71,P,,0,0,0,,OVALADA CON {\c&H00D4FF&\fscx110\fscy110}LAS{\r} SIGLAS
+Dialogue: 0,0:00:07.71,0:00:07.99,P,,0,0,0,,OVALADA CON LAS {\c&H00D4FF&\fscx110\fscy110}SIGLAS{\r}
+Dialogue: 0,0:00:07.99,0:00:08.17,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DEL{\r} PAÍS,
+Dialogue: 0,0:00:08.17,0:00:08.91,P,,0,0,0,,DEL {\c&H00D4FF&\fscx110\fscy110}PAÍS,{\r}
+Dialogue: 0,0:00:08.91,0:00:08.97,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}POR{\r} EJEMPLO ES,
+Dialogue: 0,0:00:08.97,0:00:09.27,P,,0,0,0,,POR {\c&H00D4FF&\fscx110\fscy110}EJEMPLO{\r} ES,
+Dialogue: 0,0:00:09.27,0:00:10.13,P,,0,0,0,,POR EJEMPLO {\c&H00D4FF&\fscx110\fscy110}ES,{\r}
+Dialogue: 0,0:00:10.13,0:00:10.39,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} EL NÚMERO DE
+Dialogue: 0,0:00:10.39,0:00:10.53,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}EL{\r} NÚMERO DE
+Dialogue: 0,0:00:10.53,0:00:10.73,P,,0,0,0,,Y EL {\c&H00D4FF&\fscx110\fscy110}NÚMERO{\r} DE
+Dialogue: 0,0:00:10.73,0:00:10.93,P,,0,0,0,,Y EL NÚMERO {\c&H00D4FF&\fscx110\fscy110}DE{\r}
+Dialogue: 0,0:00:10.93,0:00:11.47,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}AUTORIZACIÓN{\r} DEL ESTABLECIMIENTO DONDE
+Dialogue: 0,0:00:11.47,0:00:11.67,P,,0,0,0,,AUTORIZACIÓN {\c&H00D4FF&\fscx110\fscy110}DEL{\r} ESTABLECIMIENTO DONDE
+Dialogue: 0,0:00:11.67,0:00:12.27,P,,0,0,0,,AUTORIZACIÓN DEL {\c&H00D4FF&\fscx110\fscy110}ESTABLECIMIENTO{\r} DONDE
+Dialogue: 0,0:00:12.27,0:00:12.53,P,,0,0,0,,AUTORIZACIÓN DEL ESTABLECIMIENTO {\c&H00D4FF&\fscx110\fscy110}DONDE{\r}
+Dialogue: 0,0:00:12.53,0:00:12.79,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SE{\r} ELABORARON.
+Dialogue: 0,0:00:12.79,0:00:13.75,P,,0,0,0,,SE {\c&H00D4FF&\fscx110\fscy110}ELABORARON.{\r}
+Dialogue: 0,0:00:13.75,0:00:14.05,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ESA{\r} MARCA ESTÁ EN
+Dialogue: 0,0:00:14.05,0:00:14.27,P,,0,0,0,,ESA {\c&H00D4FF&\fscx110\fscy110}MARCA{\r} ESTÁ EN
+Dialogue: 0,0:00:14.27,0:00:14.59,P,,0,0,0,,ESA MARCA {\c&H00D4FF&\fscx110\fscy110}ESTÁ{\r} EN
+Dialogue: 0,0:00:14.59,0:00:14.75,P,,0,0,0,,ESA MARCA ESTÁ {\c&H00D4FF&\fscx110\fscy110}EN{\r}
+Dialogue: 0,0:00:14.75,0:00:14.85,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EL{\r} ENVASE O EN
+Dialogue: 0,0:00:14.85,0:00:15.13,P,,0,0,0,,EL {\c&H00D4FF&\fscx110\fscy110}ENVASE{\r} O EN
+Dialogue: 0,0:00:15.13,0:00:15.43,P,,0,0,0,,EL ENVASE {\c&H00D4FF&\fscx110\fscy110}O{\r} EN
+Dialogue: 0,0:00:15.43,0:00:15.53,P,,0,0,0,,EL ENVASE O {\c&H00D4FF&\fscx110\fscy110}EN{\r}
+Dialogue: 0,0:00:15.53,0:00:15.63,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LA{\r} ETIQUETA.
+Dialogue: 0,0:00:15.63,0:00:16.07,P,,0,0,0,,LA {\c&H00D4FF&\fscx110\fscy110}ETIQUETA.{\r}
+Dialogue: 0,0:00:16.07,0:00:16.73,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ES{\r} LA PISTA QUE
+Dialogue: 0,0:00:16.73,0:00:16.89,P,,0,0,0,,ES {\c&H00D4FF&\fscx110\fscy110}LA{\r} PISTA QUE
+Dialogue: 0,0:00:16.89,0:00:17.13,P,,0,0,0,,ES LA {\c&H00D4FF&\fscx110\fscy110}PISTA{\r} QUE
+Dialogue: 0,0:00:17.13,0:00:17.33,P,,0,0,0,,ES LA PISTA {\c&H00D4FF&\fscx110\fscy110}QUE{\r}
+Dialogue: 0,0:00:17.33,0:00:17.51,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SÍ{\r} TIENES.
+Dialogue: 0,0:00:17.51,0:00:18.23,P,,0,0,0,,SÍ {\c&H00D4FF&\fscx110\fscy110}TIENES.{\r}

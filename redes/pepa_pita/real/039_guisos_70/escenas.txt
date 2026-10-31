@@ -1,0 +1,5 @@
+file '/Users/antoniofuster/Downloads/faceless/redes/pepa_pita/real/039_guisos_70/esc_00.mp4'
+file '/Users/antoniofuster/Downloads/faceless/redes/pepa_pita/real/039_guisos_70/esc_01.mp4'
+file '/Users/antoniofuster/Downloads/faceless/redes/pepa_pita/real/039_guisos_70/esc_02.mp4'
+file '/Users/antoniofuster/Downloads/faceless/redes/pepa_pita/real/039_guisos_70/esc_03.mp4'
+file '/Users/antoniofuster/Downloads/faceless/redes/pepa_pita/real/039_guisos_70/esc_pepa.mp4'

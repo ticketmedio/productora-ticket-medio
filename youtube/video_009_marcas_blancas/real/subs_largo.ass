@@ -1,0 +1,846 @@
+[Script Info]
+PlayResX: 1920
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: P,Archivo Black,62,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,5,3,2,60,60,70,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.64,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}COGES{\r} UN PRODUCTO DE
+Dialogue: 0,0:00:00.64,0:00:00.84,P,,0,0,0,,COGES {\c&H00D4FF&\fscx110\fscy110}UN{\r} PRODUCTO DE
+Dialogue: 0,0:00:00.84,0:00:01.18,P,,0,0,0,,COGES UN {\c&H00D4FF&\fscx110\fscy110}PRODUCTO{\r} DE
+Dialogue: 0,0:00:01.18,0:00:01.48,P,,0,0,0,,COGES UN PRODUCTO {\c&H00D4FF&\fscx110\fscy110}DE{\r}
+Dialogue: 0,0:00:01.48,0:00:01.60,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LA{\r} MARCA DE MERCADONA.
+Dialogue: 0,0:00:01.60,0:00:01.88,P,,0,0,0,,LA {\c&H00D4FF&\fscx110\fscy110}MARCA{\r} DE MERCADONA.
+Dialogue: 0,0:00:01.88,0:00:02.10,P,,0,0,0,,LA MARCA {\c&H00D4FF&\fscx110\fscy110}DE{\r} MERCADONA.
+Dialogue: 0,0:00:02.10,0:00:03.18,P,,0,0,0,,LA MARCA DE {\c&H00D4FF&\fscx110\fscy110}MERCADONA.{\r}
+Dialogue: 0,0:00:03.18,0:00:03.52,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LE{\r} DAS LA VUELTA.
+Dialogue: 0,0:00:03.52,0:00:03.74,P,,0,0,0,,LE {\c&H00D4FF&\fscx110\fscy110}DAS{\r} LA VUELTA.
+Dialogue: 0,0:00:03.74,0:00:03.92,P,,0,0,0,,LE DAS {\c&H00D4FF&\fscx110\fscy110}LA{\r} VUELTA.
+Dialogue: 0,0:00:03.92,0:00:04.88,P,,0,0,0,,LE DAS LA {\c&H00D4FF&\fscx110\fscy110}VUELTA.{\r}
+Dialogue: 0,0:00:04.88,0:00:05.16,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LEES{\r} LA ETIQUETA.
+Dialogue: 0,0:00:05.16,0:00:05.28,P,,0,0,0,,LEES {\c&H00D4FF&\fscx110\fscy110}LA{\r} ETIQUETA.
+Dialogue: 0,0:00:05.28,0:00:06.30,P,,0,0,0,,LEES LA {\c&H00D4FF&\fscx110\fscy110}ETIQUETA.{\r}
+Dialogue: 0,0:00:06.30,0:00:06.50,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} AHÍ NO ESTÁ.
+Dialogue: 0,0:00:06.50,0:00:06.72,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}AHÍ{\r} NO ESTÁ.
+Dialogue: 0,0:00:06.72,0:00:07.18,P,,0,0,0,,Y AHÍ {\c&H00D4FF&\fscx110\fscy110}NO{\r} ESTÁ.
+Dialogue: 0,0:00:07.18,0:00:08.08,P,,0,0,0,,Y AHÍ NO {\c&H00D4FF&\fscx110\fscy110}ESTÁ.{\r}
+Dialogue: 0,0:00:08.08,0:00:08.32,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EL{\r} NOMBRE DE QUIEN
+Dialogue: 0,0:00:08.32,0:00:08.64,P,,0,0,0,,EL {\c&H00D4FF&\fscx110\fscy110}NOMBRE{\r} DE QUIEN
+Dialogue: 0,0:00:08.64,0:00:08.86,P,,0,0,0,,EL NOMBRE {\c&H00D4FF&\fscx110\fscy110}DE{\r} QUIEN
+Dialogue: 0,0:00:08.86,0:00:09.06,P,,0,0,0,,EL NOMBRE DE {\c&H00D4FF&\fscx110\fscy110}QUIEN{\r}
+Dialogue: 0,0:00:09.06,0:00:09.26,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LO{\r} HA FABRICADO…
+Dialogue: 0,0:00:09.26,0:00:09.36,P,,0,0,0,,LO {\c&H00D4FF&\fscx110\fscy110}HA{\r} FABRICADO…
+Dialogue: 0,0:00:09.36,0:00:09.88,P,,0,0,0,,LO HA {\c&H00D4FF&\fscx110\fscy110}FABRICADO…{\r}
+Dialogue: 0,0:00:09.88,0:00:10.62,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}NO{\r} APARECE POR NINGÚN
+Dialogue: 0,0:00:10.62,0:00:11.10,P,,0,0,0,,NO {\c&H00D4FF&\fscx110\fscy110}APARECE{\r} POR NINGÚN
+Dialogue: 0,0:00:11.10,0:00:11.36,P,,0,0,0,,NO APARECE {\c&H00D4FF&\fscx110\fscy110}POR{\r} NINGÚN
+Dialogue: 0,0:00:11.36,0:00:11.66,P,,0,0,0,,NO APARECE POR {\c&H00D4FF&\fscx110\fscy110}NINGÚN{\r}
+Dialogue: 0,0:00:11.66,0:00:12.70,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LADO.{\r}
+Dialogue: 0,0:00:12.70,0:00:13.88,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}¿CASUALIDAD?{\r}
+Dialogue: 0,0:00:13.88,0:00:14.70,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}NO.{\r}
+Dialogue: 0,0:00:14.70,0:00:14.94,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ES{\r} PERFECTAMENTE LEGAL.
+Dialogue: 0,0:00:14.94,0:00:15.82,P,,0,0,0,,ES {\c&H00D4FF&\fscx110\fscy110}PERFECTAMENTE{\r} LEGAL.
+Dialogue: 0,0:00:15.82,0:00:16.74,P,,0,0,0,,ES PERFECTAMENTE {\c&H00D4FF&\fscx110\fscy110}LEGAL.{\r}
+Dialogue: 0,0:00:16.74,0:00:17.34,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MERCADONA{\r} TIENE MÁS DE
+Dialogue: 0,0:00:17.34,0:00:17.64,P,,0,0,0,,MERCADONA {\c&H00D4FF&\fscx110\fscy110}TIENE{\r} MÁS DE
+Dialogue: 0,0:00:17.64,0:00:17.92,P,,0,0,0,,MERCADONA TIENE {\c&H00D4FF&\fscx110\fscy110}MÁS{\r} DE
+Dialogue: 0,0:00:17.92,0:00:18.12,P,,0,0,0,,MERCADONA TIENE MÁS {\c&H00D4FF&\fscx110\fscy110}DE{\r}
+Dialogue: 0,0:00:18.12,0:00:18.28,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DOS{\r} MIL PROVEEDORES Y
+Dialogue: 0,0:00:18.28,0:00:18.50,P,,0,0,0,,DOS {\c&H00D4FF&\fscx110\fscy110}MIL{\r} PROVEEDORES Y
+Dialogue: 0,0:00:18.50,0:00:19.10,P,,0,0,0,,DOS MIL {\c&H00D4FF&\fscx110\fscy110}PROVEEDORES{\r} Y
+Dialogue: 0,0:00:19.10,0:00:19.80,P,,0,0,0,,DOS MIL PROVEEDORES {\c&H00D4FF&\fscx110\fscy110}Y{\r}
+Dialogue: 0,0:00:19.80,0:00:20.16,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CUATRO{\r} DE ELLOS FACTURAN
+Dialogue: 0,0:00:20.16,0:00:20.36,P,,0,0,0,,CUATRO {\c&H00D4FF&\fscx110\fscy110}DE{\r} ELLOS FACTURAN
+Dialogue: 0,0:00:20.36,0:00:20.56,P,,0,0,0,,CUATRO DE {\c&H00D4FF&\fscx110\fscy110}ELLOS{\r} FACTURAN
+Dialogue: 0,0:00:20.56,0:00:21.08,P,,0,0,0,,CUATRO DE ELLOS {\c&H00D4FF&\fscx110\fscy110}FACTURAN{\r}
+Dialogue: 0,0:00:21.08,0:00:21.40,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MÁS{\r} DE MIL MILLONES
+Dialogue: 0,0:00:21.40,0:00:21.62,P,,0,0,0,,MÁS {\c&H00D4FF&\fscx110\fscy110}DE{\r} MIL MILLONES
+Dialogue: 0,0:00:21.62,0:00:21.88,P,,0,0,0,,MÁS DE {\c&H00D4FF&\fscx110\fscy110}MIL{\r} MILLONES
+Dialogue: 0,0:00:21.88,0:00:22.26,P,,0,0,0,,MÁS DE MIL {\c&H00D4FF&\fscx110\fscy110}MILLONES{\r}
+Dialogue: 0,0:00:22.26,0:00:22.50,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DE{\r} EUROS CADA UNO.
+Dialogue: 0,0:00:22.50,0:00:22.72,P,,0,0,0,,DE {\c&H00D4FF&\fscx110\fscy110}EUROS{\r} CADA UNO.
+Dialogue: 0,0:00:22.72,0:00:22.98,P,,0,0,0,,DE EUROS {\c&H00D4FF&\fscx110\fscy110}CADA{\r} UNO.
+Dialogue: 0,0:00:22.98,0:00:23.60,P,,0,0,0,,DE EUROS CADA {\c&H00D4FF&\fscx110\fscy110}UNO.{\r}
+Dialogue: 0,0:00:23.60,0:00:23.96,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}PERO{\r} ¿QUIÉN FABRICA DE
+Dialogue: 0,0:00:23.96,0:00:24.64,P,,0,0,0,,PERO {\c&H00D4FF&\fscx110\fscy110}¿QUIÉN{\r} FABRICA DE
+Dialogue: 0,0:00:24.64,0:00:25.16,P,,0,0,0,,PERO ¿QUIÉN {\c&H00D4FF&\fscx110\fscy110}FABRICA{\r} DE
+Dialogue: 0,0:00:25.16,0:00:25.28,P,,0,0,0,,PERO ¿QUIÉN FABRICA {\c&H00D4FF&\fscx110\fscy110}DE{\r}
+Dialogue: 0,0:00:25.28,0:00:25.56,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}VERDAD{\r} LO QUE COMPRAS?
+Dialogue: 0,0:00:25.56,0:00:25.80,P,,0,0,0,,VERDAD {\c&H00D4FF&\fscx110\fscy110}LO{\r} QUE COMPRAS?
+Dialogue: 0,0:00:25.80,0:00:25.90,P,,0,0,0,,VERDAD LO {\c&H00D4FF&\fscx110\fscy110}QUE{\r} COMPRAS?
+Dialogue: 0,0:00:25.90,0:00:26.82,P,,0,0,0,,VERDAD LO QUE {\c&H00D4FF&\fscx110\fscy110}COMPRAS?{\r}
+Dialogue: 0,0:00:26.82,0:00:27.04,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}HOY{\r} VAMOS A SEGUIR
+Dialogue: 0,0:00:27.04,0:00:27.52,P,,0,0,0,,HOY {\c&H00D4FF&\fscx110\fscy110}VAMOS{\r} A SEGUIR
+Dialogue: 0,0:00:27.52,0:00:27.70,P,,0,0,0,,HOY VAMOS {\c&H00D4FF&\fscx110\fscy110}A{\r} SEGUIR
+Dialogue: 0,0:00:27.70,0:00:27.90,P,,0,0,0,,HOY VAMOS A {\c&H00D4FF&\fscx110\fscy110}SEGUIR{\r}
+Dialogue: 0,0:00:27.90,0:00:28.12,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LA{\r} PISTA.
+Dialogue: 0,0:00:28.12,0:00:28.34,P,,0,0,0,,LA {\c&H00D4FF&\fscx110\fscy110}PISTA.{\r}
+Dialogue: 0,0:00:28.34,0:00:28.98,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CON{\r} LA LEY EN
+Dialogue: 0,0:00:28.98,0:00:29.18,P,,0,0,0,,CON {\c&H00D4FF&\fscx110\fscy110}LA{\r} LEY EN
+Dialogue: 0,0:00:29.18,0:00:29.38,P,,0,0,0,,CON LA {\c&H00D4FF&\fscx110\fscy110}LEY{\r} EN
+Dialogue: 0,0:00:29.38,0:00:29.50,P,,0,0,0,,CON LA LEY {\c&H00D4FF&\fscx110\fscy110}EN{\r}
+Dialogue: 0,0:00:29.50,0:00:29.58,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LA{\r} MANO,
+Dialogue: 0,0:00:29.58,0:00:30.12,P,,0,0,0,,LA {\c&H00D4FF&\fscx110\fscy110}MANO,{\r}
+Dialogue: 0,0:00:30.12,0:00:30.42,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CON{\r} LOS DATOS QUE
+Dialogue: 0,0:00:30.42,0:00:30.58,P,,0,0,0,,CON {\c&H00D4FF&\fscx110\fscy110}LOS{\r} DATOS QUE
+Dialogue: 0,0:00:30.58,0:00:30.86,P,,0,0,0,,CON LOS {\c&H00D4FF&\fscx110\fscy110}DATOS{\r} QUE
+Dialogue: 0,0:00:30.86,0:00:31.10,P,,0,0,0,,CON LOS DATOS {\c&H00D4FF&\fscx110\fscy110}QUE{\r}
+Dialogue: 0,0:00:31.10,0:00:31.28,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SÍ{\r} SON PÚBLICOS…
+Dialogue: 0,0:00:31.28,0:00:31.48,P,,0,0,0,,SÍ {\c&H00D4FF&\fscx110\fscy110}SON{\r} PÚBLICOS…
+Dialogue: 0,0:00:31.48,0:00:32.06,P,,0,0,0,,SÍ SON {\c&H00D4FF&\fscx110\fscy110}PÚBLICOS…{\r}
+Dialogue: 0,0:00:32.06,0:00:32.64,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} CON UN TRUCO
+Dialogue: 0,0:00:32.64,0:00:32.84,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}CON{\r} UN TRUCO
+Dialogue: 0,0:00:32.84,0:00:33.00,P,,0,0,0,,Y CON {\c&H00D4FF&\fscx110\fscy110}UN{\r} TRUCO
+Dialogue: 0,0:00:33.00,0:00:33.28,P,,0,0,0,,Y CON UN {\c&H00D4FF&\fscx110\fscy110}TRUCO{\r}
+Dialogue: 0,0:00:33.28,0:00:33.44,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}QUE{\r} CASI NADIE CONOCE
+Dialogue: 0,0:00:33.44,0:00:33.72,P,,0,0,0,,QUE {\c&H00D4FF&\fscx110\fscy110}CASI{\r} NADIE CONOCE
+Dialogue: 0,0:00:33.72,0:00:34.00,P,,0,0,0,,QUE CASI {\c&H00D4FF&\fscx110\fscy110}NADIE{\r} CONOCE
+Dialogue: 0,0:00:34.00,0:00:34.42,P,,0,0,0,,QUE CASI NADIE {\c&H00D4FF&\fscx110\fscy110}CONOCE{\r}
+Dialogue: 0,0:00:34.42,0:00:34.62,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}PARA{\r} DESCUBRIRLO TÚ MISMO.
+Dialogue: 0,0:00:34.62,0:00:35.28,P,,0,0,0,,PARA {\c&H00D4FF&\fscx110\fscy110}DESCUBRIRLO{\r} TÚ MISMO.
+Dialogue: 0,0:00:35.28,0:00:35.46,P,,0,0,0,,PARA DESCUBRIRLO {\c&H00D4FF&\fscx110\fscy110}TÚ{\r} MISMO.
+Dialogue: 0,0:00:35.46,0:00:36.24,P,,0,0,0,,PARA DESCUBRIRLO TÚ {\c&H00D4FF&\fscx110\fscy110}MISMO.{\r}
+Dialogue: 0,0:00:36.24,0:00:36.74,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EMPECEMOS{\r} POR LA ETIQUETA.
+Dialogue: 0,0:00:36.74,0:00:37.02,P,,0,0,0,,EMPECEMOS {\c&H00D4FF&\fscx110\fscy110}POR{\r} LA ETIQUETA.
+Dialogue: 0,0:00:37.02,0:00:37.16,P,,0,0,0,,EMPECEMOS POR {\c&H00D4FF&\fscx110\fscy110}LA{\r} ETIQUETA.
+Dialogue: 0,0:00:37.16,0:00:38.10,P,,0,0,0,,EMPECEMOS POR LA {\c&H00D4FF&\fscx110\fscy110}ETIQUETA.{\r}
+Dialogue: 0,0:00:38.10,0:00:38.22,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EL{\r} REGLAMENTO EUROPEO DE
+Dialogue: 0,0:00:38.22,0:00:38.70,P,,0,0,0,,EL {\c&H00D4FF&\fscx110\fscy110}REGLAMENTO{\r} EUROPEO DE
+Dialogue: 0,0:00:38.70,0:00:39.24,P,,0,0,0,,EL REGLAMENTO {\c&H00D4FF&\fscx110\fscy110}EUROPEO{\r} DE
+Dialogue: 0,0:00:39.24,0:00:39.32,P,,0,0,0,,EL REGLAMENTO EUROPEO {\c&H00D4FF&\fscx110\fscy110}DE{\r}
+Dialogue: 0,0:00:39.32,0:00:39.64,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}INFORMACIÓN{\r} ALIMENTARIA DICE QUE
+Dialogue: 0,0:00:39.64,0:00:40.44,P,,0,0,0,,INFORMACIÓN {\c&H00D4FF&\fscx110\fscy110}ALIMENTARIA{\r} DICE QUE
+Dialogue: 0,0:00:40.44,0:00:41.06,P,,0,0,0,,INFORMACIÓN ALIMENTARIA {\c&H00D4FF&\fscx110\fscy110}DICE{\r} QUE
+Dialogue: 0,0:00:41.06,0:00:41.24,P,,0,0,0,,INFORMACIÓN ALIMENTARIA DICE {\c&H00D4FF&\fscx110\fscy110}QUE{\r}
+Dialogue: 0,0:00:41.24,0:00:41.36,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EL{\r} RESPONSABLE DE LA
+Dialogue: 0,0:00:41.36,0:00:41.90,P,,0,0,0,,EL {\c&H00D4FF&\fscx110\fscy110}RESPONSABLE{\r} DE LA
+Dialogue: 0,0:00:41.90,0:00:42.00,P,,0,0,0,,EL RESPONSABLE {\c&H00D4FF&\fscx110\fscy110}DE{\r} LA
+Dialogue: 0,0:00:42.00,0:00:42.10,P,,0,0,0,,EL RESPONSABLE DE {\c&H00D4FF&\fscx110\fscy110}LA{\r}
+Dialogue: 0,0:00:42.10,0:00:42.54,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}INFORMACIÓN{\r} ES EL OPERADOR
+Dialogue: 0,0:00:42.54,0:00:43.28,P,,0,0,0,,INFORMACIÓN {\c&H00D4FF&\fscx110\fscy110}ES{\r} EL OPERADOR
+Dialogue: 0,0:00:43.28,0:00:43.40,P,,0,0,0,,INFORMACIÓN ES {\c&H00D4FF&\fscx110\fscy110}EL{\r} OPERADOR
+Dialogue: 0,0:00:43.40,0:00:43.78,P,,0,0,0,,INFORMACIÓN ES EL {\c&H00D4FF&\fscx110\fscy110}OPERADOR{\r}
+Dialogue: 0,0:00:43.78,0:00:44.02,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CON{\r} CUYO NOMBRE O
+Dialogue: 0,0:00:44.02,0:00:44.32,P,,0,0,0,,CON {\c&H00D4FF&\fscx110\fscy110}CUYO{\r} NOMBRE O
+Dialogue: 0,0:00:44.32,0:00:44.60,P,,0,0,0,,CON CUYO {\c&H00D4FF&\fscx110\fscy110}NOMBRE{\r} O
+Dialogue: 0,0:00:44.60,0:00:44.88,P,,0,0,0,,CON CUYO NOMBRE {\c&H00D4FF&\fscx110\fscy110}O{\r}
+Dialogue: 0,0:00:44.88,0:00:45.14,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}RAZÓN{\r} SOCIAL SE COMERCIALIZA
+Dialogue: 0,0:00:45.14,0:00:45.50,P,,0,0,0,,RAZÓN {\c&H00D4FF&\fscx110\fscy110}SOCIAL{\r} SE COMERCIALIZA
+Dialogue: 0,0:00:45.50,0:00:45.70,P,,0,0,0,,RAZÓN SOCIAL {\c&H00D4FF&\fscx110\fscy110}SE{\r} COMERCIALIZA
+Dialogue: 0,0:00:45.70,0:00:46.34,P,,0,0,0,,RAZÓN SOCIAL SE {\c&H00D4FF&\fscx110\fscy110}COMERCIALIZA{\r}
+Dialogue: 0,0:00:46.34,0:00:46.46,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EL{\r} ALIMENTO.
+Dialogue: 0,0:00:46.46,0:00:47.20,P,,0,0,0,,EL {\c&H00D4FF&\fscx110\fscy110}ALIMENTO.{\r}
+Dialogue: 0,0:00:47.20,0:00:47.42,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} LO QUE DEBE
+Dialogue: 0,0:00:47.42,0:00:47.54,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}LO{\r} QUE DEBE
+Dialogue: 0,0:00:47.54,0:00:47.66,P,,0,0,0,,Y LO {\c&H00D4FF&\fscx110\fscy110}QUE{\r} DEBE
+Dialogue: 0,0:00:47.66,0:00:47.84,P,,0,0,0,,Y LO QUE {\c&H00D4FF&\fscx110\fscy110}DEBE{\r}
+Dialogue: 0,0:00:47.84,0:00:48.22,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}FIGURAR{\r} EN LA ETIQUETA
+Dialogue: 0,0:00:48.22,0:00:48.38,P,,0,0,0,,FIGURAR {\c&H00D4FF&\fscx110\fscy110}EN{\r} LA ETIQUETA
+Dialogue: 0,0:00:48.38,0:00:48.48,P,,0,0,0,,FIGURAR EN {\c&H00D4FF&\fscx110\fscy110}LA{\r} ETIQUETA
+Dialogue: 0,0:00:48.48,0:00:48.96,P,,0,0,0,,FIGURAR EN LA {\c&H00D4FF&\fscx110\fscy110}ETIQUETA{\r}
+Dialogue: 0,0:00:48.96,0:00:49.56,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ES{\r} EL NOMBRE Y
+Dialogue: 0,0:00:49.56,0:00:49.70,P,,0,0,0,,ES {\c&H00D4FF&\fscx110\fscy110}EL{\r} NOMBRE Y
+Dialogue: 0,0:00:49.70,0:00:49.98,P,,0,0,0,,ES EL {\c&H00D4FF&\fscx110\fscy110}NOMBRE{\r} Y
+Dialogue: 0,0:00:49.98,0:00:50.12,P,,0,0,0,,ES EL NOMBRE {\c&H00D4FF&\fscx110\fscy110}Y{\r}
+Dialogue: 0,0:00:50.12,0:00:50.22,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LA{\r} DIRECCIÓN DE ESE
+Dialogue: 0,0:00:50.22,0:00:50.64,P,,0,0,0,,LA {\c&H00D4FF&\fscx110\fscy110}DIRECCIÓN{\r} DE ESE
+Dialogue: 0,0:00:50.64,0:00:50.82,P,,0,0,0,,LA DIRECCIÓN {\c&H00D4FF&\fscx110\fscy110}DE{\r} ESE
+Dialogue: 0,0:00:50.82,0:00:51.00,P,,0,0,0,,LA DIRECCIÓN DE {\c&H00D4FF&\fscx110\fscy110}ESE{\r}
+Dialogue: 0,0:00:51.00,0:00:51.88,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}OPERADOR.{\r}
+Dialogue: 0,0:00:51.88,0:00:52.06,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ES{\r} DECIR:
+Dialogue: 0,0:00:52.06,0:00:52.84,P,,0,0,0,,ES {\c&H00D4FF&\fscx110\fscy110}DECIR:{\r}
+Dialogue: 0,0:00:52.84,0:00:53.00,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DE{\r} QUIEN LO VENDE,
+Dialogue: 0,0:00:53.00,0:00:53.18,P,,0,0,0,,DE {\c&H00D4FF&\fscx110\fscy110}QUIEN{\r} LO VENDE,
+Dialogue: 0,0:00:53.18,0:00:53.36,P,,0,0,0,,DE QUIEN {\c&H00D4FF&\fscx110\fscy110}LO{\r} VENDE,
+Dialogue: 0,0:00:53.36,0:00:54.02,P,,0,0,0,,DE QUIEN LO {\c&H00D4FF&\fscx110\fscy110}VENDE,{\r}
+Dialogue: 0,0:00:54.02,0:00:54.26,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}NO{\r} DE QUIEN LO
+Dialogue: 0,0:00:54.26,0:00:54.42,P,,0,0,0,,NO {\c&H00D4FF&\fscx110\fscy110}DE{\r} QUIEN LO
+Dialogue: 0,0:00:54.42,0:00:54.56,P,,0,0,0,,NO DE {\c&H00D4FF&\fscx110\fscy110}QUIEN{\r} LO
+Dialogue: 0,0:00:54.56,0:00:54.70,P,,0,0,0,,NO DE QUIEN {\c&H00D4FF&\fscx110\fscy110}LO{\r}
+Dialogue: 0,0:00:54.70,0:00:55.58,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}FABRICA.{\r}
+Dialogue: 0,0:00:55.58,0:00:55.76,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SI{\r} LO VENDE MERCADONA,
+Dialogue: 0,0:00:55.76,0:00:55.92,P,,0,0,0,,SI {\c&H00D4FF&\fscx110\fscy110}LO{\r} VENDE MERCADONA,
+Dialogue: 0,0:00:55.92,0:00:56.10,P,,0,0,0,,SI LO {\c&H00D4FF&\fscx110\fscy110}VENDE{\r} MERCADONA,
+Dialogue: 0,0:00:56.10,0:00:57.02,P,,0,0,0,,SI LO VENDE {\c&H00D4FF&\fscx110\fscy110}MERCADONA,{\r}
+Dialogue: 0,0:00:57.02,0:00:57.24,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}PONE{\r} MERCADONA.
+Dialogue: 0,0:00:57.24,0:00:57.78,P,,0,0,0,,PONE {\c&H00D4FF&\fscx110\fscy110}MERCADONA.{\r}
+Dialogue: 0,0:00:57.78,0:00:58.44,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LA{\r} AGENCIA ESPAÑOLA DE
+Dialogue: 0,0:00:58.44,0:00:58.88,P,,0,0,0,,LA {\c&H00D4FF&\fscx110\fscy110}AGENCIA{\r} ESPAÑOLA DE
+Dialogue: 0,0:00:58.88,0:00:59.32,P,,0,0,0,,LA AGENCIA {\c&H00D4FF&\fscx110\fscy110}ESPAÑOLA{\r} DE
+Dialogue: 0,0:00:59.32,0:00:59.48,P,,0,0,0,,LA AGENCIA ESPAÑOLA {\c&H00D4FF&\fscx110\fscy110}DE{\r}
+Dialogue: 0,0:00:59.48,0:00:59.90,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SEGURIDAD{\r} ALIMENTARIA LO DICE
+Dialogue: 0,0:00:59.90,0:01:00.46,P,,0,0,0,,SEGURIDAD {\c&H00D4FF&\fscx110\fscy110}ALIMENTARIA{\r} LO DICE
+Dialogue: 0,0:01:00.46,0:01:01.08,P,,0,0,0,,SEGURIDAD ALIMENTARIA {\c&H00D4FF&\fscx110\fscy110}LO{\r} DICE
+Dialogue: 0,0:01:01.08,0:01:01.30,P,,0,0,0,,SEGURIDAD ALIMENTARIA LO {\c&H00D4FF&\fscx110\fscy110}DICE{\r}
+Dialogue: 0,0:01:01.30,0:01:01.52,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CON{\r} TODAS LAS LETRAS
+Dialogue: 0,0:01:01.52,0:01:01.76,P,,0,0,0,,CON {\c&H00D4FF&\fscx110\fscy110}TODAS{\r} LAS LETRAS
+Dialogue: 0,0:01:01.76,0:01:02.02,P,,0,0,0,,CON TODAS {\c&H00D4FF&\fscx110\fscy110}LAS{\r} LETRAS
+Dialogue: 0,0:01:02.02,0:01:02.36,P,,0,0,0,,CON TODAS LAS {\c&H00D4FF&\fscx110\fscy110}LETRAS{\r}
+Dialogue: 0,0:01:02.36,0:01:02.62,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SOBRE{\r} EL NÚMERO DE
+Dialogue: 0,0:01:02.62,0:01:02.76,P,,0,0,0,,SOBRE {\c&H00D4FF&\fscx110\fscy110}EL{\r} NÚMERO DE
+Dialogue: 0,0:01:02.76,0:01:02.96,P,,0,0,0,,SOBRE EL {\c&H00D4FF&\fscx110\fscy110}NÚMERO{\r} DE
+Dialogue: 0,0:01:02.96,0:01:03.14,P,,0,0,0,,SOBRE EL NÚMERO {\c&H00D4FF&\fscx110\fscy110}DE{\r}
+Dialogue: 0,0:01:03.14,0:01:03.58,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}REGISTRO{\r} SANITARIO:
+Dialogue: 0,0:01:03.58,0:01:04.44,P,,0,0,0,,REGISTRO {\c&H00D4FF&\fscx110\fscy110}SANITARIO:{\r}
+Dialogue: 0,0:01:04.44,0:01:04.72,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ES{\r} UN NÚMERO DE
+Dialogue: 0,0:01:04.72,0:01:04.86,P,,0,0,0,,ES {\c&H00D4FF&\fscx110\fscy110}UN{\r} NÚMERO DE
+Dialogue: 0,0:01:04.86,0:01:05.10,P,,0,0,0,,ES UN {\c&H00D4FF&\fscx110\fscy110}NÚMERO{\r} DE
+Dialogue: 0,0:01:05.10,0:01:05.28,P,,0,0,0,,ES UN NÚMERO {\c&H00D4FF&\fscx110\fscy110}DE{\r}
+Dialogue: 0,0:01:05.28,0:01:05.88,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}IDENTIFICACIÓN{\r} ADMINISTRATIVA,
+Dialogue: 0,0:01:05.88,0:01:06.66,P,,0,0,0,,IDENTIFICACIÓN {\c&H00D4FF&\fscx110\fscy110}ADMINISTRATIVA,{\r}
+Dialogue: 0,0:01:06.66,0:01:07.22,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} EL OPERADOR NO
+Dialogue: 0,0:01:07.22,0:01:07.36,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}EL{\r} OPERADOR NO
+Dialogue: 0,0:01:07.36,0:01:07.74,P,,0,0,0,,Y EL {\c&H00D4FF&\fscx110\fscy110}OPERADOR{\r} NO
+Dialogue: 0,0:01:07.74,0:01:07.98,P,,0,0,0,,Y EL OPERADOR {\c&H00D4FF&\fscx110\fscy110}NO{\r}
+Dialogue: 0,0:01:07.98,0:01:08.20,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ESTÁ{\r} OBLIGADO A PONERLO
+Dialogue: 0,0:01:08.20,0:01:08.64,P,,0,0,0,,ESTÁ {\c&H00D4FF&\fscx110\fscy110}OBLIGADO{\r} A PONERLO
+Dialogue: 0,0:01:08.64,0:01:08.74,P,,0,0,0,,ESTÁ OBLIGADO {\c&H00D4FF&\fscx110\fscy110}A{\r} PONERLO
+Dialogue: 0,0:01:08.74,0:01:09.12,P,,0,0,0,,ESTÁ OBLIGADO A {\c&H00D4FF&\fscx110\fscy110}PONERLO{\r}
+Dialogue: 0,0:01:09.12,0:01:09.20,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EN{\r} LA ETIQUETA.
+Dialogue: 0,0:01:09.20,0:01:09.32,P,,0,0,0,,EN {\c&H00D4FF&\fscx110\fscy110}LA{\r} ETIQUETA.
+Dialogue: 0,0:01:09.32,0:01:10.14,P,,0,0,0,,EN LA {\c&H00D4FF&\fscx110\fscy110}ETIQUETA.{\r}
+Dialogue: 0,0:01:10.14,0:01:10.34,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}HAY{\r} UNA EXCEPCIÓN.
+Dialogue: 0,0:01:10.34,0:01:10.52,P,,0,0,0,,HAY {\c&H00D4FF&\fscx110\fscy110}UNA{\r} EXCEPCIÓN.
+Dialogue: 0,0:01:10.52,0:01:11.54,P,,0,0,0,,HAY UNA {\c&H00D4FF&\fscx110\fscy110}EXCEPCIÓN.{\r}
+Dialogue: 0,0:01:11.54,0:01:11.72,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LA{\r} EXCEPCIÓN SON LOS
+Dialogue: 0,0:01:11.72,0:01:12.26,P,,0,0,0,,LA {\c&H00D4FF&\fscx110\fscy110}EXCEPCIÓN{\r} SON LOS
+Dialogue: 0,0:01:12.26,0:01:12.50,P,,0,0,0,,LA EXCEPCIÓN {\c&H00D4FF&\fscx110\fscy110}SON{\r} LOS
+Dialogue: 0,0:01:12.50,0:01:12.66,P,,0,0,0,,LA EXCEPCIÓN SON {\c&H00D4FF&\fscx110\fscy110}LOS{\r}
+Dialogue: 0,0:01:12.66,0:01:13.02,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}PRODUCTOS{\r} DE ORIGEN ANIMAL:
+Dialogue: 0,0:01:13.02,0:01:13.26,P,,0,0,0,,PRODUCTOS {\c&H00D4FF&\fscx110\fscy110}DE{\r} ORIGEN ANIMAL:
+Dialogue: 0,0:01:13.26,0:01:13.56,P,,0,0,0,,PRODUCTOS DE {\c&H00D4FF&\fscx110\fscy110}ORIGEN{\r} ANIMAL:
+Dialogue: 0,0:01:13.56,0:01:14.38,P,,0,0,0,,PRODUCTOS DE ORIGEN {\c&H00D4FF&\fscx110\fscy110}ANIMAL:{\r}
+Dialogue: 0,0:01:14.38,0:01:15.04,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CARNE,{\r}
+Dialogue: 0,0:01:15.04,0:01:15.54,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LECHE,{\r}
+Dialogue: 0,0:01:15.54,0:01:16.00,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}QUESO,{\r}
+Dialogue: 0,0:01:16.00,0:01:16.88,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}PESCADO.{\r}
+Dialogue: 0,0:01:16.88,0:01:17.20,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ESOS{\r} LLEVAN UNA MARCA
+Dialogue: 0,0:01:17.20,0:01:17.54,P,,0,0,0,,ESOS {\c&H00D4FF&\fscx110\fscy110}LLEVAN{\r} UNA MARCA
+Dialogue: 0,0:01:17.54,0:01:17.72,P,,0,0,0,,ESOS LLEVAN {\c&H00D4FF&\fscx110\fscy110}UNA{\r} MARCA
+Dialogue: 0,0:01:17.72,0:01:17.96,P,,0,0,0,,ESOS LLEVAN UNA {\c&H00D4FF&\fscx110\fscy110}MARCA{\r}
+Dialogue: 0,0:01:17.96,0:01:18.68,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}OVALADA{\r} CON LAS SIGLAS
+Dialogue: 0,0:01:18.68,0:01:18.94,P,,0,0,0,,OVALADA {\c&H00D4FF&\fscx110\fscy110}CON{\r} LAS SIGLAS
+Dialogue: 0,0:01:18.94,0:01:19.10,P,,0,0,0,,OVALADA CON {\c&H00D4FF&\fscx110\fscy110}LAS{\r} SIGLAS
+Dialogue: 0,0:01:19.10,0:01:19.38,P,,0,0,0,,OVALADA CON LAS {\c&H00D4FF&\fscx110\fscy110}SIGLAS{\r}
+Dialogue: 0,0:01:19.38,0:01:19.56,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DEL{\r} PAÍS,
+Dialogue: 0,0:01:19.56,0:01:20.30,P,,0,0,0,,DEL {\c&H00D4FF&\fscx110\fscy110}PAÍS,{\r}
+Dialogue: 0,0:01:20.30,0:01:20.36,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}POR{\r} EJEMPLO ES,
+Dialogue: 0,0:01:20.36,0:01:20.66,P,,0,0,0,,POR {\c&H00D4FF&\fscx110\fscy110}EJEMPLO{\r} ES,
+Dialogue: 0,0:01:20.66,0:01:21.52,P,,0,0,0,,POR EJEMPLO {\c&H00D4FF&\fscx110\fscy110}ES,{\r}
+Dialogue: 0,0:01:21.52,0:01:21.78,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} EL NÚMERO DE
+Dialogue: 0,0:01:21.78,0:01:21.92,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}EL{\r} NÚMERO DE
+Dialogue: 0,0:01:21.92,0:01:22.12,P,,0,0,0,,Y EL {\c&H00D4FF&\fscx110\fscy110}NÚMERO{\r} DE
+Dialogue: 0,0:01:22.12,0:01:22.32,P,,0,0,0,,Y EL NÚMERO {\c&H00D4FF&\fscx110\fscy110}DE{\r}
+Dialogue: 0,0:01:22.32,0:01:22.86,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}AUTORIZACIÓN{\r} DEL ESTABLECIMIENTO DONDE
+Dialogue: 0,0:01:22.86,0:01:23.06,P,,0,0,0,,AUTORIZACIÓN {\c&H00D4FF&\fscx110\fscy110}DEL{\r} ESTABLECIMIENTO DONDE
+Dialogue: 0,0:01:23.06,0:01:23.66,P,,0,0,0,,AUTORIZACIÓN DEL {\c&H00D4FF&\fscx110\fscy110}ESTABLECIMIENTO{\r} DONDE
+Dialogue: 0,0:01:23.66,0:01:23.92,P,,0,0,0,,AUTORIZACIÓN DEL ESTABLECIMIENTO {\c&H00D4FF&\fscx110\fscy110}DONDE{\r}
+Dialogue: 0,0:01:23.92,0:01:24.18,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SE{\r} ELABORARON.
+Dialogue: 0,0:01:24.18,0:01:25.14,P,,0,0,0,,SE {\c&H00D4FF&\fscx110\fscy110}ELABORARON.{\r}
+Dialogue: 0,0:01:25.14,0:01:25.44,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ESA{\r} MARCA ESTÁ EN
+Dialogue: 0,0:01:25.44,0:01:25.66,P,,0,0,0,,ESA {\c&H00D4FF&\fscx110\fscy110}MARCA{\r} ESTÁ EN
+Dialogue: 0,0:01:25.66,0:01:25.98,P,,0,0,0,,ESA MARCA {\c&H00D4FF&\fscx110\fscy110}ESTÁ{\r} EN
+Dialogue: 0,0:01:25.98,0:01:26.14,P,,0,0,0,,ESA MARCA ESTÁ {\c&H00D4FF&\fscx110\fscy110}EN{\r}
+Dialogue: 0,0:01:26.14,0:01:26.24,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EL{\r} ENVASE O EN
+Dialogue: 0,0:01:26.24,0:01:26.52,P,,0,0,0,,EL {\c&H00D4FF&\fscx110\fscy110}ENVASE{\r} O EN
+Dialogue: 0,0:01:26.52,0:01:26.82,P,,0,0,0,,EL ENVASE {\c&H00D4FF&\fscx110\fscy110}O{\r} EN
+Dialogue: 0,0:01:26.82,0:01:26.92,P,,0,0,0,,EL ENVASE O {\c&H00D4FF&\fscx110\fscy110}EN{\r}
+Dialogue: 0,0:01:26.92,0:01:27.02,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LA{\r} ETIQUETA.
+Dialogue: 0,0:01:27.02,0:01:27.46,P,,0,0,0,,LA {\c&H00D4FF&\fscx110\fscy110}ETIQUETA.{\r}
+Dialogue: 0,0:01:27.46,0:01:28.12,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ES{\r} LA PISTA QUE
+Dialogue: 0,0:01:28.12,0:01:28.28,P,,0,0,0,,ES {\c&H00D4FF&\fscx110\fscy110}LA{\r} PISTA QUE
+Dialogue: 0,0:01:28.28,0:01:28.52,P,,0,0,0,,ES LA {\c&H00D4FF&\fscx110\fscy110}PISTA{\r} QUE
+Dialogue: 0,0:01:28.52,0:01:28.72,P,,0,0,0,,ES LA PISTA {\c&H00D4FF&\fscx110\fscy110}QUE{\r}
+Dialogue: 0,0:01:28.72,0:01:28.90,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SÍ{\r} TIENES.
+Dialogue: 0,0:01:28.90,0:01:29.70,P,,0,0,0,,SÍ {\c&H00D4FF&\fscx110\fscy110}TIENES.{\r}
+Dialogue: 0,0:01:29.70,0:01:29.86,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} CON ESE NÚMERO
+Dialogue: 0,0:01:29.86,0:01:30.02,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}CON{\r} ESE NÚMERO
+Dialogue: 0,0:01:30.02,0:01:30.20,P,,0,0,0,,Y CON {\c&H00D4FF&\fscx110\fscy110}ESE{\r} NÚMERO
+Dialogue: 0,0:01:30.20,0:01:30.44,P,,0,0,0,,Y CON ESE {\c&H00D4FF&\fscx110\fscy110}NÚMERO{\r}
+Dialogue: 0,0:01:30.44,0:01:30.78,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}PUEDES{\r} HACER ALGO:
+Dialogue: 0,0:01:30.78,0:01:31.04,P,,0,0,0,,PUEDES {\c&H00D4FF&\fscx110\fscy110}HACER{\r} ALGO:
+Dialogue: 0,0:01:31.04,0:01:31.72,P,,0,0,0,,PUEDES HACER {\c&H00D4FF&\fscx110\fscy110}ALGO:{\r}
+Dialogue: 0,0:01:31.72,0:01:31.92,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LA{\r} AESAN TIENE UN
+Dialogue: 0,0:01:31.92,0:01:32.32,P,,0,0,0,,LA {\c&H00D4FF&\fscx110\fscy110}AESAN{\r} TIENE UN
+Dialogue: 0,0:01:32.32,0:01:32.66,P,,0,0,0,,LA AESAN {\c&H00D4FF&\fscx110\fscy110}TIENE{\r} UN
+Dialogue: 0,0:01:32.66,0:01:32.86,P,,0,0,0,,LA AESAN TIENE {\c&H00D4FF&\fscx110\fscy110}UN{\r}
+Dialogue: 0,0:01:32.86,0:01:33.20,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}BUSCADOR{\r} PÚBLICO DE EMPRESAS
+Dialogue: 0,0:01:33.20,0:01:33.50,P,,0,0,0,,BUSCADOR {\c&H00D4FF&\fscx110\fscy110}PÚBLICO{\r} DE EMPRESAS
+Dialogue: 0,0:01:33.50,0:01:33.76,P,,0,0,0,,BUSCADOR PÚBLICO {\c&H00D4FF&\fscx110\fscy110}DE{\r} EMPRESAS
+Dialogue: 0,0:01:33.76,0:01:34.06,P,,0,0,0,,BUSCADOR PÚBLICO DE {\c&H00D4FF&\fscx110\fscy110}EMPRESAS{\r}
+Dialogue: 0,0:01:34.06,0:01:34.26,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} ESTABLECIMIENTOS ALIMENTARIOS REGISTRADOS
+Dialogue: 0,0:01:34.26,0:01:34.84,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}ESTABLECIMIENTOS{\r} ALIMENTARIOS REGISTRADOS
+Dialogue: 0,0:01:34.84,0:01:35.52,P,,0,0,0,,Y ESTABLECIMIENTOS {\c&H00D4FF&\fscx110\fscy110}ALIMENTARIOS{\r} REGISTRADOS
+Dialogue: 0,0:01:35.52,0:01:36.04,P,,0,0,0,,Y ESTABLECIMIENTOS ALIMENTARIOS {\c&H00D4FF&\fscx110\fscy110}REGISTRADOS{\r}
+Dialogue: 0,0:01:36.04,0:01:36.26,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EN{\r} ESPAÑA.
+Dialogue: 0,0:01:36.26,0:01:37.10,P,,0,0,0,,EN {\c&H00D4FF&\fscx110\fscy110}ESPAÑA.{\r}
+Dialogue: 0,0:01:37.10,0:01:37.38,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}METES{\r} EL NÚMERO Y
+Dialogue: 0,0:01:37.38,0:01:37.48,P,,0,0,0,,METES {\c&H00D4FF&\fscx110\fscy110}EL{\r} NÚMERO Y
+Dialogue: 0,0:01:37.48,0:01:37.70,P,,0,0,0,,METES EL {\c&H00D4FF&\fscx110\fscy110}NÚMERO{\r} Y
+Dialogue: 0,0:01:37.70,0:01:37.98,P,,0,0,0,,METES EL NÚMERO {\c&H00D4FF&\fscx110\fscy110}Y{\r}
+Dialogue: 0,0:01:37.98,0:01:38.10,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}TE{\r} DICE QUÉ EMPRESA
+Dialogue: 0,0:01:38.10,0:01:38.30,P,,0,0,0,,TE {\c&H00D4FF&\fscx110\fscy110}DICE{\r} QUÉ EMPRESA
+Dialogue: 0,0:01:38.30,0:01:38.50,P,,0,0,0,,TE DICE {\c&H00D4FF&\fscx110\fscy110}QUÉ{\r} EMPRESA
+Dialogue: 0,0:01:38.50,0:01:38.86,P,,0,0,0,,TE DICE QUÉ {\c&H00D4FF&\fscx110\fscy110}EMPRESA{\r}
+Dialogue: 0,0:01:38.86,0:01:39.10,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ESTÁ{\r} INSCRITA AHÍ.
+Dialogue: 0,0:01:39.10,0:01:39.54,P,,0,0,0,,ESTÁ {\c&H00D4FF&\fscx110\fscy110}INSCRITA{\r} AHÍ.
+Dialogue: 0,0:01:39.54,0:01:40.18,P,,0,0,0,,ESTÁ INSCRITA {\c&H00D4FF&\fscx110\fscy110}AHÍ.{\r}
+Dialogue: 0,0:01:40.18,0:01:40.42,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}OJO{\r} CON UNA COSA:
+Dialogue: 0,0:01:40.42,0:01:40.64,P,,0,0,0,,OJO {\c&H00D4FF&\fscx110\fscy110}CON{\r} UNA COSA:
+Dialogue: 0,0:01:40.64,0:01:40.78,P,,0,0,0,,OJO CON {\c&H00D4FF&\fscx110\fscy110}UNA{\r} COSA:
+Dialogue: 0,0:01:40.78,0:01:41.52,P,,0,0,0,,OJO CON UNA {\c&H00D4FF&\fscx110\fscy110}COSA:{\r}
+Dialogue: 0,0:01:41.52,0:01:41.64,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}TE{\r} DICE QUÉ ESTABLECIMIENTO
+Dialogue: 0,0:01:41.64,0:01:41.86,P,,0,0,0,,TE {\c&H00D4FF&\fscx110\fscy110}DICE{\r} QUÉ ESTABLECIMIENTO
+Dialogue: 0,0:01:41.86,0:01:42.06,P,,0,0,0,,TE DICE {\c&H00D4FF&\fscx110\fscy110}QUÉ{\r} ESTABLECIMIENTO
+Dialogue: 0,0:01:42.06,0:01:42.74,P,,0,0,0,,TE DICE QUÉ {\c&H00D4FF&\fscx110\fscy110}ESTABLECIMIENTO{\r}
+Dialogue: 0,0:01:42.74,0:01:43.38,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ES,{\r}
+Dialogue: 0,0:01:43.38,0:01:43.60,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}NO{\r} PARA QUIÉN FABRICA.
+Dialogue: 0,0:01:43.60,0:01:43.80,P,,0,0,0,,NO {\c&H00D4FF&\fscx110\fscy110}PARA{\r} QUIÉN FABRICA.
+Dialogue: 0,0:01:43.80,0:01:44.02,P,,0,0,0,,NO PARA {\c&H00D4FF&\fscx110\fscy110}QUIÉN{\r} FABRICA.
+Dialogue: 0,0:01:44.02,0:01:44.86,P,,0,0,0,,NO PARA QUIÉN {\c&H00D4FF&\fscx110\fscy110}FABRICA.{\r}
+Dialogue: 0,0:01:44.86,0:01:45.06,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}UNA{\r} MISMA FÁBRICA PUEDE
+Dialogue: 0,0:01:45.06,0:01:45.28,P,,0,0,0,,UNA {\c&H00D4FF&\fscx110\fscy110}MISMA{\r} FÁBRICA PUEDE
+Dialogue: 0,0:01:45.28,0:01:45.70,P,,0,0,0,,UNA MISMA {\c&H00D4FF&\fscx110\fscy110}FÁBRICA{\r} PUEDE
+Dialogue: 0,0:01:45.70,0:01:45.94,P,,0,0,0,,UNA MISMA FÁBRICA {\c&H00D4FF&\fscx110\fscy110}PUEDE{\r}
+Dialogue: 0,0:01:45.94,0:01:46.38,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}PRODUCIR{\r} PARA VARIOS CLIENTES.
+Dialogue: 0,0:01:46.38,0:01:46.58,P,,0,0,0,,PRODUCIR {\c&H00D4FF&\fscx110\fscy110}PARA{\r} VARIOS CLIENTES.
+Dialogue: 0,0:01:46.58,0:01:46.82,P,,0,0,0,,PRODUCIR PARA {\c&H00D4FF&\fscx110\fscy110}VARIOS{\r} CLIENTES.
+Dialogue: 0,0:01:46.82,0:01:47.86,P,,0,0,0,,PRODUCIR PARA VARIOS {\c&H00D4FF&\fscx110\fscy110}CLIENTES.{\r}
+Dialogue: 0,0:01:47.86,0:01:48.08,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}HAY{\r} EXCEPCIONES.
+Dialogue: 0,0:01:48.08,0:01:49.20,P,,0,0,0,,HAY {\c&H00D4FF&\fscx110\fscy110}EXCEPCIONES.{\r}
+Dialogue: 0,0:01:49.20,0:01:49.34,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LOS{\r} HUEVOS CON CÓDIGO
+Dialogue: 0,0:01:49.34,0:01:49.62,P,,0,0,0,,LOS {\c&H00D4FF&\fscx110\fscy110}HUEVOS{\r} CON CÓDIGO
+Dialogue: 0,0:01:49.62,0:01:49.86,P,,0,0,0,,LOS HUEVOS {\c&H00D4FF&\fscx110\fscy110}CON{\r} CÓDIGO
+Dialogue: 0,0:01:49.86,0:01:50.10,P,,0,0,0,,LOS HUEVOS CON {\c&H00D4FF&\fscx110\fscy110}CÓDIGO{\r}
+Dialogue: 0,0:01:50.10,0:01:50.30,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DE{\r} CENTRO DE EMBALAJE
+Dialogue: 0,0:01:50.30,0:01:50.52,P,,0,0,0,,DE {\c&H00D4FF&\fscx110\fscy110}CENTRO{\r} DE EMBALAJE
+Dialogue: 0,0:01:50.52,0:01:50.68,P,,0,0,0,,DE CENTRO {\c&H00D4FF&\fscx110\fscy110}DE{\r} EMBALAJE
+Dialogue: 0,0:01:50.68,0:01:51.08,P,,0,0,0,,DE CENTRO DE {\c&H00D4FF&\fscx110\fscy110}EMBALAJE{\r}
+Dialogue: 0,0:01:51.08,0:01:51.48,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}NO{\r} LLEVAN ESA MARCA.
+Dialogue: 0,0:01:51.48,0:01:51.72,P,,0,0,0,,NO {\c&H00D4FF&\fscx110\fscy110}LLEVAN{\r} ESA MARCA.
+Dialogue: 0,0:01:51.72,0:01:51.92,P,,0,0,0,,NO LLEVAN {\c&H00D4FF&\fscx110\fscy110}ESA{\r} MARCA.
+Dialogue: 0,0:01:51.92,0:01:52.70,P,,0,0,0,,NO LLEVAN ESA {\c&H00D4FF&\fscx110\fscy110}MARCA.{\r}
+Dialogue: 0,0:01:52.70,0:01:53.00,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}TAMPOCO{\r} LOS PRODUCTOS COMPUESTOS
+Dialogue: 0,0:01:53.00,0:01:53.20,P,,0,0,0,,TAMPOCO {\c&H00D4FF&\fscx110\fscy110}LOS{\r} PRODUCTOS COMPUESTOS
+Dialogue: 0,0:01:53.20,0:01:53.48,P,,0,0,0,,TAMPOCO LOS {\c&H00D4FF&\fscx110\fscy110}PRODUCTOS{\r} COMPUESTOS
+Dialogue: 0,0:01:53.48,0:01:54.04,P,,0,0,0,,TAMPOCO LOS PRODUCTOS {\c&H00D4FF&\fscx110\fscy110}COMPUESTOS{\r}
+Dialogue: 0,0:01:54.04,0:01:54.28,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}QUE{\r} MEZCLAN INGREDIENTES ANIMALES
+Dialogue: 0,0:01:54.28,0:01:54.64,P,,0,0,0,,QUE {\c&H00D4FF&\fscx110\fscy110}MEZCLAN{\r} INGREDIENTES ANIMALES
+Dialogue: 0,0:01:54.64,0:01:55.14,P,,0,0,0,,QUE MEZCLAN {\c&H00D4FF&\fscx110\fscy110}INGREDIENTES{\r} ANIMALES
+Dialogue: 0,0:01:55.14,0:01:55.48,P,,0,0,0,,QUE MEZCLAN INGREDIENTES {\c&H00D4FF&\fscx110\fscy110}ANIMALES{\r}
+Dialogue: 0,0:01:55.48,0:01:55.70,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} VEGETALES,
+Dialogue: 0,0:01:55.70,0:01:56.16,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}VEGETALES,{\r}
+Dialogue: 0,0:01:56.16,0:01:56.74,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}COMO{\r} UNA PIZZA.
+Dialogue: 0,0:01:56.74,0:01:56.98,P,,0,0,0,,COMO {\c&H00D4FF&\fscx110\fscy110}UNA{\r} PIZZA.
+Dialogue: 0,0:01:56.98,0:01:57.68,P,,0,0,0,,COMO UNA {\c&H00D4FF&\fscx110\fscy110}PIZZA.{\r}
+Dialogue: 0,0:01:57.68,0:01:57.88,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} LOS PRODUCTOS VEGETALES,
+Dialogue: 0,0:01:57.88,0:01:58.04,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}LOS{\r} PRODUCTOS VEGETALES,
+Dialogue: 0,0:01:58.04,0:01:58.40,P,,0,0,0,,Y LOS {\c&H00D4FF&\fscx110\fscy110}PRODUCTOS{\r} VEGETALES,
+Dialogue: 0,0:01:58.40,0:01:59.28,P,,0,0,0,,Y LOS PRODUCTOS {\c&H00D4FF&\fscx110\fscy110}VEGETALES,{\r}
+Dialogue: 0,0:01:59.28,0:01:59.50,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}COMO{\r} LA PASTA O
+Dialogue: 0,0:01:59.50,0:01:59.64,P,,0,0,0,,COMO {\c&H00D4FF&\fscx110\fscy110}LA{\r} PASTA O
+Dialogue: 0,0:01:59.64,0:01:59.90,P,,0,0,0,,COMO LA {\c&H00D4FF&\fscx110\fscy110}PASTA{\r} O
+Dialogue: 0,0:01:59.90,0:02:00.04,P,,0,0,0,,COMO LA PASTA {\c&H00D4FF&\fscx110\fscy110}O{\r}
+Dialogue: 0,0:02:00.04,0:02:00.18,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LAS{\r} GALLETAS,
+Dialogue: 0,0:02:00.18,0:02:00.98,P,,0,0,0,,LAS {\c&H00D4FF&\fscx110\fscy110}GALLETAS,{\r}
+Dialogue: 0,0:02:00.98,0:02:01.10,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}NO{\r} TIENEN POR QUÉ
+Dialogue: 0,0:02:01.10,0:02:01.36,P,,0,0,0,,NO {\c&H00D4FF&\fscx110\fscy110}TIENEN{\r} POR QUÉ
+Dialogue: 0,0:02:01.36,0:02:01.54,P,,0,0,0,,NO TIENEN {\c&H00D4FF&\fscx110\fscy110}POR{\r} QUÉ
+Dialogue: 0,0:02:01.54,0:02:01.64,P,,0,0,0,,NO TIENEN POR {\c&H00D4FF&\fscx110\fscy110}QUÉ{\r}
+Dialogue: 0,0:02:01.64,0:02:02.46,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LLEVARLA.{\r}
+Dialogue: 0,0:02:02.46,0:02:03.34,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ENTONCES,{\r}
+Dialogue: 0,0:02:03.34,0:02:03.48,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}¿QUÉ{\r} SABEMOS DE VERDAD
+Dialogue: 0,0:02:03.48,0:02:03.82,P,,0,0,0,,¿QUÉ {\c&H00D4FF&\fscx110\fscy110}SABEMOS{\r} DE VERDAD
+Dialogue: 0,0:02:03.82,0:02:04.00,P,,0,0,0,,¿QUÉ SABEMOS {\c&H00D4FF&\fscx110\fscy110}DE{\r} VERDAD
+Dialogue: 0,0:02:04.00,0:02:04.24,P,,0,0,0,,¿QUÉ SABEMOS DE {\c&H00D4FF&\fscx110\fscy110}VERDAD{\r}
+Dialogue: 0,0:02:04.24,0:02:04.38,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DE{\r} LOS PROVEEDORES?
+Dialogue: 0,0:02:04.38,0:02:04.50,P,,0,0,0,,DE {\c&H00D4FF&\fscx110\fscy110}LOS{\r} PROVEEDORES?
+Dialogue: 0,0:02:04.50,0:02:05.48,P,,0,0,0,,DE LOS {\c&H00D4FF&\fscx110\fscy110}PROVEEDORES?{\r}
+Dialogue: 0,0:02:05.48,0:02:06.02,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MERCADONA{\r} DICE EN SU
+Dialogue: 0,0:02:06.02,0:02:06.24,P,,0,0,0,,MERCADONA {\c&H00D4FF&\fscx110\fscy110}DICE{\r} EN SU
+Dialogue: 0,0:02:06.24,0:02:06.40,P,,0,0,0,,MERCADONA DICE {\c&H00D4FF&\fscx110\fscy110}EN{\r} SU
+Dialogue: 0,0:02:06.40,0:02:06.50,P,,0,0,0,,MERCADONA DICE EN {\c&H00D4FF&\fscx110\fscy110}SU{\r}
+Dialogue: 0,0:02:06.50,0:02:06.82,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MEMORIA{\r} QUE TRABAJA CON
+Dialogue: 0,0:02:06.82,0:02:07.00,P,,0,0,0,,MEMORIA {\c&H00D4FF&\fscx110\fscy110}QUE{\r} TRABAJA CON
+Dialogue: 0,0:02:07.00,0:02:07.44,P,,0,0,0,,MEMORIA QUE {\c&H00D4FF&\fscx110\fscy110}TRABAJA{\r} CON
+Dialogue: 0,0:02:07.44,0:02:07.58,P,,0,0,0,,MEMORIA QUE TRABAJA {\c&H00D4FF&\fscx110\fscy110}CON{\r}
+Dialogue: 0,0:02:07.58,0:02:07.76,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MÁS{\r} DE DOS MIL
+Dialogue: 0,0:02:07.76,0:02:07.88,P,,0,0,0,,MÁS {\c&H00D4FF&\fscx110\fscy110}DE{\r} DOS MIL
+Dialogue: 0,0:02:07.88,0:02:07.98,P,,0,0,0,,MÁS DE {\c&H00D4FF&\fscx110\fscy110}DOS{\r} MIL
+Dialogue: 0,0:02:07.98,0:02:08.18,P,,0,0,0,,MÁS DE DOS {\c&H00D4FF&\fscx110\fscy110}MIL{\r}
+Dialogue: 0,0:02:08.18,0:02:08.70,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}PROVEEDORES{\r} E INTERPROVEEDORES ESPECIALISTAS.
+Dialogue: 0,0:02:08.70,0:02:09.00,P,,0,0,0,,PROVEEDORES {\c&H00D4FF&\fscx110\fscy110}E{\r} INTERPROVEEDORES ESPECIALISTAS.
+Dialogue: 0,0:02:09.00,0:02:09.72,P,,0,0,0,,PROVEEDORES E {\c&H00D4FF&\fscx110\fscy110}INTERPROVEEDORES{\r} ESPECIALISTAS.
+Dialogue: 0,0:02:09.72,0:02:10.88,P,,0,0,0,,PROVEEDORES E INTERPROVEEDORES {\c&H00D4FF&\fscx110\fscy110}ESPECIALISTAS.{\r}
+Dialogue: 0,0:02:10.88,0:02:11.12,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} QUE EL ECOSISTEMA
+Dialogue: 0,0:02:11.12,0:02:11.24,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}QUE{\r} EL ECOSISTEMA
+Dialogue: 0,0:02:11.24,0:02:11.36,P,,0,0,0,,Y QUE {\c&H00D4FF&\fscx110\fscy110}EL{\r} ECOSISTEMA
+Dialogue: 0,0:02:11.36,0:02:11.84,P,,0,0,0,,Y QUE EL {\c&H00D4FF&\fscx110\fscy110}ECOSISTEMA{\r}
+Dialogue: 0,0:02:11.84,0:02:12.28,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}COMPLETO,{\r}
+Dialogue: 0,0:02:12.28,0:02:12.70,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CON{\r} SERVICIOS Y TRANSPORTE,
+Dialogue: 0,0:02:12.70,0:02:13.04,P,,0,0,0,,CON {\c&H00D4FF&\fscx110\fscy110}SERVICIOS{\r} Y TRANSPORTE,
+Dialogue: 0,0:02:13.04,0:02:13.26,P,,0,0,0,,CON SERVICIOS {\c&H00D4FF&\fscx110\fscy110}Y{\r} TRANSPORTE,
+Dialogue: 0,0:02:13.26,0:02:13.82,P,,0,0,0,,CON SERVICIOS Y {\c&H00D4FF&\fscx110\fscy110}TRANSPORTE,{\r}
+Dialogue: 0,0:02:13.82,0:02:14.26,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}PASA{\r} DE CATORCE MIL.
+Dialogue: 0,0:02:14.26,0:02:14.46,P,,0,0,0,,PASA {\c&H00D4FF&\fscx110\fscy110}DE{\r} CATORCE MIL.
+Dialogue: 0,0:02:14.46,0:02:14.84,P,,0,0,0,,PASA DE {\c&H00D4FF&\fscx110\fscy110}CATORCE{\r} MIL.
+Dialogue: 0,0:02:14.84,0:02:15.60,P,,0,0,0,,PASA DE CATORCE {\c&H00D4FF&\fscx110\fscy110}MIL.{\r}
+Dialogue: 0,0:02:15.60,0:02:15.96,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EN{\r} DOS MIL VEINTICINCO,
+Dialogue: 0,0:02:15.96,0:02:16.34,P,,0,0,0,,EN {\c&H00D4FF&\fscx110\fscy110}DOS{\r} MIL VEINTICINCO,
+Dialogue: 0,0:02:16.34,0:02:16.73,P,,0,0,0,,EN DOS {\c&H00D4FF&\fscx110\fscy110}MIL{\r} VEINTICINCO,
+Dialogue: 0,0:02:16.73,0:02:17.50,P,,0,0,0,,EN DOS MIL {\c&H00D4FF&\fscx110\fscy110}VEINTICINCO,{\r}
+Dialogue: 0,0:02:17.50,0:02:17.78,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SEGÚN{\r} LA PROPIA CADENA,
+Dialogue: 0,0:02:17.78,0:02:18.02,P,,0,0,0,,SEGÚN {\c&H00D4FF&\fscx110\fscy110}LA{\r} PROPIA CADENA,
+Dialogue: 0,0:02:18.02,0:02:18.26,P,,0,0,0,,SEGÚN LA {\c&H00D4FF&\fscx110\fscy110}PROPIA{\r} CADENA,
+Dialogue: 0,0:02:18.26,0:02:19.18,P,,0,0,0,,SEGÚN LA PROPIA {\c&H00D4FF&\fscx110\fscy110}CADENA,{\r}
+Dialogue: 0,0:02:19.18,0:02:19.28,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SUS{\r} PROVEEDORES ESPECIALISTAS INVIRTIERON
+Dialogue: 0,0:02:19.28,0:02:19.74,P,,0,0,0,,SUS {\c&H00D4FF&\fscx110\fscy110}PROVEEDORES{\r} ESPECIALISTAS INVIRTIERON
+Dialogue: 0,0:02:19.74,0:02:20.50,P,,0,0,0,,SUS PROVEEDORES {\c&H00D4FF&\fscx110\fscy110}ESPECIALISTAS{\r} INVIRTIERON
+Dialogue: 0,0:02:20.50,0:02:21.12,P,,0,0,0,,SUS PROVEEDORES ESPECIALISTAS {\c&H00D4FF&\fscx110\fscy110}INVIRTIERON{\r}
+Dialogue: 0,0:02:21.12,0:02:21.35,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MIL{\r} SETECIENTOS MILLONES DE
+Dialogue: 0,0:02:21.35,0:02:21.80,P,,0,0,0,,MIL {\c&H00D4FF&\fscx110\fscy110}SETECIENTOS{\r} MILLONES DE
+Dialogue: 0,0:02:21.80,0:02:22.58,P,,0,0,0,,MIL SETECIENTOS {\c&H00D4FF&\fscx110\fscy110}MILLONES{\r} DE
+Dialogue: 0,0:02:22.58,0:02:22.94,P,,0,0,0,,MIL SETECIENTOS MILLONES {\c&H00D4FF&\fscx110\fscy110}DE{\r}
+Dialogue: 0,0:02:22.94,0:02:23.24,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EUROS{\r} Y CREARON CINCO
+Dialogue: 0,0:02:23.24,0:02:23.74,P,,0,0,0,,EUROS {\c&H00D4FF&\fscx110\fscy110}Y{\r} CREARON CINCO
+Dialogue: 0,0:02:23.74,0:02:24.18,P,,0,0,0,,EUROS Y {\c&H00D4FF&\fscx110\fscy110}CREARON{\r} CINCO
+Dialogue: 0,0:02:24.18,0:02:24.46,P,,0,0,0,,EUROS Y CREARON {\c&H00D4FF&\fscx110\fscy110}CINCO{\r}
+Dialogue: 0,0:02:24.46,0:02:24.74,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MIL{\r} DOSCIENTOS EMPLEOS.
+Dialogue: 0,0:02:24.74,0:02:25.30,P,,0,0,0,,MIL {\c&H00D4FF&\fscx110\fscy110}DOSCIENTOS{\r} EMPLEOS.
+Dialogue: 0,0:02:25.30,0:02:26.52,P,,0,0,0,,MIL DOSCIENTOS {\c&H00D4FF&\fscx110\fscy110}EMPLEOS.{\r}
+Dialogue: 0,0:02:26.52,0:02:26.84,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EL{\r} QUE MÁS INVIRTIÓ
+Dialogue: 0,0:02:26.84,0:02:26.96,P,,0,0,0,,EL {\c&H00D4FF&\fscx110\fscy110}QUE{\r} MÁS INVIRTIÓ
+Dialogue: 0,0:02:26.96,0:02:27.12,P,,0,0,0,,EL QUE {\c&H00D4FF&\fscx110\fscy110}MÁS{\r} INVIRTIÓ
+Dialogue: 0,0:02:27.12,0:02:27.62,P,,0,0,0,,EL QUE MÁS {\c&H00D4FF&\fscx110\fscy110}INVIRTIÓ{\r}
+Dialogue: 0,0:02:27.62,0:02:27.86,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}FUE{\r} CASA TARRADELLAS,
+Dialogue: 0,0:02:27.86,0:02:28.24,P,,0,0,0,,FUE {\c&H00D4FF&\fscx110\fscy110}CASA{\r} TARRADELLAS,
+Dialogue: 0,0:02:28.24,0:02:29.20,P,,0,0,0,,FUE CASA {\c&H00D4FF&\fscx110\fscy110}TARRADELLAS,{\r}
+Dialogue: 0,0:02:29.20,0:02:29.46,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CON{\r} CIENTO DIECISIETE MILLONES.
+Dialogue: 0,0:02:29.46,0:02:29.81,P,,0,0,0,,CON {\c&H00D4FF&\fscx110\fscy110}CIENTO{\r} DIECISIETE MILLONES.
+Dialogue: 0,0:02:29.81,0:02:30.50,P,,0,0,0,,CON CIENTO {\c&H00D4FF&\fscx110\fscy110}DIECISIETE{\r} MILLONES.
+Dialogue: 0,0:02:30.50,0:02:31.58,P,,0,0,0,,CON CIENTO DIECISIETE {\c&H00D4FF&\fscx110\fscy110}MILLONES.{\r}
+Dialogue: 0,0:02:31.58,0:02:31.72,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LE{\r} SIGUIERON VALL COMPANYS,
+Dialogue: 0,0:02:31.72,0:02:32.12,P,,0,0,0,,LE {\c&H00D4FF&\fscx110\fscy110}SIGUIERON{\r} VALL COMPANYS,
+Dialogue: 0,0:02:32.12,0:02:32.49,P,,0,0,0,,LE SIGUIERON {\c&H00D4FF&\fscx110\fscy110}VALL{\r} COMPANYS,
+Dialogue: 0,0:02:32.49,0:02:33.22,P,,0,0,0,,LE SIGUIERON VALL {\c&H00D4FF&\fscx110\fscy110}COMPANYS,{\r}
+Dialogue: 0,0:02:33.22,0:02:33.36,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CON{\r} SETENTA,
+Dialogue: 0,0:02:33.36,0:02:34.26,P,,0,0,0,,CON {\c&H00D4FF&\fscx110\fscy110}SETENTA,{\r}
+Dialogue: 0,0:02:34.26,0:02:34.38,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} AVINATUR E INCARLOPSA,
+Dialogue: 0,0:02:34.38,0:02:34.84,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}AVINATUR{\r} E INCARLOPSA,
+Dialogue: 0,0:02:34.84,0:02:35.24,P,,0,0,0,,Y AVINATUR {\c&H00D4FF&\fscx110\fscy110}E{\r} INCARLOPSA,
+Dialogue: 0,0:02:35.24,0:02:36.22,P,,0,0,0,,Y AVINATUR E {\c&H00D4FF&\fscx110\fscy110}INCARLOPSA,{\r}
+Dialogue: 0,0:02:36.22,0:02:36.44,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CON{\r} SESENTA CADA UNA.
+Dialogue: 0,0:02:36.44,0:02:36.74,P,,0,0,0,,CON {\c&H00D4FF&\fscx110\fscy110}SESENTA{\r} CADA UNA.
+Dialogue: 0,0:02:36.74,0:02:37.20,P,,0,0,0,,CON SESENTA {\c&H00D4FF&\fscx110\fscy110}CADA{\r} UNA.
+Dialogue: 0,0:02:37.20,0:02:38.22,P,,0,0,0,,CON SESENTA CADA {\c&H00D4FF&\fscx110\fscy110}UNA.{\r}
+Dialogue: 0,0:02:38.22,0:02:38.42,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} HAY OTRA FUENTE:
+Dialogue: 0,0:02:38.42,0:02:38.58,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}HAY{\r} OTRA FUENTE:
+Dialogue: 0,0:02:38.58,0:02:38.76,P,,0,0,0,,Y HAY {\c&H00D4FF&\fscx110\fscy110}OTRA{\r} FUENTE:
+Dialogue: 0,0:02:38.76,0:02:39.78,P,,0,0,0,,Y HAY OTRA {\c&H00D4FF&\fscx110\fscy110}FUENTE:{\r}
+Dialogue: 0,0:02:39.78,0:02:39.94,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LAS{\r} CUENTAS QUE LAS
+Dialogue: 0,0:02:39.94,0:02:40.38,P,,0,0,0,,LAS {\c&H00D4FF&\fscx110\fscy110}CUENTAS{\r} QUE LAS
+Dialogue: 0,0:02:40.38,0:02:40.54,P,,0,0,0,,LAS CUENTAS {\c&H00D4FF&\fscx110\fscy110}QUE{\r} LAS
+Dialogue: 0,0:02:40.54,0:02:40.68,P,,0,0,0,,LAS CUENTAS QUE {\c&H00D4FF&\fscx110\fscy110}LAS{\r}
+Dialogue: 0,0:02:40.68,0:02:41.06,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EMPRESAS{\r} DEPOSITAN EN EL
+Dialogue: 0,0:02:41.06,0:02:41.74,P,,0,0,0,,EMPRESAS {\c&H00D4FF&\fscx110\fscy110}DEPOSITAN{\r} EN EL
+Dialogue: 0,0:02:41.74,0:02:41.86,P,,0,0,0,,EMPRESAS DEPOSITAN {\c&H00D4FF&\fscx110\fscy110}EN{\r} EL
+Dialogue: 0,0:02:41.86,0:02:41.98,P,,0,0,0,,EMPRESAS DEPOSITAN EN {\c&H00D4FF&\fscx110\fscy110}EL{\r}
+Dialogue: 0,0:02:41.98,0:02:42.42,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}REGISTRO{\r} MERCANTIL.
+Dialogue: 0,0:02:42.42,0:02:43.46,P,,0,0,0,,REGISTRO {\c&H00D4FF&\fscx110\fscy110}MERCANTIL.{\r}
+Dialogue: 0,0:02:43.46,0:02:43.84,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SEGÚN{\r} EL DIARIO CINCO
+Dialogue: 0,0:02:43.84,0:02:43.98,P,,0,0,0,,SEGÚN {\c&H00D4FF&\fscx110\fscy110}EL{\r} DIARIO CINCO
+Dialogue: 0,0:02:43.98,0:02:44.26,P,,0,0,0,,SEGÚN EL {\c&H00D4FF&\fscx110\fscy110}DIARIO{\r} CINCO
+Dialogue: 0,0:02:44.26,0:02:44.66,P,,0,0,0,,SEGÚN EL DIARIO {\c&H00D4FF&\fscx110\fscy110}CINCO{\r}
+Dialogue: 0,0:02:44.66,0:02:45.40,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DÍAS,{\r}
+Dialogue: 0,0:02:45.40,0:02:45.48,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LOS{\r} VEINTE MAYORES PROVEEDORES
+Dialogue: 0,0:02:45.48,0:02:45.68,P,,0,0,0,,LOS {\c&H00D4FF&\fscx110\fscy110}VEINTE{\r} MAYORES PROVEEDORES
+Dialogue: 0,0:02:45.68,0:02:46.06,P,,0,0,0,,LOS VEINTE {\c&H00D4FF&\fscx110\fscy110}MAYORES{\r} PROVEEDORES
+Dialogue: 0,0:02:46.06,0:02:46.64,P,,0,0,0,,LOS VEINTE MAYORES {\c&H00D4FF&\fscx110\fscy110}PROVEEDORES{\r}
+Dialogue: 0,0:02:46.64,0:02:46.82,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DE{\r} MERCADONA FACTURARON MÁS
+Dialogue: 0,0:02:46.82,0:02:47.30,P,,0,0,0,,DE {\c&H00D4FF&\fscx110\fscy110}MERCADONA{\r} FACTURARON MÁS
+Dialogue: 0,0:02:47.30,0:02:48.08,P,,0,0,0,,DE MERCADONA {\c&H00D4FF&\fscx110\fscy110}FACTURARON{\r} MÁS
+Dialogue: 0,0:02:48.08,0:02:48.36,P,,0,0,0,,DE MERCADONA FACTURARON {\c&H00D4FF&\fscx110\fscy110}MÁS{\r}
+Dialogue: 0,0:02:48.36,0:02:48.58,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DE{\r} DOCE MIL MILLONES
+Dialogue: 0,0:02:48.58,0:02:48.77,P,,0,0,0,,DE {\c&H00D4FF&\fscx110\fscy110}DOCE{\r} MIL MILLONES
+Dialogue: 0,0:02:48.77,0:02:49.16,P,,0,0,0,,DE DOCE {\c&H00D4FF&\fscx110\fscy110}MIL{\r} MILLONES
+Dialogue: 0,0:02:49.16,0:02:49.62,P,,0,0,0,,DE DOCE MIL {\c&H00D4FF&\fscx110\fscy110}MILLONES{\r}
+Dialogue: 0,0:02:49.62,0:02:49.84,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DE{\r} EUROS EN DOS
+Dialogue: 0,0:02:49.84,0:02:50.08,P,,0,0,0,,DE {\c&H00D4FF&\fscx110\fscy110}EUROS{\r} EN DOS
+Dialogue: 0,0:02:50.08,0:02:50.36,P,,0,0,0,,DE EUROS {\c&H00D4FF&\fscx110\fscy110}EN{\r} DOS
+Dialogue: 0,0:02:50.36,0:02:50.69,P,,0,0,0,,DE EUROS EN {\c&H00D4FF&\fscx110\fscy110}DOS{\r}
+Dialogue: 0,0:02:50.69,0:02:51.02,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MIL{\r} VEINTICUATRO,
+Dialogue: 0,0:02:51.02,0:02:51.68,P,,0,0,0,,MIL {\c&H00D4FF&\fscx110\fscy110}VEINTICUATRO,{\r}
+Dialogue: 0,0:02:51.68,0:02:51.98,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}UN{\r} DIECIOCHO POR CIENTO
+Dialogue: 0,0:02:51.98,0:02:52.19,P,,0,0,0,,UN {\c&H00D4FF&\fscx110\fscy110}DIECIOCHO{\r} POR CIENTO
+Dialogue: 0,0:02:52.19,0:02:52.40,P,,0,0,0,,UN DIECIOCHO {\c&H00D4FF&\fscx110\fscy110}POR{\r} CIENTO
+Dialogue: 0,0:02:52.40,0:02:52.82,P,,0,0,0,,UN DIECIOCHO POR {\c&H00D4FF&\fscx110\fscy110}CIENTO{\r}
+Dialogue: 0,0:02:52.82,0:02:53.40,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MÁS{\r} QUE EN DOS
+Dialogue: 0,0:02:53.40,0:02:53.68,P,,0,0,0,,MÁS {\c&H00D4FF&\fscx110\fscy110}QUE{\r} EN DOS
+Dialogue: 0,0:02:53.68,0:02:53.84,P,,0,0,0,,MÁS QUE {\c&H00D4FF&\fscx110\fscy110}EN{\r} DOS
+Dialogue: 0,0:02:53.84,0:02:54.16,P,,0,0,0,,MÁS QUE EN {\c&H00D4FF&\fscx110\fscy110}DOS{\r}
+Dialogue: 0,0:02:54.16,0:02:54.48,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MIL{\r} VEINTIDÓS.
+Dialogue: 0,0:02:54.48,0:02:55.12,P,,0,0,0,,MIL {\c&H00D4FF&\fscx110\fscy110}VEINTIDÓS.{\r}
+Dialogue: 0,0:02:55.12,0:02:55.68,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CUATRO{\r} DE ELLOS SUPERARON
+Dialogue: 0,0:02:55.68,0:02:55.82,P,,0,0,0,,CUATRO {\c&H00D4FF&\fscx110\fscy110}DE{\r} ELLOS SUPERARON
+Dialogue: 0,0:02:55.82,0:02:56.02,P,,0,0,0,,CUATRO DE {\c&H00D4FF&\fscx110\fscy110}ELLOS{\r} SUPERARON
+Dialogue: 0,0:02:56.02,0:02:56.56,P,,0,0,0,,CUATRO DE ELLOS {\c&H00D4FF&\fscx110\fscy110}SUPERARON{\r}
+Dialogue: 0,0:02:56.56,0:02:56.76,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LOS{\r} MIL MILLONES:
+Dialogue: 0,0:02:56.76,0:02:57.06,P,,0,0,0,,LOS {\c&H00D4FF&\fscx110\fscy110}MIL{\r} MILLONES:
+Dialogue: 0,0:02:57.06,0:02:57.90,P,,0,0,0,,LOS MIL {\c&H00D4FF&\fscx110\fscy110}MILLONES:{\r}
+Dialogue: 0,0:02:57.90,0:02:58.20,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CASA{\r} TARRADELLAS,
+Dialogue: 0,0:02:58.20,0:02:59.24,P,,0,0,0,,CASA {\c&H00D4FF&\fscx110\fscy110}TARRADELLAS,{\r}
+Dialogue: 0,0:02:59.24,0:03:00.24,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}INCARLOPSA,{\r}
+Dialogue: 0,0:03:00.24,0:03:00.56,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}GARCÍA{\r} CARRIÓN Y COVAP.
+Dialogue: 0,0:03:00.56,0:03:00.98,P,,0,0,0,,GARCÍA {\c&H00D4FF&\fscx110\fscy110}CARRIÓN{\r} Y COVAP.
+Dialogue: 0,0:03:00.98,0:03:01.48,P,,0,0,0,,GARCÍA CARRIÓN {\c&H00D4FF&\fscx110\fscy110}Y{\r} COVAP.
+Dialogue: 0,0:03:01.48,0:03:02.44,P,,0,0,0,,GARCÍA CARRIÓN Y {\c&H00D4FF&\fscx110\fscy110}COVAP.{\r}
+Dialogue: 0,0:03:02.44,0:03:02.98,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}OJO{\r} CON LO QUE
+Dialogue: 0,0:03:02.98,0:03:03.18,P,,0,0,0,,OJO {\c&H00D4FF&\fscx110\fscy110}CON{\r} LO QUE
+Dialogue: 0,0:03:03.18,0:03:03.28,P,,0,0,0,,OJO CON {\c&H00D4FF&\fscx110\fscy110}LO{\r} QUE
+Dialogue: 0,0:03:03.28,0:03:03.38,P,,0,0,0,,OJO CON LO {\c&H00D4FF&\fscx110\fscy110}QUE{\r}
+Dialogue: 0,0:03:03.38,0:03:04.50,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SIGNIFICA.{\r}
+Dialogue: 0,0:03:04.50,0:03:04.64,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}QUE{\r} UNA EMPRESA SEA
+Dialogue: 0,0:03:04.64,0:03:04.78,P,,0,0,0,,QUE {\c&H00D4FF&\fscx110\fscy110}UNA{\r} EMPRESA SEA
+Dialogue: 0,0:03:04.78,0:03:05.08,P,,0,0,0,,QUE UNA {\c&H00D4FF&\fscx110\fscy110}EMPRESA{\r} SEA
+Dialogue: 0,0:03:05.08,0:03:05.34,P,,0,0,0,,QUE UNA EMPRESA {\c&H00D4FF&\fscx110\fscy110}SEA{\r}
+Dialogue: 0,0:03:05.34,0:03:05.84,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}PROVEEDORA{\r} DE MERCADONA NO
+Dialogue: 0,0:03:05.84,0:03:06.00,P,,0,0,0,,PROVEEDORA {\c&H00D4FF&\fscx110\fscy110}DE{\r} MERCADONA NO
+Dialogue: 0,0:03:06.00,0:03:06.44,P,,0,0,0,,PROVEEDORA DE {\c&H00D4FF&\fscx110\fscy110}MERCADONA{\r} NO
+Dialogue: 0,0:03:06.44,0:03:06.88,P,,0,0,0,,PROVEEDORA DE MERCADONA {\c&H00D4FF&\fscx110\fscy110}NO{\r}
+Dialogue: 0,0:03:06.88,0:03:07.04,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}QUIERE{\r} DECIR QUE TODO
+Dialogue: 0,0:03:07.04,0:03:07.30,P,,0,0,0,,QUIERE {\c&H00D4FF&\fscx110\fscy110}DECIR{\r} QUE TODO
+Dialogue: 0,0:03:07.30,0:03:07.50,P,,0,0,0,,QUIERE DECIR {\c&H00D4FF&\fscx110\fscy110}QUE{\r} TODO
+Dialogue: 0,0:03:07.50,0:03:07.70,P,,0,0,0,,QUIERE DECIR QUE {\c&H00D4FF&\fscx110\fscy110}TODO{\r}
+Dialogue: 0,0:03:07.70,0:03:07.88,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LO{\r} QUE VENDE SEA
+Dialogue: 0,0:03:07.88,0:03:07.98,P,,0,0,0,,LO {\c&H00D4FF&\fscx110\fscy110}QUE{\r} VENDE SEA
+Dialogue: 0,0:03:07.98,0:03:08.22,P,,0,0,0,,LO QUE {\c&H00D4FF&\fscx110\fscy110}VENDE{\r} SEA
+Dialogue: 0,0:03:08.22,0:03:08.48,P,,0,0,0,,LO QUE VENDE {\c&H00D4FF&\fscx110\fscy110}SEA{\r}
+Dialogue: 0,0:03:08.48,0:03:08.76,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MARCA{\r} BLANCA,
+Dialogue: 0,0:03:08.76,0:03:09.34,P,,0,0,0,,MARCA {\c&H00D4FF&\fscx110\fscy110}BLANCA,{\r}
+Dialogue: 0,0:03:09.34,0:03:09.56,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}NI{\r} QUE TODO LO
+Dialogue: 0,0:03:09.56,0:03:09.70,P,,0,0,0,,NI {\c&H00D4FF&\fscx110\fscy110}QUE{\r} TODO LO
+Dialogue: 0,0:03:09.70,0:03:09.88,P,,0,0,0,,NI QUE {\c&H00D4FF&\fscx110\fscy110}TODO{\r} LO
+Dialogue: 0,0:03:09.88,0:03:10.06,P,,0,0,0,,NI QUE TODO {\c&H00D4FF&\fscx110\fscy110}LO{\r}
+Dialogue: 0,0:03:10.06,0:03:10.16,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}QUE{\r} VENDE LO COMPRE
+Dialogue: 0,0:03:10.16,0:03:10.42,P,,0,0,0,,QUE {\c&H00D4FF&\fscx110\fscy110}VENDE{\r} LO COMPRE
+Dialogue: 0,0:03:10.42,0:03:10.58,P,,0,0,0,,QUE VENDE {\c&H00D4FF&\fscx110\fscy110}LO{\r} COMPRE
+Dialogue: 0,0:03:10.58,0:03:10.88,P,,0,0,0,,QUE VENDE LO {\c&H00D4FF&\fscx110\fscy110}COMPRE{\r}
+Dialogue: 0,0:03:10.88,0:03:11.74,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MERCADONA.{\r}
+Dialogue: 0,0:03:11.74,0:03:11.98,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LA{\r} CIFRA INCLUYE OTROS
+Dialogue: 0,0:03:11.98,0:03:12.32,P,,0,0,0,,LA {\c&H00D4FF&\fscx110\fscy110}CIFRA{\r} INCLUYE OTROS
+Dialogue: 0,0:03:12.32,0:03:12.80,P,,0,0,0,,LA CIFRA {\c&H00D4FF&\fscx110\fscy110}INCLUYE{\r} OTROS
+Dialogue: 0,0:03:12.80,0:03:13.02,P,,0,0,0,,LA CIFRA INCLUYE {\c&H00D4FF&\fscx110\fscy110}OTROS{\r}
+Dialogue: 0,0:03:13.02,0:03:14.22,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CLIENTES.{\r}
+Dialogue: 0,0:03:14.22,0:03:14.44,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}AUN{\r} ASÍ,
+Dialogue: 0,0:03:14.44,0:03:15.26,P,,0,0,0,,AUN {\c&H00D4FF&\fscx110\fscy110}ASÍ,{\r}
+Dialogue: 0,0:03:15.26,0:03:15.44,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}HAY{\r} UN DATO REVELADOR:
+Dialogue: 0,0:03:15.44,0:03:15.60,P,,0,0,0,,HAY {\c&H00D4FF&\fscx110\fscy110}UN{\r} DATO REVELADOR:
+Dialogue: 0,0:03:15.60,0:03:15.82,P,,0,0,0,,HAY UN {\c&H00D4FF&\fscx110\fscy110}DATO{\r} REVELADOR:
+Dialogue: 0,0:03:15.82,0:03:16.94,P,,0,0,0,,HAY UN DATO {\c&H00D4FF&\fscx110\fscy110}REVELADOR:{\r}
+Dialogue: 0,0:03:16.94,0:03:17.40,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ALGUNAS{\r} DE ESTAS EMPRESAS
+Dialogue: 0,0:03:17.40,0:03:17.50,P,,0,0,0,,ALGUNAS {\c&H00D4FF&\fscx110\fscy110}DE{\r} ESTAS EMPRESAS
+Dialogue: 0,0:03:17.50,0:03:17.68,P,,0,0,0,,ALGUNAS DE {\c&H00D4FF&\fscx110\fscy110}ESTAS{\r} EMPRESAS
+Dialogue: 0,0:03:17.68,0:03:18.12,P,,0,0,0,,ALGUNAS DE ESTAS {\c&H00D4FF&\fscx110\fscy110}EMPRESAS{\r}
+Dialogue: 0,0:03:18.12,0:03:18.64,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DECLARAN{\r} QUE ENTRE EL
+Dialogue: 0,0:03:18.64,0:03:18.80,P,,0,0,0,,DECLARAN {\c&H00D4FF&\fscx110\fscy110}QUE{\r} ENTRE EL
+Dialogue: 0,0:03:18.80,0:03:19.04,P,,0,0,0,,DECLARAN QUE {\c&H00D4FF&\fscx110\fscy110}ENTRE{\r} EL
+Dialogue: 0,0:03:19.04,0:03:19.20,P,,0,0,0,,DECLARAN QUE ENTRE {\c&H00D4FF&\fscx110\fscy110}EL{\r}
+Dialogue: 0,0:03:19.20,0:03:19.32,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CINCUENTA{\r} Y TRES Y
+Dialogue: 0,0:03:19.32,0:03:19.44,P,,0,0,0,,CINCUENTA {\c&H00D4FF&\fscx110\fscy110}Y{\r} TRES Y
+Dialogue: 0,0:03:19.44,0:03:19.68,P,,0,0,0,,CINCUENTA Y {\c&H00D4FF&\fscx110\fscy110}TRES{\r} Y
+Dialogue: 0,0:03:19.68,0:03:20.32,P,,0,0,0,,CINCUENTA Y TRES {\c&H00D4FF&\fscx110\fscy110}Y{\r}
+Dialogue: 0,0:03:20.32,0:03:20.46,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EL{\r} NOVENTA Y CUATRO
+Dialogue: 0,0:03:20.46,0:03:20.63,P,,0,0,0,,EL {\c&H00D4FF&\fscx110\fscy110}NOVENTA{\r} Y CUATRO
+Dialogue: 0,0:03:20.63,0:03:20.79,P,,0,0,0,,EL NOVENTA {\c&H00D4FF&\fscx110\fscy110}Y{\r} CUATRO
+Dialogue: 0,0:03:20.79,0:03:20.96,P,,0,0,0,,EL NOVENTA Y {\c&H00D4FF&\fscx110\fscy110}CUATRO{\r}
+Dialogue: 0,0:03:20.96,0:03:21.13,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}POR{\r} CIENTO DE SUS
+Dialogue: 0,0:03:21.13,0:03:21.46,P,,0,0,0,,POR {\c&H00D4FF&\fscx110\fscy110}CIENTO{\r} DE SUS
+Dialogue: 0,0:03:21.46,0:03:21.80,P,,0,0,0,,POR CIENTO {\c&H00D4FF&\fscx110\fscy110}DE{\r} SUS
+Dialogue: 0,0:03:21.80,0:03:21.98,P,,0,0,0,,POR CIENTO DE {\c&H00D4FF&\fscx110\fscy110}SUS{\r}
+Dialogue: 0,0:03:21.98,0:03:22.38,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}VENTAS{\r} DEPENDEN DE MERCADONA.
+Dialogue: 0,0:03:22.38,0:03:23.10,P,,0,0,0,,VENTAS {\c&H00D4FF&\fscx110\fscy110}DEPENDEN{\r} DE MERCADONA.
+Dialogue: 0,0:03:23.10,0:03:23.26,P,,0,0,0,,VENTAS DEPENDEN {\c&H00D4FF&\fscx110\fscy110}DE{\r} MERCADONA.
+Dialogue: 0,0:03:23.26,0:03:24.24,P,,0,0,0,,VENTAS DEPENDEN DE {\c&H00D4FF&\fscx110\fscy110}MERCADONA.{\r}
+Dialogue: 0,0:03:24.24,0:03:24.46,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EL{\r} DIARIO NO DICE
+Dialogue: 0,0:03:24.46,0:03:24.76,P,,0,0,0,,EL {\c&H00D4FF&\fscx110\fscy110}DIARIO{\r} NO DICE
+Dialogue: 0,0:03:24.76,0:03:25.10,P,,0,0,0,,EL DIARIO {\c&H00D4FF&\fscx110\fscy110}NO{\r} DICE
+Dialogue: 0,0:03:25.10,0:03:25.34,P,,0,0,0,,EL DIARIO NO {\c&H00D4FF&\fscx110\fscy110}DICE{\r}
+Dialogue: 0,0:03:25.34,0:03:26.42,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CUÁLES.{\r}
+Dialogue: 0,0:03:26.42,0:03:26.76,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} AHORA,
+Dialogue: 0,0:03:26.76,0:03:27.44,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}AHORA,{\r}
+Dialogue: 0,0:03:27.44,0:03:27.58,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LA{\r} CUENTA QUE NOS
+Dialogue: 0,0:03:27.58,0:03:27.92,P,,0,0,0,,LA {\c&H00D4FF&\fscx110\fscy110}CUENTA{\r} QUE NOS
+Dialogue: 0,0:03:27.92,0:03:28.12,P,,0,0,0,,LA CUENTA {\c&H00D4FF&\fscx110\fscy110}QUE{\r} NOS
+Dialogue: 0,0:03:28.12,0:03:28.26,P,,0,0,0,,LA CUENTA QUE {\c&H00D4FF&\fscx110\fscy110}NOS{\r}
+Dialogue: 0,0:03:28.26,0:03:29.16,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}GUSTA.{\r}
+Dialogue: 0,0:03:29.16,0:03:29.32,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LOS{\r} BENEFICIOS DE ESOS
+Dialogue: 0,0:03:29.32,0:03:29.86,P,,0,0,0,,LOS {\c&H00D4FF&\fscx110\fscy110}BENEFICIOS{\r} DE ESOS
+Dialogue: 0,0:03:29.86,0:03:30.02,P,,0,0,0,,LOS BENEFICIOS {\c&H00D4FF&\fscx110\fscy110}DE{\r} ESOS
+Dialogue: 0,0:03:30.02,0:03:30.22,P,,0,0,0,,LOS BENEFICIOS DE {\c&H00D4FF&\fscx110\fscy110}ESOS{\r}
+Dialogue: 0,0:03:30.22,0:03:30.48,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}VEINTE{\r} PROVEEDORES SUMARON MÁS
+Dialogue: 0,0:03:30.48,0:03:31.12,P,,0,0,0,,VEINTE {\c&H00D4FF&\fscx110\fscy110}PROVEEDORES{\r} SUMARON MÁS
+Dialogue: 0,0:03:31.12,0:03:31.68,P,,0,0,0,,VEINTE PROVEEDORES {\c&H00D4FF&\fscx110\fscy110}SUMARON{\r} MÁS
+Dialogue: 0,0:03:31.68,0:03:31.96,P,,0,0,0,,VEINTE PROVEEDORES SUMARON {\c&H00D4FF&\fscx110\fscy110}MÁS{\r}
+Dialogue: 0,0:03:31.96,0:03:32.14,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DE{\r} TRESCIENTOS SESENTA MILLONES.
+Dialogue: 0,0:03:32.14,0:03:32.35,P,,0,0,0,,DE {\c&H00D4FF&\fscx110\fscy110}TRESCIENTOS{\r} SESENTA MILLONES.
+Dialogue: 0,0:03:32.35,0:03:32.78,P,,0,0,0,,DE TRESCIENTOS {\c&H00D4FF&\fscx110\fscy110}SESENTA{\r} MILLONES.
+Dialogue: 0,0:03:32.78,0:03:34.02,P,,0,0,0,,DE TRESCIENTOS SESENTA {\c&H00D4FF&\fscx110\fscy110}MILLONES.{\r}
+Dialogue: 0,0:03:34.02,0:03:34.28,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SI{\r} DIVIDIMOS ENTRE SUS
+Dialogue: 0,0:03:34.28,0:03:34.74,P,,0,0,0,,SI {\c&H00D4FF&\fscx110\fscy110}DIVIDIMOS{\r} ENTRE SUS
+Dialogue: 0,0:03:34.74,0:03:35.00,P,,0,0,0,,SI DIVIDIMOS {\c&H00D4FF&\fscx110\fscy110}ENTRE{\r} SUS
+Dialogue: 0,0:03:35.00,0:03:35.26,P,,0,0,0,,SI DIVIDIMOS ENTRE {\c&H00D4FF&\fscx110\fscy110}SUS{\r}
+Dialogue: 0,0:03:35.26,0:03:35.92,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}VENTAS,{\r}
+Dialogue: 0,0:03:35.92,0:03:36.08,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SON{\r} UNOS TRES CÉNTIMOS
+Dialogue: 0,0:03:36.08,0:03:36.28,P,,0,0,0,,SON {\c&H00D4FF&\fscx110\fscy110}UNOS{\r} TRES CÉNTIMOS
+Dialogue: 0,0:03:36.28,0:03:36.62,P,,0,0,0,,SON UNOS {\c&H00D4FF&\fscx110\fscy110}TRES{\r} CÉNTIMOS
+Dialogue: 0,0:03:36.62,0:03:37.12,P,,0,0,0,,SON UNOS TRES {\c&H00D4FF&\fscx110\fscy110}CÉNTIMOS{\r}
+Dialogue: 0,0:03:37.12,0:03:37.38,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}POR{\r} CADA EURO.
+Dialogue: 0,0:03:37.38,0:03:37.54,P,,0,0,0,,POR {\c&H00D4FF&\fscx110\fscy110}CADA{\r} EURO.
+Dialogue: 0,0:03:37.54,0:03:38.38,P,,0,0,0,,POR CADA {\c&H00D4FF&\fscx110\fscy110}EURO.{\r}
+Dialogue: 0,0:03:38.38,0:03:39.16,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MERCADONA,{\r}
+Dialogue: 0,0:03:39.16,0:03:39.34,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EN{\r} SU ÚLTIMO EJERCICIO,
+Dialogue: 0,0:03:39.34,0:03:39.48,P,,0,0,0,,EN {\c&H00D4FF&\fscx110\fscy110}SU{\r} ÚLTIMO EJERCICIO,
+Dialogue: 0,0:03:39.48,0:03:39.76,P,,0,0,0,,EN SU {\c&H00D4FF&\fscx110\fscy110}ÚLTIMO{\r} EJERCICIO,
+Dialogue: 0,0:03:39.76,0:03:40.60,P,,0,0,0,,EN SU ÚLTIMO {\c&H00D4FF&\fscx110\fscy110}EJERCICIO,{\r}
+Dialogue: 0,0:03:40.60,0:03:40.74,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SE{\r} QUEDÓ CON UNOS
+Dialogue: 0,0:03:40.74,0:03:41.04,P,,0,0,0,,SE {\c&H00D4FF&\fscx110\fscy110}QUEDÓ{\r} CON UNOS
+Dialogue: 0,0:03:41.04,0:03:41.28,P,,0,0,0,,SE QUEDÓ {\c&H00D4FF&\fscx110\fscy110}CON{\r} UNOS
+Dialogue: 0,0:03:41.28,0:03:41.46,P,,0,0,0,,SE QUEDÓ CON {\c&H00D4FF&\fscx110\fscy110}UNOS{\r}
+Dialogue: 0,0:03:41.46,0:03:42.42,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CUATRO.{\r}
+Dialogue: 0,0:03:42.42,0:03:42.72,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ES{\r} UN CÁLCULO NUESTRO,
+Dialogue: 0,0:03:42.72,0:03:42.86,P,,0,0,0,,ES {\c&H00D4FF&\fscx110\fscy110}UN{\r} CÁLCULO NUESTRO,
+Dialogue: 0,0:03:42.86,0:03:43.16,P,,0,0,0,,ES UN {\c&H00D4FF&\fscx110\fscy110}CÁLCULO{\r} NUESTRO,
+Dialogue: 0,0:03:43.16,0:03:43.88,P,,0,0,0,,ES UN CÁLCULO {\c&H00D4FF&\fscx110\fscy110}NUESTRO,{\r}
+Dialogue: 0,0:03:43.88,0:03:44.04,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CON{\r} EJERCICIOS DISTINTOS Y
+Dialogue: 0,0:03:44.04,0:03:44.52,P,,0,0,0,,CON {\c&H00D4FF&\fscx110\fscy110}EJERCICIOS{\r} DISTINTOS Y
+Dialogue: 0,0:03:44.52,0:03:44.94,P,,0,0,0,,CON EJERCICIOS {\c&H00D4FF&\fscx110\fscy110}DISTINTOS{\r} Y
+Dialogue: 0,0:03:44.94,0:03:45.38,P,,0,0,0,,CON EJERCICIOS DISTINTOS {\c&H00D4FF&\fscx110\fscy110}Y{\r}
+Dialogue: 0,0:03:45.38,0:03:45.56,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CON{\r} VENTAS QUE NO
+Dialogue: 0,0:03:45.56,0:03:45.90,P,,0,0,0,,CON {\c&H00D4FF&\fscx110\fscy110}VENTAS{\r} QUE NO
+Dialogue: 0,0:03:45.90,0:03:46.04,P,,0,0,0,,CON VENTAS {\c&H00D4FF&\fscx110\fscy110}QUE{\r} NO
+Dialogue: 0,0:03:46.04,0:03:46.18,P,,0,0,0,,CON VENTAS QUE {\c&H00D4FF&\fscx110\fscy110}NO{\r}
+Dialogue: 0,0:03:46.18,0:03:46.42,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SON{\r} SOLO A MERCADONA,
+Dialogue: 0,0:03:46.42,0:03:46.66,P,,0,0,0,,SON {\c&H00D4FF&\fscx110\fscy110}SOLO{\r} A MERCADONA,
+Dialogue: 0,0:03:46.66,0:03:46.76,P,,0,0,0,,SON SOLO {\c&H00D4FF&\fscx110\fscy110}A{\r} MERCADONA,
+Dialogue: 0,0:03:46.76,0:03:47.24,P,,0,0,0,,SON SOLO A {\c&H00D4FF&\fscx110\fscy110}MERCADONA,{\r}
+Dialogue: 0,0:03:47.24,0:03:47.70,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ASÍ{\r} QUE HAY QUE
+Dialogue: 0,0:03:47.70,0:03:47.90,P,,0,0,0,,ASÍ {\c&H00D4FF&\fscx110\fscy110}QUE{\r} HAY QUE
+Dialogue: 0,0:03:47.90,0:03:48.04,P,,0,0,0,,ASÍ QUE {\c&H00D4FF&\fscx110\fscy110}HAY{\r} QUE
+Dialogue: 0,0:03:48.04,0:03:48.14,P,,0,0,0,,ASÍ QUE HAY {\c&H00D4FF&\fscx110\fscy110}QUE{\r}
+Dialogue: 0,0:03:48.14,0:03:48.52,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}TOMARLO{\r} CON PRUDENCIA.
+Dialogue: 0,0:03:48.52,0:03:48.72,P,,0,0,0,,TOMARLO {\c&H00D4FF&\fscx110\fscy110}CON{\r} PRUDENCIA.
+Dialogue: 0,0:03:48.72,0:03:49.76,P,,0,0,0,,TOMARLO CON {\c&H00D4FF&\fscx110\fscy110}PRUDENCIA.{\r}
+Dialogue: 0,0:03:49.76,0:03:49.81,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}PERO{\r} SUGIERE QUE EL
+Dialogue: 0,0:03:49.80,0:03:50.22,P,,0,0,0,,PERO {\c&H00D4FF&\fscx110\fscy110}SUGIERE{\r} QUE EL
+Dialogue: 0,0:03:50.22,0:03:50.38,P,,0,0,0,,PERO SUGIERE {\c&H00D4FF&\fscx110\fscy110}QUE{\r} EL
+Dialogue: 0,0:03:50.38,0:03:50.48,P,,0,0,0,,PERO SUGIERE QUE {\c&H00D4FF&\fscx110\fscy110}EL{\r}
+Dialogue: 0,0:03:50.48,0:03:50.84,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MARGEN{\r} DE QUIEN FABRICA
+Dialogue: 0,0:03:50.84,0:03:50.98,P,,0,0,0,,MARGEN {\c&H00D4FF&\fscx110\fscy110}DE{\r} QUIEN FABRICA
+Dialogue: 0,0:03:50.98,0:03:51.14,P,,0,0,0,,MARGEN DE {\c&H00D4FF&\fscx110\fscy110}QUIEN{\r} FABRICA
+Dialogue: 0,0:03:51.14,0:03:51.64,P,,0,0,0,,MARGEN DE QUIEN {\c&H00D4FF&\fscx110\fscy110}FABRICA{\r}
+Dialogue: 0,0:03:51.64,0:03:52.02,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}NO{\r} ES MAYOR QUE
+Dialogue: 0,0:03:52.02,0:03:52.16,P,,0,0,0,,NO {\c&H00D4FF&\fscx110\fscy110}ES{\r} MAYOR QUE
+Dialogue: 0,0:03:52.16,0:03:52.50,P,,0,0,0,,NO ES {\c&H00D4FF&\fscx110\fscy110}MAYOR{\r} QUE
+Dialogue: 0,0:03:52.50,0:03:52.70,P,,0,0,0,,NO ES MAYOR {\c&H00D4FF&\fscx110\fscy110}QUE{\r}
+Dialogue: 0,0:03:52.70,0:03:52.80,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EL{\r} DE QUIEN VENDE.
+Dialogue: 0,0:03:52.80,0:03:52.88,P,,0,0,0,,EL {\c&H00D4FF&\fscx110\fscy110}DE{\r} QUIEN VENDE.
+Dialogue: 0,0:03:52.88,0:03:53.04,P,,0,0,0,,EL DE {\c&H00D4FF&\fscx110\fscy110}QUIEN{\r} VENDE.
+Dialogue: 0,0:03:53.04,0:03:53.90,P,,0,0,0,,EL DE QUIEN {\c&H00D4FF&\fscx110\fscy110}VENDE.{\r}
+Dialogue: 0,0:03:53.90,0:03:54.24,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}VAMOS{\r} CON LO QUE
+Dialogue: 0,0:03:54.24,0:03:54.52,P,,0,0,0,,VAMOS {\c&H00D4FF&\fscx110\fscy110}CON{\r} LO QUE
+Dialogue: 0,0:03:54.52,0:03:54.62,P,,0,0,0,,VAMOS CON {\c&H00D4FF&\fscx110\fscy110}LO{\r} QUE
+Dialogue: 0,0:03:54.62,0:03:54.76,P,,0,0,0,,VAMOS CON LO {\c&H00D4FF&\fscx110\fscy110}QUE{\r}
+Dialogue: 0,0:03:54.76,0:03:54.88,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}NO{\r} SABEMOS.
+Dialogue: 0,0:03:54.88,0:03:55.86,P,,0,0,0,,NO {\c&H00D4FF&\fscx110\fscy110}SABEMOS.{\r}
+Dialogue: 0,0:03:55.86,0:03:56.06,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}NO{\r} HEMOS ENCONTRADO NINGUNA
+Dialogue: 0,0:03:56.06,0:03:56.20,P,,0,0,0,,NO {\c&H00D4FF&\fscx110\fscy110}HEMOS{\r} ENCONTRADO NINGUNA
+Dialogue: 0,0:03:56.20,0:03:56.72,P,,0,0,0,,NO HEMOS {\c&H00D4FF&\fscx110\fscy110}ENCONTRADO{\r} NINGUNA
+Dialogue: 0,0:03:56.72,0:03:57.04,P,,0,0,0,,NO HEMOS ENCONTRADO {\c&H00D4FF&\fscx110\fscy110}NINGUNA{\r}
+Dialogue: 0,0:03:57.04,0:03:57.38,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LISTA{\r} PÚBLICA OFICIAL QUE
+Dialogue: 0,0:03:57.38,0:03:57.76,P,,0,0,0,,LISTA {\c&H00D4FF&\fscx110\fscy110}PÚBLICA{\r} OFICIAL QUE
+Dialogue: 0,0:03:57.76,0:03:58.26,P,,0,0,0,,LISTA PÚBLICA {\c&H00D4FF&\fscx110\fscy110}OFICIAL{\r} QUE
+Dialogue: 0,0:03:58.26,0:03:58.52,P,,0,0,0,,LISTA PÚBLICA OFICIAL {\c&H00D4FF&\fscx110\fscy110}QUE{\r}
+Dialogue: 0,0:03:58.52,0:03:58.80,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DIGA{\r} QUÉ FÁBRICA HACE
+Dialogue: 0,0:03:58.80,0:03:58.98,P,,0,0,0,,DIGA {\c&H00D4FF&\fscx110\fscy110}QUÉ{\r} FÁBRICA HACE
+Dialogue: 0,0:03:58.98,0:03:59.48,P,,0,0,0,,DIGA QUÉ {\c&H00D4FF&\fscx110\fscy110}FÁBRICA{\r} HACE
+Dialogue: 0,0:03:59.48,0:03:59.80,P,,0,0,0,,DIGA QUÉ FÁBRICA {\c&H00D4FF&\fscx110\fscy110}HACE{\r}
+Dialogue: 0,0:03:59.80,0:04:00.06,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CADA{\r} PRODUCTO DE MERCADONA.
+Dialogue: 0,0:04:00.06,0:04:00.44,P,,0,0,0,,CADA {\c&H00D4FF&\fscx110\fscy110}PRODUCTO{\r} DE MERCADONA.
+Dialogue: 0,0:04:00.44,0:04:00.62,P,,0,0,0,,CADA PRODUCTO {\c&H00D4FF&\fscx110\fscy110}DE{\r} MERCADONA.
+Dialogue: 0,0:04:00.62,0:04:01.34,P,,0,0,0,,CADA PRODUCTO DE {\c&H00D4FF&\fscx110\fscy110}MERCADONA.{\r}
+Dialogue: 0,0:04:01.34,0:04:01.74,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}NI{\r} LA MEMORIA DE
+Dialogue: 0,0:04:01.74,0:04:01.86,P,,0,0,0,,NI {\c&H00D4FF&\fscx110\fscy110}LA{\r} MEMORIA DE
+Dialogue: 0,0:04:01.86,0:04:02.22,P,,0,0,0,,NI LA {\c&H00D4FF&\fscx110\fscy110}MEMORIA{\r} DE
+Dialogue: 0,0:04:02.22,0:04:02.36,P,,0,0,0,,NI LA MEMORIA {\c&H00D4FF&\fscx110\fscy110}DE{\r}
+Dialogue: 0,0:04:02.36,0:04:02.44,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LA{\r} EMPRESA NI LA
+Dialogue: 0,0:04:02.44,0:04:02.76,P,,0,0,0,,LA {\c&H00D4FF&\fscx110\fscy110}EMPRESA{\r} NI LA
+Dialogue: 0,0:04:02.76,0:04:03.02,P,,0,0,0,,LA EMPRESA {\c&H00D4FF&\fscx110\fscy110}NI{\r} LA
+Dialogue: 0,0:04:03.02,0:04:03.16,P,,0,0,0,,LA EMPRESA NI {\c&H00D4FF&\fscx110\fscy110}LA{\r}
+Dialogue: 0,0:04:03.16,0:04:03.50,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}PRENSA{\r} LA DAN.
+Dialogue: 0,0:04:03.50,0:04:03.60,P,,0,0,0,,PRENSA {\c&H00D4FF&\fscx110\fscy110}LA{\r} DAN.
+Dialogue: 0,0:04:03.60,0:04:04.24,P,,0,0,0,,PRENSA LA {\c&H00D4FF&\fscx110\fscy110}DAN.{\r}
+Dialogue: 0,0:04:04.24,0:04:04.44,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}POR{\r} ESO EN ESTE
+Dialogue: 0,0:04:04.44,0:04:04.62,P,,0,0,0,,POR {\c&H00D4FF&\fscx110\fscy110}ESO{\r} EN ESTE
+Dialogue: 0,0:04:04.62,0:04:04.76,P,,0,0,0,,POR ESO {\c&H00D4FF&\fscx110\fscy110}EN{\r} ESTE
+Dialogue: 0,0:04:04.76,0:04:04.94,P,,0,0,0,,POR ESO EN {\c&H00D4FF&\fscx110\fscy110}ESTE{\r}
+Dialogue: 0,0:04:04.94,0:04:05.20,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}VÍDEO{\r} NO TE VAMOS
+Dialogue: 0,0:04:05.20,0:04:05.46,P,,0,0,0,,VÍDEO {\c&H00D4FF&\fscx110\fscy110}NO{\r} TE VAMOS
+Dialogue: 0,0:04:05.46,0:04:05.62,P,,0,0,0,,VÍDEO NO {\c&H00D4FF&\fscx110\fscy110}TE{\r} VAMOS
+Dialogue: 0,0:04:05.62,0:04:05.80,P,,0,0,0,,VÍDEO NO TE {\c&H00D4FF&\fscx110\fscy110}VAMOS{\r}
+Dialogue: 0,0:04:05.80,0:04:06.00,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}A{\r} DECIR QUE TAL
+Dialogue: 0,0:04:06.00,0:04:06.22,P,,0,0,0,,A {\c&H00D4FF&\fscx110\fscy110}DECIR{\r} QUE TAL
+Dialogue: 0,0:04:06.22,0:04:06.44,P,,0,0,0,,A DECIR {\c&H00D4FF&\fscx110\fscy110}QUE{\r} TAL
+Dialogue: 0,0:04:06.44,0:04:06.66,P,,0,0,0,,A DECIR QUE {\c&H00D4FF&\fscx110\fscy110}TAL{\r}
+Dialogue: 0,0:04:06.66,0:04:07.02,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EMPRESA{\r} FABRICA TAL PRODUCTO.
+Dialogue: 0,0:04:07.02,0:04:07.60,P,,0,0,0,,EMPRESA {\c&H00D4FF&\fscx110\fscy110}FABRICA{\r} TAL PRODUCTO.
+Dialogue: 0,0:04:07.60,0:04:07.76,P,,0,0,0,,EMPRESA FABRICA {\c&H00D4FF&\fscx110\fscy110}TAL{\r} PRODUCTO.
+Dialogue: 0,0:04:07.76,0:04:08.68,P,,0,0,0,,EMPRESA FABRICA TAL {\c&H00D4FF&\fscx110\fscy110}PRODUCTO.{\r}
+Dialogue: 0,0:04:08.68,0:04:08.98,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ESO{\r} NO LO SABEMOS.
+Dialogue: 0,0:04:08.98,0:04:09.28,P,,0,0,0,,ESO {\c&H00D4FF&\fscx110\fscy110}NO{\r} LO SABEMOS.
+Dialogue: 0,0:04:09.28,0:04:09.42,P,,0,0,0,,ESO NO {\c&H00D4FF&\fscx110\fscy110}LO{\r} SABEMOS.
+Dialogue: 0,0:04:09.42,0:04:10.28,P,,0,0,0,,ESO NO LO {\c&H00D4FF&\fscx110\fscy110}SABEMOS.{\r}
+Dialogue: 0,0:04:10.28,0:04:10.46,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} QUIEN TE LO
+Dialogue: 0,0:04:10.46,0:04:10.62,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}QUIEN{\r} TE LO
+Dialogue: 0,0:04:10.62,0:04:10.76,P,,0,0,0,,Y QUIEN {\c&H00D4FF&\fscx110\fscy110}TE{\r} LO
+Dialogue: 0,0:04:10.76,0:04:10.88,P,,0,0,0,,Y QUIEN TE {\c&H00D4FF&\fscx110\fscy110}LO{\r}
+Dialogue: 0,0:04:10.88,0:04:11.12,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DIGA{\r} SIN ENSEÑARTE EL
+Dialogue: 0,0:04:11.12,0:04:11.30,P,,0,0,0,,DIGA {\c&H00D4FF&\fscx110\fscy110}SIN{\r} ENSEÑARTE EL
+Dialogue: 0,0:04:11.30,0:04:11.80,P,,0,0,0,,DIGA SIN {\c&H00D4FF&\fscx110\fscy110}ENSEÑARTE{\r} EL
+Dialogue: 0,0:04:11.80,0:04:11.90,P,,0,0,0,,DIGA SIN ENSEÑARTE {\c&H00D4FF&\fscx110\fscy110}EL{\r}
+Dialogue: 0,0:04:11.90,0:04:12.68,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DOCUMENTO,{\r}
+Dialogue: 0,0:04:12.68,0:04:13.68,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}TAMPOCO.{\r}
+Dialogue: 0,0:04:13.68,0:04:13.96,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LO{\r} QUE SÍ PUEDES
+Dialogue: 0,0:04:13.96,0:04:14.06,P,,0,0,0,,LO {\c&H00D4FF&\fscx110\fscy110}QUE{\r} SÍ PUEDES
+Dialogue: 0,0:04:14.06,0:04:14.18,P,,0,0,0,,LO QUE {\c&H00D4FF&\fscx110\fscy110}SÍ{\r} PUEDES
+Dialogue: 0,0:04:14.18,0:04:14.38,P,,0,0,0,,LO QUE SÍ {\c&H00D4FF&\fscx110\fscy110}PUEDES{\r}
+Dialogue: 0,0:04:14.38,0:04:14.70,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}HACER{\r} ES MIRAR EL
+Dialogue: 0,0:04:14.70,0:04:14.90,P,,0,0,0,,HACER {\c&H00D4FF&\fscx110\fscy110}ES{\r} MIRAR EL
+Dialogue: 0,0:04:14.90,0:04:15.20,P,,0,0,0,,HACER ES {\c&H00D4FF&\fscx110\fscy110}MIRAR{\r} EL
+Dialogue: 0,0:04:15.20,0:04:15.34,P,,0,0,0,,HACER ES MIRAR {\c&H00D4FF&\fscx110\fscy110}EL{\r}
+Dialogue: 0,0:04:15.34,0:04:15.64,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ÓVALO{\r} DE TU ETIQUETA,
+Dialogue: 0,0:04:15.64,0:04:15.74,P,,0,0,0,,ÓVALO {\c&H00D4FF&\fscx110\fscy110}DE{\r} TU ETIQUETA,
+Dialogue: 0,0:04:15.74,0:04:15.86,P,,0,0,0,,ÓVALO DE {\c&H00D4FF&\fscx110\fscy110}TU{\r} ETIQUETA,
+Dialogue: 0,0:04:15.86,0:04:16.26,P,,0,0,0,,ÓVALO DE TU {\c&H00D4FF&\fscx110\fscy110}ETIQUETA,{\r}
+Dialogue: 0,0:04:16.26,0:04:17.16,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}APUNTAR{\r} EL NÚMERO Y
+Dialogue: 0,0:04:17.16,0:04:17.28,P,,0,0,0,,APUNTAR {\c&H00D4FF&\fscx110\fscy110}EL{\r} NÚMERO Y
+Dialogue: 0,0:04:17.28,0:04:17.52,P,,0,0,0,,APUNTAR EL {\c&H00D4FF&\fscx110\fscy110}NÚMERO{\r} Y
+Dialogue: 0,0:04:17.52,0:04:17.98,P,,0,0,0,,APUNTAR EL NÚMERO {\c&H00D4FF&\fscx110\fscy110}Y{\r}
+Dialogue: 0,0:04:17.98,0:04:18.54,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CONSULTAR{\r} EL REGISTRO.
+Dialogue: 0,0:04:18.54,0:04:18.64,P,,0,0,0,,CONSULTAR {\c&H00D4FF&\fscx110\fscy110}EL{\r} REGISTRO.
+Dialogue: 0,0:04:18.64,0:04:19.46,P,,0,0,0,,CONSULTAR EL {\c&H00D4FF&\fscx110\fscy110}REGISTRO.{\r}
+Dialogue: 0,0:04:19.46,0:04:19.80,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ES{\r} LA ÚNICA PISTA
+Dialogue: 0,0:04:19.80,0:04:19.96,P,,0,0,0,,ES {\c&H00D4FF&\fscx110\fscy110}LA{\r} ÚNICA PISTA
+Dialogue: 0,0:04:19.96,0:04:20.24,P,,0,0,0,,ES LA {\c&H00D4FF&\fscx110\fscy110}ÚNICA{\r} PISTA
+Dialogue: 0,0:04:20.24,0:04:20.54,P,,0,0,0,,ES LA ÚNICA {\c&H00D4FF&\fscx110\fscy110}PISTA{\r}
+Dialogue: 0,0:04:20.54,0:04:21.02,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}OFICIAL{\r} QUE LA LEY
+Dialogue: 0,0:04:21.02,0:04:21.22,P,,0,0,0,,OFICIAL {\c&H00D4FF&\fscx110\fscy110}QUE{\r} LA LEY
+Dialogue: 0,0:04:21.22,0:04:21.36,P,,0,0,0,,OFICIAL QUE {\c&H00D4FF&\fscx110\fscy110}LA{\r} LEY
+Dialogue: 0,0:04:21.36,0:04:21.54,P,,0,0,0,,OFICIAL QUE LA {\c&H00D4FF&\fscx110\fscy110}LEY{\r}
+Dialogue: 0,0:04:21.54,0:04:21.70,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}TE{\r} DA.
+Dialogue: 0,0:04:21.70,0:04:22.38,P,,0,0,0,,TE {\c&H00D4FF&\fscx110\fscy110}DA.{\r}
+Dialogue: 0,0:04:22.38,0:04:22.80,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ASÍ{\r} QUE,
+Dialogue: 0,0:04:22.80,0:04:23.00,P,,0,0,0,,ASÍ {\c&H00D4FF&\fscx110\fscy110}QUE,{\r}
+Dialogue: 0,0:04:23.00,0:04:23.22,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LA{\r} PRÓXIMA VEZ QUE
+Dialogue: 0,0:04:23.22,0:04:23.48,P,,0,0,0,,LA {\c&H00D4FF&\fscx110\fscy110}PRÓXIMA{\r} VEZ QUE
+Dialogue: 0,0:04:23.48,0:04:23.82,P,,0,0,0,,LA PRÓXIMA {\c&H00D4FF&\fscx110\fscy110}VEZ{\r} QUE
+Dialogue: 0,0:04:23.82,0:04:23.96,P,,0,0,0,,LA PRÓXIMA VEZ {\c&H00D4FF&\fscx110\fscy110}QUE{\r}
+Dialogue: 0,0:04:23.96,0:04:24.30,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}COJAS{\r} UN PRODUCTO DE
+Dialogue: 0,0:04:24.30,0:04:24.44,P,,0,0,0,,COJAS {\c&H00D4FF&\fscx110\fscy110}UN{\r} PRODUCTO DE
+Dialogue: 0,0:04:24.44,0:04:24.76,P,,0,0,0,,COJAS UN {\c&H00D4FF&\fscx110\fscy110}PRODUCTO{\r} DE
+Dialogue: 0,0:04:24.76,0:04:24.94,P,,0,0,0,,COJAS UN PRODUCTO {\c&H00D4FF&\fscx110\fscy110}DE{\r}
+Dialogue: 0,0:04:24.94,0:04:25.10,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MARCA{\r} BLANCA,
+Dialogue: 0,0:04:25.10,0:04:25.96,P,,0,0,0,,MARCA {\c&H00D4FF&\fscx110\fscy110}BLANCA,{\r}
+Dialogue: 0,0:04:25.96,0:04:26.20,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}PIENSA{\r} EN SU VIAJE.
+Dialogue: 0,0:04:26.20,0:04:26.34,P,,0,0,0,,PIENSA {\c&H00D4FF&\fscx110\fscy110}EN{\r} SU VIAJE.
+Dialogue: 0,0:04:26.34,0:04:26.46,P,,0,0,0,,PIENSA EN {\c&H00D4FF&\fscx110\fscy110}SU{\r} VIAJE.
+Dialogue: 0,0:04:26.46,0:04:27.50,P,,0,0,0,,PIENSA EN SU {\c&H00D4FF&\fscx110\fscy110}VIAJE.{\r}
+Dialogue: 0,0:04:27.50,0:04:27.66,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EN{\r} LA ETIQUETA,
+Dialogue: 0,0:04:27.66,0:04:27.80,P,,0,0,0,,EN {\c&H00D4FF&\fscx110\fscy110}LA{\r} ETIQUETA,
+Dialogue: 0,0:04:27.80,0:04:28.62,P,,0,0,0,,EN LA {\c&H00D4FF&\fscx110\fscy110}ETIQUETA,{\r}
+Dialogue: 0,0:04:28.62,0:04:28.74,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EL{\r} NOMBRE DE QUIEN
+Dialogue: 0,0:04:28.74,0:04:29.02,P,,0,0,0,,EL {\c&H00D4FF&\fscx110\fscy110}NOMBRE{\r} DE QUIEN
+Dialogue: 0,0:04:29.02,0:04:29.20,P,,0,0,0,,EL NOMBRE {\c&H00D4FF&\fscx110\fscy110}DE{\r} QUIEN
+Dialogue: 0,0:04:29.20,0:04:29.36,P,,0,0,0,,EL NOMBRE DE {\c&H00D4FF&\fscx110\fscy110}QUIEN{\r}
+Dialogue: 0,0:04:29.36,0:04:29.50,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LO{\r} VENDE.
+Dialogue: 0,0:04:29.50,0:04:30.28,P,,0,0,0,,LO {\c&H00D4FF&\fscx110\fscy110}VENDE.{\r}
+Dialogue: 0,0:04:30.28,0:04:30.48,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EN{\r} EL ÓVALO,
+Dialogue: 0,0:04:30.48,0:04:30.60,P,,0,0,0,,EN {\c&H00D4FF&\fscx110\fscy110}EL{\r} ÓVALO,
+Dialogue: 0,0:04:30.60,0:04:31.04,P,,0,0,0,,EN EL {\c&H00D4FF&\fscx110\fscy110}ÓVALO,{\r}
+Dialogue: 0,0:04:31.04,0:04:31.10,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SI{\r} LO LLEVA,
+Dialogue: 0,0:04:31.10,0:04:31.20,P,,0,0,0,,SI {\c&H00D4FF&\fscx110\fscy110}LO{\r} LLEVA,
+Dialogue: 0,0:04:31.20,0:04:31.76,P,,0,0,0,,SI LO {\c&H00D4FF&\fscx110\fscy110}LLEVA,{\r}
+Dialogue: 0,0:04:31.76,0:04:31.88,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EL{\r} NÚMERO DE LA
+Dialogue: 0,0:04:31.88,0:04:32.16,P,,0,0,0,,EL {\c&H00D4FF&\fscx110\fscy110}NÚMERO{\r} DE LA
+Dialogue: 0,0:04:32.16,0:04:32.32,P,,0,0,0,,EL NÚMERO {\c&H00D4FF&\fscx110\fscy110}DE{\r} LA
+Dialogue: 0,0:04:32.32,0:04:32.42,P,,0,0,0,,EL NÚMERO DE {\c&H00D4FF&\fscx110\fscy110}LA{\r}
+Dialogue: 0,0:04:32.42,0:04:33.32,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}FÁBRICA.{\r}
+Dialogue: 0,0:04:33.32,0:04:33.48,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} DETRÁS,
+Dialogue: 0,0:04:33.48,0:04:34.14,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}DETRÁS,{\r}
+Dialogue: 0,0:04:34.14,0:04:34.46,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MILES{\r} DE PROVEEDORES QUE
+Dialogue: 0,0:04:34.46,0:04:34.68,P,,0,0,0,,MILES {\c&H00D4FF&\fscx110\fscy110}DE{\r} PROVEEDORES QUE
+Dialogue: 0,0:04:34.68,0:04:35.12,P,,0,0,0,,MILES DE {\c&H00D4FF&\fscx110\fscy110}PROVEEDORES{\r} QUE
+Dialogue: 0,0:04:35.12,0:04:35.34,P,,0,0,0,,MILES DE PROVEEDORES {\c&H00D4FF&\fscx110\fscy110}QUE{\r}
+Dialogue: 0,0:04:35.34,0:04:35.72,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}GANAN,{\r}
+Dialogue: 0,0:04:35.72,0:04:36.00,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DE{\r} MEDIA,
+Dialogue: 0,0:04:36.00,0:04:36.32,P,,0,0,0,,DE {\c&H00D4FF&\fscx110\fscy110}MEDIA,{\r}
+Dialogue: 0,0:04:36.32,0:04:36.80,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}UNOS{\r} TRES CÉNTIMOS POR
+Dialogue: 0,0:04:36.80,0:04:37.16,P,,0,0,0,,UNOS {\c&H00D4FF&\fscx110\fscy110}TRES{\r} CÉNTIMOS POR
+Dialogue: 0,0:04:37.16,0:04:37.60,P,,0,0,0,,UNOS TRES {\c&H00D4FF&\fscx110\fscy110}CÉNTIMOS{\r} POR
+Dialogue: 0,0:04:37.60,0:04:37.86,P,,0,0,0,,UNOS TRES CÉNTIMOS {\c&H00D4FF&\fscx110\fscy110}POR{\r}
+Dialogue: 0,0:04:37.86,0:04:38.62,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EURO.{\r}
+Dialogue: 0,0:04:38.62,0:04:38.88,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LA{\r} MARCA BLANCA NO
+Dialogue: 0,0:04:38.88,0:04:39.06,P,,0,0,0,,LA {\c&H00D4FF&\fscx110\fscy110}MARCA{\r} BLANCA NO
+Dialogue: 0,0:04:39.06,0:04:39.42,P,,0,0,0,,LA MARCA {\c&H00D4FF&\fscx110\fscy110}BLANCA{\r} NO
+Dialogue: 0,0:04:39.42,0:04:39.64,P,,0,0,0,,LA MARCA BLANCA {\c&H00D4FF&\fscx110\fscy110}NO{\r}
+Dialogue: 0,0:04:39.64,0:04:39.96,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}TIENE{\r} UN ÚNICO FABRICANTE:
+Dialogue: 0,0:04:39.96,0:04:40.18,P,,0,0,0,,TIENE {\c&H00D4FF&\fscx110\fscy110}UN{\r} ÚNICO FABRICANTE:
+Dialogue: 0,0:04:40.18,0:04:40.42,P,,0,0,0,,TIENE UN {\c&H00D4FF&\fscx110\fscy110}ÚNICO{\r} FABRICANTE:
+Dialogue: 0,0:04:40.42,0:04:41.36,P,,0,0,0,,TIENE UN ÚNICO {\c&H00D4FF&\fscx110\fscy110}FABRICANTE:{\r}
+Dialogue: 0,0:04:41.36,0:04:41.70,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}TIENE{\r} MILES DE ELLOS.
+Dialogue: 0,0:04:41.70,0:04:42.12,P,,0,0,0,,TIENE {\c&H00D4FF&\fscx110\fscy110}MILES{\r} DE ELLOS.
+Dialogue: 0,0:04:42.12,0:04:42.36,P,,0,0,0,,TIENE MILES {\c&H00D4FF&\fscx110\fscy110}DE{\r} ELLOS.
+Dialogue: 0,0:04:42.36,0:04:43.22,P,,0,0,0,,TIENE MILES DE {\c&H00D4FF&\fscx110\fscy110}ELLOS.{\r}
+Dialogue: 0,0:04:43.22,0:04:43.50,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LA{\r} PREGUNTA YA NO
+Dialogue: 0,0:04:43.50,0:04:43.76,P,,0,0,0,,LA {\c&H00D4FF&\fscx110\fscy110}PREGUNTA{\r} YA NO
+Dialogue: 0,0:04:43.76,0:04:44.08,P,,0,0,0,,LA PREGUNTA {\c&H00D4FF&\fscx110\fscy110}YA{\r} NO
+Dialogue: 0,0:04:44.08,0:04:44.26,P,,0,0,0,,LA PREGUNTA YA {\c&H00D4FF&\fscx110\fscy110}NO{\r}
+Dialogue: 0,0:04:44.26,0:04:44.44,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ES{\r} QUIÉN FABRICA TU
+Dialogue: 0,0:04:44.44,0:04:44.58,P,,0,0,0,,ES {\c&H00D4FF&\fscx110\fscy110}QUIÉN{\r} FABRICA TU
+Dialogue: 0,0:04:44.58,0:04:45.00,P,,0,0,0,,ES QUIÉN {\c&H00D4FF&\fscx110\fscy110}FABRICA{\r} TU
+Dialogue: 0,0:04:45.00,0:04:45.12,P,,0,0,0,,ES QUIÉN FABRICA {\c&H00D4FF&\fscx110\fscy110}TU{\r}
+Dialogue: 0,0:04:45.12,0:04:45.44,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}PRODUCTO.{\r}
+Dialogue: 0,0:04:45.44,0:04:46.18,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ES{\r} POR QUÉ LA
+Dialogue: 0,0:04:46.18,0:04:46.29,P,,0,0,0,,ES {\c&H00D4FF&\fscx110\fscy110}POR{\r} QUÉ LA
+Dialogue: 0,0:04:46.29,0:04:46.52,P,,0,0,0,,ES POR {\c&H00D4FF&\fscx110\fscy110}QUÉ{\r} LA
+Dialogue: 0,0:04:46.52,0:04:46.92,P,,0,0,0,,ES POR QUÉ {\c&H00D4FF&\fscx110\fscy110}LA{\r}
+Dialogue: 0,0:04:46.92,0:04:47.14,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LEY{\r} DEJA QUE NO
+Dialogue: 0,0:04:47.14,0:04:47.42,P,,0,0,0,,LEY {\c&H00D4FF&\fscx110\fscy110}DEJA{\r} QUE NO
+Dialogue: 0,0:04:47.42,0:04:47.58,P,,0,0,0,,LEY DEJA {\c&H00D4FF&\fscx110\fscy110}QUE{\r} NO
+Dialogue: 0,0:04:47.58,0:04:47.68,P,,0,0,0,,LEY DEJA QUE {\c&H00D4FF&\fscx110\fscy110}NO{\r}
+Dialogue: 0,0:04:47.68,0:04:47.80,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LO{\r} SEPAS.
+Dialogue: 0,0:04:47.80,0:04:48.60,P,,0,0,0,,LO {\c&H00D4FF&\fscx110\fscy110}SEPAS.{\r}
+Dialogue: 0,0:04:48.60,0:04:49.06,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CADA{\r} SEMANA ABRIMOS EL
+Dialogue: 0,0:04:49.06,0:04:49.44,P,,0,0,0,,CADA {\c&H00D4FF&\fscx110\fscy110}SEMANA{\r} ABRIMOS EL
+Dialogue: 0,0:04:49.44,0:04:50.28,P,,0,0,0,,CADA SEMANA {\c&H00D4FF&\fscx110\fscy110}ABRIMOS{\r} EL
+Dialogue: 0,0:04:50.28,0:04:50.42,P,,0,0,0,,CADA SEMANA ABRIMOS {\c&H00D4FF&\fscx110\fscy110}EL{\r}
+Dialogue: 0,0:04:50.42,0:04:50.68,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}TICKET{\r} DE ALGO QUE
+Dialogue: 0,0:04:50.68,0:04:50.92,P,,0,0,0,,TICKET {\c&H00D4FF&\fscx110\fscy110}DE{\r} ALGO QUE
+Dialogue: 0,0:04:50.92,0:04:51.14,P,,0,0,0,,TICKET DE {\c&H00D4FF&\fscx110\fscy110}ALGO{\r} QUE
+Dialogue: 0,0:04:51.14,0:04:51.34,P,,0,0,0,,TICKET DE ALGO {\c&H00D4FF&\fscx110\fscy110}QUE{\r}
+Dialogue: 0,0:04:51.34,0:04:51.74,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}PAGAS{\r} TODOS LOS DÍAS.
+Dialogue: 0,0:04:51.74,0:04:52.00,P,,0,0,0,,PAGAS {\c&H00D4FF&\fscx110\fscy110}TODOS{\r} LOS DÍAS.
+Dialogue: 0,0:04:52.00,0:04:52.30,P,,0,0,0,,PAGAS TODOS {\c&H00D4FF&\fscx110\fscy110}LOS{\r} DÍAS.
+Dialogue: 0,0:04:52.30,0:04:53.08,P,,0,0,0,,PAGAS TODOS LOS {\c&H00D4FF&\fscx110\fscy110}DÍAS.{\r}
+Dialogue: 0,0:04:53.08,0:04:53.46,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} EL PRÓXIMO…
+Dialogue: 0,0:04:53.46,0:04:53.62,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}EL{\r} PRÓXIMO…
+Dialogue: 0,0:04:53.62,0:04:54.00,P,,0,0,0,,Y EL {\c&H00D4FF&\fscx110\fscy110}PRÓXIMO…{\r}
+Dialogue: 0,0:04:54.00,0:04:55.08,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}TE{\r} VA A SORPRENDER
+Dialogue: 0,0:04:55.08,0:04:55.26,P,,0,0,0,,TE {\c&H00D4FF&\fscx110\fscy110}VA{\r} A SORPRENDER
+Dialogue: 0,0:04:55.26,0:04:55.32,P,,0,0,0,,TE VA {\c&H00D4FF&\fscx110\fscy110}A{\r} SORPRENDER
+Dialogue: 0,0:04:55.32,0:04:55.90,P,,0,0,0,,TE VA A {\c&H00D4FF&\fscx110\fscy110}SORPRENDER{\r}
+Dialogue: 0,0:04:55.90,0:04:56.20,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}TODAVÍA{\r} MÁS.
+Dialogue: 0,0:04:56.20,0:04:56.96,P,,0,0,0,,TODAVÍA {\c&H00D4FF&\fscx110\fscy110}MÁS.{\r}
