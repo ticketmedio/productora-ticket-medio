@@ -1,0 +1,6 @@
+file '/Users/antoniofuster/Downloads/faceless/youtube/video_011_cepsa_moeve/real/voz_00.wav'
+file '/Users/antoniofuster/Downloads/faceless/youtube/video_011_cepsa_moeve/real/pausa.wav'
+file '/Users/antoniofuster/Downloads/faceless/youtube/video_011_cepsa_moeve/real/voz_01.wav'
+file '/Users/antoniofuster/Downloads/faceless/youtube/video_011_cepsa_moeve/real/pausa.wav'
+file '/Users/antoniofuster/Downloads/faceless/youtube/video_011_cepsa_moeve/real/voz_02.wav'
+file '/Users/antoniofuster/Downloads/faceless/youtube/video_011_cepsa_moeve/real/pausa.wav'

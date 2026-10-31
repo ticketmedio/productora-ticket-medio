@@ -1,0 +1,71 @@
+[Script Info]
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: P,Archivo Black,82,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,6,3,2,60,60,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.15,0:00:00.25,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LOS{\r} ESTADOS DE LA
+Dialogue: 0,0:00:00.25,0:00:00.55,P,,0,0,0,,LOS {\c&H00D4FF&\fscx110\fscy110}ESTADOS{\r} DE LA
+Dialogue: 0,0:00:00.55,0:00:00.69,P,,0,0,0,,LOS ESTADOS {\c&H00D4FF&\fscx110\fscy110}DE{\r} LA
+Dialogue: 0,0:00:00.69,0:00:00.79,P,,0,0,0,,LOS ESTADOS DE {\c&H00D4FF&\fscx110\fscy110}LA{\r}
+Dialogue: 0,0:00:00.79,0:00:00.95,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}UNIÓN{\r} EUROPEA DEBEN APLICAR
+Dialogue: 0,0:00:00.95,0:00:01.43,P,,0,0,0,,UNIÓN {\c&H00D4FF&\fscx110\fscy110}EUROPEA{\r} DEBEN APLICAR
+Dialogue: 0,0:00:01.43,0:00:01.67,P,,0,0,0,,UNIÓN EUROPEA {\c&H00D4FF&\fscx110\fscy110}DEBEN{\r} APLICAR
+Dialogue: 0,0:00:01.67,0:00:02.09,P,,0,0,0,,UNIÓN EUROPEA DEBEN {\c&H00D4FF&\fscx110\fscy110}APLICAR{\r}
+Dialogue: 0,0:00:02.09,0:00:02.21,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}UNA{\r} DIRECTIVA QUE PROHÍBE,
+Dialogue: 0,0:00:02.21,0:00:02.65,P,,0,0,0,,UNA {\c&H00D4FF&\fscx110\fscy110}DIRECTIVA{\r} QUE PROHÍBE,
+Dialogue: 0,0:00:02.65,0:00:02.85,P,,0,0,0,,UNA DIRECTIVA {\c&H00D4FF&\fscx110\fscy110}QUE{\r} PROHÍBE,
+Dialogue: 0,0:00:02.85,0:00:03.41,P,,0,0,0,,UNA DIRECTIVA QUE {\c&H00D4FF&\fscx110\fscy110}PROHÍBE,{\r}
+Dialogue: 0,0:00:03.41,0:00:03.57,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ENTRE{\r} OTRAS COSAS,
+Dialogue: 0,0:00:03.57,0:00:03.83,P,,0,0,0,,ENTRE {\c&H00D4FF&\fscx110\fscy110}OTRAS{\r} COSAS,
+Dialogue: 0,0:00:03.83,0:00:04.59,P,,0,0,0,,ENTRE OTRAS {\c&H00D4FF&\fscx110\fscy110}COSAS,{\r}
+Dialogue: 0,0:00:04.59,0:00:04.71,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LAS{\r} AFIRMACIONES MEDIOAMBIENTALES GENÉRICAS,
+Dialogue: 0,0:00:04.71,0:00:05.23,P,,0,0,0,,LAS {\c&H00D4FF&\fscx110\fscy110}AFIRMACIONES{\r} MEDIOAMBIENTALES GENÉRICAS,
+Dialogue: 0,0:00:05.23,0:00:05.93,P,,0,0,0,,LAS AFIRMACIONES {\c&H00D4FF&\fscx110\fscy110}MEDIOAMBIENTALES{\r} GENÉRICAS,
+Dialogue: 0,0:00:05.93,0:00:06.77,P,,0,0,0,,LAS AFIRMACIONES MEDIOAMBIENTALES {\c&H00D4FF&\fscx110\fscy110}GENÉRICAS,{\r}
+Dialogue: 0,0:00:06.77,0:00:07.05,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}COMO{\r} «RESPETUOSO CON EL
+Dialogue: 0,0:00:07.05,0:00:07.75,P,,0,0,0,,COMO {\c&H00D4FF&\fscx110\fscy110}«RESPETUOSO{\r} CON EL
+Dialogue: 0,0:00:07.75,0:00:07.99,P,,0,0,0,,COMO «RESPETUOSO {\c&H00D4FF&\fscx110\fscy110}CON{\r} EL
+Dialogue: 0,0:00:07.99,0:00:08.09,P,,0,0,0,,COMO «RESPETUOSO CON {\c&H00D4FF&\fscx110\fscy110}EL{\r}
+Dialogue: 0,0:00:08.09,0:00:08.37,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CLIMA»{\r} O «VERDE»,
+Dialogue: 0,0:00:08.37,0:00:08.65,P,,0,0,0,,CLIMA» {\c&H00D4FF&\fscx110\fscy110}O{\r} «VERDE»,
+Dialogue: 0,0:00:08.65,0:00:09.37,P,,0,0,0,,CLIMA» O {\c&H00D4FF&\fscx110\fscy110}«VERDE»,{\r}
+Dialogue: 0,0:00:09.37,0:00:09.51,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SI{\r} NO SE DEMUESTRA
+Dialogue: 0,0:00:09.51,0:00:09.61,P,,0,0,0,,SI {\c&H00D4FF&\fscx110\fscy110}NO{\r} SE DEMUESTRA
+Dialogue: 0,0:00:09.61,0:00:09.73,P,,0,0,0,,SI NO {\c&H00D4FF&\fscx110\fscy110}SE{\r} DEMUESTRA
+Dialogue: 0,0:00:09.73,0:00:10.15,P,,0,0,0,,SI NO SE {\c&H00D4FF&\fscx110\fscy110}DEMUESTRA{\r}
+Dialogue: 0,0:00:10.15,0:00:10.29,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}UN{\r} COMPORTAMIENTO MEDIOAMBIENTAL EXCELENTE.
+Dialogue: 0,0:00:10.29,0:00:10.89,P,,0,0,0,,UN {\c&H00D4FF&\fscx110\fscy110}COMPORTAMIENTO{\r} MEDIOAMBIENTAL EXCELENTE.
+Dialogue: 0,0:00:10.89,0:00:11.57,P,,0,0,0,,UN COMPORTAMIENTO {\c&H00D4FF&\fscx110\fscy110}MEDIOAMBIENTAL{\r} EXCELENTE.
+Dialogue: 0,0:00:11.57,0:00:12.47,P,,0,0,0,,UN COMPORTAMIENTO MEDIOAMBIENTAL {\c&H00D4FF&\fscx110\fscy110}EXCELENTE.{\r}
+Dialogue: 0,0:00:12.47,0:00:12.83,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}TAMBIÉN{\r} PROHÍBE PRESENTAR TODA
+Dialogue: 0,0:00:12.83,0:00:13.21,P,,0,0,0,,TAMBIÉN {\c&H00D4FF&\fscx110\fscy110}PROHÍBE{\r} PRESENTAR TODA
+Dialogue: 0,0:00:13.21,0:00:13.75,P,,0,0,0,,TAMBIÉN PROHÍBE {\c&H00D4FF&\fscx110\fscy110}PRESENTAR{\r} TODA
+Dialogue: 0,0:00:13.75,0:00:13.91,P,,0,0,0,,TAMBIÉN PROHÍBE PRESENTAR {\c&H00D4FF&\fscx110\fscy110}TODA{\r}
+Dialogue: 0,0:00:13.91,0:00:14.07,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}UNA{\r} EMPRESA COMO VERDE
+Dialogue: 0,0:00:14.07,0:00:14.41,P,,0,0,0,,UNA {\c&H00D4FF&\fscx110\fscy110}EMPRESA{\r} COMO VERDE
+Dialogue: 0,0:00:14.41,0:00:14.67,P,,0,0,0,,UNA EMPRESA {\c&H00D4FF&\fscx110\fscy110}COMO{\r} VERDE
+Dialogue: 0,0:00:14.67,0:00:15.25,P,,0,0,0,,UNA EMPRESA COMO {\c&H00D4FF&\fscx110\fscy110}VERDE{\r}
+Dialogue: 0,0:00:15.25,0:00:15.45,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CUANDO{\r} SOLO LO ES
+Dialogue: 0,0:00:15.45,0:00:15.75,P,,0,0,0,,CUANDO {\c&H00D4FF&\fscx110\fscy110}SOLO{\r} LO ES
+Dialogue: 0,0:00:15.75,0:00:15.87,P,,0,0,0,,CUANDO SOLO {\c&H00D4FF&\fscx110\fscy110}LO{\r} ES
+Dialogue: 0,0:00:15.87,0:00:16.03,P,,0,0,0,,CUANDO SOLO LO {\c&H00D4FF&\fscx110\fscy110}ES{\r}
+Dialogue: 0,0:00:16.03,0:00:16.15,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}UN{\r} ASPECTO CONCRETO,
+Dialogue: 0,0:00:16.15,0:00:16.51,P,,0,0,0,,UN {\c&H00D4FF&\fscx110\fscy110}ASPECTO{\r} CONCRETO,
+Dialogue: 0,0:00:16.51,0:00:17.31,P,,0,0,0,,UN ASPECTO {\c&H00D4FF&\fscx110\fscy110}CONCRETO,{\r}
+Dialogue: 0,0:00:17.31,0:00:17.49,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}O{\r} AFIRMAR QUE UN
+Dialogue: 0,0:00:17.49,0:00:17.89,P,,0,0,0,,O {\c&H00D4FF&\fscx110\fscy110}AFIRMAR{\r} QUE UN
+Dialogue: 0,0:00:17.89,0:00:18.01,P,,0,0,0,,O AFIRMAR {\c&H00D4FF&\fscx110\fscy110}QUE{\r} UN
+Dialogue: 0,0:00:18.01,0:00:18.13,P,,0,0,0,,O AFIRMAR QUE {\c&H00D4FF&\fscx110\fscy110}UN{\r}
+Dialogue: 0,0:00:18.13,0:00:18.43,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}PRODUCTO{\r} ES NEUTRO APOYÁNDOSE
+Dialogue: 0,0:00:18.43,0:00:18.63,P,,0,0,0,,PRODUCTO {\c&H00D4FF&\fscx110\fscy110}ES{\r} NEUTRO APOYÁNDOSE
+Dialogue: 0,0:00:18.63,0:00:18.95,P,,0,0,0,,PRODUCTO ES {\c&H00D4FF&\fscx110\fscy110}NEUTRO{\r} APOYÁNDOSE
+Dialogue: 0,0:00:18.95,0:00:19.63,P,,0,0,0,,PRODUCTO ES NEUTRO {\c&H00D4FF&\fscx110\fscy110}APOYÁNDOSE{\r}
+Dialogue: 0,0:00:19.63,0:00:19.79,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EN{\r} COMPENSAR EMISIONES.
+Dialogue: 0,0:00:19.79,0:00:20.23,P,,0,0,0,,EN {\c&H00D4FF&\fscx110\fscy110}COMPENSAR{\r} EMISIONES.
+Dialogue: 0,0:00:20.23,0:00:21.17,P,,0,0,0,,EN COMPENSAR {\c&H00D4FF&\fscx110\fscy110}EMISIONES.{\r}

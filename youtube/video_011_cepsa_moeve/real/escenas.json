@@ -1,0 +1,512 @@
+[
+ {
+  "i0": 0,
+  "i1": 22,
+  "texto": "Treinta de octubre de dos mil veinticuatro. Una de las marcas de gasolineras más conocidas de España desaparece de un día para otro.",
+  "q": [
+   "highway traffic aerial",
+   "calendar page turning",
+   "car driving night road"
+  ]
+ },
+ {
+  "i0": 23,
+  "i1": 30,
+  "texto": "Cepsa deja de llamarse Cepsa. Ahora es Moeve.",
+  "q": [
+   "painting wall white",
+   "workers removing sign",
+   "neon sign turning on"
+  ]
+ },
+ {
+  "i0": 31,
+  "i1": 41,
+  "texto": "Y mucha gente se hace la misma pregunta: ¿nos están engañando?",
+  "q": [
+   "thinking man face",
+   "confused person laptop",
+   "shrugging shoulders close"
+  ]
+ },
+ {
+  "i0": 42,
+  "i1": 64,
+  "texto": "Hoy vamos a comprobarlo. Sin acusar a nadie. Solo con lo que la propia empresa publica, poniendo cada dato al lado de otro.",
+  "q": [
+   "financial report papers",
+   "comparing business charts",
+   "tablet data screen"
+  ]
+ },
+ {
+  "i0": 65,
+  "i1": 78,
+  "texto": "Y alguno te va a dejar con la boca abierta. Empecemos por lo básico.",
+  "q": [
+   "surprised woman face",
+   "shocked man expression",
+   "stack of books"
+  ]
+ },
+ {
+  "i0": 79,
+  "i1": 89,
+  "texto": "¿Ha cambiado de dueño? No hay ningún dato que lo indique.",
+  "q": [
+   "business handshake denied",
+   "empty office hallway",
+   "searching computer files"
+  ]
+ },
+ {
+  "i0": 90,
+  "i1": 106,
+  "texto": "Es la misma sociedad con otra marca. Según su informe de dos mil veinticuatro, tiene dos accionistas:",
+  "q": [
+   "corporate meeting room",
+   "annual report pages",
+   "two people talking"
+  ]
+ },
+ {
+  "i0": 107,
+  "i1": 133,
+  "texto": "el fondo soberano de Abu Dabi, Mubadala, con algo más del sesenta y uno por ciento, y el grupo Carlyle, con algo más del treinta y ocho.",
+  "q": [
+   "modern city skyline",
+   "pie chart graphic",
+   "financial district buildings"
+  ]
+ },
+ {
+  "i0": 134,
+  "i1": 153,
+  "texto": "¿Qué dijo la empresa al cambiar de nombre? Que era el símbolo de su estrategia Positive Motion dos mil treinta.",
+  "q": [
+   "planning whiteboard meeting",
+   "futuristic digital motion",
+   "business strategy board"
+  ]
+ },
+ {
+  "i0": 154,
+  "i1": 171,
+  "texto": "Su consejero delegado, Maarten Wetselaar, explicó que el nombre buscaba acelerar su descarbonización y la de sus clientes.",
+  "q": [
+   "man speaking podium",
+   "electric car charging",
+   "solar panel field"
+  ]
+ },
+ {
+  "i0": 172,
+  "i1": 190,
+  "texto": "Y anunció una inversión de hasta ocho mil millones de euros, más del sesenta por ciento en negocios sostenibles:",
+  "q": [
+   "counting euro bills",
+   "wind turbines sunset",
+   "investment graph rising"
+  ]
+ },
+ {
+  "i0": 191,
+  "i1": 196,
+  "texto": "hidrógeno verde, biocombustibles, y recarga ultrarrápida.",
+  "q": [
+   "hydrogen fuel cell",
+   "biofuel plant laboratory",
+   "fast charging station"
+  ]
+ },
+ {
+  "i0": 197,
+  "i1": 205,
+  "texto": "Hasta aquí, lo que dice. Ahora, lo que publica.",
+  "q": [
+   "reading newspaper article",
+   "scrolling business news",
+   "pointing at document"
+  ]
+ },
+ {
+  "i0": 206,
+  "i1": 219,
+  "texto": "En dos mil veinticinco, Moeve invirtió mil ciento cincuenta y un millones de euros.",
+  "q": [
+   "digital currency numbers",
+   "stock market display",
+   "money flowing animation"
+  ]
+ },
+ {
+  "i0": 220,
+  "i1": 232,
+  "texto": "Y la inversión en transición energética fue, según la propia empresa, un récord:",
+  "q": [
+   "renewable energy project",
+   "victory office celebration",
+   "green energy world"
+  ]
+ },
+ {
+  "i0": 233,
+  "i1": 247,
+  "texto": "el cincuenta y cinco por ciento del total. Unos seiscientos treinta millones, según nuestros cálculos.",
+  "q": [
+   "hand using calculator",
+   "writing math notebook",
+   "data spreadsheet close"
+  ]
+ },
+ {
+  "i0": 248,
+  "i1": 268,
+  "texto": "El año anterior había sido el cuarenta y tres. Y en el primer semestre de dos mil veintiséis, la cifra sube:",
+  "q": [
+   "bar graph animation",
+   "financial statistics tablet",
+   "growing plant office"
+  ]
+ },
+ {
+  "i0": 269,
+  "i1": 283,
+  "texto": "de seiscientos cinco millones invertidos, el sesenta y nueve por ciento fue a transición energética.",
+  "q": [
+   "aerial wind farm",
+   "industrial battery storage",
+   "large money vault"
+  ]
+ },
+ {
+  "i0": 284,
+  "i1": 297,
+  "texto": "Otro récord. Lo que están construyendo, con lo que cuenta la compañía, es real.",
+  "q": [
+   "construction site worker",
+   "crane moving steel",
+   "building blueprint table"
+  ]
+ },
+ {
+  "i0": 298,
+  "i1": 319,
+  "texto": "El Gobierno de España le ha concedido trescientos cuatro millones de euros de fondos europeos para el Valle Andaluz del Hidrógeno Verde.",
+  "q": [
+   "european union flag",
+   "government building exterior",
+   "industrial factory pipes"
+  ]
+ },
+ {
+  "i0": 320,
+  "i1": 335,
+  "texto": "Una planta de biocombustibles de segunda generación en Huelva, ya construida en más de la mitad.",
+  "q": [
+   "oil refinery aerial",
+   "welding metal construction",
+   "industrial park sunset"
+  ]
+ },
+ {
+  "i0": 336,
+  "i1": 351,
+  "texto": "Más de doscientos ochenta puntos de recarga ultrarrápida. Y quinientas estaciones renovadas con la nueva imagen.",
+  "q": [
+   "electric vehicle charger",
+   "modern gas station",
+   "painting store wall"
+  ]
+ },
+ {
+  "i0": 352,
+  "i1": 387,
+  "texto": "Ahora, la otra columna. ¿De dónde sale el dinero? En dos mil veinticinco, la empresa ganó mil seiscientos ochenta y cinco millones de euros de EBITDA, que es el beneficio antes de intereses, impuestos y amortizaciones.",
+  "q": [
+   "stack of cash",
+   "profit margin graph",
+   "business computer screen"
+  ]
+ },
+ {
+  "i0": 388,
+  "i1": 397,
+  "texto": "De ellos, mil cuatrocientos vinieron de la división de Energía:",
+  "q": [
+   "high voltage tower",
+   "energy power grid",
+   "electric substation exterior"
+  ]
+ },
+ {
+  "i0": 398,
+  "i1": 411,
+  "texto": "refinerías, estaciones de servicio y comercio de combustibles, junto con las energías limpias comerciales.",
+  "q": [
+   "oil refinery aerial",
+   "fuel tanker truck road",
+   "solar farm aerial"
+  ]
+ },
+ {
+  "i0": 412,
+  "i1": 431,
+  "texto": "Es el ochenta y tres por ciento. Y en el primer semestre de dos mil veintiséis, la proporción es parecida:",
+  "q": [
+   "percentage icon graphic",
+   "stable line graph",
+   "woman analyzing data"
+  ]
+ },
+ {
+  "i0": 432,
+  "i1": 445,
+  "texto": "novecientos cuarenta y cinco millones de un total de mil ciento setenta y ocho.",
+  "q": [
+   "large digits display",
+   "financial report scroll",
+   "bank transaction screen"
+  ]
+ },
+ {
+  "i0": 446,
+  "i1": 472,
+  "texto": "El ochenta por ciento. Fíjate en lo que dice el comunicado: las ventas de productos comerciales crecieron un seis por ciento hasta dieciocho millones doscientas mil toneladas.",
+  "q": [
+   "cargo ship sea",
+   "fuel truck driving",
+   "rising sales chart"
+  ]
+ },
+ {
+  "i0": 473,
+  "i1": 486,
+  "texto": "Y el margen de refino mejoró, de siete a casi ocho dólares por barril.",
+  "q": [
+   "oil refinery pipes",
+   "oil barrels stacked",
+   "stock market graph"
+  ]
+ },
+ {
+  "i0": 487,
+  "i1": 506,
+  "texto": "O sea: lo que más se invierte es verde. Y lo que más ingresa, sigue siendo la energía de siempre.",
+  "q": [
+   "green leaf factory",
+   "dirty oil smoke",
+   "two path sign"
+  ]
+ },
+ {
+  "i0": 507,
+  "i1": 522,
+  "texto": "No es una contradicción. Es una transición: se invierte hoy en lo que dará ingresos mañana.",
+  "q": [
+   "planting small sprout",
+   "hourglass sand falling",
+   "sunrise city view"
+  ]
+ },
+ {
+  "i0": 523,
+  "i1": 533,
+  "texto": "Pero es lo que dicen los números. Y otro dato curioso:",
+  "q": [
+   "calculator numbers closeup",
+   "accountant counting money",
+   "woman surprised face"
+  ]
+ },
+ {
+  "i0": 534,
+  "i1": 553,
+  "texto": "Moeve es también la dueña de Ballenoil, la cadena de gasolineras low cost, que ha llegado a trescientas setenta estaciones.",
+  "q": [
+   "budget gas station",
+   "car gas tank",
+   "map pins icons"
+  ]
+ },
+ {
+  "i0": 554,
+  "i1": 566,
+  "texto": "Si repostas en una de ellas, ya estás repostando en la misma empresa.",
+  "q": [
+   "inserting gas nozzle",
+   "paying with phone",
+   "driver fueling car"
+  ]
+ },
+ {
+  "i0": 567,
+  "i1": 618,
+  "texto": "Ahora, una norma que acaba de entrar en juego. Desde el veintisiete de septiembre de dos mil veintiséis, los Estados de la Unión Europea deben aplicar una directiva que prohíbe, entre otras cosas, las afirmaciones medioambientales genéricas, como «respetuoso con el clima» o «verde», si no se demuestra un comportamiento medioambiental excelente.",
+  "q": [
+   "law book gavel",
+   "european parliament hall",
+   "signing legal paper"
+  ]
+ },
+ {
+  "i0": 619,
+  "i1": 644,
+  "texto": "También prohíbe presentar toda una empresa como verde cuando solo lo es un aspecto concreto, o afirmar que un producto es neutro apoyándose en compensar emisiones.",
+  "q": [
+   "factory green smoke",
+   "crossed out leaf",
+   "green paint brush"
+  ]
+ },
+ {
+  "i0": 645,
+  "i1": 663,
+  "texto": "No decimos que Moeve incumpla nada. No hemos revisado ningún anuncio concreto ni cómo España ha incorporado la norma.",
+  "q": [
+   "hands typing laptop",
+   "office archive files",
+   "serious man thinking"
+  ]
+ },
+ {
+  "i0": 664,
+  "i1": 682,
+  "texto": "Pero es la vara de medir que ahora existe: cualquier afirmación verde tiene que poderse comprobar, y ser específica.",
+  "q": [
+   "measuring tape wood",
+   "microscope laboratory work",
+   "check mark icon"
+  ]
+ },
+ {
+  "i0": 683,
+  "i1": 701,
+  "texto": "Vamos con lo que no sabemos. No sabemos si el cambio de nombre influye en los precios que pagas:",
+  "q": [
+   "empty wallet hands",
+   "counting coins table",
+   "question mark paper"
+  ]
+ },
+ {
+  "i0": 702,
+  "i1": 717,
+  "texto": "no hay ningún dato. Tampoco cuántas estaciones tiene en total, porque sus comunicados no lo dicen.",
+  "q": [
+   "foggy road aerial",
+   "searching file cabinet",
+   "dark office desk"
+  ]
+ },
+ {
+  "i0": 718,
+  "i1": 731,
+  "texto": "Y no sabemos qué parte de las ganancias será verde en dos mil treinta:",
+  "q": [
+   "wind turbines sunset",
+   "solar panels field",
+   "calendar pages"
+  ]
+ },
+ {
+  "i0": 732,
+  "i1": 744,
+  "texto": "eso depende de que los proyectos salgan adelante. Así que, ¿nos están engañando?",
+  "q": [
+   "group project meeting",
+   "magnifying glass search",
+   "thumb up down"
+  ]
+ },
+ {
+  "i0": 745,
+  "i1": 763,
+  "texto": "Con lo que hemos visto, no sobre quién es la empresa: es la misma, y sus datos son públicos.",
+  "q": [
+   "public library interior",
+   "open laptop screen",
+   "transparent glass wall"
+  ]
+ },
+ {
+  "i0": 764,
+  "i1": 783,
+  "texto": "La pregunta de verdad es otra: cuánto de lo que se llama Moeve ya es lo que dice su nombre.",
+  "q": [
+   "man looking mirror",
+   "wind turbine closeup",
+   "green leaf sunlight"
+  ]
+ },
+ {
+  "i0": 784,
+  "i1": 807,
+  "texto": "Y un detalle final: en el primer semestre, Moeve pagó o recaudó dos mil ochenta y ocho millones de euros en impuestos en España.",
+  "q": [
+   "madrid street view",
+   "tax form paper",
+   "stamping official document"
+  ]
+ },
+ {
+  "i0": 808,
+  "i1": 817,
+  "texto": "Mil doscientos sesenta y nueve, los soportó la propia empresa.",
+  "q": [
+   "corporate bank transfer",
+   "business lobby interior",
+   "accountant working laptop"
+  ]
+ },
+ {
+  "i0": 818,
+  "i1": 826,
+  "texto": "Y ochocientos diecinueve, los recaudó por cuenta de Hacienda:",
+  "q": [
+   "coins in jar",
+   "government seal logo",
+   "hands gathering money"
+  ]
+ },
+ {
+  "i0": 827,
+  "i1": 838,
+  "texto": "impuestos que pagan los clientes y que la empresa ingresa al Estado.",
+  "q": [
+   "customer paying cashier",
+   "money transfer app",
+   "receipt paper close"
+  ]
+ },
+ {
+  "i0": 839,
+  "i1": 852,
+  "texto": "De ese viaje de tu litro ya hablamos en el vídeo de la gasolina.",
+  "q": [
+   "car driving highway",
+   "pouring liquid bottle",
+   "play button icon"
+  ]
+ },
+ {
+  "i0": 853,
+  "i1": 864,
+  "texto": "Cada semana abrimos el ticket de algo que pagas todos los días.",
+  "q": [
+   "supermarket receipt paper",
+   "opening leather wallet",
+   "calendar daily view"
+  ]
+ },
+ {
+  "i0": 865,
+  "i1": 873,
+  "texto": "Y el próximo… te va a sorprender todavía más.",
+  "q": [
+   "coming soon teaser",
+   "surprised woman pointing",
+   "mystery box gift"
+  ]
+ }
+]

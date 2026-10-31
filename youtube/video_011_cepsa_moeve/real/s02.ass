@@ -1,0 +1,92 @@
+[Script Info]
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: P,Archivo Black,82,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,6,3,2,60,60,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.15,0:00:00.33,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EN{\r} DOS MIL VEINTICINCO,
+Dialogue: 0,0:00:00.33,0:00:00.61,P,,0,0,0,,EN {\c&H00D4FF&\fscx110\fscy110}DOS{\r} MIL VEINTICINCO,
+Dialogue: 0,0:00:00.61,0:00:00.88,P,,0,0,0,,EN DOS {\c&H00D4FF&\fscx110\fscy110}MIL{\r} VEINTICINCO,
+Dialogue: 0,0:00:00.88,0:00:01.43,P,,0,0,0,,EN DOS MIL {\c&H00D4FF&\fscx110\fscy110}VEINTICINCO,{\r}
+Dialogue: 0,0:00:01.43,0:00:01.89,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MOEVE{\r} INVIRTIÓ MIL CIENTO
+Dialogue: 0,0:00:01.89,0:00:02.43,P,,0,0,0,,MOEVE {\c&H00D4FF&\fscx110\fscy110}INVIRTIÓ{\r} MIL CIENTO
+Dialogue: 0,0:00:02.43,0:00:02.65,P,,0,0,0,,MOEVE INVIRTIÓ {\c&H00D4FF&\fscx110\fscy110}MIL{\r} CIENTO
+Dialogue: 0,0:00:02.65,0:00:02.88,P,,0,0,0,,MOEVE INVIRTIÓ MIL {\c&H00D4FF&\fscx110\fscy110}CIENTO{\r}
+Dialogue: 0,0:00:02.88,0:00:03.10,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CINCUENTA{\r} Y UN MILLONES
+Dialogue: 0,0:00:03.10,0:00:03.32,P,,0,0,0,,CINCUENTA {\c&H00D4FF&\fscx110\fscy110}Y{\r} UN MILLONES
+Dialogue: 0,0:00:03.32,0:00:03.77,P,,0,0,0,,CINCUENTA Y {\c&H00D4FF&\fscx110\fscy110}UN{\r} MILLONES
+Dialogue: 0,0:00:03.77,0:00:04.09,P,,0,0,0,,CINCUENTA Y UN {\c&H00D4FF&\fscx110\fscy110}MILLONES{\r}
+Dialogue: 0,0:00:04.09,0:00:04.29,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DE{\r} EUROS.
+Dialogue: 0,0:00:04.29,0:00:04.53,P,,0,0,0,,DE {\c&H00D4FF&\fscx110\fscy110}EUROS.{\r}
+Dialogue: 0,0:00:04.53,0:00:05.17,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} LA INVERSIÓN EN
+Dialogue: 0,0:00:05.17,0:00:05.29,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}LA{\r} INVERSIÓN EN
+Dialogue: 0,0:00:05.29,0:00:05.71,P,,0,0,0,,Y LA {\c&H00D4FF&\fscx110\fscy110}INVERSIÓN{\r} EN
+Dialogue: 0,0:00:05.71,0:00:05.83,P,,0,0,0,,Y LA INVERSIÓN {\c&H00D4FF&\fscx110\fscy110}EN{\r}
+Dialogue: 0,0:00:05.83,0:00:06.27,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}TRANSICIÓN{\r} ENERGÉTICA FUE,
+Dialogue: 0,0:00:06.27,0:00:06.81,P,,0,0,0,,TRANSICIÓN {\c&H00D4FF&\fscx110\fscy110}ENERGÉTICA{\r} FUE,
+Dialogue: 0,0:00:06.81,0:00:07.29,P,,0,0,0,,TRANSICIÓN ENERGÉTICA {\c&H00D4FF&\fscx110\fscy110}FUE,{\r}
+Dialogue: 0,0:00:07.29,0:00:07.57,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SEGÚN{\r} LA PROPIA EMPRESA,
+Dialogue: 0,0:00:07.57,0:00:07.77,P,,0,0,0,,SEGÚN {\c&H00D4FF&\fscx110\fscy110}LA{\r} PROPIA EMPRESA,
+Dialogue: 0,0:00:07.77,0:00:07.99,P,,0,0,0,,SEGÚN LA {\c&H00D4FF&\fscx110\fscy110}PROPIA{\r} EMPRESA,
+Dialogue: 0,0:00:07.99,0:00:08.71,P,,0,0,0,,SEGÚN LA PROPIA {\c&H00D4FF&\fscx110\fscy110}EMPRESA,{\r}
+Dialogue: 0,0:00:08.71,0:00:08.87,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}UN{\r} RÉCORD:
+Dialogue: 0,0:00:08.87,0:00:09.67,P,,0,0,0,,UN {\c&H00D4FF&\fscx110\fscy110}RÉCORD:{\r}
+Dialogue: 0,0:00:09.67,0:00:09.81,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EL{\r} CINCUENTA Y CINCO
+Dialogue: 0,0:00:09.81,0:00:09.96,P,,0,0,0,,EL {\c&H00D4FF&\fscx110\fscy110}CINCUENTA{\r} Y CINCO
+Dialogue: 0,0:00:09.96,0:00:10.12,P,,0,0,0,,EL CINCUENTA {\c&H00D4FF&\fscx110\fscy110}Y{\r} CINCO
+Dialogue: 0,0:00:10.12,0:00:10.27,P,,0,0,0,,EL CINCUENTA Y {\c&H00D4FF&\fscx110\fscy110}CINCO{\r}
+Dialogue: 0,0:00:10.27,0:00:10.42,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}POR{\r} CIENTO DEL TOTAL.
+Dialogue: 0,0:00:10.42,0:00:10.73,P,,0,0,0,,POR {\c&H00D4FF&\fscx110\fscy110}CIENTO{\r} DEL TOTAL.
+Dialogue: 0,0:00:10.73,0:00:11.01,P,,0,0,0,,POR CIENTO {\c&H00D4FF&\fscx110\fscy110}DEL{\r} TOTAL.
+Dialogue: 0,0:00:11.01,0:00:11.81,P,,0,0,0,,POR CIENTO DEL {\c&H00D4FF&\fscx110\fscy110}TOTAL.{\r}
+Dialogue: 0,0:00:11.81,0:00:12.07,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}UNOS{\r} SEISCIENTOS TREINTA MILLONES,
+Dialogue: 0,0:00:12.07,0:00:12.24,P,,0,0,0,,UNOS {\c&H00D4FF&\fscx110\fscy110}SEISCIENTOS{\r} TREINTA MILLONES,
+Dialogue: 0,0:00:12.24,0:00:12.57,P,,0,0,0,,UNOS SEISCIENTOS {\c&H00D4FF&\fscx110\fscy110}TREINTA{\r} MILLONES,
+Dialogue: 0,0:00:12.57,0:00:13.49,P,,0,0,0,,UNOS SEISCIENTOS TREINTA {\c&H00D4FF&\fscx110\fscy110}MILLONES,{\r}
+Dialogue: 0,0:00:13.49,0:00:13.71,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SEGÚN{\r} NUESTROS CÁLCULOS.
+Dialogue: 0,0:00:13.71,0:00:13.95,P,,0,0,0,,SEGÚN {\c&H00D4FF&\fscx110\fscy110}NUESTROS{\r} CÁLCULOS.
+Dialogue: 0,0:00:13.95,0:00:14.95,P,,0,0,0,,SEGÚN NUESTROS {\c&H00D4FF&\fscx110\fscy110}CÁLCULOS.{\r}
+Dialogue: 0,0:00:14.95,0:00:15.09,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EL{\r} AÑO ANTERIOR HABÍA
+Dialogue: 0,0:00:15.09,0:00:15.25,P,,0,0,0,,EL {\c&H00D4FF&\fscx110\fscy110}AÑO{\r} ANTERIOR HABÍA
+Dialogue: 0,0:00:15.25,0:00:15.53,P,,0,0,0,,EL AÑO {\c&H00D4FF&\fscx110\fscy110}ANTERIOR{\r} HABÍA
+Dialogue: 0,0:00:15.53,0:00:15.77,P,,0,0,0,,EL AÑO ANTERIOR {\c&H00D4FF&\fscx110\fscy110}HABÍA{\r}
+Dialogue: 0,0:00:15.77,0:00:16.03,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SIDO{\r} EL CUARENTA Y
+Dialogue: 0,0:00:16.03,0:00:16.15,P,,0,0,0,,SIDO {\c&H00D4FF&\fscx110\fscy110}EL{\r} CUARENTA Y
+Dialogue: 0,0:00:16.15,0:00:16.41,P,,0,0,0,,SIDO EL {\c&H00D4FF&\fscx110\fscy110}CUARENTA{\r} Y
+Dialogue: 0,0:00:16.41,0:00:16.66,P,,0,0,0,,SIDO EL CUARENTA {\c&H00D4FF&\fscx110\fscy110}Y{\r}
+Dialogue: 0,0:00:16.66,0:00:17.17,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}TRES.{\r}
+Dialogue: 0,0:00:17.17,0:00:17.42,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} Y EN EL
+Dialogue: 0,0:00:17.42,0:00:17.56,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}Y{\r} EN EL
+Dialogue: 0,0:00:17.56,0:00:17.68,P,,0,0,0,,Y Y {\c&H00D4FF&\fscx110\fscy110}EN{\r} EL
+Dialogue: 0,0:00:17.68,0:00:17.76,P,,0,0,0,,Y Y EN {\c&H00D4FF&\fscx110\fscy110}EL{\r}
+Dialogue: 0,0:00:17.76,0:00:17.98,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}PRIMER{\r} SEMESTRE DE DOS
+Dialogue: 0,0:00:17.98,0:00:18.40,P,,0,0,0,,PRIMER {\c&H00D4FF&\fscx110\fscy110}SEMESTRE{\r} DE DOS
+Dialogue: 0,0:00:18.40,0:00:18.54,P,,0,0,0,,PRIMER SEMESTRE {\c&H00D4FF&\fscx110\fscy110}DE{\r} DOS
+Dialogue: 0,0:00:18.54,0:00:18.79,P,,0,0,0,,PRIMER SEMESTRE DE {\c&H00D4FF&\fscx110\fscy110}DOS{\r}
+Dialogue: 0,0:00:18.79,0:00:19.05,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MIL{\r} VEINTISÉIS,
+Dialogue: 0,0:00:19.05,0:00:19.56,P,,0,0,0,,MIL {\c&H00D4FF&\fscx110\fscy110}VEINTISÉIS,{\r}
+Dialogue: 0,0:00:19.56,0:00:19.62,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LA{\r} CIFRA SUBE:
+Dialogue: 0,0:00:19.62,0:00:19.88,P,,0,0,0,,LA {\c&H00D4FF&\fscx110\fscy110}CIFRA{\r} SUBE:
+Dialogue: 0,0:00:19.88,0:00:20.58,P,,0,0,0,,LA CIFRA {\c&H00D4FF&\fscx110\fscy110}SUBE:{\r}
+Dialogue: 0,0:00:20.58,0:00:20.74,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DE{\r} SEISCIENTOS CINCO MILLONES
+Dialogue: 0,0:00:20.74,0:00:20.97,P,,0,0,0,,DE {\c&H00D4FF&\fscx110\fscy110}SEISCIENTOS{\r} CINCO MILLONES
+Dialogue: 0,0:00:20.97,0:00:21.44,P,,0,0,0,,DE SEISCIENTOS {\c&H00D4FF&\fscx110\fscy110}CINCO{\r} MILLONES
+Dialogue: 0,0:00:21.44,0:00:21.74,P,,0,0,0,,DE SEISCIENTOS CINCO {\c&H00D4FF&\fscx110\fscy110}MILLONES{\r}
+Dialogue: 0,0:00:21.74,0:00:22.60,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}INVERTIDOS,{\r}
+Dialogue: 0,0:00:22.60,0:00:22.72,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EL{\r} SESENTA Y NUEVE
+Dialogue: 0,0:00:22.72,0:00:22.87,P,,0,0,0,,EL {\c&H00D4FF&\fscx110\fscy110}SESENTA{\r} Y NUEVE
+Dialogue: 0,0:00:22.87,0:00:23.02,P,,0,0,0,,EL SESENTA {\c&H00D4FF&\fscx110\fscy110}Y{\r} NUEVE
+Dialogue: 0,0:00:23.02,0:00:23.17,P,,0,0,0,,EL SESENTA Y {\c&H00D4FF&\fscx110\fscy110}NUEVE{\r}
+Dialogue: 0,0:00:23.17,0:00:23.32,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}POR{\r} CIENTO FUE A
+Dialogue: 0,0:00:23.32,0:00:23.62,P,,0,0,0,,POR {\c&H00D4FF&\fscx110\fscy110}CIENTO{\r} FUE A
+Dialogue: 0,0:00:23.62,0:00:23.88,P,,0,0,0,,POR CIENTO {\c&H00D4FF&\fscx110\fscy110}FUE{\r} A
+Dialogue: 0,0:00:23.88,0:00:24.00,P,,0,0,0,,POR CIENTO FUE {\c&H00D4FF&\fscx110\fscy110}A{\r}
+Dialogue: 0,0:00:24.00,0:00:24.42,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}TRANSICIÓN{\r} ENERGÉTICA.
+Dialogue: 0,0:00:24.42,0:00:25.38,P,,0,0,0,,TRANSICIÓN {\c&H00D4FF&\fscx110\fscy110}ENERGÉTICA.{\r}
+Dialogue: 0,0:00:25.38,0:00:25.64,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}OTRO{\r} RÉCORD.
+Dialogue: 0,0:00:25.64,0:00:26.36,P,,0,0,0,,OTRO {\c&H00D4FF&\fscx110\fscy110}RÉCORD.{\r}

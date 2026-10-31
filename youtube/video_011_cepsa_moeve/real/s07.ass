@@ -1,0 +1,42 @@
+[Script Info]
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: P,Archivo Black,82,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,6,3,2,60,60,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.15,0:00:00.55,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MIL{\r} DOSCIENTOS SESENTA Y
+Dialogue: 0,0:00:00.55,0:00:00.95,P,,0,0,0,,MIL {\c&H00D4FF&\fscx110\fscy110}DOSCIENTOS{\r} SESENTA Y
+Dialogue: 0,0:00:00.95,0:00:01.35,P,,0,0,0,,MIL DOSCIENTOS {\c&H00D4FF&\fscx110\fscy110}SESENTA{\r} Y
+Dialogue: 0,0:00:01.35,0:00:01.75,P,,0,0,0,,MIL DOSCIENTOS SESENTA {\c&H00D4FF&\fscx110\fscy110}Y{\r}
+Dialogue: 0,0:00:01.75,0:00:02.15,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}NUEVE,{\r}
+Dialogue: 0,0:00:02.15,0:00:02.95,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LOS{\r} SOPORTÓ LA PROPIA
+Dialogue: 0,0:00:02.95,0:00:03.43,P,,0,0,0,,LOS {\c&H00D4FF&\fscx110\fscy110}SOPORTÓ{\r} LA PROPIA
+Dialogue: 0,0:00:03.43,0:00:03.57,P,,0,0,0,,LOS SOPORTÓ {\c&H00D4FF&\fscx110\fscy110}LA{\r} PROPIA
+Dialogue: 0,0:00:03.57,0:00:03.85,P,,0,0,0,,LOS SOPORTÓ LA {\c&H00D4FF&\fscx110\fscy110}PROPIA{\r}
+Dialogue: 0,0:00:03.85,0:00:04.37,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EMPRESA.{\r}
+Dialogue: 0,0:00:04.37,0:00:05.23,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} OCHOCIENTOS DIECINUEVE,
+Dialogue: 0,0:00:05.23,0:00:05.68,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}OCHOCIENTOS{\r} DIECINUEVE,
+Dialogue: 0,0:00:05.68,0:00:06.13,P,,0,0,0,,Y OCHOCIENTOS {\c&H00D4FF&\fscx110\fscy110}DIECINUEVE,{\r}
+Dialogue: 0,0:00:06.13,0:00:07.03,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LOS{\r} RECAUDÓ POR CUENTA
+Dialogue: 0,0:00:07.03,0:00:07.53,P,,0,0,0,,LOS {\c&H00D4FF&\fscx110\fscy110}RECAUDÓ{\r} POR CUENTA
+Dialogue: 0,0:00:07.53,0:00:07.69,P,,0,0,0,,LOS RECAUDÓ {\c&H00D4FF&\fscx110\fscy110}POR{\r} CUENTA
+Dialogue: 0,0:00:07.69,0:00:07.99,P,,0,0,0,,LOS RECAUDÓ POR {\c&H00D4FF&\fscx110\fscy110}CUENTA{\r}
+Dialogue: 0,0:00:07.99,0:00:08.15,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DE{\r} HACIENDA:
+Dialogue: 0,0:00:08.15,0:00:09.15,P,,0,0,0,,DE {\c&H00D4FF&\fscx110\fscy110}HACIENDA:{\r}
+Dialogue: 0,0:00:09.15,0:00:09.57,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}IMPUESTOS{\r} QUE PAGAN LOS
+Dialogue: 0,0:00:09.57,0:00:09.81,P,,0,0,0,,IMPUESTOS {\c&H00D4FF&\fscx110\fscy110}QUE{\r} PAGAN LOS
+Dialogue: 0,0:00:09.81,0:00:10.05,P,,0,0,0,,IMPUESTOS QUE {\c&H00D4FF&\fscx110\fscy110}PAGAN{\r} LOS
+Dialogue: 0,0:00:10.05,0:00:10.25,P,,0,0,0,,IMPUESTOS QUE PAGAN {\c&H00D4FF&\fscx110\fscy110}LOS{\r}
+Dialogue: 0,0:00:10.25,0:00:10.87,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}CLIENTES{\r} Y QUE LA
+Dialogue: 0,0:00:10.87,0:00:11.37,P,,0,0,0,,CLIENTES {\c&H00D4FF&\fscx110\fscy110}Y{\r} QUE LA
+Dialogue: 0,0:00:11.37,0:00:11.47,P,,0,0,0,,CLIENTES Y {\c&H00D4FF&\fscx110\fscy110}QUE{\r} LA
+Dialogue: 0,0:00:11.47,0:00:11.61,P,,0,0,0,,CLIENTES Y QUE {\c&H00D4FF&\fscx110\fscy110}LA{\r}
+Dialogue: 0,0:00:11.61,0:00:11.97,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EMPRESA{\r} INGRESA AL ESTADO.
+Dialogue: 0,0:00:11.97,0:00:12.61,P,,0,0,0,,EMPRESA {\c&H00D4FF&\fscx110\fscy110}INGRESA{\r} AL ESTADO.
+Dialogue: 0,0:00:12.61,0:00:12.77,P,,0,0,0,,EMPRESA INGRESA {\c&H00D4FF&\fscx110\fscy110}AL{\r} ESTADO.
+Dialogue: 0,0:00:12.77,0:00:13.45,P,,0,0,0,,EMPRESA INGRESA AL {\c&H00D4FF&\fscx110\fscy110}ESTADO.{\r}

@@ -1,0 +1,110 @@
+[Script Info]
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: P,Archivo Black,82,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,6,3,2,60,60,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.15,0:00:00.85,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}AHORA,{\r}
+Dialogue: 0,0:00:00.85,0:00:00.93,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LA{\r} OTRA COLUMNA.
+Dialogue: 0,0:00:00.93,0:00:01.13,P,,0,0,0,,LA {\c&H00D4FF&\fscx110\fscy110}OTRA{\r} COLUMNA.
+Dialogue: 0,0:00:01.13,0:00:02.11,P,,0,0,0,,LA OTRA {\c&H00D4FF&\fscx110\fscy110}COLUMNA.{\r}
+Dialogue: 0,0:00:02.11,0:00:02.25,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}¿DE{\r} DÓNDE SALE EL
+Dialogue: 0,0:00:02.25,0:00:02.43,P,,0,0,0,,¿DE {\c&H00D4FF&\fscx110\fscy110}DÓNDE{\r} SALE EL
+Dialogue: 0,0:00:02.43,0:00:02.69,P,,0,0,0,,¿DE DÓNDE {\c&H00D4FF&\fscx110\fscy110}SALE{\r} EL
+Dialogue: 0,0:00:02.69,0:00:02.83,P,,0,0,0,,¿DE DÓNDE SALE {\c&H00D4FF&\fscx110\fscy110}EL{\r}
+Dialogue: 0,0:00:02.83,0:00:03.63,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DINERO?{\r}
+Dialogue: 0,0:00:03.63,0:00:03.83,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EN{\r} DOS MIL VEINTICINCO,
+Dialogue: 0,0:00:03.83,0:00:04.10,P,,0,0,0,,EN {\c&H00D4FF&\fscx110\fscy110}DOS{\r} MIL VEINTICINCO,
+Dialogue: 0,0:00:04.10,0:00:04.37,P,,0,0,0,,EN DOS {\c&H00D4FF&\fscx110\fscy110}MIL{\r} VEINTICINCO,
+Dialogue: 0,0:00:04.37,0:00:04.91,P,,0,0,0,,EN DOS MIL {\c&H00D4FF&\fscx110\fscy110}VEINTICINCO,{\r}
+Dialogue: 0,0:00:04.91,0:00:04.97,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LA{\r} EMPRESA GANÓ MIL
+Dialogue: 0,0:00:04.97,0:00:05.23,P,,0,0,0,,LA {\c&H00D4FF&\fscx110\fscy110}EMPRESA{\r} GANÓ MIL
+Dialogue: 0,0:00:05.23,0:00:05.59,P,,0,0,0,,LA EMPRESA {\c&H00D4FF&\fscx110\fscy110}GANÓ{\r} MIL
+Dialogue: 0,0:00:05.59,0:00:05.81,P,,0,0,0,,LA EMPRESA GANÓ {\c&H00D4FF&\fscx110\fscy110}MIL{\r}
+Dialogue: 0,0:00:05.81,0:00:06.02,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SEISCIENTOS{\r} OCHENTA Y CINCO
+Dialogue: 0,0:00:06.02,0:00:06.24,P,,0,0,0,,SEISCIENTOS {\c&H00D4FF&\fscx110\fscy110}OCHENTA{\r} Y CINCO
+Dialogue: 0,0:00:06.24,0:00:06.46,P,,0,0,0,,SEISCIENTOS OCHENTA {\c&H00D4FF&\fscx110\fscy110}Y{\r} CINCO
+Dialogue: 0,0:00:06.46,0:00:06.89,P,,0,0,0,,SEISCIENTOS OCHENTA Y {\c&H00D4FF&\fscx110\fscy110}CINCO{\r}
+Dialogue: 0,0:00:06.89,0:00:07.43,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MILLONES{\r} DE EUROS DE
+Dialogue: 0,0:00:07.43,0:00:07.71,P,,0,0,0,,MILLONES {\c&H00D4FF&\fscx110\fscy110}DE{\r} EUROS DE
+Dialogue: 0,0:00:07.71,0:00:07.91,P,,0,0,0,,MILLONES DE {\c&H00D4FF&\fscx110\fscy110}EUROS{\r} DE
+Dialogue: 0,0:00:07.91,0:00:08.13,P,,0,0,0,,MILLONES DE EUROS {\c&H00D4FF&\fscx110\fscy110}DE{\r}
+Dialogue: 0,0:00:08.13,0:00:08.91,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EBITDA,{\r}
+Dialogue: 0,0:00:08.91,0:00:09.07,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}QUE{\r} ES EL BENEFICIO
+Dialogue: 0,0:00:09.07,0:00:09.19,P,,0,0,0,,QUE {\c&H00D4FF&\fscx110\fscy110}ES{\r} EL BENEFICIO
+Dialogue: 0,0:00:09.19,0:00:09.29,P,,0,0,0,,QUE ES {\c&H00D4FF&\fscx110\fscy110}EL{\r} BENEFICIO
+Dialogue: 0,0:00:09.29,0:00:09.87,P,,0,0,0,,QUE ES EL {\c&H00D4FF&\fscx110\fscy110}BENEFICIO{\r}
+Dialogue: 0,0:00:09.87,0:00:10.19,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ANTES{\r} DE INTERESES,
+Dialogue: 0,0:00:10.19,0:00:10.37,P,,0,0,0,,ANTES {\c&H00D4FF&\fscx110\fscy110}DE{\r} INTERESES,
+Dialogue: 0,0:00:10.37,0:00:11.01,P,,0,0,0,,ANTES DE {\c&H00D4FF&\fscx110\fscy110}INTERESES,{\r}
+Dialogue: 0,0:00:11.01,0:00:11.39,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}IMPUESTOS{\r} Y AMORTIZACIONES.
+Dialogue: 0,0:00:11.39,0:00:11.59,P,,0,0,0,,IMPUESTOS {\c&H00D4FF&\fscx110\fscy110}Y{\r} AMORTIZACIONES.
+Dialogue: 0,0:00:11.59,0:00:12.81,P,,0,0,0,,IMPUESTOS Y {\c&H00D4FF&\fscx110\fscy110}AMORTIZACIONES.{\r}
+Dialogue: 0,0:00:12.81,0:00:13.15,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DE{\r} ELLOS,
+Dialogue: 0,0:00:13.15,0:00:13.39,P,,0,0,0,,DE {\c&H00D4FF&\fscx110\fscy110}ELLOS,{\r}
+Dialogue: 0,0:00:13.39,0:00:13.70,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MIL{\r} CUATROCIENTOS VINIERON DE
+Dialogue: 0,0:00:13.70,0:00:14.33,P,,0,0,0,,MIL {\c&H00D4FF&\fscx110\fscy110}CUATROCIENTOS{\r} VINIERON DE
+Dialogue: 0,0:00:14.33,0:00:15.05,P,,0,0,0,,MIL CUATROCIENTOS {\c&H00D4FF&\fscx110\fscy110}VINIERON{\r} DE
+Dialogue: 0,0:00:15.05,0:00:15.23,P,,0,0,0,,MIL CUATROCIENTOS VINIERON {\c&H00D4FF&\fscx110\fscy110}DE{\r}
+Dialogue: 0,0:00:15.23,0:00:15.31,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LA{\r} DIVISIÓN DE ENERGÍA:
+Dialogue: 0,0:00:15.31,0:00:15.69,P,,0,0,0,,LA {\c&H00D4FF&\fscx110\fscy110}DIVISIÓN{\r} DE ENERGÍA:
+Dialogue: 0,0:00:15.69,0:00:15.83,P,,0,0,0,,LA DIVISIÓN {\c&H00D4FF&\fscx110\fscy110}DE{\r} ENERGÍA:
+Dialogue: 0,0:00:15.83,0:00:16.67,P,,0,0,0,,LA DIVISIÓN DE {\c&H00D4FF&\fscx110\fscy110}ENERGÍA:{\r}
+Dialogue: 0,0:00:16.67,0:00:17.79,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}REFINERÍAS,{\r}
+Dialogue: 0,0:00:17.79,0:00:18.11,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ESTACIONES{\r} DE SERVICIO Y
+Dialogue: 0,0:00:18.11,0:00:18.31,P,,0,0,0,,ESTACIONES {\c&H00D4FF&\fscx110\fscy110}DE{\r} SERVICIO Y
+Dialogue: 0,0:00:18.31,0:00:18.65,P,,0,0,0,,ESTACIONES DE {\c&H00D4FF&\fscx110\fscy110}SERVICIO{\r} Y
+Dialogue: 0,0:00:18.65,0:00:19.03,P,,0,0,0,,ESTACIONES DE SERVICIO {\c&H00D4FF&\fscx110\fscy110}Y{\r}
+Dialogue: 0,0:00:19.03,0:00:19.45,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}COMERCIO{\r} DE COMBUSTIBLES,
+Dialogue: 0,0:00:19.45,0:00:19.55,P,,0,0,0,,COMERCIO {\c&H00D4FF&\fscx110\fscy110}DE{\r} COMBUSTIBLES,
+Dialogue: 0,0:00:19.55,0:00:20.11,P,,0,0,0,,COMERCIO DE {\c&H00D4FF&\fscx110\fscy110}COMBUSTIBLES,{\r}
+Dialogue: 0,0:00:20.11,0:00:20.89,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}JUNTO{\r} CON LAS ENERGÍAS
+Dialogue: 0,0:00:20.89,0:00:21.17,P,,0,0,0,,JUNTO {\c&H00D4FF&\fscx110\fscy110}CON{\r} LAS ENERGÍAS
+Dialogue: 0,0:00:21.17,0:00:21.31,P,,0,0,0,,JUNTO CON {\c&H00D4FF&\fscx110\fscy110}LAS{\r} ENERGÍAS
+Dialogue: 0,0:00:21.31,0:00:21.71,P,,0,0,0,,JUNTO CON LAS {\c&H00D4FF&\fscx110\fscy110}ENERGÍAS{\r}
+Dialogue: 0,0:00:21.71,0:00:22.09,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LIMPIAS{\r} COMERCIALES.
+Dialogue: 0,0:00:22.09,0:00:23.15,P,,0,0,0,,LIMPIAS {\c&H00D4FF&\fscx110\fscy110}COMERCIALES.{\r}
+Dialogue: 0,0:00:23.15,0:00:23.37,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}ES{\r} EL OCHENTA Y
+Dialogue: 0,0:00:23.37,0:00:23.49,P,,0,0,0,,ES {\c&H00D4FF&\fscx110\fscy110}EL{\r} OCHENTA Y
+Dialogue: 0,0:00:23.49,0:00:23.73,P,,0,0,0,,ES EL {\c&H00D4FF&\fscx110\fscy110}OCHENTA{\r} Y
+Dialogue: 0,0:00:23.73,0:00:23.98,P,,0,0,0,,ES EL OCHENTA {\c&H00D4FF&\fscx110\fscy110}Y{\r}
+Dialogue: 0,0:00:23.98,0:00:24.22,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}TRES{\r} POR CIENTO.
+Dialogue: 0,0:00:24.22,0:00:24.46,P,,0,0,0,,TRES {\c&H00D4FF&\fscx110\fscy110}POR{\r} CIENTO.
+Dialogue: 0,0:00:24.46,0:00:24.95,P,,0,0,0,,TRES POR {\c&H00D4FF&\fscx110\fscy110}CIENTO.{\r}
+Dialogue: 0,0:00:24.95,0:00:25.29,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} EN EL PRIMER
+Dialogue: 0,0:00:25.29,0:00:25.37,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}EN{\r} EL PRIMER
+Dialogue: 0,0:00:25.37,0:00:25.49,P,,0,0,0,,Y EN {\c&H00D4FF&\fscx110\fscy110}EL{\r} PRIMER
+Dialogue: 0,0:00:25.49,0:00:25.67,P,,0,0,0,,Y EN EL {\c&H00D4FF&\fscx110\fscy110}PRIMER{\r}
+Dialogue: 0,0:00:25.67,0:00:26.15,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}SEMESTRE{\r} DE DOS MIL
+Dialogue: 0,0:00:26.15,0:00:26.33,P,,0,0,0,,SEMESTRE {\c&H00D4FF&\fscx110\fscy110}DE{\r} DOS MIL
+Dialogue: 0,0:00:26.33,0:00:26.63,P,,0,0,0,,SEMESTRE DE {\c&H00D4FF&\fscx110\fscy110}DOS{\r} MIL
+Dialogue: 0,0:00:26.63,0:00:26.93,P,,0,0,0,,SEMESTRE DE DOS {\c&H00D4FF&\fscx110\fscy110}MIL{\r}
+Dialogue: 0,0:00:26.93,0:00:27.53,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}VEINTISÉIS,{\r}
+Dialogue: 0,0:00:27.53,0:00:27.69,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}LA{\r} PROPORCIÓN ES PARECIDA:
+Dialogue: 0,0:00:27.69,0:00:28.11,P,,0,0,0,,LA {\c&H00D4FF&\fscx110\fscy110}PROPORCIÓN{\r} ES PARECIDA:
+Dialogue: 0,0:00:28.11,0:00:28.25,P,,0,0,0,,LA PROPORCIÓN {\c&H00D4FF&\fscx110\fscy110}ES{\r} PARECIDA:
+Dialogue: 0,0:00:28.25,0:00:28.63,P,,0,0,0,,LA PROPORCIÓN ES {\c&H00D4FF&\fscx110\fscy110}PARECIDA:{\r}
+Dialogue: 0,0:00:28.63,0:00:28.93,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}NOVECIENTOS{\r} CUARENTA Y CINCO
+Dialogue: 0,0:00:28.93,0:00:29.24,P,,0,0,0,,NOVECIENTOS {\c&H00D4FF&\fscx110\fscy110}CUARENTA{\r} Y CINCO
+Dialogue: 0,0:00:29.24,0:00:29.54,P,,0,0,0,,NOVECIENTOS CUARENTA {\c&H00D4FF&\fscx110\fscy110}Y{\r} CINCO
+Dialogue: 0,0:00:29.54,0:00:30.15,P,,0,0,0,,NOVECIENTOS CUARENTA Y {\c&H00D4FF&\fscx110\fscy110}CINCO{\r}
+Dialogue: 0,0:00:30.15,0:00:30.71,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}MILLONES{\r} DE UN TOTAL
+Dialogue: 0,0:00:30.71,0:00:31.05,P,,0,0,0,,MILLONES {\c&H00D4FF&\fscx110\fscy110}DE{\r} UN TOTAL
+Dialogue: 0,0:00:31.05,0:00:31.19,P,,0,0,0,,MILLONES DE {\c&H00D4FF&\fscx110\fscy110}UN{\r} TOTAL
+Dialogue: 0,0:00:31.19,0:00:31.45,P,,0,0,0,,MILLONES DE UN {\c&H00D4FF&\fscx110\fscy110}TOTAL{\r}
+Dialogue: 0,0:00:31.45,0:00:31.69,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}DE{\r} MIL CIENTO SETENTA
+Dialogue: 0,0:00:31.69,0:00:32.00,P,,0,0,0,,DE {\c&H00D4FF&\fscx110\fscy110}MIL{\r} CIENTO SETENTA
+Dialogue: 0,0:00:32.00,0:00:32.31,P,,0,0,0,,DE MIL {\c&H00D4FF&\fscx110\fscy110}CIENTO{\r} SETENTA
+Dialogue: 0,0:00:32.31,0:00:32.62,P,,0,0,0,,DE MIL CIENTO {\c&H00D4FF&\fscx110\fscy110}SETENTA{\r}
+Dialogue: 0,0:00:32.62,0:00:32.93,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}Y{\r} OCHO.
+Dialogue: 0,0:00:32.93,0:00:33.55,P,,0,0,0,,Y {\c&H00D4FF&\fscx110\fscy110}OCHO.{\r}
+Dialogue: 0,0:00:33.55,0:00:33.73,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}EL{\r} OCHENTA POR CIENTO.
+Dialogue: 0,0:00:33.73,0:00:33.99,P,,0,0,0,,EL {\c&H00D4FF&\fscx110\fscy110}OCHENTA{\r} POR CIENTO.
+Dialogue: 0,0:00:33.99,0:00:34.25,P,,0,0,0,,EL OCHENTA {\c&H00D4FF&\fscx110\fscy110}POR{\r} CIENTO.
+Dialogue: 0,0:00:34.25,0:00:34.77,P,,0,0,0,,EL OCHENTA POR {\c&H00D4FF&\fscx110\fscy110}CIENTO.{\r}
+Dialogue: 0,0:00:34.77,0:00:35.86,P,,0,0,0,,{\c&H00D4FF&\fscx110\fscy110}FÍJATE{\r}

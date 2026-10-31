@@ -163,6 +163,8 @@ def escenas(palabras):
 
 
 VACIAS = {"a", "an", "the", "of", "in", "on", "into", "with", "and", "to", "at", "for", "close", "up", "people", "person"}
+# marcas y temas que confunden (una gasolinera Shell en un vídeo de Cepsa, un bitcoin…): clip descartado si su descripción los nombra
+VETADAS = {"shell", "repsol", "bp", "esso", "texaco", "chevron", "exxon", "mobil", "bitcoin", "crypto", "cryptocurrency", "logo", "brand"}
 usados = set()
 
 
@@ -193,7 +195,7 @@ def buscar(q, minimo, exigir, orient_pref):
         d = pexels_busca(q, orient)
         for v in d.get("videos", []):
             desc = {w.rstrip("s") for w in re.split(r"[^a-z]+", v["url"].lower().rstrip("/").split("/")[-1])}
-            if v["id"] in usados or v["duration"] < min(minimo, 6):
+            if v["id"] in usados or v["duration"] < min(minimo, 6) or desc & VETADAS:
                 continue
             if sum(1 for w in claves_q if w.rstrip("s") in desc) < pedir:
                 continue
