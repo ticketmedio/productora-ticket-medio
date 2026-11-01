@@ -66,7 +66,7 @@ for fila in leer("redes", "pepa_pita", "PLAN_PROGRAMACION.md").splitlines():
     if n not in TIKTOK_HECHOS:
         items.append(dict(reel, dia=TIKTOK_FECHA.get(n, dia).isoformat(), red="tiktok", destino="TikTok Studio · «Programar»",
                           aviso="«Mostrar más» → activa «Contenido generado por IA». TikTok solo deja programar unos 14 días antes."))
-    borrar.append((n, nombre, ruta_bonita(carpeta), dia <= META_HECHO_HASTA and n in TIKTOK_HECHOS))
+    borrar.append((n, nombre, ruta_bonita(carpeta), dia <= META_HECHO_HASTA and n in TIKTOK_HECHOS and bool(mp4)))
 
 # ── Ticket Medio: vídeo largo + 7 Shorts (YouTube Studio) ──
 for v in sorted(glob.glob(os.path.join(RAIZ, "youtube", "video_0*"))):
