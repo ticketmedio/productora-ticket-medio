@@ -15,10 +15,9 @@ DESDE = D(2026, 11, 2)
 CARRUSELES_HECHOS = {"009", "010"}
 # Meta ya programado y comprobado por Claude en Meta Business Suite (31/10: todo hasta el viernes 27/11)
 META_HECHO_HASTA = D(2026, 11, 27)
-# TikTok (31/10, leído en TikTok Studio): 018–026 programados (2–13/11; del 6/11 en adelante corridos un día, el 6/11 quedó libre).
-# El 027 va al hueco del viernes 6/11 y desde el 028 TikTok sale el mismo día que Meta.
-TIKTOK_HECHOS = {f"{n:03d}" for n in range(18, 27)}
-TIKTOK_FECHA = {"027": D(2026, 11, 6)}
+# TikTok (1/11, leído en TikTok Studio): 018–038 programados (027 en el hueco del 6/11; desde el 028, el mismo día que Meta).
+TIKTOK_HECHOS = {f"{n:03d}" for n in range(18, 39)}
+TIKTOK_FECHA = {}
 # vídeo largo de Ticket Medio: viernes 18:00
 FECHA_LARGO = {7: D(2026, 11, 6), 8: D(2026, 11, 13), 9: D(2026, 11, 20), 10: D(2026, 11, 27), 11: D(2026, 12, 4), 12: D(2026, 12, 11)}
 
