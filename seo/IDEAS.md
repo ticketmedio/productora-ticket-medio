@@ -2,6 +2,20 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 02/11/2026 (tarde)
+
+**Ejemplos que funcionan (datos públicos, 02/11/2026)**
+- Carlos Brandt: Temu 3,59 M y Shein 575 mil («¿Por qué es tan barato?»).
+- JF Calero (129 mil): Temu y Shein, 32 mil en 4 d. Bruno Peluch (≈6,57 mil): TOUS 243 mil.
+- Black Friday «falso descuento»: recientes con 359 y 403 visualizaciones (hueco).
+
+**Ideas**
+1. **Vídeo largo — Black Friday: el sistema del falso descuento**, con la multa de Consumo (350.000 €) de apertura.
+2. **Short — «¿Por qué es tan barato?»** de una marca de moda rápida, enlazado al largo.
+3. **Carrusel de Pepa — matanza / San Martín (11/11)** (falta fuente AESAN).
+
+**Mejora aplicable:** título de paradoja o sospecha con marca y cifra al principio. (`yt_video.py`: 403 por red.)
+
 ## 02/11/2026 (mañana)
 
 **Ejemplos que funcionan (datos públicos, 02/11/2026)**
