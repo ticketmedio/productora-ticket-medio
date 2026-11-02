@@ -1560,11 +1560,11 @@
         "YouTube"
       ],
       "date": "2026-10-26",
-      "status": "pendiente",
+      "status": "hecho",
       "title": "Fijar el comentario con las fuentes del vídeo 5 (2 min)",
       "createdBy": "claude",
       "createdAt": "2026-09-28T13:02:28.000Z",
-      "updatedAt": "2026-10-20T17:00:38.000Z",
+      "updatedAt": "2026-11-02T06:33:36.814Z",
       "notes": "Abre el vídeo ya publicado (studio.youtube.com → «Contenido» → título → «Ver en YouTube»), pega como comentario el texto de Descargas › faceless › youtube › video_005_… › output › COMENTARIO_FIJADO.txt, publícalo y en sus tres puntos → «Fijar».\n\nLISTA DE COMPROBACIÓN (redes/LISTA_COMPROBACION.md), en CADA publicación antes de pasar a la siguiente:\n  ☐ Texto pegado entero (no vacío ni cortado)\n  ☐ Hashtags: 5 como máximo\n  ☐ Fecha y hora correctas (ojo al MES; que la hora no se quede en la actual)\n  ☐ Cuenta y archivo correctos (Pepa Pita o Ticket Medio; en TikTok, el archivo con TIKTOK en el nombre, si lo hay)",
       "comentarios": []
     },
@@ -1632,11 +1632,11 @@
         "YouTube"
       ],
       "date": "2026-11-02",
-      "status": "pendiente",
+      "status": "hecho",
       "title": "Fijar el comentario con las fuentes del vídeo 6 (2 min)",
       "createdBy": "claude",
       "createdAt": "2026-09-28T13:02:28.000Z",
-      "updatedAt": "2026-10-20T17:00:38.000Z",
+      "updatedAt": "2026-11-02T06:33:36.814Z",
       "notes": "Abre el vídeo ya publicado (studio.youtube.com → «Contenido» → título → «Ver en YouTube»), pega como comentario el texto de Descargas › faceless › youtube › video_006_… › output › COMENTARIO_FIJADO.txt, publícalo y en sus tres puntos → «Fijar».\n\nLISTA DE COMPROBACIÓN (redes/LISTA_COMPROBACION.md), en CADA publicación antes de pasar a la siguiente:\n  ☐ Texto pegado entero (no vacío ni cortado)\n  ☐ Hashtags: 5 como máximo\n  ☐ Fecha y hora correctas (ojo al MES; que la hora no se quede en la actual)\n  ☐ Cuenta y archivo correctos (Pepa Pita o Ticket Medio; en TikTok, el archivo con TIKTOK en el nombre, si lo hay)",
       "comentarios": []
     },
@@ -3011,11 +3011,12 @@
       "who": "tu",
       "kind": "tarea",
       "project": "youtube",
-      "status": "pendiente",
+      "status": "hecho",
       "platforms": [
         "YouTube"
       ],
-      "notes": "Studio no deja elegir «Vídeo relacionado» hasta que el largo esté público. Cuando el largo de la luz se publique (viernes 30/10, 18:00), entra en Studio → Contenido → Shorts y, en cada uno de los 7 Shorts de la luz (4 salen del 3 al 6/11, el resto ya está programado), pon como «Vídeo relacionado» el largo «Por qué tu factura de la luz sube aunque la energía baja». Hazlo antes del 3/11, que es cuando sale el primero."
+      "notes": "Studio no deja elegir «Vídeo relacionado» hasta que el largo esté público. Cuando el largo de la luz se publique (viernes 30/10, 18:00), entra en Studio → Contenido → Shorts y, en cada uno de los 7 Shorts de la luz (4 salen del 3 al 6/11, el resto ya está programado), pon como «Vídeo relacionado» el largo «Por qué tu factura de la luz sube aunque la energía baja». Hazlo antes del 3/11, que es cuando sale el primero.",
+      "updatedAt": "2026-11-02T06:33:36.814Z"
     },
     {
       "id": "u-clave-gemini",
@@ -3643,7 +3644,10 @@
     "w-33",
     "w-35",
     "w-36",
-    "w-39"
+    "w-39",
+    "w-42",
+    "w-44",
+    "w-46"
   ],
   "informes": [
     {
@@ -3652,6 +3656,13 @@
       "titulo": "Black Friday sigue siendo hueco; «¿por qué es tan barato?» manda (Temu 3,58 M)",
       "texto": "## Lo más importante\n- **Black Friday «falso descuento» sigue siendo hueco**: los vídeos recientes tienen **357, 403 y 727** visualizaciones; el tema llega el 27/11 y aún nadie pequeño lo ha clavado con marca + sospecha + cifra (multa de Consumo: 350.000 € a 7 empresas).\n- **«¿Por qué X es tan barato?» sigue siendo el patrón fuerte**: Temu **3,58 M** (Carlos Brandt, hace 5 m), Shein **575 mil**, «Temu es barato porque tú eres su producto» **930 mil**. Ángulo de sospecha, no de «cómo gana dinero».\n- **Bruno Peluch** (≈**6,56 mil** suscriptores) mantiene el outlier de TOUS en **239 mil** (hace 2 sem.) frente a **317** de su vídeo de hoy: el éxito es del tema y el ángulo, no del canal.\n\n## YouTube: lo que está funcionando\n- Bruno Peluch: «La Verdadera Historia de TOUS (y su mayor escándalo)» **239 mil**; Hawkers **18 mil**; Cupra/Seat **14 mil**; Fagor **7,1 mil**; Tuenti **317**. Muy irregular: solo los títulos de escándalo/sistema despegan.\n- Temu/Shein: tres vídeos de entre **229 mil y 3,58 M** con títulos de paradoja («es barato porque tú eres el producto»).\n- «Cómo funciona Amazon» (explicativo neutro): **235 mil** pero de hace 8 años; los recientes de Amazon Prime/afiliados rondan **5–15 mil**.\n- Búsqueda «el sistema que Mango»: sin resultados relevantes (hueco, pero también poca demanda visible).\n\n## Instagram y Facebook\n- Solo fuentes web (blogs de marketing, no oficiales): tiempo de visualización, **compartidos** y guardados pesan más que los «me gusta»; Reels de **7–30 s** como duración ideal; se habla de una «puntuación de originalidad» que penaliza el contenido reciclado (sin confirmar por Meta); los carruseles aparecen como alternativa de alto engagement.\n- Los Reels largos (hasta 3 min) serían recomendables en Explorar según una guía, y otra los marca como beta: no verificado.\n- Fechas próximas: **11/11** (San Martín, matanza/embutidos) y Día de los Solteros; **27/11** Black Friday. Para Pepa: castañas y embutidos casero/matanza con fuente AESAN.\n\n## TikTok\n- La búsqueda no devolvió nada específico y verificable de noviembre de 2026 para cocina o seguridad alimentaria en España. Sin novedad contrastada.\n\n## Lo nuestro hoy (cifras públicas)\n- @TicketMedio: **8 suscriptores**. Luz **2** visualizaciones (hace 2 d); Lidl **6** (9 d); El Corte Inglés **8** (2 sem.); Zara **13** (3 sem.); Mercadona **16** (4 sem.); gasolina **14** (1 m). Sin tracción orgánica todavía.\n\n## Ideas para nosotros\n- **Largo**: Black Friday, el sistema del falso descuento, abriendo con la multa de 350.000 € (inspira: «BLACK FRIDAY 2026: la trampa del descuento…», 357 visualizaciones, hueco). Mejora: marca + sospecha + cifra al principio del título.\n- **Short**: «¿Por qué es tan barato?» con una marca de moda rápida, 10–15 s, enlazado al largo (inspira: Temu 3,58 M).\n- **Carrusel de Pepa**: matanza / embutidos de San Martín (falta fuente AESAN).\n\n## Para ti\n- Nada. Nota técnica: `yt_video.py` devuelve 403 del proxy en la nube, así que no hay «momentos más vistos» hoy; TikTok sin datos útiles.",
       "createdAt": "2026-11-02T05:06:14.511Z"
+    },
+    {
+      "fecha": "2026-11-02",
+      "clave": "seo",
+      "titulo": "SEO 2/11: 9.693 visualizaciones en 28 días, casi todo Shorts; largos 0,9 h de 8.000",
+      "texto": "## Lo más importante\n- **YouTube (28 días): 9.693 visualizaciones y 23,98 h**, +4 suscriptores. Casi todo son Shorts: **9.631 visualizaciones**. Los largos suman solo **59 visualizaciones y 0,9 h válidas de 8.000**.\n- **Última semana: 1.223 visualizaciones y 2,03 h, 0 suscriptores nuevos.** Largos: 9 visualizaciones (0,08 h); Shorts: 1.214 (1,95 h). La semana cae a la mitad respecto a la del informe anterior (2.321).\n- El ritmo actual de horas válidas está lejísimos de lo necesario para julio de 2027 (ver panel de dinero).\n\n## YouTube (Ticket Medio)\n- **28 días:** 9.693 visualizaciones, 23,98 h, duración media 22 s, 76 «me gusta», 3 comentarios, 2 veces compartido, +4 suscriptores, 0 bajas.\n- **Largos (`videoOnDemand`):** 59 visualizaciones, 0,9 h, duración media 84 s. **Estas son las horas válidas para el Programa de Socios.**\n- **Shorts:** 9.631 visualizaciones, 23,08 h (no cuentan para las 8.000 h).\n- **Mejores vídeos (28 días, por ID):** Ym1x5rYQIYs 1.869 (retención 70 %, 1 suscriptor) · VgeA42ltY9s 988 (59 %) · vO79lJDvoZU 678 (66 %, 1 suscriptor) · 4vO3EyjMDmk 627. **Semana:** 5KErVNDb3ss 598 (68 %) y OT8_Bf6ftk4 310 (56 %).\n- **Canal público:** 8 suscriptores, 32 vídeos. Último largo: «Por qué tu factura de la luz sube aunque la energía baja» (2 visualizaciones públicas, hace 2 días); Lidl 6, El Corte Inglés 8.\n\n## Facebook, Instagram y TikTok (Pepa Pita)\nCifras del último informe del PC (29/10), no de hoy:\n- **Instagram:** 1.955 seguidores, 9.223 visualizaciones en 30 días.\n- **TikTok:** 2.900 visualizaciones en 7 días, 3 seguidores.\n- **Facebook:** 12 seguidores, 4.761 espectadores en 28 días.\n\n## Comparación con el día anterior\n- **Respecto al informe de ayer (1/11):** visualizaciones 28 días 9.129 → **9.693**; horas 23,57 → **23,98**; semana 2.321 → **1.223** visualizaciones y 4,1 → **2,03 h**. Suscriptores en ficha pública 8 → 8.\n- **Mejor:** el Short de 1.869 visualizaciones. **Peor:** los largos, sin alcance.\n\n## Qué funciona y qué no\n- **Funciona:** Shorts con retención alta (56–70 %) y duración media corta.\n- **No funciona:** los largos (59 visualizaciones en 28 días) y convertir visualizaciones en suscriptores (0 esta semana).\n\n## Recomendación del día\n- Hoy lunes, revisa el largo de la luz (publicado hace 2 días): saca 2–3 Shorts de 10–15 s con el dato más fuerte en la primera frase, cada uno enlazado al largo con «Vídeo relacionado», y mide el largo a los 7 días (el 6/11). Título buscable: marca + sospecha + cifra.\n\n## Panel de dinero\n- **Horas válidas (largos): 0,9 de 8.000** (0,01 %). Shorts aparte: 23,08 h, no cuentan.\n- **Suscriptores: 8 de 1.000** (faltan 992).\n- **Días hasta el 1/7/2027: 241** (≈34 semanas). Hacen falta **≈232 horas válidas por semana**; ahora mismo hacemos 0,08 h por semana en largos.\n- **No vamos a ritmo**: las horas y los suscriptores dependen de que los largos empiecen a recibir alcance; con el patrón actual no se llega.\n\n## Para ti\n- La API de datos de YouTube (v3) sigue desactivada en el proyecto de Google Cloud 773557972583, por eso hoy no salen títulos de los vídeos de la API. Se activa en console.developers.google.com → YouTube Data API v3 → Habilitar.\n- No he podido medir la retención del último largo: sin títulos no puedo identificar su ID y tiene muy pocos datos.\n- Hoy el informe SEO lo ha hecho la nube con la API de YouTube; las cifras de Meta y TikTok son del último informe del PC.",
+      "createdAt": "2026-11-02T06:33:36.830Z"
     },
     {
       "fecha": "2026-11-01",
