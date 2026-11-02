@@ -2,6 +2,20 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 02/11/2026 (mañana)
+
+**Ejemplos que funcionan (datos públicos, 02/11/2026)**
+- Carlos Brandt: «¿Por qué TEMU es tan barato?», 3,58 M (hace 5 m); «Temu es barato porque tú eres su producto» (Finanzas para todos), 930 mil.
+- Bruno Peluch (≈6,56 mil suscriptores): TOUS, 239 mil en 2 sem.; su vídeo de hoy, 317.
+- Black Friday «falso descuento»: recientes con 357, 403 y 727 visualizaciones (hueco).
+
+**Ideas**
+1. **Vídeo largo — Black Friday: el sistema del falso descuento**, con la multa de Consumo (350.000 €, 7 empresas) de apertura.
+2. **Short — «¿Por qué es tan barato?»** con una marca de moda rápida, enlazado al largo.
+3. **Carrusel de Pepa — matanza / San Martín (11/11)** (falta fuente AESAN).
+
+**Mejora aplicable:** título de paradoja o sospecha con marca y cifra al principio. (`yt_video.py`: 403 por red.)
+
 ## 01/11/2026 (tarde)
 
 **Ejemplos que funcionan (datos públicos, 01/11/2026)**
