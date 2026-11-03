@@ -2,6 +2,20 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 03/11/2026 (tarde)
+
+**Ejemplos que funcionan (datos públicos, 03/11/2026)**
+- Bruno Peluch (≈6,6 mil suscriptores): TOUS, 252 mil en 2 sem.; Fagor «los errores que lo hundieron», 7,2 mil.
+- Raíz Española (19,1 mil): «Por qué se llaman así estos 15 lugares famosos de Madrid», 29 mil en 3 d.
+- Black Friday «te engañan»: Tercid Pimentel 3.335 en 1 d (11:49); el resto de recientes, entre 0 y 376 (hueco, mucha competencia nueva).
+
+**Ideas**
+1. **Vídeo largo — «Por qué tu Black Friday es un truco de precio tachado»**, con la multa de Consumo (350.000 €) de apertura; salir ya, la competencia está llegando esta semana.
+2. **Short — «Por qué se llama así…»** aplicado a una marca de súper, enlazado al largo.
+3. **Carrusel de Pepa — matanza / San Martín (11/11)**; sigue sin fuente AESAN específica (solo Reglamentos CE 852/853/2004 y control veterinario autonómico).
+
+**Mejora aplicable:** «Por qué…» + marca + sospecha en el título (patrón de Raíz Española y Bruno Peluch). (`yt_video.py`: datos parciales.)
+
 ## 03/11/2026 (mañana)
 
 **Ejemplos que funcionan (datos públicos, 03/11/2026)**
