@@ -3677,6 +3677,13 @@
       "createdAt": "2026-11-03T06:33:14.102Z"
     },
     {
+      "fecha": "2026-11-03",
+      "clave": "mercado-tarde",
+      "titulo": "Black Friday se llena de vídeos de «te engañan»; sigue ganando marca + sospecha + cifra",
+      "texto": "## Lo más importante\n- **Black Friday ya se llena de vídeos de «te engañan»**: hoy salen varios nuevos (el mejor, **3.335** visualizaciones en 1 día); el hueco se cierra, hay que publicar el nuestro cuanto antes.\n- El patrón que sigue funcionando en economía española: **marca + sospecha + cifra** (TOUS de Bruno Peluch, **252 mil** con ≈6,6 mil suscriptores).\n- Para Pepa no hay fuente AESAN concreta sobre la matanza de San Martín (11/11): solo normativa general; no se produce hasta tenerla.\n\n## YouTube: lo que está funcionando\n- Bruno Peluch (≈**6,6 mil** suscriptores): «La verdadera historia de TOUS», **252 mil**; Fagor, **7,2 mil**; Hawkers «el sistema…», **18 mil**.\n- Raíz Española (**19,1 mil**): «Por qué se llaman así estos 15 lugares famosos de Madrid», **29 mil** en 3 días.\n- Black Friday: Tercid Pimentel (11:49) **3.335** en 1 día; «La trampa del descuento» **361**; los demás, entre 0 y 376.\n- `yt_video.py` solo devolvió datos parciales (sin momentos más vistos).\n\n## Instagram y Facebook\n- Con búsqueda pública: los guardados y envíos por mensaje pesan más que los «me gusta»; los carruseles reciben unas 9 veces más guardados que la imagen única (Metricool, blog comercial).\n- Instagram permite Reels de hasta 90 s, con beta de 3 min; no hay cambios oficiales nuevos de noviembre.\n\n## TikTok\n- No hay datos verificables de tendencias de cocina o seguridad alimentaria en España para noviembre de 2026.\n\n## Lo nuestro hoy (cifras públicas)\n- **9** suscriptores, 34 vídeos. Últimos: factura de la luz **2** (hace 4 d), Lidl **6** (11 d), El Corte Inglés **8** (2 sem.), Zara **14**, Mercadona **16**, gasolina **14**.\n\n## Ideas para nosotros\n- Largo: Black Friday y el precio tachado, con la multa de Consumo (**350.000 €**) de apertura.\n- Short: «Por qué se llama así» aplicado a una marca de súper, enlazado al largo.\n- Carrusel de Pepa: matanza / San Martín, cuando haya fuente.\n- Mejora: «Por qué…» + marca + sospecha al principio del título.\n\n## Para ti\n- Nada urgente. Aviso: las búsquedas de Instagram/TikTok por web dan poca información fresca; sin navegador no se puede ver más.",
+      "createdAt": "2026-11-03T18:11:48.652Z"
+    },
+    {
       "fecha": "2026-11-02",
       "clave": "mercado-manana",
       "titulo": "Black Friday sigue siendo hueco; «¿por qué es tan barato?» manda (Temu 3,58 M)",
