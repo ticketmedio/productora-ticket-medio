@@ -2,6 +2,20 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 03/11/2026 (mañana)
+
+**Ejemplos que funcionan (datos públicos, 03/11/2026)**
+- Negocios TV: ciberataque a congeladores de supermercados europeos, 238 mil en 14 h; RTVE Noticias, 85 mil en 8 h.
+- Carlos Brandt: Temu 3,61 M y Shein 576 mil. Bruno Peluch (≈6,58 mil): TOUS 248 mil.
+- Black Friday «falso descuento»: recientes con 359, 403 y 3.027 visualizaciones (hueco).
+
+**Ideas**
+1. **Short/largo — «El sistema que mantiene fría tu comida»**, gancho: el ciberataque a la refrigeración de supermercados (verificar con fuentes oficiales).
+2. **Vídeo largo — Black Friday: el sistema del falso descuento**, con la multa de Consumo (350.000 €) de apertura.
+3. **Carrusel de Pepa — matanza / San Martín (11/11)** (falta fuente AESAN).
+
+**Mejora aplicable:** noticia del día + título de sospecha con cifra al principio. (`yt_video.py`: datos parciales.)
+
 ## 02/11/2026 (tarde)
 
 **Ejemplos que funcionan (datos públicos, 02/11/2026)**
