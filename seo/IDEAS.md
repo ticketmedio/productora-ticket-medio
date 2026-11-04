@@ -2,6 +2,20 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 04/11/2026 (mañana)
+
+**Ejemplos que funcionan (datos públicos, 04/11/2026)**
+- Negocios TV: ciberataque a congeladores de supermercados, 261 mil en 1 d. Javier Ledesma: crisis de DIA, 753 mil.
+- Bruno Peluch (≈6,6 mil): TOUS 255 mil, CEPSA 180 mil; «El sistema que hace imposible copiar a Zara» 305 mil.
+- Black Friday «falso descuento»: recientes entre 34 y 379 (hueco).
+
+**Ideas**
+1. **Vídeo largo — Black Friday: el truco del precio tachado**, con la multa de Consumo (350.000 €) de apertura.
+2. **Short/largo — «El sistema que mantiene fría tu comida»**, gancho: el ciberataque a congeladores (verificar fuentes).
+3. **Carrusel de Pepa — matanza / San Martín (11/11)** (falta fuente AESAN).
+
+**Mejora aplicable:** «El sistema que…» + marca + sospecha con cifra. (`yt_video.py`: datos parciales.)
+
 ## 03/11/2026 (tarde)
 
 **Ejemplos que funcionan (datos públicos, 03/11/2026)**
