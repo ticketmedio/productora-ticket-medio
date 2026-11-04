@@ -47,25 +47,29 @@
    "ruta": "redes/pepa_pita/videos/013_castanas",
    "ultima_publicacion": "2026-10-27",
    "archivo": "pepa_pita/013_castanas",
-   "nota": "Adelantada a petición del usuario el 18/10/2026 (ya programado en las plataformas); última publicación real: 2026-10-27"
+   "nota": "Adelantada a petición del usuario el 18/10/2026 (ya programado en las plataformas); última publicación real: 2026-10-27",
+   "borrada": "2026-11-04"
   },
   {
    "ruta": "redes/pepa_pita/videos/014_calabaza",
    "ultima_publicacion": "2026-10-29",
    "archivo": "pepa_pita/014_calabaza",
-   "nota": "Adelantada a petición del usuario el 18/10/2026 (ya programado en las plataformas); última publicación real: 2026-10-29"
+   "nota": "Adelantada a petición del usuario el 18/10/2026 (ya programado en las plataformas); última publicación real: 2026-10-29",
+   "borrada": "2026-11-04"
   },
   {
    "ruta": "redes/pepa_pita/videos/015_setas",
    "ultima_publicacion": "2026-10-31",
    "archivo": "pepa_pita/015_setas",
-   "nota": "Adelantada a petición del usuario el 18/10/2026 (ya programado en las plataformas); última publicación real: 2026-10-31"
+   "nota": "Adelantada a petición del usuario el 18/10/2026 (ya programado en las plataformas); última publicación real: 2026-10-31",
+   "borrada": "2026-11-04"
   },
   {
    "ruta": "redes/pepa_pita/videos/016_menu_otono",
    "ultima_publicacion": "2026-11-03",
    "archivo": "pepa_pita/016_menu_otono",
-   "nota": "Adelantada a petición del usuario el 18/10/2026 (ya programado en las plataformas); última publicación real: 2026-11-03"
+   "nota": "Adelantada a petición del usuario el 18/10/2026 (ya programado en las plataformas); última publicación real: 2026-11-03",
+   "borrada": "2026-11-04"
   },
   {
    "ruta": "redes/pepa_pita/videos/017_legumbres",
@@ -138,6 +142,13 @@
    "archivo": "video_006_luz",
    "nota": "Programado por el usuario el 18/10/2026 (sale el 30/10); borrada a su petición para liberar espacio",
    "borrada": "2026-10-18"
+  },
+  {
+   "ruta": "youtube/video_007_ryanair",
+   "ultima_publicacion": "2026-11-03",
+   "archivo": "video_007_ryanair",
+   "nota": "Programado por el usuario y comprobado en YouTube Studio el 4/11/2026 (largo 6/11, Shorts 7–13/11); borrada a su petición para liberar espacio",
+   "borrada": "2026-11-04"
   }
  ]
 }

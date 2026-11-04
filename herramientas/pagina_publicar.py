@@ -18,6 +18,8 @@ META_HECHO_HASTA = D(2026, 11, 27)
 # TikTok (1/11, leído en TikTok Studio): 018–038 programados (027 en el hueco del 6/11; desde el 028, el mismo día que Meta).
 TIKTOK_HECHOS = {f"{n:03d}" for n in range(18, 39)}
 TIKTOK_FECHA = {}
+# YouTube ya programado y comprobado por Claude en YouTube Studio; su carpeta se borra, solo queda lo que hay que hacer al salir
+YOUTUBE_HECHOS = {7: ("video_007_ryanair", D(2026, 11, 6), "Ryanair")}  # 4/11: largo 6/11, Shorts 7–13/11
 # vídeo largo de Ticket Medio: viernes 18:00
 FECHA_LARGO = {7: D(2026, 11, 6), 8: D(2026, 11, 13), 9: D(2026, 11, 20), 10: D(2026, 11, 27), 11: D(2026, 12, 4), 12: D(2026, 12, 11)}
 
@@ -88,6 +90,13 @@ for v in sorted(glob.glob(os.path.join(RAIZ, "youtube", "video_0*"))):
                       "aviso": f"Cuando el vídeo {num} ya esté publicado: «Vídeo relacionado» → vídeo {num}.",
                       "campos": [["Título", f"{s['titulo']} #shorts"],
                                  ["Descripción", f"{s['descripcion']} El vídeo completo, en el canal.\n{s['hashtags']}"]]})
+
+for num, (carpeta, dia, nombre) in YOUTUBE_HECHOS.items():
+    items.append({"dia": dia.isoformat(), "hora": "18:00", "red": "youtube", "tipo": "Al salir",
+                  "titulo": f"Vídeo {num} · {nombre}: ya programado, falta esto", "destino": "YouTube · cuando el vídeo esté público",
+                  "ruta": ruta_bonita(f"archivo/{carpeta}"), "archivo": "",
+                  "aviso": f"Fija este comentario y pon «Vídeo relacionado» → vídeo {num} en sus 7 Shorts.",
+                  "campos": [["Comentario fijado", leer("archivo", carpeta, "COMENTARIO_FIJADO.txt")]]})
 
 items.sort(key=lambda x: (x["dia"], x["hora"], x["red"]))
 for k, it in enumerate(items):
