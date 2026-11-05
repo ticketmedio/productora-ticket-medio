@@ -2,6 +2,20 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 05/11/2026 (mañana)
+
+**Ejemplos que funcionan (datos públicos, 05/11/2026)**
+- Marc Vidal: «Algo no cuadra en el ciberataque a los supermercados», 329 mil en 1 d.
+- Bruno Peluch (≈6,6 mil): TOUS 261 mil; «El sistema que hace imposible copiar a Zara» 305 mil. Los clones de ese título en otros canales: 55–193.
+- Black Friday «trampa»: recientes entre 370 y 4.773 (hueco).
+
+**Ideas**
+1. **Vídeo largo — Black Friday: el truco del precio tachado**, con la multa de Consumo (350.000 €).
+2. **Short — «Algo no cuadra en…»** sobre una cifra de súper, enlazado al largo.
+3. **Carrusel de Pepa — matanza / San Martín (11/11)** (falta fuente AESAN).
+
+**Mejora aplicable:** título con marca + sospecha + cifra; el formato sin marca fuerte no basta. (`yt_video.py`: 403 desde la nube.)
+
 ## 04/11/2026 (tarde)
 
 **Ejemplos que funcionan (datos públicos, 04/11/2026)**
