@@ -16,3 +16,6 @@ Sin estadísticas privadas de Pepa el orden no cambia: 1) Shorts/Reels de econom
 
 ## Revisión 30/10/2026 (viernes, tarde)
 Sin estadísticas privadas de Pepa el orden no cambia. Canal de Ticket Medio: 7 suscriptores, largo nuevo en 0 visualizaciones. Los ejemplos públicos de economía con «sistema» y comparativas de cesta siguen siendo la opción 1.
+
+## Revisión 06/11/2026 (viernes, tarde)
+Sin estadísticas privadas de Pepa el orden no cambia. Canal de Ticket Medio: 10 suscriptores; el largo nuevo (Ryanair) en 0 visualizaciones. Siguen mandando los Shorts/Reels de economía con sospecha («Algo no cuadra», 406 mil) como opción 1.
