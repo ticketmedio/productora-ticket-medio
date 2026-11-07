@@ -2,6 +2,20 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 07/11/2026 (mañana)
+
+**Ejemplos que funcionan (datos públicos, 07/11/2026)**
+- Marc Vidal: «Algo no cuadra en el ciberataque a los supermercados», 416 mil en 3 d.
+- Alimentos Investigados: «Mercadona y Dia pilladas con sus marcas blancas: algo no cuadra en tu ticket», 4.831.
+- Black Friday «precio tachado»: recientes entre 11 y 409 (hueco).
+
+**Ideas**
+1. **Vídeo largo — Black Friday: el truco del precio tachado** (multa de Consumo de 350.000 €; Black Friday 27/11).
+2. **Short — «Algo no cuadra en…»** sobre una cifra de súper, enlazado al largo.
+3. **Carrusel de Pepa — matanza / San Martín (11/11)** (falta fuente AESAN).
+
+**Mejora aplicable:** título de sospecha anclado en la noticia de la semana. (`yt_video.py`: 403 desde la nube.)
+
 ## 06/11/2026 (tarde)
 
 **Ejemplos que funcionan (datos públicos, 06/11/2026)**
