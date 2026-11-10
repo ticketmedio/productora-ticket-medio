@@ -2,6 +2,20 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 10/11/2026 (mañana)
+
+**Ejemplos que funcionan (datos públicos, 10/11/2026)**
+- Marc Vidal: «Algo no cuadra en el ciberataque a los supermercados», 458.446 en 6 d.
+- Bruno Peluch (6,67 K suscr.): «La Verdadera Historia de TOUS (y Su Mayor Escándalo)», 286 mil en 3 sem.
+- Black Friday «precio tachado/trampa»: sin resultados recientes (hueco).
+
+**Ideas**
+1. **Largo — «La verdadera historia de [marca española] y su escándalo»**, con cifra en el título (patrón TOUS, ≈43x).
+2. **Largo — Black Friday: el truco del precio tachado** (27/11).
+3. **Short — «Algo no cuadra en…»** sobre una cifra de súper, enlazado al largo.
+
+**Mejora aplicable:** palabra de sospecha/escándalo en el título («y no fue por ti»). (`yt_video.py`: datos vacíos desde la nube.)
+
 ## 09/11/2026 (tarde)
 
 **Ejemplos que funcionan (datos públicos, 09/11/2026)**
