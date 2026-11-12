@@ -2,6 +2,20 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 12/11/2026 (mañana)
+
+**Ejemplos que funcionan (datos públicos, 12/11/2026)**
+- Marc Vidal: «Algo no cuadra en el ciberataque a los supermercados (y no es solo el hacker)», 464.820 en 8 d, 17:56.
+- Bruno Peluch (6,69 K suscr.): «La Verdadera Historia de TOUS (y Su Mayor Escándalo)», 290 mil; sus otros vídeos recientes, 2,7–7,5 mil (el escándalo y la marca conocida marcan la diferencia).
+- Lujo en Minutos: «7 relojes de Amazon para el Black Friday (y 3 ofertas trampa)», 43.574 en 3 d, 12:05.
+
+**Ideas**
+1. **Largo — Black Friday: el truco del precio tachado** (antes del 27/11), con «trampa» y cifra.
+2. **Short — «Algo no cuadra en…»** sobre una cifra de cesta, enlazado al largo.
+3. **Carrusel/Reel de Pepa — «3 chollos del Black Friday en comida que caducan»** (guardar/compartir, sin pedir comentarios).
+
+**Mejora aplicable:** título con «(y 3 ofertas trampa)»: paréntesis de sospecha + cifra. (`yt_video.py`: 403 desde la nube.)
+
 ## 11/11/2026 (tarde)
 
 **Ejemplos que funcionan (datos públicos, 11/11/2026)**
