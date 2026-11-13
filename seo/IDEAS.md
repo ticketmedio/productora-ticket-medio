@@ -2,6 +2,20 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 13/11/2026 (mañana)
+
+**Ejemplos que funcionan (datos públicos, 13/11/2026)**
+- Marc Vidal: «Algo no cuadra en el ciberataque a los supermercados (y no es solo el hacker)», 466.737 en 8 d.
+- Lujo en Minutos: «7 Relojes de AMAZON para el BLACK FRIDAY (Y 3 Ofertas TRAMPA)», 44.961 en 3 d.
+- Trendy Pick: «35 ofertas anticipadas de cocina por el Black Friday en Walmart», 27.153 en 3 d, 19:11.
+
+**Ideas**
+1. **Largo — Black Friday: el truco del precio tachado (y 3 trampas)**, antes del 27/11 (en español el nicho casi vacío: 429 visualizaciones el mejor).
+2. **Short — «Algo no cuadra en…»** con cifra de cesta, enlazado al largo.
+3. **Carrusel de Pepa — chollos de comida que caducan** (guardar/compartir).
+
+**Mejora aplicable:** paréntesis de sospecha + cifra en el título. (`yt_video.py`: falla desde la nube.)
+
 ## 12/11/2026 (tarde)
 
 **Ejemplos que funcionan (datos públicos, 12/11/2026)**
