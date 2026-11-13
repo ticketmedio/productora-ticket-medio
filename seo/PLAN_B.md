@@ -19,3 +19,6 @@ Sin estadísticas privadas de Pepa el orden no cambia. Canal de Ticket Medio: 7 
 
 ## Revisión 06/11/2026 (viernes, tarde)
 Sin estadísticas privadas de Pepa el orden no cambia. Canal de Ticket Medio: 10 suscriptores; el largo nuevo (Ryanair) en 0 visualizaciones. Siguen mandando los Shorts/Reels de economía con sospecha («Algo no cuadra», 406 mil) como opción 1.
+
+## Revisión 13/11/2026 (viernes, tarde)
+Sin estadísticas privadas de Pepa el orden no cambia. Canal de Ticket Medio: 10 suscriptores; el largo de Ryanair sigue en 0 visualizaciones. Opción 1 (Shorts/Reels de economía con «Algo no cuadra», 467 mil) sigue primera.

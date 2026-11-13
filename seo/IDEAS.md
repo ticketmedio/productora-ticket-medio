@@ -2,6 +2,20 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 13/11/2026 (tarde)
+
+**Ejemplos que funcionan (datos públicos, 13/11/2026)**
+- Marc Vidal: «Algo no cuadra en el ciberataque a los supermercados (y no es solo el hacker)», 467.574 en 9 d.
+- Rossen Reports: «Black Friday ANTICIPADO en HOME DEPOT: 20 ofertas… (¡Y 3 que debes evitar!)», 246.639 en 20 h.
+- Black Friday en español de economía cotidiana: 60–722 visualizaciones (nicho casi vacío).
+
+**Ideas**
+1. **Largo — Black Friday: el truco del precio tachado (y 3 trampas)**, antes del 27/11.
+2. **Short — «Algo no cuadra en…»** con cifra de cesta, enlazado al largo.
+3. **Carrusel de Pepa — chollos de comida que caducan** (guardar/compartir).
+
+**Mejora aplicable:** «(y 3 que debes evitar)» en el título. (`yt_video.py`: 403 desde la nube.)
+
 ## 13/11/2026 (mañana)
 
 **Ejemplos que funcionan (datos públicos, 13/11/2026)**
