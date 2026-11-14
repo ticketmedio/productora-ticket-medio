@@ -2,6 +2,20 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 14/11/2026 (mañana)
+
+**Ejemplos que funcionan (datos públicos, 14/11/2026)**
+- Rossen Reports: «Black Friday ANTICIPADO en HOME DEPOT: ¡20 ofertas… (¡Y 3 que debes evitar!)», 309.646 en 1 d, 22:15.
+- Bruno Peluch (6,7 K suscr.): «La Verdadera Historia de TOUS (y Su Mayor Escándalo)», 294 mil; el resto, 2,7–10 mil.
+- Elias Sweet: «15 EUROS en Mercadona vs Lidl», 46.821 en 8 m, 10:12.
+
+**Ideas**
+1. **Largo — Black Friday: el truco del precio tachado (y 3 trampas)**, antes del 27/11.
+2. **Short — «Algo no cuadra en…»** con cifra de cesta, enlazado al largo.
+3. **Carrusel de Pepa — chollos de comida que caducan** (guardar/compartir).
+
+**Mejora aplicable:** paréntesis «(y 3 que debes evitar)» con cifra. (`yt_video.py`: datos incompletos desde la nube.)
+
 ## 13/11/2026 (tarde)
 
 **Ejemplos que funcionan (datos públicos, 13/11/2026)**
