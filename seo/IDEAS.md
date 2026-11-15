@@ -2,6 +2,20 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 15/11/2026 (tarde)
+
+**Ejemplos que funcionan (datos públicos, 15/11/2026)**
+- Marc Vidal: «Algo no cuadra en el ciberataque a los supermercados (y no es solo el hacker)», 471.443 en 11 d, 17:56.
+- El Radar de Cris (9,6 K suscr.): «NOVEDADES MERCADONA NOVIEMBRE, LO QUE NO TE PUEDES PERDER», 193.289 en 3 d, 15:01.
+- Bruno Peluch (6,71 K suscr.): «¿Nos están engañando? El cambio de nombre de CEPSA», 180 mil; TOUS, 296 mil.
+
+**Ideas**
+1. **Largo — Mercadona noviembre: lo nuevo, lo que sube y lo que no compraría (con cifras de cesta).**
+2. **Short — «Algo no cuadra en el precio tachado del Black Friday»**, enlazado al largo.
+3. **Carrusel de Pepa — chollos de comida que caducan antes de usarlos** (guardar/compartir).
+
+**Mejora aplicable:** título de sospecha sobre una marca conocida + cifra (modelo «¿Nos están engañando? …CEPSA»). (`yt_video.py`: no disponible desde la nube.)
+
 ## 15/11/2026 (mañana)
 
 **Ejemplos que funcionan (datos públicos, 15/11/2026)**
