@@ -2,6 +2,20 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 15/11/2026 (mañana)
+
+**Ejemplos que funcionan (datos públicos, 15/11/2026)**
+- El Radar de Cris (9,62 K suscr.): «NOVEDADES MERCADONA NOVIEMBRE, LO QUE NO TE PUEDES PERDER», 165 mil en 2 d, 15:01; y «Productos de limpieza de Mercadona por menos de 4 €», 256 mil.
+- Bruno Peluch (6,71 K suscr.): «La verdadera historia de TOUS (y su mayor escándalo)», 295 mil; el resto, 2,7–10 mil.
+- OPCIÓN FRUGAL: «Las 5 teles de Black Friday que nunca debes comprar», 4.121 en 14 h (nicho español casi vacío).
+
+**Ideas**
+1. **Largo — Mercadona noviembre: lo nuevo, lo que sube y lo que no compraría (con cifras de cesta).**
+2. **Short — «Algo no cuadra en el precio tachado del Black Friday»**, enlazado al largo.
+3. **Carrusel de Pepa — chollos de comida que caducan antes de que los uses** (guardar/compartir).
+
+**Mejora aplicable:** precio concreto en el título («por menos de 4 €») o cifra de trampas. (`yt_video.py`: 403 desde la nube.)
+
 ## 14/11/2026 (tarde)
 
 **Ejemplos que funcionan (datos públicos, 14/11/2026)**
