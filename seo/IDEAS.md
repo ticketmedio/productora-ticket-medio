@@ -2,6 +2,20 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 16/11/2026 (mañana)
+
+**Ejemplos que funcionan (datos públicos, 16/11/2026)**
+- Bruno Peluch (6,72 K suscr.): «La Verdadera Historia de TOUS (y Su Mayor Escándalo)», 297 mil; el resto, 2,7–18 mil.
+- DW Español: «De congeladores a hornos por un ciberataque», 60.605, 1:04 (Short de actualidad).
+- Rataconomía: «Black Friday: la MENTIRA que oculta el precio TACHADO», 334 en 5 d, 12:45 (nicho casi vacío).
+
+**Ideas**
+1. **Largo — Black Friday: el truco del precio tachado (y 3 trampas con cifras de cesta)**, antes del 27/11.
+2. **Short — «Algo no cuadra en el precio tachado»**, 10–15 s, enlazado al largo.
+3. **Carrusel de Pepa — chollos de comida que caducan antes de usarlos** (guardar/compartir).
+
+**Mejora aplicable:** marca conocida + sospecha + cifra en el título, con paréntesis «(y 3 trampas)». (`yt_buscar.py canal @TicketMedio` vacío y `yt_video.py` sin momentos más vistos desde la nube.)
+
 ## 15/11/2026 (tarde)
 
 **Ejemplos que funcionan (datos públicos, 15/11/2026)**
