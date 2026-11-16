@@ -2,6 +2,20 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 16/11/2026 (tarde)
+
+**Ejemplos que funcionan (datos públicos, 16/11/2026)**
+- Marc Vidal: «Lo que están haciendo los supermercados con tus datos es una locura», 712.613, 19:28.
+- Lujo en Minutos: «7 Relojes de AMAZON para el BLACK FRIDAY (Y 3 Ofertas TRAMPA)», 46.776 en 5 d, 12:05.
+- Bruno Peluch (6,72 K suscr.): «La Verdadera Historia de TOUS (y Su Mayor Escándalo)», 298 mil; el resto, 2,7–10 mil.
+
+**Ideas**
+1. **Largo — Black Friday: el truco del precio tachado (y 3 trampas con cifras de cesta)**, antes del 27/11.
+2. **Short — «Algo no cuadra en el precio tachado»**, 10–15 s, enlazado al largo.
+3. **Carrusel de Pepa — chollos de comida que caducan antes de usarlos** (guardar/compartir).
+
+**Mejora aplicable:** paréntesis con cifra de trampas y marca conocida en el título. (`yt_video.py`: 403 desde la nube.)
+
 ## 16/11/2026 (mañana)
 
 **Ejemplos que funcionan (datos públicos, 16/11/2026)**
