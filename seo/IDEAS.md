@@ -2,6 +2,20 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 17/11/2026 (tarde)
+
+**Ejemplos que funcionan (datos públicos, 17/11/2026)**
+- Dinero En Tinta: «De tu ticket de 47 €, a Mercadona solo le queda un par de euros», 8.193 en 3 sem., 10:38.
+- Noticias Caracol: «Hackearon supermercados en Europa… neveras hasta 50 °C», 59.949 en 13 d, 11:24.
+- Educa tu Billetera: «Así te hacen GASTAR en el Black Friday sin que lo notes», 2.483, 18:58.
+
+**Ideas**
+1. **Largo — Black Friday: el truco del precio tachado (y 3 trampas con cifras de cesta)**, antes del 27/11.
+2. **Short — «Algo no cuadra en el precio tachado»**, enlazado al largo.
+3. **Reel de Pepa — si se calienta el congelador del súper, ¿cuánto aguanta la comida?** (cadena de frío, fuente oficial).
+
+**Mejora aplicable:** formato «de tu ticket de X €, a la marca solo le queda Y» en el título. (`yt_video.py`: sin momentos más vistos desde la nube.)
+
 ## 17/11/2026 (mañana)
 
 **Ejemplos que funcionan (datos públicos, 17/11/2026)**
