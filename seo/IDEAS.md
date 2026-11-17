@@ -2,6 +2,20 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 17/11/2026 (mañana)
+
+**Ejemplos que funcionan (datos públicos, 17/11/2026)**
+- DOS LOCOS X LA COMIDA: «Probamos las NOVEDADES de MERCADONA NOVIEMBRE 2026», 22.585 en 2 d, 26:21.
+- RompeMitos: «40 TRUCOS del SUPERMERCADO que NADIE te explicó», 103.750 en 3 m, 42:02.
+- Bruno Peluch (6,72 K suscr.): «La verdadera historia de TOUS (y su mayor escándalo)», 299 mil; el resto, 2,8–10 mil.
+
+**Ideas**
+1. **Largo — Black Friday: el truco del precio tachado (y 3 trampas con cifras de cesta)**, antes del 27/11; base: OCU, 45 % de productos subieron en 2025 frente a 18 % que bajaron.
+2. **Short — «Algo no cuadra en el precio tachado»**, enlazado al largo.
+3. **Carrusel de Pepa — chollos de comida que caducan antes de usarlos** (guardar/compartir).
+
+**Mejora aplicable:** lista numerada + «que nadie te explicó» en el título (modelo RompeMitos). (`yt_video.py`: sin momentos más vistos desde la nube.)
+
 ## 16/11/2026 (tarde)
 
 **Ejemplos que funcionan (datos públicos, 16/11/2026)**
