@@ -2,6 +2,20 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 18/11/2026 (mañana)
+
+**Ejemplos que funcionan (datos públicos, 18/11/2026)**
+- Lujo en Minutos: «7 Relojes de AMAZON para el BLACK FRIDAY (Y 3 Ofertas TRAMPA)», 47.192 en 5 d, 12:05.
+- Bruno Peluch (6,72 K suscr.): «La Verdadera Historia de TOUS (y Su Mayor Escándalo)», 301 mil; el resto, 2,8–10 mil.
+- La Letra Pequeña: «8 TRAMPAS del Precio que Vas a Ver en el Black Friday (la Nº1 es Legal)», 199, 25:21 (nicho casi vacío).
+
+**Ideas**
+1. **Largo — Black Friday: el truco del precio tachado (y 3 trampas con cifras de cesta)**, antes del 27/11.
+2. **Short — «Algo no cuadra en el precio tachado»**, 10–15 s, enlazado al largo.
+3. **Reel/carrusel de Pepa — chollos de comida que caducan antes de usarlos** (carrusel: guardar/compartir; Reel: sin pedir interacción).
+
+**Mejora aplicable:** «Cómo gana dinero X» está saturado (1–507 visitas); usar lista + paréntesis de trampas («la Nº1 es legal»). (`yt_video.py`: 403 desde la nube.)
+
 ## 17/11/2026 (tarde)
 
 **Ejemplos que funcionan (datos públicos, 17/11/2026)**
