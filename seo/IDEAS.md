@@ -2,6 +2,20 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 18/11/2026 (tarde)
+
+**Ejemplos (datos públicos, 18/11/2026)**
+- Rallo: «¿A qué se deben los beneficios récord de Mercadona?», 87.693 en 2 años, 20:09 (los de «cómo gana» recientes: 16–306).
+- Competidor directo: «El Black Friday sube más precios de los que baja (y una captura te salva)», 0 visitas, 1:05, hace 2 d.
+- Base OCU: 89 % de los precios tachados de 2025 no eran reales; referencia legal = precio más bajo de 30 días.
+
+**Ideas**
+1. **Largo — Black Friday: el truco del precio tachado (y 3 trampas con cifras de cesta)**, antes del 27/11.
+2. **Short — «Algo no cuadra en el precio tachado»**, enlazado al largo.
+3. **Carrusel de Pepa — chollos de comida que caducan antes de usarlos** (guardar/compartir).
+
+**Mejora aplicable:** paréntesis con trampa y cifra en el título. (`yt_video.py`: 403 desde la nube.)
+
 ## 18/11/2026 (mañana)
 
 **Ejemplos que funcionan (datos públicos, 18/11/2026)**
