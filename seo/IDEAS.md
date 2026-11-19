@@ -2,6 +2,20 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 19/11/2026 (mañana)
+
+**Ejemplos (datos públicos, 19/11/2026)**
+- Bruno Peluch (6,72 K suscr.): «La Verdadera Historia de TOUS (y Su Mayor Escándalo)», 304 mil; el resto, 2,8–10 mil.
+- Bancolombia/Noticias UNO: «Black Friday: ¿ahorro o trampa para el bolsillo?», 6.009 en 2 d, 1:55.
+- «Cómo gana dinero un supermercado»: 21–214 visitas (saturado).
+
+**Ideas**
+1. **Largo — Black Friday: el truco del precio tachado (y 3 trampas con cifras de cesta)**, antes del 27/11.
+2. **Short — «Algo no cuadra en el precio tachado»**, enlazado al largo.
+3. **Carrusel de Pepa — chollos de comida que caducan antes de usarlos** (guardar/compartir; carruseles = 9× más guardados, Metricool).
+
+**Mejora aplicable:** marca conocida + «escándalo/sistema» en el título (modelo TOUS). (`yt_video.py`: 403 desde la nube.)
+
 ## 18/11/2026 (tarde)
 
 **Ejemplos (datos públicos, 18/11/2026)**
