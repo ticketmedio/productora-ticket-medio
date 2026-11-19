@@ -2,6 +2,20 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 19/11/2026 (tarde)
+
+**Ejemplos (datos públicos, 19/11/2026)**
+- Bruno Peluch (6,72 K suscr.): «La Verdadera Historia de TOUS (y Su Mayor Escándalo)», 305 mil; el resto, 2,8–10 mil.
+- Mercadona Navidad 2026: 6 lotes de regalo desde 7,50 € (canal de novedades): 4.471, 14:37.
+- Bancolombia/Noticias UNO: «Black Friday: ¿ahorro o trampa para el bolsillo?», 6.054 en 2 d.
+
+**Ideas**
+1. **Largo — Black Friday: el truco del precio tachado (y 3 trampas con cifras de cesta)**, antes del 27/11.
+2. **Short — «Algo no cuadra en el precio tachado»**, enlazado al largo.
+3. **Carrusel de Pepa — sobras de Navidad: cuánto aguantan en la nevera** (guardar/compartir).
+
+**Mejora aplicable:** marca conocida + «escándalo/sistema» en el título (modelo TOUS). (`yt_video.py`: 403 desde la nube.)
+
 ## 19/11/2026 (mañana)
 
 **Ejemplos (datos públicos, 19/11/2026)**
