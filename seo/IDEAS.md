@@ -2,6 +2,20 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 20/11/2026 (tarde)
+
+**Ejemplos (datos públicos, 20/11/2026)**
+- Supermercado González: «Para que no te preocupe la cuesta de enero!», 1.163.300, 0:27.
+- Marc Vidal: «Lo que están haciendo los supermercados con tus datos es una locura», 713.633, 19:28.
+- Bruno Peluch (6,73 mil suscr.): TOUS 306 mil; el resto, 2,8–10 mil.
+
+**Ideas**
+1. **Largo — Black Friday: el truco del precio tachado (y 3 trampas con cifras de cesta)**, antes del 27/11.
+2. **Short — «Algo no cuadra en el precio tachado»** (15–27 s, una cifra en los 2 primeros segundos), enlazado al largo.
+3. **Short/carrusel — cuesta de enero con una cifra de cesta** (temporada que ya dispara visualizaciones).
+
+**Mejora aplicable:** Short de 15–27 s con una sola cifra al inicio. (`yt_video.py`: 403 desde la nube.)
+
 ## 20/11/2026 (mañana)
 
 **Ejemplos (datos públicos, 20/11/2026)**
