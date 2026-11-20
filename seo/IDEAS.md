@@ -2,6 +2,20 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 20/11/2026 (mañana)
+
+**Ejemplos (datos públicos, 20/11/2026)**
+- Un loco y su tecnología: «Mis recomendaciones para BLACK FRIDAY 2026», 39.392 en 17 h, 41:34.
+- Bruno Peluch (≈5,7 mil suscr.): «La Verdadera Historia de TOUS (y Su Mayor Escándalo)», 306 mil; Hawkers 18 mil.
+- BBC News Mundo: fundador de Mango, 376.592, 2:12.
+
+**Ideas**
+1. **Largo — Black Friday: el truco del precio tachado (y 3 trampas con cifras de cesta)**, antes del 27/11.
+2. **Short — «Algo no cuadra en el precio tachado»**, enlazado al largo.
+3. **Carrusel de Pepa — sobras de Navidad: cuánto aguantan en la nevera** (guardar/compartir).
+
+**Mejora aplicable:** marca + «sistema/escándalo» y paréntesis con trampa en el título. (`yt_video.py`: 403 desde la nube.)
+
 ## 19/11/2026 (tarde)
 
 **Ejemplos (datos públicos, 19/11/2026)**
