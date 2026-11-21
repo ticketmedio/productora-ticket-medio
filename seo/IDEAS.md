@@ -2,6 +2,20 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 21/11/2026 (mañana)
+
+**Ejemplos (datos públicos, 21/11/2026)**
+- Cristian Plaza: «Así te engañan en el Black Friday (y cómo descubrirlo en 10 segundos)», 9.771 en 1 d, 8:22.
+- VETERINARIO GRATIS: «¿Quién fabrica las marcas blancas de Lidl, Carrefour y Dia?», 169.626 en 1 mes, 12:10.
+- Pilar la del Super: «12 ofertas de Black Friday… (y 5 trampa)», 2.808 en 15 h, 19:47.
+
+**Ideas**
+1. **Largo — Black Friday: el truco del precio tachado (y 3 trampas con cifras de cesta)**, antes del 27/11.
+2. **Short — «Algo no cuadra en el precio tachado»**, enlazado al largo.
+3. **Short/carrusel — quién fabrica las marcas blancas**, enlazado a «¿Quién fabrica Hacendado?».
+
+**Mejora aplicable:** promesa de tiempo en el título («en 10 segundos») y paréntesis con trampa. (`yt_video.py`: 403 desde la nube.)
+
 ## 20/11/2026 (tarde)
 
 **Ejemplos (datos públicos, 20/11/2026)**
