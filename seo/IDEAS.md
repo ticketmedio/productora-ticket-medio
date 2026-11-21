@@ -2,6 +2,20 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 21/11/2026 (tarde)
+
+**Ejemplos (datos públicos, 21/11/2026)**
+- Objetitis: «Así te ENGAÑAN en el Black Friday», 82.514 en 11 d, 14:27.
+- Dinero En Tinta: «Mercadona cobra tu compra hoy y paga al fabricante casi 50 días después», 8.203 en 4 sem., 10:38.
+- FinanTástico: «Oferta o Trampa? 5 Trucos del Black Friday», 19.485.
+
+**Ideas**
+1. **Largo — Black Friday: el truco del precio tachado (y 3 trampas con cifras de cesta)**, antes del 27/11.
+2. **Short — «Algo no cuadra en el precio tachado»**, enlazado al largo.
+3. **Short/carrusel — pagar al proveedor casi 50 días después: el mecanismo del supermercado.**
+
+**Mejora aplicable:** título con trampa y cifra; evitar «cómo gana dinero X» (saturado, 2–275 visitas). (`yt_video.py`: 403 desde la nube.)
+
 ## 21/11/2026 (mañana)
 
 **Ejemplos (datos públicos, 21/11/2026)**
