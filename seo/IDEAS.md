@@ -2,6 +2,20 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 22/11/2026 (mañana)
+
+**Ejemplos (datos públicos, 22/11/2026)**
+- Finanzas para todos: «15 ENGAÑOS DE LOS SUPERMERCADOS», 633.822, 18:11.
+- Mercado Sin Filtro: «ESCÁNDALO en Lidl, Mercadona, ALDI y DIA – los insectos…», 197.917, 15:26.
+- La Blue Kombi: «¿CUÁNTO CUESTA HACER MERCADO en ESPAÑA en 2026?», 78.007.
+
+**Ideas**
+1. **Largo — Black Friday: el truco del precio tachado (y 3 trampas con cifras de cesta)**, antes del 27/11.
+2. **Short — «Algo no cuadra en el precio tachado»**, enlazado al largo.
+3. **Short/carrusel — cuesta de enero con una cifra de cesta.**
+
+**Mejora aplicable:** marca + «escándalo» + cifra en el título; los «engaños del súper» genéricos están saturados. (`yt_video.py`: 403 desde la nube.)
+
 ## 21/11/2026 (tarde)
 
 **Ejemplos (datos públicos, 21/11/2026)**
