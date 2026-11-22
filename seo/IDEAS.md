@@ -2,6 +2,20 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 22/11/2026 (tarde)
+
+**Ejemplos (datos públicos, 22/11/2026)**
+- EstiloExtra: «Amazon Black Friday 10 Compras Tecnológicas que compraría OTRA VEZ», 176.154 en 1 d, 14:59.
+- Supermercado González: «Para que no te preocupe la cuesta de enero!», 1.163.322, 0:27.
+- Alimentos Investigados: «La trampa de los precios tachados en Carrefour y Lidl…», 836, 22:14 (el nicho genérico, saturado).
+
+**Ideas**
+1. **Largo — Black Friday: el truco del precio tachado (y 3 trampas con cifras de cesta)**, antes del 27/11.
+2. **Short — «Algo no cuadra en el precio tachado»**, enlazado al largo.
+3. **Short/carrusel — cuánto sube la cesta navideña (turrones) con una cifra.**
+
+**Mejora aplicable:** marca + paradoja + cifra en el título. (`yt_video.py`: 403 desde la nube.)
+
 ## 22/11/2026 (mañana)
 
 **Ejemplos (datos públicos, 22/11/2026)**
