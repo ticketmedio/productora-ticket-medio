@@ -2,6 +2,20 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 23/11/2026 (mañana)
+
+**Ejemplos (datos públicos, 23/11/2026)**
+- ocutv: «Black Friday 2026: ¿son reales los descuentos? Solo el 35 % bajó de precio», 863 en 13 h, 0:59.
+- Geekdegafas: «¿Es el Black Friday una MENTIRA?», 5.060 en 12 h, 11:53.
+- LO QUE REALMENTE COMPRAS: «La TRAMPA del descuento que casi nadie revisa», 504, 9:12.
+
+**Ideas**
+1. **Largo — Black Friday: el truco del precio tachado (y 3 trampas con cifras de cesta)**, antes del 27/11.
+2. **Short — cifra de descuentos reales en 2 s**, 15–30 s, enlazado al largo.
+3. **Short/carrusel — cesta navideña con una cifra.**
+
+**Mejora aplicable:** una cifra de porcentaje en el título y en los 2 primeros segundos. (`yt_video.py`: 403 desde la nube.)
+
 ## 22/11/2026 (tarde)
 
 **Ejemplos (datos públicos, 22/11/2026)**
