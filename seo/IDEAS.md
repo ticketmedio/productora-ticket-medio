@@ -2,6 +2,20 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 23/11/2026 (tarde)
+
+**Ejemplos (datos públicos, 23/11/2026)**
+- Objetitis: «Así te ENGAÑAN en el Black Friday», 88.478 en 13 d, 14:27.
+- JPaniagua Docs: «La verdad sobre el BLACK FRIDAY: ¿la gran MENTIRA de los DESCUENTOS?», 63.049 en 5 d, 12:37.
+- Datos OCU 2025: solo el 30 % de los productos bajó de precio; precio previo = el menor de 30 días.
+
+**Ideas**
+1. **Largo — Black Friday: el truco del precio tachado (regla de los 30 días + cifra OCU)**, antes del 27/11.
+2. **Short — cifra de descuentos reales en 2 s**, enlazado al largo.
+3. **Short/carrusel — cesta navideña con una cifra.**
+
+**Mejora aplicable:** cifra de porcentaje en título y primeros 2 s. (`yt_video.py`: 403 desde la nube.)
+
 ## 23/11/2026 (mañana)
 
 **Ejemplos (datos públicos, 23/11/2026)**
