@@ -2,6 +2,20 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 24/11/2026 (tarde)
+
+**Ejemplos (datos públicos, 24/11/2026)**
+- Marcas Sin Filtro: «Turrones de Mercadona, Lidl, Aldi, Carrefour, Alcampo y Dia del PEOR al MEJOR…», 3.706 en 1 d, 27:02.
+- Cko Finanzas: «Buscando ofertas de Black Friday», 4.076 en 18 h, 23:34.
+- Bruno Peluch (6,75 mil suscriptores): Zara, 283.000 (canales.csv).
+
+**Ideas**
+1. **Largo/Short — Black Friday: precio tachado y regla de 30 días**, antes del 26/11.
+2. **Short — Hacendado en 15 s con «realmente»**, enlazado al largo.
+3. **Carrusel — comparativa de turrones por cadena con una cifra.**
+
+**Mejora aplicable:** comparativa «del peor al mejor» con cadenas en el título. (`yt_video.py`: 403 desde la nube.)
+
 ## 24/11/2026 (mañana)
 
 **Ejemplos (datos públicos, 24/11/2026)**
