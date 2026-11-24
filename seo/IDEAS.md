@@ -2,6 +2,20 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 24/11/2026 (mañana)
+
+**Ejemplos (datos públicos, 24/11/2026)**
+- El Inspector de Precios: «¿Quién fabrica realmente Hacendado de Mercadona? La verdad te sorprenderá», 158.127 en 1 m, 12:59.
+- Veterinario Gratis: «20 PRODUCTOS HACENDADO ¿QUIÉN LOS FABRICA REALMENTE PARA MERCADONA?», 196.444 en 2 m, 11:03.
+- JPaniagua Docs: «La verdad sobre el BLACK FRIDAY…», 70.875 en 6 d, 12:37.
+
+**Ideas**
+1. **Short — «Hacendado: ¿quién lo fabrica?»** 10–15 s, enlazado a nuestro largo (0 visitas hoy).
+2. **Largo — Black Friday: el truco del precio tachado**, antes del 26/11.
+3. **Carrusel — cesta navideña (marisco/turrones) con una cifra.**
+
+**Mejora aplicable:** título con «realmente» + promesa de sorpresa para el tema Hacendado. (`yt_video.py`: 403 desde la nube.)
+
 ## 23/11/2026 (tarde)
 
 **Ejemplos (datos públicos, 23/11/2026)**
