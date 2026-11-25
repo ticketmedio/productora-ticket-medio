@@ -2,6 +2,20 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 25/11/2026 (mañana)
+
+**Ejemplos (datos públicos, 25/11/2026)**
+- El Inspector de Precios: «¿Quién fabrica realmente Hacendado de Mercadona? La verdad te sorprenderá», 158.147 en 1 m, 12:59 (ya plano: +20 desde ayer); sus otras 3 versiones del mismo tema se quedan en 1.776–41.453.
+- Cesar ARV: «TOUR PANETONES en SUPERMERCADOS METRO - NAVIDAD 2026 / MARCAS, PRECIOS Y OFERTAS», 12.480 en 9 d, 10:37 (público latino).
+- Bruno Peluch (6,75 mil suscriptores): «El Imperio Inmobiliario del Fundador de Zara», 8,4 mil en 2 sem.; «Los ERRORES de FAGOR que lo HUNDIERON», 7,5 mil.
+
+**Ideas**
+1. **Reel de Pepa — «Panetón y turrón: lo que dice la etiqueta»** (alérgenos y conservación una vez abierto), con guiño a Argentina/Paraguay (pan dulce en verano).
+2. **Largo — «Por qué se hundió [marca española]»**: historia de caída con cifras (formato Fagor/Pescanova), con «el sistema que…» en el título.
+3. **Short — Black Friday el día 27: «el precio tachado tiene que ser el más bajo de 30 días»**, 10–15 s, enlazado al largo.
+
+**Mejora aplicable:** no repetir un tema saturado con el mismo título (Hacendado ya tiene 4 copias del mismo título que no pasan de 42 mil): ángulo propio y cifra en el título. (`yt_video.py` funciona hoy, pero sin «momentos más vistos» en estos vídeos.)
+
 ## 24/11/2026 (tarde)
 
 **Ejemplos (datos públicos, 24/11/2026)**
