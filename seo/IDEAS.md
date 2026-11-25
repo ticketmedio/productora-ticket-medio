@@ -2,6 +2,20 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 25/11/2026 (tarde)
+
+**Ejemplos (datos públicos, 25/11/2026)**
+- Un loco y su tecnología: «Mis recomendaciones para BLACK FRIDAY 2026», 187.598 en 6 d, 41:34.
+- santiGO: «BLACK FRIDAY 2026: ¡Las OFERTAS más BRUTALES en TECNOLOGÍA!», 27.910 en 4 d, 13:07.
+- Carlos Castro Fotógrafo: «Las 10 MEJORES OFERTAS del BLACK FRIDAY 2026 en AMAZON», 13.184 en 3 d, 17:42.
+
+**Ideas**
+1. **Short — «El precio tachado debe ser el más bajo de 30 días»**, 10–15 s, enlazado al largo.
+2. **Carrusel — «6 trucos para saber si una oferta es real»** (lista numerada con cifra).
+3. **Reel de Pepa — etiqueta de panetón/turrón** con guiño a Argentina/Paraguay.
+
+**Mejora aplicable:** título de lista con número y cifra en las primeras palabras. (`yt_video.py`: 403 desde la nube.)
+
 ## 25/11/2026 (mañana)
 
 **Ejemplos (datos públicos, 25/11/2026)**
