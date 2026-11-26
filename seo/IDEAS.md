@@ -2,6 +2,20 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 26/11/2026 (tarde)
+
+**Ejemplos (datos públicos, 26/11/2026)**
+- JPaniagua Docs: «La verdad sobre el BLACK FRIDAY: ¿la gran MENTIRA de los DESCUENTOS?», 93.152 en 8 d, 12:37.
+- avances novedades mercadona: «Mercadona Navidad 2026: 7 productos y precios que sorprenden», 12.801 en 2 d, 9:47.
+- Aprendí Caro: «Antes 500, ahora 400: así te engañan en el Black Friday», 0 en 2 h, 5:38 (competencia directa del ángulo del precio tachado).
+
+**Ideas**
+1. **Short — «Antes 500, ahora 400: el precio tachado debe ser el más bajo de 30 días»**, 10–15 s, enlazado al largo, publicar antes del día 27.
+2. **Carrusel — «6 trucos para saber si una oferta es real»**.
+3. **Reel de Pepa — etiqueta de panetón/turrón** con guiño a Argentina/Paraguay, sin pedir interacción.
+
+**Mejora aplicable:** cadena + cifra + sospecha en el título. (`yt_video.py` sin picos en estos vídeos.)
+
 ## 26/11/2026 (mañana)
 
 **Ejemplos (datos públicos, 26/11/2026)**
