@@ -2,6 +2,20 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 26/11/2026 (mañana)
+
+**Ejemplos (datos públicos, 26/11/2026)**
+- Ariana Bolo Arce: «VERSUS DE TURRONES DE SUPERMERCADO 2026», 225.585 en 1 m, 14:18.
+- Topes de Gama: «Las MEJORES OFERTAS de Black Friday en TECNOLOGÍA…», 136.432 en 4 d, 11:30.
+- Detrás de la Etiqueta: «12 Turrones que Conviene EVITAR esta Navidad de 2026 y 4 que sí merecen la pena», 27.230 en 4 sem., 31:15.
+
+**Ideas**
+1. **Short — «El precio tachado tiene que ser el más bajo de 30 días»**, 10–15 s, enlazado al largo, en plena semana de Black Friday.
+2. **Largo/carrusel — «Turrones de supermercado: lo que dice la etiqueta»**, comparativa por cadenas con una cifra.
+3. **Reel de Pepa — etiqueta de turrón/panetón** (alérgenos, conservación) con guiño a Argentina/Paraguay.
+
+**Mejora aplicable:** cadenas concretas + sospecha + cifra en las primeras palabras del título. (`yt_video.py` y canales ajenos: 403 desde la nube.)
+
 ## 25/11/2026 (tarde)
 
 **Ejemplos (datos públicos, 25/11/2026)**
