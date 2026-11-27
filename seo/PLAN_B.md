@@ -25,3 +25,6 @@ Sin estadísticas privadas de Pepa el orden no cambia. Canal de Ticket Medio: 10
 
 ## Revisión 20/11/2026 (viernes, tarde)
 Sin estadísticas privadas de Pepa el orden no cambia. Canal de Ticket Medio: 10 suscriptores; el largo nuevo (Hacendado) en 0 visualizaciones. Opción 1 reforzada: Short de 27 s sobre la cuesta de enero con 1,16 M de visualizaciones.
+
+## Revisión 27/11/2026 (viernes, tarde)
+Sin estadísticas privadas de Pepa el orden no cambia. Canal de Ticket Medio: 10 suscriptores; el largo nuevo («súper más barato») en 0 visualizaciones. Opción 1 sigue primera: patrón «se hundió en 28 días» (470 mil) y Black Friday con hueco en el ángulo del precio tachado.

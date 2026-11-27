@@ -2,6 +2,20 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 27/11/2026 (tarde)
+
+**Ejemplos (datos públicos, 27/11/2026)**
+- FinanTástico: «Oferta o Trampa? 5 Trucos del Black Friday», 30.681 en 3 sem., 3:46.
+- Fin de Emisión: «Donuts: La Huelga Que Hundió a Panrico…», 322.630 en 2 m, 21:26.
+- avances novedades mercadona: «Mercadona Navidad 2026: 7 productos y precios que sorprenden», 17.701 en 3 d, 9:47.
+
+**Ideas**
+1. **Short — «El precio tachado debe ser el más bajo de 30 días»**, 10–15 s, enlazado al largo, hoy (Black Friday); los vídeos de trampa del precio tachado siguen con menos de 150 visualizaciones.
+2. **Carrusel — «6 trucos para saber si una oferta es real»** (guardar/compartir; los carruseles dan 9 veces más guardados según Metricool).
+3. **Largo — «Por qué se hundió [marca española]» con cifra de tiempo en el título.**
+
+**Mejora aplicable:** vídeo corto de 3–4 min con «5 trucos» para el Black Friday: el de FinanTástico (3:46) supera al resto. (`yt_video.py`: sin picos, pocas visitas.)
+
 ## 27/11/2026 (mañana)
 
 **Ejemplos (datos públicos, 27/11/2026)**
