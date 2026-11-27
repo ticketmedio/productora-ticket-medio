@@ -2,6 +2,20 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 27/11/2026 (mañana)
+
+**Ejemplos (datos públicos, 27/11/2026)**
+- Hecho en España y 2 más: «Fagor: El Imperio Que Se Hundió en 28 Días», 470.192 en 2 m, 17:53 (otras versiones del tema: ~1.000).
+- Bruno Peluch (6,77 mil suscriptores): «La Verdadera Historia de TOUS (y Su Mayor Escándalo)», 316 mil.
+- Manu Martel TV: «YA SALIÓ la REVISTA de NAVIDAD MERCADONA 2026», 10.284 en 14 h, 25:30.
+
+**Ideas**
+1. **Short — «El precio tachado debe ser el más bajo de 30 días»**, 10–15 s, enlazado al largo, hoy (Black Friday).
+2. **Largo — «Por qué se hundió [marca española]» con cifra de tiempo en el título** (patrón «28 días»).
+3. **Reel de Pepa — etiqueta de turrón/panetón** con guiño a Argentina/Paraguay, sin pedir interacción.
+
+**Mejora aplicable:** cifra concreta de tiempo o dinero en las primeras palabras del título. (`yt_video.py`: 403 desde la nube.)
+
 ## 26/11/2026 (tarde)
 
 **Ejemplos (datos públicos, 26/11/2026)**
