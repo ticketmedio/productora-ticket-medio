@@ -2,6 +2,20 @@
 
 Las añade la rutina diaria (seo/RUTINA_DIARIA.md, «Vigilancia de ideas»), las más nuevas arriba. Solo datos públicos: se copia lo que funciona (tema, formato, gancho), nunca guiones ni imágenes ajenas.
 
+## 28/11/2026 (mañana)
+
+**Ejemplos (datos públicos, 28/11/2026)**
+- Hecho en España y 2 más: «Fagor: El Imperio Que Se Hundió en 28 Días», 470.401 en 2 m, 17:53.
+- Fin de Emisión: «Donuts: La Huelga Que Hundió a Panrico…», 322.965 en 2 m, 21:26.
+- FinanTástico: «Oferta o Trampa? 5 Trucos del Black Friday», 30.678 en 3 sem., 3:46.
+
+**Ideas**
+1. **Short — «El precio tachado debe ser el más bajo de 30 días»**, 10–15 s, enlazado al largo, hoy (Black Friday; competidor directo con 9 visualizaciones).
+2. **Largo — «Por qué se hundió [marca española] en [N] días»** (patrón Fagor 28 días / Panrico).
+3. **Carrusel — «6 trucos para saber si una oferta es real»**.
+
+**Mejora aplicable:** cifra de tiempo o dinero en las primeras palabras del título. (`yt_video.py`: 403 desde la nube.)
+
 ## 27/11/2026 (tarde)
 
 **Ejemplos (datos públicos, 27/11/2026)**
